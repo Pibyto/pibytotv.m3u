@@ -39,111 +39,52 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd270009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3b2d2ff2-2dae-480a-aeae-f805d255de09&clientModelNumber=na&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&marketingRegion=VE&serverSideAds=true&sessionID=ba5569c8-b5d2-11eb-b95c-0242ac110002&sid=ba5569c8-b5d2-11eb-b95c-0242ac110002&userId=
 #EXTINF:-1, PLUTO-PELEAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3b2d2ff2-2dae-480a-aeae-f805d255de09&clientModelNumber=na&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&marketingRegion=VE&serverSideAds=true&sessionID=fc08c7cf-b772-11eb-923e-0242ac110002&sid=fc08c7cf-b772-11eb-923e-0242ac110002&userId=
-#EXTINF:-1, NATIONAL GEOGRAPHIC
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/kdpyrp6kgiaf2sc.m3u8?s=5wcX8mhjgnnO4Kuy3cPBjA&e=1622314601&ref=kdpyrp6kgiaf2sc
-#EXTINF:-1, ANIMAL PLANET
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/zfwban4sppn0.m3u8?s=8uaVUrhDCzHQzsZQUuvrtw&e=1622314428&ref=zfwban4sppn0
-#EXTINF:-1, ANIMAL PLANET
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/zfwban4sppn0.m3u8?s=_nEwm96bAGAKjdDVl0jfmA&e=1622274583
 #EXTINF:-1, ROKU-NATURALEZA
 https://bamus-spa-roku.amagi.tv:443/playlist1080-p.m3u8
 #EXTINF:-1, AZTECA 7
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/yv4z9a.m3u8?s=mS6ZOtDoSjNvbNXgwsFJDQ&e=1622312710&ref=yv4z9a
-#EXTINF:-1, HISTORY 2
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/ypxvs0nyn.m3u8?s=XN4htZFfGnBVRLgnakRxzw&e=1622314664&ref=ypxvs0nyn
-#EXTINF:-1, HISTORY HD
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/gtj8vdvlab11nc0.m3u8?s=DjahG7SKfkDMwettVKUETQ&e=1622314719&ref=gtj8vdvlab11nc0
-#EXTINF:-1, DISCOVERY
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/8ha8ro.m3u8?s=ZN2VsBPGocbGa9VEmajSMQ&e=1622314752&ref=8ha8ro
-#EXTINF:-1, SPACE HD
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/me4gtt8v3fmket.m3u8?s=qzIoWeMRIOpBUe7dRhSamw&e=1622317205&ref=me4gtt8v3fmket
-#EXTINF:-1, SPACE HD OPCION 2
-#EXTINF:-1, TNT
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/glaldsq.m3u8?s=4xug10P_NOBh0Lf2YkK17w&e=1622313208&ref=glaldsq
-#EXTINF:-1, GOLDEN HD
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/lnxn10nmtnl5.m3u8?s=fRmdIPiMYQfHdzfdG_tHCw&e=1622313361&ref=lnxn10nmtnl5
-#EXTINF:-1, GOLDEN PLUS HD
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/daw8b.m3u8?s=WRmH9gdyrRog7sp3EYXx9g&e=1622317130&ref=daw8b
-#EXTINF:-1, HBO POP
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/rvqh1fziz.m3u8?s=Ix7yKPlEieIad9UU46-_0A&e=1622316214&ref=rvqh1fziz
+https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/yv4z9a.m3u8?s=bR8kOVghQMnVgCmiedjQWw&e=1622427172&ref=yv4z9a
 #EXTINF:-1, HBO
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/lbqtn3.m3u8?s=O6oqjQtXpaROmo8vcIZR4g&e=1622312996&ref=lbqtn3
+https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/lbqtn3.m3u8?s=L4pEY_ntWepzRkDXczJjUA&e=1622426315&ref=lbqtn3
 #EXTINF:-1, HBO 2
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/x5r58d0omlmqph.m3u8?s=Rs9bmFRGokcr16AOBSbzyA&e=1622313060&ref=x5r58d0omlmqph
-#EXTINF:+1, HBO PLUS
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/3dgzjbpy.m3u8?s=hHxF2aak7ZctoY4aRD3Qqg&e=1622324639&ref=3dgzjbpy
-#EXTINF:-1, HBO MUNDI
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/8nviuzdhm5jnu.m3u8?s=kiF_P_ymVFbGeB2kv_gXzg&e=1622316325&ref=8nviuzdhm5jnu
-#EXTINF:-1, CINEMAX
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/ztv7sh.m3u8?s=tF-ZBRVXuBOxXE-4JBEX_Q&e=1622313536&ref=ztv7sh
-#EXTINF:-1, HBO SIGNATURE
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/g05mnm.m3u8?s=MevfprHYzbcaaUZti6UtPA&e=1622315997&ref=g05mnm
+https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/x5r58d0omlmqph.m3u8?s=BOuQDbmJZDtBgl8qCzA21Q&e=1622426345&ref=x5r58d0omlmqph
+#EXTINF:-1, CINEMAX HD
+https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/ztv7sh.m3u8?s=T0q_a8Y-megncpyk6aYT3A&e=1622426389&ref=ztv7sh
+#EXTINF:-1, GOLDEN HD
+https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/lnxn10nmtnl5.m3u8?s=tzAmL6akuHfM9MqZgBlKSA&e=1622426418&ref=lnxn10nmtnl5
 #EXTINF:-1, STAR ACCIÓN
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/4612rwe.m3u8?s=QFlGFGivnL4WsyGwEq_Lxw&e=1622313871&ref=4612rwe
+https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/4612rwe.m3u8?s=c3XKaBSdWJvf8ttV9NRTuA&e=1622426615&ref=4612rwe
 #EXTINF:-1, STAR HITS
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/4dtc368405sw4mo.m3u8?s=pnkIio1sKg_PkvSBz80DwA&e=1622313977&ref=4dtc368405sw4mo
+https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/4dtc368405sw4mo.m3u8?s=ArnEp4EmuZJrgX773VoV8g&e=1622426543&ref=4dtc368405sw4mo
 #EXTINF:-1, STAR CHANNEL
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/0e733j.m3u8?s=2umCwy0Waoff7s7WGxcsqg&e=1622313804&ref=0e733j
+https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/0e733j.m3u8?s=vOR95NXnQCnlekiFsxqkoQ&e=1622426634&ref=0e733j
+#EXTINF:-1, SPACE HD
+https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_720_av-b.m3u8?sd=10&rebase=on&id=AgC6hGfNAhaVDNjvs2DeqgKnbMLtfWH3bF4BKQAHHxM%2f8ssC2XHSZNqeg2se+7UTb%2f5Ck3hBSyzYmg%3d%3d&hdntl=exp=1622426680~acl=%2f*~data=hdntl~hmac=6e19f1df4c8a540c1015c211e5226fa521e6bd02d81b7c81c1777319ffe0e854
+#EXTINF:-1, TNT HD
+https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/glaldsq.m3u8?s=mvUYb3cqbFC5_z6k-puu9Q&e=1622426766&ref=glaldsq
 #EXTINF:-1, PARAMOUNT
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/vwchy5d.m3u8?s=D60ybpwlGAfH4EfLHKRvcg&e=1622313613&ref=vwchy5d
+https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/vwchy5d.m3u8?s=4vccXulV-tXgTOtzTl3MQw&e=1622426926&ref=vwchy5d
 #EXTINF:-1, CINECANAL HD
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/ymv0a1aobkxuf.m3u8?s=stHhlHoMtZRcUbOIGMVbPQ&e=1622313434&ref=ymv0a1aobkxuf
-#EXTINF:-1, CENTRAL COMEDY
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/4qox4.m3u8?s=mFH7qU0UWxX7fCOaXqc3hw&e=1622317613&ref=4qox4
-#EXTINF:-1, TBS
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/zt5tkrst5tw71c.m3u8?s=q1cwdG6Jv2KdhOUnZiE3EQ&e=1622317736&ref=zt5tkrst5tw71c
-#EXTINF:-1, SONY CHANNEL
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/oc2v2i6j.m3u8?s=WVr5GzhD5rG346j780-7OA&e=1622314822&ref=oc2v2i6j
-#EXTINF:-1, WARNER BROS
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/j5uwhfb7w5c.m3u8?s=QDf6UHOJNQkMRJf2RdieKQ&e=1622314873&ref=j5uwhfb7w5c
+https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/ymv0a1aobkxuf.m3u8?s=PLVFKULNZAlOcuVFVb22Qw&e=1622426717&ref=ymv0a1aobkxuf
+#EXTINF:-1, SONY HD
+https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/oc2v2i6j.m3u8?s=dO_Af4k1GkVpCfjLNXngzA&e=1622426814&ref=oc2v2i6j 
 #EXTINF:-1, STUDIO UNIVERSAL
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=-ndnqiPUj3nD5e_x2Ujvww&e=1622314996&ref=rdz85fjy0wuhhv
-#EXTINF:-1, UNIVERSAL TV
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/d77wqro8917ua5z.m3u8?s=EqLcIArlTEaFB9EDWqhHpw&e=1622314918&ref=d77wqro8917ua5z
+https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=OPx8xgFoEPi1RIc4iVMdMg&e=1622426840&ref=rdz85fjy0wuhhv
 #EXTINF:-1, SOL TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w2012863863_b4259840.m3u8?WebM3UCL
-#EXTINF:-1, 5 TELEVISA
-https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/2_.m3u8?token=nceDh20fkpI1pFAaxNsWGw&expires=1622300934
 #EXTINF:-1 BUTACA TV
 https://veranda-butacatv-1-es.samsung.wurl.com:443/manifest/3000.m3u8
-#EXTINF:-1, AMC HD
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/md6vp5fj8yj7l1h.m3u8?s=OvEo0w9-vcMc5_-r5VTeaQ&e=1622316716&ref=md6vp5fj8yj7l1h
 #EXTINF:-1, FM TV 1
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1165738052.m3u8
-#EXTINF:-1, AXN HD
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/l051rl.m3u8?s=cV0Mjb4k9LwLvHHVeyr7IA&e=1622315047&ref=l051rl
 #EXTINF:-1, OASIS TV CHANNEL
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?WebM3UCL
-#EXTINF:-1, A&E HD
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/1md5d55ngm.m3u8?s=FlfBAKzaMPlN1sVtEePwww&e=1622316963&ref=1md5d55ngm
 #EXTINF:-1, FLIXTUBE
 https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w295369596.m3u8
-#EXTINF:-1, HBO FAMILY
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/mfobze65eqg.m3u8?s=Vmtn4tKty01DrS-2qA2Kbg&e=1622313115&ref=mfobze65eqg
-#EXTINF:-1, EXTREMA TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w249371828.m3u8
-#EXTINF:-1, STAR LIFE
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/aa03um3.m3u8?s=E-JNim5G-FYVc7Hy31Alkg&e=1622314365&ref=aa03um3
-#EXTINF:-1, STAR COMEDY
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/pnc0det5nknvqo.m3u8?s=XpqZcKGimQjc1ELc3CdyVg&e=1622314205&ref=pnc0det5nknvqo
-#EXTINF:-1, STAR FUN
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/goks9npik9.m3u8?s=XmSLD_rCMywSQikMCeF7OA&e=1622314153&ref=goks9npik9
-#EXTINF:-1, STAR SERIES
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/in515ybo3y.m3u8?s=O0x4kt23NaVnRVFQdq47Ww&e=1622314048&ref=in515ybo3y
-#EXTINF:-1, FXM
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/jpizlg1osqocv.m3u8?s=tTh4BoVlGDVzDf_CCbk8DQ&e=1622317040&ref=jpizlg1osqocv
-#EXTINF:-1, CARTOON NETWORK
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/1feji.m3u8?s=YQTCqTSI_MZv4mX6oI28_Q&e=1622314289&ref=1feji
 #EXTINF:-1, VIDA TV
 http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
-#EXTINF:-1, GOLDEN EDGE
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/aef8t7z.m3u8?s=JYophnl3Q5vElSK9nlxTww&e=1622317294&ref=aef8t7z
 #EXTINF:-1, DIOS TV
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TELEVIDA
 https://tls.cdnz.cl:443/televida/ngrp:live_all/chunklist_w505523163_b4628000.m3u8?WebM3UCL
-#EXTINF:-1, HBO XTREME
-https://1f3mguoorurpkou6.ezcdn654.net:8443/hls/way71f4yp5a3.m3u8?s=KY5C6G8EmQkAtShSaHpw0Q&e=1622316423&ref=way71f4yp5a3
 #EXTINF:-1, WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?WebM3UCL
 #EXTINF:-1, NEO TV
