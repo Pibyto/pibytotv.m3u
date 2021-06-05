@@ -7,6 +7,8 @@ https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Cadenasuper-cine-tv-en-vivo.jpg" group-title="CINE Y SERIES", FM 3 SUPER CINE
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CINE Y SERIES", AZTECA 7
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
 
 
