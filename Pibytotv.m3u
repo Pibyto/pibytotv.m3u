@@ -824,139 +824,139 @@ https://59ef525c24caa.streamlock.net:443/telesur/telesur/chunklist_w1275720898.m
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 #EXTINF:-1, CHINO LA TV
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8?nimblesessionid=69716585&DVR
-#EXTINF:-1, RAMBO 4
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", RAMBO 4
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e552dc35c1e25001a24f31a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=b222bdcf-b48e-11eb-b9c9-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1,MACHINE GUN PREACHER
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", MACHINE GUN PREACHER
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e7ebe7e53bc0c65d521/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=b222bdcf-b48e-11eb-b9c9-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, TRIPLE AMENAZA
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", TRIPLE AMENAZA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7b873ae4b56900138b7a64/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=b222bdcf-b48e-11eb-b9c9-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, EL EXPRESO DEL MIEDO
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL EXPRESO DEL MIEDO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e6a42ace2fa10001becd16f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=b222bdcf-b48e-11eb-b9c9-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, PELIGRO EN LA MONTAÑA
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", PELIGRO EN LA MONTAÑA
 https://play-akamai.pongalo.com/braven/braven_1-1/play_v3_hls_1080p.m3u8
-#EXTINF:-1, GUERRA DE REBELDES
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", GUERRA DE REBELDES
 https://play-akamai.pongalo.com/rogue-warfare-1/rogue-warfare-1_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1, LUIS PALAU (LA PELÍCULA)
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", LUIS PALAU (LA PELÍCULA)
 https://play-akamai.pongalo.com/palau/palau_1-1/hls_2500.m3u8
-#EXTINF:-1, EL SALVADOR
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL SALVADOR
 https://play-akamai.pongalo.com/the-savior/the-savior_1-1/hls_2500.m3u8
-#EXTINF:-1, DONDE ESTA DIOS?
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", DONDE ESTA DIOS?
 https://play-akamai.pongalo.com/where-is-good/where-is-good_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1, EL SONIDO DEL ESPÍRITU
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL SONIDO DEL ESPÍRITU
 https://play-akamai.pongalo.com/sound-spirit/sound-spirit_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1, CONFECCIONES DE UN HIJO PRODIGO
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", CONFECCIONES DE UN HIJO PRODIGO
 https://play-akamai.pongalo.com/confessions-prodigal-son/confessions-prodigal-son_1-1/hls_2500.m3u8
-#EXTINF:-1, EL VENGADOR
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL VENGADOR
 https://play-akamai.pongalo.com/law-abiding-citizen/law-abiding-citizen_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1, LA CAZADORA
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", LA CAZADORA
 https://play-akamai.pongalo.com/huntress-rune-dead/huntress-rune-dead_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1, CHÓFER EN APUROS
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", CHÓFER EN APUROS
 https://play-akamai.pongalo.com/amateur-night/amateur-night_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1, EL LIMPIA PICINAS
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL LIMPIA PICINAS
 https://play-akamai.pongalo.com/el-limpia-piscinas/el-limpia-piscinas_1-1/hls_2500.m3u8
-#EXTINF:-1, JUEGO DE PATRIOTAS
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", JUEGO DE PATRIOTAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e5d43e94698db001ab20de4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, CIUDAD DE SOMBRAS
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", CIUDAD DE SOMBRAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604a4960b2b870001a05d509/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, LA TRAMPA
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", LA TRAMPA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604f873ee7c979001a8a84ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, CONAN EL BÁRBARO
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", CONAN EL BÁRBARO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e552dc95c1e25001a24f3a0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, CRÍMENES OCULTOS
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", CRÍMENES OCULTOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ed52879af4720001a0217bb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, FUEGO CONTRA FUEGO
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", FUEGO CONTRA FUEGO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e82be7e53bc0c65d59d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, BLITZ
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", BLITZ
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e74be7e53bc0c65d42d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, EL CODIGO DEL MIEDO
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL CODIGO DEL MIEDO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604f874be7c979001a8a85e0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, EL ESPECIALISTA
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL ESPECIALISTA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6018641b00da4e00138bfa4e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, EL REDENTOR
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL REDENTOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5efca13459900d0014d5857e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, UN PRINCIPE DE NEW YORK 2
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", UN PRINCIPE DE NEW YORK 2
 https://xaia.evosrv.com/nvme_caching/wvimCgsJV9nadAhux7xR.mp4
-#EXTINF:-1, STREET
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", STREET
 https://redirector.googlevideo.com/videoplayback?expire=1622257783&ei=F1yxYIjlG8Xt1gK7hKCYDw&ip=185.177.230.53&id=o-ALp5_6L8Ksv7ew1Tft6WrA6PmuT5-xtT8gNhq4bhBMO5&itag=134&aitags=133%2C134%2C160%2C242%2C243%2C278%2C394%2C395%2C396%2C597%2C598&source=youtube&requiressl=yes&mh=aa&mm=31%2C29&mn=sn-a5msenes%2Csn-a5meknzl&ms=au%2Crdu&mv=u&mvi=5&pl=24&vprv=1&mime=video%2Fmp4&ns=TSebm3_6o0zKyYanPuiGtfYF&gir=yes&clen=104544481&dur=4864.275&lmt=1620955011162762&mt=1622235834&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=MWEB&txp=5532434&n=-U008gr4inmcWe8C&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgFEzLhYif7wo_-vvPHufTyicEu8a2PBLI7eaXgt9PYrkCIQD2jq-wB_KaSy0n_Nh0TUAStBvBsQA14kstvZ68k6eKZA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRgIhALbjxpCMfeaMSCuJoprpgGdG7ZwTqd5XA84YogJ_0r6TAiEAi4lin1IcCEUWmJkooWWXi7oPiJp3YRWmip8kXtQduBM%3D&ratebypass=yes&utmg=ytap1_diyGr4DmBkE
-#EXTINF:-1, EL VALLE DE LA LUCHA
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL VALLE DE LA LUCHA
 https://prod.pongalo.com/play.m3u8?access-key=7977e0e7932be352844d886f8c30c21279789500
-#EXTINF:-1, MISIÓN SECRETA
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", MISIÓN SECRETA
 https://play-akamai.pongalo.com/the-double/the-double_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1, ARAÑAS ASESINAS
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", ARAÑAS ASESINAS
 https://prod.pongalo.com/play.m3u8?access-key=55958921be00f9bf6dc51e43ce0dedd270333cab
-#EXTINF:-1, FUERZAS ESPECIALES
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", FUERZAS ESPECIALES
 https://content-asae1-up-2.uplynk.com/edf82040054d4c16947a3071051b1406/e.m3u8
-#EXTINF:-1, LA FRANCOTIRADORA
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", LA FRANCOTIRADORA
 https://content-asae1-up-2.uplynk.com/3f07d535dfb74f4d87d8ed7231d6c1e9/e.m3u8
-#EXTINF:-1, NUESTRO HERMANO IDIOTA
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", NUESTRO HERMANO IDIOTA
 https://content-asae1-up-1.uplynk.com/64ed971ded354f588dbec52e01caa195/e.m3u8
-#EXTINF:-1, LA TUMBA DEL DIABLO
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", LA TUMBA DEL DIABLO
 https://content-asae1-up-2.uplynk.com/5d7d9ab2473640d08b149e05f59c55ca/e.m3u8
-#EXTINF:-1, LOTOMAN 003
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", LOTOMAN 003
 https://content-asae1-up-2.uplynk.com/d076158c73314cd79a51f68e15dc600a/e.m3u8
-#EXTINF:-1, JUSTICIA LETAL
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", JUSTICIA LETAL
 https://prod.pongalo.com/play.m3u8?access-key=3fe104ce392c409a2f2136628144cc88f2aba857
 #EXTINF:-1, Los mercenarios
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b91e0b2b870001a05ef6f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=640abbc8-bcc6-11eb-a4a5-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, Marcado por la muerte
-#EXTINF:-1, LA BODA DE JENNY
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Marcado por la muerte
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", LA BODA DE JENNY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e6a42c9e2fa10001becd458/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=3eddefe8-bcca-11eb-859f-0242ac110002&userId=&serverSideAds=true
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b91f3b2b870001a05f14f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=07b30252-bcc8-11eb-a7d6-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, UN CRIMEN INESPERADO
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", UN CRIMEN INESPERADO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b91edb2b870001a05f09d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=07b30252-bcc8-11eb-a7d6-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, UN DIA PARA SOBREVIVIR
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", UN DIA PARA SOBREVIVIR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b91e2b2b870001a05efa9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=07b30252-bcc8-11eb-a7d6-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, EL CANTANTE
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL CANTANTE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b91efb2b870001a05f0d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=038427b0-bcc9-11eb-843c-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, Pompeya
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", POMPEYA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f039302977198001a1b2b7b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=038427b0-bcc9-11eb-843c-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, 10.5 APOCALIPSIS
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", 10.5 APOCALIPSIS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa45f496492fa001d027619/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=038427b0-bcc9-11eb-843c-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, STREET DANCE2
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", STREET DANCE2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fb7bb8e5eb0df001b14564c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=3eddefe8-bcca-11eb-859f-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, Mi Nombre es Jhon Lennon
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Mi Nombre es Jhon Lennon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7b86ace4b56900138b71e0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=3eddefe8-bcca-11eb-859f-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, ATORMENTADO X EL PASADO
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", ATORMENTADO X EL PASADO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e0e6035a6cb7ab30058992d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=3eddefe8-bcca-11eb-859f-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, 1911
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", 1911
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3fd87aad190c001a52e3c8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=3eddefe8-bcca-11eb-859f-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, POR ORGULLO
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", POR ORGULLO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fc918182fd74a0014cd910e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=3eddefe8-bcca-11eb-859f-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, VIVEN
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", VIVEN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e6bd4d43eca94001a5949ab/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=3eddefe8-bcca-11eb-859f-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1, NOCHES DE REVENTON
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", NOCHES DE REVENTON
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e9f001157d2e0001a099a81/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=3eddefe8-bcca-11eb-859f-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1,CHUCKY 1
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS",CHUCKY 1
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
-#EXTINF:-1,CHUCKY 2
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", CHUCKY 2
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
-#EXTINF:-1,CHUCKY 3
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", CHUCKY 3
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
-#EXTINF:-1,LA NOVIA DE CHUCKY
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", LA NOVIA DE CHUCKY
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
-#EXTINF:-1,La Fuerza De La Ilusion
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", La Fuerza De La Ilusion
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
-#EXTINF:-1,Cuando nos Conocimos
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Cuando nos Conocimos
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-#EXTINF:-1,The Cloverfield Paradox
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", The Cloverfield Paradox
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
-#EXTINF:-1,Terminus
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Terminus
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
-#EXTINF:-1,Deadpool
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Deadpool
 https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
-#EXTINF:-1,Intensamente | ACHOAPPS.com
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Intensamente | ACHOAPPS.com
 https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
-#EXTINF:-1,JIGSAW VIII | ACHOAPPS.com
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS",JIGSAW VIII | ACHOAPPS.com
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
-#EXTINF:-1,Redada Asesina | ACHOAPPS.com
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Redada Asesina | ACHOAPPS.com
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
-#EXTINF:-1,SAHARA (2017)
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", SAHARA (2017)
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
-#EXTINF:-1,LA MINA (2017)
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", LA MINA (2017)
 https://archive.org/download/24052017Aqc789423784723984/24052017_aqc.mkv?Pelixmax1.mkv
-#EXTINF:-1,PelixMax 1: Castillo de Arena (2017)
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", PelixMax 1: Castillo de Arena (2017)
 https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv?Pelixmax1.mkv
-#EXTINF:-1,Sandy Wexler HD(2017) (Dual Audio)
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Sandy Wexler HD(2017) (Dual Audio)
 https://ia801603.us.archive.org/20/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv?Pelixmax1.mkv
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Tarzan (2013) (2)
 https://onedrive.live.com/download.aspx?resid=83233C94E1E9D14B!334&authkey=!AH2r-0cLqrTJFSg
