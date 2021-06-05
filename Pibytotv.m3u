@@ -40,35 +40,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007
 #EXTINF:-1, PLUTO-PELEAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3b2d2ff2-2dae-480a-aeae-f805d255de09&clientModelNumber=na&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&marketingRegion=VE&serverSideAds=true&sessionID=fc08c7cf-b772-11eb-923e-0242ac110002&sid=fc08c7cf-b772-11eb-923e-0242ac110002&userId=
 #EXTINF:-1, ROKU-NATURALEZA
-https://bamus-spa-roku.amagi.tv:443/playlist1080-p.m3u8
-#EXTINF:-1, AZTECA 7
-https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/yv4z9a.m3u8?s=bR8kOVghQMnVgCmiedjQWw&e=1622427172&ref=yv4z9a
-#EXTINF:-1, HBO
-https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/lbqtn3.m3u8?s=L4pEY_ntWepzRkDXczJjUA&e=1622426315&ref=lbqtn3
-#EXTINF:-1, HBO 2
-https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/x5r58d0omlmqph.m3u8?s=BOuQDbmJZDtBgl8qCzA21Q&e=1622426345&ref=x5r58d0omlmqph
-#EXTINF:-1, CINEMAX HD
-https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/ztv7sh.m3u8?s=T0q_a8Y-megncpyk6aYT3A&e=1622426389&ref=ztv7sh
-#EXTINF:-1, GOLDEN HD
-https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/lnxn10nmtnl5.m3u8?s=tzAmL6akuHfM9MqZgBlKSA&e=1622426418&ref=lnxn10nmtnl5
-#EXTINF:-1, STAR ACCIÓN
-https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/4612rwe.m3u8?s=c3XKaBSdWJvf8ttV9NRTuA&e=1622426615&ref=4612rwe
-#EXTINF:-1, STAR HITS
-https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/4dtc368405sw4mo.m3u8?s=ArnEp4EmuZJrgX773VoV8g&e=1622426543&ref=4dtc368405sw4mo
-#EXTINF:-1, STAR CHANNEL
-https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/0e733j.m3u8?s=vOR95NXnQCnlekiFsxqkoQ&e=1622426634&ref=0e733j
-#EXTINF:-1, SPACE HD
-https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_720_av-b.m3u8?sd=10&rebase=on&id=AgC6hGfNAhaVDNjvs2DeqgKnbMLtfWH3bF4BKQAHHxM%2f8ssC2XHSZNqeg2se+7UTb%2f5Ck3hBSyzYmg%3d%3d&hdntl=exp=1622426680~acl=%2f*~data=hdntl~hmac=6e19f1df4c8a540c1015c211e5226fa521e6bd02d81b7c81c1777319ffe0e854
-#EXTINF:-1, TNT HD
-https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/glaldsq.m3u8?s=mvUYb3cqbFC5_z6k-puu9Q&e=1622426766&ref=glaldsq
-#EXTINF:-1, PARAMOUNT
-https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/vwchy5d.m3u8?s=4vccXulV-tXgTOtzTl3MQw&e=1622426926&ref=vwchy5d
-#EXTINF:-1, CINECANAL HD
-https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/ymv0a1aobkxuf.m3u8?s=PLVFKULNZAlOcuVFVb22Qw&e=1622426717&ref=ymv0a1aobkxuf
-#EXTINF:-1, SONY HD
-https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/oc2v2i6j.m3u8?s=dO_Af4k1GkVpCfjLNXngzA&e=1622426814&ref=oc2v2i6j 
-#EXTINF:-1, STUDIO UNIVERSAL
-https://7ey4g9rql765y0p7.uzcdn193.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=OPx8xgFoEPi1RIc4iVMdMg&e=1622426840&ref=rdz85fjy0wuhhv
+https://bamus-spa-roku.amagi.tv:443/playlist1080-p.m3u8rdz85fjy0wuhhv.m3u8?s=OPx8xgFoEPi1RIc4iVMdMg&e=1622426840&ref=rdz85fjy0wuhhv
 #EXTINF:-1, SOL TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w2012863863_b4259840.m3u8?WebM3UCL
 #EXTINF:-1 BUTACA TV
