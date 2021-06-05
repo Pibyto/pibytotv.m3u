@@ -896,7 +896,7 @@ https://content-asae1-up-2.uplynk.com/5d7d9ab2473640d08b149e05f59c55ca/e.m3u8
 https://content-asae1-up-2.uplynk.com/d076158c73314cd79a51f68e15dc600a/e.m3u8
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", JUSTICIA LETAL
 https://prod.pongalo.com/play.m3u8?access-key=3fe104ce392c409a2f2136628144cc88f2aba857
-#EXTINF:-1, Los mercenarios
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", LOS MERCENARIOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b91e0b2b870001a05ef6f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=640abbc8-bcc6-11eb-a4a5-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", Marcado por la muerte
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", LA BODA DE JENNY
