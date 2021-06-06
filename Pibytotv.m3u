@@ -526,8 +526,6 @@ https://appletree-mytime-samsungmexico.amagi.tv:443/playlist1080_p.m3u8
 
 
 
-#EXTINF:-1, CENTRAL TV PERÙ
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1067081946.m3u8?WebM3UCL
 
 #EXTINF:-1, PAT BOLIVIA (LA PAZ)
 http://192.99.38.174:1935/patbolivia/patlapaz/chunklist_w829041430.m3u8
@@ -545,10 +543,6 @@ https://cloudflare.streamgato.us:3355/live/nexxotvlive.m3u8?DVR
 https://ss6.domint.net:3060/tvm_str/montanatv/chunklist_w478029653.m3u8
 
 
-#EXTINF:-1, GEOVISION
-https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?WebM3UCL
-#EXTINF:-1, READY TV
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?WebM3UCL
 
 #EXTINF:-1, TV ORIENTAL DIGITAL
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?WebM3UCL
@@ -559,37 +553,40 @@ https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8?WebM3UCL
 #EXTINF:-1, 29 QUILMES
 https://inliveserver.com:1936/8386/8386/playlist.m3u8
 
-#EXTINF:-1, CNR TV
-https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
-
 #EXTINF:-1, CINE CABLE TV
 https://cp.sradiotv.com:1936/quevedo/quevedo/chunklist_w846500439.m3u8
+
 #EXTINF:-1, CN3 PINAMAR
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
+
 #EXTINF:-1, GENTV
 https://videohd.live:19360/8010/8010.m3u8
+
 #EXTINF:-1, CORRIENTES TV
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+
 #EXTINF:-1, 5 HD ALCORTA
 https://stmv1.srvif.com/radiosur/radiosur/playlist.m3u8
+
 #EXTINF:-1, CHI CAS
 https://amc-maschic-1.plex.wurl.com:443/manifest/playlist_1920x1080_4200k.m3u8
+
 #EXTINF:-1, TELEMUNDO NOVELAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=0114&deviceDNT=0&deviceModel=0
+
 #EXTINF:-1, SONY-NOVELAS
 https://sony-novelas-1.roku.wurl.com:443/playlist_1280x720_3000k.m3u8
+
 #EXTINF:-1, SONY- CLON
 https://5d79ae45bc63b.streamlock.net:443/8256/8256/chunklist_w12029778.m3u8
+
 #EXTINF:-1, CINE REAL
 https://cinereal-plex.amagi.tv:443/CineReal/master_6.m3u8
+
 #EXTINF:-1, ACV MOVIE
 https://rtmp02.portalexpress.es:443/acvisionazogues/acvisionazogues/chunklist_w923629712.m3u8?WebM3UCL
 #EXTINF:-1, TV CENTRO +
 https://cloud2.streaminglivehd.com:1936/8004/8004/chunklist_w652151765.m3u8
-#EXTINF:-1, TV SUR VISION
-http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1393607619.m3u8?WebM3UCL
-#EXTINF:-1, TOP CINE
-https://olympusamagi.pc.cdn.bitgravity.com:443/TopCine-roku/master_6.m3u8
 
 
 
@@ -599,18 +596,6 @@ https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?WebM3UCL
 
 #EXTINF:-1, TELEFUTURO
 http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8?WebM3UCL
-
-#EXTINF:-1, CANAL 5 LIDER
-https://bcovlive-a.akamaihd.net:443/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_0/chunklist.m3u8
-
-#EXTINF:-1, TVN PANAMA
-https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
-
-#EXTINF:-1, TVN CHILE
-https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1, AME47
-https://ss6.domint.net:3028/ame_str/amecanal47/chunklist_w1801978653.m3u8
 
 #EXTINF:-1, TELEMAX MÉXICO
 https://6011c5681d877.streamlock.net:1936/telemax/telemax/chunklist_w1661183795.m3u8
@@ -651,7 +636,7 @@ https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
 #EXTINF:-1, UUP TV
 https://bo-bolivision-santacruz-live.ned.media/bolivision/santacruz.smil/.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyNzc1MTU5LCJzZXNzaW9uIjoiMTg2LjEzMi45MC4xMjAiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEzMi45MC4xMjAiXX0sInNpZ25hdHVyZSI6IjNhMjdkMjM0NjFlNzFhMWVhMTU5YTk3Mjc3YjQ5YTQ3NTljOTk4MjgifQ==
 
-#EXTINF:-1, P
+#EXTINF:-1, PANAMERICANA
 https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFtbJRHk-1lAoJ5qO-dkYQK0)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 
@@ -661,85 +646,120 @@ https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFtbJRHk-1lAoJ5qO-d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO 1", RADIO MITRE
 https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_540p.m3u8
 
-#EXTINF:-1, TU CINE
-https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
-#EXTINF:-1, TELE FAMILIA
-https://cloud2.streaminglivehd.com:1936/8116/8116/chunklist_w292255099.m3u8?WebM3UCL
 #EXTINF:-1, QUINTANA TV
 https://livefocamundo.com:8081/quintatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, CANAL VISION DORADA
-#EXTINF:-1, ZEE MUNDO
-https://f8e7y4c6.ssl.hwcdn.net:443/mundohd/tracks-v1a1/mono.m3u8
-#EXTINF:-1, LATINOS UP TV
-https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1196091380.m3u8?WebM3UCL
+
+
 #EXTINF:-1, C21
 https://tls.cdnz.cl:443/canal21tv/live/chunklist_w1092422111.m3u8?WebM3UCL
 #EXTINF:-1, TELE 2 WEB
 https://inliveserver.com:1936/11516/11516/chunklist_w2100780946.m3u8?WebM3UCL
+
 #EXTINF:-1, TV QUINTA REGION
 https://srv1.zcast.com.br/daniel2525/daniel2525/chunklist_w923143172.m3u8?WebM3UCL
 #EXTINF:-1, LTV CHANNEL
 https://medios.sirtel.cl/live/stream/index.m3u8?WebM3UCL
+
 #EXTINF:-1, FOROVISION
 https://5790d294af2dc.streamlock.net:443/8100/8100/chunklist_w1747006385.m3u8?WebM3UCL
+
 #EXTINF:-1, TELENOVISA
 http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w1240452349.m3u8
+
 #EXTINF:-1, ECUAVISION
 https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
+
 #EXTINF:-1, VISION 3000
 https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1268363411.m3u8
+
 #EXTINF:-1, EL CHAVO 24/7
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/chunklist_w1675426815.m3u8?WebM3UCL
+
 #EXTINF:-1, CS TV
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8?WebM3UCL
 #EXTINF:-1, TV COTUI HD
 https://vdo2.streamgato.us:3095/live/tvcotuilive.m3u8?WebM3UCL
-#EXTINF:-1, ABARDON TV
-https://59537faa0729a.streamlock.net/albardontv/albardontv/chunklist_w1822962720.m3u8
-#EXTINF:-1, RETRO PLUS TV 3
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?WebM3UCL
+
+
+
+
 #EXTINF:-1, AMÉRICA TV
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/acc214f6-b1d8-47e1-8fcd-d56ce2f05572:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
+
+
 #EXTINF:-1, AMÉRICA TV TUCUMÁN
 http://45.6.4.154/americatuc/vivo.m3u8?WebM3UCL
-#EXTINF:-1, SAN LUIS TV
-https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1773350650_b1427456.m3u8
+
+
+
+
 #EXTINF:-1, TELECREATIVA
 https://panel.dattalive.com:443/8012/8012/chunklist_w1200568792.m3u
+
+
 #EXTINF:-1, TELEVIDA MENDOZA
 https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w1179238419.m3u8
+
+
 #EXTINF:-1, MULTIVISION SALTA
 https://panel.dattalive.com:443/8250/8250/chunklist_w710743965.m3u8
+
+
 #EXTINF:-1, CANAL 34
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
+
+
 #EXTINF:-1, EL TRES CÓRDOBA
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+
+
 #EXTINF:-1, EL CUATRO JUJUY
 https://5cd577a3dd8ec.streamlock.net:443/canal4/manifest.smil/chunklist_w213337385_b316000.m3u8
+
+
 #EXTINF:-1, TDC SANTA FE
 https://5e7cdf2370883.streamlock.net:443/tdconline/tdconline/chunklist_w31676561.m3u8
+
+
 #EXTINF:-1, CANAL 4 SAN JUAN
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?WebM3UCL
+
+
 #EXTINF:-1, EL NUEVE
 https://ar-elnueve-elnueve-live.ned.media:443/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyMzIwNzYzLCJzZXNzaW9uIjoiMTg2LjEzMi44Mi4xMTAiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEzMi44Mi4xMTAiXX0sInNpZ25hdHVyZSI6IjI3NTg3NGEwNmJhYzRhMGMxMDhjMzI1ZjBlMTViOWMxMzI4OGU3YTIifQ%3D%3D
+
+
 #EXTINF:-1, TELEFE SALTA
 https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1621687478~exp=1621863878~acl=/i/canal11salta_1@722934/*~hmac=885de12cbb2976561188283fb36cbc47e2b798678b0eebb05896f51376fad8eb
+
+
 #EXTINF:-1, TELEFE
 https://telefe.com:443/Api/Videos/GetSourceUrl/694564/0/HLS
+
+
 #EXTINF:-1, EL TRECE HD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1, CANAL 26
 https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w1160533653_b2628000_sleng.m3u8
-#EXTINF:-1, TN TODO NEGATIVO😂
-https://r11---sn-uxax4vopj55gb-x1xl.googlevideo.com/videoplayback?expire=1622256091&ei=e1WxYJaAHJKD-LAPiYuC6A8&ip=186.132.82.110&id=wHn1_QVoXGM.3&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&hcs=sd%2Csd&mh=rv&mm=44%2C29&mn=sn-uxax4vopj55gb-x1xl%2Csn-x1x7zne7&ms=lva%2Crdu&mv=m&mvi=11&pl=23&rmhost=r10---sn-uxax4vopj55gb-x1xl.googlevideo.com%2C&shardbypass=yes&smhost=r10---sn-uxax4vopj55gb-x1xe.googlevideo.com%2Cr4---sn-x1x7zn7s.googlevideo.com&initcwndbps=780000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=i0N0kjZK1aINPaNtyPhfKQwF&gir=yes&mt=1622234185&fvip=4&keepalive=yes&fexp=24001373%2C24007246&beids=23886219&c=MWEB&n=LIPqsj1loGhPsg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgV-e6irH-tUBD0g3kz1aEbu9u82w7Q2tdE4MFdaijpIACIQDbTFa2cs4Q-qFPL4b8McxYhA3J5r0Uenrxukm1-svDPg%3D%3D&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crmhost%2Cshardbypass%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRQIgOx7HQcTyvI_h7RbtbCcpLNXcxmE8YVf9FhxIVnDf3DYCIQChgd1q-zssI9UuDHGKTLqhpLiXL_BzWNHiCdB5aIud0g%3D%3D&alr=yes&cpn=g0BOvc3l6MG_LLzT&cver=2.20210526.03.00&sq=3573935&rn=18&rbuf=23951
+
+
+
 #EXTINF:-1, NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1, IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+
 #EXTINF:-1 CANAL 9
 https://panel.dattalive.com/8076/8076/chunklist_w1561509140.m3u8
+
+
 #EXTINF:-1, TELE JUNIN
 https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/chunklist_w955456298.m3u8
+
+
 #EXTINF:-1, VALLEVISION
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1, BELLAVISION
@@ -750,20 +770,16 @@ https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99
 .m3u8
 #EXTINF:-1, ENFOQUE DIGITAL TV
 https://stmv1.zcastbr.com:443/edtvchile/edtvchile/chunklist_w875429006.m3u8?WebM3UCL
-#EXTINF:-1, TV MONTAÑA
-https://ss6.domint.net:3060/tvm_str/montanatv/chunklist_w478029653.m3u8
+
+
+
 #EXTINF:-1, CINE AR
 https://5fb24b460df87.streamlock.net:443/live-cont.ar/cinear/chunklist_w525043877.m3u8
-#EXTINF:-1, ORBIT TV HD
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w497042778.m3u8?WebM3UCL
+
+
 
 #EXTINF:-1,MVS TV
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
-
-#EXTINF:-1, HORRORFY
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_5.m3u8
-#EXTINF:-1, PRESENCIA TELEVISION
-https://sm.redconnections.net:1936/presenciatv/presenciatv/chunklist_w2021467136.m3u8?WebM3UCL
 
 
 #EXTINF:-1, TVR CANAL
