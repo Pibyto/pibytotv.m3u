@@ -11,6 +11,9 @@ https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w15
 #EXTINF:-1, SANAGASTA 2
 https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
+#EXTINF:-1, CNR TV
+https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="CINE Y SERIES", CINCO TV TIGRE  30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
@@ -174,6 +177,17 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115395_AC_Vision.png" group-title="CINE Y SERIES", ACV
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
+
+#EXTINF:-1, PLUS TV 3
+https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/chunklist_w1717905372.m3u8
+
+#EXTINF:-1, PLUS TV 6
+http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w1999953060.m3u8
+
+
+#EXTINF:-1, MICROVISION 10
+https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w955317782.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE Y SERIES", MY TIME MOVIES 1
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
@@ -508,20 +522,13 @@ https://video.misistemareseller.com:443/Jonnytv/Jonnytv/chunklist_w664320917.m3u
 https://runtimemx-samsungmx.amagi.tv:443/playlist720p.m3u8
 #EXTINF:-1, MY TIME MOVIE NETWORK
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist1080_p.m3u8
-#EXTINF:-1, RCN PARAGUAY
-https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
 
 
-#EXTINF:-1, TV MOULE SUR
-https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
 
-#EXTINF:-1, ZPTV
-https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?WebM3UCL
-#EXTINF:-1, BH TV 
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w1964939915.m3u8?WebM3UCL
 
 #EXTINF:-1, CENTRAL TV PERÙ
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1067081946.m3u8?WebM3UCL
+
 #EXTINF:-1, PAT BOLIVIA (LA PAZ)
 http://192.99.38.174:1935/patbolivia/patlapaz/chunklist_w829041430.m3u8
 
@@ -530,34 +537,31 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w805251654.m3u8
 
 #EXTINF:-1, GLOBAL TV
 https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?WebM3UCL
+
 #EXTINF:-1, NEXXO TV
 https://cloudflare.streamgato.us:3355/live/nexxotvlive.m3u8?DVR
+
 #EXTINF:-1, TV MONTAÑA
 https://ss6.domint.net:3060/tvm_str/montanatv/chunklist_w478029653.m3u8
-#EXTINF:-1, PLUS TV 3
-https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/chunklist_w1717905372.m3u8
-#EXTINF:-1, PLUS TV 6
-http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w1999953060.m3u8
-#EXTINF:-1, 5 TIGRE
-https://59537faa0729a.streamlock.net:443/cincotv/cincotv/chunklist_w1520111916.m3u8
-#EXTINF:-1, RTV CABLE JUJUY
-https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8?WebM3UCL
-#EXTINF:-1, SPEED TV
-http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
-#EXTINF:-1, MICROVISION 10
-https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w955317782.m3u8
+
+
 #EXTINF:-1, GEOVISION
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8?WebM3UCL
 #EXTINF:-1, READY TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8?WebM3UCL
+
 #EXTINF:-1, TV ORIENTAL DIGITAL
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?WebM3UCL
+
 #EXTINF:-1, TELECARIBE
 https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8?WebM3UCL
+
 #EXTINF:-1, 29 QUILMES
 https://inliveserver.com:1936/8386/8386/playlist.m3u8
+
 #EXTINF:-1, CNR TV
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+
 #EXTINF:-1, CINE CABLE TV
 https://cp.sradiotv.com:1936/quevedo/quevedo/chunklist_w846500439.m3u8
 #EXTINF:-1, CN3 PINAMAR
