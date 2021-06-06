@@ -347,6 +347,21 @@ https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w1834094351.m3u8?k=1e1b76
 #EXTINF:-1, CABLEMAS PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/chunklist_w414259493.m3u8?WebM3UCL
 
+#EXTINF:-1, MAXTV ONLINE
+https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/chunklist_w279047731_b2108000_sleng.m3u8?WebM3UCL
+
+#EXTINF:-1, TVMAX
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1, CANAL 8 HD CL
+https://5eae379fb77bb.streamlock.net:443/rauleduardo493/rauleduardo493/chunklist_w1253833959.m3u8
+
+#EXTINF:-1, RTS
+https://vps-c97214f4.vps.ovh.net/hls/ectv2.m3u8
+
+#EXTINF:-1, Unicanal
+http://45.55.127.106/live/unicanal.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png" group-title="CINE Y SERIES", WOW
