@@ -127,6 +127,10 @@ https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3
 http://162.244.80.176:8081/abr/stream/playlist.m3u8
 
 
+#EXTINF:-1, PARAVISION
+http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?WebM3UCL
+?k=1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1&exp=1620012761
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E4ZhmiDMypI/XzxnbBAnLcI/AAAAAAAA4oQ/ZAvYXo5pj0QDb-wMX0XmFWJmEnPKg-jbACK8BGAsYHg/s0/2020-08-18.png" group-title="CINE Y SERIES", LATINOS UP
@@ -358,6 +362,13 @@ https://ss5.domint.net:3036/ctv_str/cascaratv/playlist.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 
 
+#EXTINF:-1, TVN PANAMA
+https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1, TVN CHILE
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?WebM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png" group-title="CINE Y SERIES", TV MAS
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
@@ -534,6 +545,7 @@ https://appletree-mytime-samsungmexico.amagi.tv:443/playlist1080_p.m3u8
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
 #EXTINF:-1, TV MOULE SUR
 https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
+
 #EXTINF:-1, ZPTV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?WebM3UCL
 #EXTINF:-1, BH TV 
@@ -607,28 +619,10 @@ http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w139360761
 https://olympusamagi.pc.cdn.bitgravity.com:443/TopCine-roku/master_6.m3u8
 
 
-#EXTINF:-1, RCN PARAGUAY 
-https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
-
-
-#EXTINF:-1, SOMOS DL ESTE PARAGUAY
-https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
-
-
-#EXTINF:-1, PARAVISION
-http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?WebM3UCL
-
 
 #EXTINF:-1, LIM TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?WebM3UCL
 
-
-#EXTINF:-1, MI TV PARAGUAY
-https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w1834094351.m3u8?k=1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1&exp=1620012761
-
-
-#EXTINF:-1, CABLEMAS PARAGUAY
-https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/chunklist_w414259493.m3u8?WebM3UCL
 
 #EXTINF:-1, TELEFUTURO
 http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8?WebM3UCL
