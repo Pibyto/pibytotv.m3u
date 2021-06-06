@@ -338,6 +338,15 @@ https://ss2.domint.net:3220/cana_str/canangatv/playlist.m3u8
 #EXTINF:-1, SOMOS DL ESTE PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
+#EXTINF:-1, PARAVISION
+http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?WebM3UCL
+
+#EXTINF:-1, MI TV PARAGUAY
+https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w1834094351.m3u8?k=1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1&exp=1620012761
+
+#EXTINF:-1, CABLEMAS PARAGUAY
+https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/chunklist_w414259493.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png" group-title="CINE Y SERIES", WOW
