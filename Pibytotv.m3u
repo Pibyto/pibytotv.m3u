@@ -605,6 +605,41 @@ https://secure-video.tcsgo.com/tcshd/index.m3u8
 
 #EXTINF:-1, ANTARES TV PER脵
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1847102702.m3u8?WebM3UCL
+
+#EXTINF:-1, TELEPACIFICO
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/master.m3u8
+
+#EXTINF:-1, LA TELE PY
+https://edge3-hr.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4.m3u8
+
+#EXTINF:-1, TELE
+https://edge3-hr.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
+
+#EXTINF:-1, TELEAMAZONAS
+https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
+
+#EXTINF:-1, TRECE PY
+https://stream.rpc.com.py/live/trece.m3u8
+
+#EXTINF:-1, COLOR VISIÓN 9
+https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY9ayE8YjG3_BdUgHuRUXpaE)/dm/3/x7gy059/d/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTINF:-1, MEGA TV
+https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, UUP TV
+https://bo-bolivision-santacruz-live.ned.media/bolivision/santacruz.smil/.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyNzc1MTU5LCJzZXNzaW9uIjoiMTg2LjEzMi45MC4xMjAiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEzMi45MC4xMjAiXX0sInNpZ25hdHVyZSI6IjNhMjdkMjM0NjFlNzFhMWVhMTU5YTk3Mjc3YjQ5YTQ3NTljOTk4MjgifQ==
+
+#EXTINF:-1, P
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFtbJRHk-1lAoJ5qO-dkYQK0)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO 1", RADIO MITRE
+https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_540p.m3u8
+
 #EXTINF:-1, TU CINE
 https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
 #EXTINF:-1, TELE FAMILIA
