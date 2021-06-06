@@ -39,6 +39,9 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CINE Y SERIES", AZTECA 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
+#EXTINF:-1, FLIXTUBE
+https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w295369596.m3u8
+
 
 
 
@@ -145,6 +148,8 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1AkpM1rC75w/YGdiuKFuQzI/AAAAAAABBGg/lG-2DxIFeU8K4vxZQxqPVZ6J29Bu5ZuSgCK8BGAsYHg/s512/2021-04-02.png" group-title="CINE Y SERIES", ZPTV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 
+#EXTINF:-1, MI TV PARAGUAY
+https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w1834094351.m3u8?k=1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1&exp=1620012761
 
 
 #EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="CINE Y SERIES", WMS HD
@@ -158,6 +163,9 @@ https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L.png" group-title="CINE Y SERIES", BUTACA TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1, SOMOS DL ESTE PARAGUAY
+https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
@@ -582,16 +590,28 @@ https://cloud2.streaminglivehd.com:1936/8004/8004/chunklist_w652151765.m3u8
 http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1393607619.m3u8?WebM3UCL
 #EXTINF:-1, TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com:443/TopCine-roku/master_6.m3u8
+
+
 #EXTINF:-1, RCN PARAGUAY 
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
+
+
 #EXTINF:-1, SOMOS DL ESTE PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
+
+
 #EXTINF:-1, PARAVISION
 http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?WebM3UCL
+
+
 #EXTINF:-1, LIM TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?WebM3UCL
+
+
 #EXTINF:-1, MI TV PARAGUAY
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w1834094351.m3u8?k=1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1&exp=1620012761
+
+
 #EXTINF:-1, CABLEMAS PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/chunklist_w414259493.m3u8?WebM3UCL
 
