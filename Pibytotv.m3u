@@ -1077,6 +1077,11 @@ http://tv.nousiptv.com:8080/movie/richi/12345/1070957.mkv
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", GREENLAND
 http://tv.nousiptv.com:8080/movie/richi/12345/61574.mp4
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EQUALIZER 2
+http://tv.nousiptv.com:8080/movie/richi/12345/1086784.mp4
+
+
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", RAMBO 4
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e552dc35c1e25001a24f31a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=b222bdcf-b48e-11eb-b9c9-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", MACHINE GUN PREACHER
