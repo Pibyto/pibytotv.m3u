@@ -477,6 +477,9 @@ https://streaming.jtamendoza.com:8443/hls/test.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF:-1, REC ONLINE
 https://master.tucableip.com/reconline/live/video.m3u8?WebM3UCL
+
+#EXTINF:-1, REC TV ONLINE
+https://video.misistemareseller.com:443/Jonnytv/Jonnytv/chunklist_w664320917.m3u8?WebM3UCL
 #EXTINF:-1, FM TV MOVIE 3
 https://rtmp02.portalexpress.es:443/fmtv3/fmtv3/chunklist_w2090751125.m3u8?WebM3UCL
 #EXTINF:-1, REFORMA TV
