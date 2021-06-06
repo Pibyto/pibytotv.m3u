@@ -26,6 +26,9 @@ https://panel.dattalive.com/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="CINE Y SERIES", RTV CABLE JUJUY
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
+#EXTINF:-1, LUNA TV
+https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="LOCALES 4", ALBARDON TV SAN JUAN
 https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/05/FMTV-matriz-CLASSIC-blanco-277x156.png" group-title="CINE Y SERIES", FM SUPER CLASSIC
@@ -34,16 +37,24 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo.jpg" group-title="CINE Y SERIES", FM 2 MOVIES
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
+#EXTINF:-1, GLOBAL TV
+https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?WebM3UCL
+
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Cadenasuper-cine-tv-en-vivo.jpg" group-title="CINE Y SERIES", FM 3 SUPER CINE
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CINE Y SERIES", AZTECA 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
+
 #EXTINF:-1, FLIXTUBE
 https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w295369596.m3u8
 
+#EXTINF:-1, TVMAX
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
 
+#EXTINF:-1, CANAGA TV
+https://ss2.domint.net:3220/cana_str/canangatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/200px-Ucvtvlogo2014mejorado.png" group-title="CINE Y SERIES", UCV 
@@ -354,14 +365,11 @@ https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 https://ss2.domint.net:3220/cana_str/canangatv/playlist.m3u8
 #EXTINF:-1, GEN
 http://tv.nousiptv.com:8080/richi/12345/23222
-#EXTINF:-1, SOMOS DL ESTE PARAGUAY
-https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 #EXTINF:-1, PARAVISION
 http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?WebM3UCL
 
-#EXTINF:-1, MI TV PARAGUAY
-https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w1834094351.m3u8?k=1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1&exp=1620012761
+?k=1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1&exp=1620012761
 
 #EXTINF:-1, CABLEMAS PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/chunklist_w414259493.m3u8?WebM3UCL
