@@ -26,12 +26,16 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="CINE Y SERIES", CANAL 9 NORTE MISIONES
 https://panel.dattalive.com/8076/8076/playlist.m3u8
+#EXTINF:-1, RCN PARAGUAY 
+https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="CINE Y SERIES", RTV CABLE JUJUY
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
 #EXTINF:-1, LUNA TV
 https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
+#EXTINF:-1, TV PLATA
+https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="LOCALES 4", ALBARDON TV SAN JUAN
 https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
@@ -107,8 +111,6 @@ https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME 3
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, TV PLATA
-https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
 
 #EXTINF:-1, RCN PARAGUAY 
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
@@ -374,8 +376,6 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png" group-title="INFANTIL", CHINOLA TV
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
-#EXTINF:-1, CANAGA TV
-https://ss2.domint.net:3220/cana_str/canangatv/playlist.m3u8
 #EXTINF:-1, GEN
 http://tv.nousiptv.com:8080/richi/12345/23222
 
@@ -389,8 +389,6 @@ https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/chunklist_w414259493.
 #EXTINF:-1, MAXTV ONLINE
 https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/chunklist_w279047731_b2108000_sleng.m3u8?WebM3UCL
 
-#EXTINF:-1, TVMAX
-https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:-1, CANAL 8 HD CL
 https://5eae379fb77bb.streamlock.net:443/rauleduardo493/rauleduardo493/chunklist_w1253833959.m3u8
