@@ -115,6 +115,12 @@ https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="CINE Y SERIES", CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
+#EXTINF:-1, HECHIZERA TV PERÙ
+https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w735069103.m3u8?WebM3UCL
+
+
+#EXTINF:-1, UNITEL HD PERÚ
+https://cp.sradiotv.com:1936/8078/8078/chunklist_w1052790431.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGAsYHg/s0/2020-02-05.png" group-title="CINE Y SERIES", REC ONLINE
@@ -458,8 +464,10 @@ https://veranda-butacatv-1-es.samsung.wurl.com:443/manifest/3000.m3u8
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1165738052.m3u8
 #EXTINF:-1, OASIS TV CHANNEL
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?WebM3UCL
+
 #EXTINF:-1, FLIXTUBE
 https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w295369596.m3u8
+
 #EXTINF:-1, VIDA TV
 http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
 #EXTINF:-1, DIOS TV
@@ -507,10 +515,7 @@ https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?Web
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?WebM3UCL
 #EXTINF:-1, BH TV 
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w1964939915.m3u8?WebM3UCL
-#EXTINF:-1, HECHIZERA TV PERÙ
-https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w735069103.m3u8?WebM3UCL
-#EXTINF:-1, UNITEL HD PERÚ
-https://cp.sradiotv.com:1936/8078/8078/chunklist_w1052790431.m3u8?WebM3UCL
+
 #EXTINF:-1, CENTRAL TV PERÙ
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1067081946.m3u8?WebM3UCL
 #EXTINF:-1, PAT BOLIVIA (LA PAZ)
