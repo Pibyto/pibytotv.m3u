@@ -575,6 +575,36 @@ https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?WebM3UCL
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w1834094351.m3u8?k=1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1&exp=1620012761
 #EXTINF:-1, CABLEMAS PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/chunklist_w414259493.m3u8?WebM3UCL
+
+#EXTINF:-1, TELEFUTURO
+http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8?WebM3UCL
+
+#EXTINF:-1, CANAL 5 LIDER
+https://bcovlive-a.akamaihd.net:443/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_0/chunklist.m3u8
+
+#EXTINF:-1, TVN PANAMA
+https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1, TVN CHILE
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1, AME47
+https://ss6.domint.net:3028/ame_str/amecanal47/chunklist_w1801978653.m3u8
+
+#EXTINF:-1, TELEMAX MÉXICO
+https://6011c5681d877.streamlock.net:1936/telemax/telemax/chunklist_w1661183795.m3u8
+
+#EXTINF:-1, TELEMAX ARGENTINA
+https://live-edge01.telecentro.net.ar/live/tlx.smil/chunklist_w994259910_b364000_sleng.m3u8
+
+#EXTINF:-1, ECUAVISION
+https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
+
+#EXTINF:-1, TCS HD
+https://secure-video.tcsgo.com/tcshd/index.m3u8
+
+#EXTINF:-1, ANTARES TV PER脵
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1847102702.m3u8?WebM3UCL
 #EXTINF:-1, TU CINE
 https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
 #EXTINF:-1, TELE FAMILIA
