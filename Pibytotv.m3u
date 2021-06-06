@@ -8,6 +8,8 @@ https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1, SOMOS DL ESTE PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
+#EXTINF:-1, SANAGASTA 2
+https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="CINE Y SERIES", CINCO TV TIGRE  30.1
@@ -163,6 +165,8 @@ https://master.tucableip.com/reconline/live/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="CINE Y SERIES", SOL TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
+#EXTINF:-1, TV MOULE SUR
+https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0X7REz4ISXLJloQhacO1qP2R3vnMm-uncrw&usqp=CAU" group-title="CINE Y SERIES", ZEE MUNDO TV
@@ -387,15 +391,6 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png" group-title="INFANTIL", CHINOLA TV
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
-#EXTINF:-1, GEN
-http://tv.nousiptv.com:8080/richi/12345/23222
-
-#EXTINF:-1, PARAVISION
-http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?WebM3UCL
-?k=1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1&exp=1620012761
-
-#EXTINF:-1, CABLEMAS PARAGUAY
-https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/chunklist_w414259493.m3u8?WebM3UCL
 
 #EXTINF:-1, MAXTV ONLINE
 https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/chunklist_w279047731_b2108000_sleng.m3u8?WebM3UCL
@@ -493,24 +488,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=3b2d2ff2-2dae-480a-aeae-f805d255de09&clientModelNumber=na&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&marketingRegion=VE&serverSideAds=true&sessionID=fc08c7cf-b772-11eb-923e-0242ac110002&sid=fc08c7cf-b772-11eb-923e-0242ac110002&userId=
 #EXTINF:-1, ROKU-NATURALEZA
 https://bamus-spa-roku.amagi.tv:443/playlist1080-p.m3u8rdz85fjy0wuhhv.m3u8?s=OPx8xgFoEPi1RIc4iVMdMg&e=1622426840&ref=rdz85fjy0wuhhv
-#EXTINF:-1, SOL TV
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w2012863863_b4259840.m3u8?WebM3UCL
-#EXTINF:-1 BUTACA TV
-https://veranda-butacatv-1-es.samsung.wurl.com:443/manifest/3000.m3u8
-#EXTINF:-1, FM TV 1
-https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1165738052.m3u8
-#EXTINF:-1, OASIS TV CHANNEL
-https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1, TV PLATA
-https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
 
 
-
-#EXTINF:-1, PH TV
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 
 
 
@@ -518,24 +500,9 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 https://video.misistemareseller.com:443/Jonnytv/Jonnytv/chunklist_w664320917.m3u8?WebM3UCL
 
 
-#EXTINF:-1, FM TV MOVIE 3
-https://rtmp02.portalexpress.es:443/fmtv3/fmtv3/chunklist_w2090751125.m3u8?WebM3UCL
 
 
-#EXTINF:-1, REFORMA TV
-https://livestreamcdn.net:444/ReformaTV/ReformaTV/chunklist_w414763669.m3u8?WebM3UCL
 
-
-#EXTINF:-1, TNI 51
-https://ss8.domint.net:3126/tni_str/tni51/chunklist_w1938588253.m3u8
-
-
-#EXTINF:-1, SPTV HD 32
-https://srv4.zcast.com.ar/sptv/sptv/playlist.m3u8
-
-
-#EXTINF:-1, SANAGASTA 2
-https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
 #EXTINF:-1, RUN:TIME PELÍCULAS
 https://runtimemx-samsungmx.amagi.tv:443/playlist720p.m3u8
@@ -543,6 +510,8 @@ https://runtimemx-samsungmx.amagi.tv:443/playlist720p.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist1080_p.m3u8
 #EXTINF:-1, RCN PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
+
+
 #EXTINF:-1, TV MOULE SUR
 https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
 
