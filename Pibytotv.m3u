@@ -6,6 +6,10 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="LOCALES 1", GEN TV  17.3
 https://videohd.live:19360/8010/8010.m3u8
 
+#EXTINF:-1, SOMOS DL ESTE PARAGUAY
+https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="CINE Y SERIES", CINCO TV TIGRE  30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
@@ -90,6 +94,10 @@ https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1, TNI 51
+https://ss8.domint.net:3126/tni_str/tni51/chunklist_w1938588253.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME
 https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
 
@@ -99,6 +107,11 @@ https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME 3
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
+#EXTINF:-1, TV PLATA
+https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
+
+#EXTINF:-1, RCN PARAGUAY 
+https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://madrid.cines-verdi.com/storage/app/media/cinesverditv.jpg" group-title="CINE Y SERIES", Canal Cinesverdi 
@@ -110,6 +123,8 @@ https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LnXLukJpoCw/maxresdefault.jpg" group-title="CINE Y SERIES", MI TV 
 http://162.244.80.176:8081/abr/stream/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E4ZhmiDMypI/XzxnbBAnLcI/AAAAAAAA4oQ/ZAvYXo5pj0QDb-wMX0XmFWJmEnPKg-jbACK8BGAsYHg/s0/2020-08-18.png" group-title="CINE Y SERIES", LATINOS UP
@@ -175,8 +190,6 @@ https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L.png" group-title="CINE Y SERIES", BUTACA TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1, SOMOS DL ESTE PARAGUAY
-https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
@@ -368,7 +381,6 @@ http://tv.nousiptv.com:8080/richi/12345/23222
 
 #EXTINF:-1, PARAVISION
 http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?WebM3UCL
-
 ?k=1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1&exp=1620012761
 
 #EXTINF:-1, CABLEMAS PARAGUAY
@@ -481,44 +493,41 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1165738052.m3u8
 #EXTINF:-1, OASIS TV CHANNEL
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1, FLIXTUBE
-https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w295369596.m3u8
 
-#EXTINF:-1, VIDA TV
-http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
-#EXTINF:-1, DIOS TV
-https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, TELEVIDA
-https://tls.cdnz.cl:443/televida/ngrp:live_all/chunklist_w505523163_b4628000.m3u8?WebM3UCL
-#EXTINF:-1, WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?WebM3UCL
-#EXTINF:-1, NEO TV
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1, LUNA TV
-https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
-#EXTINF:-1, FM TV 2
-https://rtmp02.portalexpress.es:443/fmtvmovies2/fmtvmovies2/chunklist_w2058858614.m3u8?WebM3UCL
+
 #EXTINF:-1, TV PLATA
 https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
-#EXTINF:-1, JTA TV
-https://streaming.jtamendoza.com:8443/hls/test.m3u8
+
+
+
 #EXTINF:-1, PH TV
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
-#EXTINF:-1, REC ONLINE
-https://master.tucableip.com/reconline/live/video.m3u8?WebM3UCL
+
+
 
 #EXTINF:-1, REC TV ONLINE
 https://video.misistemareseller.com:443/Jonnytv/Jonnytv/chunklist_w664320917.m3u8?WebM3UCL
+
+
 #EXTINF:-1, FM TV MOVIE 3
 https://rtmp02.portalexpress.es:443/fmtv3/fmtv3/chunklist_w2090751125.m3u8?WebM3UCL
+
+
 #EXTINF:-1, REFORMA TV
 https://livestreamcdn.net:444/ReformaTV/ReformaTV/chunklist_w414763669.m3u8?WebM3UCL
+
+
 #EXTINF:-1, TNI 51
 https://ss8.domint.net:3126/tni_str/tni51/chunklist_w1938588253.m3u8
+
+
 #EXTINF:-1, SPTV HD 32
 https://srv4.zcast.com.ar/sptv/sptv/playlist.m3u8
+
+
 #EXTINF:-1, SANAGASTA 2
 https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
+
 #EXTINF:-1, RUN:TIME PELÍCULAS
 https://runtimemx-samsungmx.amagi.tv:443/playlist720p.m3u8
 #EXTINF:-1, MY TIME MOVIE NETWORK
