@@ -61,7 +61,8 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 #EXTINF:-1, SOMOS DL ESTE PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
-#EXTINF:-1, SANAGASTA 2
+
+#EXTINF:-1, tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="LOCALES 3", CANAL 2 SANAGASTA
 https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
 #EXTINF:-1, CNR TV
