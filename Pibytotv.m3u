@@ -33,6 +33,9 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 #EXTINF:-1, CINE AR
 https://5fb24b460df87.streamlock.net:443/live-cont.ar/cinear/chunklist_w525043877.m3u8
 
+#EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title="RELIGION", UNIFE TV  25.1
+https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
+
 
 #EXTINF:-1, EL TRES CÓRDOBA
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
