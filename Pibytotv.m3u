@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="CINE Y SERIES", NEO TV DIGITAL  14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1, TELEFE
@@ -90,6 +91,148 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 https://panel.dattalive.com/8076/8076/playlist.m3u8
 #EXTINF:-1, RCN PARAGUAY 
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
+
+
+#EXTINF:-1, HBO
+https://tv.teleclub.xyz/canales/L1/HBO.m3u8
+
+#EXTINF:-1, HBO 2
+https://tv.teleclub.xyz/canales/L1/HBO2.m3u8
+
+#EXTINF:-1, HBO +
+https://tv.teleclub.xyz/canales/L1/HBOPLUS.m3u8
+
+#EXTINF:-1, HBO FAMILY
+https://tv.teleclub.xyz/canales/L1/HBOFAMILY.m3u8
+
+#EXTINF:-1, HBO SIGNATURE
+https://tv.teleclub.xyz/canales/L1/HBOSIGNATURE.m3u8
+
+#EXTINF:-1, HBO MUNDI
+https://tv.teleclub.xyz/canales/L1/HBOMUNDI.m3u8
+
+#EXTINF:-1, HBO POP
+https://tv.teleclub.xyz/canales/L1/HBOPOP.m3u8
+
+#EXTINF:-1, HBO XTREME
+https://tv.teleclub.xyz/canales/L1/HBOXTREME.m3u8
+
+#EXTINF:-1, STAR ACCIÓN
+https://tv.teleclub.xyz/canales/L1/FOXACTION.m3u8
+
+#EXTINF:-1, STAR CINEMA
+https://tv.teleclub.xyz/canales/L1/FOXCINEMA.m3u8
+
+#EXTINF:-1, STAR COMEDY
+https://tv.teleclub.xyz/canales/L1/FOXCOMEDY.m3u8
+
+#EXTINF:-1, STAR CLASSIC
+https://tv.teleclub.xyz/canales/L1/FOXCLASSIC.m3u8
+
+#EXTINF:-1, STAR FUN
+https://tv.teleclub.xyz/canales/L1/FOXFAMILY.m3u8
+
+#EXTINF:-1, STAR SERIES
+https://tv.teleclub.xyz/canales/L1/FOXSERIES.m3u8
+
+#EXTINF:-1, STAR HITS
+https://tv.teleclub.xyz/canales/L1/FOXMOVIES.m3u8
+
+#EXTINF:-1, STAR CHANNEL
+https://tv.teleclub.xyz/canales/L1/FOX.m3u8
+
+#EXTINF:-1, STAR LIFE
+https://tv.teleclub.xyz/canales/L1/FOXLIFE.m3u8
+
+#EXTINF:-1, GOLDEN PREMIER
+https://tv.teleclub.xyz/canales/L1/GOLDENPREMIER.m3u8
+
+#EXTINF:-1, GOLDEN PLUS
+https://tv.teleclub.xyz/canales/L1/GOLDEN.m3u8
+
+#EXTINF:-1, PARAMOUNT
+https://tv.teleclub.xyz/canales/L1/PARAMOUNT.m3u8
+
+#EXTINF:-1, CINEMAX
+https://tv.teleclub.xyz/canales/L1/CINEMAX.m3u8
+
+#EXTINF:-1, CINECANAL
+https://tv.teleclub.xyz/canales/L1/CINECANAL.m3u8
+
+#EXTINF:-1, SPACE
+https://tv.teleclub.xyz/canales/L1/SPACE.m3u8
+
+#EXTINF:-1, AMC
+https://tv.teleclub.xyz/canales/L1/AMC.m3u8
+
+#EXTINF:-1, TBS
+https://tv.teleclub.xyz/canales/L1/TBS.m3u8
+
+#EXTINF:-1, TNT
+https://tv.teleclub.xyz/canales/L1/TNT.m3u8
+
+#EXTINF:-1, STUDIO UNIVERSAL
+https://tv.teleclub.xyz/canales/L1/STUDIOUNIVERSAL.m3u8
+
+#EXTINF:-1, SONY
+https://tv.teleclub.xyz/canales/L1/SONY.m3u8
+
+#EXTINF:-1, AXN
+https://tv.teleclub.xyz/canales/L1/AXN.m3u8
+
+#EXTINF:-1, FXM
+https://tv.teleclub.xyz/canales/L1/FXM.m3u8
+
+#EXTINF:-1, FX
+https://tv.teleclub.xyz/canales/L1/FX.m3u8
+
+#EXTINF:-1, UNIVERSAL
+https://tv.teleclub.xyz/canales/L1/UNIVERSAL.m3u8
+
+#EXTINF:-1, WARNER
+https://tv.teleclub.xyz/canales/L1/WARNER.m3u8
+
+#EXTINF:-1, TNT SERIES
+https://tv.teleclub.xyz/canales/L1/TNTSERIES.m3u8
+
+#EXTINF:-1, TNT SPORT 2
+https://tv.teleclub.xyz/canales/L1/TNTSPORTS_2.m3u8
+
+#EXTINF:-1, TNT SPORT 3
+https://tv.teleclub.xyz/canales/L1/TNTSPORT_3.m3u8
+
+#EXTINF:-1, FOX SPORT PREMIUM
+https://tv.teleclub.xyz/canales/L1/FOXSPORTSPREMIUM.m3u8
+
+#EXTINF:-1, TIGO PY
+https://tv.teleclub.xyz/canales/L1/PY_TIGOSPORTS.m3u8
+
+#EXTINF:-1, TIGO+ PY
+https://tv.teleclub.xyz/canales/L1/PY_TIGOSPORTSPLUS.m3u8
+
+#EXTINF:-1, TDN USA
+https://tv.teleclub.xyz/canales/L1/TUDN_USA.m3u8
+
+#EXTINF:-1, TDN MX
+https://tv.teleclub.xyz/canales/L1/TUDN_MX.m3u8
+
+#EXTINF:-1, TELEMUNDO
+https://tv.teleclub.xyz/canales/L1/TELEMUNDO.m3u8
+
+#EXTINF:-1, TLN TELENOVELAS
+https://tv.teleclub.xyz/canales/L1/TLNOVELAS.m3u8
+
+#EXTINF:-1, CARACOL
+https://tv.teleclub.xyz/canales/L1/CARACOL.m3u8
+
+#EXTINF:-1, RCN
+https://tv.teleclub.xyz/canales/L1/RCN.m3u8
+
+#EXTINF:-1, LAS ESTRELLAS
+https://tv.teleclub.xyz/canales/L1/LASESTRELLAS.m3u8
+
+#EXTINF:-1, A3SERIES
+https://tv.teleclub.xyz/canales/L1/A3SERIES.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="CINE Y SERIES", RTV CABLE JUJUY
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
