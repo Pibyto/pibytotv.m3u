@@ -3,8 +3,10 @@
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="CINE Y SERIES", NEO TV DIGITAL  14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+
 #EXTINF:-1, TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
 
 
 #EXTINF:-1, EL TRECE HD
