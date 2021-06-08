@@ -109,6 +109,15 @@ https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
 #EXTINF:-1, TV PLATA
 https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
 
+
+#EXTINF:-1, CANAL+
+https://tv.tvcontrolcp.com:1936/8136/8136/chunklist_w1329414028.m3u8
+
+#EXTINF:-1, MILENNIO TV
+https://59537faa0729a.streamlock.net/milenniotv/milenniotv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="LOCALES 4", ALBARDON TV SAN JUAN
 https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/05/FMTV-matriz-CLASSIC-blanco-277x156.png" group-title="CINE Y SERIES", FM SUPER CLASSIC
