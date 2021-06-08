@@ -281,7 +281,74 @@ https://tv.teleclub.xyz/canales/L1/FOXACTION.m3u8
 #EXTINF:-1, STAR CINEMA
 https://tv.teleclub.xyz/canales/L1/FOXCINEMA.m3u8
 
+#EXTINF:-1, GOLDEN PLUS
+https://tv.teleclub.xyz/canales/L1/GOLDEN.m3u8
 
+#EXTINF:-1, PARAMOUNT
+https://tv.teleclub.xyz/canales/L1/PARAMOUNT.m3u8
+
+#EXTINF:-1, CINEMAX
+https://tv.teleclub.xyz/canales/L1/CINEMAX.m3u8
+
+#EXTINF:-1, CINECANAL
+https://tv.teleclub.xyz/canales/L1/CINECANAL.m3u8
+
+#EXTINF:-1, SPACE
+https://tv.teleclub.xyz/canales/L1/SPACE.m3u8
+
+#EXTINF:-1, AMC
+https://tv.teleclub.xyz/canales/L1/AMC.m3u8
+
+#EXTINF:-1, TBS
+https://tv.teleclub.xyz/canales/L1/TBS.m3u8
+
+#EXTINF:-1, TNT
+https://tv.teleclub.xyz/canales/L1/TNT.m3u8
+
+#EXTINF:-1, STUDIO UNIVERSAL
+https://tv.teleclub.xyz/canales/L1/STUDIOUNIVERSAL.m3u8
+
+#EXTINF:-1, SONY
+https://tv.teleclub.xyz/canales/L1/SONY.m3u8
+
+#EXTINF:-1, AXN
+https://tv.teleclub.xyz/canales/L1/AXN.m3u8
+
+#EXTINF:-1, FXM
+https://tv.teleclub.xyz/canales/L1/FXM.m3u8
+
+#EXTINF:-1, FX
+https://tv.teleclub.xyz/canales/L1/FX.m3u8
+
+#EXTINF:-1, UNIVERSAL
+https://tv.teleclub.xyz/canales/L1/UNIVERSAL.m3u8
+
+#EXTINF:-1, WARNER
+https://tv.teleclub.xyz/canales/L1/WARNER.m3u8
+
+#EXTINF:-1, TNT SERIES
+https://tv.teleclub.xyz/canales/L1/TNTSERIES.m3u8
+
+#EXTINF:-1, TNT SPORT 2
+https://tv.teleclub.xyz/canales/L1/TNTSPORTS_2.m3u8
+
+#EXTINF:-1, TNT SPORT 3
+https://tv.teleclub.xyz/canales/L1/TNTSPORT_3.m3u8
+
+#EXTINF:-1, FOX SPORT PREMIUM
+https://tv.teleclub.xyz/canales/L1/FOXSPORTSPREMIUM.m3u8
+
+#EXTINF:-1, TIGO PY
+https://tv.teleclub.xyz/canales/L1/PY_TIGOSPORTS.m3u8
+
+#EXTINF:-1, TIGO+ PY
+https://tv.teleclub.xyz/canales/L1/PY_TIGOSPORTSPLUS.m3u8
+
+#EXTINF:-1, TDN USA
+https://tv.teleclub.xyz/canales/L1/TUDN_USA.m3u8
+
+#EXTINF:-1, TDN MX
+https://tv.teleclub.xyz/canales/L1/TUDN_MX.m3u8
 
 
 
