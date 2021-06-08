@@ -275,6 +275,13 @@ https://tv.teleclub.xyz/canales/L1/HBO2.m3u8
 #EXTINF:-1, HBO +
 https://tv.teleclub.xyz/canales/L1/HBOPLUS.m3u8
 
+#EXTINF:-1, STAR ACCIÓN
+https://tv.teleclub.xyz/canales/L1/FOXACTION.m3u8
+
+#EXTINF:-1, STAR CINEMA
+https://tv.teleclub.xyz/canales/L1/FOXCINEMA.m3u8
+
+
 
 
 
