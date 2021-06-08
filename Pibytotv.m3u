@@ -98,9 +98,6 @@ https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?
 #EXTINF:-1, RCN HD COLOMBIA
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQyG56y3kIsP56vwgDoTya4)/p/dm/3/x7vyv0z/s/live-3.m3u8
 
-#EXTINF:-1, CARACOL
-https://29hm3pwm68.azcdn107.net:8443/hls/u8qy1re4gyqjbnw.m3u8?s=dxDgWNwv04_xHzo6B_qfQw&e=1623126687
-
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="CINE Y SERIES", RTV CABLE JUJUY
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
@@ -179,15 +176,9 @@ https://h2.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 https://wkaqlive-lh.akamaihd.net/i/WKAQ_LIVE1@311877/index_1200_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1, ACENTO TV
-https://acentotv01.streamprolive.com/hls/live.m3u8
 
 #EXTINF:-1, ESTRELLA TV
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
-
-
-#EXTINF:-1, TELEVEN
-https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
 
 
 #EXTINF:-1, TNI 51
