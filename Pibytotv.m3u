@@ -179,6 +179,9 @@ https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME 3
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN:TIME 4
+https://runtimemx-samsungmx.amagi.tv:443/playlist720p.m3u8
+
 
 #EXTINF:-1, RCN PARAGUAY 
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
@@ -594,8 +597,7 @@ https://video.misistemareseller.com:443/Jonnytv/Jonnytv/chunklist_w664320917.m3u
 
 
 
-#EXTINF:-1, RUN:TIME PELÍCULAS
-https://runtimemx-samsungmx.amagi.tv:443/playlist720p.m3u8
+
 #EXTINF:-1, MY TIME MOVIE NETWORK
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist1080_p.m3u8
 
