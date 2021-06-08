@@ -5,7 +5,8 @@
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
-
+#EXTINF:-1, TELEFE
+https://telefe.com:443/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
 #EXTINF:-1, EL TRECE HD
