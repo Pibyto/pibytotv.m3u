@@ -341,7 +341,7 @@ https://tv.teleclub.xyz/canales/L1/FOXLIFE.m3u8
 #EXTINF:-1, GOLDEN PREMIER
 https://tv.teleclub.xyz/canales/L1/GOLDENPREMIER.m3u8
 
-#EXTINF:-1, tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CINE Y SERIES"
+#EXTINF:-1, tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CINE Y SERIES", AZTECA 7
 https://tv.teleclub.xyz/canales/L1/AZTECA7.m3u8
 
 #EXTINF:-1, GOLDEN PLUS
