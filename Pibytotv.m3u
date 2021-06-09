@@ -4,6 +4,13 @@
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="CINE Y SERIES", NEO TV DIGITAL  14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1, VIDA TV "RELIGIÓN"
+http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
+
+
+#EXTINF:-1, EXTREMA TV "RELIGIÓN"
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w249371828.m3u8
+
 
 #EXTINF:-1, TELEFE
 https://telefe.com:443/Api/Videos/GetSourceUrl/694564/0/HLS
@@ -15,6 +22,14 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, AMÉRICA TV TUCUMÁN
 http://45.6.4.154/americatuc/vivo.m3u8?WebM3UCL
+
+
+#EXTINF:-1, tvg-name="DIOS TE VE HD",DIOS TE VE HD
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1, CELESTIAL TV "RELIGIÓN"
+https://stmvideo2.livecastv.com:443/celestialtv/celestialtv/chunklist_w1732933079.m3u8?WebM3UCL
 
 
 #EXTINF:-1, CANAL 26
@@ -1087,8 +1102,6 @@ https://radiocret.net:8082/hls/tvcret.m3u8?WebM3UCL
 http://ss6.domint.net:1946/vct_str/vctv/chunklist_w698648754.m3u8?WebM3UCL
 
 
-#EXTINF:-1, VIDA TV "RELIGIÓN"
-http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
 
 
 #EXTINF:-1, MANÁ DEL CIELO "RELIGIÓN"
