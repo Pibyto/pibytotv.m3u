@@ -233,6 +233,39 @@ https://sony-novelas-1.roku.wurl.com:443/playlist_1280x720_3000k.m3u8
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 
 
+#EXTINF:-1, CARTOON NETWORK
+https://tv.teleclub.xyz/canales/L1/CARTOON.m3u8
+
+#EXTINF:-1, DISNEY CHANNEL
+https://tv.teleclub.xyz/canales/L1/DISNEY.m3u8
+
+
+#EXTINF:-1, DISNEY XD
+https://tv.teleclub.xyz/canales/L1/DISNEYXD.m3u8
+
+
+#EXTINF:-1, DISNEY JUNIOR
+https://tv.teleclub.xyz/canales/L1/DISNEYJR.m3u8
+
+
+#EXTINF:-1, NAT GEO KIDS
+https://tv.teleclub.xyz/canales/L1/NATGEOKIDS.m3u8
+
+
+#EXTINF:-1, NICK
+https://tv.teleclub.xyz/canales/L1/NICK.m3u8
+
+
+#EXTINF:-1, NICK JR
+https://tv.teleclub.xyz/canales/L1/NICKJR.m3u8
+
+
+#EXTINF:-1, TOONCAST
+https://tv.teleclub.xyz/canales/L1/TOONCAST.m3u8
+
+
+
+
 #EXTINF:-1, TNI 51
 https://ss8.domint.net:3126/tni_str/tni51/chunklist_w1938588253.m3u8
 
