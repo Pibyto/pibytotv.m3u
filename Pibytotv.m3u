@@ -327,6 +327,8 @@ https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w735069103.m3u
 
 #EXTINF:-1, UNITEL HD PERÚ
 https://cp.sradiotv.com:1936/8078/8078/chunklist_w1052790431.m3u8?WebM3UCL
+#EXTINF:-1, HBO
+https://tv.teleclub.xyz/canales/L1/HBO.m3u8
 
 
 #EXTINF:-1, HBO 2
