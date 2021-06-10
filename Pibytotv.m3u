@@ -52,7 +52,7 @@ https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 https://panel.dattalive.com:443/8250/8250/chunklist_w710743965.m3u8
 
 
-#EXTINF:-1, NET TV
+#EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCAL", NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1, IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
