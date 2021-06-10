@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1, IGLESIA REY DE REYES EN VIVO
+https://r2---sn-uxax4vopj55gb-x1xr.googlevideo.com/videoplayback?expire=1623389380&ei=ZKDCYIqEEIeG-LAP0ZaSwA8&ip=186.132.82.86&id=llAgV6Nc-lc.2&itag=243&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C298%2C299%2C302%2C303%2C308&source=yt_live_broadcast&requiressl=yes&mh=gh&mm=44%2C29&mn=sn-uxax4vopj55gb-x1xr%2Csn-x1x7dn7k&ms=lva%2Crdu&mv=m&mvi=2&pl=21&initcwndbps=897500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=EESd_TY78-8ug8pap0GQcokF&gir=yes&mt=1623366746&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=MWEB&n=v7_adTWHZQlZZA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgcMkXX-1aqZ604tWk9IQV5RohpzifGQ8RfEjS64ZqNdgCIGJP7EjEOip01JJFC0XqV_BCC3SRXxrZ52_CdVBAzTKu&alr=yes&sig=AOq0QJ8wRQIhAI1q8BWtFiN6FrC0AHTyMRfk1YGfowlhANhSdb6hY_c5AiAdwMoRiKCCUu5vtRYukMs3GQ4LPing-KXp0GovNVbghQ%3D%3D&cpn=0Cudz6IyFgUfC-5B&cver=2.20210608.02.00&sq=357&rn=10&rbuf=11748
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="CINE Y SERIES", NEO TV DIGITAL  14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -23,7 +24,7 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/i/canal5rosario_1@685724/master.m3u8?hdnea=st=1623355061~exp=1623531461~acl=/i/canal5rosario_1@685724/*~hmac=083630ddc99b34cde89042dda5e0cbdbdeb8e306b31b6930e51cd9f11c48dc8d
 
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="LOCAL", EL TRECE HD
+#EXTINF:-1, EL TRECE HD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, AMÉRICA TV TUCUMÁN
