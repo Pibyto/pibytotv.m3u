@@ -41,14 +41,14 @@ https://stmvideo2.livecastv.com:443/celestialtv/celestialtv/chunklist_w173293307
 #EXTINF:-1, CANAL 26
 https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w1160533653_b2628000_sleng.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="LOCALES",TELEVIDA MENDOZA
+#EXTINF:-1, tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="LOCAL",TELEVIDA MENDOZA
 https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w1179238419.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OmdVIgiYcpQ/XrYImNhAa7I/AAAAAAAA0hA/HKMr0zop2CsNpUAuev_aVuelSQkqOLzTQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="LOCALES", CANAL 10 MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OmdVIgiYcpQ/XrYImNhAa7I/AAAAAAAA0hA/HKMr0zop2CsNpUAuev_aVuelSQkqOLzTQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="LOCAL", CANAL 10 MAR DEL PLATA
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
 
-#EXTINF:-1, MULTIVISION SALTA
+#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCAL"' MULTIVISION SALTA
 https://panel.dattalive.com:443/8250/8250/chunklist_w710743965.m3u8
 
 
@@ -85,13 +85,13 @@ https://5bf8041cb3fed.streamlock.net:443/TeveVida/TeveVida/chunklist_w1065613269
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="LOCALES 1", GEN TV  17.3
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="LOCAL", GEN TV  17.3
 https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1, CANAL 34
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="LOCALES",29 QUILMES
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="LOCAL",29 QUILMES
 https://inliveserver.com:1936/8386/8386/playlist.m3u8
 
 
@@ -99,7 +99,7 @@ https://inliveserver.com:1936/8386/8386/playlist.m3u8
 #EXTINF:-1, SOMOS DL ESTE PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
-#EXTINF:-1, tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="LOCALES 3", CANAL 2 SANAGASTA
+#EXTINF:-1, tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="LOCAL", CANAL 2 SANAGASTA
 https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
 #EXTINF:-1, CNR TV
@@ -120,7 +120,7 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521" group-title="CINE Y SERIES", CANAL 13 SAN LUIS
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png" group-title="LOCALES 3", CANAL 3 PINAMAR
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png" group-title="LOCAL", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="CINE Y SERIES", CANAL 9 NORTE MISIONES
@@ -899,7 +899,7 @@ https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?WebM3UCL
 #EXTINF:-1, TELECARIBE
 https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8?WebM3UCL
 
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="LOCALES",29 QUILMES
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="LOCA",29 QUILMES
 https://inliveserver.com:1936/8386/8386/playlist.m3u8
 
 
@@ -1038,7 +1038,7 @@ https://video.feze8-1.fna.fbcdn.net/v/t42.1790-2/10000000_331342241691196_741957
 #EXTINF:-1, CANAL ARMANDO ALDUCIN
 
 
-#EXTINF:-1, CANAL+
+#EXTINF:-1, CANAL+ "RELIGIÓN"
 https://tv.tvcontrolcp.com:1936/8136/8136/chunklist_w1329414028.m3u8
 
 
