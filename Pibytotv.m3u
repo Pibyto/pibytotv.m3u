@@ -77,6 +77,10 @@ https://5cd577a3dd8ec.streamlock.net:443/canal4/manifest.smil/chunklist_w2133373
 https://5e7cdf2370883.streamlock.net:443/tdconline/tdconline/chunklist_w31676561.m3u8
 
 
+#EXTINF:-1,TEVE VIDA "RELIGIÓN"
+https://5bf8041cb3fed.streamlock.net:443/TeveVida/TeveVida/chunklist_w1065613269.m3u8
+
+
 #EXTINF:-1, CANAL 4 SAN JUAN
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?WebM3UCL
 
