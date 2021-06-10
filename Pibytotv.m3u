@@ -11,6 +11,8 @@ https://59ce1298bfb98.streamlock.net:443/frutillarfm/frutillarfm/chunklist_w1985
 #EXTINF:-1, VIDA TV "RELIGIÓN"
 http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
 
+#EXTINF:-1, TELEFE
+https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1623354643~exp=1623361843~acl=/i/appmitelefe_1@326430/*~hmac=f81e5c010f238ef01e2f5a05b12c24b2c0ff729420e1340ee78191bf6c734fe7
 
 #EXTINF:-1, EXTREMA TV "RELIGIÓN"
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w249371828.m3u8
