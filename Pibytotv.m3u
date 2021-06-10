@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1, EL DIVINO REDENTOR EN VIVO
+https://video.feze8-2.fna.fbcdn.net/hvideo-ldc-ftw/_nc_cat-102/v/r_hcPmA_-gJoD6IWuFlXL/_nc_ohc-Jep59eIrYQsAX9b8k3f/live-dash/dash-lp-md-a/2879060102422983_0-5259901.m4a?ms=m_C&ccb=2-4
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="CINE Y SERIES", NEO TV DIGITAL  14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
