@@ -396,6 +396,9 @@ https://tv.teleclub.xyz/canales/L1/HBOPOP.m3u8
 #EXTINF:-1, HBO XTREME
 https://tv.teleclub.xyz/canales/L1/HBOXTREME.m3u8
 
+#EXTINF:-1, HBO XTREME FHD
+http://tv.nousiptv.com:8080/richi/12345/8226
+
 #EXTINF:-1, DHE
 http://tv.nousiptv.com:8080/richi/12345/24180
 
