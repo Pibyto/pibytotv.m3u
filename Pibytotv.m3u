@@ -442,6 +442,11 @@ https://tv.teleclub.xyz/canales/L1/FOXCLASSIC.m3u8
 #EXTINF:-1, STAR FUN
 https://tv.teleclub.xyz/canales/L1/FOXFAMILY.m3u8
 
+#EXTINF:-1, STAR FUN HD
+http://tv.nousiptv.com:8080/richi/12345/4084
+
+
+
 #EXTINF:-1, STAR SERIES
 https://tv.teleclub.xyz/canales/L1/FOXSERIES.m3u8
 
