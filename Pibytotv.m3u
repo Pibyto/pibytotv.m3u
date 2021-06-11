@@ -366,6 +366,9 @@ https://tv.teleclub.xyz/canales/L1/HBO.m3u8
 #EXTINF:-1, HBO 2
 https://tv.teleclub.xyz/canales/L1/HBO2.m3u8
 
+#EXTINF:-1, HBO 2 FHD
+http://tv.nousiptv.com:8080/richi/12345/4095
+
 #EXTINF:-1, HBO +
 https://tv.teleclub.xyz/canales/L1/HBOPLUS.m3u8
 
