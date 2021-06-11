@@ -384,6 +384,9 @@ http://tv.nousiptv.com:8080/richi/12345/4109
 #EXTINF:-1, HBO FAMILY
 https://tv.teleclub.xyz/canales/L1/HBOFAMILY.m3u8
 
+#EXTINF:-1, HBO FAMILY FHD
+http://tv.nousiptv.com:8080/richi/12345/3211
+
 #EXTINF:-1, HBO SIGNATURE
 https://tv.teleclub.xyz/canales/L1/HBOSIGNATURE.m3u8
 
