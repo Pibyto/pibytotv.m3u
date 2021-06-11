@@ -8,6 +8,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1, VIDA TV "RELIGIÓN"
 http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
 
+#EXTINF:-1, MOVIEPLEX
+http://tv.nousiptv.com:8080/richi/12345/8145
 
 #EXTINF:-1, EXTREMA TV "RELIGIÓN"
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w249371828.m3u8
