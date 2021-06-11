@@ -439,6 +439,8 @@ http://tv.nousiptv.com:8080/richi/12345/8234
 #EXTINF:-1, STAR CLASSIC
 https://tv.teleclub.xyz/canales/L1/FOXCLASSIC.m3u8
 
+
+
 #EXTINF:-1, STAR FUN
 https://tv.teleclub.xyz/canales/L1/FOXFAMILY.m3u8
 
@@ -450,6 +452,9 @@ http://tv.nousiptv.com:8080/richi/12345/4084
 #EXTINF:-1, STAR SERIES
 https://tv.teleclub.xyz/canales/L1/FOXSERIES.m3u8
 
+#EXTINF:-1, STAR SERIES HD
+http://tv.nousiptv.com:8080/richi/12345/4020
+
 #EXTINF:-1, STAR HITS
 https://tv.teleclub.xyz/canales/L1/FOXMOVIES.m3u8
 
@@ -460,8 +465,12 @@ http://tv.nousiptv.com:8080/richi/12345/4023
 #EXTINF:-1, STAR CHANNEL
 https://tv.teleclub.xyz/canales/L1/FOX.m3u8
 
+
+
 #EXTINF:-1, STAR LIFE
 https://tv.teleclub.xyz/canales/L1/FOXLIFE.m3u8
+
+
 
 #EXTINF:-1, GOLDEN PREMIER
 https://tv.teleclub.xyz/canales/L1/GOLDENPREMIER.m3u8
