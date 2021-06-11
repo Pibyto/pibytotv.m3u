@@ -362,6 +362,8 @@ https://cp.sradiotv.com:1936/8078/8078/chunklist_w1052790431.m3u8?WebM3UCL
 #EXTINF:-1, HBO
 https://tv.teleclub.xyz/canales/L1/HBO.m3u8
 
+#EXTINF:-1, HBO FHD
+http://tv.nousiptv.com:8080/richi/12345/4112
 
 #EXTINF:-1, HBO 2
 https://tv.teleclub.xyz/canales/L1/HBO2.m3u8
