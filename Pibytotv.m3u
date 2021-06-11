@@ -439,6 +439,8 @@ http://tv.nousiptv.com:8080/richi/12345/8234
 #EXTINF:-1, STAR CLASSIC
 https://tv.teleclub.xyz/canales/L1/FOXCLASSIC.m3u8
 
+#EXTINF:-1, STAR CLASSIC HD
+http://tv.nousiptv.com:8080/richi/12345/8237
 
 
 #EXTINF:-1, STAR FUN
