@@ -423,6 +423,10 @@ https://tv.teleclub.xyz/canales/L1/GOLDEN.m3u8
 #EXTINF:-1, GOLDEN EDGE
 http://tv.nousiptv.com:8080/richi/12345/3237
 
+#EXTINF:-1, SUNDANCE TV
+http://tv.nousiptv.com:8080/richi/12345/4101
+
+
 #EXTINF:-1, PARAMOUNT
 https://tv.teleclub.xyz/canales/L1/PARAMOUNT.m3u8
 
