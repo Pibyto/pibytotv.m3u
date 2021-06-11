@@ -13,6 +13,10 @@ http://tv.nousiptv.com:8080/richi/12345/8130
 #EXTINF:-1, VIDA TV "RELIGIÓN"
 http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
 
+#EXTINF:-1, STARZ HD
+http://tv.nousiptv.com:8080/richi/12345/8132
+
+
 #EXTINF:-1, MOVIEPLEX
 http://tv.nousiptv.com:8080/richi/12345/8145
 
