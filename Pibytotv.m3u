@@ -425,6 +425,8 @@ http://tv.nousiptv.com:8080/richi/12345/4019
 #EXTINF:-1, STAR CINEMA
 https://tv.teleclub.xyz/canales/L1/FOXCINEMA.m3u8
 
+#EXTINF:-1, STAR CINEMA FHD
+http://tv.nousiptv.com:8080/richi/12345/8238
 
 
 #EXTINF:-1, STAR COMEDY
