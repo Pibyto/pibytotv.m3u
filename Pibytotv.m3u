@@ -283,6 +283,9 @@ https://sony-novelas-1.roku.wurl.com:443/playlist_1280x720_3000k.m3u8
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 
 
+#EXTINF:-1, CANAL 5 FHD 
+http://tv.nousiptv.com:8080/richi/12345/4028
+
 #EXTINF:-1, CARTOON NETWORK
 https://tv.teleclub.xyz/canales/L1/CARTOON.m3u8
 
