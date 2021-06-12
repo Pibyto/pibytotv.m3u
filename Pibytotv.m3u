@@ -299,7 +299,8 @@ https://tv.teleclub.xyz/canales/L1/NICKJR.m3u8
 https://tv.teleclub.xyz/canales/L1/TOONCAST.m3u8
 
 
-
+#EXTINF:-1, BUMERANG FHD
+http://tv.nousiptv.com:8080/richi/12345/4061
 
 #EXTINF:-1, TNI 51
 https://ss8.domint.net:3126/tni_str/tni51/chunklist_w1938588253.m3u8
