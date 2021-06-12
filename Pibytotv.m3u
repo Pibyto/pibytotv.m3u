@@ -332,6 +332,9 @@ http://tv.nousiptv.com:8080/richi/12345/42017
 #EXTINF:-1, CANAL 13 GUATEMALA
 http://tv.nousiptv.com:8080/richi/12345/51392
 
+#EXTINF:-1, CANAL 2 EL SALVADOR
+http://tv.nousiptv.com:8080/richi/12345/51400
+
 #EXTINF:-1, CARTOON NETWORK
 https://tv.teleclub.xyz/canales/L1/CARTOON.m3u8
 
