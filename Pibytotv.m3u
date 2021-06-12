@@ -268,6 +268,9 @@ https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 #EXTINF:-1, CARTOON NETWORK
 https://tv.teleclub.xyz/canales/L1/CARTOON.m3u8
 
+#EXTINF:-1, CARTOON NETWORK FHD
+http://tv.nousiptv.com:8080/richi/12345/4063
+
 #EXTINF:-1, DISNEY CHANNEL
 https://tv.teleclub.xyz/canales/L1/DISNEY.m3u8
 
