@@ -586,6 +586,9 @@ http://tv.nousiptv.com:8080/richi/12345/4054
 #EXTINF:-1, WARNER
 https://tv.teleclub.xyz/canales/L1/WARNER.m3u8
 
+#EXTINF:-1, WARNER FHD
+http://tv.nousiptv.com:8080/richi/12345/4053
+
 #EXTINF:-1, TNT SERIES
 https://tv.teleclub.xyz/canales/L1/TNTSERIES.m3u8
 
