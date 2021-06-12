@@ -526,6 +526,9 @@ http://tv.nousiptv.com:8080/richi/12345/3232
 #EXTINF:-1, AMC
 https://tv.teleclub.xyz/canales/L1/AMC.m3u8
 
+#EXTINF:-1, AMC FHD
+http://tv.nousiptv.com:8080/richi/12345/4085
+
 #EXTINF:-1, TBS
 https://tv.teleclub.xyz/canales/L1/TBS.m3u8
 
