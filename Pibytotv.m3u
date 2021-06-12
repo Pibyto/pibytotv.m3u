@@ -554,6 +554,10 @@ https://tv.teleclub.xyz/canales/L1/FXM.m3u8
 #EXTINF:-1, FX
 https://tv.teleclub.xyz/canales/L1/FX.m3u8
 
+#EXTINF:-1, FX FHD
+http://tv.nousiptv.com:8080/richi/12345/4044
+
+
 #EXTINF:-1, A&E
 https://tv.teleclub.xyz/canales/L1/AYE.m3u8
 
