@@ -1072,6 +1072,10 @@ https://live-edge01.telecentro.net.ar/live/tlx.smil/chunklist_w994259910_b364000
 #EXTINF:-1, ECUAVISION
 https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
 
+#EXTINF:-1, ECUAVISION FHD
+http://tv.nousiptv.com:8080/richi/12345/53455
+
+
 #EXTINF:-1, TCS HD
 https://secure-video.tcsgo.com/tcshd/index.m3u8
 
