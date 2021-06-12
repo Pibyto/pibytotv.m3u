@@ -546,6 +546,10 @@ http://tv.nousiptv.com:8080/richi/12345/4103
 #EXTINF:-1, STUDIO UNIVERSAL
 https://tv.teleclub.xyz/canales/L1/STUDIOUNIVERSAL.m3u8
 
+#EXTINF:-1, STUDIO UNIVERSAL HD
+http://tv.nousiptv.com:8080/richi/12345/4100
+
+
 #EXTINF:-1, SONY
 https://tv.teleclub.xyz/canales/L1/SONY.m3u8
 
