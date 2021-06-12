@@ -240,6 +240,8 @@ https://tv.teleclub.xyz/canales/L1/TLNOVELAS.m3u8
 #EXTINF:-1, TELEMUNDO NOVELAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=0114&deviceDNT=0&deviceModel=0
 
+#EXTINF:-1, ÚNICABLE HD
+http://tv.nousiptv.com:8080/richi/12345/3230
 
 #EXTINF:-1, PANAMERICANA
 https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFtbJRHk-1lAoJ5qO-dkYQK0)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
