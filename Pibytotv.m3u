@@ -569,6 +569,9 @@ http://tv.nousiptv.com:8080/richi/12345/4048
 #EXTINF:-1, AXN
 https://tv.teleclub.xyz/canales/L1/AXN.m3u8
 
+#EXTINF:-1, AXN FHD
+http://tv.nousiptv.com:8080/richi/12345/4038
+
 #EXTINF:-1, FXM
 https://tv.teleclub.xyz/canales/L1/FXM.m3u8
 
