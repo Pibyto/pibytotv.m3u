@@ -284,6 +284,8 @@ http://tv.nousiptv.com:8080/richi/12345/4102
 #EXTINF:-1, DISNEY JUNIOR
 https://tv.teleclub.xyz/canales/L1/DISNEYJR.m3u8
 
+#EXTINF:-1, NICKELODEON HD
+http://tv.nousiptv.com:8080/richi/12345/4058
 
 #EXTINF:-1, NAT GEO KIDS
 https://tv.teleclub.xyz/canales/L1/NATGEOKIDS.m3u8
