@@ -278,6 +278,10 @@ http://tv.nousiptv.com:8080/richi/12345/5471
 #EXTINF:-1, RCN
 https://tv.teleclub.xyz/canales/L1/RCN.m3u8
 
+#EXTINF:-1, RCN NOVELAS HD
+http://tv.nousiptv.com:8080/richi/12345/2125
+
+
 #EXTINF:-1, LAS ESTRELLAS
 https://tv.teleclub.xyz/canales/L1/LASESTRELLAS.m3u8
 
