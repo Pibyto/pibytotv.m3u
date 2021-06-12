@@ -136,7 +136,12 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="LOCAL",29 QUILMES
 https://inliveserver.com:1936/8386/8386/playlist.m3u8
 
+#EXTINF:-1, UNITEL HD PERÚ
+https://cp.sradiotv.com:1936/8078/8078/chunklist_w1052790431.m3u8?WebM3UCL
 
+
+#EXTINF:-1, UNITEL HD BOLIVIA
+http://tv.nousiptv.com:8080/richi/12345/52619
 
 #EXTINF:-1, SOMOS DL ESTE PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
@@ -450,6 +455,7 @@ https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w735069103.m3u
 
 #EXTINF:-1, UNITEL HD PERÚ
 https://cp.sradiotv.com:1936/8078/8078/chunklist_w1052790431.m3u8?WebM3UCL
+
 #EXTINF:-1, HBO
 https://tv.teleclub.xyz/canales/L1/HBO.m3u8
 
