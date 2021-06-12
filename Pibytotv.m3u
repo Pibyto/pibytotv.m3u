@@ -151,7 +151,7 @@ https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w15
 #EXTINF:-1, BOLIVISION HD
 http://tv.nousiptv.com:8080/richi/12345/54733
 
-#EXTINF:-1, TELETICA 7
+#EXTINF:-1, TELETICA 7 COSTA RICA
 http://tv.nousiptv.com:8080/richi/12345/8148
 
 #EXTINF:-1, tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="LOCAL", CANAL 2 SANAGASTA
@@ -729,21 +729,23 @@ http://tv.nousiptv.com:8080/richi/12345/4093
 #EXTINF:-1, HISTORY 2
 https://tv.teleclub.xyz/canales/L1/H2.m3u8
 
-#EXTINF:-1, MOVISTAR DEPORTES FHD
+#EXTINF:-1, MOVISTAR DEPORTES FHD PERU
 http://tv.nousiptv.com:8080/richi/12345/1092642
 
 #EXTINF:-1, EL CANAL DEL FUTBOL 
 http://tv.nousiptv.com:8080/richi/12345/1092640
 
-#EXTINF:-1, WIN SPORT+
+#EXTINF:-1, WIN SPORT+ COLOMBIA
 http://tv.nousiptv.com:8080/richi/12345/54738
 
-#EXTINF:-1, TDN FHD
+#EXTINF:-1, TDN FHD MÉXICO
 http://tv.nousiptv.com:8080/richi/12345/3397
 
-#EXTINF:-1, IZZI AFICIONADOS FHD
+#EXTINF:-1, IZZI AFICIONADOS FHD MÉXICO
 http://tv.nousiptv.com:8080/richi/12345/8248
 
+#EXTINF:-1, TIGO SPORS COSTA RICA
+http://tv.nousiptv.com:8080/richi/12345/18594
 
 #EXTINF:-1, TNT SPORT 2
 https://tv.teleclub.xyz/canales/L1/TNTSPORTS_2.m3u8
