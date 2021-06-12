@@ -4,6 +4,12 @@
 http://tv.nousiptv.com:8080/richi/12345/6025
 #EXTINF:-1, TVN FHD
 http://tv.nousiptv.com:8080/richi/12345/53494
+#EXTINF:-1, ANTENA LATINA
+http://tv.nousiptv.com:8080/richi/12345/30079
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="CINE Y SERIES", NEO TV DIGITAL  14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
