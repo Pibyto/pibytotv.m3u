@@ -462,6 +462,55 @@ https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="CINE Y SERIES", CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
+#EXTINF:-1, CINEMA PPV 5 FHD
+http://tv.nousiptv.com:8080/richi/12345/8005
+
+#EXTINF:-1, CINEMA PPV 7  FHD
+http://tv.nousiptv.com:8080/richi/12345/8003
+
+
+
+#EXTINF:-1, CINEMA PPV 9 FHD
+http://tv.nousiptv.com:8080/richi/12345/8001
+
+
+#EXTINF:-1, CINEMA PPV 10 FHD
+http://tv.nousiptv.com:8080/richi/12345/8000
+
+
+#EXTINF:-1, CINEMA PPV 11 FHD
+http://tv.nousiptv.com:8080/richi/12345/7999
+
+
+
+#EXTINF:-1, CINEMA PPV 12 FHD
+http://tv.nousiptv.com:8080/richi/12345/7998
+
+
+#EXTINF:-1, CINEMA PPV 14 FHD
+http://tv.nousiptv.com:8080/richi/12345/7996
+
+
+#EXTINF:-1, CINEMA PPV 21 FHD
+http://tv.nousiptv.com:8080/richi/12345/7989
+
+
+#EXTINF:-1, CINEMA PPV 22  FHD
+http://tv.nousiptv.com:8080/richi/12345/7988
+
+
+#EXTINF:-1, CINEMA PPV  28 FHD
+http://tv.nousiptv.com:8080/richi/12345/7982
+
+
+#EXTINF:-1, CINEMA PPV 30 FHD
+http://tv.nousiptv.com:8080/richi/12345/7980
+
+
+#EXTINF:-1, CINEMA PPV 31 FHD
+http://tv.nousiptv.com:8080/richi/12345/7979
+
+
 
 #EXTINF:-1, HBO
 https://tv.teleclub.xyz/canales/L1/HBO.m3u8
