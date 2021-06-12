@@ -297,6 +297,11 @@ https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
 https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 
 
+#EXTINF:-1, PARAVISION
+http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?WebM3UCL
+?k=1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1&exp=1620012761
+
+
 #EXTINF:-1, CARACOL
 https://tv.teleclub.xyz/canales/L1/CARACOL.m3u8
 
@@ -452,9 +457,6 @@ https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="CINE Y SERIES", CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
-#EXTINF:-1, HECHIZERA TV PERÙ
-https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w735069103.m3u8?WebM3UCL
 
 
 #EXTINF:-1, HBO
