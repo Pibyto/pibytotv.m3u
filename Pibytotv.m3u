@@ -2116,7 +2116,8 @@ http://ipeteve.com/REGIOFLIX100321/Ruega.por.nosotros.SrRegio.mkv
 http://ps3u.ga/m3u/Lista02Peliculas/godzillavskong/index.mp4
 
 
-
+#EXTINF:-1, tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", ASSASSIN'S CREED 4K
+http://tv.nousiptv.com:8080/movie/richi/12345/1093687.mkv
 
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", MORTAL KOMBAT
