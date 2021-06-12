@@ -667,6 +667,9 @@ http://tv.nousiptv.com:8080/richi/12345/1092642
 #EXTINF:-1, TDN FHD
 http://tv.nousiptv.com:8080/richi/12345/3397
 
+#EXTINF:-1, IZZI AFICIONADOS FHD
+http://tv.nousiptv.com:8080/richi/12345/8248
+
 
 #EXTINF:-1, TNT SPORT 2
 https://tv.teleclub.xyz/canales/L1/TNTSPORTS_2.m3u8
