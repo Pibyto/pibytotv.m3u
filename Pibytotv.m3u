@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, TVMAX FHD
-http://tv.nousiptv.com:8080/richi/12345/6025
-#EXTINF:-1, TVN FHD
-http://tv.nousiptv.com:8080/richi/12345/53494
-#EXTINF:-1, ANTENA LATINA
-http://tv.nousiptv.com:8080/richi/12345/30079
-
-#EXTINF:-1, TELEMETRO
-http://tv.nousiptv.com:8080/richi/12345/7685
 
 
 
@@ -286,6 +277,11 @@ http://tv.nousiptv.com:8080/richi/12345/56273
 
 #EXTINF:-1, AZTECA UNO FHD
 http://tv.nousiptv.com:8080/richi/12345/4087
+
+
+#EXTINF:-1, TELEMETRO
+http://tv.nousiptv.com:8080/richi/12345/7685
+
 
 #EXTINF:-1, PANAMERICANA
 https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFtbJRHk-1lAoJ5qO-dkYQK0)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
