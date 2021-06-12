@@ -251,6 +251,9 @@ http://tv.nousiptv.com:8080/richi/12345/1085156
 #EXTINF:-1, TELEMUNDO
 https://tv.teleclub.xyz/canales/L1/TELEMUNDO.m3u8
 
+#EXTINF:-1, UNIMAS DALLAS
+http://tv.nousiptv.com:8080/richi/12345/3795
+
 #EXTINF:-1, UNIVISIÓN HD
 http://tv.nousiptv.com:8080/richi/12345/1090591
 
