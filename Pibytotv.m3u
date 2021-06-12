@@ -51,6 +51,11 @@ http://tv.nousiptv.com:8080/richi/12345/51072
 #EXTINF:-1, TELEFE FHD
 http://tv.nousiptv.com:8080/richi/12345/51071
 
+
+#EXTINF:-1, ENLACE
+http://tv.nousiptv.com:8080/richi/12345/51353
+
+
 #EXTINF:-1, EL TRECE FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
