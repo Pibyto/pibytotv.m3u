@@ -248,6 +248,8 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1, TELEMUNDO
 https://tv.teleclub.xyz/canales/L1/TELEMUNDO.m3u8
 
+#EXTINF:-1, UNIVISIÓN HD
+http://tv.nousiptv.com:8080/richi/12345/1090591
 
 #EXTINF:-1, TLN TELENOVELAS
 https://tv.teleclub.xyz/canales/L1/TLNOVELAS.m3u8
