@@ -246,7 +246,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a3
 #EXTINF:-1, LATINA FHD
 http://tv.nousiptv.com:8080/richi/12345/56273
 
-#EXTINF:-1, AZTECA UNO
+#EXTINF:-1, AZTECA UNO FHD
 http://tv.nousiptv.com:8080/richi/12345/4087
 
 #EXTINF:-1, PANAMERICANA
@@ -663,8 +663,15 @@ https://tv.teleclub.xyz/canales/L1/H2.m3u8
 
 #EXTINF:-1, MOVISTAR DEPORTES FHD
 http://tv.nousiptv.com:8080/richi/12345/1092642
+
+#EXTINF:-1, TDN FHD
+http://tv.nousiptv.com:8080/richi/12345/3397
+
+
 #EXTINF:-1, TNT SPORT 2
 https://tv.teleclub.xyz/canales/L1/TNTSPORTS_2.m3u8
+
+
 
 #EXTINF:-1, TNT SPORT 3
 https://tv.teleclub.xyz/canales/L1/TNTSPORT_3.m3u8
