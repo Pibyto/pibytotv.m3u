@@ -2144,11 +2144,13 @@ http://tv.nousiptv.com:8080/movie/richi/12345/1093851.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS",
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", RÁPIDOS Y FURIOSOS 7 4K
+http://tv.nousiptv.com:8080/movie/richi/12345/1093721.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS",
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", DIOSES DE EGIPTO 4K
+http://tv.nousiptv.com:8080/movie/richi/12345/1093730.mkv
 
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", MORTAL KOMBAT
