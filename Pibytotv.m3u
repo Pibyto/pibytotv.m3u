@@ -33,6 +33,7 @@ http://tv.nousiptv.com:8080/richi/12345/8132
 http://tv.nousiptv.com:8080/richi/12345/1066863
 
 
+
 #EXTINF:-1, STARZ IN BLACK
 http://tv.nousiptv.com:8080/richi/12345/8137
 
@@ -146,6 +147,8 @@ https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 #EXTINF:-1, CNR TV
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
+#EXTINF:-1, CANAL 11 HONDURAS
+http://tv.nousiptv.com:8080/richi/12345/16721
 
 #EXTINF:-1, PAX TV
 http://vs8.live.opencaster.com:80/20100152275/jcpstream/chunklist_w2122096626.m3u8?WebM3UCL
