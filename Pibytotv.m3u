@@ -467,7 +467,8 @@ http://tv.nousiptv.com:8080/richi/12345/4023
 #EXTINF:-1, STAR CHANNEL
 https://tv.teleclub.xyz/canales/L1/FOX.m3u8
 
-
+#EXTINF:-1, STAR CHANNEL HD
+http://tv.nousiptv.com:8080/richi/12345/4022
 
 #EXTINF:-1, STAR LIFE
 https://tv.teleclub.xyz/canales/L1/FOXLIFE.m3u8
