@@ -2156,6 +2156,9 @@ http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
 https://panel.nexolife.ar/stream/laradio923?1623598756622
 
 
+#EXTINF:-1, FM ESTACIÓN LUZ 103.5 SAN RAFAEL MZA
+https://sonic.dattalive.com:10890/stream
+
 
 #EXTINF:-1 tvg-logo="https://www.lavozdeldesierto.com.ar/images/design/isologo.png" group-title="RADIO", FM LA VOZ DEL DESIERTO NEUQUEN
 https://stmv1.srvstm.com/vozdesierto/vozdesierto/playlist.m3u8
