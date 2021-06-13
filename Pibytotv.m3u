@@ -2226,6 +2226,9 @@ https://mdstrm.com/audio/601bf3e463786007e6d3b9b0/live.m3u8
 http://radiolatina.live:9300/;
 
 
+#EXTINF:-1, RADIO CRISTIANA FM 88.3  "RADIO"
+https://acastream.org:20048/;
+
 
 #EXTINF:-1, FM CRISTAL  "RADIO"
 http://200.58.106.247:9156/stream
