@@ -2233,10 +2233,10 @@ http://200.58.106.247:9156/stream
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg" group-title="RADIO", CIUDAD MAGICA 105.1 FM AUSONIA 
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
-#EXTINF:-1, FM PASION  "RADIO"
+#EXTINF:-1, FM PASION  "RADIO" AVELLANEDA
 https://streamlky.alsolnet.com/fmpasion
 
-
+#EXTINF:-1, FM REGION. "RADIO" LOMAS DE ZAMORA
 
 
 
