@@ -2154,7 +2154,7 @@ https://buecrplb01.cienradios.com.ar/823_Stamateas_Para_Todos_32000.aac
 
 
 
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO" LA100 FM99.9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO" LA100 FM99.9
 https://radioindia.net/Argentina/la-100/icecast.audio
 
 
@@ -2168,7 +2168,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AA
 
 
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radio_10_AM_710_%282020%29.png/800px-Radio_10_AM_710_%282020%29.png" group-title="RADIO"R10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radio_10_AM_710_%282020%29.png/800px-Radio_10_AM_710_%282020%29.png" group-title="RADIO"R10
 https://s8.stweb.tv/radio10/live/playlist.m3u8
 
 
