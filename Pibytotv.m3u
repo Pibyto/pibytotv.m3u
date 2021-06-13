@@ -2118,6 +2118,13 @@ https://www.youtube.com/watch?v=xytsE16CgUk
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", ROCK AND POP (SOLO IPTV AZUL)
+https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
+
+
+#EXTINF:-1, METRO 95.1 "RADIO"
+http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
+
 
 
 #EXTINF:-1, RADIO AMA92.3"RADIO"
@@ -2175,12 +2182,6 @@ http://200.58.106.247:9156/stream
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", ROCK AND POP (SOLO IPTV AZUL)
-https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
-
-
-#EXTINF:-1, METRO 95.1 "RADIO"
-http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
 
 
 
