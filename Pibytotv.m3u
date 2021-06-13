@@ -2153,8 +2153,7 @@ https://vivo.solumedia.com:19360/cesarb/cesarb.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO", RADIO MITRE
-https://g2.mc-slo.transport.edge-access.net:443/b04/ngrp:MITREHD-10002_all/MITREHD-10002_720p.m3u8
-https://g4.vxral-hor.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/Playlist.m3u8?sense=true
+https://buecrplb01.cienradios.com.ar/Mitre790.aac
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metro951.png/225px-Metro951.png" group-title="RADIO", METRO 95.1
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
