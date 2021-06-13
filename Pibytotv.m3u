@@ -2138,6 +2138,9 @@ http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://rcm88.com.ar/wp-content/uploads/2018/04/cropped-logo-web-1-1.png" group-title="RADIO", RADIO CIUDAD 100.3 FM CORONEL MOLDES
+https://vivo.solumedia.com:19360/cesarb/cesarb.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Mitre_SA.JPG" group-title="RADIO", RADIO MITRE
