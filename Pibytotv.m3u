@@ -2163,7 +2163,7 @@ https://radioindia.net/Argentina/la-100/icecast.audio
 https://ny2.stweb.tv/popradio/live/playlist.m3u8??wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE4IDg6Mzk6MTggUE0maGFzaF92YWx1ZT00TUJyT0FvSXVJQ2p2ZHpwVVoyZDh3PT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTk=
 
 
-#EXTINF:-1, LA RED AM910  "RADIO"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Radio_La_Red_AM_910.png" group-title="RADIO", LA RED
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC
 
 
