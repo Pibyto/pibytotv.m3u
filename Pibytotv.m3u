@@ -2154,7 +2154,7 @@ https://buecrplb01.cienradios.com.ar/823_Stamateas_Para_Todos_32000.aac
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO" LA100 FM99.9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIO", LA100
 https://radioindia.net/Argentina/la-100/icecast.audio
 
 
@@ -2163,27 +2163,27 @@ https://radioindia.net/Argentina/la-100/icecast.audio
 https://ny2.stweb.tv/popradio/live/playlist.m3u8??wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE4IDg6Mzk6MTggUE0maGFzaF92YWx1ZT00TUJyT0FvSXVJQ2p2ZHpwVVoyZDh3PT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTk=
 
 
-#EXTINF:-1, LA RED AM910 "RADIO"
+#EXTINF:-1, LA RED AM910  "RADIO"
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radio_10_AM_710_%282020%29.png/800px-Radio_10_AM_710_%282020%29.png" group-title="RADIO"R10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Radio_10_AM_710_%282020%29.png/800px-Radio_10_AM_710_%282020%29.png" group-title="RADIO", R10
 https://s8.stweb.tv/radio10/live/playlist.m3u8
 
 
 
-#EXTINF:-1, AM750 "RADIO"
+#EXTINF:-1, AM750  "RADIO"
 https://mdstrm.com/audio/601bf3e463786007e6d3b9b0/live.m3u8
 
 
 
-#EXTINF:-1, VORTERIX "RADIO"
+#EXTINF:-1, VORTERIX  "RADIO"
 http://radiolatina.live:9300/;
 
 
 
-#EXTINF:-1, FM CRISTAL "RADIO"
+#EXTINF:-1, FM CRISTAL  "RADIO"
 http://200.58.106.247:9156/stream
 
 
