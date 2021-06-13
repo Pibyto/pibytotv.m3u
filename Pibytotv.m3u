@@ -2159,6 +2159,11 @@ https://radioindia.net/Argentina/la-100/icecast.audio
 
 
 
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/88feb4de6cabd53d7af9879e56131cbd.jpg" group-title="RADIO", RADIO VALE 97.5
+http://vale.stweb.tv:1935/vale/live/playlist.m3u8
+
+
+
 #EXTINF:-1, POP RADIO 101.5 "RADIO"
 https://ny2.stweb.tv/popradio/live/playlist.m3u8??wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE4IDg6Mzk6MTggUE0maGFzaF92YWx1ZT00TUJyT0FvSXVJQ2p2ZHpwVVoyZDh3PT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTk=
 
