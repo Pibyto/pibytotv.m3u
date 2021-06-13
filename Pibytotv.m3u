@@ -2167,7 +2167,8 @@ http://vale.stweb.tv:1935/vale/live/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="RADIO", LATINA 101.1 
 http://streaming.latina101.com.ar:8080/RadioLatina  
 
-
+#EXTINF:-1 tvg-logo="https://nacionalypopular.nvc.org.ar/wp-content/uploads/2017/04/logo.png" group-title="RADIO", FM 100.9 PRIMERO LO NUESTRO - MONTE GRANDE
+https://server.laradio.online/proxy/roberto_devoto?mp=/stream&1623607203254
 
 
 #EXTINF:-1, POP RADIO 101.5 "RADIO"
