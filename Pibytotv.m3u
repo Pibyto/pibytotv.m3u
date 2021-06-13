@@ -2115,6 +2115,24 @@ https://www.youtube.com/watch?v=kg1I6vR1t0g
 #EXTINF:-1 group-title="INFANTIL", Blippi
 https://www.youtube.com/watch?v=xytsE16CgUk
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Radio_rockpop.png" group-title="RADIO 3 (SOLO AUDIO - IPTV AZUL)", ROCK AND POP (SOLO IPTV AZUL)
+https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
+
+
+#EXTINF:-1, METRO 95.1 "RADIO"
+http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", RUEGA POR NOSOTROS
 http://ipeteve.com/REGIOFLIX100321/Ruega.por.nosotros.SrRegio.mkv
 
