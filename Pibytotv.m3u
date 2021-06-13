@@ -2133,7 +2133,7 @@ https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
 https://g5.mc-slo.transport.edge-access.net/b04/ngrp:MITREHD-10002_all/MITREHD-10002_540p.m3u8
 
 
-#EXTINF:-1, METRO 95.1 "RADIO"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Metro951.png/225px-Metro951.png" group-title="RADIO", METRO 95.1
 http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
 
 
