@@ -142,6 +142,9 @@ http://tv.nousiptv.com:8080/richi/12345/7425
 #EXTINF:-1, HECHIZERA TV PERÙ
 https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w735069103.m3u8?WebM3UCL
 
+#EXTINF:-1, TVS HD PARAGUAY
+https://rds3.desdeparaguay.net:443/tvs/tvs/chunklist_w190074850.m3u8?k=4d562eb979eb58bf2c1f0ab405de1e73e700e595ecadf287126338402989b011&exp=1623594212
+
 #EXTINF:-1, MEGA TV PUELTO RICO
 http://tv.nousiptv.com:8080/richi/12345/43872
 
