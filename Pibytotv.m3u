@@ -2178,7 +2178,7 @@ https://mdstrm.com/audio/601bf3e463786007e6d3b9b0/live.m3u8
 
 
 
-#EXTINF:-1, VORTERIX  "RADIO"
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg" group-title="RADIO", VORTERIX - 92.1 FM
 http://radiolatina.live:9300/;
 
 
