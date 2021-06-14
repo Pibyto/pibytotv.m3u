@@ -13,6 +13,17 @@ http://tv.nousiptv.com:8080/richi/12345/8127
 http://tv.nousiptv.com:8080/richi/12345/8130
 
 
+#EXTINF:-1, ACION MAX FHD
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54862
+
+
+#EXTINF:-1, CINEMA CIENCIA FICCIÓN HD
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/57652
+
+
+#EXTINF:-1, CINEMA DC COMICS HD
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/57653
+
 #EXTINF:-1, VIDA TV "RELIGIÓN"
 http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
 
@@ -25,6 +36,12 @@ http://tv.nousiptv.com:8080/richi/12345/1066863
 
 #EXTINF:-1, CRISTIANA TV "RELIGIÓN"
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?WebM3UCL
+
+
+#EXTINF:-1, DC COMICS UNIVERSE HD
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/57654
+
+
 
 
 #EXTINF:-1, STARZ IN BLACK
