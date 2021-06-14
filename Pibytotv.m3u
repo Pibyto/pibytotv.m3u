@@ -1176,7 +1176,7 @@ https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?WebM3UCL
 #EXTINF:-1, TELECARIBE
 https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8?WebM3UCL
 
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="LOCA",29 QUILMES
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="LOCAL",29 QUILMES
 https://inliveserver.com:1936/8386/8386/playlist.m3u8
 
 
