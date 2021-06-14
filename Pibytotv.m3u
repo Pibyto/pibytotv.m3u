@@ -72,7 +72,8 @@ http://tv.nousiptv.com:8080/richi/12345/4188
 
 #EXTINF:-1, TELEFUTURO HD PARAGUAY
 https://edge7-ccast-sl.cvattv.com.ar:443/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000.m3u8
-
+#EXTINF:-1, 24/7 X MEN ANIMADO
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/64070
 
 #EXTINF:-1, tvg-name="DIOS TE VE HD",DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
