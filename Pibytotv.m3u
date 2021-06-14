@@ -72,8 +72,45 @@ http://tv.nousiptv.com:8080/richi/12345/4188
 
 #EXTINF:-1, TELEFUTURO HD PARAGUAY
 https://edge7-ccast-sl.cvattv.com.ar:443/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000.m3u8
+
+
+
+
 #EXTINF:-1, 24/7 X MEN ANIMADO
 http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/64070
+
+#EXTINF:-1, 24/7 CINEMA HORROR
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/65518
+
+
+#EXTINF:-1, 24/7 CINE ACCION
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66793
+
+
+#EXTINF:-1, 24/7 CINE ACCIÓN SAGAS
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66788
+
+
+#EXTINF:-1, 24/7 CINE INFANTIL
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66790
+
+
+#EXTINF:-1, 24/7 CINE SAGAS INFANTIL
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66789
+
+
+#EXTINF:-1, 24/7 AVENGERS
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/57873
+
+
+#EXTINF:-1, 24/7 EL CLON (NOVELA)
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54965
+
+
+
+
+
+
 
 #EXTINF:-1, tvg-name="DIOS TE VE HD",DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
