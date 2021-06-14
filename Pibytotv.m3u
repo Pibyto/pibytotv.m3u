@@ -75,6 +75,15 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w249371828.m3u8
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/i/canal5rosario_1@685724/master.m3u8?hdnea=st=1623355061~exp=1623531461~acl=/i/canal5rosario_1@685724/*~hmac=083630ddc99b34cde89042dda5e0cbdbdeb8e306b31b6930e51cd9f11c48dc8d
 
+
+#EXTINF:-1, MOREMAX FHD
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54867
+
+
+#EXTINF:-1, MOVIEMAX FHD
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54868
+
+
 #EXTINF:-1, CANAL NUEVE
 http://tv.nousiptv.com:8080/richi/12345/51072
 
@@ -101,7 +110,12 @@ http://tv.nousiptv.com:8080/richi/12345/4188
 #EXTINF:-1, TELEFUTURO HD PARAGUAY
 https://edge7-ccast-sl.cvattv.com.ar:443/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000.m3u8
 
+#EXTINF:-1, OUTERMAX FHD
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54870
 
+
+#EXTINF:-1, DELISIOSO HD
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54864
 
 
 #EXTINF:-1, 24/7 X MEN ANIMADO
