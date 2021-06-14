@@ -2155,6 +2155,10 @@ https://panel.nexolife.ar/stream/laradio923?1623598756622
 https://sonic.dattalive.com:10890/stream
 
 
+#EXTINF:-1, RADIO GO PARAGUAY
+https://rds3.desdeparaguay.net:443/gotv/gotv/chunklist_w1290628405.m3u8?k=cb1c30c1880a5d09a6181abd0d13b71f4cdae27ac58c6244057eba73b7b55bf3&exp=1623635268
+
+
 #EXTINF:-1 tvg-logo="https://www.lavozdeldesierto.com.ar/images/design/isologo.png" group-title="RADIO", FM LA VOZ DEL DESIERTO NEUQUEN
 https://stmv1.srvstm.com/vozdesierto/vozdesierto/playlist.m3u8
 
