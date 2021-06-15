@@ -73,6 +73,9 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/i/canal5rosario_1@685724/master.m3u8?hdnea=st=1623355061~exp=1623531461~acl=/i/canal5rosario_1@685724/*~hmac=083630ddc99b34cde89042dda5e0cbdbdeb8e306b31b6930e51cd9f11c48dc8d
 
 
+#EXTINF:-1, STARZ CINEMA FHD
+http://nomorecable.xyz:80/lava123/lava123/96201
+
 #EXTINF:-1, CANAL NUEVE
 http://tv.nousiptv.com:8080/richi/12345/51072
 
@@ -81,6 +84,9 @@ http://tv.nousiptv.com:8080/richi/12345/51071
 
 #EXTINF:-1, ALCANCE TV "RELIGIÓN"
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
+
+#EXTINF:-1, 
+
 
 
 #EXTINF:-1, EL TRECE FHD
@@ -550,8 +556,35 @@ http://tv.nousiptv.com:8080/richi/12345/7982
 http://tv.nousiptv.com:8080/richi/12345/7980
 
 
+
 #EXTINF:-1, CINEMA PPV 31 FHD
 http://tv.nousiptv.com:8080/richi/12345/7979
+
+
+
+
+
+
+
+#EXTINF:-1, STARZ EAST FHD
+http://nomorecable.xyz:80/lava123/lava123/96204
+
+#EXTINF:-1, STARZ EDGE FHD
+http://nomorecable.xyz:80/lava123/lava123/96205
+
+#EXTINF:-1, STARZ ENCORE SUSPENCE FHD
+http://nomorecable.xyz:80/lava123/lava123/96212
+
+#EXTINF:-1, STARZ ENCORE WÉSTERN FHD
+http://nomorecable.xyz:80/lava123/lava123/96213
+
+
+#EXTINF:-1, OUTERMAX FHD
+http://nomorecable.xyz:80/lava123/lava123/96191
+
+
+
+
 
 
 
