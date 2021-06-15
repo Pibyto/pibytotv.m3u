@@ -113,7 +113,8 @@ http://tv.nousiptv.com:8080/richi/12345/4188
 https://edge7-ccast-sl.cvattv.com.ar:443/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000.m3u8
 
 
-
+#EXTINF:-1,LAT: TELEVISA
+http://scrapehost.com:8080/123456/654321/69534
 
 
 
