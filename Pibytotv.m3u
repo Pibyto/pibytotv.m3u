@@ -13,9 +13,6 @@ http://tv.nousiptv.com:8080/richi/12345/8127
 http://tv.nousiptv.com:8080/richi/12345/8130
 
 
-#EXTINF:-1, ACION MAX FHD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54862
-
 
 #EXTINF:-1, CINEMA CIENCIA FICCIÓN HD
 http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/57652
@@ -38,8 +35,6 @@ http://tv.nousiptv.com:8080/richi/12345/1066863
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?WebM3UCL
 
 
-#EXTINF:-1, DC COMICS UNIVERSE HD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/57654
 
 
 
@@ -52,17 +47,6 @@ http://tv.nousiptv.com:8080/richi/12345/8137
 http://tv.nousiptv.com:8080/richi/12345/8145
 
 
-#EXTINF:-1, CINEMA DISNEY FAMILY HD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/57655
-
-
-#EXTINF:-1, SHOWTIME BEYOND FHD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54871
-
-
-#EXTINF:-1, SHOWTIME EAST FHD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54872
-
 
 #EXTINF:-1, STARZ COMEDY
 http://tv.nousiptv.com:8080/richi/12345/8135
@@ -74,14 +58,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w249371828.m3u8
 #EXTINF: -1, V + MAS VIDA TV "RELIGIÓN"
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/i/canal5rosario_1@685724/master.m3u8?hdnea=st=1623355061~exp=1623531461~acl=/i/canal5rosario_1@685724/*~hmac=083630ddc99b34cde89042dda5e0cbdbdeb8e306b31b6930e51cd9f11c48dc8d
-
-
-#EXTINF:-1, MOREMAX FHD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54867
-
-
-#EXTINF:-1, MOVIEMAX FHD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54868
 
 
 #EXTINF:-1, CANAL NUEVE
@@ -110,40 +86,9 @@ http://tv.nousiptv.com:8080/richi/12345/4188
 #EXTINF:-1, TELEFUTURO HD PARAGUAY
 https://edge7-ccast-sl.cvattv.com.ar:443/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000.m3u8
 
-#EXTINF:-1, OUTERMAX FHD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54870
-
-
-#EXTINF:-1, DELISIOSO HD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54864
-
 
 #EXTINF:-1, 24/7 X MEN ANIMADO
 http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/64070
-
-#EXTINF:-1, 24/7 CINEMA HORROR
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/65518
-
-
-#EXTINF:-1, 24/7 CINE ACCION
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66793
-
-
-#EXTINF:-1, 24/7 CINE ACCIÓN SAGAS
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66788
-
-
-#EXTINF:-1, 24/7 CINE INFANTIL
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66790
-
-
-#EXTINF:-1, 24/7 CINE SAGAS INFANTIL
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66789
-
-
-#EXTINF:-1, 24/7 AVENGERS
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/57873
-
 
 #EXTINF:-1, 24/7 EL CLON (NOVELA)
 http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54965
@@ -151,45 +96,6 @@ http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/54965
 #EXTINF:-1, 24/7 CINE ACCION HD
 http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66794
 
-
-#EXTINF:-1, 24/7 CINE COMEDIA 1
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66795
-
-
-#EXTINF:-1, 24/7 CINE COMEDIA 2
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66796
-
-
-#EXTINF:-1, 24/7 CINE FANTASIA 1
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66797
-
-
-#EXTINF:-1, 24/7 CINE FANTASIA 2
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66798
-
-
-#EXTINF:-1, 24/7 CINE FANTASÍA HD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66799
-
-
-#EXTINF:-1, 24/7 CINE MARVEL HD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66792
-
-#EXTINF:-1, 24/7 CINE ROMANCE HD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66802
-
-
-#EXTINF:-1, 24/7 CINE TERROR HD
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66804
-
-
-#EXTINF:-1, 24/7 CINE ZOMBIES
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/66805
-
-
-
-#EXTINF:-1, 24/7 CASTLEVANIA
-http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/64024
 
 
 
