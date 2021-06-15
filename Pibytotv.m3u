@@ -13,8 +13,12 @@ http://tv.nousiptv.com:8080/richi/12345/8127
 http://tv.nousiptv.com:8080/richi/12345/8130
 
 #EXTINF:-1, OUTERMAX FHD
-http://nomorecable.xyz:80/lava123/lava123/961
+http://nomorecable.xyz:80/lava123/lava123/96194
 
+
+
+#EXTINF:-1, MOREMAX
+http://nomorecable.xyz:80/lava123/lava123/96191
 
 #EXTINF:-1, HBO WEST FHD
 http://nomorecable.xyz:80/lava123/lava123/96189
