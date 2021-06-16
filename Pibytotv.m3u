@@ -31,11 +31,12 @@ http://tv.nousiptv.com:8080/richi/12345/51071
 #EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title="RELIGION", UNIFE TV  25.1
 https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title=", CINCO TV TIGRE  30.1
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
+#EXTINF:-1, TVP FHD
+http://tv.nousiptv.com:8080/richi/12345/8183
 
-
-#EXTINF:-1, TELEFUTURO HD PARAGUAY
-https://edge7-ccast-sl.cvattv.com.ar:443/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000.m3u8
 
 #EXTINF:-1, SNT PARAGUAY
 http://tv.nousiptv.com:8080/richi/12345/7425
@@ -61,8 +62,6 @@ http://nomorecable.xyz:80/lava123/lava123/96216
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w249371828.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="CINE Y SERIES", CINCO TV TIGRE  30.1
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
 #EXTINF: -1, V + MAS VIDA TV "RELIGIÓN"
@@ -79,9 +78,6 @@ http://nomorecable.xyz:80/lava123/lava123/96214
 
 #EXTINF:-1, AMÉRICA TV TUCUMÁN
 http://45.6.4.154/americatuc/vivo.m3u8?WebM3UCL
-
-#EXTINF:-1, TVP FHD
-http://tv.nousiptv.com:8080/richi/12345/8183
 
 #EXTINF:-1, CRONICA HD
 http://tv.nousiptv.com:8080/richi/12345/4188
