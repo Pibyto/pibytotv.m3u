@@ -17,11 +17,11 @@ https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w15
 https://videohd.live:19360/8010/8010.m3u8
 
 
-#EXTINF:-1, EL TRECE FHD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title=", EL TRECE FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1, CANAL NUEVE
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title=", CANAL NUEVE
 http://tv.nousiptv.com:8080/richi/12345/51072
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title=", TELEFE FHD
