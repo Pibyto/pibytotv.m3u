@@ -6,6 +6,42 @@
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="CINE Y SERIES", NEO TV DIGITAL  14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1, RCN PARAGUAY 
+https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
+
+
+#EXTINF:-1, SOMOS DL ESTE PARAGUAY
+https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="LOCAL", GEN TV  17.3
+https://videohd.live:19360/8010/8010.m3u8
+
+
+#EXTINF:-1, EL TRECE FHD
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1, CANAL NUEVE
+http://tv.nousiptv.com:8080/richi/12345/51072
+
+#EXTINF:-1, TELEFE FHD
+http://tv.nousiptv.com:8080/richi/12345/51071
+
+
+#EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title="RELIGION", UNIFE TV  25.1
+https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
+
+
+
+
+#EXTINF:-1, TELEFUTURO HD PARAGUAY
+https://edge7-ccast-sl.cvattv.com.ar:443/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000.m3u8
+
+#EXTINF:-1, SNT PARAGUAY
+http://tv.nousiptv.com:8080/richi/12345/7425
+
+
+
 
 #EXTINF:-1, VIDA TV "RELIGIÓN"
 http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
@@ -17,10 +53,16 @@ http://tv.nousiptv.com:8080/richi/12345/1066863
 #EXTINF:-1, CRISTIANA TV "RELIGIÓN"
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?WebM3UCL
 
+#EXTINF:-1, STARZ KIDS & FAMILY FHD
+http://nomorecable.xyz:80/lava123/lava123/96216
 
 
 #EXTINF:-1, EXTREMA TV "RELIGIÓN"
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w249371828.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="CINE Y SERIES", CINCO TV TIGRE  30.1
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
 #EXTINF: -1, V + MAS VIDA TV "RELIGIÓN"
@@ -28,26 +70,12 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/i/canal5rosario_1@685724/master.m3u8?hdnea=st=1623355061~exp=1623531461~acl=/i/canal5rosario_1@685724/*~hmac=083630ddc99b34cde89042dda5e0cbdbdeb8e306b31b6930e51cd9f11c48dc8d
 
 
-#EXTINF:-1, STARZ CINEMA FHD
-http://nomorecable.xyz:80/lava123/lava123/96201
-
-#EXTINF:-1, CANAL NUEVE
-http://tv.nousiptv.com:8080/richi/12345/51072
-
-#EXTINF:-1, TELEFE FHD
-http://tv.nousiptv.com:8080/richi/12345/51071
 
 #EXTINF:-1, ALCANCE TV "RELIGIÓN"
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
 
-#EXTINF:-1, STARZ KIDS & FAMILY FHD
-http://nomorecable.xyz:80/lava123/lava123/96216
-
 #EXTINF:-1, STARZ FAMILY FHD
 http://nomorecable.xyz:80/lava123/lava123/96214
-
-#EXTINF:-1, EL TRECE FHD
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, AMÉRICA TV TUCUMÁN
 http://45.6.4.154/americatuc/vivo.m3u8?WebM3UCL
@@ -59,8 +87,6 @@ http://tv.nousiptv.com:8080/richi/12345/8183
 http://tv.nousiptv.com:8080/richi/12345/4188
 
 
-#EXTINF:-1, TELEFUTURO HD PARAGUAY
-https://edge7-ccast-sl.cvattv.com.ar:443/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000.m3u8
 
 
 #EXTINF:-1,LAT: TELEVISA
@@ -98,9 +124,6 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 #EXTINF:-1, CINE AR
 https://5fb24b460df87.streamlock.net:443/live-cont.ar/cinear/chunklist_w525043877.m3u8
 
-#EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title="RELIGION", UNIFE TV  25.1
-https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
-
 
 #EXTINF:-1, EL TRES CÓRDOBA
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
@@ -124,9 +147,6 @@ https://5bf8041cb3fed.streamlock.net:443/TeveVida/TeveVida/chunklist_w1065613269
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="LOCAL", GEN TV  17.3
-https://videohd.live:19360/8010/8010.m3u8
-
 #EXTINF:-1, CANAL 34
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
@@ -136,8 +156,6 @@ https://inliveserver.com:1936/8386/8386/playlist.m3u8
 #EXTINF:-1, UNITEL HD PERÚ
 https://cp.sradiotv.com:1936/8078/8078/chunklist_w1052790431.m3u8?WebM3UCL
 
-#EXTINF:-1, SNT PARAGUAY
-http://tv.nousiptv.com:8080/richi/12345/7425
 
 
 #EXTINF:-1, GEN TV PARAGUAY
@@ -156,8 +174,6 @@ http://tv.nousiptv.com:8080/richi/12345/43872
 #EXTINF:-1, UNITEL HD BOLIVIA
 http://tv.nousiptv.com:8080/richi/12345/52619
 
-#EXTINF:-1, SOMOS DL ESTE PARAGUAY
-https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 #EXTINF:-1, BOLIVISION HD
 http://tv.nousiptv.com:8080/richi/12345/54733
@@ -177,9 +193,6 @@ http://tv.nousiptv.com:8080/richi/12345/16721
 #EXTINF:-1, PAX TV
 http://vs8.live.opencaster.com:80/20100152275/jcpstream/chunklist_w2122096626.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="CINE Y SERIES", CINCO TV TIGRE  30.1
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://lavozdesanpedro.com.ar/wp-content/uploads/2020/04/LOGO-NUEVO-2020_3.png" group-title="CINE Y SERIES", CANAL 32 SPTV SAN PEDRO
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 
@@ -193,8 +206,6 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="CINE Y SERIES", CANAL 9 NORTE MISIONES
 https://panel.dattalive.com/8076/8076/playlist.m3u8
-#EXTINF:-1, RCN PARAGUAY 
-https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="CINE Y SERIES", RTV CABLE JUJUY
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
