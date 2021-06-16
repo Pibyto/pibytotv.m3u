@@ -81,7 +81,8 @@ http://tv.nousiptv.com:8080/richi/12345/4188
 #EXTINF:-1, SNT HD
 http://tv.nousiptv.com:8080/richi/12345/7425
 
-
+#EXTINF:-1, CANAL 5 DEL PUEBLO
+https://stmvideo1.livecastv.com:443/canal5/canal5/chunklist_w723872153.m3u8?WebM3UCL
 
 
 #EXTINF:-1, VIDA TV "RELIGIÓN"
