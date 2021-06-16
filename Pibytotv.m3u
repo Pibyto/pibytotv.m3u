@@ -40,7 +40,7 @@ https://panel.dattalive.com:443/8012/8012/chunklist_w1200568792.m3u
 
 
 
-#EXTINF:-1, TVP FHD
+#EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title=", TVP FHD
 http://tv.nousiptv.com:8080/richi/12345/8183
 
 
