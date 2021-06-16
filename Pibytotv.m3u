@@ -9,9 +9,27 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1, RCN PARAGUAY 
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
 
+#EXTINF:-1, LA TELE PY
+https://edge3-hr.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4.m3u8
+
+
+#EXTINF:-1, TELEFUTURO
+http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8?WebM3UCL
+
+
+#EXTINF:-1, TRECE PY
+https://stream.rpc.com.py/live/trece.m3u8
+
 
 #EXTINF:-1, SOMOS DL ESTE PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
+
+
+#EXTINF:-1, PARAVISION
+http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?WebM3UCL
+?k=1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1&exp=1620012761
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="LOCAL", GEN TV  17.3
 https://videohd.live:19360/8010/8010.m3u8
@@ -78,6 +96,8 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w249371828.m3u8
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/i/canal5rosario_1@685724/master.m3u8?hdnea=st=1623355061~exp=1623531461~acl=/i/canal5rosario_1@685724/*~hmac=083630ddc99b34cde89042dda5e0cbdbdeb8e306b31b6930e51cd9f11c48dc8d
 
+#EXTINF:-1, TELE
+https://edge3-hr.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
 
 
 #EXTINF:-1, ALCANCE TV "RELIGIÓN"
@@ -328,9 +348,6 @@ https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
 https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 
 
-#EXTINF:-1, PARAVISION
-http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?WebM3UCL
-?k=1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1&exp=1620012761
 
 
 #EXTINF:-1, CARACOL
@@ -1298,8 +1315,6 @@ https://5d79ae45bc63b.streamlock.net:443/8256/8256/chunklist_w12029778.m3u8
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?WebM3UCL
 
 
-#EXTINF:-1, TELEFUTURO
-http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8?WebM3UCL
 
 #EXTINF:-1, TELEMAX MÉXICO
 https://6011c5681d877.streamlock.net:1936/telemax/telemax/chunklist_w1661183795.m3u8
@@ -1321,17 +1336,12 @@ https://secure-video.tcsgo.com/tcshd/index.m3u8
 #EXTINF:-1, TELEPACIFICO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/master.m3u8
 
-#EXTINF:-1, LA TELE PY
-https://edge3-hr.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4.m3u8
-
 #EXTINF:-1, TELE
 https://edge3-hr.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
 
 #EXTINF:-1, TELEAMAZONAS
 https://vps-c97214f4.vps.ovh.net/hls/ectv4.m3u8
 
-#EXTINF:-1, TRECE PY
-https://stream.rpc.com.py/live/trece.m3u8
 
 #EXTINF:-1, COLOR VISIÓN 9
 https://stream-01.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY9ayE8YjG3_BdUgHuRUXpaE)/dm/3/x7gy059/d/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
