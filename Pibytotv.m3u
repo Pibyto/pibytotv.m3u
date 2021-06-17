@@ -132,6 +132,10 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF:-1, CANAGA TV
 https://ss2.domint.net:3220/cana_str/canangatv/playlist.m3u8
 
+#EXTINF:-1, CITY TV
+http://kp-thebestiptv.com:8080/paloma/2020/232
+
+
 
 #EXTINF:-1, CANAL UNO FHD COLOMBIA
 http://tv.nousiptv.com:8080/richi/12345/1066863
