@@ -49,9 +49,11 @@ http://kp-thebestiptv.com:8080/paloma/2020/69183
 
 #EXTINF:-1, MI TV HD
 
-#EXTINF:-1, EL TRECE HD
+#EXTINF:-1, EL TRECE HD PARAGUAY
 https://stream.rpc.com.py/live/trece.m3u8
 
+#EXTINF:-1, EL TRECE CHILE
+http://kp-thebestiptv.com:8080/paloma/2020/64476
 
 #EXTINF:-1, SOMOS DEL ESTE HD
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
