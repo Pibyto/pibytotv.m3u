@@ -2305,6 +2305,9 @@ http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
 https://panel.nexolife.ar/stream/laradio923?1623598756622
 
 
+#EXTINF :-1, CVCLAVOZ
+https://ic.streann.com/cvaudio128
+
 #EXTINF:-1, FM ESTACIÓN LUZ 103.5 SAN RAFAEL MZA
 https://sonic.dattalive.com:10890/stream
 
