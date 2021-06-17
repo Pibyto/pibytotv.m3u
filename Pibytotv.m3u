@@ -10,6 +10,23 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
 
 
+#EXTINF:-1, HBO FHD
+http://tv.nousiptv.com:8080/richi/12345/4112
+
+
+#EXTINF:-1, STAR ACCIÓN FHD
+http://tv.nousiptv.com:8080/richi/12345/4019
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E4ZhmiDMypI/XzxnbBAnLcI/AAAAAAAA4oQ/ZAvYXo5pj0QDb-wMX0XmFWJmEnPKg-jbACK8BGAsYHg/s0/2020-08-18.png" group-title=", LATINOS UP
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
+
+#EXTINF:-1, HBO + FHD
+http://tv.nousiptv.com:8080/richi/12345/4109
+
+#EXTINF:-1, STAR CINEMA FHD
+http://tv.nousiptv.com:8080/richi/12345/8238
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png" group-title="CINE Y SERIES", CABLEMAS
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
@@ -33,18 +50,34 @@ https://stream.rpc.com.py/live/trece.m3u8
 #EXTINF:-1, SOMOS DEL ESTE HD
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
+#EXTINF:-1, CINEMAX HD
+http://tv.nousiptv.com:8080/richi/12345/4110
+
+
 
 #EXTINF:-1, PARAVISION HD
 http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?WebM3UCL
 ?k=1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1&exp=1620012761
 
 
+#EXTINF:-1, GOLDEN PREMIER HD
+http://tv.nousiptv.com:8080/richi/12345/4091
+
+
+
 #EXTINF:-1, LIM TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?WebM3UCL
 
 
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="LOCAL", GEN TV  17.3
 https://videohd.live:19360/8010/8010.m3u8
+
+
+#EXTINF:-1, SPACE HD
+http://tv.nousiptv.com:8080/richi/12345/3232
+
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title=", EL TRECE FHD
@@ -89,14 +122,23 @@ https://stmvideo1.livecastv.com:443/canal5/canal5/chunklist_w723872153.m3u8?WebM
 http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
 
 
+#EXTINF:-1, FLIXTUBE
+https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w295369596.m3u8
+
+#EXTINF:-1, TVMAX
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+
+
+#EXTINF:-1, CANAGA TV
+https://ss2.domint.net:3220/cana_str/canangatv/playlist.m3u8
+
+
 #EXTINF:-1, CANAL UNO FHD COLOMBIA
 http://tv.nousiptv.com:8080/richi/12345/1066863
 
 #EXTINF:-1, CRISTIANA TV "RELIGIÓN"
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?WebM3UCL
 
-#EXTINF:-1, STARZ KIDS & FAMILY FHD
-http://nomorecable.xyz:80/lava123/lava123/96216
 
 
 #EXTINF:-1, EXTREMA TV "RELIGIÓN"
@@ -104,8 +146,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w249371828.m3u8
 
 
 
-#EXTINF:-1, TELE
-https://edge3-hr.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
 
 
 
@@ -480,9 +520,6 @@ https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 https://runtimemx-samsungmx.amagi.tv:443/playlist720p.m3u8
 
 
-#EXTINF:-1, RCN PARAGUAY 
-https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
-
 
 #EXTINF:-1 tvg-logo="https://madrid.cines-verdi.com/storage/app/media/cinesverditv.jpg" group-title="CINE Y SERIES", Canal Cinesverdi 
 https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -497,8 +534,6 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E4ZhmiDMypI/XzxnbBAnLcI/AAAAAAAA4oQ/ZAvYXo5pj0QDb-wMX0XmFWJmEnPKg-jbACK8BGAsYHg/s0/2020-08-18.png" group-title="CINE Y SERIES", LATINOS UP
-https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
 
 
