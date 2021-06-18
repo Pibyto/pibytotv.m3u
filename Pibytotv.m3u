@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1, CINEMA PPV TERROR
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/118309
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="CINE Y SERIES", NEO TV DIGITAL  14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
