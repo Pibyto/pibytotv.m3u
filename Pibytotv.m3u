@@ -2457,6 +2457,10 @@ https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 #EXTINF:-1, FM PASION  "RADIO" AVELLANEDA
 https://streamlky.alsolnet.com/fmpasion
 
+#EXTINF:-1, FM WELCOME 105.9
+http://63.247.65.202:8677/stream
+
+
 #EXTINF:-1, FM REGION. "RADIO" LOMAS DE ZAMORA
 
 
