@@ -24,6 +24,26 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/182873
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/182887
 
 
+
+
+#EXTINF:-1, 24/7 LUIS MIGUEL
+http://kp-thebestiptv.com:8080/paloma/2020/536
+
+
+#EXTINF:-1, 24/7 EL MÁNDALO RÍAN
+http://kp-thebestiptv.com:8080/paloma/2020/54918
+
+
+
+#EXTINF:-1, 24/7 STRANGER THINGS
+http://kp-thebestiptv.com:8080/paloma/2020/521
+
+
+#EXTINF:-1, 24/7 TERROR
+http://kp-thebestiptv.com:8080/paloma/2020/519
+
+
+
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="CINE Y SERIES", NEO TV DIGITAL  14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
@@ -56,6 +76,9 @@ https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 
 #EXTINF:-1, LA TELE HD
 https://edge3-hr.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4.m3u8
+
+#EXTINF:-1, CANAL 4 PAYSANDU URUGUAY
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64461
 
 
 #EXTINF:-1, JBN CANAL 39 NICARAGUA
@@ -2669,6 +2692,77 @@ http://tv.nousiptv.com:8080/movie/richi/12345/1083097.mp4
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", NADIE
 http://ps3u.ga/m3u/Lista02Peliculas/nadie/index.mp4
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL UNICO SOBREVIVIENTE
+http://tvpremiumhd.club/lista-gratuita/212815/on/vod.php?cid=27030FFCC99CB624&resid=27030FFCC99CB624%21108&authkey=ANDdNhGIisRDe1M
+
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", HORIZONTE PROFUNDO
+http://tvpremiumhd.club/lista-gratuita/212815/on/vod.php?cid=0822983607682B6F&resid=822983607682B6F%21105&authkey=AAT39LPL1eo5ZnE
+
+
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", TITANES DEL PACÍFICO
+http://tvpremiumhd.club/lista-gratuita/212815/on/vod.php?cid=C046C0F8C983FCB7&resid=C046C0F8C983FCB7%21107&authkey=AIEQ3_nzmDJ9Ny8
+
+
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", PRUEBA DE FUEGO
+http://tvpremiumhd.club/lista-gratuita/212815/on/vod.php?cid=1260ACF2F1EF5B4C&resid=1260ACF2F1EF5B4C%21109&authkey=ALLPTYX2xaj-S2U
+
+
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", AL FILO DEL MAÑANA
+http://tvpremiumhd.club/lista-gratuita/212815/on/vod.php?cid=5EA104D266D50E03&resid=5EA104D266D50E03%21105&authkey=ADqXg0F7VWOqQ6c
+
+
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EMOJI
+http://tvpremiumhd.club/lista-gratuita/212815/on/live.php?id=ia801505.us.archive.org/30/items/hlwdfbvlhdfblasREGIO/hlwdfbvlhdfblasREGIO.mkv
+
+
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL PADRE DEL AÑO
+http://tvpremiumhd.club/lista-gratuita/212815/on/live.php?id=ia601508.us.archive.org/7/items/pa32d1SRREGIO/pa32d1SRREGIO.mkv
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", JACK REACHER
+http://tvpremiumhd.club/lista-gratuita/212815/on/vod.php?cid=8EA683CF68BF7443&resid=8EA683CF68BF7443%21106&authkey=APFrC8qNZBX14GE
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", JACK REACHER 2
+http://tvpremiumhd.club/lista-gratuita/212815/on/vod.php?cid=0822983607682B6F&resid=822983607682B6F%21108&authkey=AG13kB341D7GIeQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", SAMSON
+http://tvpremiumhd.club/lista-gratuita/212815/on/live.php?id=ia902807.us.archive.org/28/items/s4msSRREGIO/s4msSRREGIO.mkv
+
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", LOS 10 MANDAMIENTOS FHD
+http://tvpremiumhd.club/lista-gratuita/212815/on/vod.php?cid=962FC0861F2D3390&resid=962FC0861F2D3390%21105&authkey=AKiCkUTKMghe57Q
+
+
 
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", CAOS WALKING
