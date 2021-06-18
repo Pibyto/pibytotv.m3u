@@ -79,6 +79,9 @@ http://tv.nousiptv.com:8080/richi/12345/8238
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png" group-title="CINE Y SERIES", CABLEMAS
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 
+#EXTINF:-1, CANAL 11 MACHAGAY CHACO
+http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/chunklist_w221181235.m3u8
+
 
 #EXTINF:-1, CANAL 10 URUGUAY
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64456
