@@ -8,6 +8,21 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/118309
 #EXTINF:-1, CINEMA PPV ARTES MARCIALES
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/143427
 
+#EXTINF:-1, 24/7 ACCIÓN 1
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/182870
+
+#EXTINF:-1, 24/7 ACCIÓN 2
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/182871
+
+#EXTINF:-1, 24/7 ACCIÓN 3
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/182872
+
+#EXTINF:-1, 24/7 ACCIÓN 4
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/182873
+
+#EXTINF:-1, 24/7 ACCIÓN 5
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/182887
+
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="CINE Y SERIES", NEO TV DIGITAL  14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
