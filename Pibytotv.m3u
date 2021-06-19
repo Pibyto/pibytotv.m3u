@@ -513,6 +513,12 @@ https://sony-novelas-1.roku.wurl.com:443/playlist_1280x720_3000k.m3u8
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 
 
+#EXTINF:-1, BIT ME
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64855
+
+#EXTINF:-1, CANAL 5 TELEVISA
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64856
+
 #EXTINF:-1, CARTOON NETWORK
 https://tv.teleclub.xyz/canales/L1/CARTOON.m3u8
 
@@ -748,12 +754,13 @@ https://tv.teleclub.xyz/canales/L1/GOLDENPREMIER.m3u8
 https://tv.teleclub.xyz/canales/L1/AZTECA7.m3u8
 
 #EXTINF:-1, tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CINE Y SERIES", AZTECA 7 FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64849
 
 
 #EXTINF:-1, GOLDEN PLUS
 https://tv.teleclub.xyz/canales/L1/GOLDEN.m3u8
 
-#EXTINF:-1, GOLDEN EDGE
+#EXTINF:-1, GOLDEN PLUS FHD
 
 
 #EXTINF:-1, SUNDANCE TV
