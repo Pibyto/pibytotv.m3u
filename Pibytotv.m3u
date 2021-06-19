@@ -59,11 +59,17 @@ https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?
 
 
 #EXTINF:-1, HBO FHD
-http://tv.nousiptv.com:8080/richi/12345/4112
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47520
+
+
+
 
 
 #EXTINF:-1, STAR ACCIÓN FHD
-http://tv.nousiptv.com:8080/richi/12345/4019
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47501
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E4ZhmiDMypI/XzxnbBAnLcI/AAAAAAAA4oQ/ZAvYXo5pj0QDb-wMX0XmFWJmEnPKg-jbACK8BGAsYHg/s0/2020-08-18.png" group-title=", LATINOS UP
@@ -751,6 +757,7 @@ http://tv.nousiptv.com:8080/richi/12345/8135
 https://tv.teleclub.xyz/canales/L1/HBO.m3u8
 
 #EXTINF:-1, HBO FHD
+
 http://tv.nousiptv.com:8080/richi/12345/4112
 
 #EXTINF:-1, HBO 2
@@ -767,7 +774,9 @@ https://tv.teleclub.xyz/canales/L1/HBOPLUS.m3u8
 https://tv.teleclub.xyz/canales/L1/HBOPLUS.m3u8
 
 #EXTINF:-1, HBO + FHD
-http://tv.nousiptv.com:8080/richi/12345/4109
+http://tv.nousiptv.com:8080/richi/12345/4112
+
+
 
 #EXTINF:-1, HBO FAMILY
 https://tv.teleclub.xyz/canales/L1/HBOFAMILY.m3u8
@@ -810,6 +819,7 @@ http://tv.nousiptv.com:8080/richi/12345/7436
 https://tv.teleclub.xyz/canales/L1/FOXACTION.m3u8
 
 #EXTINF:-1, STAR ACCIÓN FHD
+
 http://tv.nousiptv.com:8080/richi/12345/4019
 
 
