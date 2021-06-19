@@ -14,15 +14,19 @@ http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 #EXTINF:-1, VOLVEMOS A DIOS TV
 https://stmv.panel.mivideo.pro:443/remanenteescogido/remanenteescogido/chunklist_w1297628754.m3u8?WebM3UCL
 
-#EXTINF:-1, 
+#EXTINF:-1, CIELO TV
+http://unlimited1-cl-isp.dps.live/isb/isb.smil/isb/livestream1/chunks.m3u8?nimblesessionid=19399771&WebM3UCL
 
 
-#EXTINF:-1, 
+#EXTINF:-1, EL VIVIENTE TV
+https://cloudflare.streamgato.us:3006/live/elvivientetvlive.m3u8?WebM3UCL
 
 
-#EXTINF:-1, 
+#EXTINF:-1, FARO DE SANTIDAD TV
+https://5dbcd1053301e.streamlock.net:4443/farotv/farotv/chunklist_w328738989.m3u8?WebM3UCL
 
-#EXTINF:-1, 
+#EXTINF:-1, OASIS TV
+https://5e85d90130e77.streamlock.net:443/6020/6020/chunklist_w2125761402.m3u8?WebM3UCL
 
 
 
