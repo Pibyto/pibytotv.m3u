@@ -16,6 +16,12 @@ https://g4.proy-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Pl
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_OgkXZYSihlqwaB2Uehl4D6lip7dp1nF6Ew&usqp=CAU" group-title="RELIGION", TV MANA
 http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 
+
+#EXTINF: -1, CANAL+DE DIOS
+https://tv.tvcontrolcp.com:1936/8136/8136/chunklist_w1329414028.m3u8
+
+
+
 #EXTINF:-1, VOLVEMOS A DIOS TV
 https://stmv.panel.mivideo.pro:443/remanenteescogido/remanenteescogido/chunklist_w1297628754.m3u8?WebM3UCL
 
