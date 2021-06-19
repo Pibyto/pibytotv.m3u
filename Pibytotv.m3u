@@ -761,6 +761,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64849
 https://tv.teleclub.xyz/canales/L1/GOLDEN.m3u8
 
 #EXTINF:-1, GOLDEN PLUS FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47518
 
 
 #EXTINF:-1, SUNDANCE TV
@@ -771,6 +772,7 @@ https://tv.teleclub.xyz/canales/L1/GOLDEN.m3u8
 https://tv.teleclub.xyz/canales/L1/PARAMOUNT.m3u8
 
 #EXTINF:-1, PARAMOUNT FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47534
 
 
 
@@ -779,12 +781,14 @@ https://tv.teleclub.xyz/canales/L1/CINEMAX.m3u8
 
 #EXTINF:-1, CINEMAX HD
 
-
+#EXTINF:-1, FILM
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/101903
 
 #EXTINF:-1, CINECANAL
 https://tv.teleclub.xyz/canales/L1/CINECANAL.m3u8
 
 #EXTINF:-1, CINECANAL HD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47547
 
 
 
@@ -801,18 +805,25 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47537
 https://tv.teleclub.xyz/canales/L1/AMC.m3u8
 
 #EXTINF:-1, AMC FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47493
 
 
 #EXTINF:-1, TBS
 https://tv.teleclub.xyz/canales/L1/TBS.m3u8
 
+#EXTINF:-1, TBS FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47541
+
+
 #EXTINF:-1, COMEDY CENTRAL FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47497
 
 
 #EXTINF:-1, TNT
 https://tv.teleclub.xyz/canales/L1/TNT.m3u8
 
 #EXTINF:-1, TNT FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47543
 
 
 
@@ -820,6 +831,7 @@ https://tv.teleclub.xyz/canales/L1/TNT.m3u8
 https://tv.teleclub.xyz/canales/L1/STUDIOUNIVERSAL.m3u8
 
 #EXTINF:-1, STUDIO UNIVERSAL HD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47539
 
 
 
@@ -827,6 +839,7 @@ https://tv.teleclub.xyz/canales/L1/STUDIOUNIVERSAL.m3u8
 https://tv.teleclub.xyz/canales/L1/SONY.m3u8
 
 #EXTINF:-1, SONY FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47535
 
 
 
@@ -834,6 +847,7 @@ https://tv.teleclub.xyz/canales/L1/SONY.m3u8
 https://tv.teleclub.xyz/canales/L1/AXN.m3u8
 
 #EXTINF:-1, AXN FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47494
 
 
 #EXTINF:-1, FXM
@@ -856,12 +870,14 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47514
 https://tv.teleclub.xyz/canales/L1/AYE.m3u8
 
 #EXTINF:-1, A&E FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47492
 
 
 #EXTINF:-1, UNIVERSAL
 https://tv.teleclub.xyz/canales/L1/UNIVERSAL.m3u8
 
 #EXTINF:-1, UNIVERSAL CHANNEL FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47545
 
 
 
@@ -869,12 +885,14 @@ https://tv.teleclub.xyz/canales/L1/UNIVERSAL.m3u8
 https://tv.teleclub.xyz/canales/L1/WARNER.m3u8
 
 #EXTINF:-1, WARNER FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47546
 
 
 #EXTINF:-1, TNT SERIES
 https://tv.teleclub.xyz/canales/L1/TNTSERIES.m3u8
 
 #EXTINF:-1, TNT SERIES FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47544
 
 
 #EXTINF:-1, ANIMAL PLANET
