@@ -20,8 +20,12 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64704
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="LOCAL", GEN TV  17.3
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title=", GEN TV  17.3
 https://videohd.live:19360/8010/8010.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8wBbZDC6NMnd1uS8IGhPC2Lm4pxPt7uQ3TxaICRzD1vvfnXcpjiPtRGPivpDIJbC5SYB" group-title=", TELE5 SALTA
+https://vivo.solumedia.com:19360/canal5/canal5.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title = "RELIGION", UNIFE TV 25.1
