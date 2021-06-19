@@ -10,7 +10,10 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png" group-title="RELIGION", CANAL LUZ
-http://g3.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
+https://g4.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_OgkXZYSihlqwaB2Uehl4D6lip7dp1nF6Ew&usqp=CAU" group-title="RELIGION", TV MANA
 http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
