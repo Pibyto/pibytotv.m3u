@@ -76,7 +76,9 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47501
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
 #EXTINF:-1, HBO + FHD
-http://tv.nousiptv.com:8080/richi/12345/4109
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47520
+
+
 
 #EXTINF:-1, STAR CINEMA FHD
 http://tv.nousiptv.com:8080/richi/12345/8238
@@ -757,8 +759,9 @@ http://tv.nousiptv.com:8080/richi/12345/8135
 https://tv.teleclub.xyz/canales/L1/HBO.m3u8
 
 #EXTINF:-1, HBO FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47520
 
-http://tv.nousiptv.com:8080/richi/12345/4112
+
 
 #EXTINF:-1, HBO 2
 https://tv.teleclub.xyz/canales/L1/HBO2.m3u8
