@@ -158,7 +158,7 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title=", CANAL NUEVE
-
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/178905
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title=", TELEFE FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64704
