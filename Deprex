@@ -6,3 +6,9 @@ https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?
 
 #EXTINF: -1, SOMOS DEL ESTE HD PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
+
+#EXTINF:-1, CABLEMAS PARAGUAY
+https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/chunklist_w1369991261.m3u8?WebM3UCL
+
+#EXTINF:-1, MI TV
+http://copaco.desdeparaguay.net:1935/mitv/mitv/chunklist_w1809479909.m3u8?WebM3UCL
