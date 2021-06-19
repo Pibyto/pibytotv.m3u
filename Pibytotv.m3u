@@ -456,6 +456,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/50446
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=0114&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1, LATINA FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/50270
 
 
 #EXTINF:-1, AZTECA UNO FHD
@@ -495,9 +496,6 @@ https://tv.teleclub.xyz/canales/L1/LASESTRELLAS.m3u8
 
 #EXTINF:-1, A3SERIES
 https://tv.teleclub.xyz/canales/L1/A3SERIES.m3u8
-
-#EXTINF:-1, A3SERIES HD
-http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/50332
 
 #EXTINF:-1, CHI CAS
 https://amc-maschic-1.plex.wurl.com:443/manifest/playlist_1920x1080_4200k.m3u8
@@ -599,14 +597,12 @@ https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="CINE Y SERIES", CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
+#EXTINF:-1, HBO FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47520
 
 
 #EXTINF:-1, HBO
 https://tv.teleclub.xyz/canales/L1/HBO.m3u8
-
-
-#EXTINF:-1, HBO FHD
-http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47520
 
 
 
@@ -656,6 +652,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47528
 https://tv.teleclub.xyz/canales/L1/HBOXTREME.m3u8
 
 #EXTINF:-1, HBO XTREME FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47532
 
 
 #EXTINF:-1, DHE
@@ -683,6 +680,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47510
 
 
 #EXTINF:-1, STAR COMEDY FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47505
 
 
 
@@ -697,6 +695,7 @@ https://tv.teleclub.xyz/canales/L1/FOXCLASSIC.m3u8
 https://tv.teleclub.xyz/canales/L1/FOXFAMILY.m3u8
 
 #EXTINF:-1, STAR FUN HD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47506
 
 
 
@@ -705,12 +704,13 @@ https://tv.teleclub.xyz/canales/L1/FOXFAMILY.m3u8
 https://tv.teleclub.xyz/canales/L1/FOXSERIES.m3u8
 
 #EXTINF:-1, STAR SERIES HD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47513
 
 
 #EXTINF:-1, STAR HITS
 https://tv.teleclub.xyz/canales/L1/FOXMOVIES.m3u8
 
-#EXTINF:-1, STAR HITS
+#EXTINF:-1, STAR HITS FHD
 
 
 
@@ -718,6 +718,7 @@ https://tv.teleclub.xyz/canales/L1/FOXMOVIES.m3u8
 https://tv.teleclub.xyz/canales/L1/FOX.m3u8
 
 #EXTINF:-1, STAR CHANNEL HD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47504
 
 
 
@@ -725,6 +726,7 @@ https://tv.teleclub.xyz/canales/L1/FOX.m3u8
 https://tv.teleclub.xyz/canales/L1/FOXLIFE.m3u8
 
 #EXTINF:-1, STAR LIFE HD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47509
 
 
 
@@ -824,6 +826,9 @@ https://tv.teleclub.xyz/canales/L1/AXN.m3u8
 
 #EXTINF:-1, FXM
 https://tv.teleclub.xyz/canales/L1/FXM.m3u8
+
+#EXTINF:-1, FMX FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47516
 
 #EXTINF:-1, FX
 https://tv.teleclub.xyz/canales/L1/FX.m3u8
