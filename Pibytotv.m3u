@@ -124,7 +124,7 @@ http://kp-thebestiptv.com:8080/paloma/2020/64476
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 #EXTINF:-1, CINEMAX HD
-http://tv.nousiptv.com:8080/richi/12345/4110
+
 
 
 
@@ -134,7 +134,7 @@ http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating
 
 
 #EXTINF:-1, GOLDEN PREMIER HD
-http://tv.nousiptv.com:8080/richi/12345/4091
+
 
 
 
@@ -149,7 +149,6 @@ https://videohd.live:19360/8010/8010.m3u8
 
 
 #EXTINF:-1, SPACE HD
-http://tv.nousiptv.com:8080/richi/12345/3232
 
 
 
@@ -774,10 +773,11 @@ https://tv.teleclub.xyz/canales/L1/HBOPLUS.m3u8
 
 
 #EXTINF:-1, HBO +
-https://tv.teleclub.xyz/canales/L1/HBOPLUS.m3u8
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47521
+
 
 #EXTINF:-1, HBO + FHD
-http://tv.nousiptv.com:8080/richi/12345/4112
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47521
 
 
 
