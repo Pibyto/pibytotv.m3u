@@ -513,6 +513,16 @@ https://sony-novelas-1.roku.wurl.com:443/playlist_1280x720_3000k.m3u8
 https://estrellatv-roku.amagi.tv:443/playlistR1080p.m3u8
 
 
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1, BIT ME
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64855
 
@@ -523,6 +533,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64856
 https://tv.teleclub.xyz/canales/L1/CARTOON.m3u8
 
 #EXTINF:-1, CARTOON NETWORK FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47832
 
 
 #EXTINF:-1, DISNEY CHANNEL
@@ -533,12 +544,17 @@ https://tv.teleclub.xyz/canales/L1/DISNEY.m3u8
 https://tv.teleclub.xyz/canales/L1/DISNEYXD.m3u8
 
 #EXTINF:-1, DISNEY XD HD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47833
 
 
 #EXTINF:-1, DISNEY JUNIOR
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47839
+
+
 https://tv.teleclub.xyz/canales/L1/DISNEYJR.m3u8
 
 #EXTINF:-1, NICKELODEON HD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/48205
 
 
 #EXTINF:-1, NAT GEO KIDS
@@ -561,6 +577,7 @@ https://tv.teleclub.xyz/canales/L1/TOONCAST.m3u8
 
 
 #EXTINF:-1, BUMERANG FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47838
 
 
 
@@ -667,6 +684,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47532
 
 
 #EXTINF:-1, DHE
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/111471
 
 
 
