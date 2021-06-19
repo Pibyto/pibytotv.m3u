@@ -427,6 +427,7 @@ https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1, PASIONES FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/50345
 
 
 #EXTINF:-1, TELEMUNDO
@@ -445,6 +446,7 @@ http://kp-thebestiptv.com:8080/paloma/2020/45466
 https://tv.teleclub.xyz/canales/L1/TLNOVELAS.m3u8
 
 #EXTINF:-1, TLN TELENOVELAS
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/50446
 
 
 #EXTINF:-1, TELEMUNDO NOVELAS
@@ -491,7 +493,8 @@ https://tv.teleclub.xyz/canales/L1/LASESTRELLAS.m3u8
 #EXTINF:-1, A3SERIES
 https://tv.teleclub.xyz/canales/L1/A3SERIES.m3u8
 
-
+#EXTINF:-1, A3SERIES HD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/50332
 
 #EXTINF:-1, CHI CAS
 https://amc-maschic-1.plex.wurl.com:443/manifest/playlist_1920x1080_4200k.m3u8
