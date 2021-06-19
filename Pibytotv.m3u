@@ -663,7 +663,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47521
 https://tv.teleclub.xyz/canales/L1/HBOFAMILY.m3u8
 
 #EXTINF:-1, HBO FAMILY FHD
-http://tv.nousiptv.com:8080/richi/12345/3211
+
 
 #EXTINF:-1, HBO SIGNATURE
 https://tv.teleclub.xyz/canales/L1/HBOSIGNATURE.m3u8
@@ -675,16 +675,16 @@ https://tv.teleclub.xyz/canales/L1/HBOMUNDI.m3u8
 https://tv.teleclub.xyz/canales/L1/HBOPOP.m3u8
 
 #EXTINF:-1, HBO POP HD
-http://tv.nousiptv.com:8080/richi/12345/8246
+
 
 #EXTINF:-1, HBO XTREME
 https://tv.teleclub.xyz/canales/L1/HBOXTREME.m3u8
 
 #EXTINF:-1, HBO XTREME FHD
-http://tv.nousiptv.com:8080/richi/12345/8226
+
 
 #EXTINF:-1, DHE
-http://tv.nousiptv.com:8080/richi/12345/24180
+
 
 
 
@@ -693,7 +693,6 @@ http://tv.nousiptv.com:8080/richi/12345/24180
 https://tv.teleclub.xyz/canales/L1/FOXACTION.m3u8
 
 #EXTINF:-1, STAR ACCIÓN FHD
-
 http://tv.nousiptv.com:8080/richi/12345/4019
 
 
@@ -709,21 +708,21 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47510
 
 
 #EXTINF:-1, STAR COMEDY FHD
-http://tv.nousiptv.com:8080/richi/12345/8234
+
 
 
 #EXTINF:-1, STAR CLASSIC
 https://tv.teleclub.xyz/canales/L1/FOXCLASSIC.m3u8
 
 #EXTINF:-1, STAR CLASSIC HD
-http://tv.nousiptv.com:8080/richi/12345/8237
+
 
 
 #EXTINF:-1, STAR FUN
 https://tv.teleclub.xyz/canales/L1/FOXFAMILY.m3u8
 
 #EXTINF:-1, STAR FUN HD
-http://tv.nousiptv.com:8080/richi/12345/4084
+
 
 
 
@@ -731,73 +730,73 @@ http://tv.nousiptv.com:8080/richi/12345/4084
 https://tv.teleclub.xyz/canales/L1/FOXSERIES.m3u8
 
 #EXTINF:-1, STAR SERIES HD
-http://tv.nousiptv.com:8080/richi/12345/4020
+
 
 #EXTINF:-1, STAR HITS
 https://tv.teleclub.xyz/canales/L1/FOXMOVIES.m3u8
 
 #EXTINF:-1, STAR HITS
-http://tv.nousiptv.com:8080/richi/12345/4023
+
 
 
 #EXTINF:-1, STAR CHANNEL
 https://tv.teleclub.xyz/canales/L1/FOX.m3u8
 
 #EXTINF:-1, STAR CHANNEL HD
-http://tv.nousiptv.com:8080/richi/12345/4022
+
 
 
 #EXTINF:-1, STAR LIFE
 https://tv.teleclub.xyz/canales/L1/FOXLIFE.m3u8
 
 #EXTINF:-1, STAR LIFE HD
-http://tv.nousiptv.com:8080/richi/12345/4043
+
 
 
 #EXTINF:-1, GOLDEN PREMIER
 https://tv.teleclub.xyz/canales/L1/GOLDENPREMIER.m3u8
 
 #EXTINF:-1, GOLDEN PREMIER HD
-http://tv.nousiptv.com:8080/richi/12345/4091
+
 
 #EXTINF:-1, CARACOL FHD
-http://tv.nousiptv.com:8080/richi/12345/3416
+
 
 #EXTINF:-1, tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CINE Y SERIES", AZTECA 7
 https://tv.teleclub.xyz/canales/L1/AZTECA7.m3u8
 
 #EXTINF:-1, tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CINE Y SERIES", AZTECA 7 FHD
-http://tv.nousiptv.com:8080/richi/12345/4027
+
 
 #EXTINF:-1, GOLDEN PLUS
 https://tv.teleclub.xyz/canales/L1/GOLDEN.m3u8
 
 #EXTINF:-1, GOLDEN EDGE
-http://tv.nousiptv.com:8080/richi/12345/3237
+
 
 #EXTINF:-1, SUNDANCE TV
-http://tv.nousiptv.com:8080/richi/12345/4101
+
 
 
 #EXTINF:-1, PARAMOUNT
 https://tv.teleclub.xyz/canales/L1/PARAMOUNT.m3u8
 
 #EXTINF:-1, PARAMOUNT FHD
-http://tv.nousiptv.com:8080/richi/12345/4065
+
 
 
 #EXTINF:-1, CINEMAX
 https://tv.teleclub.xyz/canales/L1/CINEMAX.m3u8
 
 #EXTINF:-1, CINEMAX HD
-http://tv.nousiptv.com:8080/richi/12345/4110
+
 
 
 #EXTINF:-1, CINECANAL
 https://tv.teleclub.xyz/canales/L1/CINECANAL.m3u8
 
 #EXTINF:-1, CINECANAL HD
-http://tv.nousiptv.com:8080/richi/12345/4068
+
 
 
 
@@ -805,47 +804,48 @@ http://tv.nousiptv.com:8080/richi/12345/4068
 https://tv.teleclub.xyz/canales/L1/SPACE.m3u8
 
 #EXTINF:-1, SPACE HD
-http://tv.nousiptv.com:8080/richi/12345/3232
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47537
+
 
 
 #EXTINF:-1, AMC
 https://tv.teleclub.xyz/canales/L1/AMC.m3u8
 
 #EXTINF:-1, AMC FHD
-http://tv.nousiptv.com:8080/richi/12345/4085
+
 
 #EXTINF:-1, TBS
 https://tv.teleclub.xyz/canales/L1/TBS.m3u8
 
 #EXTINF:-1, COMEDY CENTRAL FHD
-http://tv.nousiptv.com:8080/richi/12345/4039
+
 
 #EXTINF:-1, TNT
 https://tv.teleclub.xyz/canales/L1/TNT.m3u8
 
 #EXTINF:-1, TNT FHD
-http://tv.nousiptv.com:8080/richi/12345/4103
+
 
 
 #EXTINF:-1, STUDIO UNIVERSAL
 https://tv.teleclub.xyz/canales/L1/STUDIOUNIVERSAL.m3u8
 
 #EXTINF:-1, STUDIO UNIVERSAL HD
-http://tv.nousiptv.com:8080/richi/12345/4100
+
 
 
 #EXTINF:-1, SONY
 https://tv.teleclub.xyz/canales/L1/SONY.m3u8
 
 #EXTINF:-1, SONY FHD
-http://tv.nousiptv.com:8080/richi/12345/4048
+
 
 
 #EXTINF:-1, AXN
 https://tv.teleclub.xyz/canales/L1/AXN.m3u8
 
 #EXTINF:-1, AXN FHD
-http://tv.nousiptv.com:8080/richi/12345/4038
+
 
 #EXTINF:-1, FXM
 https://tv.teleclub.xyz/canales/L1/FXM.m3u8
@@ -854,35 +854,35 @@ https://tv.teleclub.xyz/canales/L1/FXM.m3u8
 https://tv.teleclub.xyz/canales/L1/FX.m3u8
 
 #EXTINF:-1, FX FHD
-http://tv.nousiptv.com:8080/richi/12345/4044
+
 
 #EXTINF:-1, TCM HD
-http://tv.nousiptv.com:8080/richi/12345/4106
+
 
 #EXTINF:-1, A&E
 https://tv.teleclub.xyz/canales/L1/AYE.m3u8
 
 #EXTINF:-1, A&E FHD
-http://tv.nousiptv.com:8080/richi/12345/4037
+
 
 #EXTINF:-1, UNIVERSAL
 https://tv.teleclub.xyz/canales/L1/UNIVERSAL.m3u8
 
 #EXTINF:-1, UNIVERSAL CHANNEL FHD
-http://tv.nousiptv.com:8080/richi/12345/4054
+
 
 
 #EXTINF:-1, WARNER
 https://tv.teleclub.xyz/canales/L1/WARNER.m3u8
 
 #EXTINF:-1, WARNER FHD
-http://tv.nousiptv.com:8080/richi/12345/4053
+
 
 #EXTINF:-1, TNT SERIES
 https://tv.teleclub.xyz/canales/L1/TNTSERIES.m3u8
 
 #EXTINF:-1, TNT SERIES FHD
-http://tv.nousiptv.com:8080/richi/12345/4050
+
 
 #EXTINF:-1, ANIMAL PLANET
 https://tv.teleclub.xyz/canales/L1/ANIMALPLANET.m3u8
@@ -895,7 +895,7 @@ https://tv.teleclub.xyz/canales/L1/DISCOVERY.m3u8
 https://tv.teleclub.xyz/canales/L1/HISTORY.m3u8
 
 #EXTINF:-1, HISTORY CHANNEL HD
-http://tv.nousiptv.com:8080/richi/12345/4093
+
 
 #EXTINF:-1, HISTORY 2
 https://tv.teleclub.xyz/canales/L1/H2.m3u8
@@ -907,24 +907,6 @@ https://6gwf3ff3aw.azcdn107.net:8443/hls/6aki36z.m3u8?s=LOMDHK4naurk2sutg0LG3A&e
 #EXTINF:-1, ESPN 2
 https://qlobbidev.s.llnwi.net:443/bpk-tv/ESPN2/hls/ESPN2-audio_132128_spa=128000-video=1900000.m3u8
 
-
-#EXTINF:-1, MOVISTAR DEPORTES FHD PERU
-http://tv.nousiptv.com:8080/richi/12345/1092642
-
-#EXTINF:-1, EL CANAL DEL FUTBOL 
-http://tv.nousiptv.com:8080/richi/12345/1092640
-
-#EXTINF:-1, WIN SPORT+ COLOMBIA
-http://tv.nousiptv.com:8080/richi/12345/54738
-
-#EXTINF:-1, TDN FHD MÉXICO
-http://tv.nousiptv.com:8080/richi/12345/3397
-
-#EXTINF:-1, IZZI AFICIONADOS FHD MÉXICO
-http://tv.nousiptv.com:8080/richi/12345/8248
-
-#EXTINF:-1, TIGO SPORS COSTA RICA
-http://tv.nousiptv.com:8080/richi/12345/18594
 
 #EXTINF:-1, TNT SPORT 2
 https://tv.teleclub.xyz/canales/L1/TNTSPORTS_2.m3u8
