@@ -42,7 +42,8 @@ https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w1895988
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png" group-title="RELIGION", CANAL LUZ
 https://g2.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
-
+#EXTINF:-1, ENLACE JUVENIL
+https://player-api.new.livestream.com/accounts/4885740/events/2294538/broadcasts/222565315.secure.m3u8?dw=80&hdnea=st=1624202219~exp=1624204019~acl=/i/4885740_2294538_lsir39rnvix2jes9li9_1@407643/*~hmac=512d730876fc0f8068869fd3050b2575d6065a64b6817fa4b4bc0dc513f3fd70&token=60cf5d17_845dc8f602931e10ec609701ccb6a1c94944a2d8
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaK5id3ywW85veHfSdEKh4SM7r6Hk4wkrCNA&usqp=CAU" group-title="RELIGION", CBN ESPAÑOL
