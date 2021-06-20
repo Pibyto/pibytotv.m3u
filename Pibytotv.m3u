@@ -176,7 +176,8 @@ http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating
 #EXTINF:-1, NACION TV HUSTON
 https://4k-server-mia.2cdn.eu:443/NacionTV/myStream/chunklist_w292867127.m3u8
 
-
+#EXTINF:-1, ESPN 2
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/dash/ESPN2HD-video=2499968.track_id=10007-6122431276005.mp4
 
 #EXTINF:-1, LIM TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?WebM3UCL
