@@ -1906,6 +1906,9 @@ https://www.youtube.com/watch?v=xytsE16CgUk
 https://14623.live.streamtheworld.com/ROCKANDPOPAAC_SC
 
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg" group-title="RADIO", VORTERIX - 92.1 FM
+http://radiolatina.live:9300/;
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="RADIO", RADIO AZAHARES FM 101.5 CORRIENTES
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
@@ -1927,9 +1930,11 @@ http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
 
 
 
+
+
+
 #EXTINF:-1, FM AMA 92.3. "RADIO"
 https://panel.nexolife.ar/stream/laradio923?1623598756622
-
 
 #EXTINF :-1, CVCLAVOZ
 https://ic.streann.com/cvaudio128
@@ -1937,13 +1942,8 @@ https://ic.streann.com/cvaudio128
 #EXTINF:-1, FM ESTACIÓN LUZ 103.5 SAN RAFAEL MZA
 https://sonic.dattalive.com:10890/stream
 
-
-#EXTINF:-1, RADIO GO PARAGUAY
-https://rds3.desdeparaguay.net:443/gotv/gotv/chunklist_w1290628405.m3u8?k=cb1c30c1880a5d09a6181abd0d13b71f4cdae27ac58c6244057eba73b7b55bf3&exp=1623635268
-
-
-#EXTINF:-1 tvg-logo="https://www.lavozdeldesierto.com.ar/images/design/isologo.png" group-title="RADIO", FM LA VOZ DEL DESIERTO NEUQUEN
-https://stmv1.srvstm.com/vozdesierto/vozdesierto/playlist.m3u8
+#EXTINF:-1, FM JERUSALEN  "RADIO" MONTE GRANDE
+https://servidor2.hostradios.com/proxy/radiojerusalen?mp=/stream&1623615876184
 
 #EXTINF:-1, RADIO BIBLICA INDEPENDIENTE
 http://192.111.130.38:8000/;
@@ -1951,10 +1951,13 @@ http://192.111.130.38:8000/;
 #EXTINF:-1, MÚSICA CRISTIANA 24/7 "RADIO"
 https://buecrplb01.cienradios.com.ar/799_Cristiana_32000.aac
 
-
-
 #EXTINF:-1, STAMATEAS PARA TODOS "RADIO"
 https://buecrplb01.cienradios.com.ar/823_Stamateas_Para_Todos_32000.aac
+
+#EXTINF:-1, RADIO CRISTIANA FM 88.3  "RADIO"
+https://acastream.org:20048/;
+
+
 
 
 
@@ -1995,12 +1998,6 @@ https://mdstrm.com/audio/601bf3e463786007e6d3b9b0/live.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg" group-title="RADIO", VORTERIX - 92.1 FM
-http://radiolatina.live:9300/;
-
-
-#EXTINF:-1, RADIO CRISTIANA FM 88.3  "RADIO"
-https://acastream.org:20048/;
 
 
 #EXTINF:-1, FM CRISTAL  "RADIO"
@@ -2024,8 +2021,20 @@ http://63.247.65.202:8677/stream
 http://01.solumedia.com.ar:8320/;stream.aac?1623615521569
 
 
-#EXTINF:-1, FM JERUSALEN  "RADIO" MONTE GRANDE
-https://servidor2.hostradios.com/proxy/radiojerusalen?mp=/stream&1623615876184
+
+
+#EXTINF:-1, RADIO GO PARAGUAY
+https://rds3.desdeparaguay.net:443/gotv/gotv/chunklist_w1290628405.m3u8?k=cb1c30c1880a5d09a6181abd0d13b71f4cdae27ac58c6244057eba73b7b55bf3&exp=1623635268
+
+
+
+
+
+
+
+
+
+
 
 
 
