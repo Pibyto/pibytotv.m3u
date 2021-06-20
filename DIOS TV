@@ -97,6 +97,10 @@ https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/chunklist_w149839
 mil/chunklist_b500000.m3u8?iptvgratis?chile.m3u8
 
 
+#EXTINF:-1, TELE VID TV
+https://player-api.new.livestream.com/accounts/28238881/events/8574038/broadcasts/222570327.secure.m3u8?dw=80&hdnea=st=1624202737~exp=1624204537~acl=/i/28238881_8574038_lsirc310lyqv6nv1eq3_1@408278/*~hmac=ee7c6d06bda374df16069cd59e716c601bddb006df8c0e116e224b6e2e5da177&token=60cf5f1d_a2d26b9a9423e7f8e1f8aad96c9b4ec02d322cf9
+
+
 #EXTINF:-1, RCC
 https://59ce1298bfb98.streamlock.net:443/rcctv02/rcctv02/chunklist_w1142756147.m3u8?WebM3UCL
 
