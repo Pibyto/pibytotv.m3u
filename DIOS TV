@@ -29,6 +29,9 @@ http://unlimited1-cl-isp.dps.live/isb/isb.smil/isb/livestream1/chunks.m3u8?nimbl
 #EXTINF:-1, EL VIVIENTE TV
 https://cloudflare.streamgato.us:3006/live/elvivientetvlive.m3u8?WebM3UCL
 
+#EXTINF:-1, EL ÚNICO TV "CANAL 18
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w1386986460.m3u8
+
 
 #EXTINF:-1, FARO DE SANTIDAD TV
 https://5dbcd1053301e.streamlock.net:4443/farotv/farotv/chunklist_w328738989.m3u8?WebM3UCL
