@@ -36,7 +36,8 @@ https://5dbcd1053301e.streamlock.net:4443/farotv/farotv/chunklist_w328738989.m3u
 #EXTINF:-1, OASIS TV
 https://5e85d90130e77.streamlock.net:443/6020/6020/chunklist_w2125761402.m3u8?WebM3UCL
 
-
+#EXTINF:-1, CDM INTERNACIONAL
+https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w1895988385.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png" group-title="RELIGION", CANAL LUZ
 https://g2.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
