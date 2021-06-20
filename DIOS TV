@@ -119,6 +119,10 @@ https://cloudflare.streamgato.us:3037/live/jesustvlive.m3u8?WebM3UCL
 #EXTINF:-1, REFORMA TV
 https://livestreamcdn.net:444/ReformaTV/ReformaTV/chunklist_w414763669.m3u8?WebM3UCL
 
+#EXTINF:-1, MISIÓN TIME TV
+https://583ed2f226ac2.streamlock.net/1733/stream/chunklist_w913599144.m3u8
+
+
 #EXTINF:-1, JN 19
 https://mediastreamm.com:3149/live/jn19tvlive.m3u8?WebM3UCL
 
