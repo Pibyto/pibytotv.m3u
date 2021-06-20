@@ -87,7 +87,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/118309
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="CINE Y SERIES", NEO TV DIGITAL  14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1, HD
+#EXTINF:-1,IMG_202110620_164946_834.jpg, RCN HD
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
 
 
