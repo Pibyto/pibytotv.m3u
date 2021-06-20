@@ -74,6 +74,9 @@ https://clientes.videostreaming.ar:19360/jcbtv/jcbtv.m3u8
 #EXTINF:-1 tvg-logo="https://televisioncelestial.com.ar/uploads/1zje40laqizoswwcso.png" group-title="RELIGION", TELEVISION CELESTIAL ROSARIO
 https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 
+#EXTINF:-1, RTVIDA
+https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title=", CANAL 13 JUJUY
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
