@@ -23,6 +23,9 @@ https://stmv.panel.mivideo.pro/cineperu/cineperu/playlist.m3u8?WebM3UCL
 #EXTINF:-1, ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w120982809.m3u8?WebM3UCL
 
+#EXTINF:-1, VELLAVISION FHD
+http://ss6.domint.net:2060/tvm_str/montanatv/chunklist_w901556046.m3u8?WebM3UCL
+
 
 #EXTINF: -1, TERROR 24/7
 http://kp-thebestiptv.com:8080/paloma/2020/519
