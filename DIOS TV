@@ -9,6 +9,10 @@ https://cloud2.streaminglivehd.com:1936/natanaeltv/natanaeltv/chunklist_w8453984
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 
+#EXTINF:-1, ALERTA TV
+http://stream2.livestreamingservices.com:1935/alertatv/alertatv/chunklist_w852405639.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_OgkXZYSihlqwaB2Uehl4D6lip7dp1nF6Ew&usqp=CAU" group-title="RELIGION", TV MANA
 http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 
