@@ -16,7 +16,8 @@ http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 #EXTINF: -1, CANAL+DE DIOS
 https://tv.tvcontrolcp.com:1936/8136/8136/chunklist_w1329414028.m3u8
 
-
+#EXTINF:-1, ABN AVIVAMIENTO
+https://s2.abntelevision.com/avivamientohd/avivamientohd/chunks.m3u8
 
 #EXTINF:-1, VOLVEMOS A DIOS TV
 https://stmv.panel.mivideo.pro:443/remanenteescogido/remanenteescogido/chunklist_w1297628754.m3u8?WebM3UCL
