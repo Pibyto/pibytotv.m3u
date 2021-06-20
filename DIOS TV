@@ -403,6 +403,8 @@ http://ss6.domint.net:1946/vct_str/vctv/chunklist_w175421185.m3u8?WebM3UCL
 
 
 
+#EXTINF:-1 tvg-logo="https://www.lavozdeldesierto.com.ar/images/design/isologo.png" group-title="RADIO", FM LA VOZ DEL DESIERTO NEUQUEN
+https://stmv1.srvstm.com/vozdesierto/vozdesierto/playlist.m3u8
 
 
 #EXTINF:-1, MUSICA CRISTIANA 24HS
