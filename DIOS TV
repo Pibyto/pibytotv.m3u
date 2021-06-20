@@ -92,8 +92,10 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w249371828.m3u8
 #EXTINF:-1, DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, NATANAEL TV
-https://cloud2.streaminglivehd.com:1936/natanaeltv/natanaeltv/chunklist_w953663267.m3u8?WebM3UCL
+#EXTINF:-1, SOLDADITOS
+https://livestreamcdn.net:444/SoldaditosdeJesusTV/SoldaditosdeJesusTV/chunklist_w454139696.m3u8
+
+
 
 #EXTINF:-1,  TELE FAMILIA
 https://cloud2.streaminglivehd.com:1936/8116/8116/chunklist_w292255099.m3u8?WebM3UCL
