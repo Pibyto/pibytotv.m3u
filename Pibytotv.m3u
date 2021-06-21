@@ -987,20 +987,21 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47544
 https://tv.teleclub.xyz/canales/L1/ANIMALPLANET.m3u8
 
 #EXTINF:-1, DISCOVERY CHANNEL
-https://tv.teleclub.xyz/canales/L1/DISCOVERY.m3u8
+http://a9q5ezlx6o7ny.p22.rt3.io/canal_20010
+
+
 
 
 #EXTINF:-1, HISTORY CHANNEL
 https://tv.teleclub.xyz/canales/L1/HISTORY.m3u8
 
-#EXTINF:-1, HISTORY CHANNEL HD
+#EXTINF:-1, NAT GEO WILT HD
+http://ep63gxqz89lbfm5.p18.rt3.io/canal_20020
 
 
 #EXTINF:-1, HISTORY 2
 https://tv.teleclub.xyz/canales/L1/H2.m3u8
 
-#EXTINF:-1, VTV PLUS URUGUAY
-https://6gwf3ff3aw.azcdn107.net:8443/hls/6aki36z.m3u8?s=LOMDHK4naurk2sutg0LG3A&e=1623810112
 
 #EXTINF:-1, DAZN 1 FHD
 http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/53301
@@ -1020,8 +1021,6 @@ http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/18158
 #EXTINF:-1, ESPN 2
 https://qlobbidev.s.llnwi.net:443/bpk-tv/ESPN2/hls/ESPN2-audio_132128_spa=128000-video=1900000.m3u8
 
-#EXTINF:-1, SPORTS
-https://vod.livestreamapis.com/60d0cfa6_dc34e79892afa962ef6e39d0d2d114eba32b3abc/events/00000000009469f1/e0c4945e-d1df-48c5-8322-2d979eaee8cf_5256.m3u8
 
 #EXTINF:-1, TENNIS FHD
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
