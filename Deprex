@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1, TIGO SPORTS PARAGUAY
+http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/131710
+
+
 #EXTINF: -1, RCN HD PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
 
