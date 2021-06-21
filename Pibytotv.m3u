@@ -499,7 +499,10 @@ https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6
 http://kp-thebestiptv.com:8080/paloma/2020/48318
 
 #EXTINF:-1, CARACOL
-https://tv.teleclub.xyz/canales/L1/CARACOL.m3u8
+http://scrapehost.com:8080/123456/654321/47837
+
+
+
 
 #EXTINF:-1, RCN
 https://tv.teleclub.xyz/canales/L1/RCN.m3u8
