@@ -107,10 +107,14 @@ http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/17648
 http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38353
 
 
+#EXTINF: -1, CARACOL FHD
+https://emqf7d2bfb.azcdn728.net:8443/hls/u8qy1re4gyqjbnw.m3u8?s=DlhxA7KiRwzLHMnXi5C4Uw&e=1624306163
+
+
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="CINE Y SERIES", NEO TV DIGITAL  14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-logo=http://www.rcn.com.py/imágenes/logo.png", RCN HD
+#EXTINF:-1 tvg-logo=http://www.rcn.com.py/imágenes/logo.RCN.png", RCN HD
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
 
 
