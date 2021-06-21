@@ -1012,6 +1012,9 @@ http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/18158
 #EXTINF:-1, ESPN 2
 https://qlobbidev.s.llnwi.net:443/bpk-tv/ESPN2/hls/ESPN2-audio_132128_spa=128000-video=1900000.m3u8
 
+#EXTINF:-1, DIRECTV SPORTS
+https://directvsports-live.akamaized.net/hls/live/2026679/DTVSAR/stream05/hdntl=exp=1624308872~acl=%2f*~data=hdntl~hmac=cc4210f9ee0300d4a8be3e21078dfdd2c3ead7fe518aed667ba8076eb75b5b98/streamPlaylist.m3u8?thejoelc
+
 
 #EXTINF:-1, TNT SPORT 2
 https://tv.teleclub.xyz/canales/L1/TNTSPORTS_2.m3u8
