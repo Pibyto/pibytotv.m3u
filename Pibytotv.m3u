@@ -1015,8 +1015,8 @@ https://qlobbidev.s.llnwi.net:443/bpk-tv/ESPN2/hls/ESPN2-audio_132128_spa=128000
 #EXTINF:-1, SPORTS
 https://vod.livestreamapis.com/60d0cfa6_dc34e79892afa962ef6e39d0d2d114eba32b3abc/events/00000000009469f1/e0c4945e-d1df-48c5-8322-2d979eaee8cf_5256.m3u8
 
-
-
+#EXTINF:-1, TENNIS FHD
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 
 
 9ee0300d4a8be3e21078dfdd2c3ead7fe518aed667ba8076eb75b5b98/streamPlaylist.m3u8?thejoelc
