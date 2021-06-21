@@ -784,7 +784,8 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47509
 #EXTINF:-1, GOLDEN PREMIER
 https://tv.teleclub.xyz/canales/L1/GOLDENPREMIER.m3u8
 
-#EXTINF:-1, GOLDEN PREMIER HD
+#EXTINF:-1, GOLDEN EDGE HD
+http://scrapehost.com:8080/123456/654321/47831
 
 
 #EXTINF:-1, CARACOL FHD
