@@ -938,32 +938,6 @@ http://ep63gxqz89lbfm5.p18.rt3.io/canal_20020
 https://tv.teleclub.xyz/canales/L1/H2.m3u8
 
 
-
-#EXTINF:-1, TNT SPORT 2
-https://tv.teleclub.xyz/canales/L1/TNTSPORTS_2.m3u8
-
-
-
-#EXTINF:-1, TNT SPORT 3
-https://tv.teleclub.xyz/canales/L1/TNTSPORT_3.m3u8
-
-#EXTINF:-1, FOX SPORT PREMIUM
-https://tv.teleclub.xyz/canales/L1/FOXSPORTSPREMIUM.m3u8
-
-#EXTINF:-1, TIGO PY
-https://tv.teleclub.xyz/canales/L1/PY_TIGOSPORTS.m3u8
-
-#EXTINF:-1, TIGO+ PY
-https://tv.teleclub.xyz/canales/L1/PY_TIGOSPORTSPLUS.m3u8
-
-#EXTINF:-1, TDN USA
-https://tv.teleclub.xyz/canales/L1/TUDN_USA.m3u8
-
-#EXTINF:-1, TDN MX
-https://tv.teleclub.xyz/canales/L1/TUDN_MX.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGAsYHg/s0/2020-02-05.png" group-title="CINE Y SERIES", REC ONLINE
 https://master.tucableip.com/reconline/live/video.m3u8
 
@@ -1479,6 +1453,30 @@ http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/53299
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", DAZN 3 FHD
 http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/53856
+
+#EXTINF:-1, TNT SPORT 2
+https://tv.teleclub.xyz/canales/L1/TNTSPORTS_2.m3u8
+
+
+
+#EXTINF:-1, TNT SPORT 3
+https://tv.teleclub.xyz/canales/L1/TNTSPORT_3.m3u8
+
+#EXTINF:-1, FOX SPORT PREMIUM
+https://tv.teleclub.xyz/canales/L1/FOXSPORTSPREMIUM.m3u8
+
+#EXTINF:-1, TIGO PY
+https://tv.teleclub.xyz/canales/L1/PY_TIGOSPORTS.m3u8
+
+#EXTINF:-1, TIGO+ PY
+https://tv.teleclub.xyz/canales/L1/PY_TIGOSPORTSPLUS.m3u8
+
+#EXTINF:-1, TDN USA
+https://tv.teleclub.xyz/canales/L1/TUDN_USA.m3u8
+
+#EXTINF:-1, TDN MX
+https://tv.teleclub.xyz/canales/L1/TUDN_MX.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", MOVISTAR LIGA DE CAMPEONES
