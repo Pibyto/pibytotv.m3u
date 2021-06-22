@@ -1451,8 +1451,11 @@ http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/53301
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", DAZN 2 FHD
 http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/53299
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", DAZN 3 FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", DAZN 3 FHD
 http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/53856
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", DAZN 4 FHD
+http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/53859
 
 #EXTINF:-1, TNT SPORT 2
 https://tv.teleclub.xyz/canales/L1/TNTSPORTS_2.m3u8
