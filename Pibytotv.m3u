@@ -27,6 +27,9 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8wBbZDC6NMnd1uS8IGhPC2Lm4pxPt7uQ3TxaICRzD1vvfnXcpjiPtRGPivpDIJbC5SYB" group-title=", TELE5 SALTA
 https://vivo.solumedia.com:19360/canal5/canal5.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8wBbZDC6NMnd1uS8IGhPC2Lm4pxPt7uQ3TxaICRzD1vvfnXcpjiPtRGPivpDIJbC5SYB" group-title=", TELE 5 ESPAÑA
+https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/es-telecinco.stream/playlist.m3u8?luis
+
 
 #EXTINF: -1 tvg-logo = "https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title =", UNIFE TV 25.1
 https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
@@ -1456,9 +1459,6 @@ http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/53856
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", DAZN 4 FHD
 http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/53859
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", TRT 1
-https://tv-trt1.live.trt.com.tr/master_720.m3u8?rb
 
 #EXTINF:-1, TNT SPORT 2
 https://tv.teleclub.xyz/canales/L1/TNTSPORTS_2.m3u8
