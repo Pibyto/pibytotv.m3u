@@ -36,6 +36,8 @@ https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naX
 #EXTINF:-1, MEGA HD
 http://hls.webredirect.org:80/kl03/mp_4953.php/https://directo.atresmedia.com/5f9966af62b672280082de12fd193d6b0cb4f775_1624530928/geomega/bitrate_2.m3u8
 
+#EXTINF:-1, RT ESPAÑOL FHD
+https://rt-esp.secure.footprint.net:443/1102_4500Kb.m3u8
 
 #EXTINF: -1 tvg-logo = "https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title =", UNIFE TV 25.1
 https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
