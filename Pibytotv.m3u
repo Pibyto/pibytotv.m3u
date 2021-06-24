@@ -1317,7 +1317,7 @@ https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?WebM3UCL
 #EXTINF:-1, TELECARIBE
 https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8?WebM3UCL
 
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="LOCAL",29 QUILMES
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="LOCALES",29 QUILMES
 https://inliveserver.com:1936/8386/8386/playlist.m3u8
 
 
@@ -1517,7 +1517,10 @@ http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/131710
 http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/133843
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM8_CmsKLteW5x2B245xClqF7VQoiwDyvSA&usqp=CAU" group-title="DEPORTES 2", TyC Sports
-http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/133844
+https://playback2.akamaized.net/streams/27014129_8167338_lsinw3qe5yi25x3445c_1/exp=1624590971~acl=%2f*~data=hdntl~hmac=df06b314810b1ac50dd8802b3e02b851b2eb9c24640a94b7f84ce61baa05643a/media/27014129_8167338_lsinw3qe5yi25x3445c_1@5256000p.m3u8?dw=80&ts=1624503600
+
+
+
 
 
 
