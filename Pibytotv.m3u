@@ -1473,8 +1473,11 @@ https://playback2.akamaized.net/streams/28253671_9183137_lsisht43xoymhx9ury7_1/e
 
 
 
-#EXTINF:-1, TNT SPORT 3
-https://tv.teleclub.xyz/canales/L1/TNTSPORT_3.m3u8
+#EXTINF:-1, SPORT-TV 1
+https://6ra8tpg8m6.azcdn107.net:8443/hls/walxjawfo5x.m3u8?s=934Dl6Dd_m6ZswPCyOggVg&e=1624551697
+
+
+
 
 #EXTINF:-1, FOX SPORT PREMIUM
 https://tv.teleclub.xyz/canales/L1/FOXSPORTSPREMIUM.m3u8
