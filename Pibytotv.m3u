@@ -595,7 +595,7 @@ https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg" group-title="CINE Y SERIES", CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-#EXTINF:-1, HBO FHD
+#EXTINF:-1 http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png" group-title="PREMIUM", HBO FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47520
 
 
