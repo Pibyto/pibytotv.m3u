@@ -43,42 +43,11 @@ https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_
 #EXTINF:-1, CINEMA PPV ARTES MARCIALES
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/143427
 
-#EXTINF:-1, 24/7 ACCIÓN 1
-http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/182870
-
-#EXTINF:-1, 24/7 ACCIÓN 2
-http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/182871
 
 #EXTINF:-1, 24/7 MARVEL
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/82162
 
 
-
-#EXTINF:-1, 24/7 ACCIÓN 3
-http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/182872
-
-
-
-#EXTINF:-1, 24/7 ACCIÓN 4
-http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/182873
-
-#EXTINF:-1, 24/7 ACCIÓN 5
-http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/182887
-
-
-
-
-#EXTINF:-1, 24/7 LUIS MIGUEL
-http://kp-thebestiptv.com:8080/paloma/2020/536
-
-
-#EXTINF:-1, 24/7 EL MÁNDALORÍAN
-http://kp-thebestiptv.com:8080/paloma/2020/54918
-
-
-
-#EXTINF:-1, 24/7 STRANGER THINGS
-http://kp-thebestiptv.com:8080/paloma/2020/521
 
 #EXTINF:-1, CINEMAX UHD
 http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/133790
@@ -93,9 +62,6 @@ https://6ra8tpg8m6.azcdn107.net:8443/hls/6hucdn7rmjn.m3u8?s=TrypJ4fUur7UX8w4-iDy
 #EXTINF:-1, DARK FHD
 http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38305
 
-
-#EXTINF:-1, 24/7 TERROR
-http://kp-thebestiptv.com:8080/paloma/2020/519
 
 
 #EXTINF:-1, CINEMA PPV TERROR
@@ -121,20 +87,12 @@ http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/17648
 http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38353
 
 
-#EXTINF: -1, CARACOL FHD
-https://emqf7d2bfb.azcdn728.net:8443/hls/u8qy1re4gyqjbnw.m3u8?s=DlhxA7KiRwzLHMnXi5C4Uw&e=1624306163
-
-#EXTINF:-1, RCN COLOMBIA
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZbLbJ65GA2HHznvtSl7-qsI)/p/dm/3/x7vyv0z/s/live-3.m3u8
-
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="CINE Y SERIES", NEO TV DIGITAL  14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo=images.png (114×114)", RCN TELEVISIÓN
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
 
-#EXTINF:-1, RCN FHD PARAGUAY
-https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1472345835.m3u8
 
 
 #EXTINF:-1, HBO FHD
