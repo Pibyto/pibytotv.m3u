@@ -660,10 +660,10 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/111471
 
 
 
-#EXTINF:-1, STAR ACCIÓN
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-fV2OHYlvAXI/YDrCPvjo9mI/AAAAAAAA8NM/TxGT3wp1NngfLgmg1t72Q0WsJ2esdn2lwCLcBGAsYHQ/s1280/Star_Action_2021.png", STAR ACCIÓN
 https://tv.teleclub.xyz/canales/L1/FOXACTION.m3u8
 
-#EXTINF:-1, STAR ACCIÓN FHD
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-fV2OHYlvAXI/YDrCPvjo9mI/AAAAAAAA8NM/TxGT3wp1NngfLgmg1t72Q0WsJ2esdn2lwCLcBGAsYHQ/s1280/Star_Action_2021.png", STAR ACCIÓN FHD
 http://tv.nousiptv.com:8080/richi/12345/4019
 
 
@@ -855,10 +855,10 @@ https://tv.teleclub.xyz/canales/L1/AYE.m3u8
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47492
 
 
-#EXTINF:-1, UNIVERSAL
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-kbZqCtfRbLI/X9TtqaHORcI/AAAAAAAA7nQ/ZeD4CLH7dWsYLYrmwBYScxQ0uMA7hl1mwCLcBGAsYHQ/s1280/UNIVERSAL-TV-2018.png", UNIVERSAL
 https://tv.teleclub.xyz/canales/L1/UNIVERSAL.m3u8
 
-#EXTINF:-1, UNIVERSAL CHANNEL FHD
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-kbZqCtfRbLI/X9TtqaHORcI/AAAAAAAA7nQ/ZeD4CLH7dWsYLYrmwBYScxQ0uMA7hl1mwCLcBGAsYHQ/s1280/UNIVERSAL-TV-2018.png", UNIVERSAL CHANNEL FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47545
 
 
