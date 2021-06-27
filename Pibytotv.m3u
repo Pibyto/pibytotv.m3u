@@ -637,17 +637,17 @@ https://tv.teleclub.xyz/canales/L1/HBOMUNDI.m3u8
 
 #EXTINF:-1, HBO MUNDI FHD
 
-#EXTINF:-1, tvg-logo="https://www.deviantart.com/doublekids07/art/HBO-Pop-Logo-828084189", HBO POP
+#EXTINF:-1, tvg-logo="https://www.deviantart.com/doublekids07/art/HBO-Pop-Logo-828084189.png", HBO POP
 https://tv.teleclub.xyz/canales/L1/HBOPOP.m3u8
 
-#EXTINF:-1, tvg-logo="https://es.wikipedia.org/wiki/Archivo:HBO_Pop.svg", HBO POP FHD
+#EXTINF:-1, tvg-logo="https://es.wikipedia.org/wiki/Archivo:HBO_Pop.png", HBO POP FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47528
 
 
-#EXTINF:-1, tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:HBO_Xtreme.svg", HBO XTREME
+#EXTINF:-1, tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:HBO_Xtreme.png", HBO XTREME
 https://tv.teleclub.xyz/canales/L1/HBOXTREME.m3u8
 
-#EXTINF:-1, tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:HBO_Xtreme.svg", HBO XTREME FHD
+#EXTINF:-1, tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:HBO_Xtreme.png", HBO XTREME FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47532
 
 
@@ -695,8 +695,6 @@ https://tv.teleclub.xyz/canales/L1/FOXFAMILY.m3u8
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47506
 
 
-
-
 #EXTINF:-1, STAR SERIES
 https://tv.teleclub.xyz/canales/L1/FOXSERIES.m3u8
 
@@ -737,17 +735,17 @@ http://scrapehost.com:8080/123456/654321/47831
 #EXTINF:-1, CARACOL FHD
 
 
-#EXTINF:-1, tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CINE Y SERIES", AZTECA 7
+#EXTINF:-1, tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title=", AZTECA 7
 https://tv.teleclub.xyz/canales/L1/AZTECA7.m3u8
 
-#EXTINF:-1, tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CINE Y SERIES", AZTECA 7 FHD
+#EXTINF:-1, tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png", AZTECA 7 FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64849
 
 
 #EXTINF:-1, GOLDEN PLUS
 https://tv.teleclub.xyz/canales/L1/GOLDEN.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.mitvstatic.com%2Fchannels%2Far_golden_m.png&imgrefurl=https%3A%2F%2Fmi.tv%2Far%2Fcanales%2Fgolden&tbnid=tedTydj5rfuSLM&vet=12ahUKEwiSpbPL47bxAhXXpZUCHRo-B-gQMygCegQIARA0..i&docid=uYABZxgetowXdM&w=200&h=200&q=logo%20mitv&hl=es-419&client=ms-android-motorola&ved=2ahUKEwiSpbPL47bxAhXXpZUCHRo-B-gQMygCegQIARA0", GOLDEN PLUS FHD
+#EXTINF:-1, tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.mitvstatic.com%2Fchannels%2Far_golden_m.png&imgrefurl=https%3A%2F%2Fmi.tv%2Far%2Fcanales%2Fgolden&tbnid=tedTydj5rfuSLM&vet=12ahUKEwiSpbPL47bxAhXXpZUCHRo-B-gQMygCegQIARA0..i&docid=uYABZxgetowXdM&w=200&h=200&q=logo%20mitv&hl=es-419&client=ms-android-motorola&ved=2ahUKEwiSpbPL47bxAhXXpZUCHRo-B-gQMygCegQIARA0.png", GOLDEN PLUS FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47518
 
 #EXTINF:-1, tvg-logo="http://1.bp.blogspot.com/-azKK2mv893I/Vnx-HtntWwI/AAAAAAAAAko/K_2FVHwyXfA/s1600/Paramount.png", PARAMOUNT
