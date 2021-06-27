@@ -713,10 +713,10 @@ https://tv.teleclub.xyz/canales/L1/FOXMOVIES.m3u8
 
 
 
-#EXTINF:-1, STAR CHANNEL
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-qgZncWJVYZA/YC_8iHjZd-I/AAAAAAAA8LY/5bWpp2KNA-wgRjIWlmVyq0QHaTQ_-TwrgCLcBGAsYHQ/s320/Star-Channel-2021.png", STAR CHANNEL
 https://tv.teleclub.xyz/canales/L1/FOX.m3u8
 
-#EXTINF:-1, STAR CHANNEL HD
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-qgZncWJVYZA/YC_8iHjZd-I/AAAAAAAA8LY/5bWpp2KNA-wgRjIWlmVyq0QHaTQ_-TwrgCLcBGAsYHQ/s320/Star-Channel-2021.png", STAR CHANNEL HD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47504
 
 
@@ -732,7 +732,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47509
 #EXTINF:-1, GOLDEN PREMIER
 https://tv.teleclub.xyz/canales/L1/GOLDENPREMIER.m3u8
 
-#EXTINF:-1, GOLDEN EDGE HD
+#EXTINF:-1, tvg-logo="http://1.bp.blogspot.com/-DW-38CWlBRg/UJhN7D-7RII/AAAAAAAAXD8/V2IMhibN_dM/s1600/goldenedge.png", GOLDEN EDGE HD
 http://scrapehost.com:8080/123456/654321/47831
 
 
@@ -797,7 +797,7 @@ https://tv.teleclub.xyz/canales/L1/TBS.m3u8
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47541
 
 
-#EXTINF:-1, COMEDY CENTRAL FHD
+#EXTINF:-1, tvg-logo="http://1.bp.blogspot.com/-NW83CT_5StM/UPrUgaG6tKI/AAAAAAAAYlM/Iu1a164OB4k/s1600/comedycentral.png", COMEDY CENTRAL FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47497
 
 
