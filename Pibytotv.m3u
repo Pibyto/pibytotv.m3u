@@ -169,6 +169,10 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64456
 https://edge3-hr.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LogoTeledoce2019Azul.png/150px-LogoTeledoce2019Azul.png" group-title=", TELEDOCE MONTEVIDEO HD URUGUAY
+https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU-audio_20000=144800-video=1726000.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7837/CH_LOGO/60/40/0/0/45676872071383.png", CANAL 4 PAYSANDU URUGUAY
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64461
 
@@ -213,7 +217,8 @@ http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating
 https://4k-server-mia.2cdn.eu:443/NacionTV/myStream/chunklist_w292867127.m3u8
 
 
-#EXTINF:-1, LIM TV
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg", LIM TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?WebM3UCL
 
 
@@ -1015,7 +1020,7 @@ https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L.png" group-title="CINE Y SERIES", BUTACA TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1, VALLEVISION
+#EXTINF:-1,tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png", VALLEVISION
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 #EXTINF:-1, BELLAVISION
 https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
