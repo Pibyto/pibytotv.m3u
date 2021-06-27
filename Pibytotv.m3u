@@ -721,10 +721,10 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47504
 
 
 
-#EXTINF:-1, STAR LIFE
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-NYYsTM2usn4/YDq6d_r1hQI/AAAAAAAA8M0/yl8HiyRwpM4Cka-bnvQr71PqI_v_O8Y6wCLcBGAsYHQ/s296/STAR-LIFE-2021.png", STAR LIFE
 https://tv.teleclub.xyz/canales/L1/FOXLIFE.m3u8
 
-#EXTINF:-1, STAR LIFE HD
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-NYYsTM2usn4/YDq6d_r1hQI/AAAAAAAA8M0/yl8HiyRwpM4Cka-bnvQr71PqI_v_O8Y6wCLcBGAsYHQ/s296/STAR-LIFE-2021.png", STAR LIFE HD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47509
 
 
@@ -863,10 +863,10 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47545
 
 
 
-#EXTINF:-1, WARNER
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png", WARNER
 https://tv.teleclub.xyz/canales/L1/WARNER.m3u8
 
-#EXTINF:-1, WARNER FHD
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-JQNiUM4A2QI/X9TG0We7WCI/AAAAAAAA7lg/ELH2-qgU4pE0ENl7bTw9ya9dCAO5kkzcACLcBGAsYHQ/s378/warner-channel.png", WARNER FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47546
 
 
