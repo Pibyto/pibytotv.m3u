@@ -106,7 +106,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/82162
 #EXTINF:-1,tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png", CINEMAX UHD
 http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/133790
 
-#EXTINF:-1, GOLDEN UHD
+#EXTINF:-1,tvg-logo="https://www.foromedios.com/gallery/image/6789-golden-plus/",GOLDEN UHD
 http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/133789
 
 
