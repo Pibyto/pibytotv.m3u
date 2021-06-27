@@ -604,10 +604,10 @@ https://tv.teleclub.xyz/canales/L1/HBO.m3u8
 
 
 
-#EXTINF:-1, HBO 2
+#EXTINF:-1, tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/TE9CUguYxoI/AAAAAAAANpY/5Tc3R86_aLA/s1600/hbo2.png", HBO 2
 https://tv.teleclub.xyz/canales/L1/HBO2.m3u8
 
-#EXTINF:-1, HBO 2 FHD
+#EXTINF:-1, tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/TE9CUguYxoI/AAAAAAAANpY/5Tc3R86_aLA/s1600/hbo2.png", HBO 2 FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47523
 
 
@@ -678,7 +678,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47510
 #EXTINF:-1, STAR COMEDY
 
 
-#EXTINF:-1, STAR COMEDY FHD
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-xetBq_lkKUQ/YDrD4sDyBqI/AAAAAAAA8NU/8xmVnLsneEAp9foLtDOJUYSylB5Lx6ohACLcBGAsYHQ/s1280/Star_Comedy_2021.png", STAR COMEDY FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47505
 
 
