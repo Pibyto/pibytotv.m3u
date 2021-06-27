@@ -44,6 +44,9 @@ https://rt-esp.secure.footprint.net:443/1102_4500Kb.m3u8
 https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU", LOVE NATURE
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1, CINEMA PPV ARTES MARCIALES
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/143427
 
@@ -286,7 +289,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64824
 
 
 
-#EXTINF:-1, AMÉRICA TV TUCUMÁN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png", AMERICA TUCUMAN 
 http://45.6.4.154/americatuc/vivo.m3u8?WebM3UCL
 
 
