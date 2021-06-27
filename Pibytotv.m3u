@@ -675,7 +675,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47510
 
 
 
-#EXTINF:-1, STAR COMEDY
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-xetBq_lkKUQ/YDrD4sDyBqI/AAAAAAAA8NU/8xmVnLsneEAp9foLtDOJUYSylB5Lx6ohACLcBGAsYHQ/s1280/Star_Comedy_2021.png", STAR COMEDY
 
 
 #EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-xetBq_lkKUQ/YDrD4sDyBqI/AAAAAAAA8NU/8xmVnLsneEAp9foLtDOJUYSylB5Lx6ohACLcBGAsYHQ/s1280/Star_Comedy_2021.png", STAR COMEDY FHD
@@ -683,17 +683,17 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47505
 
 
 
-#EXTINF:-1, STAR CLASSIC
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-j-Cbzkx_4co/YDq9xJ4m4DI/AAAAAAAA8M8/vmteMBIGhFIGT148hLP3KoG7TGRlBjfJgCLcBGAsYHQ/s1280/Star_Classics-2021.png", STAR CLASSIC
 https://tv.teleclub.xyz/canales/L1/FOXCLASSIC.m3u8
 
-#EXTINF:-1, STAR CLASSIC HD
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-j-Cbzkx_4co/YDq9xJ4m4DI/AAAAAAAA8M8/vmteMBIGhFIGT148hLP3KoG7TGRlBjfJgCLcBGAsYHQ/s1280/Star_Classics-2021.png", STAR CLASSIC HD
 
 
 
-#EXTINF:-1, STAR FUN
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-2Jc8OLNAUVU/YDrJu8e2s9I/AAAAAAAA8Ns/nySLJHX8U8AJ4dcOrpDklLoSv7zrU6bKgCLcBGAsYHQ/s1280/Star_Fun_2021.png", STAR FUN
 https://tv.teleclub.xyz/canales/L1/FOXFAMILY.m3u8
 
-#EXTINF:-1, STAR FUN HD
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-2Jc8OLNAUVU/YDrJu8e2s9I/AAAAAAAA8Ns/nySLJHX8U8AJ4dcOrpDklLoSv7zrU6bKgCLcBGAsYHQ/s1280/Star_Fun_2021.png", STAR FUN HD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47506
 
 
