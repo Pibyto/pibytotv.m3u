@@ -639,7 +639,7 @@ https://tv.teleclub.xyz/canales/L1/HBOMUNDI.m3u8
 
 #EXTINF:-1, HBO MUNDI FHD
 
-#EXTINF:-1, HBO POP
+#EXTINF:-1, tvg-logo="https://www.deviantart.com/doublekids07/art/HBO-Pop-Logo-828084189", HBO POP
 https://tv.teleclub.xyz/canales/L1/HBOPOP.m3u8
 
 #EXTINF:-1, tvg-logo="https://es.wikipedia.org/wiki/Archivo:HBO_Pop.svg", HBO POP FHD
@@ -913,7 +913,7 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115395_AC_Vision.png" group-title="CINE Y SERIES", ACV
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="http://www.estoesmachagai.com/web/img/IMAGEN_PORTADA_SITIO_WEB_02.jpg" group-title="LOCALES", PLUS TV 3
+#EXTINF:-1, tvg-logo="http://www.estoesmachagai.com/web/img/IMAGEN_PORTADA_SITIO_WEB_02.jpg", PLUS TV 3
 https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/chunklist_w1717905372.m3u8
 
 #EXTINF:-1, PLUS TV 6
