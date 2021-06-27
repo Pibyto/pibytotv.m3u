@@ -168,7 +168,8 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64456
 #EXTINF:-1, LA TELE HD
 https://edge3-hr.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4.m3u8
 
-#EXTINF:-1, CANAL 4 PAYSANDU URUGUAY
+
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7837/CH_LOGO/60/40/0/0/45676872071383.png", CANAL 4 PAYSANDU URUGUAY
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64461
 
 
