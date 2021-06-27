@@ -22,7 +22,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", CINCO TV TIGRE  30.1
+#EXTINF:-1, CINCO TV TIGRE  30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
@@ -128,7 +128,7 @@ https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?
 
 
 
-EXTINF:-1,tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png", HBO FHD
+EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png", HBO FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47520
 
 
@@ -136,7 +136,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47520
 
 
 
-#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-fV2OHYlvAXI/YDrCPvjo9mI/AAAAAAAA8NM/TxGT3wp1NngfLgmg1t72Q0WsJ2esdn2lwCLcBGAsYHQ/s1280/Star_Action_2021.png", STAR ACCIÓN FHD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fV2OHYlvAXI/YDrCPvjo9mI/AAAAAAAA8NM/TxGT3wp1NngfLgmg1t72Q0WsJ2esdn2lwCLcBGAsYHQ/s1280/Star_Action_2021.png", STAR ACCIÓN FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47501
 
 
@@ -181,14 +181,14 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64461
 
 
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Telefuturo.png", TELEFUTURO HD
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Telefuturo", TELEFUTURO HD
 http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8?WebM3UCL
 
 
 #EXTINF:-1, TVC TELEVICENTRO
 http://kp-thebestiptv.com:8080/paloma/2020/69183
 
-#EXTINF:-1, tvg-logo="https://es.wikipedia.org/wiki/Archivo:LOGO_MITV_ALTA_DEFINICION_2020_PNG.png", MITV HD
+#EXTINF:-1, tvg-logo="https://es.wikipedia.org/wiki/Archivo:LOGO_MITV_ALTA_DEFINICION_2020_PNG", MITV HD
 http://copaco.desdeparaguay.net:1935/mitv/mitv/chunklist_w1809479909.m3u8?WebM3UCL
 
 #EXTINF:-1, EL TRECE HD PARAGUAY
@@ -229,7 +229,7 @@ https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?WebM3UCL
 
 
 
-EXTINF:-1,tvg-logo="http://4.bp.blogspot.com/-tSNmMi5Y3ZI/Vm3k4jDuL1I/AAAAAAAAAZs/VMxNT7YQUWo/s1600/space-hd.gif.png", SPACE FHD
+EXTINF:-1,tvg-logo="http://4.bp.blogspot.com/-tSNmMi5Y3ZI/Vm3k4jDuL1I/AAAAAAAAAZs/VMxNT7YQUWo/s1600/space-hd.png", SPACE FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47537
 
 
@@ -264,7 +264,7 @@ http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wlhourdcXw55qexuUiQF72p5wTRJL2bh8g&usqp=CAU", FLIXTUBE
 https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w295369596.m3u8
 
-#EXTINF:-1, tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Logo_tvmax.png", TVMAX FHD
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Logo_tvmax.png", TVMAX FHD
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
 
