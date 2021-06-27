@@ -510,7 +510,7 @@ https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6
 #EXTINF:-1, CANAL 2 EL SALVADOR
 http://kp-thebestiptv.com:8080/paloma/2020/48318
 
-#EXTINF:-1, CARACOL
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-wzto_ei39q4/YKmkd9dnBtI/AAAAAAAA8-k/CGsSODNf9R8dxet-07_EGBVBW7OOA7dlQCLcBGAsYHQ/s500/caracol-int-2019.png", CARACOL
 http://scrapehost.com:8080/123456/654321/47837
 
 
