@@ -49,7 +49,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/82162
 
 
 
-#EXTINF:-1, CINEMAX UHD
+#EXTINF:-1,tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png", CINEMAX UHD
 http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/133790
 
 #EXTINF:-1, GOLDEN UHD
@@ -702,7 +702,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47506
 #EXTINF:-1, STAR SERIES
 https://tv.teleclub.xyz/canales/L1/FOXSERIES.m3u8
 
-#EXTINF:-1, STAR SERIES HD
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-nxm1k4VKvJU/YDrASXgAYmI/AAAAAAAA8NE/WVksDBjhAUA3rb-ul8ZC0x1pA9uo4E9ywCLcBGAsYHQ/s1280/Star_Series_2021.png", STAR SERIES HD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47513
 
 
