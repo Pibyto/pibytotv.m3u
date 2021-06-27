@@ -65,6 +65,11 @@ https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.15752-9/198129374_454189365690504_7088670961273644075_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeFWVbvn6ms1SiCNhefhmwutfDpHv9wX6CR8Oke_3BfoJI72ZGn-hZgcJz_73M_8vhI&_nc_ohc=xxrvl2w2mcMAX_TV5tK&_nc_ht=scontent.fepa11-1.fna&oh=c7dc0c68ece85c39cbd6713935d0d530&oe=60CA665F" group-title="CINE Y SERIES", GO MAX PREMIERE
 https://stmvideo1.livecastv.com/iptvgo/iptvgo/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-THdaYfFi1xU/X60myXKF8tI/AAAAAAAA7Og/hB3m6DqzN9EvfnoBnjNWKiT9MT6hDSl4QCK8BGAsYHg/s0/2020-11-12.png" group-title="CINE Y SERIES", Exprezion TV
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+
+
 #EXTINF:-1, CINEMA PPV ARTES MARCIALES
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/143427
 
@@ -148,6 +153,10 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47510
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png" group-title="CINE Y SERIES", CABLEMAS
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3n7ECn.png", AFV
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 
 
 #EXTINF:-1, CANAL 10 URUGUAY
