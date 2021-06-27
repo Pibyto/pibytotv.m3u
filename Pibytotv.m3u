@@ -799,10 +799,10 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47541
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47497
 
 
-#EXTINF:-1, TNT
+#EXTINF:-1, tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:TNT-oficial.png", TNT
 https://tv.teleclub.xyz/canales/L1/TNT.m3u8
 
-#EXTINF:-1, TNT FHD
+#EXTINF:-1, tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:TNT-oficial.png", TNT FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47543
 
 
