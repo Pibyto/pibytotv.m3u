@@ -525,10 +525,10 @@ http://scrapehost.com:8080/123456/654321/92035
 
 
 
-#EXTINF:-1, LAS ESTRELLAS
+#EXTINF:-1, tvg-logo="https://2.bp.blogspot.com/-PX05J-PXgDk/V_E3RSJer8I/AAAAAAAABDk/JBHXpksrZNkCVQramobdh2qMRTPaQniZQCLcB/s1600/xew-estrellas.png", LAS ESTRELLAS
 https://tv.teleclub.xyz/canales/L1/LASESTRELLAS.m3u8
 
-#EXTINF:-1, LAS ESTRELLAS FHD
+#EXTINF:-1, tvg-logo="https://2.bp.blogspot.com/-PX05J-PXgDk/V_E3RSJer8I/AAAAAAAABDk/JBHXpksrZNkCVQramobdh2qMRTPaQniZQCLcB/s1600/xew-estrellas.png", LAS ESTRELLAS FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/50352
 
 
