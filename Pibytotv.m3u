@@ -6,11 +6,11 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Canal_26_Argentina.png", CANAL 26
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Canal_26_Argentina.png", CANAL 26 Argentina
 https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w1160533653_b2628000_sleng.m3u8
 
 
-#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg" group-title = ", CANAL NUEVE
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", CANAL NUEVE
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/178905
 
 #EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" grupo -title = ", TELEFE FHD
@@ -24,10 +24,10 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8wBbZDC6NMnd1uS8IGhPC2Lm4pxPt7uQ3TxaICRzD1vvfnXcpjiPtRGPivpDIJbC5SYB" group-title=", TELE5 SALTA
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8wBbZDC6NMnd1uS8IGhPC2Lm4pxPt7uQ3TxaICRzD1vvfnXcpjiPtRGPivpDIJbC5SYB.png", TELE5 SALTA
 https://vivo.solumedia.com:19360/canal5/canal5.m3u8
 
-#EXTINF:-1, TELE 5
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/8wBbZDC6NMnd1uS8IGhPC2Lm4pxPt7uQ3TxaICRzD1vvfnXcpjiPtRGPivpDIJbC5SYB.png", TELE5 ESPAÑA
 https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/es-telecinco.stream/playlist.m3u8?luis
 
 #EXTINF:-1, MEGA HD
