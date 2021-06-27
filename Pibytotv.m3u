@@ -63,6 +63,13 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title="CULTURA", TV NATURALEZA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16000-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d10ce06a9665fe54bf74a/colorLogoPNG.png" group-title="CULTURA", TV NATURALEZA 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804190-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c17b587b-1c4b-4113-806a-81298e54678e&userId=&serverSideAds=true
+
+
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-NGDAifGyP1E/UpI-Xc5EYqI/AAAAAAAAAFM/jdgvD3akd_I/s320/canal11.jpg", CANAL 11 MACHAGAI CHACO
 http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
@@ -70,6 +77,10 @@ http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.estoesmachagai.com/web/img/IMAGEN_PORTADA_SITIO_WEB_02.jpg", CANAL 3 PLUS TV  MACHAGAI CHACO
 https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU", CTV CORRIENTES
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.15752-9/198129374_454189365690504_7088670961273644075_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeFWVbvn6ms1SiCNhefhmwutfDpHv9wX6CR8Oke_3BfoJI72ZGn-hZgcJz_73M_8vhI&_nc_ohc=xxrvl2w2mcMAX_TV5tK&_nc_ht=scontent.fepa11-1.fna&oh=c7dc0c68ece85c39cbd6713935d0d530&oe=60CA665F" group-title="CINE Y SERIES", GO MAX PREMIERE
 https://stmvideo1.livecastv.com/iptvgo/iptvgo/playlist.m3u8
