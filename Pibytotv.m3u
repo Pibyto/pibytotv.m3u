@@ -16,7 +16,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/178905
 #EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" grupo -title = ", TELEFE FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64704
 
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/orfRKhi95TsEXzmY8.png", CINCO TV TIGRE  30.1
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/orfRKhi95TsEXzmY8.jpg", CINCO TV TIGRE  30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
