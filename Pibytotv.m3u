@@ -30,13 +30,10 @@ https://vivo.solumedia.com:19360/canal5/canal5.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/8wBbZDC6NMnd1uS8IGhPC2Lm4pxPt7uQ3TxaICRzD1vvfnXcpjiPtRGPivpDIJbC5SYB.png", TELE5 ESPAÑA
 https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/es-telecinco.stream/playlist.m3u8?luis
 
-#EXTINF:-1, MEGA HD
-http://hls.webredirect.org:80/kl03/mp_4953.php/https://directo.atresmedia.com/5f9966af62b672280082de12fd193d6b0cb4f775_1624530928/geomega/bitrate_2.m3u8
-
 #EXTINF:-1, RT ESPAÑOL FHD
 https://rt-esp.secure.footprint.net:443/1102_4500Kb.m3u8
 
-#EXTINF: -1 tvg-logo = "https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title =", UNIFE TV 25.1
+#EXTINF: -1 tvg-logo = "https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png", UNIFE TV 25.1
 https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
 
 
