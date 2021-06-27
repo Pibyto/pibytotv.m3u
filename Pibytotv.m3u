@@ -468,7 +468,7 @@ https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1, PASIONES FHD
+#EXTINF:-1, tvg-logo="http://1.bp.blogspot.com/-MVllyyaD5eA/VmeAPllfR6I/AAAAAAAAAVs/N-vjvpl1EUY/s1600/PASIONES.png", PASIONES FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/50345
 
 
@@ -838,10 +838,10 @@ https://tv.teleclub.xyz/canales/L1/FXM.m3u8
 #EXTINF:-1, tvg-logo="https://2.bp.blogspot.com/-eAlZTUpKSL4/WcLzhGsK6AI/AAAAAAAABn8/ljsPqBESMSo4hVwVkaSpch66xKfcbbeQwCLcBGAs/s1600/Screenshot_2017-09-20-19-44-22-1.png", FXM FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47516
 
-#EXTINF:-1, FX
+#EXTINF:-1, tvg-logo="http://4.bp.blogspot.com/-mxcvViPHz1c/Vmd7D7Yb1cI/AAAAAAAAAVU/ELgPyIJnhRQ/s1600/canalfx-hd.png", FX
 https://tv.teleclub.xyz/canales/L1/FX.m3u8
 
-#EXTINF:-1, FX FHD
+#EXTINF:-1, tvg-logo="http://4.bp.blogspot.com/-mxcvViPHz1c/Vmd7D7Yb1cI/AAAAAAAAAVU/ELgPyIJnhRQ/s1600/canalfx-hd.png", FX FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47514
 
 
