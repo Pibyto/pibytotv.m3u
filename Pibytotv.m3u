@@ -868,10 +868,10 @@ https://tv.teleclub.xyz/canales/L1/WARNER.m3u8
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47546
 
 
-#EXTINF:-1, TNT SERIES
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES
 https://tv.teleclub.xyz/canales/L1/TNTSERIES.m3u8
 
-#EXTINF:-1, TNT SERIES FHD
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47544
 
 
