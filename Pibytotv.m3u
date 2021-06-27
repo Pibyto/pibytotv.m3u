@@ -493,7 +493,7 @@ https://tv.teleclub.xyz/canales/L1/TLNOVELAS.m3u8
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/50446
 
 
-#EXTINF:-1, TELEMUNDO NOVELAS
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-MN8np2ZQRRQ/X1vHFZsygKI/AAAAAAAA6iA/Vec9_WSCS50D2lOpcx-NUX6P8d-Vb2wywCLcBGAsYHQ/s340/TelemundoInternacional-2018.png", TELEMUNDO NOVELAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=0114&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1, LATINA FHD
@@ -706,10 +706,10 @@ https://tv.teleclub.xyz/canales/L1/FOXSERIES.m3u8
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47513
 
 
-#EXTINF:-1, STAR HITS
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/--YIuTWZ1HuA/YDrHbW7HD-I/AAAAAAAA8Nc/SP15TUjYDMczzjnG5R2LOxemsKK3l1HRwCLcBGAsYHQ/s1280/Star_Hits_2021.png", STAR HITS
 https://tv.teleclub.xyz/canales/L1/FOXMOVIES.m3u8
 
-#EXTINF:-1, STAR HITS FHD
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/--YIuTWZ1HuA/YDrHbW7HD-I/AAAAAAAA8Nc/SP15TUjYDMczzjnG5R2LOxemsKK3l1HRwCLcBGAsYHQ/s1280/Star_Hits_2021.png", STAR HITS FHD
 
 
 
