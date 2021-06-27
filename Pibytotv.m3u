@@ -835,7 +835,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47535
 #EXTINF:-1, AXN
 https://tv.teleclub.xyz/canales/L1/AXN.m3u8
 
-#EXTINF:-1, AXN FHD
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-9Y7xt3a-Vc4/VtNgBsCrwEI/AAAAAAAAArg/FY6ByHYzSww/s1600/axnhd.png", AXN FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47494
 
 
