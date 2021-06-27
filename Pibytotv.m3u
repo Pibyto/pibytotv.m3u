@@ -628,10 +628,10 @@ https://tv.teleclub.xyz/canales/L1/HBOFAMILY.m3u8
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47524
 
 
-#EXTINF:-1, HBO SIGNATURE
+#EXTINF:-1, tvg-logo=http://1.bp.blogspot.com/-Q619G832r_8/Tx3ZhLy_AVI/AAAAAAAAR5s/EqAx2cTSXSg/s1600/hbo-signature.png", HBO SIGNATURE
 https://tv.teleclub.xyz/canales/L1/HBOSIGNATURE.m3u8
 
-#EXTINF:-1, HBO SIGNATURE FHD
+#EXTINF:-1, tvg-logo="http://1.bp.blogspot.com/-Q619G832r_8/Tx3ZhLy_AVI/AAAAAAAAR5s/EqAx2cTSXSg/s1600/hbo-signature.png", HBO SIGNATURE FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47525
 
 #EXTINF:-1, HBO MUNDI
@@ -667,10 +667,10 @@ https://tv.teleclub.xyz/canales/L1/FOXACTION.m3u8
 http://tv.nousiptv.com:8080/richi/12345/4019
 
 
-#EXTINF:-1, STAR CINEMA
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-StH2wZYlhIM/YDrJLRJz5SI/AAAAAAAA8Nk/X8nqCIQ21zYPt_eZcEIMTmPlnIG0DPDWQCLcBGAsYHQ/s1280/Star_Cinema_2021.png", STAR CINEMA
 https://tv.teleclub.xyz/canales/L1/FOXCINEMA.m3u8
 
-#EXTINF:-1, STAR CINEMA FHD
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-StH2wZYlhIM/YDrJLRJz5SI/AAAAAAAA8Nk/X8nqCIQ21zYPt_eZcEIMTmPlnIG0DPDWQCLcBGAsYHQ/s1280/Star_Cinema_2021.png", STAR CINEMA FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47510
 
 
