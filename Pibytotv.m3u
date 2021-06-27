@@ -611,12 +611,12 @@ https://tv.teleclub.xyz/canales/L1/HBO2.m3u8
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47523
 
 
-#EXTINF:-1, HBO +
+#EXTINF:-1, tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:HBO_Plus.png", HBO +
 https://tv.teleclub.xyz/canales/L1/HBOPLUS.m3u8
 
 
 
-#EXTINF:-1, HBO + FHD
+#EXTINF:-1, tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:HBO_Plus.png", HBO + FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47521
 
 
