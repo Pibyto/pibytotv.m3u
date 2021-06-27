@@ -489,7 +489,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/130950
 #EXTINF:-1, TLN TELENOVELAS
 https://tv.teleclub.xyz/canales/L1/TLNOVELAS.m3u8
 
-#EXTINF:-1, TLN TELENOVELAS
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-PEYfFS-_GqI/X9UMM3pfydI/AAAAAAAA7n8/MCUXE1tqrVM8SGAS3Y7ym4Gueh56E_C_ACLcBGAsYHQ/s800/tlnovelas_2020.png", TLN TELENOVELAS
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/50446
 
 
@@ -752,18 +752,11 @@ https://tv.teleclub.xyz/canales/L1/GOLDEN.m3u8
 #EXTINF:-1, GOLDEN PLUS FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47518
 
-
-#EXTINF:-1, SUNDANCE TV
-
-
-
 #EXTINF:-1, PARAMOUNT
 https://tv.teleclub.xyz/canales/L1/PARAMOUNT.m3u8
 
 #EXTINF:-1, PARAMOUNT FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47534
-
-
 
 #EXTINF:-1, CINEMAX
 https://tv.teleclub.xyz/canales/L1/CINEMAX.m3u8
@@ -785,7 +778,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47547
 #EXTINF:-1, SPACE
 https://tv.teleclub.xyz/canales/L1/SPACE.m3u8
 
-#EXTINF:-1,tvg-logo="http://4.bp.blogspot.com/-tSNmMi5Y3ZI/Vm3k4jDuL1I/AAAAAAAAAZs/VMxNT7YQUWo/s1600/space-hd.gif", SPACE HD
+#EXTINF:-1,tvg-logo="http://4.bp.blogspot.com/-tSNmMi5Y3ZI/Vm3k4jDuL1I/AAAAAAAAAZs/VMxNT7YQUWo/s1600/space-hd.gif.png", SPACE HD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47537
 
 
