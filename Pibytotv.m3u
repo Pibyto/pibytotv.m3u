@@ -93,14 +93,15 @@ https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?
 
 
 
-#EXTINF:-1, HBO FHD
+EXTINF:-1,tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png", HBO FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47520
 
 
 
 
 
-#EXTINF:-1, STAR ACCIÓN FHD
+
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-fV2OHYlvAXI/YDrCPvjo9mI/AAAAAAAA8NM/TxGT3wp1NngfLgmg1t72Q0WsJ2esdn2lwCLcBGAsYHQ/s1280/Star_Action_2021.png", STAR ACCIÓN FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47501
 
 
@@ -186,7 +187,7 @@ https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1, SPACE FHD
+EXTINF:-1,tvg-logo="http://4.bp.blogspot.com/-tSNmMi5Y3ZI/Vm3k4jDuL1I/AAAAAAAAAZs/VMxNT7YQUWo/s1600/space-hd.gif.png", SPACE FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47537
 
 
@@ -302,7 +303,7 @@ https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 https://stmvideo2.livecastv.com:443/celestialtv/celestialtv/chunklist_w1732933079.m3u8?WebM3UCL
 
 
-#EXTINF:-1, tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="LOCAL",TELEVIDA MENDOZA
+#EXTINF:-1, tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png",TELEVIDA MENDOZA
 https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w1179238419.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OmdVIgiYcpQ/XrYImNhAa7I/AAAAAAAA0hA/HKMr0zop2CsNpUAuev_aVuelSQkqOLzTQCK8BGAsYHg/s0/2020-05-08.jpg", CANAL 10 MAR DEL PLATA
@@ -492,7 +493,7 @@ http://kp-thebestiptv.com:8080/paloma/2020/45466
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/130950
 
 
-#EXTINF:-1, TLN TELENOVELAS
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-PEYfFS-_GqI/X9UMM3pfydI/AAAAAAAA7n8/MCUXE1tqrVM8SGAS3Y7ym4Gueh56E_C_ACLcBGAsYHQ/s800/tlnovelas_2020.png", TLN TELENOVELAS
 https://tv.teleclub.xyz/canales/L1/TLNOVELAS.m3u8
 
 #EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-PEYfFS-_GqI/X9UMM3pfydI/AAAAAAAA7n8/MCUXE1tqrVM8SGAS3Y7ym4Gueh56E_C_ACLcBGAsYHQ/s800/tlnovelas_2020.png", TLN TELENOVELAS
@@ -770,7 +771,7 @@ https://tv.teleclub.xyz/canales/L1/CINEMAX.m3u8
 #EXTINF:-1, FILM
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/101903
 
-#EXTINF:-1, CINECANAL
+EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-JIT9WNIXU7o/X8KMqyMKEyI/AAAAAAAA7UA/vvyQuT2RKcwkEhk64G-C-RNc1TdeK6kogCLcBGAsYHQ/s270/Cinecanal2018.png", CINECANAL
 https://tv.teleclub.xyz/canales/L1/CINECANAL.m3u8
 
 #EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-JIT9WNIXU7o/X8KMqyMKEyI/AAAAAAAA7UA/vvyQuT2RKcwkEhk64G-C-RNc1TdeK6kogCLcBGAsYHQ/s270/Cinecanal2018.png", CINECANAL HD
@@ -779,7 +780,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47547
 
 
 
-#EXTINF:-1, SPACE
+EXTINF:-1,tvg-logo="http://4.bp.blogspot.com/-tSNmMi5Y3ZI/Vm3k4jDuL1I/AAAAAAAAAZs/VMxNT7YQUWo/s1600/space-hd.gif.png", SPACE
 https://tv.teleclub.xyz/canales/L1/SPACE.m3u8
 
 #EXTINF:-1,tvg-logo="http://4.bp.blogspot.com/-tSNmMi5Y3ZI/Vm3k4jDuL1I/AAAAAAAAAZs/VMxNT7YQUWo/s1600/space-hd.gif.png", SPACE HD
