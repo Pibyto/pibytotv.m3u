@@ -148,7 +148,7 @@ http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating
 #EXTINF:-1, TVC TELEVICENTRO
 http://kp-thebestiptv.com:8080/paloma/2020/69183
 
-#EXTINF:-1, tvg-logo="https://es.wikipedia.org/wiki/Archivo:LOGO_MITV_ALTA_DEFINICION_2020_PNG.png", MI TV HD
+#EXTINF:-1, tvg-logo="https://es.wikipedia.org/wiki/Archivo:LOGO_MITV_ALTA_DEFINICION_2020_PNG.png", MITV HD
 http://copaco.desdeparaguay.net:1935/mitv/mitv/chunklist_w1809479909.m3u8?WebM3UCL
 
 #EXTINF:-1, EL TRECE HD PARAGUAY
