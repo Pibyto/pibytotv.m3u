@@ -6,7 +6,7 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Canal_26_Argentina.png", CANAL 26
+#EXTINF:-1 tvg-logo= "https://es.m.wikipedia.org/wiki/Archivo:Canal_26_Argentina.png", CANAL 26
 https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w1160533653_b2628000_sleng.m3u8
 
 
@@ -16,11 +16,11 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/178905
 #EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" grupo -title = ", TELEFE FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64704
 
-#EXTINF:-1 tvg-logo="https://canal5tigretv.com.ar/contenido/112/en-directo.png", CINCO TV TIGRE  30.1
+#EXTINF:-1 tvg-logo= "https://canal5tigretv.com.ar/contenido/112/en-directo/logo.png", CINCO TV TIGRE  30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title=", GEN TV  17.3
+#EXTINF:-1 tvg-logo= "https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title=", GEN TV  17.3
 https://videohd.live:19360/8010/8010.m3u8
 
 
