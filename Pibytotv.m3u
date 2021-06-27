@@ -470,7 +470,7 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/50345
 
 
-#EXTINF:-1, TELEMUNDO
+#EXTINF:-1, tvg-logo="https://es.wikipedia.org/wiki/Archivo:Telemundo-nuevo-logo.png", TELEMUNDO
 https://tv.teleclub.xyz/canales/L1/TELEMUNDO.m3u8
 
 #EXTINF:-1, UNIMAS DALLAS
