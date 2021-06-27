@@ -832,10 +832,10 @@ https://tv.teleclub.xyz/canales/L1/AXN.m3u8
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47494
 
 
-#EXTINF:-1, FXM
+#EXTINF:-1, tvg-logo="https://2.bp.blogspot.com/-eAlZTUpKSL4/WcLzhGsK6AI/AAAAAAAABn8/ljsPqBESMSo4hVwVkaSpch66xKfcbbeQwCLcBGAs/s1600/Screenshot_2017-09-20-19-44-22-1.png", FXM
 https://tv.teleclub.xyz/canales/L1/FXM.m3u8
 
-#EXTINF:-1, FMX FHD
+#EXTINF:-1, tvg-logo="https://2.bp.blogspot.com/-eAlZTUpKSL4/WcLzhGsK6AI/AAAAAAAABn8/ljsPqBESMSo4hVwVkaSpch66xKfcbbeQwCLcBGAs/s1600/Screenshot_2017-09-20-19-44-22-1.png", FXM FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47516
 
 #EXTINF:-1, FX
@@ -1711,7 +1711,7 @@ http://tv.nousiptv.com:8080/richi/12345/4072
 https://tv.teleclub.xyz/canales/L1/TOONCAST.m3u8
 
 
-#EXTINF:-1, BUMERANG FHD
+#EXTINF:-1, tvg-logo="https://4.bp.blogspot.com/-Kk4HvXpjevc/VvCMUBr1F4I/AAAAAAAAAwQ/hB_NwKEnaKo1fUGFwe-7W9nBQG4PycjXg/s1600/boomerang.png", BUMERANG FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47838
 
 
