@@ -783,10 +783,10 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47537
 
 
 
-#EXTINF:-1, AMC
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-4APErxnaL8s/V8xRf786uZI/AAAAAAAAA9c/As20DxdP1skjEXSiLbno2vTe2DZxzXc9gCLcB/s1600/AMC_2016.png", AMC
 https://tv.teleclub.xyz/canales/L1/AMC.m3u8
 
-#EXTINF:-1, AMC FHD
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-4APErxnaL8s/V8xRf786uZI/AAAAAAAAA9c/As20DxdP1skjEXSiLbno2vTe2DZxzXc9gCLcB/s1600/AMC_2016.png", AMC FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47493
 
 
@@ -1658,7 +1658,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="INFANTIL", MAGIC KIDS
 https://live.admefy.com/live/clean_peach_ef224.m3u8
 
-#EXTINF:-1, BIT ME
+#EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-NnUgeasUGiU/X8L6NOzw9yI/AAAAAAAA7as/FawgGhvpmdsVItVnVBYfyRZU01ek1FcjwCLcBGAsYHQ/s108/BitMe-logo.png", BIT ME
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64855
 
 #EXTINF:-1, CANAL 5 TELEVISA
