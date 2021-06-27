@@ -206,7 +206,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64701
 
 
 
-#EXTINF:-1, tvg-logo="https://es.wikipedia.org/wiki/SNT", SNT HD
+#EXTINF:-1, tvg-logo="https://es.wikipedia.org/wiki/SNT.png", SNT HD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/159022
 
 
@@ -305,18 +305,22 @@ https://stmvideo2.livecastv.com:443/celestialtv/celestialtv/chunklist_w173293307
 #EXTINF:-1, tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="LOCAL",TELEVIDA MENDOZA
 https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w1179238419.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OmdVIgiYcpQ/XrYImNhAa7I/AAAAAAAA0hA/HKMr0zop2CsNpUAuev_aVuelSQkqOLzTQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="LOCAL", CANAL 10 MAR DEL PLATA
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OmdVIgiYcpQ/XrYImNhAa7I/AAAAAAAA0hA/HKMr0zop2CsNpUAuev_aVuelSQkqOLzTQCK8BGAsYHg/s0/2020-05-08.jpg", CANAL 10 MAR DEL PLATA
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="LOCAL", MULTIVISION SALTA
+#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", MULTIVISION SALTA
 https://panel.dattalive.com:443/8250/8250/chunklist_w710743965.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" group-title="LOCAL", NET TV
+#EXTINF:-1 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg", NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+
 #EXTINF:-1, IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+
 #EXTINF:-1, CINE AR
 https://5fb24b460df87.streamlock.net:443/live-cont.ar/cinear/chunklist_w525043877.m3u8
 
@@ -345,7 +349,7 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?WebM3UCL
 #EXTINF:-1, CANAL 34
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU" group-title="LOCAL",29 QUILMES
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU",29 QUILMES
 https://inliveserver.com:1936/8386/8386/playlist.m3u8
 
 #EXTINF:-1, UNITEL HD PERÚ
@@ -367,7 +371,7 @@ https://rds3.desdeparaguay.net:443/tvs/tvs/chunklist_w190074850.m3u8?k=4d562eb97
 #EXTINF:-1, BOLIVISION HD
 
 
-#EXTINF:-1, tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png" group-title="LOCAL", CANAL 2 SANAGASTA
+#EXTINF:-1, tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png", CANAL 2 SANAGASTA
 https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
 #EXTINF:-1, CNR TV
@@ -376,21 +380,21 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1, PAX TV
 http://vs8.live.opencaster.com:80/20100152275/jcpstream/chunklist_w2122096626.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://lavozdesanpedro.com.ar/wp-content/uploads/2020/04/LOGO-NUEVO-2020_3.png" group-title="CINE Y SERIES", CANAL 32 SPTV SAN PEDRO
+#EXTINF:-1 tvg-logo="https://lavozdesanpedro.com.ar/wp-content/uploads/2020/04/LOGO-NUEVO-2020_3.png", CANAL 32 SPTV SAN PEDRO
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/90123896_2835906936535668_5292694186045210624_n.jpg?_nc_cat=104&ccb=3&_nc_sid=8024bb&_nc_ohc=IfTTi0tjpiAAX-I_iTM&_nc_ht=scontent.fepa11-1.fna&oh=ded10c6e372e62a0ee67492af5374c86&oe=6063FC3F" group-title="CINE Y SERIES", SPEED TV CONCORDIA
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/90123896_2835906936535668_5292694186045210624_n.jpg?_nc_cat=104&ccb=3&_nc_sid=8024bb&_nc_ohc=IfTTi0tjpiAAX-I_iTM&_nc_ht=scontent.fepa11-1.fna&oh=ded10c6e372e62a0ee67492af5374c86&oe=6063FC3F.png", SPEED TV CONCORDIA
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521" group-title="CINE Y SERIES", CANAL 13 SAN LUIS
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521", CANAL 13 SAN LUIS
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png" group-title="LOCAL", CANAL 3 PINAMAR
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="CINE Y SERIES", CANAL 9 NORTE MISIONES
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA.png", CANAL 9 NORTE MISIONES
 https://panel.dattalive.com/8076/8076/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="CINE Y SERIES", RTV CABLE JUJUY
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png", RTV CABLE JUJUY
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
 #EXTINF:-1, LUNA TV
@@ -398,8 +402,10 @@ https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
 #EXTINF:-1, TV PLATA
 https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="LOCALES 4", ALBARDON TV SAN JUAN
+#EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png", ALBARDON TV SAN JUAN
 https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/05/FMTV-matriz-CLASSIC-blanco-277x156.png" group-title="CINE Y SERIES", FM SUPER CLASSIC
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
@@ -418,6 +424,8 @@ https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Cadenasuper-cine-tv-en-vivo.jpg" group-title="CINE Y SERIES", FM 3 SUPER CINE
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="CINE Y SERIES", AZTECA 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
@@ -425,7 +433,7 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 #EXTINF:-1, FLIXTUBE
 https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w295369596.m3u8
 
-#EXTINF:-1, TVMAX
+#EXTINF:-1, tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Logo_tvmax.png", TVMAX
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
 
