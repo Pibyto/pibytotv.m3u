@@ -1662,10 +1662,10 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64855
 #EXTINF:-1, CANAL 5 TELEVISA
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64856
 
-#EXTINF:-1, CARTOON NETWORK
+#EXTINF:-1, tvg-logo="https://1000marcas.net/cartoon-network-logo/png", CARTOON NETWORK
 https://tv.teleclub.xyz/canales/L1/CARTOON.m3u8
 
-#EXTINF:-1, CARTOON NETWORK FHD
+#EXTINF:-1, tvg-logo="https://1000marcas.net/cartoon-network-logo/png", CARTOON NETWORK FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47832
 
 
