@@ -30,6 +30,10 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA", CANAL 9 NORTE MISIONES
+https://panel.dattalive.com/8076/8076/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8wBbZDC6NMnd1uS8IGhPC2Lm4pxPt7uQ3TxaICRzD1vvfnXcpjiPtRGPivpDIJbC5SYB.png", TELE5 SALTA
 https://vivo.solumedia.com:19360/canal5/canal5.m3u8
 
@@ -139,9 +143,6 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47510
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png" group-title="CINE Y SERIES", CABLEMAS
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
-
-#EXTINF:-1, CANAL 11 MACHAGAY CHACO
-http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/chunklist_w221181235.m3u8
 
 
 #EXTINF:-1, CANAL 10 URUGUAY
@@ -315,7 +316,7 @@ http://scrapehost.com:8080/123456/654321/69534
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1, CELESTIAL TV "RELIGIÓN"
+#EXTINF:-1, CELESTIAL TV 
 https://stmvideo2.livecastv.com:443/celestialtv/celestialtv/chunklist_w1732933079.m3u8?WebM3UCL
 
 
@@ -356,7 +357,7 @@ https://5cd577a3dd8ec.streamlock.net:443/canal4/manifest.smil/chunklist_w2133373
 https://5e7cdf2370883.streamlock.net:443/tdconline/tdconline/chunklist_w31676561.m3u8
 
 
-#EXTINF:-1,TEVE VIDA "RELIGIÓN"
+#EXTINF:-1,TEVE VIDA 
 https://5bf8041cb3fed.streamlock.net:443/TeveVida/TeveVida/chunklist_w1065613269.m3u8
 
 
@@ -392,7 +393,8 @@ https://rds3.desdeparaguay.net:443/tvs/tvs/chunklist_w190074850.m3u8?k=4d562eb97
 #EXTINF:-1, tvg-logo="http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png", CANAL 2 SANAGASTA
 https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
-#EXTINF:-1, CNR TV
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj", CNR TV
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 #EXTINF:-1, PAX TV
