@@ -776,7 +776,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/101903
 #EXTINF:-1, CINECANAL
 https://tv.teleclub.xyz/canales/L1/CINECANAL.m3u8
 
-#EXTINF:-1, CINECANAL HD
+#EXTINF:-1,tvg-logo="https://1.bp.blogspot.com/-JIT9WNIXU7o/X8KMqyMKEyI/AAAAAAAA7UA/vvyQuT2RKcwkEhk64G-C-RNc1TdeK6kogCLcBGAsYHQ/s270/Cinecanal2018.png", CINECANAL HD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/47547
 
 
