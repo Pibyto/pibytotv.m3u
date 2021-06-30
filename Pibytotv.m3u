@@ -283,7 +283,7 @@ http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wlhourdcXw55qexuUiQF72p5wTRJL2bh8g&usqp=CAU", FLIXTUBE
 https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w295369596.m3u8
 
-#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Logo_tvmax.png", TVMAX FHD
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Logo_tvmax.png", TVMAX
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
 
