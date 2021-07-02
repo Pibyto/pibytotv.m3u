@@ -29,6 +29,8 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw", GEN TV  17.3
 https://videohd.live:19360/8010/8010.m3u8
 
+#EXTINF:-1, TNT SPORTS
+https://wrtc585278.bigmarker.com/user-rtmp/5bfe91f4bd2e-9a9d90dc35d1c4a23a62bf3f34accd53.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA", CANAL 9 NORTE MISIONES
 https://panel.dattalive.com/8076/8076/playlist.m3u8
