@@ -93,6 +93,18 @@ https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 #EXTINF: -1, TV MOULE SUR
 https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
 
+#EXTINF: -1 tvg-logo = "https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title = "CINE Y SERIES", RUN: TIME
+https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title = "CINE Y SERIES", RUN: TIME 2
+https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title = "CINE Y SERIES", RUN: TIME 3
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="CINE Y SERIES", RAKUTEN SPOTLIGHT
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
