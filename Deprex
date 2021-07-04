@@ -29,9 +29,6 @@ https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?WebM3UCL
 #EXTINF:-1, TELE MAS CHILE
 https://593b04c4c5670.streamlock.net:443/8008/8008/chunklist_w52255808.m3u8?WebM3UCL
 
-#EXTINF:-1, CINE CLUB PERU
-https://stmv.panel.mivideo.pro/cineperu/cineperu/playlist.m3u8?WebM3UCL
-
 #EXTINF:-1, ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w120982809.m3u8?WebM3UCL
 
@@ -94,18 +91,10 @@ https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
 
 
-#EXTINF: -1 tvg-logo = "https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title = "CINE Y SERIES 2", CINE ESTELAR
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8? b3fa-019cb96f121b & deviceMake = Chrome & deviceModel = web & deviceType = web & deviceVersion = unknown & includeExtendedEvents = false & sid = 20f53e04-9cb8-454e-ad8b-838686c353e7 & userId = & serverSideAds = true
-
-#EXTINF: -1 tvg-logo = "https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title = "CINE Y SERIES 2", CINE ESTELAR 2
-http://service-stitcher.clusters.pluto. 9fe3-3bf7f4412392 & deviceMake = Chrome & deviceModel = web & deviceType = web & deviceVersion = unknown & includeExtendedEvents = false & sid = 236222be-74f0-4d28-b58b-70f75ce8319a & userId = & serverSideAds = true
-
-
-#EXTINF: -1 tvg-logo = "https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title = "CINE Y SERIES 2", CINE ESTELAR 3
-http://service-stitcher.clusters.pluto. 9fe3-3bf7f4412392 & deviceMake = Chrome & deviceModel = web & deviceType = web & deviceVersion = unknown & includeExtendedEvents = false & sid = e0810bdb-3103-4d41-9950-68244def5c07 & userId = & serverSideAds = true
-
 #EXTINF: -1 tvg-logo = "https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title = "CINE Y SERIES 2", CINE FAMILIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
+
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="CINE Y SERIES 2", CINE ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
