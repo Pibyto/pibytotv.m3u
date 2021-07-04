@@ -70,6 +70,9 @@ http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating
 https://stream.rpc.com.py/live/trece.m3u8
 
 
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0X7REz4ISXLJloQhacO1qP2R3vnMm-uncrw&usqp=CAU" group-title = "CINE Y SERIES", ZEE MUNDO TV
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+
 
 
 #EXTINF: -1, HECHIZERA TV PERÙ
