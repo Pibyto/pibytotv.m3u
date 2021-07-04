@@ -50,20 +50,10 @@ http://kp-thebestiptv.com:8080/paloma/2020/519
 #EXTINF:-1, DARK
 https://6ra8tpg8m6.azcdn107.net:8443/hls/6hucdn7rmjn.m3u8?s=TrypJ4fUur7UX8w4-iDy0g&e=1624144945
 
-#EXTINF: -1, FHD OSCURO
-http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38305
-
-#EXTINF: -1, MOVISTAR ESTRENOS FHD
-http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38325
-
-#EXTINF:-1, CARACOL FHD
-https://emqf7d2bfb.azcdn728.net:8443/hls/u8qy1re4gyqjbnw.m3u8?s=DlhxA7KiRwzLHMnXi5C4Uw&e=1624306163
 
 #EXTINF: -1, TELEFUTURO HD
 http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8?WebM3UCL
 
-#EXTINF:-1, RCN COLOMBIA
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZbLbJ65GA2HHznvtSl7-qsI)/p/dm/3/x7vyv0z/s/live-3.m3u8
 
 
 #EXTINF: -1, GEN TV PARAGUAY HD
@@ -80,8 +70,6 @@ http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating
 #EXTINF: -1, EL TRECE HD PARAGUAY
 https://stream.rpc.com.py/live/trece.m3u8
 
-#EXTINF: -1, FLIXTUBE
-https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w295369596.m3u8
 
 
 
