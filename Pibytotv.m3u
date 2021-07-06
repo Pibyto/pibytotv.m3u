@@ -40,7 +40,7 @@ https://panel.dattalive.com/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png", TELE5 SALTA
 https://vivo.solumedia.com:19360/canal5/canal5.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3A5dsZMcJlJdjb7NWxnpPuV2HFmJVcJqzyf2Y9g=s900-c-k-c0x00ffffff-no-rj" group-title=", CANAL 18 SALTA
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3A5dsZMcJlJdjb7NWxnpPuV2HFmJVcJqzyf2Y9g=s900-c-k-c0x00ffffff-no-rj", CANAL 18 SALTA
 https://59537faa0729a.streamlock.net/canalglobaltv/canalglobaltv/playlist.m3u8
 
 
@@ -88,8 +88,6 @@ https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.15752-9/198129374_454189365690504_7088670961273644075_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeFWVbvn6ms1SiCNhefhmwutfDpHv9wX6CR8Oke_3BfoJI72ZGn-hZgcJz_73M_8vhI&_nc_ohc=xxrvl2w2mcMAX_TV5tK&_nc_ht=scontent.fepa11-1.fna&oh=c7dc0c68ece85c39cbd6713935d0d530&oe=60CA665F" group-title="CINE Y SERIES", GO MAX PREMIERE
-https://stmvideo1.livecastv.com/iptvgo/iptvgo/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-THdaYfFi1xU/X60myXKF8tI/AAAAAAAA7Og/hB3m6DqzN9EvfnoBnjNWKiT9MT6hDSl4QCK8BGAsYHg/s0/2020-11-12.png" group-title="CINE Y SERIES", Exprezion TV
@@ -105,18 +103,6 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/82162
 
 
 
-#EXTINF:-1,tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png", CINEMAX UHD
-http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/133790
-
-#EXTINF:-1,tvg-logo="https://www.foromedios.com/gallery/image/6789-golden-plus/",GOLDEN UHD
-http://1581.f5.si:8000/raul1957/BuLyqCxoQ5/133789
-
-
-#EXTINF:-1, DARK
-https://6ra8tpg8m6.azcdn107.net:8443/hls/6hucdn7rmjn.m3u8?s=TrypJ4fUur7UX8w4-iDy0g&e=1624144945
-
-#EXTINF:-1,tvg-logo="https://support.google.com/legal/answer/3463239?hl=es-419", DARK FHD
-http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38305
 
 
 
@@ -126,15 +112,6 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/118309
 #EXTINF:-1,tvg-logo="https://www.andorratelecom.ad/documents/33347/2970868/2-m-estrenos.png", MOVISTAR ESTRENOS FHD
 http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38325
 
-
-#EXTINF:-1,tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Movistar_Acci%C3%B3n.svg", MOVISTAR ACCIÓN HD
-http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38327
-
-#EXTINF:-1, HOLLYWOOD FHD
-http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/38349
-
-#EXTINF:-1, XTRM FHD
-http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/17653
 
 #EXTINF:-1, tvg-logo="https://1.bp.blogspot.com/-rL0kaTrRF4Q/X8-4dBU62UI/AAAAAAAA7js/XNBF3OuJa-kQQ67tuYSGgfhlNiWCPdaXwCLcBGAsYHQ/s120/a3series-2020.png", A3SERIES FHD
 http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/17648
@@ -295,25 +272,7 @@ https://ss2.domint.net:3220/cana_str/canangatv/playlist.m3u8
 #EXTINF:-1, CITY TV
 http://kp-thebestiptv.com:8080/paloma/2020/232
 
-#EXTINF:-1, TAQUILLA 1
-http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/26964
-
-
-#EXTINF:-1, TAQUILLA 2
-http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/26963
-
-
-#EXTINF:-1, TAQUILLA 3
-http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/26962
-
-
-#EXTINF:-1, TAQUILLA 4
-http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/26961
-
-
-#EXTINF:-1, TAQUILLA 5
-http://superypunto.xyz:8080/Zangied/LWYGfq0Lmj/26959
-
+#
 
 #EXTINF:-1, CRISTIANA TV "RELIGIÓN"
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?WebM3UCL
@@ -354,8 +313,6 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 https://tlfcapitalhls-lh.akamaihd.net/i/canal5rosario_1@685724/master.m3u8?hdnea=st=1623355061~exp=1623531461~acl=/i/canal5rosario_1@685724/*~hmac=083630ddc99b34cde89042dda5e0cbdbdeb8e306b31b6930e51cd9f11c48dc8d
 
-#EXTINF:-1, TELE
-https://edge3-hr.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
 
 
 #EXTINF:-1, ALCANCE TV 
@@ -372,10 +329,6 @@ http://45.6.4.154/americatuc/vivo.m3u8?WebM3UCL
 
 
 
-
-
-#EXTINF:-1,LAT: TELEVISA
-http://scrapehost.com:8080/123456/654321/69534
 
 
 
@@ -429,9 +382,6 @@ https://5e7cdf2370883.streamlock.net:443/tdconline/tdconline/chunklist_w31676561
 #EXTINF:-1,TEVE VIDA 
 https://5bf8041cb3fed.streamlock.net:443/TeveVida/TeveVida/chunklist_w1065613269.m3u8
 
-
-#EXTINF:-1, CANAL 4 SAN JUAN
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png", CANAL 34
@@ -598,7 +548,7 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/50270
 #EXTINF:-1, ECUAVISION
 https://vps-c97214f4.vps.ovh.net/hls/ectv3.m3u8
 
-#EXTINF:-1, tvg-logo="https://logos.fandom.com/es/wiki/Televisora_Nacional_%28Panam%C3%A1%29.png TVN PANAMA
+#EXTINF:-1, tvg-logo="https://logos.fandom.com/es/wiki/Televisora_Nacional_%28Panam%C3%A1%29.png", TVN PANAMA
 https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 
 
