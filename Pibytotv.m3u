@@ -998,7 +998,8 @@ https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png", VALLEVISION
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-#EXTINF:-1, BELLAVISION
+
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/SBEWKmiPayPfUszR6", BELLAVISION
 https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
 
 #EXTINF:-1, CINECABLE TV
