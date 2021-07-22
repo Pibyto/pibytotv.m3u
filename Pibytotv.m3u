@@ -250,7 +250,9 @@ http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64701
 
 
 #EXTINF:-1, tvg-logo="https://es.wikipedia.org/wiki/SNT.png", SNT HD
-http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/159022
+https://py-snt-snt-live.ned.media/snt/snt.smil/.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI3MDg0MzU5LCJzZXNzaW9uIjoiMTg2LjEzMi4xMTguNSIsIndoaXRlbGlzdCI6WyIxODYuMTMyLjExOC41Il19LCJzaWduYXR1cmUiOiIzODNjOGMxNzUyYmZhY2VkM2NhOTcyM2FmMThkZjQyMWQ1OTBmN2UwIn0=
+
+
 
 
 #EXTINF:-1, CANAL 5 DEL PUEBLO
