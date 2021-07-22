@@ -49,7 +49,9 @@ https://inliveserver.com:1936/9500/9500/chunklist_w1908919579.m3u
 
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_circular_500_-1_bda1.png", TELE5 ESPAÑA
-https://www.streamaway.net/fra/frpx/frprx.php/Z2x5cGV8fGh0dHBzOi8vcHJveHkubG9naXN0ZWYuZnIvYnJvd3NlLnBocD91PQ==/31.220.41.87:8081/live/es-telecinco.stream/playlist.m3u8?luis
+https://live.mitele.es/hls/live/2004101/telecinco/02.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png", RT  25.5
