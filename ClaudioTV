@@ -53,6 +53,13 @@ https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
+#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BIES. , CABLEMAS
+https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/K3n7ECn.png", AFV
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+
 
 
 
