@@ -60,6 +60,45 @@ https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/K3n7ECn.png", AFV
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 
+#EXTINF: -1, RCN HD PARAGUAY
+https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
+
+
+#EXTINF: -1, SOMOS DEL ESTE HD PARAGUAY
+https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
+
+#EXTINF: -1, CABLEMAS PARAGUAY
+https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/chunklist_w1369991261.m3u8?WebM3UCL
+
+#EXTINF: -1, MI TV
+http://copaco.desdeparaguay.net:1935/mitv/mitv/chunklist_w1809479909.m3u8?WebM3UCL
+
+#EXTINF: -1, GLOBAL TV
+https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?WebM3UCL
+
+#EXTINF: -1, TELE MAS CHILE
+https://593b04c4c5670.streamlock.net:443/8008/8008/chunklist_w52255808.m3u8?WebM3UCL
+
+#EXTINF: -1, ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w120982809.m3u8?WebM3UCL
+
+#EXTINF: -1, CENTRAL TV PERÙ
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1310129098.m3u8?WebM3UCL
+
+#EXTINF: -1, VELLAVISION FHD
+http://ss6.domint.net:2060/tvm_str/montanatv/chunklist_w901556046.m3u8?WebM3UCL
+
+#EXTINF: -1, TVMAX
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+
+#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAs" grupo RINE Y-title =
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/toW8xWKbpS-28By8XvguQOg6oG0tun1oXmvmZRnY-TUiHmgsWdHeBNfoZtlbiAbdJTA" group-title = "CINE Y SERIES", TELERED
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb= 20200303190745 "group-title =" CINE Y SERIES ", TELESISTEMA
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
 
 
