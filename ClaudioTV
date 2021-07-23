@@ -100,6 +100,40 @@ http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb= 20200303190745 "group-title =" CINE Y SERIES ", TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
+#EXTINF: -1, ÚNICANAL HD
+http://45.55.127.106/live/unicanal.m3u8?WebM3UCL
+
+#EXTINF: -1, PARAVISION HD
+http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?WebM3UCL
+? k = 1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1 & exp = 1620012761
+
+
+#EXTINF: -1, EL TRECE HD PARAGUAY
+https://stream.rpc.com.py/live/trece.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0X7REz4ISXLJloQhacO1qP2R3vnMm-uncrw&usqp=CAU" group-title = "CINE Y SERIES", ZEE MUNDO TV
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+
+
+
+#EXTINF: -1, HECHIZERA TV PERÙ
+https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w735069103.m3u8?WebM3UCL
+
+
+#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGRyBGAD-RAGAAy0DQCK8BGRyBGADs20" grupo en línea -KHGB0D-02 "SERIECK8BGRyBGAS20", grupo
+https://master.tucableip.com/reconline/live/video.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title = "SERIE CINE Y", WMS HD
+https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
+
+
+#EXTINF: -1 tvg-logo = "http://www.m3u.cl/logo/109756_Sol_TV.png" group-title = "CINE Y SERIES", SOL TV
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
+
+#EXTINF: -1, TV MOULE SUR
+https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
 
 
 
