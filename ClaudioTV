@@ -1,1 +1,33 @@
 # ClaudioTV
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title = ", EL TRECE FHD
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF: -1 tvg-logo = "https://1.bp.blogspot.com/-YP-PR-TV-Wo/X86_FNeGBUI/AAAAAAAA7gw/hqyTGrH_NcIr-Ukzcw6KdEhy2g_V_d7CwCLcBGAsYHQ/s, CANG2018 / CANGHQ" Argentina
+https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w1160533653_b2628000_sleng.m3u8
+
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", CANAL NUEVE
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/178905
+
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" grupo -title = ", TELEFE FHD
+http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64704
+
+
+#EXTINF: -1 tvg-logo = "https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg", TV PUBLICA 23.2 
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+
+
+
+#EXTINF: -1, tvg-logo = "https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHRE.sp0/20
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw", GEN=w412-h220-rw "
+https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA", CANAL 9 NORTE MISIONES
+https://panel.dattalive.com/8076/8076/playlist.m3u8
+
