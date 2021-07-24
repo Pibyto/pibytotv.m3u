@@ -212,9 +212,9 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png", AZTECA 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wlhourdcXw55qexuUiQF72p5wTRJL2bh8g&usqp=CAU", FLIXTUBE
+https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
 
-#EXTINF: -1, FLIXTUBE
-https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w295369596.m3u8
 
 
 
