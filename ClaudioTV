@@ -5,9 +5,6 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF: -1 tvg-logo = "https://1.bp.blogspot.com/-YP-PR-TV-Wo/X86_FNeGBUI/AAAAAAAA7gw/hqyTGrH_NcIr-Ukzcw6KdEhy2g_V_d7CwCLcBGAsYHQ/s, CANG2018 / CANGHQ", CANAL 26 Argentina
-https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w1160533653_b2628000_sleng.m3u8
-
 
 #EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", CANAL NUEVE
 https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI3MjIyMzE1LCJzZXNzaW9uIjoiMTg2LjEzMi43NS4yNDYiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEzMi43NS4yNDYiXX0sInNpZ25hdHVyZSI6IjUwMmQxMmYwMTEyZTA1ZGYwYmMzZmYyNzM2N2FlNzNiMmExYzJlZTYifQ==
@@ -20,8 +17,6 @@ https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg", TV PUBLICA 23.2 
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 
 
