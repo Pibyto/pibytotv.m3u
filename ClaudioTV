@@ -172,7 +172,8 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 #EXTINF: -1, tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU", 29 QUILMES
 https://inliveserver.com:1936/8386/8386/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3487556435/aaae8392a11f89550187210f1a944807_400x400.jpeg", CANAL 29 ENSENADA
+https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/K3n7ECn.png", AFV
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
