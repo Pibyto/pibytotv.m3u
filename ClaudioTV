@@ -180,7 +180,7 @@ https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/K3n7ECn.png", AFV
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 
-#EXTINF: -1, RCN HD PARAGUAY
+#EXTINF: -1tvg-logo="https://m.facebook.com/rcntvpy/photos/a.130917078618025/173417511034648/?type=3&source=44", RCN HD PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
 
 
