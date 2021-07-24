@@ -114,7 +114,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 https://5cd577a3dd8ec.streamlock.net:443/canal4/manifest.smil/chunklist_w213337385_b316000.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8.p0sY/20, TwvQCK8BGAsY20.png" TDC
+#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8.png" TDC
 https://5e7cdf2370883.streamlock.net:443/tdconline/tdconline/chunklist_w31676561.m3u8
 
 
@@ -164,7 +164,7 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/chunklist_w22640220.m3u8?WebM3UCL
 
 
-#EXTINF: -1 tvg-logo = "https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo.jpg" group-title = "CINE SERIE Y ", PELÍCULAS FM 2
+#EXTINF: -1 tvg-logo = "https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo.jpg" group-title = "CINE SERIE Y ",FM SUPER 2 PELÍCULAS 
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
 #EXTINF: -1, INKAVISION PERU
@@ -213,7 +213,7 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-CwMYprB8eaA/XnATeNoPyXI/AAAAAAAAw-Y/I40dMYtgMWstYOVQvOI-uZArZune0a9VACK8BGAsYHg/s0/2020 group-title YHg/s0/2020 SERIE ", GEO
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://play-lh.googleusercontent.com/06blQk_MW8hp4sQEfxlkxrm3Vlnyj0Wg6Diu_CdLui3wW8Pk9SXFaScG-ErDuKzYQes" group-title = "CINE YQUÍ SERIES"
+#EXTINF: -1 tvg-logo = "https://play-lh.googleusercontent.com/06blQk_MW8hp4sQEfxlkxrm3Vlnyj0Wg6Diu_CdLui3wW8Pk9SXFaScG-ErDuKzYQes" group-title = "CINE YQUÍ SERIES" STV
 http://209.126.105.158:1935/stv/web/playlist.m3u8
 
 #EXTINF: -1 tvg-logo = "https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2015/02/17140854/aster1-300x165.jpg" group-title = "CINE Y SERIES", ASTER
