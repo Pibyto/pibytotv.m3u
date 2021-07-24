@@ -29,6 +29,11 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw", GENTV
 https://videohd.live:19360/8010/8010.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.18169-9/20708437_111250822872341_7486705936501501459_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeE5cupq3kMwbbWlvbYKKEahLA0gqcInhc4sDSCpwieFzkkpFkD-7UiGuFCIAKjJwzo&_nc_ohc=83SaW40wm4YAX-NLLFB&_nc_oc=AQntwE4tyn7QX3HJIwQ3ETUGiqwWO80Pjv_tVVGfy4TAMZUjwBlCugE5QNPhIog4nWxzddw_zAIuRJQdPet5LD5j&_nc_ht=scontent.fepa11-1.fna&oh=184edb034c7d9a4d2d2ed2a8c0d884f4&oe=60CA3571", TELECREATIVA LANUS
+https://panel.dattalive.com/8012/8012/playlist.m3u8
+
+
 #EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGRZS-RAGAAy0DQCK8BGAs", REC ONLINE
 https://master.tucableip.com/reconline/live/video.m3u8
 
@@ -173,8 +178,6 @@ https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 #EXTINF: -1, MI TV
 http://copaco.desdeparaguay.net:1935/mitv/mitv/chunklist_w1809479909.m3u8?WebM3UCL
 
-#EXTINF: -1, GLOBAL TV
-https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?WebM3UCL
 
 #EXTINF: -1, TELE MAS CHILE
 https://593b04c4c5670.streamlock.net:443/8008/8008/chunklist_w52255808.m3u8?WebM3UCL
@@ -188,27 +191,25 @@ https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w120982809.m3u8?WebM3UCL
 
 
-#EXTINF: -1 tvg-logo = "https://serenotv.com/wp-content/uploads/2021/05/FMTV-matriz-CLASSIC-blanco-277x156.png" group-title = "CINE Y SERIES", FM SUPER CLÁSICO
+#EXTINF: -1 tvg-logo = "https://serenotv.com/wp-content/uploads/2021/05/FMTV-matriz-CLASSIC-blanco-277x156.png", FM SUPER CLÁSICO
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 #EXTINF: -1, VEGAVISION
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/chunklist_w22640220.m3u8?WebM3UCL
 
 
-#EXTINF: -1 tvg-logo = "https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo.jpg" group-title = "CINE SERIE Y ",FM SUPER 2 PELÍCULAS 
+#EXTINF: -1 tvg-logo = "https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo.jpg",FM SUPER 2 MOVIE
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
-#EXTINF: -1, INKAVISION PERU
-http://vs8.live.opencaster.com:80/cultura24/smil:cultura24/chunklist_w1195693078_b564000_sles.m3u8?WebM3UCL
 
 #EXTINF: -1, GLOBAL TV
 https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?WebM3UCL
 
-#EXTINF: -1 tvg-logo = "https://serenotv.com/wp-content/uploads/2020/09/Canal-Cadenasuper-cine-tv-en-vivo.jpg" group-title = "CINE Y SERIES ", FM 3 SUPER CINE
+#EXTINF: -1 tvg-logo = "https://serenotv.com/wp-content/uploads/2020/09/Canal-Cadenasuper-cine-tv-en-vivo.jpg", FM 3 SUPER CINE
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title = "CINE Y SERIES", AZTECA 7
+#EXTINF: -1 tvg-logo = "https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png", AZTECA 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
 
@@ -235,27 +236,27 @@ https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8?nimblesessionid=69716585&DVR
 
 
-#EXTINF: -1 tvg-logo = "http://amecanal47.com/images/ame_47_sm.jpg" group-title = "CINE Y SERIES", AME47
+#EXTINF: -1 tvg-logo = "http://amecanal47.com/images/ame_47_sm.jpg", AME47
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 
-#EXTINF: -1 tvg-logo = "http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" group-title = "CINE Y SERIES", TVS 
+#EXTINF: -1 tvg-logo = "http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg", TVS 
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-CwMYprB8eaA/XnATeNoPyXI/AAAAAAAAw-Y/I40dMYtgMWstYOVQvOI-uZArZune0a9VACK8BGAsYHg/s0/2020 group-title YHg/s0/2020 SERIE ", GEO
+#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-CwMYprB8eaA/XnATeNoPyXI/AAAAAAAAw-Y/I40dMYtgMWstYOVQvOI-uZArZune0a9VACK8BGAsYHg/s0/2020 group-title YHg/s0/2020", GEO
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
 
 #EXTINF: -1, STV
 http://209.126.105.158:1935/stv/web/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2015/02/17140854/aster1-300x165.jpg" group-title = "CINE Y SERIES", ASTER
+#EXTINF: -1 tvg-logo = "https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2015/02/17140854/aster1-300x165.jpg", ASTER
 http://96.30.193.226:81/hls/canalaster.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/ Canela.TV_190x190_circle.jpg? Raw = true "group-title =" CINE Y SERIES ", CANELA TV
+#EXTINF: -1 tvg-logo = "https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/ Canela.TV_190x190_circle.jpg? Raw = true ", CANELA TV
 https://canelamedia-canelatv-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/ Canela.TV_190x190_circle.jpg? Raw = true "group-title =" CINE Y SERIES ", CANELA TV 2
+#EXTINF: -1 tvg-logo = "https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/ Canela.TV_190x190_circle.jpg? Raw = true "group-title =", CANELA TV 2
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app. plex & gdpr = 0 & device_make = Windows & device_model = Opera & coppa = 0 & us_privacy = 1 ---
 
 
@@ -263,7 +264,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_b
 #EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/toW8xWKbpS-28By8XvguQOg6oG0tun1oXmvmZRnY-TUiHmgsWdHeBNfoZtlbiAbdJTA" group-title = "CINE Y SERIES", TELERED
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb= 20200303190745 "group-title =" CINE Y SERIES ", TELESISTEMA
+#EXTINF: -1 tvg-logo = "https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb= 20200303190745 ", TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
 #EXTINF: -1, ÚNICANAL HD
@@ -278,28 +279,21 @@ http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating
 https://stream.rpc.com.py/live/trece.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0X7REz4ISXLJloQhacO1qP2R3vnMm-uncrw&usqp=CAU" group-title = "CINE Y SERIES", ZEE MUNDO TV
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0X7REz4ISXLJloQhacO1qP2R3vnMm-uncrw&usqp=CAU", ZEE MUNDO TV
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF: -1, HECHIZERA TV PERÙ
-https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w735069103.m3u8?WebM3UCL
 
 
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGRyBGAD-RAGAAy0DQCK8BGRyBGADs20" grupo en línea -KHGB0D-02 "SERIECK8BGRyBGAS20", grupo
-https://master.tucableip.com/reconline/live/video.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title = "SERIE CINE Y", WMS HD
+#EXTINF: -1 tvg-logo = "https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "http://www.m3u.cl/logo/109756_Sol_TV.png" group-title = "CINE Y SERIES", SOL TV
+#EXTINF: -1 tvg-logo = "http://www.m3u.cl/logo/109756_Sol_TV.png", SOL TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
-
-#EXTINF: -1, TV MOULE SUR
-https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
 
 #EXTINF: -1 tvg-logo = "https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title = "CINE Y SERIES 2", CINE FAMILIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8? b3fa-019cb96f121b & deviceMake = Chrome & deviceModel = web & deviceType = web & deviceVersion = unknown & includeExtendedEvents = false & sid = fa508f20-2870-486b-a716-7a14ab7ab7fb & userId = & serverSideAds = true
