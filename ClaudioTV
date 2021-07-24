@@ -30,6 +30,10 @@ https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 
 
+#EXTINF: -1, DIOS TE VE HD
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF: -1 tvg-logo = "https://televisioncelestial.com.ar/uploads/1zje40laqizoswwcso.png", TELEVISION CELESTIAL ROSARIO
 https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 
