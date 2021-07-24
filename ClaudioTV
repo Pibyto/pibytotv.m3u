@@ -108,11 +108,11 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 
 
 
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020, EL0/2020
+#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020, EL0/2020.png", CANAL 4
 https://5cd577a3dd8ec.streamlock.net:443/canal4/manifest.smil/chunklist_w213337385_b316000.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8.p0sY/20, TwvQCK8BGAsY20"
+#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8.p0sY/20, TwvQCK8BGAsY20.png" TDC
 https://5e7cdf2370883.streamlock.net:443/tdconline/tdconline/chunklist_w31676561.m3u8
 
 
@@ -156,6 +156,36 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/chunklist_w52255808.m3u8?WebM
 
 #EXTINF: -1, ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w120982809.m3u8?WebM3UCL
+
+
+#EXTINF: -1 tvg-logo = "https://serenotv.com/wp-content/uploads/2021/05/FMTV-matriz-CLASSIC-blanco-277x156.png" group-title = "CINE Y SERIES", FM SUPER CLÁSICO
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+
+#EXTINF: -1, VEGAVISION
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/chunklist_w22640220.m3u8?WebM3UCL
+
+
+#EXTINF: -1 tvg-logo = "https://serenotv.com/wp-content/uploads/2020/09/Canal-frecuencia-musical-movies-tv-en-vivo.jpg" group-title = "CINE SERIE Y ", PELÍCULAS FM 2
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
+
+#EXTINF: -1, INKAVISION PERU
+http://vs8.live.opencaster.com:80/cultura24/smil:cultura24/chunklist_w1195693078_b564000_sles.m3u8?WebM3UCL
+
+#EXTINF: -1, GLOBAL TV
+https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?WebM3UCL
+
+#EXTINF: -1 tvg-logo = "https://serenotv.com/wp-content/uploads/2020/09/Canal-Cadenasuper-cine-tv-en-vivo.jpg" group-title = "CINE Y SERIES ", FM 3 SUPER CINE
+https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title = "CINE Y SERIES", AZTECA 7
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
+
+
+#EXTINF: -1, FLIXTUBE
+https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w295369596.m3u8
+
+
 
 #EXTINF: -1, CENTRAL TV PERÙ
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1310129098.m3u8?WebM3UCL
