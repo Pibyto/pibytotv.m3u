@@ -4,6 +4,8 @@
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", CANAL 26  26.1
+https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
 
 
 #EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", CANAL NUEVE
