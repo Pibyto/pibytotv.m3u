@@ -37,6 +37,22 @@ https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 #EXTINF:-1, EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF: -1, DIOS TV KIDS
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1, SOLDADITOS DE JESÚS KIDS TV
+https://livestreamcdn.net:444/SoldaditosdeJesusTV/SoldaditosdeJesusTV/chunklist_w454139696.m3u8
+
+
+
+#EXTINF: -1, TELE FAMILIA
+https://cloud2.streaminglivehd.com:1936/8116/8116/chunklist_w292255099.m3u8?WebM3UCL
+
+#EXTINF: -1, ALIENTO TV HD
+https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/chunklist_w1498398310_b1300000_slen.m3u8
+mil / chunklist_b500000.m3u8? iptvgratis? chile.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif", LA VOZ TV
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
