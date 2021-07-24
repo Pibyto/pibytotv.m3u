@@ -42,6 +42,11 @@ https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+#EXTINF: -1, ALCANCE TV
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
+
+#EXTINF: -1, VIDA TV
+http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
 
 
 #EXTINF: -1, DIOS TV KIDS
@@ -68,6 +73,19 @@ https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8?We
 #EXTINF: -1, URBANCRIST TV
 https://5790d294af2dc.streamlock.net:443/8160/8160/chunklist_w1412141262.m3u8?WebM3UCL
 
+#EXTINF: -1, CANAL 5 DEL PUEBLO
+https://stmvideo1.livecastv.com:443/canal5/canal5/chunklist_w723872153.m3u8?WebM3UCL
+
+
+
+
+
+#EXTINF: -1 tvg-logo = "https://es.m.wikipedia.org/wiki/Archivo:Logo_tvmax.png", TVMAX
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+
+
+#EXTINF: -1, CANAGA TV
+https://ss2.domint.net:3220/cana_str/canangatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif", LA VOZ TV
@@ -538,24 +556,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "CINE Y SERIES", CHIQUILINES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 
-
-#EXTINF: -1, CANAL 5 DEL PUEBLO
-https://stmvideo1.livecastv.com:443/canal5/canal5/chunklist_w723872153.m3u8?WebM3UCL
-
-
-#EXTINF: -1, VIDA TV "RELIGIÓN"
-http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
-
-
-#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wlhourdcXw55qexuUiQF72p5wTRJL2bh8g&usqp=CAU", FLIXTUBE
-https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w295369596.m3u8
-
-#EXTINF: -1 tvg-logo = "https://es.m.wikipedia.org/wiki/Archivo:Logo_tvmax.png", TVMAX
-https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
-
-
-#EXTINF: -1, CANAGA TV
-https://ss2.domint.net:3220/cana_str/canangatv/playlist.m3u8
 
 
 
