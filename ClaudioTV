@@ -115,10 +115,11 @@ https://5fb24b460df87.streamlock.net:443/live-cont.ar/cinear/chunklist_w52504387
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png", CANAL 4 JUJUY
+http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020, EL0/2020.png", CANAL 4
-https://5cd577a3dd8ec.streamlock.net:443/canal4/manifest.smil/chunklist_w213337385_b316000.m3u8
+
 
 
 #EXTINF: -1, TDC
