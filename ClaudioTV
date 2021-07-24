@@ -37,6 +37,9 @@ https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
 https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
 
 
+#EXTINF:-1, tvg-logo="https://logos.fandom.com/es/wiki/Televisora_Nacional_%28Panam%C3%A1%29.png", TVN PANAMA
+https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+
 
 #EXTINF: -1, DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
