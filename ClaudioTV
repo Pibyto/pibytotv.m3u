@@ -29,6 +29,14 @@ https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw", GENTV
 https://videohd.live:19360/8010/8010.m3u8
 
+#EXTINF: -1, LUNA TV
+https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
+
+
+#EXTINF: -1, TV PLATA
+https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
+
+
 
 #EXTINF: -1, DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
