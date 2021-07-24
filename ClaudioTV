@@ -97,6 +97,19 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png", WOW
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
+
+#EXTINF: -1 tvg-logo = "http://www.canal13jujuy.com/img/logo-web.png", CANAL 13 JUJUY
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://jtamendoza.com/images/icon_144.png", JTA TV 21.1 MENDOZA
+https://streaming.jtamendoza.com:8443/hls/test_mid.m3u8
+
+
+#EXTINF: -1, TELEVIDA
+https://tls.cdnz.cl:443/televida/ngrp:live_all/chunklist_w505523163_b4628000.m3u8?WebM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4nXoFlDVb7s/YI8_ap7Pw-I/AAAAAAABCJs/Ddgvvadk8pcJOwjJQwsUK1rAEsu-EWVPgCK8BGAsYHg/s512/2021-05-02.png", TV QUINTA REGION
 https://srv1.zcast.com.br/daniel2525/daniel2525/playlist.m3u8
 
