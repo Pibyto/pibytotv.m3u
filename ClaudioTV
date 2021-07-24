@@ -37,7 +37,8 @@ https://panel.dattalive.com/8076/8076/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png", UNIFE TV 25.1
-https://latamstreaming-live-os.akamaized.net/live_passthrough/unifearg1_ar_only_5/chunks.m3u8
+https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-p.m3u8?sd=10&rebase=on
+
 
 #EXTINF: -1 tvg-logo = "https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-ck-c0x00ffffff-no-rj", ZONDA TV 35.1 - SAN JUAN
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
