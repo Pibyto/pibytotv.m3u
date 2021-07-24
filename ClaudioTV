@@ -216,8 +216,9 @@ http://copaco.desdeparaguay.net:1935/mitv/mitv/chunklist_w1809479909.m3u8?WebM3U
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF: -1, ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w120982809.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png", ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
 
 
 #EXTINF: -1 tvg-logo = "https://serenotv.com/wp-content/uploads/2021/05/FMTV-matriz-CLASSIC-blanco-277x156.png", FM SUPER CLÁSICO
