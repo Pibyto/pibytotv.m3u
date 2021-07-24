@@ -41,6 +41,9 @@ https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 #EXTINF:-1, EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF: -1, tvg-logo = https: //support.google.com/legal/answer/3463239? Hl = es-419", ALERTA TV
+http://stream2.livestreamingservices.com:1935/alertatv/alertatv/chunklist_w852405639.m3u8
+
 
 #EXTINF: -1, ALCANCE TV
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
