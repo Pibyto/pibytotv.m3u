@@ -11,9 +11,6 @@ https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
 #EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", CANAL NUEVE
 https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI3MjIyMzE1LCJzZXNzaW9uIjoiMTg2LjEzMi43NS4yNDYiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEzMi43NS4yNDYiXX0sInNpZ25hdHVyZSI6IjUwMmQxMmYwMTEyZTA1ZGYwYmMzZmYyNzM2N2FlNzNiMmExYzJlZTYifQ==
 
-#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png", CRONICA HD  24.4
-https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
