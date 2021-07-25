@@ -233,7 +233,7 @@ https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 #EXTINF: -1, PAX TV
 http://vs8.live.opencaster.com:80/20100152275/jcpstream/chunklist_w2122096626.m3u8?WebM3UCL
 
-#EXTINF: -1 tvg-logo = "https://lavozdesanpedro.com.ar/wp-content/uploads/2020/04/LOGO-NUEVO-2020_3.png", CANAL 32 SPTV SAN PEDRO
+#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-NIJDSgSyQwI/YF4tcPPggxI/AAAAAAABA9Y/1pkfP7_eu10_moioRSqfOJpdaGgDsv2agCK8BGAsYHg/s512/2021-03-26.png", CANAL 32 SPTV SAN PEDRO
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/apMSrKP4Vh0-kXjo9LblAWXF1ECWRAePh4fbqp6mgqzvvafXFHzKI2uoZ2p7Og3GJb4", SPEED TV CONCORDIA
