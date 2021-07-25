@@ -70,6 +70,11 @@ https://rtmp02.portalexpress.es:443/acvisionazogues/acvisionazogues/chunklist_w1
 #EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw", GENTV
 https://videohd.live:19360/8010/8010.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg", MOVIES
+https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png", CALCHAQUI TV TUCUMAN
 http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
 
