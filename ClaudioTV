@@ -71,6 +71,9 @@ http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
 #EXTINF: -1, LUNA TV
 https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png", CHINOLA TV
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
+
 
 #EXTINF: -1, TV PLATA
 https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
