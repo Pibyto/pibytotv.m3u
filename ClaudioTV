@@ -22,6 +22,24 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png", AMERICA TUCUMAN 
 http://45.6.4.154/americatuc/vivo.m3u8
 
+
+#EXTINF: -1 tvg-logo = "https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png", UNIFE TV 25.1
+https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF: -1 tvg-logo = "https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg", NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg", IP 24.5
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+
+
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png", CINEAR 22.4
+https://5fb24b460df87.streamlock.net:443/live-cont.ar/cinear/chunklist_w525043877.m3u8
+
+
 #EXTINF:-1, TODO NOTICIAS   
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
@@ -237,6 +255,9 @@ https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1268363411.m3u8
 https://vdo2.streamgato.us:3095/live/tvcotuilive.m3u8?WebM3UCL
 
 
+#EXTINF: -1 tvg-logo = "https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png", AZTECA 7
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
+
 
 #EXTINF: -1, AZTECA UNO
 https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99nu/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
@@ -278,8 +299,6 @@ https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 https://panel.dattalive.com/8076/8076/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png", UNIFE TV 25.1
-https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF: -1 tvg-logo = "https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-ck-c0x00ffffff-no-rj", ZONDA TV 35.1 - SAN JUAN
@@ -384,17 +403,6 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
-#EXTINF: -1 tvg-logo = "https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg", NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-
-#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg", IP 24.5
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-
-
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png", CINEAR 22.4
-https://5fb24b460df87.streamlock.net:443/live-cont.ar/cinear/chunklist_w525043877.m3u8
 
 
 #EXTINF: -1, EL TRES CÓRDOBA
@@ -441,7 +449,7 @@ https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo=".https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png", MI TV
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png", MI TV
 http://copaco.desdeparaguay.net:1935/mitv/mitv/chunklist_w1809479909.m3u8?WebM3UCL
 
 
@@ -473,8 +481,6 @@ https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?WebM3UCL
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png", AZTECA 7
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wlhourdcXw55qexuUiQF72p5wTRJL2bh8g&usqp=CAU", FLIXTUBE
 https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
