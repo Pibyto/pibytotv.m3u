@@ -110,6 +110,10 @@ https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.
 https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj", CANAL 9 RIO CUARTO
+http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png", CANAL 13 LA RIOJA
 https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
 
