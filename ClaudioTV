@@ -158,7 +158,7 @@ https://stmv.panel.grupolimalive.com:443/cinperu/cinperu/chunklist_w1060372831.m
 #EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_europa-europa_m.png", EUROPA EUROPA
 https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
 
-#EXTINF: -1, MICROVISIÓN 10
+#EXTINF: -1 tvg-logo="https://ibb.co/wgHNmrh", MICROVISIÓN 10
 https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w955317782.m3u8
 
 
