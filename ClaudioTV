@@ -3,6 +3,9 @@
 #EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title = ", EL TRECE FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg", TELESOL SAN JUAN
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", CANAL 26  26.1
 https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
