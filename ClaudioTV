@@ -144,6 +144,10 @@ https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
 
+#EXTINF:-1, MEGA TV
+https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
+
+
 #EXTINF: -1, TV PLATA
 https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
 
