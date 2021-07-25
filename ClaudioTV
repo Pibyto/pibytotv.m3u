@@ -61,6 +61,15 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="INTERNACIONAL", RT  25.5
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 
+
+#EXTINF: -1, TVN CHILE
+https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?WebM3UCL
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg", MIRADOR  22.3
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8 
 
