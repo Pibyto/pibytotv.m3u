@@ -213,6 +213,8 @@ https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6
 #EXTINF: -1, DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, ANTONIO BOLAINEZ (PREDICAS)
+https://redirector.googlevideo.com/videoplayback?expire=1627256872&ei=yKP9YI_NG5fM1gLc0ZCYDg&ip=49.12.104.180&id=o-AME9kGd-x7nBmEjKx325TzsYH3rqpeZyGGWDaqyHBe--&itag=135&aitags=133%2C134%2C135%2C160%2C242%2C243%2C244%2C278&source=youtube&requiressl=yes&mh=ON&mm=31%2C29&mn=sn-4g5edney%2Csn-4g5e6nze&ms=au%2Crdu&mv=u&mvi=6&pl=24&vprv=1&mime=video%2Fmp4&ns=OvN3xHiV1wTM8lBMPo4kL-cG&gir=yes&clen=301280518&dur=4955.433&lmt=1515543166890196&mt=1627234653&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=MWEB&n=mz9BFx-7KDauiP&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAJDI1habedD9TJkoaghMjiVws8hntD987oo_twZR5_VxAiAudX3msFEL21Mb7mr-aRqJP7qFhlVEPq-xYRXWrum_ug%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRQIgUQHFAU01e6N2UDgDF0n3CnKhn4_zKgPRIE5OUWjR7zwCIQDDyrpSk7KtkSg65t31w4J_8QBH7jot9H2dq8XwWkFyow%3D%3D&ratebypass=yes&utmg=ytap1_mODNXWjtSic
 
 #EXTINF: -1 tvg-logo = "https://televisioncelestial.com.ar/uploads/1zje40laqizoswwcso.png", TELEVISION CELESTIAL ROSARIO
 https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
