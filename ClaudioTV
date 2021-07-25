@@ -71,6 +71,9 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png", CALCHAQUI TV TUCUMAN
 http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png", TELEUNION
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+
 
 #EXTINF: -1, LUNA TV
 https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
