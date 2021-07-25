@@ -110,6 +110,8 @@ https://stmvideo1.livecastv.com:443/canal5/canal5/chunklist_w723872153.m3u8?WebM
 
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png", CANAL 7 SALTA
+https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://es.m.wikipedia.org/wiki/Archivo:Logo_tvmax.png", TVMAX
