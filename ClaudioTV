@@ -58,6 +58,8 @@ https://stmv.panel.grupolimalive.com:443/cinperu/cinperu/chunklist_w1060372831.m
 #EXTINF:-1, UNITEL HD
 https://cp.sradiotv.com:1936/8078/8078/chunklist_w1398365877.m3u8?WebM3UCL
 
+#EXTINF:-1, ROMANA TV
+https://romanatv42.com/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CtDmWVH/LOGO-POLO-TELEMON-1.png", TELEMON
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
