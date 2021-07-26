@@ -248,7 +248,7 @@ https://5bf8041cb3fed.streamlock.net:443/TeveVida/TeveVida/chunklist_w1065613269
 #EXTINF:-1tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png", EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = https: //support.google.com/legal/answer/3463239? Hl = es-419", ALERTA TV
+#EXTINF: -1 tvg-logo = "https://image.roku.com/developer_channels/prod/54b1c3dc0ac19483abf8931a1419a105284c91f393236946e18e84a4d76433ba.png", ALERTA TV
 http://stream2.livestreamingservices.com:1935/alertatv/alertatv/chunklist_w852405639.m3u8
 
 
