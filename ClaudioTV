@@ -40,7 +40,7 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 https://5fb24b460df87.streamlock.net:443/live-cont.ar/cinear/chunklist_w525043877.m3u8
 
 
-#EXTINF:-1, TODO NOTICIAS   
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png", TODO NOTICIAS   
 https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 #EXTINF:-1, C5N  25.2
