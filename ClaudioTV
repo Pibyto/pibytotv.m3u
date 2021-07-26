@@ -277,7 +277,7 @@ https://cloud2.streaminglivehd.com:1936/8116/8116/chunklist_w292255099.m3u8?WebM
 https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/chunklist_w1498398310_b1300000_slen.m3u8
 mil / chunklist_b500000.m3u8? iptvgratis? chile.m3u8
 
-EXTINF: -1, SPIRIT TV
+EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/d3/f4/30/d3f430d9ddfa7b1d6ea09bbc50ac36de.jpg", SPIRIT TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 #EXTINF: -1, ADORACIÓN URBANCRISTA
