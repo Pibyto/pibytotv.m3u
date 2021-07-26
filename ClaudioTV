@@ -204,7 +204,7 @@ https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
 
-#EXTINF:-1 MEGA TV
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pe-mega-tv-arequipa-6914.jpg", MEGA TV
 https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
 
 
