@@ -899,7 +899,7 @@ EXTINF: -1 tvg-logo = "https://www.cinevistablog.com/wp-content/uploads/2012/07/
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e7ebe7e53bc0c65d521/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae- 480a-aeae-f805d255de09 & deviceLat = -34.8150 & deviceLon = -58.4693 & deviceMake = Chrome% 2BMobile & deviceModel = web & deviceType = web & deviceVersion = 90.0.4430.210 & includeExtendedEvents = false & marketingRegion = VE & sid2 -b & b222acdsc9 = servidor
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/John_Rambo_Rambo_IV-885687132-large.jpg" group-title="PELICULAS", RAMBO 4
+#EXTINF:-1 tvg-logo="https://www.covercaratulas.com/ode/mini/carteles-12745.jpg" group-title="PELICULAS", RAMBO 4
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e552dc35c1e25001a24f31a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae- 480a-aeae-f805d255de09 & deviceLat = -34.8150 & deviceLon = -58.4693 & deviceMake = Chrome% 2BMobile & deviceModel = web & deviceType = web & deviceVersion = 90.0.4430.210 & includeExtendedEvents = false & marketingRegion = VE & sid2 -b & b222acdsc9-server
 
 
@@ -934,15 +934,16 @@ https://play-akamai.pongalo.com/where-is-good/where-is-good_1-1/play_v1_hls_1080
 
 #EXTINF: -1 tvg-logo = "https://www.bibliatodo.com/PeliculasCristianas/wp-content/uploads/2021/02/el-sonido-del-espiritu.jpg" group-title = "PELICULAS", EL SONIDO DEL ESPÍRITU
 https://play-akamai.pongalo.com/sound-spirit/sound-spirit_1-1/play_v1_hls_1080p.m3u8
+
 #EXTINF: -1 tvg-logo = "https://i.ytimg.com/vi/S-g7kfFzx1E/maxresdefault.jpg" group-title = "PELICULAS", CONFECCIONES DE UN HIJO PRODIGO
 https://play-akamai.pongalo.com/confessions-prodigal-son/confessions-prodigal-son_1-1/hls_2500.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://pics.filmaffinity.com/El_vengador-548869144-large.jpg" group-title = "PELICULAS", EL VENGADOR
+#EXTINF: -1 tvg-logo = "ht" group-title = "PELICULAS", EL VENGADOR
 https://play-akamai.pongalo.com/law-abiding-citizen/law-abiding-citizen_1-1/play_v1_hls_1080p.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F08%2F18%2F8183665_FF20F19C1DD822C5.png&width=1400&height=787&resize=CROP&format=JPEG" group-title = "PELICULAS", LA CAZADORA
+#EXTINF: -1 tvg-logo = "https://images.moviefit.me/t/o/212932-the-huntress-rune-of-the-dead.jpg" group-title = "PELICULAS", LA CAZADORA
 https://play-akamai.pongalo.com/huntress-rune-dead/huntress-rune-dead_1-1/play_v1_hls_1080p.m3u8
 
 
