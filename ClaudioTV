@@ -280,10 +280,10 @@ mil / chunklist_b500000.m3u8? iptvgratis? chile.m3u8
 EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/d3/f4/30/d3f430d9ddfa7b1d6ea09bbc50ac36de.jpg", SPIRIT TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
-#EXTINF: -1, ADORACIÓN URBANCRISTA
+#EXTINF: -1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2017/10/WhatsApp-Image-2020-05-28-at-10.35.45-PM-1-300x276.jpeg", ADORACIÓN URBANCRISTA
 https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8?WebM3UCL
 
-#EXTINF: -1, URBANCRIST TV
+#EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-4VEwQWMsFTU/X6WUazGQV8I/AAAAAAAAAwU/3tkNlT-QTZUMQpo8Ex0j6C5nsPfcd-04wCK4BGAYYCw/s1600/Urbancrist2-logo.png", URBANCRIST TV
 https://5790d294af2dc.streamlock.net:443/8160/8160/chunklist_w1412141262.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2021/06/canal5-alcorta.jpg", CANAL 5 ALCORTA SANTA FE
