@@ -303,7 +303,7 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF: -1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/12/CANANGATV.jpeg", CANANGA TV
 https://ss2.domint.net:3220/cana_str/canangatv/playlist.m3u8
 
-#EXTINF: -1, VISIÓN 3000
+#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-PkSqz6Aw_KI/WwoSzNHYAtI/AAAAAAAABmI/OjQlFpl0bTEqlXd5-MbJfYF-dJo9elBjwCLcBGAs/s320/vision%2B3000.png", VISIÓN 3000
 https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1268363411.m3u8
 
 
