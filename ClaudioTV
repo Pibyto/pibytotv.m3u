@@ -439,11 +439,11 @@ https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU", CTV CORRIENTES
+#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1341555650900455427/cVUKuSGt_400x400.jpg", CTV CORRIENTES
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
-#EXTINF: -1 tvg-logo = "tvg-logo="https://lh3.googleusercontent.com/-OmdVIgiYcpQ/XrYImNhAa7I/AAAAAAAA0hA/HKMr0zop2CsNpUAuev_aVuelSQkqOLzTQCK8BGAsYHg/s0/2020-05-08.jpg", CANAL 10 MDP.
+#EXTINF: -1 tvg-logo = "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_canal10.png", CANAL 10 MDP.
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal2mdp.com.ar/wp-content/uploads/2016/04/13427954_1104019889671271_5647949923378659701_n-1.jpg", CANAL 2 MAR DEL PLATA
