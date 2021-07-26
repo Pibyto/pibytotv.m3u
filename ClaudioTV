@@ -265,7 +265,7 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 https://livestreamcdn.net:444/SoldaditosdeJesusTV/SoldaditosdeJesusTV/chunklist_w454139696.m3u8
 
 
-#EXTINF: -1, FARO DE SANTIDAD
+#EXTINF: -1 tvg-logo="https://static-media.streema.com/media/cache/be/21/be216b68dfb49867713a324b331157b1.jpg", FARO DE SANTIDAD
 https://5dbcd1053301e.streamlock.net:4443/farotv/farotv/chunklist_w1856751743.m3u8?WebM3UCL
 
 
