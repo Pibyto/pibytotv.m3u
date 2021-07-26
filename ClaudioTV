@@ -261,7 +261,7 @@ http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
 #EXTINF: -1 tvg-logo="https://image.roku.com/developer_channels/prod/02505b330e44a59b5cbbf0b595e757d0dadc776b5c0aec342f53d571c766bc2d.png", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1, SOLDADITOS DE JESÚS KIDS TV
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/qvrvqhgp0Hs/maxresdefault.jpg", SOLDADITOS DE JESÚS KIDS TV
 https://livestreamcdn.net:444/SoldaditosdeJesusTV/SoldaditosdeJesusTV/chunklist_w454139696.m3u8
 
 
