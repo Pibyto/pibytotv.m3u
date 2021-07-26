@@ -589,7 +589,7 @@ http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/toW8xWKbpS-28By8XvguQOg6oG0tun1oXmvmZRnY-TUiHmgsWdHeBNfoZtlbiAbdJTA", TELERED
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb= 20200303190745 ", TELESISTEMA
+#EXTINF: -1 tvg-logo = "https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png ", TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/29/db/ba/29dbbaa4b401cfb760813f915e886e8e.jpg", ÚNICANAL HD
@@ -600,7 +600,7 @@ http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating
 ? k = 1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1 & exp = 1620012761
 
 
-#EXTINF: -1, EL TRECE HD PARAGUAY
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png", EL TRECE HD PARAGUAY
 https://stream.rpc.com.py/live/trece.m3u8
 
 
