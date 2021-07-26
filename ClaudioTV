@@ -892,6 +892,57 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="DEPORTES 2", GLORY KICKBOXING TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 
+
+
+
+EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", MACHINE GUN PREDICADOR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e7ebe7e53bc0c65d521/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae- 480a-aeae-f805d255de09 & deviceLat = -34.8150 & deviceLon = -58.4693 & deviceMake = Chrome% 2BMobile & deviceModel = web & deviceType = web & deviceVersion = 90.0.4430.210 & includeExtendedEvents = false & marketingRegion = VE & sid2 -b & b222acdsc9 = servidor
+
+#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", TRIPLE AMENAZA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7b873ae4b56900138b7a64/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae- 480a-aeae-f805d255de09 & deviceLat = -34.8150 & deviceLon = -58.4693 & deviceMake = Chrome% 2BMobile & deviceModel = web & deviceType = web & deviceVersion = 90.0.4430.210 & includeExtendedEvents = false & marketingRegion = VE & sid2 -b & b222acdsc9-server
+
+#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", EL EXPRESO DEL MIEDO
+https://service-stitcher.clusters.pluto. 480a-aeae-f805d255de09 & deviceLat = -34.8150 & deviceLon = -58.4693 & deviceMake = Chrome% 2BMobile & deviceModel = web & deviceType = web & deviceVersion = 90.0.4430.210 & includeExtendedEvents = false & marketingRegion = VE & sid2 -b & b222acdsc9-server
+
+#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", PELIGRO EN LA MONTAÑA
+https://play-akamai.pongalo.com/braven/braven_1-1/play_v3_hls_1080p.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", GUERRA DE REBELDES
+https://play-akamai.pongalo.com/rogue-warfare-1/rogue-warfare-1_1-1/play_v1_hls_1080p.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", LUIS PALAU (LA PELÍCULA)
+https://play-akamai.pongalo.com/palau/palau_1-1/hls_2500.m3u8
+#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", EL SALVADOR
+https://play-akamai.pongalo.com/the-savior/the-savior_1-1/hls_2500.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", DONDE ESTA DIOS?
+https://play-akamai.pongalo.com/where-is-good/where-is-good_1-1/play_v1_hls_1080p.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", EL SONIDO DEL ESPÍRITU
+https://play-akamai.pongalo.com/sound-spirit/sound-spirit_1-1/play_v1_hls_1080p.m3u8
+#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", CONFECCIONES DE UN HIJO PRODIGO
+https://play-akamai.pongalo.com/confessions-prodigal-son/confessions-prodigal-son_1-1/hls_2500.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", EL VENGADOR
+https://play-akamai.pongalo.com/law-abiding-citizen/law-abiding-citizen_1-1/play_v1_hls_1080p.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", LA CAZADORA
+https://play-akamai.pongalo.com/huntress-rune-dead/huntress-rune-dead_1-1/play_v1_hls_1080p.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", CHÓFER EN APUROS
+https://play-akamai.pongalo.com/amateur-night/amateur-night_1-1/play_v1_hls_1080p.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://diamondfilms.com/img/poster/5b587a0d8fb12ac998ae5a869.jpg" group-title="PELICULAS", MILLA 22
 https://r8---sn-uxax4vopj55gb-x1xk.googlevideo.com/videoplayback?expire=1627258911&ei=v6v9YKJqycbDBN6flOgG&ip=186.132.75.246&id=o-AN3iBVdkaoto9cs3U66nIWb8Q_w70VbsGMXmEPC7RmJm&itag=18&source=youtube&requiressl=yes&mh=NX&mm=31%2C29&mn=sn-uxax4vopj55gb-x1xk%2Csn-x1x7dn7z&ms=au%2Crdu&mv=m&mvi=8&pl=17&gcr=ar&initcwndbps=920000&vprv=1&mime=video%2Fmp4&ns=zStiQ1IvH3wVHOaYna-WN9MG&gir=yes&clen=280103418&ratebypass=yes&dur=5659.422&lmt=1602824404305348&mt=1627237022&fvip=4&fexp=24001373%2C24007246&c=MWEB&txp=5430434&n=2D2PXerbpCz5Rg&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAPhxyfqmk97tlegj-zCzWKWXqyOmOBZnqGDBVwRmMPa8AiBQh24Y5Is2HQutjK3yP8YkvhLUKcxpY6DtLyZj2odsSg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhANyxMUWkVXhCOvzdXU6PG3EQkohkVJBd3dFGfB5F59awAiEAoFz6uCoNa3qFLSbJWrIvDQykGGyu1xPDtjNViitT0GM%3D&cpn=j1xYoS5qplP441Tk&cver=2.20210721.07.00&ptk=youtube_multi&pltype=contentugc
 
