@@ -197,7 +197,7 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 https://tls.cdnz.cl:443/canal21tv/live/chunklist_w1092422111.m3u8?WebM3UCL
 
 
-#EXTINF: -1, LUNA TV
+#EXTINF: -1 tvg-logo="https://domreptv.com/wp-content/uploads/2019/10/lunatv.jpg", LUNA TV
 https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png", CHINOLA TV
