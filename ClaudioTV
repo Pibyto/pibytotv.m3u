@@ -976,6 +976,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?expire
 
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/John_Rambo_Rambo_IV-885687132-large.jpg" group-title="PELICULAS", RAMBO 4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e552dc35c1e25001a24f31a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae- 480a-aeae-f805d255de09 & deviceLat = -34.8150 & deviceLon = -58.4693 & deviceMake = Chrome% 2BMobile & deviceModel = web & deviceType = web & deviceVersion = 90.0.4430.210 & includeExtendedEvents = false & marketingRegion = VE & sid2 -b & b222acdsc9-server
+
 
 #EXTINF:-1 tvg-logo=" group-title="PELICULAS", 
 
