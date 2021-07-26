@@ -245,10 +245,10 @@ https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 https://5bf8041cb3fed.streamlock.net:443/TeveVida/TeveVida/chunklist_w1065613269.m3u8
 
 
-#EXTINF:-1, EXTREMA TV
+#EXTINF:-1tvg-logo="https://www.google.com/search?q=logo+png+extrema+tv+full+hd&oq=logo+png+EXTREMA+TV+ful&aqs=chrome.1.69i57j33i10i160l2.17378j0j4&client=ms-android-motorola&sourceid=chrome-mobile&ie=UTF-8#imgrc=T8PM0RaHB-CTdM", EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF: -1, tvg-logo = https: //support.google.com/legal/answer/3463239? Hl = es-419", ALERTA TV
+#EXTINF: -1 tvg-logo = https: //support.google.com/legal/answer/3463239? Hl = es-419", ALERTA TV
 http://stream2.livestreamingservices.com:1935/alertatv/alertatv/chunklist_w852405639.m3u8
 
 
