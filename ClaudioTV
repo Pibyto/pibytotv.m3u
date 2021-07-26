@@ -457,7 +457,7 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
-#EXTINF: -1, EL TRES CÓRDOBA
+#EXTINF: -1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png", EL TRES 
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
 
