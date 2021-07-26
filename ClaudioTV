@@ -172,7 +172,7 @@ https://cp.sradiotv.com:1936/8078/8078/chunklist_w1398365877.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EoEsgwMW4AEozlb.jpg", ROMANA TV
 http://live.romanatv42.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CtDmWVH/LOGO-POLO-TELEMON-1.png", TELEMON
+#EXTINF:-1 tvg-logo="https://www.telemontv.com/img/log.2cd2a2a3.png", TELEMON
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115395_AC_Vision.png", AC VISION
