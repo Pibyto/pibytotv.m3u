@@ -534,14 +534,14 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wlhourdcXw55qexuUiQF72p5wTRJL2bh8g&usqp=CAU", FLIXTUBE
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/ZmxpeHR1YmUubWVfc2NyZWVuXzBfMTU2Njg4MjA0N18wNzk/screen-0.jpg?fakeurl=1&type=.jpg", FLIXTUBE
 https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg", CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 
-#EXTINF: -1, TV MONTAÑA
+#EXTINF: -1 tvg-logo="https://tvmontana.com/wp-content/uploads/2021/01/logo-header1.png", TV MONTAÑA
 http://ss6.domint.net:2060/tvm_str/montanatv/chunklist_w901556046.m3u8?WebM3UCL
 
 #EXTINF: -1, TVMAX
