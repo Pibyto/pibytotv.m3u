@@ -307,7 +307,7 @@ https://ss2.domint.net:3220/cana_str/canangatv/playlist.m3u8
 https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1268363411.m3u8
 
 
-#EXTINF: -1, TV COTUI HD
+#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-N8tanxhoC5k/WV-zz41u9HI/AAAAAAAADmM/wJ1icRl-D5AuvGFs_YRtY_tZti5r7StRACLcBGAs/s1600/TV%2BCotu%25C3%25AD%2Ben%2Bvivo.png", TV COTUI HD
 https://vdo2.streamgato.us:3095/live/tvcotuilive.m3u8?WebM3UCL
 
 
