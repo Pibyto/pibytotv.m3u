@@ -145,7 +145,7 @@ https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 #EXTINF: -1 tvg-logo=" TV MOULE SUR
 https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="  GALAXY TV
+#EXTINF:-1 tvg-logo="https://jarvistv.net/wp-content/uploads/2018/02/Galaxy-TV.png", GALAXY TV
 https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
 
 
