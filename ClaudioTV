@@ -241,7 +241,7 @@ https://r7---sn-uxax4vopj55gb-x1xk.googlevideo.com/videoplayback?expire=16272575
 #EXTINF: -1 tvg-logo = "https://televisioncelestial.com.ar/uploads/1zje40laqizoswwcso.png", TELEVISION CELESTIAL ROSARIO
 https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 
-#EXTINF: -1, TEVE VIDA 
+#EXTINF: -1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/02/Teve-Vida-Logo-nuevo.jpg", TEVE VIDA 
 https://5bf8041cb3fed.streamlock.net:443/TeveVida/TeveVida/chunklist_w1065613269.m3u8
 
 
