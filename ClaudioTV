@@ -916,7 +916,7 @@ https://service-stitcher.clusters.pluto. 480a-aeae-f805d255de09 & deviceLat = -3
 https://play-akamai.pongalo.com/braven/braven_1-1/play_v3_hls_1080p.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", GUERRA DE REBELDES
+#EXTINF: -1 tvg-logo = "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d86e172340a14876a148b0fcfca6edddc16c08664ae6ab84170f9acc11b0408d._UY500_UX667_RI_V_TTW_.jpg" group-title = "PELICULAS", GUERRA DE REBELDES
 https://play-akamai.pongalo.com/rogue-warfare-1/rogue-warfare-1_1-1/play_v1_hls_1080p.m3u8
 
 
@@ -924,7 +924,7 @@ https://play-akamai.pongalo.com/rogue-warfare-1/rogue-warfare-1_1-1/play_v1_hls_
 https://play-akamai.pongalo.com/palau/palau_1-1/hls_2500.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", EL SALVADOR
+#EXTINF: -1 tvg-logo = "https://es.web.img3.acsta.net/pictures/17/01/10/09/13/325612.jpg" group-title = "PELICULAS", EL SALVADOR
 https://play-akamai.pongalo.com/the-savior/the-savior_1-1/hls_2500.m3u8
 
 
