@@ -592,10 +592,10 @@ http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb= 20200303190745 ", TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF: -1, ÚNICANAL HD
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/29/db/ba/29dbbaa4b401cfb760813f915e886e8e.jpg", ÚNICANAL HD
 http://45.55.127.106/live/unicanal.m3u8?WebM3UCL
 
-#EXTINF: -1, PARAVISION HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Paravision.jpg", PARAVISION HD
 http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?WebM3UCL
 ? k = 1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1 & exp = 1620012761
 
@@ -604,7 +604,7 @@ http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating
 https://stream.rpc.com.py/live/trece.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0X7REz4ISXLJloQhacO1qP2R3vnMm-uncrw&usqp=CAU", ZEE MUNDO TV
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/en/4/4c/Zee_mundo_Logo.jpg", ZEE MUNDO TV
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 
