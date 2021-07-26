@@ -430,7 +430,7 @@ http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521", CANAL 13 SAN LUIS
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-13-San-Luis-en-vivo-Online.png", CANAL 13 SAN LUIS
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
 
