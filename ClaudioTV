@@ -912,7 +912,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7b873ae4b5690013
 https://service-stitcher.clusters.pluto. 480a-aeae-f805d255de09 & deviceLat = -34.8150 & deviceLon = -58.4693 & deviceMake = Chrome% 2BMobile & deviceModel = web & deviceType = web & deviceVersion = 90.0.4430.210 & includeExtendedEvents = false & marketingRegion = VE & sid2 -b & b222acdsc9-server
 
 
-#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", PELIGRO EN LA MONTAÑA
+#EXTINF: -1 tvg-logo = "https://i.pinimg.com/736x/c7/46/43/c7464314a456248362898247f97f1145.jpg" group-title = "PELICULAS", PELIGRO EN LA MONTAÑA
 https://play-akamai.pongalo.com/braven/braven_1-1/play_v3_hls_1080p.m3u8
 
 
@@ -920,8 +920,10 @@ https://play-akamai.pongalo.com/braven/braven_1-1/play_v3_hls_1080p.m3u8
 https://play-akamai.pongalo.com/rogue-warfare-1/rogue-warfare-1_1-1/play_v1_hls_1080p.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", LUIS PALAU (LA PELÍCULA)
+#EXTINF: -1 tvg-logo = "https://1.bp.blogspot.com/-opeKdVSYqG0/XrslwM6mrVI/AAAAAAABFQs/hCLiaApvpmQ_uOXXsk6fWOBWiKYmNYfGwCK4BGAsYHg/s320/palau_.jpg" group-title = "PELICULAS", LUIS PALAU (LA PELÍCULA)
 https://play-akamai.pongalo.com/palau/palau_1-1/hls_2500.m3u8
+
+
 #EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", EL SALVADOR
 https://play-akamai.pongalo.com/the-savior/the-savior_1-1/hls_2500.m3u8
 
@@ -936,7 +938,7 @@ https://play-akamai.pongalo.com/sound-spirit/sound-spirit_1-1/play_v1_hls_1080p.
 https://play-akamai.pongalo.com/confessions-prodigal-son/confessions-prodigal-son_1-1/hls_2500.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title = "PELICULAS", EL VENGADOR
+#EXTINF: -1 tvg-logo = "ht" group-title = "PELICULAS", EL VENGADOR
 https://play-akamai.pongalo.com/law-abiding-citizen/law-abiding-citizen_1-1/play_v1_hls_1080p.m3u8
 
 
