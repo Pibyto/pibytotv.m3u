@@ -488,7 +488,7 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 #EXTINF: -1 tvg-logo = "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png", CANAL 34
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
-#EXTINF: -1, tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU", 29 QUILMES
+#EXTINF: -1, tvg-logo = "https://1.bp.blogspot.com/-0VeU4PN4004/YL0VvjfxdKI/AAAAAAABMKE/EMVJnu1pJ1ElQwY2PDVteJmxDh_z5zunwCLcBGAsYHQ/s1952/canal%2B29.jpg", 29 QUILMES
 https://inliveserver.com:1936/8386/8386/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3487556435/aaae8392a11f89550187210f1a944807_400x400.jpeg", CANAL 29 ENSENADA
@@ -548,7 +548,7 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/ZmxpeHR1YmUubWVfc2NyZWVuXzBfMTU2Njg4MjA0N18wNzk/screen-0.jpg?fakeurl=1&type=.jpg", FLIXTUBE
+#EXTINF:-1 tvg-logo="https://www.flixtube.me/latino/upload/source/1280x720px-flixtube.jpg", FLIXTUBE
 https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg", CENTRAL TV
