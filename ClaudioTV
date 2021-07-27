@@ -158,6 +158,9 @@ https://stmv.panel.grupolimalive.com:443/cinperu/cinperu/chunklist_w1060372831.m
 #EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_europa-europa_m.png", EUROPA EUROPA
 https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/05/Tele2-Logo-1.png", TELE WEB 2
+https://inliveserver.com:1936/11516/11516/chunklist_w2100780946.m3u8?WebM3UCL
+
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/836673683997483013/9xtjWyh6_400x400.jpg", MICROVISIÓN 10
 https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w955317782.m3u8
 
