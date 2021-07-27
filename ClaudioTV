@@ -6,7 +6,7 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg", TELESOL SAN JUAN
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://5rtv.com.ar/wp-content/themes/5rtv-theme/assets/dist/img/logo-5r-texto.png", SANTA FE CANAL
+#EXTINF:-1 tvg-logo="https://5rtv.com.ar/wp-content/themes/5rtv-theme/assets/dist/img/logo-5r.png", SANTA FE CANAL
 https://player-api.new.livestream.com/accounts/22636012/events/8242619/broadcasts/224068286.secure.m3u8?dw=80&hdnea=st=1627424693~exp=1627426493~acl=/i/22636012_8242619_5518294cb39eb2e9276d142c70b7beff_1@408267/*~hmac=941c75785546f6f01219ae7613039830c6276b319d40791c50bdaa563d40da78&token=610088e1_adb3cf41590569d1a55d66101458b8fdcf9c302e
 
 
