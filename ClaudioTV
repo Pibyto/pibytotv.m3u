@@ -7,7 +7,10 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://5rtv.com.ar/wp-content/themes/5rtv-theme/assets/dist/img/logo-5r-texto.svg", SANTA FE CANAL
-https://playback2.akamaized.net/streams/22636012_8242619_5518294cb39eb2e9276d142c70b7beff_1/exp=1627498612~acl=%2f*~data=hdntl~hmac=99906937aaf54eeb413931e19a992e0e3e0fb710d17a4fc7a076f04d88d497fc/media/22636012_8242619_5518294cb39eb2e9276d142c70b7beff_1@2592000p.m3u8?dw=80&ts=1627408800
+https://playback2.akamaized.net/streams/22636012_8242619_5518294cb39eb2e9276d142c70b7beff_1/exp=1627502999~acl=%2f*~data=hdntl~hmac=c73390a61e473e1d17095ff499c08ad24bcd6320145cd396d1212024c0a055f1/media/22636012_8242619_5518294cb39eb2e9276d142c70b7beff_1@2592000pb.m3u8?dw=80&ts=1627416000
+
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", CANAL 26  26.1
 https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
