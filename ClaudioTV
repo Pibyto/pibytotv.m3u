@@ -156,6 +156,8 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 #EXTINF:-1 tvg-logo="https://canal9riocuartotv.com.ar/El_Canal_de_los_Riocuartenses,_y_tu_mejor_compania._files/logotrans.png", CANAL 9 RIO CUARTO
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkLBCuKuEKH3j6-3ti15yjst71-c-FwQOkA&usqp=CAU", CANAL 10 ARTV
+http://mediacpstreamchile.com:1935/canal10artv/canal10artv/chunklist_w1285318425.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png", CANAL 13 LA RIOJA
 https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
