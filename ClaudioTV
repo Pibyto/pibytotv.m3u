@@ -40,17 +40,23 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 https://5fb24b460df87.streamlock.net:443/live-cont.ar/cinear/chunklist_w525043877.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png", TODO NOTICIAS   
-https://www.youtube.com/watch?v=wHn1_QVoXGM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png", TODO NOTICIAS
+https://r5---sn-uxax4vopj55gb-x1xk.googlevideo.com/videoplayback?expire=1627432095&ei=P1AAYdeIGrmQobIP2e6wyAE&ip=186.132.16.43&id=wHn1_QVoXGM.4&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&hcs=sd%2Csd&mh=rv&mm=44%2C29&mn=sn-uxax4vopj55gb-x1xk%2Csn-x1x7dn7s&ms=lva%2Crdu&mv=m&mvi=5&pl=17&rmhost=r4---sn-uxax4vopj55gb-x1xk.googlevideo.com%2C&shardbypass=yes&smhost=r4---sn-uxax4vopj55gb-x1xr.googlevideo.com%2Cr4---sn-x1x7dn7z.googlevideo.com&initcwndbps=922500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=t3lYpYduzt-Q8NyIf7RbXJMG&gir=yes&mt=1627409791&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=K7tiOuD0lRSSCw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAOACTmPzrHJ0wscq_o9GxCKC8aybQkXXRrQLwqbIlTRKAiEAzXlnoETOC1Mw9o-TatbDPyda7umf-wozZbHNzT94iy4%3D&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crmhost%2Cshardbypass%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRAIgQQFQDss8ayz5NZu-CpHfE_hzOZxogL7K2SidY7V9gP4CIGzRU1zXbYC_-jeic-WVg9XhVEgEHg5uYgsg-2ptnLbn&alr=yes&cpn=lgt793VXSYAR2_zV&cver=1.20210725.0.0&sq=790434&rn=16&rbuf=34900
+
+  
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/C5N_Logo_2015.PNG/320px-C5N_Logo_2015.PNG", C5N  25.2
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627257931/ei/66f9YJrxE4GF1sQPq8iDgAc/ip/186.132.75.246/id/h0t2XAwr0ks.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r5---sn-uxax4vopj55gb-x1xr.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/hcs/ir/initcwndbps/7840/mh/6S/mm/44/mn/sn-uxax4vopj55gb-x1xr/ms/lva/mv/m/mvi/5/pl/17/rmhost/r7---sn-uxax4vopj55gb-x1xr.googlevideo.com/shardbypass/yes/dover/11/keepalive/yes/fexp/24001373,24007246/c/MWEB/cver/2.20210721.07.00/ptk/youtube_single/oid/coWS2aM9w45uXtEv8FV8aQ/ptchn/Fgk2Q2mVO1BklRQhSv6p0w/pltype/contentlive/mt/1627236033/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAJn3Fr5OPyPLi06ThVXpHEB7RrbnyLKPnKPHcdaKj7swAiA7wLYmKw42MkN4KxvE7eNBD9uk67DvIrOZs8jXsdkdDQ%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,rmhost,shardbypass/lsig/AG3C_xAwRgIhAJ5NE9ZDoLT7KFUes1AFBTzUh54Jo8BMUE84qyxGvbLIAiEAuMIhx9YguwEGrLPsDyHg7gfV3JY8Hv5Ey5hCEQb9kS0%3D/playlist/index.m3u8?cpn=6MynFrultOKSTIKJ
+https://r3---sn-uxax4vopj55gb-x1xr.googlevideo.com/videoplayback?expire=1627432690&ei=klIAYbiPIsWAobIPpoqcmAQ&ip=186.132.16.43&id=h0t2XAwr0ks.1&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&hcs=sd%2Csd&mh=6S&mm=44%2C29&mn=sn-uxax4vopj55gb-x1xr%2Csn-x1x7dn7z&ms=lva%2Crdu&mv=m&mvi=3&pl=17&rmhost=r7---sn-uxax4vopj55gb-x1xr.googlevideo.com%2C&shardbypass=yes&smhost=%2Cr1---sn-x1x7dn7k.googlevideo.com&initcwndbps=991250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=wOTK5YuzpUAdO9gFJxhtIRsG&gir=yes&mt=1627410750&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=AjIdAXsGz-GXog&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAOJhQkgHR_4lbrlC8Y5dObFUJxDOCeEXnfRZExhg5qWNAiAGYpN3C0lcXERnsaNcT5V6aM7eVROolgOgW-Sc8R1CMg%3D%3D&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crmhost%2Cshardbypass%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJy2CvvZERP-14heTDH8VmhCVXeR-BiA5NxbRnNyXXXiAiEA-qrNa79g2s-_JOHDhT_8J0wttPMBgDE2lJIOBOwLxAs%3D&alr=yes&cpn=gLpSB-9ux-G2zZKw&cver=1.20210725.0.0&sq=479454&rn=18&rbuf=10415
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ns8-5XKA0Ww/maxresdefault.jpg", LN+  25.3
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1627258082/ei/gqj9YLWHAqf41sQPzv6WWA/ip/186.132.75.246/id/ns8-5XKA0Ww.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r8---sn-uxax4vopj55gb-x1xr.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/7300/mh/gU/mm/44/mn/sn-uxax4vopj55gb-x1xr/ms/lva/mv/m/mvi/8/pl/17/dover/11/keepalive/yes/fexp/24001373,24007246/c/MWEB/cver/2.20210721.07.00/ptk/youtube_single/oid/x4uJ9oBA_q32wVdO3eYbZw/ptchn/ba3hpU7EFBSk817y9qZkiA/pltype/contentlive/mt/1627236279/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgcowGz7XS6XhbpGsR0oGFQ-iLUUClXDxZn0M8Kqj7UocCIQDzKv61PQXhiFw9-KZLmNB8sxqXL4hxXOW9XqTKWQXdDw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgaXh_aq179TL5KSU4B_0g0apt7Jphmm9fWELbs0MlX-gCIQD-zxIuyDsh19GEbsk5p-qw2wWJZ4Lb_dWNG8pld_EmAA%3D%3D/playlist/index.m3u8?cpn=QRVgqoVz_PK2G2Es
+https://r8---sn-uxax4vopj55gb-x1xr.googlevideo.com/videoplayback?expire=1627432397&ei=bVEAYdD1Fcj9wATBnrho&ip=186.132.16.43&id=ns8-5XKA0Ww.1&itag=244&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=gU&mm=44%2C29&mn=sn-uxax4vopj55gb-x1xr%2Csn-x1x7zn7s&ms=lva%2Crdu&mv=m&mvi=8&pcm2cms=yes&pl=17&hcs=%2Csd&smhost=%2Cr6---sn-x1x7zn7l.googlevideo.com&initcwndbps=998750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=pK3Mv-Dqif1YprYqGL4A7mQG&gir=yes&mt=1627410513&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=ebdfHJhotAxZPA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAKhk3CmNzSt1GXSl3KOSaa8owP5Aq0Lpa0S3nsx4-II_AiEAsqWY8XooJiXCKalkLwxEwOaLpYVbAGQiKAK_LwUozWA%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Chcs%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRgIhAMZJMhxh7ruksvQZQal241IyurDJBNKwEvCsJEZCgiDZAiEAzCEnwVr5qg-V139pLv2hCagulKGwB3A7lJGQZeALQnE%3D&alr=yes&cpn=LFEc9oFFAVXRm5Bf&cver=1.20210725.0.0&sq=6538045&rn=16&rbuf=10804
+
+
 
 
 
@@ -84,7 +90,10 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png", TEC TV  22.5
-https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
+https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png", CANAL ENCUENTRO  22.1
