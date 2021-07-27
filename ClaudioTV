@@ -7,7 +7,9 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://5rtv.com.ar/wp-content/themes/5rtv-theme/assets/dist/img/logo-5r-texto.svg", SANTA FE CANAL
-https://playback2.akamaized.net/streams/22636012_8242619_5518294cb39eb2e9276d142c70b7beff_1/exp=1627502999~acl=%2f*~data=hdntl~hmac=c73390a61e473e1d17095ff499c08ad24bcd6320145cd396d1212024c0a055f1/media/22636012_8242619_5518294cb39eb2e9276d142c70b7beff_1@2592000pb.m3u8?dw=80&ts=1627416000
+
+
+
 
 
 
@@ -82,7 +84,7 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png", TELESUR COSTA RICA
 https://59ef525c24caa.streamlock.net:443/telesur/telesur/chunklist_w2074200986.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/nkO78_0EWI4FiTT1Hsrm4c87LzO4x-3JAmg6mW9ZcpRAMoDqsMVw9pQRBpVE4sV5gco0cQKW8jI=s900-c-k-c0x00ffffff-no-rj", TICAVISION 27 HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Ticavisi%C3%B3n-en-vivo-Online.png", TICAVISION 27 HD
 https://59ef525c24caa.streamlock.net:443/HBTV/HBTV/chunklist_w805947626.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="INTERNACIONAL", RT  25.5
