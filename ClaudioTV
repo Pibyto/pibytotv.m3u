@@ -133,7 +133,9 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.delsur.tv/images/logodelsurtv.png?crc=4184028462", DEL SUR TV
-http://51.79.83.93:9998/live/delsurtv/chunks.m3u8?nimblesessionid=3300429
+http://51.79.83.93:9998/live/delsurtv/chunks.m3u8?nimblesessionid=3301153
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg", CANAL 4 TELECONDOR
 https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8
@@ -179,6 +181,9 @@ https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg", LIM
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png", ANTARES TV PER脵
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1847102702.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png", VALLEVISION HD
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
