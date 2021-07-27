@@ -199,6 +199,8 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Logo_Canal_21.jpg", C21
 https://tls.cdnz.cl:443/canal21tv/live/chunklist_w1092422111.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3H-woadG1FI_3msVfblzmlpoPo0eMYywNEw&usqp=CAU", TELECARIBE
+https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8?WebM3UCL
 
 #EXTINF: -1 tvg-logo="https://domreptv.com/wp-content/uploads/2019/10/lunatv.jpg", LUNA TV
 https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
