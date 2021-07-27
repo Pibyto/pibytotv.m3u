@@ -142,7 +142,7 @@ https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg", CANAL 10 SENILLOSA NEUQUEN
 https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 
-#EXTINF: -1 tvg-logo=" TV MOULE SUR
+#EXTINF: -1 tvg-logo="https://www.m3u.cl/logo/522_TV_MauleSur.png", TV MOULE SUR
 https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://jarvistv.net/wp-content/uploads/2018/02/Galaxy-TV.png", GALAXY TV
