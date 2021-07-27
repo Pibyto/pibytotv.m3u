@@ -175,6 +175,8 @@ https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?Web
 #EXTINF:-1 tvg-logo="https://jarvistv.net/wp-content/uploads/2018/02/Galaxy-TV.png", GALAXY TV
 https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg", LIM
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png", VALLEVISION HD
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
