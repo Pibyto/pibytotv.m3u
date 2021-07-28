@@ -274,6 +274,17 @@ https://medios.sirtel.cl/live/stream/index.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png", CHINOLA TV
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vQ_Td1OAgyg/Wgx6RXUOxgI/AAAAAAAAAvw/st-k9EyVa2E5WLiQEe3ELPmIuqW_5ZPqgCLcBGAs/s1600/descarga%2B%25282%2529.jpg", EL CHAVO TV 24/7
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/chunklist_w1675426815.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ3NmFjYjQtNzM2Yi00NDEyLTgzYjMtMzFjODAwMjg2NzUzXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_.jpg", ANIME ZONE TV
+http://azxtv.com/hls/stream.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-NDPtywW2yXw/TtUdQmakgpI/AAAAAAAARMc/pCqOMMjasXE/s800/locomotion.jpg", LOCOMOTION
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8?WebM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pe-mega-tv-arequipa-6914.jpg", MEGA TV
 https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
