@@ -190,6 +190,9 @@ http://mediacpstreamchile.com:1935/canal10artv/canal10artv/chunklist_w1285318425
 #EXTINF:-1 tvg-logo="https://frecuenciasalta.ar/wp-content/uploads/2020/08/NORTR-VISION-780x405.jpg", CANAL10 NORTEVISION
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", TV10
+https://5d79ae45bc63b.streamlock.net:443/8256/8256/chunklist_w12029778.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png", CANAL 13 LA RIOJA
 https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
 
