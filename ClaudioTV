@@ -1036,7 +1036,7 @@ https://play-akamai.pongalo.com/sound-spirit/sound-spirit_1-1/play_v1_hls_1080p.
 https://play-akamai.pongalo.com/confessions-prodigal-son/confessions-prodigal-son_1-1/hls_2500.m3u8
 
 
-#EXTINF: -1 tvg-logo = "ht" group-title = "PELICULAS", EL VENGADOR
+#EXTINF: -1 tvg-logo = "https://pics.filmaffinity.com/D_as_de_ira-846276547-large.jpg" group-title = "PELICULAS", EL VENGADOR
 https://play-akamai.pongalo.com/law-abiding-citizen/law-abiding-citizen_1-1/play_v1_hls_1080p.m3u8
 
 #EXTINF:-2, tvg-id="EPG N/A" tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/1.jpg" group-title = "PELICULAS", sparta 300
