@@ -1009,6 +1009,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7b873ae4b5690013
 https://service-stitcher.clusters.pluto. 480a-aeae-f805d255de09 & deviceLat = -34.8150 & deviceLon = -58.4693 & deviceMake = Chrome% 2BMobile & deviceModel = web & deviceType = web & deviceVersion = 90.0.4430.210 & includeExtendedEvents = false & marketingRegion = VE & sid2 -b & b222acdsc9-server
 
 
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="PELICULAS", RÁPIDOS Y FURIOSOS 9
+https://www102.uptostream.com/5nuv9d6e5/1080/0/video.mp4
+
+
+
 #EXTINF: -1 tvg-logo = "https://i.pinimg.com/736x/c7/46/43/c7464314a456248362898247f97f1145.jpg" group-title = "PELICULAS", PELIGRO EN LA MONTAÑA
 https://play-akamai.pongalo.com/braven/braven_1-1/play_v3_hls_1080p.m3u8
 
@@ -1229,7 +1234,6 @@ https://play-akamai.pongalo.com/amateur-night/amateur-night_1-1/play_v1_hls_1080
 
 
 
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="PELICULAS", RÁPIDOS Y FURIOSOS 9 EN VIVO
 
 
 
