@@ -995,19 +995,6 @@ EXTINF: -1 tvg-logo = "https://www.cinevistablog.com/wp-content/uploads/2012/07/
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e7ebe7e53bc0c65d521/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae- 480a-aeae-f805d255de09 & deviceLat = -34.8150 & deviceLon = -58.4693 & deviceMake = Chrome% 2BMobile & deviceModel = web & deviceType = web & deviceVersion = 90.0.4430.210 & includeExtendedEvents = false & marketingRegion = VE & sid2 -b & b222acdsc9 = servidor
 
 
-#EXTINF:-1 tvg-logo="https://www.covercaratulas.com/ode/mini/carteles-12745.jpg" group-title="PELICULAS", RAMBO 4
-https://service-stitcher.clusters.pluto.tv/v2/stitch/hls/episode/5e552dc35c1e25001a24f31a/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=39130757-f2e1-4ca8-aa7e-4b63ed21f34f&deviceVersion=92.0.4515&appVersion=5.101.2-0bded0c460e852bce56d60cf9db805aa3d793efa&deviceType=web&deviceMake=chrome&sid=5faa9050-ee5c-11eb-8537-0242ac110003&advertisingId=&deviceLat=-34.815&deviceLon=-58.4693&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false
-
-
-
-
-#EXTINF: -1 tvg-logo = "https://shop.selecta-vision.com/media/catalog/product/cache/52bc5273173b98dd77e1209f1252ecfc/2/0/20fef399-d229-4874-991b-96061bf47c87_1.jpg" group-title = "PELICULAS", TRIPLE AMENAZA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7b873ae4b56900138b7a64/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae- 480a-aeae-f805d255de09 & deviceLat = -34.8150 & deviceLon = -58.4693 & deviceMake = Chrome% 2BMobile & deviceModel = web & deviceType = web & deviceVersion = 90.0.4430.210 & includeExtendedEvents = false & marketingRegion = VE & sid2 -b & b222acdsc9-server
-
-
-#EXTINF: -1 tvg-logo = "https://www.covercaratulas.com/ode/mini/carteles-33681.jpg" group-title = "PELICULAS", EL EXPRESO DEL MIEDO
-https://service-stitcher.clusters.pluto. 480a-aeae-f805d255de09 & deviceLat = -34.8150 & deviceLon = -58.4693 & deviceMake = Chrome% 2BMobile & deviceModel = web & deviceType = web & deviceVersion = 90.0.4430.210 & includeExtendedEvents = false & marketingRegion = VE & sid2 -b & b222acdsc9-server
-
 
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="PELICULAS", RÁPIDOS Y FURIOSOS 9
 https://www102.uptostream.com/5nuv9d6e5/1080/0/video.mp4
@@ -1178,84 +1165,10 @@ https://play-akamai.pongalo.com/amateur-night/amateur-night_1-1/play_v1_hls_1080
 
 
 
-#EXTINF:-1 tvg-logo="https://diamondfilms.com/img/poster/5b587a0d8fb12ac998ae5a869.jpg" group-title="PELICULAS", MILLA 22
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", SICARIO 2
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", LOS HIJOS DE FRANCISCO
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EL LLAMADO SALVAJE
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", RÁPIDOS Y FURIOSOS JOWS
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", RÁPIDOS Y FURIOSOS PARODIA
-
-
-#EXTINF:-1 tvg-logo="https://www.cinevistablog.com/wp-content/uploads/2011/08/una-esposa-de-mentira-just-go-with-it-dvd_opt2_.jpg" group-title="PELICULAS", UNA ESPOSA DE MENTIRA
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg" group-title="PELICULAS", EXTERMINIO 2
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/cuts_logos/e3/77/e3774a8a-6cba-4b62-9c10-830a367f6f80.jpg" group-title="PELICULAS", ATERRADOS
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo=" group-title="PELICULAS", 
-
-
-#EXTINF:-1 tvg-logo=" group-title="PELICULAS", 
-
-#EXTINF:-1 tvg-logo=" group-title="PELICULAS", 
-
-
-#EXTINF:-1 tvg-logo=" group-title="PELICULAS", 
-
-#EXTINF:-1 tvg-logo=" group-title="PELICULAS", 
-
-
-#EXTINF:-1 tvg-logo=" group-title="PELICULAS", 
-
-#EXTINF:-1 tvg-logo=" group-title="PELICULAS", 
-
-
-#EXTINF:-1 tvg-logo=" group-title="PELICULAS", 
-
-#EXTINF:-1 tvg-logo=" group-title="PELICULAS", 
 
