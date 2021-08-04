@@ -16,7 +16,8 @@ https://qlobbidev.s.llnwi.net/bpk-tv/CINECANAL/hls/index.m3u8
 #EXTINF: -1, tvg-logo = "https://1.bp.blogspot.com/-qgZncWJVYZA/YC_8iHjZd-I/AAAAAAA8LY/5bWpp2KNA-wgRjIWlmVyq0QHaTQ_-TwrgCL21cBGAsYH-20" STAR CHANNELL HD
 https://qlobbidev.s.llnwi.net/bpk-tv/FOX/hls/index.m3u8
 
-
+#EXTINF:-1, STAR LIFE
+https://qlobbidev.s.llnwi.net/bpk-tv/STARLIFE/hls/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", CANAL 26  26.1
