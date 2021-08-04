@@ -13,6 +13,9 @@ https://player-api.new.livestream.com/accounts/22636012/events/8242619/broadcast
 EXTINF: -1, tvg-logo = "https://1.bp.blogspot.com/-JIT9WNIXU7o/X8KMqyMKEyI/AAAAAAAA7UA/vvyQuT2RKcwkEhk64G-C-RNc1TdeK6kogCLcBGAsYHECngal", CINECANAL HD
 https://qlobbidev.s.llnwi.net/bpk-tv/CINECANAL/hls/index.m3u8
 
+#EXTINF: -1, tvg-logo = "https://1.bp.blogspot.com/-qgZncWJVYZA/YC_8iHjZd-I/AAAAAAA8LY/5bWpp2KNA-wgRjIWlmVyq0QHaTQ_-TwrgCL21cBGAsYH-20" STAR CHANNELL HD
+https://qlobbidev.s.llnwi.net/bpk-tv/FOX/hls/index.m3u8
+
 
 
 
