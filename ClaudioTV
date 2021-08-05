@@ -16,6 +16,9 @@ https://qlobbidev.s.llnwi.net/bpk-tv/STARLIFE/hls/index.m3u8
 #EXTINF:-1, CINECANAL
 https://qlobbidev.s.llnwi.net/bpk-tv/CINECANAL/hls/index.m3u8
 
+#EXTINF:-1, FX
+https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png", CANAL 26  26.1
 https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
