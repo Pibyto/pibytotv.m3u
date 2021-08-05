@@ -24,8 +24,6 @@ https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
 https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
 
 
-#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", CANAL NUEVE
-https://ar-elnueve-elnueve-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI3MjIyMzE1LCJzZXNzaW9uIjoiMTg2LjEzMi43NS4yNDYiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEzMi43NS4yNDYiXX0sInNpZ25hdHVyZSI6IjUwMmQxMmYwMTEyZTA1ZGYwYmMzZmYyNzM2N2FlNzNiMmExYzJlZTYifQ==
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1276199099478552577/9KzAG68i_400x400.jpg", CANAL NUEVE COMODORO RIVADAVIA
 https://live.canalnueve.tv/canal.m3u8
@@ -57,14 +55,6 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 https://5fb24b460df87.streamlock.net:443/live-cont.ar/cinear/chunklist_w525043877.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png", TODO NOTICIAS
-https://r5---sn-uxax4vopj55gb-x1xk.googlevideo.com/videoplayback?expire=1627432095&ei=P1AAYdeIGrmQobIP2e6wyAE&ip=186.132.16.43&id=wHn1_QVoXGM.4&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&hcs=sd%2Csd&mh=rv&mm=44%2C29&mn=sn-uxax4vopj55gb-x1xk%2Csn-x1x7dn7s&ms=lva%2Crdu&mv=m&mvi=5&pl=17&rmhost=r4---sn-uxax4vopj55gb-x1xk.googlevideo.com%2C&shardbypass=yes&smhost=r4---sn-uxax4vopj55gb-x1xr.googlevideo.com%2Cr4---sn-x1x7dn7z.googlevideo.com&initcwndbps=922500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=t3lYpYduzt-Q8NyIf7RbXJMG&gir=yes&mt=1627409791&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=K7tiOuD0lRSSCw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAOACTmPzrHJ0wscq_o9GxCKC8aybQkXXRrQLwqbIlTRKAiEAzXlnoETOC1Mw9o-TatbDPyda7umf-wozZbHNzT94iy4%3D&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crmhost%2Cshardbypass%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRAIgQQFQDss8ayz5NZu-CpHfE_hzOZxogL7K2SidY7V9gP4CIGzRU1zXbYC_-jeic-WVg9XhVEgEHg5uYgsg-2ptnLbn&alr=yes&cpn=lgt793VXSYAR2_zV&cver=1.20210725.0.0&sq=790434&rn=16&rbuf=34900
-
-  
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/C5N_Logo_2015.PNG/320px-C5N_Logo_2015.PNG", C5N  25.2
-https://r3---sn-uxax4vopj55gb-x1xr.googlevideo.com/videoplayback?expire=1627432690&ei=klIAYbiPIsWAobIPpoqcmAQ&ip=186.132.16.43&id=h0t2XAwr0ks.1&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&hcs=sd%2Csd&mh=6S&mm=44%2C29&mn=sn-uxax4vopj55gb-x1xr%2Csn-x1x7dn7z&ms=lva%2Crdu&mv=m&mvi=3&pl=17&rmhost=r7---sn-uxax4vopj55gb-x1xr.googlevideo.com%2C&shardbypass=yes&smhost=%2Cr1---sn-x1x7dn7k.googlevideo.com&initcwndbps=991250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=wOTK5YuzpUAdO9gFJxhtIRsG&gir=yes&mt=1627410750&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=AjIdAXsGz-GXog&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAOJhQkgHR_4lbrlC8Y5dObFUJxDOCeEXnfRZExhg5qWNAiAGYpN3C0lcXERnsaNcT5V6aM7eVROolgOgW-Sc8R1CMg%3D%3D&lsparams=hcs%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crmhost%2Cshardbypass%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJy2CvvZERP-14heTDH8VmhCVXeR-BiA5NxbRnNyXXXiAiEA-qrNa79g2s-_JOHDhT_8J0wttPMBgDE2lJIOBOwLxAs%3D&alr=yes&cpn=gLpSB-9ux-G2zZKw&cver=1.20210725.0.0&sq=479454&rn=18&rbuf=10415
 
 
 
