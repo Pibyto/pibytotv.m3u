@@ -7,10 +7,10 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png", STAR CHANNELL HD
+#EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png", STAR CHANNELL
 https://qlobbidev.s.llnwi.net/bpk-tv/FOX/hls/index.m3u8
 
-#EXTINF:-1, STAR LIFE
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png", STAR LIFE
 https://qlobbidev.s.llnwi.net/bpk-tv/STARLIFE/hls/index.m3u8
 
 #EXTINF:-1, CINECANAL
