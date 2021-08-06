@@ -19,6 +19,9 @@ https://qlobbidev.s.llnwi.net/bpk-tv/CINECANAL/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png" ,SUCESO TV
 https://59ce1298bfb98.streamlock.net:443/sucesotv/sucesotv/chunklist_w1622156069.m3u8?WebM3UCL
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png", MI TV
+http://copaco.desdeparaguay.net:1935/mitv/mitv/chunklist_w1809479909.m3u8?WebM3UCL
+
 
 #EXTINF: -1tvg-logo="https://www.rcn.com.py/file/2020/08/portada_rcnmedia.png", RCN HD PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
@@ -606,15 +609,6 @@ https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/K3n7ECn.png", AFV
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 
-#EXTINF: -1tvg-logo="https://www.rcn.com.py/file/2020/08/portada_rcnmedia.png", RCN HD PARAGUAY
-https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
-
-
-#EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png",  SOMOS DEL ESTE HD PARAGUAY
-https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png", CABLEMAS PARAGUAY
-https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://barvatvplus.com/wp-content/uploads/2020/12/PicsArt_11-24-11.04.44.png", BARVA TV
