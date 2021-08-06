@@ -46,6 +46,86 @@ https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png", STAR ACCIÓN
+http://appleiptv.com:25461/0357/0357/28773
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoOscuro.png.d9d97a761b14a0c4ff5d33ca1ba17a6a.png", STAR CINEMA
+http://appleiptv.com:25461/0357/0357/28775
+
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarHits_Logo2021_FondoOscuro.png.45ae1af33adde821778a60e2d08ca43e.png", STAR HITS
+http://appleiptv.com:25461/0357/0357/28778
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoOscuro.png.4ad15cde8e848ef14a7b1deb71b3c4c7.png", STAR SERIES
+http://appleiptv.com:25461/0357/0357/28780
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png", GOLDEN
+http://appleiptv.com:25461/0357/0357/28786
+
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png", GOLDEN PLUS
+http://appleiptv.com:25461/0357/0357/28788
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-4.png", PARAMOUNT
+http://appleiptv.com:25461/0357/0357/28814
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png", TNT
+http://appleiptv.com:25461/0357/0357/28833
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/w1600/spacehd.png", SPACE
+http://appleiptv.com:25461/0357/0357/28819
+
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png", TBS
+http://appleiptv.com:25461/0357/0357/28824
+
+
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_spt-renueva-su-marca-insignia-a-sony-channel.jpg", SONY
+http://appleiptv.com:25461/0357/0357/28818
+
+
+#EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/baa62f3870d00a79cb79794f30a0a904.jpg", UNIVERSAL
+http://appleiptv.com:25461/0357/0357/28865
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", WARNER
+http://appleiptv.com:25461/0357/0357/28868
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png", MOVISTAR PLUS
+http://appleiptv.com:25461/0357/0357/27140
+
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/nr/284507/png/plustv-logo.png", TVS PLUS
+http://appleiptv.com:25461/0357/0357/27162
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png", MEGA
+http://appleiptv.com:25461/0357/0357/27209
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png", RCN COLOMBIA
+http://appleiptv.com:25461/0357/0357/27288
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png", ECUAVISION
+http://appleiptv.com:25461/0357/0357/27304
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png", TELEFUTURO
+http://appleiptv.com:25461/0357/0357/27370
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_enlace-tbn_m.png", ENLACE
+http://appleiptv.com:25461/0357/0357/27176
 
 
 #EXTINF:-1 tvg-logo="https://www.ladbible.com/cdn-cgi/image/width=720,quality=70,format=jpeg,fit=pad,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2Fba5a04f15f7680ccd2fcd5c05544e0a0.png", DISNEY CHANNEL
