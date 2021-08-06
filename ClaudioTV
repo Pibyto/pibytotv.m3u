@@ -13,6 +13,10 @@ https://qlobbidev.s.llnwi.net/bpk-tv/FOX/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png", STAR LIFE
 https://qlobbidev.s.llnwi.net/bpk-tv/STARLIFE/hls/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo-latino.svg", HBO
+http://appleiptv.com:25461/0357/0357/27093
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png", CINECANAL
 https://qlobbidev.s.llnwi.net/bpk-tv/CINECANAL/hls/index.m3u8
 
