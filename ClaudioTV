@@ -19,7 +19,7 @@ https://qlobbidev.s.llnwi.net/bpk-tv/FOX/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png", STAR LIFE
 https://qlobbidev.s.llnwi.net/bpk-tv/STARLIFE/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/hbo-latino.svg", HBO
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png", HBO
 http://appleiptv.com:25461/0357/0357/27093
 
 
