@@ -600,7 +600,7 @@ https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://es.m.wikipedia.org/wiki/Archivo:Logo_tvmax.png", TVMAX
+#EXTINF: -1 tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/1200px-Logo_tvmax.png", TVMAX
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
 
