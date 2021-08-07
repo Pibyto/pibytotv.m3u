@@ -55,6 +55,9 @@ https://qlobbidev.s.llnwi.net/bpk-tv/CINECANAL/hls/index.m3u8
 http://appleiptv.com:25461/0357/0357/28377
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png", OROMAR HD
+http://ultraxtvextreme.com:8000/listas_MX_EC_01/4cFVG4qRWzuq/3593
+
 #EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png" ,SUCESO TV
 https://59ce1298bfb98.streamlock.net:443/sucesotv/sucesotv/chunklist_w1622156069.m3u8?WebM3UCL
 
