@@ -157,6 +157,27 @@ http://appleiptv.com:25461/0357/0357/28868
 http://appleiptv.com:25461/0357/0357/27140
 
 
+#EXTINF:-1 tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4a8127de8f860b288b3a967452e029ca_og_dark.png", DARK
+http://appleiptv.com:25461/0357/0357/17232
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png", HOLLYWOOD
+http://appleiptv.com:25461/0357/0357/17254
+
+
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png", Movistar ACCIÓN
+http://appleiptv.com:25461/0357/0357/17269
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905382930574446592/MkOL4EEw_400x400.jpg", MOVISTAR CINE
+http://appleiptv.com:25461/0357/0357/17270
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png", MOVISTAR ESTRENOS
+http://appleiptv.com:25461/0357/0357/17291
+
+
+
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/nr/284507/png/plustv-logo.png", TVS PLUS
 http://appleiptv.com:25461/0357/0357/27162
 
