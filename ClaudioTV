@@ -123,6 +123,14 @@ http://appleiptv.com:25461/0357/0357/28788
 http://appleiptv.com:25461/0357/0357/28814
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png", CINEMAX
+http://appleiptv.com:25461/0357/0357/28394
+
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/419-4197240_en-grillas-59c2a7ee7a1a0-fxmhd-fxm-hd-logo.png", FXM
+http://appleiptv.com:25461/0357/0357/28433
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png", TNT
 http://appleiptv.com:25461/0357/0357/28833
 
