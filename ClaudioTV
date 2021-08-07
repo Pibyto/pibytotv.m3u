@@ -23,6 +23,36 @@ https://qlobbidev.s.llnwi.net/bpk-tv/STARLIFE/hls/index.m3u8
 http://appleiptv.com:25461/0357/0357/27093
 
 
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png", HBO 2
+http://appleiptv.com:25461/0357/0357/28439
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO FAMILY
+http://appleiptv.com:25461/0357/0357/28440
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO PLUS
+http://appleiptv.com:25461/0357/0357/28442
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png", HBO SIGNATURE
+http://appleiptv.com:25461/0357/0357/28443
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png", HBO MUNDI
+http://appleiptv.com:25461/0357/0357/28452
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ld35DS2wq4o/X6Dka5mH-3I/AAAAAAAAKiU/P2kVxxBWPAcAt1Om1mm5bAlEAletILUFQCLcBGAsYHQ/w1200-h630-p-k-no-nu/HBO%2BEXTREME.png",  HBO XTREME
+http://appleiptv.com:25461/0357/0357/28451
+
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpwhz3-02d4c319-e35c-40d2-8e73-28064b4cb323.png",  HBO POP
+http://appleiptv.com:25461/0357/0357/28453
+
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png", CINECANAL
 https://qlobbidev.s.llnwi.net/bpk-tv/CINECANAL/hls/index.m3u8
 
