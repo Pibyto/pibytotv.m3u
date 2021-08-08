@@ -221,7 +221,7 @@ https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/master.m3u8
 https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Disney_XD_HD.svg", DISNEY XD
+#EXTINF:-1 tvg-logo="hs", DISNEY XD
 https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/master.m3u8
 
 
