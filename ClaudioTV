@@ -1462,137 +1462,137 @@ https://play-akamai.pongalo.com/where-is-good/where-is-good_1-1/play_v1_hls_1080
 #EXTINF: -1 tvg-logo = "https://www.bibliatodo.com/PeliculasCristianas/wp-content/uploads/2021/02/el-sonido-del-espiritu.jpg" group-title = "PELICULAS", EL SONIDO DEL ESPÍRITU
 https://play-akamai.pongalo.com/sound-spirit/sound-spirit_1-1/play_v1_hls_1080p.m3u8
 
-#EXTINF: -1 tvg-logo = "https://i.ytimg.com/vi/S-g7kfFzx1E/maxresdefault.jpg" group-title = "PELICULAS", CONFECCIONES DE UN HIJO PRODIGO
+#EXTINF:-1 tvg-logo = "https://i.ytimg.com/vi/S-g7kfFzx1E/maxresdefault.jpg" group-title = "PELICULAS", CONFECCIONES DE UN HIJO PRODIGO
 https://play-akamai.pongalo.com/confessions-prodigal-son/confessions-prodigal-son_1-1/hls_2500.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://pics.filmaffinity.com/D_as_de_ira-846276547-large.jpg" group-title = "PELICULAS", EL VENGADOR
+#EXTINF:-1 tvg-logo ="https://pics.filmaffinity.com/D_as_de_ira-846276547-large.jpg" group-title = "PELICULAS", EL VENGADOR
 https://play-akamai.pongalo.com/law-abiding-citizen/law-abiding-citizen_1-1/play_v1_hls_1080p.m3u8
 
-#EXTINF:-2, tvg-id="EPG N/A" tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/1.jpg" group-title = "PELICULAS", sparta 300
-
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/1.jpg" group-title = "PELICULAS", sparta 300
 https://ia601509.us.archive.org/32/items/nhu9tdftu/nhu9tdftu.mp4
 
 
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/2.jpg" group-title = "PELICULAS", 300: EL NACIMIENTO DE UN IMPERIO
-
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/2.jpg" group-title = "PELICULAS", 300 EL NACIMIENTO DE UN IMPERIO
 https://ia601509.us.archive.org/32/items/nhu9tdftu/bvuwv.mp4
 
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/3.jpg" group-title = "PELICULAS", 211 EL GRAN ASALTO
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/3.jpg" group-title = "PELICULAS", 211 EL GRAN ASALTO
 https://archive.org/download/22b4l42/211.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/4.jpg" group-title = "PELICULAS", 22 BALAS
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/4.jpg" group-title = "PELICULAS", 22 BALAS
 https://archive.org/download/22b4l42/22%20B4L42.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/6.jpg" group-title = "PELICULAS", BAD BOYS
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/6.jpg" group-title = "PELICULAS", BAD BOYS
 https://dl.dropbox.com/s/a9vma2z3mnh7maz/Bad.Boys._www.Hackstore.Net_.avi
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/7.jpg" group-title = "PELICULAS", BAD BOYS 2
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/7.jpg" group-title = "PELICULAS", BAD BOYS 2
 https://dl.dropbox.com/s/l7qquygm473ze2w/BADBOYS.2.DVD.LAT.Www.Hackstore.Net.avi
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/9.jpg" group-title = "PELICULAS", CRACK 2 ALTO VOLTAJE
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/9.jpg" group-title = "PELICULAS", CRACK 2 ALTO VOLTAJE
 https://dl.dropbox.com/s/5vmm0l7k4tmm82s/Crank.2.High.Voltage.2009.DVDRip.Latino.avi
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/11.jpg" group-title = "PELICULAS", DURO DE ESPIAR
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/11.jpg" group-title = "PELICULAS", DURO DE ESPIAR
 https://dl.dropbox.com/s/51sezy2a85ge8h7/Duro%20De%20Espiar.avi
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/12.jpg" group-title = "PELICULAS", EL CUERVO 1
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/12.jpg" group-title = "PELICULAS", EL CUERVO 1
 https://dl.dropbox.com/s/gk4o8m9biudgijl/3l.Cu3rvo.www.blog-peliculas.com.avi
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/13.jpg" group-title = "PELICULAS", EL DEMOLEDOR
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/13.jpg" group-title = "PELICULAS", EL DEMOLEDOR
 https://ia601507.us.archive.org/10/items/bfrbc/8047575.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/15.jpg" group-title = "PELICULAS", ESCAPE DE LOS ANGELES
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/15.jpg" group-title = "PELICULAS", ESCAPE DE LOS ANGELES
 https://archive.org/download/sdalogo0400x400/32C4P3%20D3%20L02%204NG3132.mkv
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/16.jpg" group-title = "PELICULAS",  ESCUADRON 6
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/16.jpg" group-title = "PELICULAS",  ESCUADRON 6
 https://dl.dropbox.com/s/grzoonj9c5picqt/00200%20para.%2B.pelis.ir-_www.facebook.com_groups_PelisOnlineGoogleDrive_%20%20Ctrl%2Bc%20y%20Ctrl%2Bv.mp4%20.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/17.jpg" group-title = "PELICULAS", EL ULTIMO SAMURAI
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/17.jpg" group-title = "PELICULAS", EL ULTIMO SAMURAI
 https://archive.org/download/1_20191226_20191226/1.avi
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/19.jpg" group-title = "PELICULAS", GARO EL CABALLERO DE LA NOCHE BLANCA
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/19.jpg" group-title = "PELICULAS", GARO EL CABALLERO DE LA NOCHE BLANCA
 https://dl.dropbox.com/s/dwikba9j30wz21k/Garo%20%5BDVDRip%5D%5BSpanish%5D%5BFull-backup.com%5D.avi
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/20.jpg" group-title = "PELICULAS",  GHOST DOG - THE WAY OF THE SAMURAI
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/20.jpg" group-title = "PELICULAS",  GHOST DOG - THE WAY OF THE SAMURAI
 https://dl.dropbox.com/s/mkrikb4phbbwgrr/Ghost%20Dog%20The%20Way%20of%20the%20Samurai.MP4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/21.jpg" group-title = "PELICULAS",  HABÍA UNA VES EN HOLLYWOOD
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/21.jpg" group-title = "PELICULAS",  HABÍA UNA VES EN HOLLYWOOD
 https://archive.org/download/www.megamk.comesta720/Www.Mega-Mk.com-ESTA-720.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/22.jpg" group-title = "PELICULAS", JOHN WICK 2
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/22.jpg" group-title = "PELICULAS", JOHN WICK 2
 https://archive.org/download/MOJO2019-08-22/2.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/23.jpg" group-title = "PELICULAS", JOHN WICK 3
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/23.jpg" group-title = "PELICULAS", JOHN WICK 3
 https://archive.org/download/MOJO2019-08-22/3.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/24.jpg" group-title = "PELICULAS", JOHN WICK 3 ( OPCION 2 )
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/24.jpg" group-title = "PELICULAS", JOHN WICK 3 ( OPCION 2 )
 http://archive.org/download/direcionaudiovisual/DIRECION%20AUDIO%20VISUAL.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/25.jpg" group-title = "PELICULAS", LUCY
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/25.jpg" group-title = "PELICULAS", LUCY
 http://archive.org/download/erling44_198f_ymail3_Cubo/5.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/26.jpg" group-title = "PELICULAS", MATAR O MORIR
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/26.jpg" group-title = "PELICULAS", MATAR O MORIR
 https://dl.dropbox.com/s/akcaikppg90aoje/Matar%20o%20Morir.MP4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/29.jpg" group-title = "PELICULAS", PLACA DE ACERO
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/29.jpg" group-title = "PELICULAS", PLACA DE ACERO
 https://dl.dropbox.com/s/m5nm1ld2nhjhwt9/Pl4c4_d3_4c320.mkv
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/30.jpg" group-title = "PELICULAS", PROYECTO GENESIS
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/30.jpg" group-title = "PELICULAS", PROYECTO GENESIS
 https://dl.dropbox.com/s/u5p5sc3og0cpshk/Proyecto.Geminis%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/31.jpg" group-title = "PELICULAS", RAMBO 5
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/31.jpg" group-title = "PELICULAS", RAMBO 5
 https://dl.dropbox.com/s/tmgkn94mg7c636n/Rambo%20V%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/32.jpg" group-title = "PELICULAS", RAPIDOS Y FURIOSOS HOBB Y SHAW
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/32.jpg" group-title = "PELICULAS", RAPIDOS Y FURIOSOS HOBB Y SHAW
 https://dl.dropbox.com/s/nuyvma642lp4s2o/RyF%20Hobbs%20y%20Shaw%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/33.jpg" group-title = "PELICULAS", ROBOCOP 1
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/33.jpg" group-title = "PELICULAS", ROBOCOP 1
 https://dl.dropbox.com/s/l7xpuqs5q6671ya/Robocop%203.mkv
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/34.jpg" group-title = "PELICULAS", ROBOCOP 2
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/34.jpg" group-title = "PELICULAS", ROBOCOP 2
 https://dl.dropbox.com/s/jxzepelk9sx8x7v/RoboCop%202%5B1%5D.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/35.jpg" group-title = "PELICULAS", ROBOCOP 3
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/35.jpg" group-title = "PELICULAS", ROBOCOP 3
 https://dl.dropbox.com/s/q88ewbuqf41hn1j/Robocop%201.mkv
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/36.jpg" group-title = "PELICULAS", ROBOCOP ( 2014 )
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/36.jpg" group-title = "PELICULAS", ROBOCOP ( 2014 )
 https://dl.dropbox.com/s/m9aw6ygx6l7bu8h/ROBOCOP.BR.LAT.Www.Hackstore.Net.mkv
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/37.jpg" group-title = "PELICULAS", ROMEO DEBE MORIR
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/37.jpg" group-title = "PELICULAS", ROMEO DEBE MORIR
 https://dl.dropbox.com/s/6tsti5af578te1s/Romeo.Must.Die.2000.BRRip.XviD.AC3.Audio.Latino.avi
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/38.jpg" group-title = "PELICULAS",  SANGRE POR SANGRE
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/38.jpg" group-title = "PELICULAS",  SANGRE POR SANGRE
 https://archive.org/download/00200_20200105/00200.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/39.jpg" group-title = "PELICULAS",  SANGRE Y GLORIA
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/39.jpg" group-title = "PELICULAS",  SANGRE Y GLORIA
 https://ia601507.us.archive.org/10/items/bfrbc/ovn.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/90/19/95/20085397.jpg" group-title = "PELICULAS", SHAFT
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/90/19/95/20085397.jpg" group-title = "PELICULAS", SHAFT
 https://dl.dropbox.com/s/fm5wqp5twvp7o4r/Shaft%20%282019%29.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Terremoto_La_Falla_de_San_Andr_s-446016066-large.jpg" group-title = "PELICULAS", TERREMOTO LA FALLA DE SAN ANDRÉS
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Terremoto_La_Falla_de_San_Andr_s-446016066-large.jpg" group-title = "PELICULAS", TERREMOTO LA FALLA DE SAN ANDRÉS
 https://archive.org/download/00100_20190920_0442/00100.avi
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pics.filmaffinity.com/Terminator_Destino_oscuro-389391587-mmed.jpg" group-title = "PELICULAS", TERMINATOR DARK FATE
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Terminator_Destino_oscuro-389391587-mmed.jpg" group-title = "PELICULAS", TERMINATOR DARK FATE
 https://dl.dropbox.com/s/qlsk0w3einfqdaf/Terminator%20Destino%20Oculto.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/44.jpg" group-title = "PELICULAS", TORRENTE 1
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/44.jpg" group-title = "PELICULAS", TORRENTE 1
 https://archive.org/download/multiplos_de_54/1.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/45.jpg" group-title = "PELICULAS", TORRENTE 2
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/45.jpg" group-title = "PELICULAS", TORRENTE 2
 https://archive.org/download/multiplos_de_54/2.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/46.jpg" group-title = "PELICULAS", TORRENTE 3
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/46.jpg" group-title = "PELICULAS", TORRENTE 3
 https://archive.org/download/multiplos_de_54/3.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/47.jpg" group-title = "PELICULAS", TORRENTE 4
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/47.jpg" group-title = "PELICULAS", TORRENTE 4
 https://archive.org/download/multiplos_de_54/4.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/48.jpg" group-title = "PELICULAS", TORRENTE 5
-https://archive.org/download/multiplos_de_54/5.mp4#EXTINF: -1 tvg-logo = "https://images.moviefit.me/t/o/212932-the-huntress-rune-of-the-dead.jpg" group-title = "PELICULAS", LA CAZADORA
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/48.jpg" group-title = "PELICULAS", TORRENTE 5
+https://archive.org/download/multiplos_de_54/5.mp4
+
+#EXTINF: -1 tvg-logo = "https://images.moviefit.me/t/o/212932-the-huntress-rune-of-the-dead.jpg" group-title = "PELICULAS", LA CAZADORA
 https://play-akamai.pongalo.com/huntress-rune-dead/huntress-rune-dead_1-1/play_v1_hls_1080p.m3u8
 
 
