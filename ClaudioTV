@@ -173,7 +173,7 @@ http://appleiptv.com:25461/0357/0357/27140
 http://appleiptv.com:25461/0357/0357/17232
 
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png", HOLLYWOOD
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png", HOLLYWOOD HD
 http://appleiptv.com:25461/0357/0357/17254
 
 
@@ -214,7 +214,7 @@ http://appleiptv.com:25461/0357/0357/27370
 http://appleiptv.com:25461/0357/0357/27176
 
 
-#EXTINF:-1 tvg-logo="https://www.ladbible.com/cdn-cgi/image/width=720,quality=70,format=jpeg,fit=pad,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2Fba5a04f15f7680ccd2fcd5c05544e0a0.png", DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png", DISNEY CHANNEL
 https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_disney-jr_m.png", DISNEY JUNIOR
