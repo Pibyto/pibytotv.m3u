@@ -1099,6 +1099,28 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="DEPORTE", FOX SPORT PREMIUM
+http://goplays.xyz:8000/hugo/Hugo/130898
+
+
+
+#EXTINF:-1 tvg-logo="https://depor.com/resizer/ljDiwpd-pJv2u3D_SlYVQFqx3nc=/600x360/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/ITBQ64MBMBFMNOMH5N5RZUTA64.jpg"group-title="DEPORTE", TNT SPORTS
+http://goplays.xyz:8000/hugo/Hugo/130903
+
+
+
+
+#EXTINF:-1 tvg-logo="https://brief.promax.org/images/uploads/tyc-sports-1.png"group-title="DEPORTE", T&C SPORTS
+http://goplays.xyz:8000/hugo/Hugo/130905
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
