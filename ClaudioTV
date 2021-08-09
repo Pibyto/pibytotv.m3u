@@ -1207,12 +1207,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 
 
 
-EXTINF: -1 tvg-logo = "https://www.cinevistablog.com/wp-content/uploads/2012/07/el-rescate-machine-gun-preacher_opt2_.jpg" group-title = "PELICULAS", MACHINE GUN PREDICADOR
+EXTINF:-1 tvg-logo ="https://www.cinevistablog.com/wp-content/uploads/2012/07/el-rescate-machine-gun-preacher_opt2_.jpg"group-title="PELICULAS", MACHINE GUN PREDICADOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e7ebe7e53bc0c65d521/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae- 480a-aeae-f805d255de09 & deviceLat = -34.8150 & deviceLon = -58.4693 & deviceMake = Chrome% 2BMobile & deviceModel = web & deviceType = web & deviceVersion = 90.0.4430.210 & includeExtendedEvents = false & marketingRegion = VE & sid2 -b & b222acdsc9 = servidor
 
 
-
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="PELICULAS", RÁPIDOS Y FURIOSOS 9 4k
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg"group-title="PELICULAS", RÁPIDOS Y FURIOSOS 9 4k
 http://goplays.xyz:8000/movie/hugo/Hugo/140566.mkv
 
 
@@ -1230,22 +1229,16 @@ http://goplays.xyz:8000/movie/hugo/Hugo/140584.mp4
 http://goplays.xyz:8000/movie/hugo/Hugo/141375.mkv
 
 
-
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/30/08/10/1385971.jpg"group-title="PELÍCULAS", JOLT
 http://goplays.xyz:8000/movie/hugo/Hugo/140561.mkv
-
 
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/10/17/39/5369760.jpg"group-title="PELÍCULAS", UN LUGAR TRANQUILO 2
 http://goplays.xyz:8000/movie/hugo/Hugo/138628.mkv
 
 
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/05/16/42/3751570.jpg"group-title="PELÍCULAS", SPACE JAM
 http://goplays.xyz:8000/movie/hugo/Hugo/140002.mkv
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/09/18/28/5915477.jpg"group-title="PELÍCULAS",  VIUDA NEGRA
@@ -1253,24 +1246,16 @@ http://goplays.xyz:8000/movie/hugo/Hugo/139382.mkv
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/26/17/45/4238572.jpg"group-title="PELÍCULAS", LA GUERRA DEL MAÑANA
 http://goplays.xyz:8000/movie/hugo/Hugo/139285.mkv
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/15/11/11/4656694.jpg"group-title="PELÍCULAS", NADIE
-https://ipeteve.com/REGIOFLIX180721/Nadie%20%282021%29.1080P-Dual-Lat-Sr-Regio.Net.mkv
+http://goplays.xyz:8000/movie/hugo/Hugo/147028.mkv
 
 
 #EXTINF:-1 tvg-logo="https://media.gq.com.mx/photos/6089777c7a5da02e8a3dbf76/master/pass/original_1619620187_LUCA%20Disney+.png"group-title="PELÍCULAS", LUCA
 http://goplays.xyz:8000/movie/hugo/Hugo/147021.mkv
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/12800/12899/002_m.jpg"group-title="PELÍCULAS", BEBE JEFAZO 2
@@ -1278,10 +1263,10 @@ http://goplays.xyz:8000/movie/hugo/Hugo/139310.mkv
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg"group-title="PELÍCULAS", TOM & JERRY 2021
-https://ipeteve.com/REGIOFLIX180721/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
+http://goplays.xyz:8000/movie/hugo/Hugo/147054.mkv
+
+
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81LIuuULWbL._RI_.jpg" group-title="PELICULAS", EL LIMPIA PICINAS
 https://play-akamai.pongalo.com/el-limpia-piscinas/el-limpia-piscinas_1-1/hls_2500.m3u8
@@ -1301,7 +1286,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604f873ee7c979001a
 
 
 
-
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/85/32/99/19783257.jpg" group-title="PELICULAS", CONAN EL BÁRBARO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e552dc95c1e25001a24f3a0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
@@ -1317,7 +1301,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e82be7e53bc0c
 
 
 
-
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/4/40/Blitz.jpg/260px-Blitz.jpg" group-title="PELICULAS", BLITZ
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e74be7e53bc0c65d42d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
@@ -1328,10 +1311,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604f874be7c979001a
 
 
 
-
 #EXTINF:-1 tvg-logo="https://cinergetica.com.mx/wp-content/uploads/2011/04/poster-el-especialista.jpg" group-title="PELICULAS", EL ESPECIALISTA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6018641b00da4e00138bfa4e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
-
 
 
 
@@ -1350,16 +1331,13 @@ https://prod.pongalo.com/play.m3u8?access-key=55958921be00f9bf6dc51e43ce0dedd270
 
 
 
-
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/0/00/Fuerzas-especiales_2011.jpg" group-title="PELICULAS", FUERZAS ESPECIALES
 https://content-asae1-up-2.uplynk.com/edf82040054d4c16947a3071051b1406/e.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://narcolepticos.com/wp-content/uploads/2016/12/bitva_za_sevastopol-497422607-large.jpg" group-title="PELICULAS", LA FRANCOTIRADORA
 https://content-asae1-up-2.uplynk.com/3f07d535dfb74f4d87d8ed7231d6c1e9/e.m3u8
-
 
 
 
@@ -1373,10 +1351,8 @@ https://content-asae1-up-2.uplynk.com/5d7d9ab2473640d08b149e05f59c55ca/e.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://static.noimg.net/movie/cover/original/040d6bcef6ae5b7ce07da2cab7f73db8.jpg" group-title="PELICULAS", LOTOMAN 003
 https://content-asae1-up-2.uplynk.com/d076158c73314cd79a51f68e15dc600a/e.m3u8
-
 
 
 
@@ -1385,19 +1361,13 @@ https://prod.pongalo.com/play.m3u8?access-key=3fe104ce392c409a2f2136628144cc88f2
 
 
 
-
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-hq7lA6SaNlA/UC1QrQ1QIfI/AAAAAAAABTk/krkKEi5KXvM/s1600/los+mercenarios.jpg" group-title="PELICULAS", LOS MERCENARIOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b91e0b2b870001a05ef6f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=640abbc8-bcc6-11eb-a4a5-0242ac110002&userId=&serverSideAds=true
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2018/05/afiche_unadiaparasobrevivir_ok.jpg" group-title="PELICULAS", UN DIA PARA SOBREVIVIR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b91e2b2b870001a05efa9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=07b30252-bcc8-11eb-a7d6-0242ac110002&userId=&serverSideAds=true
-
 
 
 
