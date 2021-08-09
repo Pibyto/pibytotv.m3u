@@ -243,6 +243,12 @@ https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png"group-title="NOVELAS", PASIONES HD
 http://goplays.xyz:8000/hugo/Hugo/141441
 
+
+#EXTINF:-1 tvg-logo="group-title="https://pbs.twimg.com/profile_images/455827866215649280/hBcnG2cR_400x400.jpeg"NOVELAS", UNIVISIÓN TLNOVELAS
+http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/131156
+
+
+
 #EXTINF:-1 tvg-logo="group-title="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png"group-title="NOVELAS", TLNOVELAS HD
 http://goplays.xyz:8000/hugo/Hugo/141442
 
