@@ -1,78 +1,78 @@
 # ClaudioTV
 
-#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title = ", EL TRECE FHD
+#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title ="ARGENTINA ", EL TRECE FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png", TELEFE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title"ARGENTINA", TELEFE
 http://appleiptv.com:25461/0357/0357/27416
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" ,EL NUEVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title"ARGENTINA", EL NUEVE
 http://appleiptv.com:25461/0357/0357/28388
 
-#EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg", TELESOL SAN JUAN
+#EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title"ARGENTINA", TELESOL SAN JUAN
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png", HBO
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png" group-title"PREMIUM", HBO
 http://appleiptv.com:25461/0357/0357/27093
 
 
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png", HBO 2
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png" group-title" PREMIUM", HBO 2
 http://appleiptv.com:25461/0357/0357/28439
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO FAMILY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title" PREMIUM", HBO FAMILY
 http://appleiptv.com:25461/0357/0357/28440
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title" PREMIUM", HBO PLUS
 http://appleiptv.com:25461/0357/0357/28442
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png", HBO SIGNATURE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title" PREMIUM", HBO SIGNATURE
 http://appleiptv.com:25461/0357/0357/28443
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png", HBO MUNDI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title" PREMIUM", HBO MUNDI
 http://appleiptv.com:25461/0357/0357/28452
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ld35DS2wq4o/X6Dka5mH-3I/AAAAAAAAKiU/P2kVxxBWPAcAt1Om1mm5bAlEAletILUFQCLcBGAsYHQ/w1200-h630-p-k-no-nu/HBO%2BEXTREME.png",  HBO XTREME
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ld35DS2wq4o/X6Dka5mH-3I/AAAAAAAAKiU/P2kVxxBWPAcAt1Om1mm5bAlEAletILUFQCLcBGAsYHQ/w1200-h630-p-k-no-nu/HBO%2BEXTREME.png"group-title" PREMIUM",  HBO XTREME
 http://appleiptv.com:25461/0357/0357/28451
 
 
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpwhz3-02d4c319-e35c-40d2-8e73-28064b4cb323.png",  HBO POP
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpwhz3-02d4c319-e35c-40d2-8e73-28064b4cb323.png"group-title" PREMIUM",  HBO POP
 http://appleiptv.com:25461/0357/0357/28453
 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png", CINECANAL
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title" PREMIUM", CINECANAL
 https://qlobbidev.s.llnwi.net/bpk-tv/CINECANAL/hls/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png", AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title" PREMIUM", AMC HD
 http://appleiptv.com:25461/0357/0357/28377
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png", OROMAR HD
 http://ultraxtvextreme.com:8000/listas_MX_EC_01/4cFVG4qRWzuq/3593
 
-#EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png" ,SUCESO TV
+#EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png"group-title" PARAGUAY" ,SUCESO TV
 https://59ce1298bfb98.streamlock.net:443/sucesotv/sucesotv/chunklist_w1622156069.m3u8?WebM3UCL
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png", MI TV
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title" PARAGUAY", MI TV
 http://copaco.desdeparaguay.net:1935/mitv/mitv/chunklist_w1809479909.m3u8?WebM3UCL
 
 
-#EXTINF: -1tvg-logo="https://www.rcn.com.py/file/2020/08/portada_rcnmedia.png", RCN HD PARAGUAY
+#EXTINF: -1tvg-logo="https://www.rcn.com.py/file/2020/08/portada_rcnmedia.png"group-title" PARAGUAY", RCN HD
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
 
 
-#EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png",  SOMOS DEL ESTE HD PARAGUAY
+#EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title" PARAGUAY",  SOMOS DEL ESTE HD PARAGUAY
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png", CABLEMAS PARAGUAY
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png"group-title" PARAGUAY", CABLEMAS HD
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png", OROMAR
@@ -80,7 +80,7 @@ http://ultraxtvextreme.com:8000/listas_MX_EC_01/4cFVG4qRWzuq/3593
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png", TV MAS
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png"group-title" CHILE", TV MAS
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 
@@ -91,101 +91,101 @@ http://ultraxtvextreme.com:8000/listas_MX_EC_01/4cFVG4qRWzuq/3592
 
 
 
-#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/star-action.png", STAR ACCIÓN
+#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/star-action.png"group-title" PREMIUM", STAR ACCIÓN
 http://appleiptv.com:25461/0357/0357/28773
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoOscuro.png.d9d97a761b14a0c4ff5d33ca1ba17a6a.png", STAR CINEMA
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoOscuro.png.d9d97a761b14a0c4ff5d33ca1ba17a6a.png"group-title" PREMIUM", STAR CINEMA
 http://appleiptv.com:25461/0357/0357/28775
 
 
-#EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png", STAR CHANNELL
+#EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png"group-title" PREMIUM", STAR CHANNELL
 https://qlobbidev.s.llnwi.net/bpk-tv/FOX/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png", STAR LIFE
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png"group-title" PREMIUM", STAR LIFE
 https://qlobbidev.s.llnwi.net/bpk-tv/STARLIFE/hls/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarHits_Logo2021_FondoOscuro.png.45ae1af33adde821778a60e2d08ca43e.png", STAR HITS
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarHits_Logo2021_FondoOscuro.png.45ae1af33adde821778a60e2d08ca43e.png"group-title" PREMIUM", STAR HITS
 http://appleiptv.com:25461/0357/0357/28778
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoOscuro.png.4ad15cde8e848ef14a7b1deb71b3c4c7.png", STAR SERIES
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoOscuro.png.4ad15cde8e848ef14a7b1deb71b3c4c7.png"group-title" PREMIUM", STAR SERIES
 http://appleiptv.com:25461/0357/0357/28780
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png", GOLDEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png"group-title" PREMIUM", GOLDEN
 http://appleiptv.com:25461/0357/0357/28786
 
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png", GOLDEN PLUS
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title" PREMIUM", GOLDEN PLUS
 http://appleiptv.com:25461/0357/0357/28788
 
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-4.png", PARAMOUNT
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-4.png"group-title" PREMIUM", PARAMOUNT
 http://appleiptv.com:25461/0357/0357/28814
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png", CINEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png"group-title" PREMIUM", CINEMAX
 http://appleiptv.com:25461/0357/0357/28394
 
 
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/419-4197240_en-grillas-59c2a7ee7a1a0-fxmhd-fxm-hd-logo.png", FXM
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/419-4197240_en-grillas-59c2a7ee7a1a0-fxmhd-fxm-hd-logo.png"group-title" PREMIUM", FXM
 http://appleiptv.com:25461/0357/0357/28433
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png", TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png"group-title" PREMIUM", TNT
 http://appleiptv.com:25461/0357/0357/28833
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"group-title" PREMIUM", TNT SERIES
 http://appleiptv.com:25461/0357/0357/28483
 
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/w1600/spacehd.png", SPACE
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/w1600/spacehd.png"group-title" PREMIUM", SPACE
 http://appleiptv.com:25461/0357/0357/28819
 
 
 
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png", TBS
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png"group-title" PREMIUM", TBS
 http://appleiptv.com:25461/0357/0357/28824
 
 
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_spt-renueva-su-marca-insignia-a-sony-channel.jpg", SONY
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_spt-renueva-su-marca-insignia-a-sony-channel.jpg"group-title" PREMIUM", SONY
 http://appleiptv.com:25461/0357/0357/28818
 
 
-#EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/baa62f3870d00a79cb79794f30a0a904.jpg", UNIVERSAL
+#EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/baa62f3870d00a79cb79794f30a0a904.jpg"group-title" PREMIUM", UNIVERSAL
 http://appleiptv.com:25461/0357/0357/28865
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", WARNER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png"group-title" PREMIUM", WARNER
 http://appleiptv.com:25461/0357/0357/28868
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png", MOVISTAR PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png"group-title" PREMIUM", MOVISTAR PLUS
 http://appleiptv.com:25461/0357/0357/27140
 
 
-#EXTINF:-1 tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4a8127de8f860b288b3a967452e029ca_og_dark.png", DARK
+#EXTINF:-1 tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4a8127de8f860b288b3a967452e029ca_og_dark.png"group-title" ESPAÑA", DARK
 http://appleiptv.com:25461/0357/0357/17232
 
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png", HOLLYWOOD HD
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png"group-title"ESPAÑA", HOLLYWOOD HD
 http://appleiptv.com:25461/0357/0357/17254
 
 
 
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png", Movistar ACCIÓN
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png"group-title"ESPAÑA", Movistar ACCIÓN
 http://appleiptv.com:25461/0357/0357/17269
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905382930574446592/MkOL4EEw_400x400.jpg", MOVISTAR CINE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905382930574446592/MkOL4EEw_400x400.jpg"group-title"ESPAÑA", MOVISTAR CINE
 http://appleiptv.com:25461/0357/0357/17270
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png", MOVISTAR ESTRENOS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png"group-title"ESPAÑA", MOVISTAR ESTRENOS
 http://appleiptv.com:25461/0357/0357/17291
 
 
