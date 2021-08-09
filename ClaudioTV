@@ -1212,8 +1212,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e7ebe7e53bc0c
 
 
 
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="PELICULAS", RÁPIDOS Y FURIOSOS 9
-https://www102.uptostream.com/5nuv9d6e5/1080/0/video.mp4
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg" group-title="PELICULAS", RÁPIDOS Y FURIOSOS 9 4k
+http://goplays.xyz:8000/movie/hugo/Hugo/140566.mkv
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/05/16/42/3751570.jpg",SPACE JAM
