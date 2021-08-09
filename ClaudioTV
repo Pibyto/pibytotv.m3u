@@ -174,97 +174,6 @@ http://appleiptv.com:25461/0357/0357/28865
 http://appleiptv.com:25461/0357/0357/28868
 
 
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 1
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2205
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 2
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2208
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 3
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2209
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 4
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2210
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 5
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2211
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 6
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2212
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 7
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2213
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 8
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2215
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 9
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2216
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 10
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2217
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 11
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2219
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 12
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2221
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 13
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2222
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 14
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2223
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 15
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2224
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 16
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2225
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 17
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2226
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png"group-title=" PERU", MOVISTAR PLUS
 http://appleiptv.com:25461/0357/0357/27140
 
@@ -303,6 +212,10 @@ http://appleiptv.com:25461/0357/0357/27288
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png"group-title="NOVELAS", ECUAVISION HD
 http://appleiptv.com:25461/0357/0357/27304
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b9/e5/d5/b9e5d57aa8968f11032710a19435745f.jpg"group-title="NOVELAS", UNIMAS HD
+http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2375
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png"group-title="PARAGUAY", TELEFUTURO
