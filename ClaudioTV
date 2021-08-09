@@ -212,7 +212,7 @@ http://appleiptv.com:25461/0357/0357/27370
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_enlace-tbn_m.png", ENLACE
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_enlace-tbn_m.png"group-title="COSTA RICA", ENLACE
 http://appleiptv.com:25461/0357/0357/27176
 
 
@@ -230,7 +230,7 @@ https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FX_Turkey_logo.svg/1200px-FX_Turkey_logo.svg.png"group-title="PREMIUM", FX
 https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png", UNIVISIÓN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png"group-title="NOVELAS", UNIVISIÓN
 https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CANAL 26  26.1
@@ -256,7 +256,7 @@ https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-p.m3u8?sd=10
 #EXTINF: -1 tvg-logo = "https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg"group-title="ARGENTINA", NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_q01LKHssZCc/TRdEvCH29HI/AAAAAAAAHTI/DSZm1Pal49Y/s1600/Venevision.png", VEN TV PREMIUM
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_q01LKHssZCc/TRdEvCH29HI/AAAAAAAAHTI/DSZm1Pal49Y/s1600/Venevision.png""group-title="CRISTIANO", VEN TV PREMIUM
 https://cloud2.streaminglivehd.com:1936/natanaeltv/natanaeltv/chunklist_w1986675676.m3u8?WebM3UCL
 
 #EXTINF: -1 tvg-logo = "https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg"group-title="ARGENTINA", IP 24.5
@@ -362,60 +362,60 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", CINCO TV TIGRE  30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.delsur.tv/images/logodelsurtv.png", DEL SUR TV
+#EXTINF:-1 tvg-logo="https://www.delsur.tv/images/logodelsurtv.png"group-title="ARGENTINA", DEL SUR TV
 http://51.79.83.93:9998/live/delsurtv/chunks.m3u8?nimblesessionid=3301153
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg", CANAL 4 TELECONDOR
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg"group-title="ARGENTINA", CANAL 4 TELECONDOR
 https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-3-La-Pampa-en-vivo-Online.png", CANAL 3 LA PAMPA
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-3-La-Pampa-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 LA PAMPA
 https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA", CANAL 9 NORTE MISIONES
+#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA"group-title="ARGENTINA", CANAL 9 NORTE MISIONES
 https://panel.dattalive.com/8076/8076/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png", MULTIVISION SALTA
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png", CANAL 9 MENDOZA
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png"group-title="ARGENTINA", CANAL 9 MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://canal9riocuartotv.com.ar/El_Canal_de_los_Riocuartenses,_y_tu_mejor_compania._files/logotrans.png", CANAL 9 RIO CUARTO
+#EXTINF:-1 tvg-logo="https://canal9riocuartotv.com.ar/El_Canal_de_los_Riocuartenses,_y_tu_mejor_compania._files/logotrans.png"group-title="ARGENTINA", CANAL 9 RIO CUARTO
 http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkLBCuKuEKH3j6-3ti15yjst71-c-FwQOkA&usqp=CAU", CANAL 10 ARTV
 http://mediacpstreamchile.com:1935/canal10artv/canal10artv/chunklist_w1285318425.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://frecuenciasalta.ar/wp-content/uploads/2020/08/NORTR-VISION-780x405.jpg", CANAL10 NORTEVISION
+#EXTINF:-1 tvg-logo="https://frecuenciasalta.ar/wp-content/uploads/2020/08/NORTR-VISION-780x405.jpg"group-title="ARGENTINA", CANAL10 NORTEVISION
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", TV10
 https://5d79ae45bc63b.streamlock.net:443/8256/8256/chunklist_w12029778.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png", CANAL 13 LA RIOJA
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png"group-title="ARGENTINA", CANAL 13 LA RIOJA
 https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png", RTV CABLE JUJUY
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png"group-title="CINE Y SERIES", RTV CABLE JUJUY
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
-#EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg", CANAL 10 SENILLOSA NEUQUEN
+#EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg"group-title="ARGENTINA", CANAL 10 SENILLOSA NEUQUEN
 https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.m3u.cl/logo/522_TV_MauleSur.png", TV MOULE SUR
+#EXTINF: -1 tvg-logo="https://www.m3u.cl/logo/522_TV_MauleSur.png"group-title="CINE Y SERIES", TV MOULE SUR
 https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://jarvistv.net/wp-content/uploads/2018/02/Galaxy-TV.png", GALAXY TV
+#EXTINF:-1 tvg-logo="https://jarvistv.net/wp-content/uploads/2018/02/Galaxy-TV.png"group-title="CINE Y SERIES", GALAXY TV
 https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg", LIM
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg"group-title="PARAGUAY", LIM
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png", ANTARES TV PER脵
