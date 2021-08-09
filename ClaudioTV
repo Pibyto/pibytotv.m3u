@@ -244,12 +244,12 @@ https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
 http://goplays.xyz:8000/hugo/Hugo/141441
 
 
-#EXTINF:-1 tvg-logo="group-title="https://pbs.twimg.com/profile_images/455827866215649280/hBcnG2cR_400x400.jpeg"group-title="NOVELAS", UNIVISIÓN TLNOVELAS
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/455827866215649280/hBcnG2cR_400x400.jpeg"group-title="NOVELAS", UNIVISIÓN TLNOVELAS
 http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/131156
 
 
 
-#EXTINF:-1 tvg-logo="group-title="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png"group-title="NOVELAS", TLNOVELAS HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png"group-title="NOVELAS", TLNOVELAS HD
 http://goplays.xyz:8000/hugo/Hugo/141442
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png"group-title="COLOMBIA", CANAL 1
