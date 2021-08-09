@@ -207,10 +207,10 @@ http://appleiptv.com:25461/0357/0357/27162
 http://appleiptv.com:25461/0357/0357/27209
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png"group-title="COLOMBIA", RCN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png"group-title="NOVELAS", RCN HD
 http://appleiptv.com:25461/0357/0357/27288
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png"group-title="ECUADOR", ECUAVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png"group-title="NOVELAS", ECUAVISION HD
 http://appleiptv.com:25461/0357/0357/27304
 
 
@@ -245,6 +245,19 @@ http://goplays.xyz:8000/hugo/Hugo/141441
 
 #EXTINF:-1 tvg-logo="group-title="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png"group-title="NOVELAS", TLNOVELAS HD
 http://goplays.xyz:8000/hugo/Hugo/141442
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png"group-title="COLOMBIA", CANAL 1
+http://goplays.xyz:8000/hugo/Hugo/8823
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png"group-title="NOVELAS",CARACOL HD
+http://goplays.xyz:8000/hugo/Hugo/6683
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/City-TV-Colombia-en-vivo-Online.png"group-title="COLOMBIA", CITY TV
+http://goplays.xyz:8000/hugo/Hugo/8714
+
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CANAL 26  26.1
