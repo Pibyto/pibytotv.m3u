@@ -240,6 +240,15 @@ https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png"group-title="NOVELAS", UNIVISIÓN
 https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
 
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png"group-title="NOVELAS", PASIONES HD
+http://goplays.xyz:8000/hugo/Hugo/141441
+
+
+
+#EXTINF:-1 tvg-logo="group-title="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png"NOVELAS", TLNOVELAS
+http://goplays.xyz:8000/hugo/Hugo/141442
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CANAL 26  26.1
 https://live-edge01.telecentro.net.ar/live/c26.smil/.m3u8
 
