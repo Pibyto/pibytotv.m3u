@@ -167,7 +167,7 @@ http://appleiptv.com:25461/0357/0357/28865
 http://appleiptv.com:25461/0357/0357/28868
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png"group-title=" PREMIUM", MOVISTAR PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png"group-title=" PERU", MOVISTAR PLUS
 http://appleiptv.com:25461/0357/0357/27140
 
 
@@ -192,11 +192,11 @@ http://appleiptv.com:25461/0357/0357/17291
 
 
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/nr/284507/png/plustv-logo.png", TVS PLUS
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/nr/284507/png/plustv-logo.png"group-title="PUERTO RICO", TVS PLUS
 http://appleiptv.com:25461/0357/0357/27162
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png", MEGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png"group-title="PUERTO RICO, MEGA
 http://appleiptv.com:25461/0357/0357/27209
 
 
