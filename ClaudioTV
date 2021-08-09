@@ -1199,6 +1199,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 
 
 
+
+
+
+
+
+
+
+
 EXTINF: -1 tvg-logo = "https://www.cinevistablog.com/wp-content/uploads/2012/07/el-rescate-machine-gun-preacher_opt2_.jpg" group-title = "PELICULAS", MACHINE GUN PREDICADOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e7ebe7e53bc0c65d521/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae- 480a-aeae-f805d255de09 & deviceLat = -34.8150 & deviceLon = -58.4693 & deviceMake = Chrome% 2BMobile & deviceModel = web & deviceType = web & deviceVersion = 90.0.4430.210 & includeExtendedEvents = false & marketingRegion = VE & sid2 -b & b222acdsc9 = servidor
 
@@ -1409,11 +1417,17 @@ https://ipeteve.com/REGIOFLIX180721/Soul.2020.1080p-dual-lat-cinecalidad.is.mp4
 
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cruella-640407586-large.jpg", CRUELLA
-https://ipeteve.com/REGIOFLIX180721/Cruella.SrRegio.mp4
+http://goplays.xyz:8000/movie/hugo/Hugo/136832.mkv
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Mortal_Kombat-245960455-large.jpg", MORTAL KOMBAT
-https://ipeteve.com/REGIOFLIX180721/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
+http://goplays.xyz:8000/movie/hugo/Hugo/134205.mp4
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/nosomosnonos.com/wp-content/uploads/2021/07/conjuro.jpg", CONJURO 3
@@ -1421,7 +1435,10 @@ https://ipeteve.com/REGIOFLIX180721/el%20conjuro%203%201080p-srregio.net.mkv
 
 
 #EXTINF:-1 tvg-logo="https://lomasflex.com/wp-content/uploads/2021/03/Ruega-por-nosotros6-1.jpg", RUEGA POR NOSOTROS
-https://ipeteve.com/REGIOFLIX180721/Ruega.por.nosotros.SrRegio.mkv
+http://goplays.xyz:8000/movie/hugo/Hugo/136518.mkv
+
+
+
 
 
 
