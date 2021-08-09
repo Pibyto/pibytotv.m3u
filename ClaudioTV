@@ -237,6 +237,11 @@ https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FX_Turkey_logo.svg/1200px-FX_Turkey_logo.svg.png"group-title="PREMIUM", FX
 https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/455827866215649280/hBcnG2cR_400x400.jpeg"group-title="NOVELAS", UNIVISIÓN TLNOVELAS
+http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/131156
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png"group-title="NOVELAS", UNIVISIÓN
 https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
 
