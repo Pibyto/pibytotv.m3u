@@ -1241,43 +1241,46 @@ http://goplays.xyz:8000/movie/hugo/Hugo/138628.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/05/16/42/3751570.jpg",SPACE JAM
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/05/16/42/3751570.jpg"group-title="PELÍCULAS", SPACE JAM
 http://goplays.xyz:8000/movie/hugo/Hugo/140002.mkv
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/09/18/28/5915477.jpg",  VIUDA NEGRA
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/09/18/28/5915477.jpg"group-title="PELÍCULAS",  VIUDA NEGRA
 http://goplays.xyz:8000/movie/hugo/Hugo/139382.mkv
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/26/17/45/4238572.jpg", LA GUERRA DEL MAÑANA
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/26/17/45/4238572.jpg"group-title="PELÍCULAS", LA GUERRA DEL MAÑANA
 http://goplays.xyz:8000/movie/hugo/Hugo/139285.mkv
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/15/11/11/4656694.jpg", NADIE
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/15/11/11/4656694.jpg"group-title="PELÍCULAS", NADIE
 https://ipeteve.com/REGIOFLIX180721/Nadie%20%282021%29.1080P-Dual-Lat-Sr-Regio.Net.mkv
 
 
-#EXTINF:-1 tvg-logo="https://media.gq.com.mx/photos/6089777c7a5da02e8a3dbf76/master/pass/original_1619620187_LUCA%20Disney+.png", LUCA
-https://ipeteve.com/REGIOFLIX180721/Luca.%282021%29.1080P-Dual-Lat-Sr_Regio_Net.mkv
+#EXTINF:-1 tvg-logo="https://media.gq.com.mx/photos/6089777c7a5da02e8a3dbf76/master/pass/original_1619620187_LUCA%20Disney+.png"group-title="PELÍCULAS", LUCA
+http://goplays.xyz:8000/movie/hugo/Hugo/147021.mkv
 
 
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/12800/12899/002_m.jpg", BEBE JEFAZO 2
+
+
+
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/12800/12899/002_m.jpg"group-title="PELÍCULAS", BEBE JEFAZO 2
 http://goplays.xyz:8000/movie/hugo/Hugo/139310.mkv
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg", TOM & JERRY 2021
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg"group-title="PELÍCULAS", TOM & JERRY 2021
 https://ipeteve.com/REGIOFLIX180721/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81LIuuULWbL._RI_.jpg" group-title="PELICULAS", EL LIMPIA PICINAS
