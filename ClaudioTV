@@ -1216,6 +1216,22 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e7ebe7e53bc0c
 http://goplays.xyz:8000/movie/hugo/Hugo/140566.mkv
 
 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Jungle_Cruise-844533737-large.jpg"group-title="PELÍCULAS", JUNGLE CRUISE
+http://goplays.xyz:8000/movie/hugo/Hugo/140584.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/12600/12608/003_m.jpg"group-title="PELÍCULAS", ESCUADRÓN SUICIDA 2
+http://goplays.xyz:8000/movie/hugo/Hugo/141375.mkv
+
+
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/30/08/10/1385971.jpg"group-title="PELÍCULAS", JOLT
+http://goplays.xyz:8000/movie/hugo/Hugo/140561.mkv
+
+
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/10/17/39/5369760.jpg"group-title="PELÍCULAS", UN LUGAR TRANQUILO 2
+http://goplays.xyz:8000/movie/hugo/Hugo/138628.mkv
 
 
 
@@ -1249,7 +1265,10 @@ https://ipeteve.com/REGIOFLIX180721/Luca.%282021%29.1080P-Dual-Lat-Sr_Regio_Net.
 
 
 #EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/12800/12899/002_m.jpg", BEBE JEFAZO 2
-https://ipeteve.com/REGIOFLIX180721/The.Boss.Baby.Family.Business.2021.%282021%29.1080P-Dual-Lat-SrRegio.NEt.mkv
+http://goplays.xyz:8000/movie/hugo/Hugo/139310.mkv
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg", TOM & JERRY 2021
