@@ -1,6 +1,6 @@
 # ClaudioTV
 
-#EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title ="ARGENTINA ", EL TRECE FHD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"group-title="ARGENTINA ", EL TRECE FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 
