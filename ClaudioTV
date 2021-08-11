@@ -394,7 +394,7 @@ http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/138464
 http://appleiptv.com:25461/0357/0357/27140
 
 
-#EXTINF:-1 tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4a8127de8f860b288b3a967452e029ca_og_dark.png"group-title=" ESPAÑA", DARK
+#EXTINF:-1 tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4a8127de8f860b288b3a967452e029ca_og_dark.png"group-title="ESPAÑA", DARK
 http://appleiptv.com:25461/0357/0357/17232
 
 
@@ -412,6 +412,65 @@ http://appleiptv.com:25461/0357/0357/17270
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png"group-title="ESPAÑA", MOVISTAR ESTRENOS
 http://appleiptv.com:25461/0357/0357/17291
+
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2017/09/La2-HD.jpg"group-title="ESPAÑA",LA 2
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/697_Hechicera_TV.png"group-title="PERU", HECHIZERA TV
+https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg"group-title="PERU", BH TV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565018162916114432/7h5k-iqC_400x400.png"group-title="PERU", JN19
+https://mediastreamm.com:3149/live/jn19tvlive.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/ame-47.jpg"group-title="NOVELAS", AMĖ
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/48d5ff6b293e8629576fdc40275ab59c0cf1d3adb2dba62cab65f313baebbc42.png"group-title="CRISTIANO", COMUNION TV
+http://appleiptv.com:25461/0357/0357/27028
+
+
+
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/CI3BrK6cDkJ4XYZRgIXJdYt3vPB4qCEWpkH_1RWA-JbU8MTMwnsMjU3_M5tXPbQMMAUgTCTJvyAIXm83EfL_AP1sZPc5s-wj1Vhyd6-Ksa4-9rOKdScSl0EDHq4"group-title="CRISTIANO", HOSSANA VISION
+http://appleiptv.com:25461/0357/0357/27020
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/82b578cbd7b464fad51c9dfea78ee0205b7889fef32d35acf45509d14a28e647.png"group-title="CRISTIANO", REFORMA TV
+https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImuv086BjtqOXoSsgw7Gmk3i227FQv8Enag&usqp=CAU"group-title="CRISTIANO", CRISTIANA TV
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTIt5Hurz27ES-CuZvEqwGuenc5Y-cSlqew&usqp=CAU"group-title="CRISTIANO", PRESENCIA TELEVISION
+https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/601919873380392960/kCqpYx5P.png"group-title="CRISTIANO", TELEFAMILIA
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
+
 
 
 
