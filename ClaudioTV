@@ -394,7 +394,7 @@ http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/138464
 http://appleiptv.com:25461/0357/0357/27140
 
 
-#EXTINF:-1 tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4a8127de8f860b288b3a967452e029ca_og_dark.png"group-title="ESPAÑA", DARK
+#EXTINF:-1 tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4a8127de8f860b288b3a967452e029ca_og_dark.png"group-title="ESPAÑA", DARK TV
 http://appleiptv.com:25461/0357/0357/17232
 
 
@@ -884,9 +884,6 @@ https://5bf8041cb3fed.streamlock.net:443/TeveVida/TeveVida/chunklist_w1065613269
 #EXTINF: -1 tvg-logo="https://vidatv.cl/img/logos/vidatv.png"group-title="CRISTIANO", VIDA TV
 http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
 
-
-EXTINF:-1 tvg-logo="https://tvcristiana.org/wp-content/uploads/2014/08/TV300X176-spirit-television.jpg"group-title="CRISTIANO", SPIRIT TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 
 #EXTINF:-1tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="CRISTIANO", EXTREMA TV
