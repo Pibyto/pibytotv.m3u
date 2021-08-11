@@ -1138,31 +1138,23 @@ http://45.55.127.106/live/unicanal.m3u8?WebM3UCL
 http://goplays.xyz:8000/hugo/Hugo/139188
 
 
-
-
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png"group-title="PARAGUAY", EL TRECE HD PARAGUAY
 https://stream.rpc.com.py/live/trece.m3u8
+
+
+
 
 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/en/4/4c/Zee_mundo_Logo.jpg"group-title="CINE Y SERIES", ZEE MUNDO TV
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 
-
-
-
-
-
 #EXTINF: -1 tvg-logo = "https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg"group-title="CINE Y SERIES", WMS HD
 https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "http://www.m3u.cl/logo/109756_Sol_TV.png", SOL TV
+#EXTINF: -1 tvg-logo = "http://www.m3u.cl/logo/109756_Sol_TV.png"group-title="CINE Y SERIES", SOL TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG.png" group-title="CINE Y SERIES", CINE JAJA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
@@ -1267,73 +1259,65 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="CINE Y SERIES ", THE WALKING DEAD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-
-
-
-
-
-#EXTINF: -1 tvg-logo = "https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title = "CINE Y SERIES", RUN: TIME
+#EXTINF: -1 tvg-logo = "https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN: TIME
 https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title = "CINE Y SERIES", RUN: TIME 2
+#EXTINF: -1 tvg-logo = "https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN: TIME 2
 https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title = "CINE Y SERIES", RUN: TIME 3
+#EXTINF: -1 tvg-logo = "https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE Y SERIES", RUN: TIME 3
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
-
-
-
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/qgYRzl1.jpg" group-title = "CINE Y SERIES", RAKUTEN DESTACADO
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/qgYRzl1.jpg" group-title="CINE Y SERIES", RAKUTEN DESTACADO
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/qgYRzl1.jpg" group-title = "CINE Y SERIES", RAKUTEN DESTACADO 2
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/qgYRzl1.jpg" group-title="CINE Y SERIES", RAKUTEN DESTACADO 2
 https://rakuten-spotlight-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/dWNxCqp.png" group-title = "CINE Y SERIES", DRAMA DE RAKUTEN TV
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/dWNxCqp.png" group-title="CINE Y SERIES", DRAMA DE RAKUTEN TV
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/dWNxCqp.png" group-title = "CINE Y SERIES", RAKUTEN TV DRAMA 2
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/dWNxCqp.png" group-title="CINE Y SERIES", RAKUTEN TV DRAMA 2
 https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
    
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/eQKFgpa.png" group-title = "CINE Y SERIES", COMEDIA DE RAKUTEN    
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/eQKFgpa.png" group-title="CINE Y SERIES", COMEDIA DE RAKUTEN    
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/eQKFgpa.png" group-title = "CINE Y SERIES", RAKUTEN COMEDIA 2
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/eQKFgpa.png" group-title="CINE Y SERIES", RAKUTEN COMEDIA 2
 https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/uMcwx2p.jpg" group-title = "CINE Y SERIES", RAKUTEN ACCION
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/uMcwx2p.jpg" group-title="CINE Y SERIES", RAKUTEN ACCION
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/uMcwx2p.jpg" group-title = "CINE Y SERIES", RAKUTEN ACCION 2
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/uMcwx2p.jpg" group-title="CINE Y SERIES", RAKUTEN ACCION 2
 https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/hboiinD.jpg" group-title = "CINE Y SERIES", RAKUTEN FAMILIA
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/hboiinD.jpg" group-title="CINE Y SERIES", RAKUTEN FAMILIA
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title = "CINE Y SERIES ", RAKUTEN TOP GRATIS
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES ", RAKUTEN TOP GRATIS
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "CINE Y SERIES", TU CINE
+#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "CINE Y SERIES", CINE REAL
+#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "CINE Y SERIES", HORRORFY
+#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", HORRORFY
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "CINE Y SERIES", JUNTOS
+#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", JUNTOS
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "CINE Y SERIES", CINE SUREÑO
+#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "CINE Y SERIES", TOP CINE
+#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "CINE Y SERIES", CHIQUILINES
+#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CHIQUILINES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 
 
