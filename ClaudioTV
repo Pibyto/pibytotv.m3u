@@ -970,7 +970,7 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1AkpM1rC75w/YGdiuKFuQzI/AAAAAAABBGg/lG-2DxIFeU8K4vxZQxqPVZ6J29Bu5ZuSgCK8BGAsYHg/s512/2021-04-02.png"group-title="CINE Y SERIES", ZPTV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.google.com/search?q=logo+de+telecreativa+lanus&oq=logo+de+telecreativa+lanus&aqs=chrome..69i57.23093j0j7&client=ms-android-motorola&sourceid=chrome-mobile&ie=UTF-8#imgrc=DInNRDuC8-8IoM"group-title="ARGENTINA", TELECREATIVA LANUS
+#EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA LANUS
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGAsYHg/s0/2020-02-05.png"group-title="CINE Y SERIES", REC ONLINE
@@ -1159,9 +1159,6 @@ https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="http://opinionglobaltv.com/wp-content/uploads/2020/06/banner.png"group-title="CINE Y SERIES", GLOBAL TV
 https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?WebM3UCL
-
-#EXTINF: -1 tvg-logo = "https://serenotv.com/wp-content/uploads/2020/09/Canal-Cadenasuper-cine-tv-en-vivo.jpg", FM 3 SUPER CINE
-https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 
 
 
