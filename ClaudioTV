@@ -997,6 +997,20 @@ https://rctvhdstream.com:8081/senalestvlive/tracks-v1a1/mono.m3u8
 https://videohd.live:19360/8062/8062.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png"group-title="COLOMBIA", CARACOL
+https://6ra8tpg8m6.azcdn107.net:8443/hls/65is893586k.m3u8?s=Ocu3V9D3y2MoVoVb2Djctg&e=1628824653
+
+#EXTINF:-1 tvg-logo="https://www.canaldhe.com/wp-content/uploads/2021/05/Favicon-DHE.png"group-title="PREMIUM", DHE
+https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYn2FYv-PU-hnPCfQCCIdhJ9AccsqJdczBow&usqp=CAU"group-title="NOVELAS", SONY COMEDIA
+https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYn2FYv-PU-hnPCfQCCIdhJ9AccsqJdczBow&usqp=CAU"group-title="NOVELAS", SONY NOVELAS
+
+
+
+
 #EXTINF: -1, TELE FAMILIA
 https://cloud2.streaminglivehd.com:1936/8116/8116/chunklist_w292255099.m3u8?WebM3UCL
 
