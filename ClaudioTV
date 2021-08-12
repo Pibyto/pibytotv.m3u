@@ -1790,30 +1790,34 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e9f001157d2e0001a
 
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Soul-557797463-mmed.jpg", SOUL
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Soul-557797463-mmed.jpg"group-title="PELÍCULAS", SOUL
 https://ipeteve.com/REGIOFLIX180721/Soul.2020.1080p-dual-lat-cinecalidad.is.mp4
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cruella-640407586-large.jpg", CRUELLA
-http://goplays.xyz:8000/movie/hugo/Hugo/136832.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cruella-640407586-large.jpg"group-title="PELÍCULAS", CRUELLA
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Mortal_Kombat-245960455-large.jpg", MORTAL KOMBAT
-http://goplays.xyz:8000/movie/hugo/Hugo/134205.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Mortal_Kombat-245960455-large.jpg"group-title="PELÍCULAS", MORTAL KOMBAT
+http://ipeteve.com/REGIOFLIX070821/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/nosomosnonos.com/wp-content/uploads/2021/07/conjuro.jpg", CONJURO 3
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/nosomosnonos.com/wp-content/uploads/2021/07/conjuro.jpg"group-title="PELÍCULAS", CONJURO 3
 https://ipeteve.com/REGIOFLIX180721/el%20conjuro%203%201080p-srregio.net.mkv
 
 
-#EXTINF:-1 tvg-logo="https://lomasflex.com/wp-content/uploads/2021/03/Ruega-por-nosotros6-1.jpg", RUEGA POR NOSOTROS
-http://goplays.xyz:8000/movie/hugo/Hugo/136518.mkv
+#EXTINF:-1 tvg-logo="https://lomasflex.com/wp-content/uploads/2021/03/Ruega-por-nosotros6-1.jpg"group-title="PELÍCULAS", RUEGA POR NOSOTROS
+http://ipeteve.com/REGIOFLIX070821/Ruega.por.nosotros.SrRegio.mkv
+
 
 
 
