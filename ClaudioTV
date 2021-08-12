@@ -653,6 +653,11 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="CULTURA", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
+#EXTINF: -1 tvg-logo = "https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title = "CULTURA", TV NATURALEZA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion= & amp; b3fa-019cb96f121b & deviceMake = Chrome & deviceModel = web & deviceType = web & deviceVersion = unknown & includeExtendedEvents = false & sid = d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c & userId = & serverSideAds = true
+
+#EXTINF: -1 tvg-logo = "https://images.pluto.tv/channels/5d8d10ce06a9665fe54bf74a/colorLogoPNG.png" group-title = "CULTURA", TV NATURALEZA 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8? 842e-ed7bad763363 & deviceMake = Chrome & deviceModel = web & deviceType = web & deviceVersion = unknown & includeExtendedEvents = false & sid = c17b587b-1c4b-4113-806a-81298e54678e & userId = & serverSideAds = true
 
 
 
@@ -1719,126 +1724,126 @@ http://ipeteve.com/REGIOFLIX070821/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.
 
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81LIuuULWbL._RI_.jpg" group-title="PELICULAS", EL LIMPIA PICINAS
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81LIuuULWbL._RI_.jpg"group-title="PELICULAS", EL LIMPIA PICINAS
 https://play-akamai.pongalo.com/el-limpia-piscinas/el-limpia-piscinas_1-1/hls_2500.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71qARkfrfFL._SL1400_.jpg" group-title="PELICULAS", JUEGO DE PATRIOTAS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71qARkfrfFL._SL1400_.jpg"group-title="PELICULAS", JUEGO DE PATRIOTAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e5d43e94698db001ab20de4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2018/05/afichebroken-city.jpg" group-title="PELICULAS", CIUDAD DE SOMBRAS
+#EXTINF:-1 tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2018/05/afichebroken-city.jpg"group-title="PELICULAS", CIUDAD DE SOMBRAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604a4960b2b870001a05d509/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/36079/36079_800x1146.jpg" group-title="PELICULAS", LA TRAMPA
+#EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/36079/36079_800x1146.jpg"group-title="PELICULAS", LA TRAMPA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604f873ee7c979001a8a84ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/85/32/99/19783257.jpg" group-title="PELICULAS", CONAN EL BÁRBARO
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/85/32/99/19783257.jpg"group-title="PELICULAS", CONAN EL BÁRBARO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e552dc95c1e25001a24f3a0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://www.tematika.com/media/catalog/Ilhsa/Imagenes/599418.jpg" group-title="PELICULAS", CRÍMENES OCULTOS
+#EXTINF:-1 tvg-logo="https://www.tematika.com/media/catalog/Ilhsa/Imagenes/599418.jpg"group-title="PELICULAS", CRÍMENES OCULTOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ed52879af4720001a0217bb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/44/82/51/448251b2634255a7186e7bec45fd2cce.jpg" group-title="PELICULAS", FUEGO CONTRA FUEGO
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/44/82/51/448251b2634255a7186e7bec45fd2cce.jpg"group-title="PELICULAS", FUEGO CONTRA FUEGO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e82be7e53bc0c65d59d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/4/40/Blitz.jpg/260px-Blitz.jpg" group-title="PELICULAS", BLITZ
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/4/40/Blitz.jpg/260px-Blitz.jpg"group-title="PELICULAS", BLITZ
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e74be7e53bc0c65d42d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/9b/65/36/9b6536dafb726196a705c0790d9318b8.jpg" group-title="PELICULAS", EL CODIGO DEL MIEDO
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/9b/65/36/9b6536dafb726196a705c0790d9318b8.jpg"group-title="PELICULAS", EL CODIGO DEL MIEDO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604f874be7c979001a8a85e0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://cinergetica.com.mx/wp-content/uploads/2011/04/poster-el-especialista.jpg" group-title="PELICULAS", EL ESPECIALISTA
+#EXTINF:-1 tvg-logo="https://cinergetica.com.mx/wp-content/uploads/2011/04/poster-el-especialista.jpg"group-title="PELICULAS", EL ESPECIALISTA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6018641b00da4e00138bfa4e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://elifilms.net/wp-content/uploads/2020/06/el-redentor.jpg" group-title="PELICULAS", EL REDENTOR
+#EXTINF:-1 tvg-logo="https://elifilms.net/wp-content/uploads/2020/06/el-redentor.jpg"group-title="PELICULAS", EL REDENTOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5efca13459900d0014d5857e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_804560-MLM42843372527_072020-W.jpg" group-title="PELICULAS", MISIÓN SECRETA
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_804560-MLM42843372527_072020-W.jpg"group-title="PELICULAS", MISIÓN SECRETA
 https://play-akamai.pongalo.com/the-double/the-double_1-1/play_v1_hls_1080p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-vVHe7GuMdbg/UP56kGssEbI/AAAAAAAACjE/vzq95C4R18Y/s400/Ara%C3%B1as+asesinas.jpg" group-title="PELICULAS", ARAÑAS ASESINAS
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-vVHe7GuMdbg/UP56kGssEbI/AAAAAAAACjE/vzq95C4R18Y/s400/Ara%C3%B1as+asesinas.jpg"group-title="PELICULAS", ARAÑAS ASESINAS
 https://prod.pongalo.com/play.m3u8?access-key=55958921be00f9bf6dc51e43ce0dedd270333cab
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/0/00/Fuerzas-especiales_2011.jpg" group-title="PELICULAS", FUERZAS ESPECIALES
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/0/00/Fuerzas-especiales_2011.jpg"group-title="PELICULAS", FUERZAS ESPECIALES
 https://content-asae1-up-2.uplynk.com/edf82040054d4c16947a3071051b1406/e.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://narcolepticos.com/wp-content/uploads/2016/12/bitva_za_sevastopol-497422607-large.jpg" group-title="PELICULAS", LA FRANCOTIRADORA
+#EXTINF:-1 tvg-logo="https://narcolepticos.com/wp-content/uploads/2016/12/bitva_za_sevastopol-497422607-large.jpg"group-title="PELICULAS", LA FRANCOTIRADORA
 https://content-asae1-up-2.uplynk.com/3f07d535dfb74f4d87d8ed7231d6c1e9/e.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/19/05/20/23/21/0629806.jpg" group-title="PELICULAS", NUESTRO HERMANO IDIOTA
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/19/05/20/23/21/0629806.jpg"group-title="PELICULAS", NUESTRO HERMANO IDIOTA
 https://content-asae1-up-1.uplynk.com/64ed971ded354f588dbec52e01caa195/e.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_949382-MLA29954007394_042019-O.jpg" group-title="PELICULAS", LA TUMBA DEL DIABLO
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_949382-MLA29954007394_042019-O.jpg"group-title="PELICULAS", LA TUMBA DEL DIABLO
 https://content-asae1-up-2.uplynk.com/5d7d9ab2473640d08b149e05f59c55ca/e.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.noimg.net/movie/cover/original/040d6bcef6ae5b7ce07da2cab7f73db8.jpg" group-title="PELICULAS", LOTOMAN 003
+#EXTINF:-1 tvg-logo="https://static.noimg.net/movie/cover/original/040d6bcef6ae5b7ce07da2cab7f73db8.jpg"group-title="PELICULAS", LOTOMAN 003
 https://content-asae1-up-2.uplynk.com/d076158c73314cd79a51f68e15dc600a/e.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/10/22/08/18/133072.jpg" group-title="PELICULAS", JUSTICIA LETAL
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/10/22/08/18/133072.jpg"group-title="PELICULAS", JUSTICIA LETAL
 https://prod.pongalo.com/play.m3u8?access-key=3fe104ce392c409a2f2136628144cc88f2aba857
 
 
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-hq7lA6SaNlA/UC1QrQ1QIfI/AAAAAAAABTk/krkKEi5KXvM/s1600/los+mercenarios.jpg" group-title="PELICULAS", LOS MERCENARIOS
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-hq7lA6SaNlA/UC1QrQ1QIfI/AAAAAAAABTk/krkKEi5KXvM/s1600/los+mercenarios.jpg"group-title="PELICULAS", LOS MERCENARIOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b91e0b2b870001a05ef6f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=640abbc8-bcc6-11eb-a4a5-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2018/05/afiche_unadiaparasobrevivir_ok.jpg" group-title="PELICULAS", UN DIA PARA SOBREVIVIR
+#EXTINF:-1 tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2018/05/afiche_unadiaparasobrevivir_ok.jpg"group-title="PELICULAS", UN DIA PARA SOBREVIVIR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b91e2b2b870001a05efa9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=07b30252-bcc8-11eb-a7d6-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51d-NzQUJYL.jpg" group-title="PELICULAS", EL CANTANTE
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51d-NzQUJYL.jpg"group-title="PELICULAS", EL CANTANTE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604b91efb2b870001a05f0d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=038427b0-bcc9-11eb-843c-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/17/14/08/011918.jpg" group-title="PELICULAS", POMPEYA
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/17/14/08/011918.jpg"group-title="PELICULAS", POMPEYA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f039302977198001a1b2b7b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=038427b0-bcc9-11eb-843c-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91O+0hEtMZL._SY445_.jpg" group-title="PELICULAS", 10.5 APOCALIPSIS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91O+0hEtMZL._SY445_.jpg"group-title="PELICULAS", 10.5 APOCALIPSIS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5fa45f496492fa001d027619/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=038427b0-bcc9-11eb-843c-0242ac110002&userId=&serverSideAds=true
 
 
 
 
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/17/10/18/00/51/4863173.jpg" group-title="PELICULAS", Mi Nombre es Jhon Lennon
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/17/10/18/00/51/4863173.jpg"group-title="PELICULAS", Mi Nombre es Jhon Lennon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7b86ace4b56900138b71e0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=3eddefe8-bcca-11eb-859f-0242ac110002&userId=&serverSideAds=true
 
 
@@ -1847,19 +1852,19 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f7b86ace4b5690013
 
 
 
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/compes/d5m1aw/jackie-chan-poster-1911-2011-d5m1aw.jpg" group-title="PELICULAS", 1911
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/compes/d5m1aw/jackie-chan-poster-1911-2011-d5m1aw.jpg"group-title="PELICULAS", 1911
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f3fd87aad190c001a52e3c8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=3eddefe8-bcca-11eb-859f-0242ac110002&userId=&serverSideAds=true
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/10200/10229/001_m.jpg" group-title="PELICULAS", VIVEN
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/10200/10229/001_m.jpg"group-title="PELICULAS", VIVEN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e6bd4d43eca94001a5949ab/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=3eddefe8-bcca-11eb-859f-0242ac110002&userId=&serverSideAds=true
 
 
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Movida_en_el_Roxbury-635096001-large.jpg" group-title="PELICULAS", NOCHES DE REVENTON
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Movida_en_el_Roxbury-635096001-large.jpg"group-title="PELICULAS", NOCHES DE REVENTON
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e9f001157d2e0001a099a81/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=3eddefe8-bcca-11eb-859f-0242ac110002&userId=&serverSideAds=true
 
 
@@ -1894,36 +1899,36 @@ http://ipeteve.com/REGIOFLIX070821/Ruega.por.nosotros.SrRegio.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://peliculashdonline.com//wp-content/uploads/2021/01/leQyp8wJtq8i4Au4RUrRvfXyGaw-214x300.jpg", VENGANZA IMPLACABLE
+#EXTINF:-1 tvg-logo="https://peliculashdonline.com//wp-content/uploads/2021/01/leQyp8wJtq8i4Au4RUrRvfXyGaw-214x300.jpg"group-title="PELÍCULAS", VENGANZA IMPLACABLE
 http://ipeteve.com/REGIOFLIX070821/Honest.thief.2020.1080srregio.net.mkv
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c4/2e/00/c42e00bc77cefc04ae0d27db474922e5.jpg", REDADA ASESINA
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c4/2e/00/c42e00bc77cefc04ae0d27db474922e5.jpg"group-title="PELÍCULAS", REDADA ASESINA
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/23/12/39/0017180.jpg", WANDER WOMAN
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/12/23/12/39/0017180.jpg"group-title="PELÍCULAS", WANDER WOMAN
 https://ipeteve.com/REGIOFLIX180721/Wonder.woman.1984.2020.1080p-dual-lat-cinecalidad.is.mp4
 
 
-#EXTINF:-1 tvg-logo="https://sm.ign.com/ign_es/movie/g/godzilla-v/godzilla-vs-king-kong_qw9s.jpg", GODZILLA VS KONG
+#EXTINF:-1 tvg-logo="https://sm.ign.com/ign_es/movie/g/godzilla-v/godzilla-vs-king-kong_qw9s.jpg"group-title="PELÍCULAS", GODZILLA VS KONG
 https://ipeteve.com/REGIOFLIX180721/g0dz1ll4.vs.k0ng.2021.hdrip.720p.latinoSrRegio.mp4
 
 
 
 
-#EXTINF: -1 tvg-logo = "https://i.pinimg.com/736x/c7/46/43/c7464314a456248362898247f97f1145.jpg" group-title = "PELICULAS", PELIGRO EN LA MONTAÑA
+#EXTINF: -1 tvg-logo = "https://i.pinimg.com/736x/c7/46/43/c7464314a456248362898247f97f1145.jpg"group-title="PELICULAS", PELIGRO EN LA MONTAÑA
 https://play-akamai.pongalo.com/braven/braven_1-1/play_v3_hls_1080p.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d86e172340a14876a148b0fcfca6edddc16c08664ae6ab84170f9acc11b0408d._UY500_UX667_RI_V_TTW_.jpg" group-title = "PELICULAS", GUERRA DE REBELDES
+#EXTINF: -1 tvg-logo = "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d86e172340a14876a148b0fcfca6edddc16c08664ae6ab84170f9acc11b0408d._UY500_UX667_RI_V_TTW_.jpg"group-title="PELICULAS", GUERRA DE REBELDES
 https://play-akamai.pongalo.com/rogue-warfare-1/rogue-warfare-1_1-1/play_v1_hls_1080p.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://1.bp.blogspot.com/-opeKdVSYqG0/XrslwM6mrVI/AAAAAAABFQs/hCLiaApvpmQ_uOXXsk6fWOBWiKYmNYfGwCK4BGAsYHg/s320/palau_.jpg" group-title = "PELICULAS", LUIS PALAU (LA PELÍCULA)
+#EXTINF: -1 tvg-logo = "https://1.bp.blogspot.com/-opeKdVSYqG0/XrslwM6mrVI/AAAAAAABFQs/hCLiaApvpmQ_uOXXsk6fWOBWiKYmNYfGwCK4BGAsYHg/s320/palau_.jpg"group-title="PELICULAS", LUIS PALAU (LA PELÍCULA)
 https://play-akamai.pongalo.com/palau/palau_1-1/hls_2500.m3u8
 
 
@@ -1931,148 +1936,148 @@ https://play-akamai.pongalo.com/palau/palau_1-1/hls_2500.m3u8
 https://play-akamai.pongalo.com/the-savior/the-savior_1-1/hls_2500.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://4.bp.blogspot.com/-s01jrzR37cM/WSylxxkbFUI/AAAAAAAAJyQ/Ratsh5oE6rkkWTMs1i8ReUqiojgCFzq6ACLcB/s1600/donde.jpg" group-title = "PELICULAS", DONDE ESTA DIOS?
+#EXTINF: -1 tvg-logo = "https://4.bp.blogspot.com/-s01jrzR37cM/WSylxxkbFUI/AAAAAAAAJyQ/Ratsh5oE6rkkWTMs1i8ReUqiojgCFzq6ACLcB/s1600/donde.jpg"group-title="PELICULAS", DONDE ESTA DIOS?
 https://play-akamai.pongalo.com/where-is-good/where-is-good_1-1/play_v1_hls_1080p.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://www.bibliatodo.com/PeliculasCristianas/wp-content/uploads/2021/02/el-sonido-del-espiritu.jpg" group-title = "PELICULAS", EL SONIDO DEL ESPÍRITU
 https://play-akamai.pongalo.com/sound-spirit/sound-spirit_1-1/play_v1_hls_1080p.m3u8
 
-#EXTINF:-1 tvg-logo = "https://i.ytimg.com/vi/S-g7kfFzx1E/maxresdefault.jpg" group-title = "PELICULAS", CONFECCIONES DE UN HIJO PRODIGO
+#EXTINF:-1 tvg-logo = "https://i.ytimg.com/vi/S-g7kfFzx1E/maxresdefault.jpg"group-title="PELICULAS", CONFECCIONES DE UN HIJO PRODIGO
 https://play-akamai.pongalo.com/confessions-prodigal-son/confessions-prodigal-son_1-1/hls_2500.m3u8
 
 
-#EXTINF:-1 tvg-logo ="https://pics.filmaffinity.com/D_as_de_ira-846276547-large.jpg" group-title = "PELICULAS", EL VENGADOR
+#EXTINF:-1 tvg-logo ="https://pics.filmaffinity.com/D_as_de_ira-846276547-large.jpg"group-title="PELICULAS", EL VENGADOR
 https://play-akamai.pongalo.com/law-abiding-citizen/law-abiding-citizen_1-1/play_v1_hls_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/1.jpg" group-title = "PELICULAS", sparta 300
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/1.jpg"group-title="PELICULAS", sparta 300
 https://ia601509.us.archive.org/32/items/nhu9tdftu/nhu9tdftu.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/2.jpg" group-title = "PELICULAS", 300 EL NACIMIENTO DE UN IMPERIO
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/2.jpg"group-title="PELICULAS", 300 EL NACIMIENTO DE UN IMPERIO
 https://ia601509.us.archive.org/32/items/nhu9tdftu/bvuwv.mp4
 
 
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/3.jpg" group-title = "PELICULAS", 211 EL GRAN ASALTO
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/3.jpg"group-title="PELICULAS", 211 EL GRAN ASALTO
 https://archive.org/download/22b4l42/211.mp4
 
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/4.jpg" group-title = "PELICULAS", 22 BALAS
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/4.jpg"group-title="PELICULAS", 22 BALAS
 https://archive.org/download/22b4l42/22%20B4L42.mp4
 
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/6.jpg" group-title = "PELICULAS", BAD BOYS
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/6.jpg"group-title="PELICULAS", BAD BOYS
 https://dl.dropbox.com/s/a9vma2z3mnh7maz/Bad.Boys._www.Hackstore.Net_.avi
 
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/7.jpg" group-title = "PELICULAS", BAD BOYS 2
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/7.jpg" group-title="PELICULAS", BAD BOYS 2
 https://dl.dropbox.com/s/l7qquygm473ze2w/BADBOYS.2.DVD.LAT.Www.Hackstore.Net.avi
 
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/9.jpg" group-title = "PELICULAS", CRACK 2 ALTO VOLTAJE
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/9.jpg" group-title="PELICULAS", CRACK 2 ALTO VOLTAJE
 https://dl.dropbox.com/s/5vmm0l7k4tmm82s/Crank.2.High.Voltage.2009.DVDRip.Latino.avi
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/11.jpg" group-title = "PELICULAS", DURO DE ESPIAR
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/11.jpg"group-title="PELICULAS", DURO DE ESPIAR
 https://dl.dropbox.com/s/51sezy2a85ge8h7/Duro%20De%20Espiar.avi
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/12.jpg" group-title = "PELICULAS", EL CUERVO 1
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/12.jpg"group-title="PELICULAS", EL CUERVO 1
 https://dl.dropbox.com/s/gk4o8m9biudgijl/3l.Cu3rvo.www.blog-peliculas.com.avi
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/13.jpg" group-title = "PELICULAS", EL DEMOLEDOR
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/13.jpg"group-title="PELICULAS", EL DEMOLEDOR
 https://ia601507.us.archive.org/10/items/bfrbc/8047575.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/15.jpg" group-title = "PELICULAS", ESCAPE DE LOS ANGELES
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/15.jpg"group-title="PELICULAS", ESCAPE DE LOS ANGELES
 https://archive.org/download/sdalogo0400x400/32C4P3%20D3%20L02%204NG3132.mkv
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/16.jpg" group-title = "PELICULAS",  ESCUADRON 6
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/16.jpg"group-title="PELICULAS",  ESCUADRON 6
 https://dl.dropbox.com/s/grzoonj9c5picqt/00200%20para.%2B.pelis.ir-_www.facebook.com_groups_PelisOnlineGoogleDrive_%20%20Ctrl%2Bc%20y%20Ctrl%2Bv.mp4%20.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/17.jpg" group-title = "PELICULAS", EL ULTIMO SAMURAI
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/17.jpg"group-title="PELICULAS", EL ULTIMO SAMURAI
 https://archive.org/download/1_20191226_20191226/1.avi
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/19.jpg" group-title = "PELICULAS", GARO EL CABALLERO DE LA NOCHE BLANCA
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/19.jpg"group-title="PELICULAS", GARO EL CABALLERO DE LA NOCHE BLANCA
 https://dl.dropbox.com/s/dwikba9j30wz21k/Garo%20%5BDVDRip%5D%5BSpanish%5D%5BFull-backup.com%5D.avi
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/20.jpg" group-title = "PELICULAS",  GHOST DOG - THE WAY OF THE SAMURAI
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/20.jpg"group-title="PELICULAS",  GHOST DOG - THE WAY OF THE SAMURAI
 https://dl.dropbox.com/s/mkrikb4phbbwgrr/Ghost%20Dog%20The%20Way%20of%20the%20Samurai.MP4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/21.jpg" group-title = "PELICULAS",  HABÍA UNA VES EN HOLLYWOOD
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/21.jpg"group-title="PELICULAS",  HABÍA UNA VES EN HOLLYWOOD
 https://archive.org/download/www.megamk.comesta720/Www.Mega-Mk.com-ESTA-720.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/22.jpg" group-title = "PELICULAS", JOHN WICK 2
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/22.jpg"group-title="PELICULAS", JOHN WICK 2
 https://archive.org/download/MOJO2019-08-22/2.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/23.jpg" group-title = "PELICULAS", JOHN WICK 3
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/23.jpg"group-title="PELICULAS", JOHN WICK 3
 https://archive.org/download/MOJO2019-08-22/3.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/24.jpg" group-title = "PELICULAS", JOHN WICK 3 ( OPCION 2 )
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/24.jpg"group-title="PELICULAS", JOHN WICK 3 ( OPCION 2 )
 http://archive.org/download/direcionaudiovisual/DIRECION%20AUDIO%20VISUAL.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/25.jpg" group-title = "PELICULAS", LUCY
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/25.jpg"group-title="PELICULAS", LUCY
 http://archive.org/download/erling44_198f_ymail3_Cubo/5.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/26.jpg" group-title = "PELICULAS", MATAR O MORIR
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/26.jpg"group-title="PELICULAS", MATAR O MORIR
 https://dl.dropbox.com/s/akcaikppg90aoje/Matar%20o%20Morir.MP4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/29.jpg" group-title = "PELICULAS", PLACA DE ACERO
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/29.jpg"group-title="PELICULAS", PLACA DE ACERO
 https://dl.dropbox.com/s/m5nm1ld2nhjhwt9/Pl4c4_d3_4c320.mkv
 
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/30.jpg" group-title = "PELICULAS", PROYECTO GENESIS
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/30.jpg"group-title="PELICULAS", PROYECTO GENESIS
 https://dl.dropbox.com/s/u5p5sc3og0cpshk/Proyecto.Geminis%20%282019%29.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/31.jpg" group-title = "PELICULAS", RAMBO 5
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/31.jpg"group-title="PELICULAS", RAMBO 5
 https://dl.dropbox.com/s/tmgkn94mg7c636n/Rambo%20V%20%282019%29.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/32.jpg" group-title = "PELICULAS", RAPIDOS Y FURIOSOS HOBB Y SHAW
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/32.jpg"group-title="PELICULAS", RAPIDOS Y FURIOSOS HOBB Y SHAW
 https://dl.dropbox.com/s/nuyvma642lp4s2o/RyF%20Hobbs%20y%20Shaw%20%282019%29.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/33.jpg" group-title = "PELICULAS", ROBOCOP 1
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/33.jpg"group-title="PELICULAS", ROBOCOP 1
 https://dl.dropbox.com/s/l7xpuqs5q6671ya/Robocop%203.mkv
 
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/34.jpg" group-title = "PELICULAS", ROBOCOP 2
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/34.jpg"group-title="PELICULAS", ROBOCOP 2
 https://dl.dropbox.com/s/jxzepelk9sx8x7v/RoboCop%202%5B1%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/35.jpg" group-title = "PELICULAS", ROBOCOP 3
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/35.jpg"group-title="PELICULAS", ROBOCOP 3
 https://dl.dropbox.com/s/q88ewbuqf41hn1j/Robocop%201.mkv
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/36.jpg" group-title = "PELICULAS", ROBOCOP ( 2014 )
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/36.jpg"group-title="PELICULAS", ROBOCOP ( 2014 )
 https://dl.dropbox.com/s/m9aw6ygx6l7bu8h/ROBOCOP.BR.LAT.Www.Hackstore.Net.mkv
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/37.jpg" group-title = "PELICULAS", ROMEO DEBE MORIR
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/37.jpg"group-title= "PELICULAS", ROMEO DEBE MORIR
 https://dl.dropbox.com/s/6tsti5af578te1s/Romeo.Must.Die.2000.BRRip.XviD.AC3.Audio.Latino.avi
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/38.jpg" group-title = "PELICULAS",  SANGRE POR SANGRE
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/38.jpg"group-title="PELICULAS",  SANGRE POR SANGRE
 https://archive.org/download/00200_20200105/00200.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/39.jpg" group-title = "PELICULAS",  SANGRE Y GLORIA
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/39.jpg"group-title="PELICULAS",  SANGRE Y GLORIA
 https://ia601507.us.archive.org/10/items/bfrbc/ovn.mp4
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/90/19/95/20085397.jpg" group-title = "PELICULAS", SHAFT
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/90/19/95/20085397.jpg"group-title="PELICULAS", SHAFT
 https://dl.dropbox.com/s/fm5wqp5twvp7o4r/Shaft%20%282019%29.mp4
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Terremoto_La_Falla_de_San_Andr_s-446016066-large.jpg" group-title = "PELICULAS", TERREMOTO LA FALLA DE SAN ANDRÉS
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Terremoto_La_Falla_de_San_Andr_s-446016066-large.jpg"group-title="PELICULAS", TERREMOTO LA FALLA DE SAN ANDRÉS
 https://archive.org/download/00100_20190920_0442/00100.avi
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Terminator_Destino_oscuro-389391587-mmed.jpg" group-title = "PELICULAS", TERMINATOR DARK FATE
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Terminator_Destino_oscuro-389391587-mmed.jpg"group-title="PELICULAS", TERMINATOR DARK FATE
 https://dl.dropbox.com/s/qlsk0w3einfqdaf/Terminator%20Destino%20Oculto.mp4
 
-#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/44.jpg" group-title = "PELICULAS", TORRENTE 1
+#EXTINF:-1 tvg-logo="https://ia601409.us.archive.org/16/items/37_20200130/44.jpg"group-title="PELICULAS", TORRENTE 1
 https://archive.org/download/multiplos_de_54/1.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/45.jpg" group-title = "PELICULAS", TORRENTE 2
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/45.jpg"group-title="PELICULAS", TORRENTE 2
 https://archive.org/download/multiplos_de_54/2.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/46.jpg" group-title = "PELICULAS", TORRENTE 3
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/46.jpg"group-title="PELICULAS", TORRENTE 3
 https://archive.org/download/multiplos_de_54/3.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/47.jpg" group-title = "PELICULAS", TORRENTE 4
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/47.jpg"group-title="PELICULAS", TORRENTE 4
 https://archive.org/download/multiplos_de_54/4.mp4
 
-#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/48.jpg" group-title = "PELICULAS", TORRENTE 5
+#EXTINF:-1 tvg-logo="https://ia801409.us.archive.org/16/items/37_20200130/48.jpg"group-title="PELICULAS", TORRENTE 5
 https://archive.org/download/multiplos_de_54/5.mp4
 
-#EXTINF: -1 tvg-logo = "https://images.moviefit.me/t/o/212932-the-huntress-rune-of-the-dead.jpg" group-title = "PELICULAS", LA CAZADORA
+#EXTINF: -1 tvg-logo = "https://images.moviefit.me/t/o/212932-the-huntress-rune-of-the-dead.jpg"group-title="PELICULAS", LA CAZADORA
 https://play-akamai.pongalo.com/huntress-rune-dead/huntress-rune-dead_1-1/play_v1_hls_1080p.m3u8
 
 
-#EXTINF: -1 tvg-logo ="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2b32aa689103fcafddb47231d61ae415214e8d393b9e2a1937f866a7eec169b0._RI_V_TTW_.jpg" group-title = "PELICULAS", CHÓFER EN APUROS
+#EXTINF: -1 tvg-logo ="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2b32aa689103fcafddb47231d61ae415214e8d393b9e2a1937f866a7eec169b0._RI_V_TTW_.jpg"group-title="PELICULAS", CHÓFER EN APUROS
 https://play-akamai.pongalo.com/amateur-night/amateur-night_1-1/play_v1_hls_1080p.m3u8
 
 
