@@ -688,9 +688,10 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.delsur.tv/images/logodelsurtv.png"group-title="ARGENTINA", DEL SUR TV
-http://51.79.83.93:9998/live/delsurtv/chunks.m3u8?nimblesessionid=3387832
+http://51.79.83.93:9998/live/delsurtv/chunks.m3u8?nimblesessionid=3387855
 
-http://51.79.83.93:9998/live/delsurtv/chunks.m3u8?nimblesessionid=3301153
+
+
 
 
 
