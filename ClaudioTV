@@ -485,6 +485,10 @@ http://appleiptv.com:25461/0357/0357/27209
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png"group-title="NOVELAS", RCN HD
 http://appleiptv.com:25461/0357/0357/27288
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrkEc5m7JDXbAdihHIiv5VJ712dR4mWIqakQ&usqp=CAU"group-title "NOVELAS", PANAMERICANA HD
+http://appleiptv.com:25461/0357/0357/27134
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png"group-title="NOVELAS", ECUAVISION HD
 http://appleiptv.com:25461/0357/0357/27304
 
