@@ -698,6 +698,41 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 http://51.79.83.93:9998/live/delsurtv/chunks.m3u8?nimblesessionid=3387855
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="DEPORTES PREMIUM", FOX SPORTS PREMIUM
+https://livestreamapis.com/v3/accounts/23200525/events/9799654/videos/225050384.m3u8?token=610b73c69b996a7db8627021654b9629&clientId=18998&timestamp=1629333339386&signature=605c4756797d80000dfb2d167eacd10e802d28d10f6dd4d6bc5cfde775bd9428bec8bfbde480d2e3700a502174e321bb
+
+
+#EXTINF:-1 tvg-logo="https://tntsports.com.ar/__export/1610632431950/sites/tntsports/arte/apps/facebook_20210114.jpg"group-title="DEPORTES PREMIUM", TNT SPORTS
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1629333189~exp=1629333789~acl=/*~hmac=e208ef42f374d84d8902d8a0169fc8bcc0537eda74926715ae6f061968f80841
+
+
+#EXTINF:-1 tvg-logo"https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES PREMIUM", ESPN
+http://y6e4pnd7j8deb.p21.rt3.io/rtp/239.1.1.11:20020/canal20020
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/dk/284289/png/284289.png"group-title="DEPORTES PREMIUM", ESPN2
+http://appleiptv.com:25461/0357/0357/28411
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="DEPORTES PREMIUM", FOX SPORTS
+http://y6e4pnd7j8deb.p21.rt3.io/rtp/239.1.1.11:20050/canal20050
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="DEPORTES PREMIUM", FOX SPORTS 2
+http://appleiptv.com:25461/0357/0357/28428
+
+
+#EXTINF:-1 tvg-logo="https://files.antena2.com/antena2/public/2020-02/win__3_0.jpg"group-title="DEPORTES PREMIUM", WIN SPORTS+
+http://y6e4pnd7j8deb.p21.rt3.io/rtp/239.1.1.11:20040/canal20040
+
+#EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png"group-title="DEPORTES PREMIUM", TUDN
+http://tvready.org:25461/23763235/36984944/11189
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/GolTVLatam-2005.png/revision/latest?cb=20200105205611&path-prefix=es"group-title="DEPORTES PREMIUM", GOL TV
+http://y6e4pnd7j8deb.p21.rt3.io/rtp/239.1.1.11:20030/canal20030
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1200px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png"group-title="DEPORTES PREMIUM", DIRECTV SPORTS 2
+http://y6e4pnd7j8deb.p21.rt3.io/rtp/239.1.1.11:20010/canal20010
 
 
 
