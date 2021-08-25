@@ -706,7 +706,10 @@ https://livestreamapis.com/v3/accounts/23200525/events/9799654/videos/225050384.
 https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1629333189~exp=1629333789~acl=/*~hmac=e208ef42f374d84d8902d8a0169fc8bcc0537eda74926715ae6f061968f80841
 
 #EXTINF:-1 tvg-logo"https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES PREMIUM", ESPN
-http://appleiptv.com:25461/0357/0357/28413
+http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/610
+
+
+
 
 #EXTINF:-1 tvg-logo"https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES PREMIUM", ESPN
 http://y6e4pnd7j8deb.p21.rt3.io/rtp/239.1.1.11:20020/canal20020
