@@ -722,7 +722,10 @@ http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/53991
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="DEPORTES PREMIUM", FOX SPORTS
-http://y6e4pnd7j8deb.p21.rt3.io/rtp/239.1.1.11:20050/canal20050
+http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/41665
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="DEPORTES PREMIUM", FOX SPORTS 2
 http://appleiptv.com:25461/0357/0357/28428
