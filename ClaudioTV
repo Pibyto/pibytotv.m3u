@@ -293,7 +293,10 @@ http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54862
 
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA ACCION SAGAS
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2547
+http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54863
+
+
+
 
 
 
@@ -304,7 +307,8 @@ http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2547
 
 
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA FANTASÍA 2
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA DISNEY FAMILY
+http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/57655
 
 
 
@@ -319,15 +323,19 @@ http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2547
 
 
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA ROMANCE
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA MARVEL
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2560
+http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/57662
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA COMIC
+http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/57653
+
+
+
 
 
 
@@ -365,8 +373,11 @@ http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/138455
 
 
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA PENNY DREADFUL
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/129361
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA HAPPY MADISON
+http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/57658
+
+
+
 
 
 
