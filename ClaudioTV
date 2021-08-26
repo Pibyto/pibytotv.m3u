@@ -699,7 +699,10 @@ http://51.79.83.93:9998/live/delsurtv/chunks.m3u8?nimblesessionid=3387855
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="DEPORTES PREMIUM", FOX SPORTS PREMIUM
-https://livestreamapis.com/v3/accounts/23200525/events/9799654/videos/225050384.m3u8?token=610b73c69b996a7db8627021654b9629&clientId=18998&timestamp=1629333339386&signature=605c4756797d80000dfb2d167eacd10e802d28d10f6dd4d6bc5cfde775bd9428bec8bfbde480d2e3700a502174e321bb
+http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54122
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://tntsports.com.ar/__export/1610632431950/sites/tntsports/arte/apps/facebook_20210114.jpg"group-title="DEPORTES PREMIUM", TNT SPORTS
