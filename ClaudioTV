@@ -246,6 +246,9 @@ h
 http://50.30.37.36:1935/live/stream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJXJ4NMb5IGVzO_RL3YF5W7HeInjdLtxfbg&usqp=CAU"group-title="CRISTIANO", RESTAURANDO VIDAS
+http://v4.tustreaming.cl:80/restaurandovidastv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/CI3BrK6cDkJ4XYZRgIXJdYt3vPB4qCEWpkH_1RWA-JbU8MTMwnsMjU3_M5tXPbQMMAUgTCTJvyAIXm83EfL_AP1sZPc5s-wj1Vhyd6-Ksa4-9rOKdScSl0EDHq4"group-title="CRISTIANO", HOSSANA VISION
 http://appleiptv.com:25461/0357/0357/27020
