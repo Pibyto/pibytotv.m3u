@@ -11,7 +11,10 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="ARGENTINA", SANTA FE CANAL
-http://playback2.akamaized.net/streams/22636012_8242619_d0c0f9ef33462f03ec02ecfc51718589_1/master.m3u8?dw=80&hdnts=exp=1638989679~acl=/streams/22636012_8242619_d0c0f9ef33462f03ec02ecfc51718589_1/master.m3u8*~hmac=89f6ab2e67a200e139b984667557f0d0add4f8dfbb923e8e66f2155589e1430a
+https://playback2.akamaized.net/streams/22636012_8242619_d0c0f9ef33462f03ec02ecfc51718589_1/exp=1639078999~acl=%2f*~data=hdntl~hmac=8c8db51fa392d1fee1621190440cc9c5a2ce031358416e9db90b29fc046f4ea3/media/22636012_8242619_d0c0f9ef33462f03ec02ecfc51718589_1@2592000pb.m3u8?dw=80&ts=1638990000
+
+
+http://playback2.akamai
 
 
 
