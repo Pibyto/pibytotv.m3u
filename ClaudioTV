@@ -14,7 +14,7 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 https://playback2.akamaized.net/streams/22636012_8242619_d0c0f9ef33462f03ec02ecfc51718589_1/exp=1639078999~acl=%2f*~data=hdntl~hmac=8c8db51fa392d1fee1621190440cc9c5a2ce031358416e9db90b29fc046f4ea3/media/22636012_8242619_d0c0f9ef33462f03ec02ecfc51718589_1@2592000pb.m3u8?dw=80&ts=1638990000
 
 
-http://playback2.akamai
+
 
 
 
@@ -105,6 +105,9 @@ https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs3Rv4CqXnF4mL0wBMgEx4MYqnKSfzibp9of4Mm9m5Jws94HpP&s"group-title="PARAGUAY", ESTACIÓN CRISTAL
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="CRISTIANO", ALTAR TV
+https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 
 
