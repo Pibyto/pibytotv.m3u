@@ -419,6 +419,11 @@ http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF: -1 tvg-logo = "https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png"group-title="CRISTIANO", UNIFE TV 25.1
 https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg" group-title="RELIGION", SOLIDARIA TV
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+
+
+
 
 #EXTINF: -1 tvg-logo = "https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg"group-title="ARGENTINA", NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
