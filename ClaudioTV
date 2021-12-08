@@ -258,7 +258,8 @@ https://videohd.live:19360/8062/8062.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImuv086BjtqOXoSsgw7Gmk3i227FQv8Enag&usqp=CAU"group-title="CRISTIANO", CRISTIANA TV
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OEvk0VqOovkB1XptvOjyc6CRR7xJ5lXHSg&usqp=CAU"group-title="CRISTIANO", VIDA TELEVISIÓN
+https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTIt5Hurz27ES-CuZvEqwGuenc5Y-cSlqew&usqp=CAU"group-title="CRISTIANO", PRESENCIA TELEVISION
