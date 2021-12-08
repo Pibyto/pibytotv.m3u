@@ -724,7 +724,7 @@ http://185.36.211.142:8080/tmp_hls/sion/index.m3u8
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/30d1686314b9687d3002429157d2ffc2ec9731796d20840586dfadf4b8edb39c.png"group-title="CRISTIANO", SOBRENATURAL TV
-https://livestreamcdn.net:444/SobrenaturalTV/SobrenaturalTV/chunklist_w1598590571.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.truli.com/sites/default/files/styles/400x225/public/canluz.jpg"group-title="CRISTIANO", CANAL LUZ
 https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
@@ -807,9 +807,6 @@ https://583ed2f226ac2.streamlock.net/49/stream/chunklist_w1954002463.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/bCx7e-bGPYwTPFT6KxtR4yU_x5gXVzF2j-I7PQH9JIYhgZmS8klk1T5GQ1T4aysxHWk=w412-h220-rw"group-title="CRISTIANO", CANAL + DE DIOS
-https://tv.tvcontrolcp.com:1936/8136/8136/chunklist_w1329414028.m3u8
-
 
 
 #EXTINF: -1 tvg-logo = "http://www.radiosublimegraciatv.com.ar/img/logo.png"group-title="CRISTIANO", SUBLIME GRACIA TV FORMOSA
@@ -845,8 +842,8 @@ https://4k-server-mia.2cdn.eu:443/NacionTV/myStream/chunklist_w292867127.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://www.manadelcielo.tv/wp-content/uploads/2021/04/LogoManatvColor-copy.png"group-title="CRISTIANO",  MANÁ DEL CIELO
-http://cvip.smhcdn.com:80/10671-live/manatvdelcielo/chunklist_w1811405131.m3u8?WebM3UCL
+#EXTINF: -1 tvg-logo="https://www.manadelcielo.tv/wp-content/uploads/2021/04/LogoManatvColor-copy.png"group-title="CRISTIANO",  MANÁ DEL CIELOhttp://cvip.smhcdn.com:80/10671-live/manatvdelcielo/chunklist_w1811405131.m3u8?WebM3UCL
+
 
 
 
