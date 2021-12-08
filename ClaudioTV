@@ -960,6 +960,8 @@ https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6
 https://cloudflare.streamgato.us:3006/live/elvivientetvlive.m3u8?WebM3UCL
 
 
+#EXTINF:-1tvg-logo="https://www.google.com/search?q=logo+png+del+canal+sion+hd+cristiano&tbm=isch&ved=2ahUKEwjhwZ6ostT0AhUDALkGHaJSDxMQ2-cCegQIABAC&oq=logo+png+del+canal+sion+hd+cristiano&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzoHCCMQ7wMQJzoKCCMQ7wMQsAIQJ1DUHFigJWC0MGgAcAB4AIABiQGIAdADkgEDMS4zmAEAoAEBwAEB&sclient=mobile-gws-wiz-img&ei=Yr6wYeGIE4OA5OUPoqW9mAE&bih=512&biw=360&client=ms-android-motorola&prmd=invx&hl=es-419#imgrc=-ujDc6ZfmQUHwM"group-title="CRISTIANO", SION HD
+http://185.36.211.142:8080/tmp_hls/sion/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/886623373614342144/TkVOFEox.jpg"group-title="CRISTIANO", DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
