@@ -102,6 +102,9 @@ https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w15
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/815/325/png-clipart-cinema-film-movie-theatre-film-poster-clapperboard.png"group-title="CRISTIANO", MovieFE
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org//tv-logo/co-oasis-tv-8294-300x225.jpg"group-title="CRISTIANO", OASIS TV CHANNEL
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?WebM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image44323995057.jpg", group-title="CRISTIANO", HOSANNAVISION
 https://1206618505.rsc.cdn77.org:443/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
