@@ -230,7 +230,7 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565018162916114432/7h5k-iqC_400x400.png"group-title="PERU", JN19
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565018162916114432/7h5k-iqC_400x400.png"group-title="CRISTIANO", JN19
 https://mediastreamm.com:3149/live/jn19tvlive.m3u8?PlaylistM3UCL
 
 
@@ -249,15 +249,8 @@ http://50.30.37.36:1935/live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJXJ4NMb5IGVzO_RL3YF5W7HeInjdLtxfbg&usqp=CAU"group-title="CRISTIANO", RESTAURANDO VIDAS
 http://v4.tustreaming.cl:80/restaurandovidastv/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/CI3BrK6cDkJ4XYZRgIXJdYt3vPB4qCEWpkH_1RWA-JbU8MTMwnsMjU3_M5tXPbQMMAUgTCTJvyAIXm83EfL_AP1sZPc5s-wj1Vhyd6-Ksa4-9rOKdScSl0EDHq4"group-title="CRISTIANO", HOSSANA VISION
-http://appleiptv.com:25461/0357/0357/27020
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/82b578cbd7b464fad51c9dfea78ee0205b7889fef32d35acf45509d14a28e647.png"group-title="CRISTIANO", REFORMA TV
-https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://victoriatvcristoviene.com/wp-content/uploads/2020/06/VictoriaTV.png"group-title="CRISTIANO", VICTORIA TV
+https://videohd.live:19360/8062/8062.m3u8?WebM3UCL
 
 
 
