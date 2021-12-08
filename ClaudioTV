@@ -713,7 +713,8 @@ https://cloudflare.streamgato.us:3006/live/elvivientetvlive.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://cristolibera.org/wp-content/uploads/2020/06/cropped-LogoAltaCalidad-2040x2040px.png"group-title="CRISTIANO",CRISTO LIBERA HD
 https://583ed2f226ac2.streamlock.net/1708/stream/playlist.m3u8?WebM3UCL
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OEvk0VqOovkB1XptvOjyc6CRR7xJ5lXHSg&usqp=CAU"group-title="CRISTIANO", VIDA TELEVISIÓN
+https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR57XN1_ueC8D1LBf5EqNblG7yvlXt9RDYu9g&usqp=CAU"group-title="CRISTIANO", SION HD
 http://185.36.211.142:8080/tmp_hls/sion/index.m3u8
