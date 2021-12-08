@@ -960,6 +960,11 @@ https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6
 https://cloudflare.streamgato.us:3006/live/elvivientetvlive.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://cristolibera.org/wp-content/uploads/2020/06/cropped-LogoAltaCalidad-2040x2040px.png"group-title="CRISTIANO",CRISTO LIBERA HD
+https://583ed2f226ac2.streamlock.net/1708/stream/playlist.m3u8?WebM3UCL
+
+
+
 #EXTINF:-1tvg-logo="https://www.google.com/search?q=logo+png+del+canal+sion+hd+cristiano&tbm=isch&ved=2ahUKEwjhwZ6ostT0AhUDALkGHaJSDxMQ2-cCegQIABAC&oq=logo+png+del+canal+sion+hd+cristiano&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzoHCCMQ7wMQJzoKCCMQ7wMQsAIQJ1DUHFigJWC0MGgAcAB4AIABiQGIAdADkgEDMS4zmAEAoAEBwAEB&sclient=mobile-gws-wiz-img&ei=Yr6wYeGIE4OA5OUPoqW9mAE&bih=512&biw=360&client=ms-android-motorola&prmd=invx&hl=es-419#imgrc=-ujDc6ZfmQUHwM"group-title="CRISTIANO", SION HD
 http://185.36.211.142:8080/tmp_hls/sion/index.m3u8
 
