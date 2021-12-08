@@ -5,7 +5,7 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/3744
+
 
 
 
@@ -14,7 +14,7 @@ http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/3744
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
-http://appleiptv.com:25461/0357/0357/27416
+
 
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-canal-7-de-jujuy.jpg"group-title="ARGENTINA", CANAL 7 JUJUY
@@ -25,56 +25,56 @@ https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playl
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA", EL NUEVE
-http://appleiptv.com:25461/0357/0357/28388
+
 
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="ARGENTINA", TELESOL SAN JUAN
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png" group-title="PREMIUM", HBO
-http://appleiptv.com:25461/0357/0357/27093
+
 
 
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png" group-title=" PREMIUM", HBO 2
-http://appleiptv.com:25461/0357/0357/28439
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title=" PREMIUM", HBO FAMILY
-http://appleiptv.com:25461/0357/0357/28440
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title=" PREMIUM", HBO PLUS
-http://appleiptv.com:25461/0357/0357/28442
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title=" PREMIUM", HBO SIGNATURE
-http://appleiptv.com:25461/0357/0357/28443
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title=" PREMIUM", HBO MUNDI
-http://appleiptv.com:25461/0357/0357/28452
+
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ld35DS2wq4o/X6Dka5mH-3I/AAAAAAAAKiU/P2kVxxBWPAcAt1Om1mm5bAlEAletILUFQCLcBGAsYHQ/w1200-h630-p-k-no-nu/HBO%2BEXTREME.png"group-title=" PREMIUM",  HBO XTREME
-http://appleiptv.com:25461/0357/0357/28451
+
 
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpwhz3-02d4c319-e35c-40d2-8e73-28064b4cb323.png"group-title=" PREMIUM",  HBO POP
-http://appleiptv.com:25461/0357/0357/28453
+
 
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title=" PREMIUM", CINECANAL
-https://qlobbidev.s.llnwi.net/bpk-tv/CINECANAL/hls/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title=" PREMIUM", AMC HD
-http://appleiptv.com:25461/0357/0357/28377
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png"group-title="ECUADOR", OROMAR HD
-http://ultraxtvextreme.com:8000/listas_MX_EC_01/4cFVG4qRWzuq/3593
+
 
 #EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png"group-title=" PARAGUAY" ,SUCESO TV
 https://59ce1298bfb98.streamlock.net:443/sucesotv/sucesotv/chunklist_w1622156069.m3u8?WebM3UCL
@@ -83,7 +83,7 @@ https://59ce1298bfb98.streamlock.net:443/sucesotv/sucesotv/chunklist_w1622156069
 http://copaco.desdeparaguay.net:1935/mitv/mitv/chunklist_w1809479909.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg"group-title="PARAGUAY", SNT HD
-http://appleiptv.com:25461/0357/0357/27368
+
 
 #EXTINF: -1tvg-logo="https://www.rcn.com.py/file/2020/08/portada_rcnmedia.png"group-title=" PARAGUAY", RCN HD
 https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
@@ -104,73 +104,73 @@ http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png"group-title=" PARAGUAY", CABLEMAS HD
-https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8
+
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png", OROMAR
-http://ultraxtvextreme.com:8000/listas_MX_EC_01/4cFVG4qRWzuq/3593
+
 
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png"group-title=" CHILE", TV MAS
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e1/c4/cc/e1c4ccb5ddad7ff35bf9e2891c97edd6.jpg"group-title="ECUADOR", UNO
-http://ultraxtvextreme.com:8000/listas_MX_EC_01/4cFVG4qRWzuq/3592
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/star-action.png"group-title=" PREMIUM", STAR ACCIÓN
-http://appleiptv.com:25461/0357/0357/28773
+
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoOscuro.png.d9d97a761b14a0c4ff5d33ca1ba17a6a.png"group-title=" PREMIUM", STAR CINEMA
-http://appleiptv.com:25461/0357/0357/28775
+
 
 
 #EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png"group-title=" PREMIUM", STAR CHANNELL
-https://qlobbidev.s.llnwi.net/bpk-tv/FOX/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png"group-title" PREMIUM", STAR LIFE
-https://qlobbidev.s.llnwi.net/bpk-tv/STARLIFE/hls/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarHits_Logo2021_FondoOscuro.png.45ae1af33adde821778a60e2d08ca43e.png"group-title=" PREMIUM", STAR HITS
-http://appleiptv.com:25461/0357/0357/28778
+
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoOscuro.png.4ad15cde8e848ef14a7b1deb71b3c4c7.png"group-title=" PREMIUM", STAR SERIES
-http://appleiptv.com:25461/0357/0357/28780
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png"group-title=" PREMIUM", GOLDEN
-http://appleiptv.com:25461/0357/0357/28786
+
 
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title=" PREMIUM", GOLDEN PLUS
-http://appleiptv.com:25461/0357/0357/28788
+
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-4.png"group-title=" PREMIUM", PARAMOUNT
-http://appleiptv.com:25461/0357/0357/28814
+
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png"group-title=" PREMIUM", CINEMAX
-http://appleiptv.com:25461/0357/0357/28394
+
 
 
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/419-4197240_en-grillas-59c2a7ee7a1a0-fxmhd-fxm-hd-logo.png"group-title=" PREMIUM", FXM
-http://appleiptv.com:25461/0357/0357/28433
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png"group-title=" PREMIUM", TNT
-http://appleiptv.com:25461/0357/0357/28833
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"group-title=" PREMIUM", TNT SERIES
-http://appleiptv.com:25461/0357/0357/28483
+
 
 
 
@@ -181,290 +181,42 @@ http://appleiptv.com:25461/0357/0357/28819
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-lxk6HVdz2ME/VgcyW0SlNNI/AAAAAAAAlMo/9-OQcQd_PdQ/s1600/TBS-logo-2015.png"group-title=" PREMIUM", TBS
-http://appleiptv.com:25461/0357/0357/28824
+
 
 
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_spt-renueva-su-marca-insignia-a-sony-channel.jpg"group-title=" PREMIUM", SONY
-http://appleiptv.com:25461/0357/0357/28818
+
 
 
 #EXTINF:-1 tvg-logo="https://futebolplayhd.com/imagens-futebol/baa62f3870d00a79cb79794f30a0a904.jpg"group-title=" PREMIUM", UNIVERSAL
-http://appleiptv.com:25461/0357/0357/28865
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png"group-title=" PREMIUM", WARNER
-http://appleiptv.com:25461/0357/0357/28868
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 1
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54866
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 2
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54867
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 3
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54868
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 4
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54870
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 5
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54871
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 6
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54872
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 7
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54873
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 8
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54874
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 9
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54875
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 10
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54876
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 11
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54877
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 12
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54878
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 13
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54880
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 14
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54880
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 15
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54881
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 16
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54882
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA PPV", CINEMA 17
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54884
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA ACCION
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54862
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA ACCION SAGAS
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54863
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA FANTASÍA 1
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA DISNEY FAMILY
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/57655
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA COMEDIA
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA MARVEL
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/57662
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA COMIC
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/57653
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA DC UNIVERSE
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/57654
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA CIENCIA FICCIÓN
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/57652
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA ARTES MARCIALES
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/138458
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA TERROR
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2564
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA HORROR
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/138455
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA HAPPY MADISON
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/57658
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA GAME OF THRONES
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/129330
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA BREAKING BAD
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/3364
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA INFANTIL
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2555
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA INFANTIL SAGAS
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2557
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA PIXAR
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/138451
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA DREAMWORKS
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/138454
-
-
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2188701.png"group-title="CINEMA 24/7", CINEMA DISNEY LIVE ACCION
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/138464
-
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png"group-title=" PERU", MOVISTAR PLUS
-http://appleiptv.com:25461/0357/0357/27140
+
 
 
 #EXTINF:-1 tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4a8127de8f860b288b3a967452e029ca_og_dark.png"group-title="ESPAÑA", DARK TV
-http://appleiptv.com:25461/0357/0357/17232
+
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png"group-title="ESPAÑA", HOLLYWOOD HD
-http://appleiptv.com:25461/0357/0357/17254
+
 
 
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png"group-title="ESPAÑA", Movistar ACCIÓN
-http://appleiptv.com:25461/0357/0357/17269
+
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905382930574446592/MkOL4EEw_400x400.jpg"group-title="ESPAÑA", MOVISTAR CINE
-http://appleiptv.com:25461/0357/0357/17270
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/M_estrenos.png"group-title="ESPAÑA", MOVISTAR ESTRENOS
-http://appleiptv.com:25461/0357/0357/17291
 
-#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2017/09/La2-HD.jpg"group-title="ESPAÑA",LA 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
 
 
 
@@ -525,58 +277,58 @@ https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/nr/284507/png/plustv-logo.png"group-title="PUERTO RICO", TVS PLUS
-http://appleiptv.com:25461/0357/0357/27162
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png"group-title="PUERTO RICO, MEGA
-http://appleiptv.com:25461/0357/0357/27209
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png"group-title="NOVELAS", RCN HD
-http://appleiptv.com:25461/0357/0357/27288
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrkEc5m7JDXbAdihHIiv5VJ712dR4mWIqakQ&usqp=CAU"group-title "NOVELAS", PANAMERICANA HD
-http://appleiptv.com:25461/0357/0357/27134
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png"group-title="NOVELAS", ECUAVISION HD
-http://appleiptv.com:25461/0357/0357/27304
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b9/e5/d5/b9e5d57aa8968f11032710a19435745f.jpg"group-title="NOVELAS", UNIMAS HD
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/2375
+
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png"group-title="PARAGUAY", TELEFUTURO
-http://appleiptv.com:25461/0357/0357/27370
+
 
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_enlace-tbn_m.png"group-title="CRISTIANO", ENLACE
-http://appleiptv.com:25461/0357/0357/27176
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png"group-title="INFANTIL", DISNEY CHANNEL
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_disney-jr_m.png"group-title="INFANTIL", DISNEY JUNIOR
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-m66zwUAoFBM/X_T87xEv56I/AAAAAAAAeNg/78xHJ9VQ5_I8X1ZKVqMv2YjO7Mk5sidRQCLcBGAsYHQ/s400/Logo%2BDisney%2BXD.jpg"group-title="INFANTIL", DISNEY XD
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/master.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FX_Turkey_logo.svg/1200px-FX_Turkey_logo.svg.png"group-title="PREMIUM", FX
-https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/455827866215649280/hBcnG2cR_400x400.jpeg"group-title="NOVELAS", UNIVISIÓN TLNOVELAS
-http://ultraxtvextreme.com:8000/listas_BR_mx_SD_HD_01/DW46KR5PWE/131156
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png"group-title="NOVELAS", UNIVISIÓN
-https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png"group-title="NOVELAS", PASIONES HD
 http://goplays.xyz:8000/hugo/Hugo/141441
@@ -616,10 +368,10 @@ https://live.canalnueve.tv/canal.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG"group-title="ARGENTINA",C5N
-http://appleiptv.com:25461/0357/0357/28384
+
 
 #EXTINF:-1 tvg-logo="https://vod.magma.qaotic.net/media/posters-live/cronica/placa_cronica2019.jpg"group-title="ARGENTINA", CRÓNICA HD
-http://appleiptv.com:25461/0357/0357/28402
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png"group-title="ARGENTINA", AMERICA TUCUMAN 
@@ -762,36 +514,36 @@ http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/621
 
 
 #EXTINF:-1 tvg-logo"https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES PREMIUM", ESPN
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/610
+
 
 
 
 
 #EXTINF:-1 tvg-logo"https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES PREMIUM", ESPN
-http://y6e4pnd7j8deb.p21.rt3.io/rtp/239.1.1.11:20020/canal20020
+
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/dk/284289/png/284289.png"group-title="DEPORTES PREMIUM", ESPN2
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/53991
+
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="DEPORTES PREMIUM", FOX SPORTS
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/41665
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="DEPORTES PREMIUM", FOX SPORTS 2
-http://appleiptv.com:25461/0357/0357/28428
+
 
 
 #EXTINF:-1 tvg-logo="https://files.antena2.com/antena2/public/2020-02/win__3_0.jpg"group-title="DEPORTES PREMIUM", WIN SPORTS+
 http://y6e4pnd7j8deb.p21.rt3.io/rtp/239.1.1.11:20040/canal20040
 
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png"group-title="DEPORTES PREMIUM", TUDN
-http://tvready.org:25461/23763235/36984944/11189
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/GolTVLatam-2005.png/revision/latest?cb=20200105205611&path-prefix=es"group-title="DEPORTES PREMIUM", GOL TV
