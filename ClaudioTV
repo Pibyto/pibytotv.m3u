@@ -106,6 +106,9 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/37/ae/ff/37aeff5fe7cc6a3964ead7e9aa1363d2.jpg"group-title="PARAGUAY", FARRA PLAY
 http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://www.ministeriointernacionalyeshuasanayrestaura.org/data/files/yeshuasanayrestaurabanner.jpg"group-title="CRISTIANO", Yeshua Sana y Restaura TV
+https://584097344c1f0.streamlock.net/1625/stream/chunklist_w1163404488.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/854px-Logotipo_de_Venevisi%C3%B3n.svg.png"group-title="CRISTIANO", V+
