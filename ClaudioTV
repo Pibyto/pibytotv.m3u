@@ -309,6 +309,9 @@ https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?Playlis
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5168d4013b97ba4d659dd9849d5a33447dda02391456067326b2eedfec9003c6.png"group-title=", CRISTIANO",  SILOE TV
+https://5fd5567570c0e.streamlock.net:443/36/stream/chunklist_w788448893.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/nr/284507/png/plustv-logo.png"group-title="PUERTO RICO", TVS PLUS
