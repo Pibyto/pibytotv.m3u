@@ -57,6 +57,8 @@ http://etvhome.com:25461/Arturo/Arturo1/13350
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title=" PREMIUM", HBO PLUS
 
 
+#EXTINF:-1 tvg-logo=""group-title="PREMIUM", PANICO HD
+http://etvhome.com:25461/Arturo/Arturo1/59607
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title=" PREMIUM", HBO SIGNATURE
 
