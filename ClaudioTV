@@ -11,6 +11,9 @@ http://etvhome.com:25461/Arturo/Arturo1/134127
 #EXTINF:-1 tvg-logo=""group-title="ARGENTINA",TyC Sports HD
 http://tv.naturalplus.live:25461/Carla/Carla123/869
 
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",FOX SPORTS PREMIUM
+http://tv.naturalplus.live:25461/Carla/Carla123/857
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="ARGENTINA", SANTA FE CANAL
 https://playback2.akamaized.net/streams/22636012_8242619_d0c0f9ef33462f03ec02ecfc51718589_1/exp=1639078999~acl=%2f*~data=hdntl~hmac=8c8db51fa392d1fee1621190440cc9c5a2ce031358416e9db90b29fc046f4ea3/media/22636012_8242619_d0c0f9ef33462f03ec02ecfc51718589_1@2592000pb.m3u8?dw=80&ts=1638990000
