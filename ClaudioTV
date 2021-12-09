@@ -750,7 +750,8 @@ https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 #EXTINF: -1 tvg-logo = "https://graph.facebook.com/radioprimaveramoquegua/picture?width=320&height=320" group-title = "CINE Y SERIES", Primavera 15 
 https://rtmp02.portalexpress.es/primaveratv/primaveratv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo=""group-title="24/7",¡CARLY
+http://tv.naturalplus.live:25461/Carla/Carla123/79
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg", MOVIES
 https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
