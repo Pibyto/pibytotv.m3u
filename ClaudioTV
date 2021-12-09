@@ -113,7 +113,7 @@ https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/815/325/png-clipart-cinema-film-movie-theatre-film-poster-clapperboard.png"group-title="CRISTIANO", MovieFE
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/815/325/png-clipart-cinema-film-movie-theatre-film-poster-clapperboard.png"group-title="CRISTIANO", MOVIE FE
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org//tv-logo/co-oasis-tv-8294-300x225.jpg"group-title="CRISTIANO", OASIS TV CHANNEL
@@ -367,6 +367,7 @@ https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_enlace-tbn_m.png"group-title="CRISTIANO", ENLACE
+http://tv.naturalplus.live:25461/Carla/Carla123/833
 
 
 
