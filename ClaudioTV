@@ -249,6 +249,33 @@ http://etvhome.com:25461/Arturo/Arturo1/13367
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDWqG5tceTx8-PkyxMPPf8Up3aRS-FsOTpYA&usqp=CAU"group-title="CRISTIANO", VIDA TV
+https://59ef525c24caa.streamlock.net/vidatv/vidatv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cc4f6816ebdb9f23095c92721dd37a8f.webp"group-title="CRISTIANO", FUENTE DE AGUA VIVA TV
+https://panel.streamingtv-mediacp.online:1936/8182/8182/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7389e1295f4b38feaa0d2b22880827e3298deaedcfd22127e89363f0dd44caa8.png"group-title="CRISTIANO", NUBEH TV
+https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w1015533371.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/ca2e3293-bb4b-4c20-928a-c9b5e47f0058/TU%20UNIVERSO%20TV%20LOGO%20NUEVO.png"group-title="CRISTIANO", TU UNIVERSO TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.canal27.org/wp-content/uploads/2019/01/logo_c27f4.png"group-title="CRISTIANO",CANAL27 EL CANAL DE LA ESPERANZA
+https://dcunilive16-lh.akamaihd.net/i/dclive_1@330503/master.m3u8?hdnea=st=1639097130~exp=1639097250~acl=/i/dclive_1@330503*~hmac=c0e1999487d40202f189dc7eeb5cfed49bf7c296a2b0f03bad56bdbccd66e116
+
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/w1600/spacehd.png"group-title=" PREMIUM", SPACE HD
 http://etvhome.com:25461/Arturo/Arturo1/27861
