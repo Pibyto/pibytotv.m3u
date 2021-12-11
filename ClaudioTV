@@ -58,6 +58,9 @@ http://etvhome.com:25461/Arturo/Arturo1/24782
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="ARGENTINA", TELESOL SAN JUAN
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",TELE DIEZ
+https://videohd.live:19360/8020/8020.m3u8?WebM3UCL
+
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png" group-title="PREMIUM", HBO
 http://etvhome.com:25461/Arturo/Arturo1/20158
