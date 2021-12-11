@@ -30,7 +30,8 @@ http://playback2.akamaized.net/streams/22636012_8242619_65017a0cd4bf7105d7df76cb
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoEmbErxc640V8CBY5gJ-XX457HFkiujM6Og&usqp=CAU"group-title="ARGENTINA", CANAL 5
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?WebM3UCL
 
-
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",EL PALOMAR TV HD
+https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?WebM3UCL
 
 
 
