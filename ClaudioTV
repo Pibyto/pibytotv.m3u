@@ -883,22 +883,17 @@ https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.truli.com/sites/default/files/styles/400x225/public/canluz.jpg"group-title="CRISTIANO", CANAL LUZ
 https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804673411460890624/hcGCdouc.jpg"group-title="CRISTIANO EVENTOS", ANTONIO BOLAINEZ (PREDICAS)
-https://redirector.googlevideo.com/videoplayback?expire=1628672156&ei=PDwTYYreJ96e8gPw57yoAg&ip=49.12.104.180&id=o-AG4NLCQQuAgnYdW_d--3tPJFiY8ruH09n28wgwgiBy0B&itag=136&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C394%2C395%2C396%2C397%2C398%2C597%2C598&source=youtube&requiressl=yes&mh=Xs&mm=31%2C26&mn=sn-4g5ednd7%2Csn-f5f7lnl7&ms=au%2Conr&mv=u&mvi=3&pl=24&vprv=1&mime=video%2Fmp4&ns=SvFvJmAEcDGx-VX1nuYfxF0G&gir=yes&clen=146183669&dur=4618.947&lmt=1589884909754706&mt=1628650072&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=MWEB&txp=5535432&n=FoSGGWVoMAHd9VkAg7l&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgLdmAa5mLdc1L6ol52HiRcXfJv1N8THH3XKypIyL8iwICIQCVIMZKTgk4b1sIzKC1dmmIUh98hpykD4mOScQHvzD2bA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRQIhAKrDrwcDpfg-J4VOxsI27XS5OuKkNEsp9oXz-6JSNj8DAiBFReSeOxq2mZSnTVC5d9IAujGzzIRRj5DG-RnaZRN0Fw%3D%3D&ratebypass=yes&utmg=ytap1_rF9NfbdvLfg
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HLtiP5cAzCI/mqdefault.jpg"group-title="CRISTIANO EVENTOS", MINISTERIO EDR MISIÓN
-https://r3---sn-uxax4vopj55gb-x1xr.googlevideo.com/videoplayback?expire=1628673217&ei=YUATYZGaL5fz1sQPm5qvoAo&ip=186.132.48.64&id=o-AKW5D7iFWxdo6BvsGGkV0zVt95CE4gnJDXfXSsK5J_F8&itag=18&source=youtube&requiressl=yes&mh=1E&mm=31%2C29&mn=sn-uxax4vopj55gb-x1xr%2Csn-x1x7zn7s&ms=au%2Crdu&mv=m&mvi=3&pl=19&initcwndbps=981250&vprv=1&mime=video%2Fmp4&ns=XatPmorhi3nBnAu7ljYgeQoG&gir=yes&clen=309594884&ratebypass=yes&dur=7200.391&lmt=1628468027013314&mt=1628651322&fvip=3&fexp=24001373%2C24007246&c=MWEB&txp=7310222&n=G3yQiuytcd2HIQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgfvpFZgIGWDe42HTyAOXzYMiP-9-8guDmT9uMOFtKwUoCIDYMi7xdmKIolkgNDcWTOJ_jrkUdmrAZwDt7xddAu2w8&sig=AOq0QJ8wRQIgHWmKZwp4TWSFHGPH7yS6pdp2Zt2HpQXaUpD_X_85LocCIQDqFK6Dg0KBdK_4HYXiXyVd0T6oeVr5bpT4APjQ03OdAw%3D%3D&cpn=fr_8cqiFU0jcPinF&cver=2.20210809.08.00&ptk=youtube_multi&oid=FxYGwAWwGcW9LfkEd_I2KQ.cP3ITKE63dpo6DUnpONHng&pltype=contentugc
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1308042960609644545/u98285CC.jpg"group-title="CRISTIANO EVENTOS", CATEDRAL DE LA FE
-https://redirector.googlevideo.com/videoplayback?expire=1627265290&ei=qsT9YJCRCoX41gK_j5yoBA&ip=49.12.104.180&id=o-ALQilejj08Fb9WJZgUOUGLA1w4wldF1UDmuPlrXCixx4&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C597%2C598&source=youtube&requiressl=yes&mh=dy&mm=31%2C26&mn=sn-4g5e6nsz%2Csn-f5f7lne6&ms=au%2Conr&mv=u&mvi=2&pl=24&vprv=1&mime=video%2Fmp4&ns=1Qh3FmOnnx2YRhd4EmTqUGYG&gir=yes&clen=333241216&dur=1394.366&lmt=1626105036011446&mt=1627242966&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=MWEB&txp=5316222&n=7fO-Cq_BXRWEft&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgd-jLYzf2ixpA4aySHOkb2g2sMxau5vmipcOMKXctO4wCIB7AtOdMW2gAFRrA5rxky4jQSu1U9sUNZlkyuv-P5GiD&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRQIhALK4vJ4xsWLSaztkv4rfkDAEvV-m0TRmzrseFM-oJD4KAiAZan2Dg9rafS8Lt9MclthKkCFFpy8xDs0zERVs-7VYMg%3D%3D&ratebypass=yes&utmg=ytap1_rLlWIBEnkAA
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/1b/6e/00/1b6e0085e5b64045a7400ac5273ce26c.jpg"group-title="PREDICAS-CRISTIANO", OMAR SAIZ
 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/1b/6e/00/1b6e0085e5b64045a7400ac5273ce26c.jpg"group-title="CRISTIANO EVENTOS", OMAR SAIZ
-https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CpgFG5TKVSpj8Qk-E2RvPqC1kzrpx1fEuoaln0zl5ZEHk1tsUs5hzSqCVoszSAosenCqagtXiIMxtY4xg5oQ6Ft7_ONShcLjfa7LG9cW7I2xgbimwwHBzLzaV5Mcu3o1oAp3yIbIIUMtHCSpkIAq_Pa27r64oZnucerZXpeFWd8ZVkSujEXUfA4t3r_3PQ7GvPiutr_fD19P0cu2S-xP_QCfiGKXRQUOlQgW7ucYvUuFY9eD2tZtpm1Jmu1KAwU_NP-UfD3HnXWWshiaoMc_kIs0u7EbgjeqosXA6vAm8E56EvmBXle7OOSIc2oGiGz8q3hXtO7byFwMJ79_8jEYIXN2T6q5yygUay7EzxFW1MMUHpClf73NQFOK1YI2L8HGL7Qo2kGRM5a-jNN4EqPz5AfhtOUXDSYCJqOGrGScQE6vWZjO9sc6G51QLtkhLMNnijfiqEmswWzBGfIjKHx5pO41m11WlouvRvXcCncmQjeHmxgqtP4HYDAr8lUWtvUtjgpMDjmF2X_G-1aSgDYt_iR6dWAJgrX20DXND6YtpKzmN_nH92UNXDGBxDHkDN86pvVdlyjXXZN4Os80NcZUwGKv7Hf4gpfnLNOS4o6WbWT-MufrTVtH8MZ07_03fj_m2cnXBIQIcILFPxuFAh7Bx4zrDoc5PlyxxOt3Lu8xum5PrEP-bOfFQOM0ZOAE8taOhr4s_-BXuIzxqYEBTmwy2slAuT-eIuUwPQnON1CJ75ey9IISSaPoop-CNCgB7g2Fe0q-oYoBkpWtl3vJ93WwpNpabBg_DK0wtqxzsEApi4Yqzjdzt9gWZyaoQN75HAzmmtAmKJ31J9yJxIn3lvRoNEhANU48ifnUnHbJLtxOzZ9p_GBqRfBzW-OlyBoMtvLw-0u18nXxCOKAIAEqCWV1LXdlc3QtMjDCAg.m3u8
+
+
 
 
 
