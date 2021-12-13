@@ -338,29 +338,6 @@ http://etvhome.com:25461/Arturo/Arturo1/127034
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png"group-title=" PERU", MOVISTAR PLUS
-
-
-
-#EXTINF:-1 tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/4a8127de8f860b288b3a967452e029ca_og_dark.png"group-title="ESPAÑA", DARK TV
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png"group-title="ESPAÑA", HOLLYWOOD HD
-
-
-
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png"group-title="ESPAÑA", Movistar ACCIÓN
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905382930574446592/MkOL4EEw_400x400.jpg"group-title="ESPAÑA", MOVISTAR CINE
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/697_Hechicera_TV.png"group-title="PERU", HECHIZERA TV
 https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3UCL
 
@@ -383,7 +360,6 @@ http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/48d5ff6b293e8629576fdc40275ab59c0cf1d3adb2dba62cab65f313baebbc42.png"group-title="CRISTIANO", COMUNION TV
-h
 http://50.30.37.36:1935/live/stream/playlist.m3u8
 
 
