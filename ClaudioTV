@@ -27,6 +27,10 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 http://tv.naturalplus.live:25461/Carla/Carla123/859
 
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-13-San-Luis-en-vivo-Online.png"group-title="ARGENTINA", CANAL 13 SAN LUIS
+https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="ARGENTINA", SANTA FE CANAL
 http://playback2.akamaized.net/streams/22636012_8242619_65017a0cd4bf7105d7df76cb0521c385_1/master.m3u8?dw=32&hdnts=exp=1639193132~acl=/streams/22636012_8242619_65017a0cd4bf7105d7df76cb0521c385_1/master.m3u8*~hmac=7399a27a9bb2602aa034bb679ad368ce16b2b6db44b188301b478659916dba4b
 
@@ -1154,7 +1158,7 @@ https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 http://177.52.221.214:8000/play/a0ew/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.png/v1/fill/w_96,h_72,al_c,q_85,usm_0.66_1.00_0.01/Mosca-1280x720_color_edited%20editado_edit.webp" group-title="INFANTIL", PEQUERADIO
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8 lo
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="INFANTIL", DUCK TV
 https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
