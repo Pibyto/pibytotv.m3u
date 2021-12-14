@@ -35,7 +35,8 @@ https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w149262164
 #EXTINF: -1 tvg-logo = "https://www.diarioelzondasj.com.ar/wp-content/uploads/2021/06/ZONDA-ISOLOGOS-GRUPO-ZONDA.png"group-title="ARGENTINA", ZONDA TV 35.1 - SAN JUAN
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA", RED VISION
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cp8Fr9Q4tYORnMmdgwkP_WYAokw1uLniiygvvvHGvt9ig51wEuAnHGeXojH3MNzjVUWR5LyADyXQzFWoqMhKhBCIaRWQQi5TgcwAp2-rT-N_0kDKo2-QlxaBpWFVo6fZrrmiasePzD846iEl9BA2Izp1MVkf7vGJTg1JUiEM1UzWgw55rouGzWdXSCuqs6lL_BpvyBYycyhuNvlCl1NhE0zlUP9aZMwTUxrzz34R3-heBjXgrr-8R2CAJZiFLTqWD2PBsmT674ljjUPWbAE11BJjEa9zzbvyrVQjz4Sc0_EOo2cA5wQC4a1guzRBlr2tFPoTZzEeVK9HO-FYr3D5M8O025O0kfrR1hljvZllh3hgd1oerj6QTvNmeMP-_pymcyLOi0WQ3sPrNI2IzC1FoxFJpmrrT4NZyIzV9iJf7NNDeXF1JC5s4w8pQu8cV3-Fc4x-sziXjBCSBVNRGTS3adttnKJ89WMhzoP6sWpHz8ST8QQ63SdLjqlszBTlt_M0AupASO7icpq2A8ht2U6nZzZ17Sh-bpGsi7RLgFNc136i0vIaKMgavQT_9wn3W1Xfi4JGSe6Zz2rab5d-piaxu3Or38JBBu4Muppj4nPn_dDOxB4r7cM7DSayVk5jVuASfPVY6til38FrbQdF1OWsN00qkxnP75P_MxqQa-xwIBmZKtjeH-Mirq9gfEivujFGKiW1CFJdhH03lD_84uFhugrXQPpvubMON6K09fzRFUzWM3QKpJTjnFwIb03aUyASP4SQLpaTlPNMUfsHTev6p7xY9lqIfL4lpKBgjAkUJytjrkUojUAfHeF9qHInsWwiF-VNmTzjBUFlEtwYbeZzES7TRZo2cjlwDjiqW8duN-c71WFkNUH9N00pkYdk9CBAcUoaDHaJazYeVvMWJVWNQyABKgl1cy1lYXN0LTIwwgI.m3u8
 
 #EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-NIJDSgSyQwI/YF4tcPPggxI/AAAAAAABA9Y/1pkfP7_eu10_moioRSqfOJpdaGgDsv2agCK8BGAsYHg/s512/2021-03-26.png"group-title="ARGENTINA", CANAL 32 SPTV SAN PEDRO
 https://srv6.zcast.com.br/sptv/sptv/playlist.m3u8
