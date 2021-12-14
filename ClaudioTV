@@ -700,18 +700,22 @@ http://etvhome.com:25461/Arturo/Arturo1/13847
 
 
 #EXTINF:-1 tvg-logo="https://files.antena2.com/antena2/public/2020-02/win__3_0.jpg"group-title="DEPORTES PREMIUM", WIN SPORTS+
-http://y6e4pnd7j8deb.p21.rt3.io/rtp/239.1.1.11:20040/canal20040
+http://etvhome.com:25461/Arturo/Arturo1/67736
+
 
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png"group-title="DEPORTES PREMIUM", TUDN
+http://etvhome.com:25461/Arturo/Arturo1/96503
 
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/GolTVLatam-2005.png/revision/latest?cb=20200105205611&path-prefix=es"group-title="DEPORTES PREMIUM", GOL TV
-http://y6e4pnd7j8deb.p21.rt3.io/rtp/239.1.1.11:20030/canal20030
+http://etvhome.com:25461/Arturo/Arturo1/81294
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1200px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png"group-title="DEPORTES PREMIUM", DIRECTV SPORTS 2
-http://y6e4pnd7j8deb.p21.rt3.io/rtp/239.1.1.11:20010/canal20010
+http://etvhome.com:25461/Arturo/Arturo1/13853
+
 
 
 
