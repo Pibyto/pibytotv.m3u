@@ -60,7 +60,7 @@ https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png"group-title="ARGENTINA", CANAL 3 PINAMAR
+#EXTINF: -1 tvg-logo = "https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 
