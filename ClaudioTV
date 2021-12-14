@@ -1868,14 +1868,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 
 
 
-#EXTINF:-1 tvg-logo="https://cinemadevoto.com.ar/static/images/poster/71.png"group-title="PELÍCULAS", NO RESPIRES 2
+#EXTINF:-1 tvg-logo="https://cinemadevoto.com.ar/static/images/poster/71.png"group-title="PELICULAS", NO RESPIRES 2
 https://s1.zplayer.live/hls/5fxc63aqwknufvsa6lru7t6cxhlhtch2xucjmu6rpc4p4ua22gpiokvcvgca/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/13/12/41/2028452.jpg"group-title="PELÍCULAS", DESPIERTA LA FURIA
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/13/12/41/2028452.jpg"group-title="PELICULAS", DESPIERTA LA FURIA
 http://ipeteve.com/REGIOFLIX070821/Justicia.Implacable.%282021%29.2021.1080P-SrRegio.Net.mkv
 
 
-#EXTINF:-1 tvg-logo="https://www.ennetflix.mx/media/15/campamento-en-el-fin-del-mundo_80218306.jpg"group-title="PELÍCULAS", CAMPAMENTO ALIENÍGENA
+#EXTINF:-1 tvg-logo="https://www.ennetflix.mx/media/15/campamento-en-el-fin-del-mundo_80218306.jpg"group-title="PELICULAS", CAMPAMENTO ALIENÍGENA
 https://drive.google.com/file/d/1kt89ek_ib2852siYLJW8bLWKn4Jhsepg/view?usp=drivesdk
 
 
@@ -1885,7 +1885,7 @@ https://drive.google.com/file/d/1kt89ek_ib2852siYLJW8bLWKn4Jhsepg/view?usp=drive
 
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_last_mercenary-647782946-large.jpg"group-title="PELÍCULAS", EL ÚLTIMO MERCENARIO
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_last_mercenary-647782946-large.jpg"group-title="PELICULAS", EL ÚLTIMO MERCENARIO
 http://ipeteve.com/REGIOFLIX070821/El.%C3%9Altimo.Mercenario.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
 
 
@@ -1898,7 +1898,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e7ebe7e53bc0c
 http://ipeteve.com/REGIOFLIX070821/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
 
 
-#EXTINF:-1 tvg-logo="https://www.accioncine.es/media/k2/items/cache/ad6bc1661008883d98ad925321e4aa69_Generic.jpg"group-title="PELÍCULAS", SIN REMORDIMIENTOS
+#EXTINF:-1 tvg-logo="https://www.accioncine.es/media/k2/items/cache/ad6bc1661008883d98ad925321e4aa69_Generic.jpg"group-title="PELICULAS", SIN REMORDIMIENTOS
 https://rr4---sn-x1x7zn7e.c.drive.google.com/videoplayback?expire=1629043364&ei=ZAIZYdi3C5mZhgbVzYK4Cw&ip=186.132.74.136&cp=QVRHQUFfUlNURVhPOmxBTzlOWlQ4ZklEZE1wQndDaEV5dENPbmJaY0R2M2tzNG1YOTRWZXFwVFk&id=253173f808020ae8&itag=18&source=webdrive&requiressl=yes&mh=9S&mm=32&mn=sn-x1x7zn7e&ms=su&mv=u&mvi=4&pl=19&sc=yes&ttl=transient&susc=dr&driveid=1EmUZyKa2_KkgN3ObhWwjq9mC2TNGO4_Q&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=6555.736&lmt=1628996197657790&mt=1629028432&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgd6PXOTJkwwh6JaSr-QDvMaYitpOiI6tdew2YsijzFjICIQDMsAdB3ZwaG5DuBR36-ztKs-qx4X5lf1j8G6k9pUsp-w==&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRAIgPTe5gMVOl_XqNixIG935PvywLaWZI1rLQSkc-BYUIKsCIEZVNF4YcH1abIJ3NHo44IfMJ7nFI657PFrLOK6JbbbY&cpn=oaQFaBdiSjzuEK7n&c=WEB_EMBEDDED_PLAYER&cver=1.20210811.1.0
 
 
@@ -1908,7 +1908,7 @@ https://rr4---sn-x1x7zn7e.c.drive.google.com/videoplayback?expire=1629043364&ei=
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/25/13/44/0609737.jpg"group-title="PELÍCULAS", LA PURGA INFINITA
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/25/13/44/0609737.jpg"group-title="PELICULAS", LA PURGA INFINITA
 http://ipeteve.com/REGIOFLIX070821/The.forever.purge.2021.1080p-dual-lat-SrRegio.Net.mkv
 
 
@@ -1916,40 +1916,40 @@ http://ipeteve.com/REGIOFLIX070821/The.forever.purge.2021.1080p-dual-lat-SrRegio
 
 
 
-#EXTINF:-1 tvg-logo="https://images.everyeye.it/img-cover/jungle-cruise-v3-17662.jpg"group-title="PELÍCULAS", JUNGLE CRUISE
+#EXTINF:-1 tvg-logo="https://images.everyeye.it/img-cover/jungle-cruise-v3-17662.jpg"group-title="PELICULAS", JUNGLE CRUISE
 http://ipeteve.com/REGIOFLIX070821/Jungle.Cruise.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/12600/12608/003_m.jpg"group-title="PELÍCULAS", ESCUADRÓN SUICIDA 2
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/12600/12608/003_m.jpg"group-title="PELICULAS", ESCUADRÓN SUICIDA 2
 http://ipeteve.com/REGIOFLIX070821/The.suicide.squad.2021.1080p-SRREGIO.NET.mkv
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/30/08/10/1385971.jpg"group-title="PELÍCULAS", JOLT
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/30/08/10/1385971.jpg"group-title="PELICULAS", JOLT
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/10/17/39/5369760.jpg"group-title="PELÍCULAS", UN LUGAR TRANQUILO 2
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/10/17/39/5369760.jpg"group-title="PELICULAS", UN LUGAR TRANQUILO 2
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/05/16/42/3751570.jpg"group-title="PELÍCULAS", SPACE JAM
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/05/16/42/3751570.jpg"group-title="PELICULAS", SPACE JAM
 http://ipeteve.com/REGIOFLIX070821/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/09/18/28/5915477.jpg"group-title="PELÍCULAS",  VIUDA NEGRA
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/09/18/28/5915477.jpg"group-title="PELICULAS",  VIUDA NEGRA
 http://ipeteve.com/REGIOFLIX070821/Black.Widow.2021.1080P-Dual-Lat-SrRegio.Net.mkv
 
 
@@ -1957,28 +1957,28 @@ http://ipeteve.com/REGIOFLIX070821/Black.Widow.2021.1080P-Dual-Lat-SrRegio.Net.m
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/26/17/45/4238572.jpg"group-title="PELÍCULAS", LA GUERRA DEL MAÑANA
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/26/17/45/4238572.jpg"group-title="PELICULAS", LA GUERRA DEL MAÑANA
 http://ipeteve.com/REGIOFLIX070821/La.Guerra.Del.Ma%C3%B1ana.%282021%29.1080P-Dual-Lat-SrRegio.Net.mkv
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/15/11/11/4656694.jpg"group-title="PELÍCULAS", NADIE
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/15/11/11/4656694.jpg"group-title="PELICULAS", NADIE
 http://ipeteve.com/REGIOFLIX070821/Nadie%20%282021%29.1080P-Dual-Lat-Sr-Regio.Net.mkv
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://media.gq.com.mx/photos/6089777c7a5da02e8a3dbf76/master/pass/original_1619620187_LUCA%20Disney+.png"group-title="PELÍCULAS", LUCA
+#EXTINF:-1 tvg-logo="https://media.gq.com.mx/photos/6089777c7a5da02e8a3dbf76/master/pass/original_1619620187_LUCA%20Disney+.png"group-title="PELICULAS", LUCA
 http://ipeteve.com/REGIOFLIX070821/Luca.%282021%29.1080P-Dual-Lat-Sr_Regio_Net.mkv
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/12800/12899/002_m.jpg"group-title="PELÍCULAS", BEBE JEFAZO 2
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/12800/12899/002_m.jpg"group-title="PELICULAS", BEBE JEFAZO 2
 http://ipeteve.com/REGIOFLIX070821/The.Boss.Baby.Family.Business.2021.%282021%29.1080P-Dual-Lat-SrRegio.NEt.mkv
 
 
@@ -1986,7 +1986,7 @@ http://ipeteve.com/REGIOFLIX070821/The.Boss.Baby.Family.Business.2021.%282021%29
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg"group-title="PELÍCULAS", TOM & JERRY 2021
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg"group-title="PELICULAS", TOM & JERRY 2021
 http://ipeteve.com/REGIOFLIX070821/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
 
 
