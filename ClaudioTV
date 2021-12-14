@@ -738,8 +738,9 @@ https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.
 https://panel.dattalive.com/8076/8076/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", MULTIVISION SALTA
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", MULTIVISION SALTA HD
+https://panel.dattalive.com:443/8250/8250/chunklist_w565155556.m3u8
+
 
 
 
