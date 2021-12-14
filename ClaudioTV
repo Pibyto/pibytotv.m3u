@@ -74,6 +74,8 @@ https://playback2.akamaized.net/streams/22636012_8242619_a49284f166e9ed824489418
 
 
 
+#EXTINF: -1, tvg-logo = "https://1.bp.blogspot.com/-0VeU4PN4004/YL0VvjfxdKI/AAAAAAABMKE/EMVJnu1pJ1ElQwY2PDVteJmxDh_z5zunwCLcBGAsYHQ/s1952/canal%2B29.jpg"group-title="ARGENTINA", 29 QUILMES
+https://inliveserver.com:1936/8386/8386/playlist.m3u8
 
 
 
@@ -175,9 +177,6 @@ http://tv.naturalplus.live:25461/Carla/Carla123/854
 http://etvhome.com:25461/Arturo/Arturo1/27683
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png"group-title="ECUADOR", OROMAR HD
-http://etvhome.com:25461/Arturo/Arturo1/13773
 
 
 #EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png"group-title=" PARAGUAY" ,SUCESO TV
@@ -442,13 +441,6 @@ https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/nr/284507/png/plustv-logo.png"group-title="PUERTO RICO", TVS PLUS
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png"group-title="PUERTO RICO, MEGA
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png"group-title="PARAGUAY", TELEFUTURO
 
@@ -564,12 +556,6 @@ http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="INTERNACIONAL", TELESUR  25.4
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png"group-title="COSTA RICA", TELESUR 
-https://59ef525c24caa.streamlock.net:443/telesur/telesur/chunklist_w2074200986.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/Ticavisi%C3%B3n-en-vivo-Online.png"group-title="COSTA RICA", TICAVISION 27 HD
-https://59ef525c24caa.streamlock.net:443/HBTV/HBTV/chunklist_w805947626.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="INTERNACIONAL", RT  25.5
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 
@@ -641,9 +627,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png"group-title="CINE Y SERIES", CINCO TV TIGRE  30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.delsur.tv/images/logodelsurtv.png"group-title="ARGENTINA", DEL SUR TV
-http://51.79.83.93:9998/live/delsurtv/chunks.m3u8?nimblesessionid=3387855
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="DEPORTES PREMIUM", FOX SPORTS PREMIUM
@@ -739,8 +722,6 @@ https://5d79ae45bc63b.streamlock.net:443/8256/8256/chunklist_w12029778.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png"group-title="CINE Y SERIES", RTV CABLE JUJUY
-https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
 #EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg"group-title="ARGENTINA", CANAL 10 SENILLOSA NEUQUEN
 https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
@@ -766,8 +747,6 @@ https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png"group-title="CINE Y SERIES", CINECLUB
 https://stmv.panel.grupolimalive.com:443/cinperu/cinperu/chunklist_w1060372831.m3u8?WebM3UCL
 
-#EXTINF: -1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_europa-europa_m.png"group-title="PREMIUM", EUROPA EUROPA
-https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/05/Tele2-Logo-1.png"group-title="CHILE", TELE WEB 2
 https://inliveserver.com:1936/11516/11516/chunklist_w2100780946.m3u8?WebM3UCL
@@ -804,9 +783,6 @@ https://rtmp02.portalexpress.es/primaveratv/primaveratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="24/7",¡CARLY
 http://tv.naturalplus.live:25461/Carla/Carla123/79
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg", MOVIES
-https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png"group-title="ARGENTINA", CALCHAQUI TV TUCUMAN
@@ -1378,8 +1354,6 @@ https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 #EXTINF: -1, tvg-logo = "http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png"group-title="CINE Y SERIES", CANAL 2 SANAGASTA
 https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/682890858618851329/MdQcRkO5_400x400.png"group-title="CINE Y SERIES", CNR JUJUY
-https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 #EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_usk3hzv4/def_height/1654/def_width/3159/version/100011/type/2/q/100"group-title="CINE Y SERIES", NUESTRA VISION
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
@@ -1440,8 +1414,6 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 #EXTINF: -1 tvg-logo = "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="CINE Y SERIES", CANAL 34
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
-#EXTINF: -1, tvg-logo = "https://1.bp.blogspot.com/-0VeU4PN4004/YL0VvjfxdKI/AAAAAAABMKE/EMVJnu1pJ1ElQwY2PDVteJmxDh_z5zunwCLcBGAsYHQ/s1952/canal%2B29.jpg"group-title="CINE Y SERIES", 29 QUILMES
-https://inliveserver.com:1936/8386/8386/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3487556435/aaae8392a11f89550187210f1a944807_400x400.jpeg"group-title="ARGENTINA", CANAL 29 ENSENADA
 https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
