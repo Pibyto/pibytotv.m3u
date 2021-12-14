@@ -1743,7 +1743,7 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="DEPORTE", FOX SPORT PREMIUM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="DEPORTES 2", FOX SPORT PREMIUM
 http://goplays.xyz:8000/hugo/Hugo/7968
 
 
@@ -1751,7 +1751,7 @@ http://goplays.xyz:8000/hugo/Hugo/7968
 
 
 
-#EXTINF:-1 tvg-logo="https://depor.com/resizer/ljDiwpd-pJv2u3D_SlYVQFqx3nc=/600x360/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/ITBQ64MBMBFMNOMH5N5RZUTA64.jpg"group-title="DEPORTE", TNT SPORTS
+#EXTINF:-1 tvg-logo="https://depor.com/resizer/ljDiwpd-pJv2u3D_SlYVQFqx3nc=/600x360/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/ITBQ64MBMBFMNOMH5N5RZUTA64.jpg"group-title="DEPORTES 2", TNT SPORTS
 http://goplays.xyz:8000/hugo/Hugo/7967
 
 
@@ -1760,90 +1760,90 @@ http://goplays.xyz:8000/hugo/Hugo/7967
 
 
 
-#EXTINF:-1 tvg-logo="https://brief.promax.org/images/uploads/tyc-sports-1.png"group-title="DEPORTE", T&C SPORTS
+#EXTINF:-1 tvg-logo="https://brief.promax.org/images/uploads/tyc-sports-1.png"group-title="DEPORTES 2", T&C SPORTS
 http://goplays.xyz:8000/hugo/Hugo/7979
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTES 2", TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="DEPORTE",  USA | BEIN SPORTS XTRA
+#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="DEPORTES 2",  USA | BEIN SPORTS XTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg" group-title="DEPORTE", CIUDAD MAGICA 105.1 FM AUSONIA 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg" group-title="DEPORTES 2", CIUDAD MAGICA 105.1 FM AUSONIA 
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT (OPCION 2) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTES 2", TyC SPORT (OPCION 2) 
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="DEPORTE", BEIN SPORTS XTRA
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="DEPORTES 2", BEIN SPORTS XTRA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTE", BEIN SPORTS XTRA Ñ
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTES 2", BEIN SPORTS XTRA Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i4.hurimg.com/i/hurriyet/75/1200x675/5e7885270f25441d1c5aabca.jpg" group-title="DEPORTE", BEIN SPORTS PREMIUM 1
+#EXTINF:-1 tvg-logo="https://i4.hurimg.com/i/hurriyet/75/1200x675/5e7885270f25441d1c5aabca.jpg" group-title="DEPORTES 2", BEIN SPORTS PREMIUM 1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i4.hurimg.com/i/hurriyet/75/1200x675/5e7885270f25441d1c5aabca.jpg" group-title="DEPORTE", BEIN SPORTS PREMIUM 2
+#EXTINF:-1 tvg-logo="https://i4.hurimg.com/i/hurriyet/75/1200x675/5e7885270f25441d1c5aabca.jpg" group-title="DEPORTES 2", BEIN SPORTS PREMIUM 2
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="DEPORTE", BEST CABLE SPORT
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="DEPORTES 2", BEST CABLE SPORT
 https://live.siete.us/bestcablesports/bestcablesports/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTE", AMERICA SPORTS
+#EXTINF:-1 group-title="DEPORTES 2", AMERICA SPORTS
 https://www.youtube.com/watch?v=1SmKEIpmcLU
 
-#EXTINF:-1 group-title="DEPORTE", HIPODROMO DE PALERMO   
+#EXTINF:-1 group-title="DEPORTES 2", HIPODROMO DE PALERMO   
 https://www.youtube.com/watch?v=OnW5qGG8fAA
 
-#EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTE", TIGO SPORTS +
+#EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="DEPORTES 2", TIGO SPORTS +
 http://l3dtv.ga:8080/steveneguez1/Kdx4sHGeft/155632
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTES 2", TyC SPORT PLAY 1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTES 2", TyC SPORT PLAY 2
 https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTES 2", TyC SPORT PLAY 3
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTES 2", TyC SPORT PLAY 4
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTES 2", TyC SPORT PLAY 5
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", TyC SPORT PLAY 6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTES 2", TyC SPORT PLAY 6
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", TNT Sports  Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTES 2", TNT Sports  Brasil
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", TNT Sports 2 Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTES 2", TNT Sports 2 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", TNT Sports 3 Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTES 2", TNT Sports 3 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", TNT Sports 4 Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTES 2", TNT Sports 4 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", TNT Sports 5 Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTES 2", TNT Sports 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
