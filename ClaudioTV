@@ -28,7 +28,8 @@ http://tv.naturalplus.live:25461/Carla/Carla123/859
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-13-San-Luis-en-vivo-Online.png"group-title="ARGENTINA", CANAL 13 SAN LUIS
-https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
+https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w1492621647_b1030144.m3u8
+
 
 
 #EXTINF: -1 tvg-logo = "https://www.diarioelzondasj.com.ar/wp-content/uploads/2021/06/ZONDA-ISOLOGOS-GRUPO-ZONDA.png"group-title="ARGENTINA", ZONDA TV 35.1 - SAN JUAN
