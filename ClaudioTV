@@ -55,10 +55,7 @@ https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 #EXTINF: -1, tvg-logo = "http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png"group-title="ARGENTINA", CANAL 2 SANAGASTA
 https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/682890858618851329/MdQcRkO5_400x400.png"group-title="ARGENTINA", CNR JUJUY
-https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA", CANAL 4 TELEAIRE
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-4-san-martn-1515.jpg"group-title="ARGENTINA", CANAL 4 TELEAIRE
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
 
