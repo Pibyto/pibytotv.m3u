@@ -58,7 +58,8 @@ https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/682890858618851329/MdQcRkO5_400x400.png"group-title="ARGENTINA", CNR JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
-
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA", CANAL 4 TELEAIRE
+https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo = "http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png"group-title="ARGENTINA", CANAL 3 PINAMAR
