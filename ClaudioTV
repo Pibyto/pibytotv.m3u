@@ -19,6 +19,20 @@ http://tv.naturalplus.live:25461/Carla/Carla123/857
 http://tv.naturalplus.live:25461/Carla/Carla123/859
 
 
+
+#EXTINF:-1 tvg-logo"https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="ARGENTINA", ESPN
+http://etvhome.com:25461/Arturo/Arturo1/36545
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/dk/284289/png/284289.png"group-title="ARGENTINA", ESPN2
+http://etvhome.com:25461/Arturo/Arturo1/28691
+
+
 #EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
 https://videohd.live:19360/8010/8010.m3u8
 
@@ -630,6 +644,7 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="DEPORTES PREMIUM", FOX SPORTS PREMIUM
+http://etvhome.com:25461/Arturo/Arturo1/13779
 http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54122
 
 
@@ -637,21 +652,23 @@ http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/54122
 
 
 #EXTINF:-1 tvg-logo="https://tntsports.com.ar/__export/1610632431950/sites/tntsports/arte/apps/facebook_20210114.jpg"group-title="DEPORTES PREMIUM", TNT SPORTS
-http://tv.iptv5latino.cl:8080/arbac/EMgOuh1E8n/621
-
-
-
-
-#EXTINF:-1 tvg-logo"https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES PREMIUM", ESPN
+http://etvhome.com:25461/Arturo/Arturo1/13403
 
 
 
 
 
 #EXTINF:-1 tvg-logo"https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES PREMIUM", ESPN
+http://etvhome.com:25461/Arturo/Arturo1/36545
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/dk/284289/png/284289.png"group-title="DEPORTES PREMIUM", ESPN2
+http://etvhome.com:25461/Arturo/Arturo1/28691
 
 
 
