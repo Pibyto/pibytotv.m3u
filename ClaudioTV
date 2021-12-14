@@ -33,7 +33,7 @@ https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w149262164
 
 
 
-#EXTINF: -1 tvg-logo =""group-title="ARGENTINA", ZONDA TV 35.1 - SAN JUAN
+#EXTINF: -1 tvg-logo ="https://www.diarioelzondasj.com.ar/wp-content/uploads/2021/04/351a.jpg"group-title="ARGENTINA", ZONDA TV 35.1 - SAN JUAN
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/dx/363618/png/363618.png"group-title="ARGENTINA", RED VISION
