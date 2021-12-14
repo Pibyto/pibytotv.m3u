@@ -31,6 +31,26 @@ http://tv.naturalplus.live:25461/Carla/Carla123/859
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
 
+#EXTINF: -1 tvg-logo = "https://www.diarioelzondasj.com.ar/wp-content/uploads/2021/06/ZONDA-ISOLOGOS-GRUPO-ZONDA.png"group-title="ARGENTINA", ZONDA TV 35.1 - SAN JUAN
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-NIJDSgSyQwI/YF4tcPPggxI/AAAAAAABA9Y/1pkfP7_eu10_moioRSqfOJpdaGgDsv2agCK8BGAsYHg/s512/2021-03-26.png"group-title="ARGENTINA", CANAL 32 SPTV SAN PEDRO
+https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/apMSrKP4Vh0-kXjo9LblAWXF1ECWRAePh4fbqp6mgqzvvafXFHzKI2uoZ2p7Og3GJb4"group-title="ARGENTINA", SPEED TV CONCORDIA
+http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
+
+
+
+
+
+#EXTINF: -1 tvg-logo = "http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png"group-title="ARGENTINA", CANAL 3 PINAMAR
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="ARGENTINA", SANTA FE CANAL
 http://playback2.akamaized.net/streams/22636012_8242619_65017a0cd4bf7105d7df76cb0521c385_1/master.m3u8?dw=32&hdnts=exp=1639193132~acl=/streams/22636012_8242619_65017a0cd4bf7105d7df76cb0521c385_1/master.m3u8*~hmac=7399a27a9bb2602aa034bb679ad368ce16b2b6db44b188301b478659916dba4b
 
@@ -440,6 +460,7 @@ http://tv.naturalplus.live:25461/Carla/Carla123/833
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_disney-jr_m.png"group-title="INFANTIL", DISNEY JUNIOR
+http://tv.naturalplus.live:25461/Carla/Carla123/660
 
 
 
