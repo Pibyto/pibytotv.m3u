@@ -33,6 +33,17 @@ http://etvhome.com:25461/Arturo/Arturo1/36545
 http://etvhome.com:25461/Arturo/Arturo1/92618
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="ARGENTINA", FOX SPORTS
+http://etvhome.com:25461/Arturo/Arturo1/13845
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="ARGENTINA", FOX SPORTS 2
+http://etvhome.com:25461/Arturo/Arturo1/13847
+
+
 
 #EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
 https://videohd.live:19360/8010/8010.m3u8
@@ -677,12 +688,14 @@ http://etvhome.com:25461/Arturo/Arturo1/28691
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="DEPORTES PREMIUM", FOX SPORTS
+http://etvhome.com:25461/Arturo/Arturo1/13845
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="DEPORTES PREMIUM", FOX SPORTS 2
+http://etvhome.com:25461/Arturo/Arturo1/13847
 
 
 
