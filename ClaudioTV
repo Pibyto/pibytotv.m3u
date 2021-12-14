@@ -33,7 +33,7 @@ https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w149262164
 
 
 
-#EXTINF: -1 tvg-logo ="https://www.diarioelzondasj.com.ar/wp-content/uploads/2021/04/351a.jpg"group-title="ARGENTINA", ZONDA TV 35.1 - SAN JUAN
+#EXTINF: -1 tvg-logo="https://www.diarioelzondasj.com.ar/wp-content/uploads/2021/04/351a.jpg"group-title="ARGENTINA", ZONDA TV 35.1 - SAN JUAN
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/dx/363618/png/363618.png"group-title="ARGENTINA", RED VISION
@@ -60,7 +60,7 @@ https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 PINAMAR
+#EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 
