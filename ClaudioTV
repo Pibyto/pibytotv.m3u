@@ -10,6 +10,20 @@ http://etvhome.com:25461/Arturo/Arturo1/134127
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1106451788104978433/lFVk_4XU_400x400.png"group-title="ARGENTINA", TV PLATA
 https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png"group-title="ARGENTINA", READY
+http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg"group-title="ARGENTINA", DANTV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png"group-title="ARGENTINA", WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+
+
+
 #EXTINF: -1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/12/CANANGATV.jpeg"group-title="ARGENTINA", CANANGA TV
 https://ss2.domint.net:3220/cana_str/canangatv/playlist.m3u8
 
