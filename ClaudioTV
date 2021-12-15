@@ -21,6 +21,12 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?nimblesessionid=62708225&fluxustv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="ARGENTINA", VALLEVISION HD
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/bellavision.jpg"group-title="ARGENTINA", BELLAVISION HD
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg"group-title="ARGENTINA",TyC Sports HD
 http://tv.naturalplus.live:25461/Carla/Carla123/869
