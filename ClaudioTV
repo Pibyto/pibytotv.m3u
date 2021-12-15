@@ -21,6 +21,10 @@ https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?Web
 https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png"group-title="ARGENTINA", CHINOLA TV
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1106451788104978433/lFVk_4XU_400x400.png"group-title="ARGENTINA", TV PLATA
 https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
 
@@ -869,10 +873,10 @@ https://rtmp02.portalexpress.es:443/acvisionazogues/acvisionazogues/chunklist_w1
 https://videohd.live:19360/8010/8010.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://graph.facebook.com/canal45television/picture?width=320&height=320" group-title = "CINE Y SERIES", Canal 45 TV
+#EXTINF: -1 tvg-logo = "https://graph.facebook.com/canal45television/picture?width=320&height=320"group-title= "CINE Y SERIES", Canal 45 TV
 https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 
-#EXTINF: -1 tvg-logo = "https://graph.facebook.com/radioprimaveramoquegua/picture?width=320&height=320" group-title = "CINE Y SERIES", Primavera 15 
+#EXTINF: -1 tvg-logo = "https://graph.facebook.com/radioprimaveramoquegua/picture?width=320&height=320"group-title= "CINE Y SERIES", Primavera 15 
 https://rtmp02.portalexpress.es/primaveratv/primaveratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="24/7",¡CARLY
