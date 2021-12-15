@@ -212,6 +212,9 @@ http://etvhome.com:25461/Arturo/Arturo1/27683
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png"group-title="PARAGUAY", TELEFUTURO HD
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=baafb2386de880ff57f95cb135dd35e161ceca0b00725591acdd76a7d621e1ab&exp=1639530366
+
 
 #EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png"group-title=" PARAGUAY" ,SUCESO TV
 https://59ce1298bfb98.streamlock.net:443/sucesotv/sucesotv/chunklist_w1622156069.m3u8?WebM3UCL
