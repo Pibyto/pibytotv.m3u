@@ -12,6 +12,11 @@ http://etvhome.com:25461/Arturo/Arturo1/134127
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
 
+#EXTINF: -1 tvg-logo="https://www.m3u.cl/logo/522_TV_MauleSur.png"group-title="ARGENTINA", TV MOULE SUR
+https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
+
+
+
 #EXTINF:-1 tvg-logo="https://www.google.com/search?q=logo+png+guaymate&tbm=isch&hl=es-419&client=ms-android-motorola&prmd=invx&sa=X&ved=2ahUKEwih-7Gg6uT0AhVUDdQKHeG6Az0Q3VZ6BAgBEAU&biw=360&bih=512#imgrc=IIejWi0HwEZvnM"group-title="ARGENTINA", GUAYMATE HD
 https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
 
@@ -26,6 +31,9 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg"group-title="ARGENTINA", DANTV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3H-woadG1FI_3msVfblzmlpoPo0eMYywNEw&usqp=CAU"group-title="ARGENTINA", TELECARIBE
+https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png"group-title="ARGENTINA", WOW
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
