@@ -7,6 +7,11 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
 http://etvhome.com:25461/Arturo/Arturo1/134127
 
+
+#EXTINF: -1 tvg-logo = "https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg"group-title="ARGENTINA", CANAL HM 
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1106451788104978433/lFVk_4XU_400x400.png"group-title="ARGENTINA", TV PLATA
 https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
 
@@ -21,6 +26,13 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png"group-title="ARGENTINA", WOW
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
+
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/836673683997483013/9xtjWyh6_400x400.jpg"group-title="ARGENTINA", MICROVISIÓN 10
+https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w955317782.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://maxtvonline.com/wp-content/uploads/2019/10/WhatsApp-Image-2019-09-26-at-15.23.42.jpeg"group-title="ARGENTINA", MAX TV
+https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/chunklist_w279047731_b2108000_sleng.m3u8?WebM3UCL
 
 
 
@@ -1168,7 +1180,7 @@ https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 
 
-m/chavotv/chavotv/chunklist_w1525710315.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="INFANTIL", GARFIELD
