@@ -21,6 +21,10 @@ https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?Web
 https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA", ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png"group-title="ARGENTINA", CHINOLA TV
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
