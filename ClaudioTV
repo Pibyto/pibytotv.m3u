@@ -10,6 +10,9 @@ http://etvhome.com:25461/Arturo/Arturo1/134127
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1106451788104978433/lFVk_4XU_400x400.png"group-title="ARGENTINA", TV PLATA
 https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/12/CANANGATV.jpeg"group-title="ARGENTINA", CANANGA TV
+https://ss2.domint.net:3220/cana_str/canangatv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo"https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-300x300.png"group-title="ARGENTINA", PELÍCULAS_MANIA
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CrEFD5eShX_xHFXgtsEMgvMkgRUzBQVziS3zo9aqmz1HFyWttL0bdAg_G3BDrzTmiVZH75gpOTqiRW8715L8iZ6e6H883fIMcNi_ThaDLanN5sYpwLETc_dAHrTc35gobwz3i0h83PeXHiTMyrLtNIW-797vMNInr3Nu5fsEsINK7IIZT7uo1wPtSvNKZd3PHSDkEHq8cijQRCcNwwNRIIO5vAbSqycWXjp4rdy6cKjoEy3kgRbheOhjxyI2mueAXd489XjPN23nzRrYuFPq7vz2UibvL3qMEXID61r0z4zN6AC0qmeWCEJlrD3u-TUwDgOB0FmLePkbRSrc6uZbgh_bwU1iWN4HGBashRiqrNdLOM0qxkHjid7qk00U6ZKUgVaYVGrVG6EXatqf0EHcSjJRPNU040Cgw_rCdc76qUYz1SeYgq6ngUvKdE_9bQ8f5ecZI0qQWRBYhH4kCf1FJppzgH8GZVAG4B8Zef6uDwXrHggHJkg8uuKjL-adkDijSRGIAtwo4BIxAMx52hz-F33RY0WGBfF7pARpU7YQiY_G6etq-BUNf0PblFIpkn4MuDKzUR4lcquTw09WuwDI63r0x1eB7LaSmSNcyokD778n4eAC2B3ls-MrL7OEBvBCKGGFNsvuxvErrBw9tbGgwHYUU5UOH4W9E9kBz-Q0v90wkVjFy48AHHuAvzCnDcJtO-ZsunHdPXF57KKefHNLRIrRJ01kurLdNhWiaAmfCgWT6pqZ5Uctk2ZrW-UrqTFCG75MnGydXXHq5o16_5wxMFnUgp6huv-DWkKiSmpzG5uF2gULCdz7f7EBrVqz2rqwkg-023DhRGwfWeX3uakqrYMxMN_sNq8IT2NTtOE8BRlNL782U4Qyr9TKc-YFKBMX-VmqNdO6C-11Fdtj4imANoQcnesaDGPM0EEvjNsjT-hfTiABKglldS13ZXN0LTIwxQI.m3u8
@@ -1099,8 +1102,6 @@ https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/playlist.m3u8
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/12/CANANGATV.jpeg"group-title="ARGENTINA", CANANGA TV
-https://ss2.domint.net:3220/cana_str/canangatv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-PkSqz6Aw_KI/WwoSzNHYAtI/AAAAAAAABmI/OjQlFpl0bTEqlXd5-MbJfYF-dJo9elBjwCLcBGAs/s320/vision%2B3000.png"group-title="CINE Y SERIES", VISIÓN 3000
 https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1268363411.m3u8
