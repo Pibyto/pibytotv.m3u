@@ -11,6 +11,12 @@ http://etvhome.com:25461/Arturo/Arturo1/134127
 #EXTINF:-1 tvg-logo"https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-300x300.png"group-title="ARGENTINA", PELÍCULAS_MANIA
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CrEFD5eShX_xHFXgtsEMgvMkgRUzBQVziS3zo9aqmz1HFyWttL0bdAg_G3BDrzTmiVZH75gpOTqiRW8715L8iZ6e6H883fIMcNi_ThaDLanN5sYpwLETc_dAHrTc35gobwz3i0h83PeXHiTMyrLtNIW-797vMNInr3Nu5fsEsINK7IIZT7uo1wPtSvNKZd3PHSDkEHq8cijQRCcNwwNRIIO5vAbSqycWXjp4rdy6cKjoEy3kgRbheOhjxyI2mueAXd489XjPN23nzRrYuFPq7vz2UibvL3qMEXID61r0z4zN6AC0qmeWCEJlrD3u-TUwDgOB0FmLePkbRSrc6uZbgh_bwU1iWN4HGBashRiqrNdLOM0qxkHjid7qk00U6ZKUgVaYVGrVG6EXatqf0EHcSjJRPNU040Cgw_rCdc76qUYz1SeYgq6ngUvKdE_9bQ8f5ecZI0qQWRBYhH4kCf1FJppzgH8GZVAG4B8Zef6uDwXrHggHJkg8uuKjL-adkDijSRGIAtwo4BIxAMx52hz-F33RY0WGBfF7pARpU7YQiY_G6etq-BUNf0PblFIpkn4MuDKzUR4lcquTw09WuwDI63r0x1eB7LaSmSNcyokD778n4eAC2B3ls-MrL7OEBvBCKGGFNsvuxvErrBw9tbGgwHYUU5UOH4W9E9kBz-Q0v90wkVjFy48AHHuAvzCnDcJtO-ZsunHdPXF57KKefHNLRIrRJ01kurLdNhWiaAmfCgWT6pqZ5Uctk2ZrW-UrqTFCG75MnGydXXHq5o16_5wxMFnUgp6huv-DWkKiSmpzG5uF2gULCdz7f7EBrVqz2rqwkg-023DhRGwfWeX3uakqrYMxMN_sNq8IT2NTtOE8BRlNL782U4Qyr9TKc-YFKBMX-VmqNdO6C-11Fdtj4imANoQcnesaDGPM0EEvjNsjT-hfTiABKglldS13ZXN0LTIwxQI.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png"group-title="ARGENTINA", PH TV
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png" group-title="ARGENTINA", TELEVISIÓN DEL ESTE
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?nimblesessionid=62708225&fluxustv.m3u8
 
@@ -267,9 +273,7 @@ http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
 https://584097344c1f0.streamlock.net/1625/stream/chunklist_w1163404488.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="24/7", CINE 2020
-http://user.tvcluboficial.com/stream/nov/nov/857.m3u8
-
+ 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/854px-Logotipo_de_Venevisi%C3%B3n.svg.png"group-title="CRISTIANO", V+
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 
@@ -287,7 +291,6 @@ https://5fd5567570c0e.streamlock.net:443/36/stream/chunklist_w788448893.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png"group-title=" PARAGUAY", CABLEMAS HD
 
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png", OROMAR
 
 
 
@@ -516,7 +519,7 @@ http://etvhome.com:25461/Arturo/Arturo1/13344
 http://tv.naturalplus.live:25461/Carla/Carla123/888
 
 
-#EXTINF:-1 tvg-logo=""group-title"24/7", CINE ACCION SAGAS
+#EXTINF:-1 tvg-logo=""group-title="24/7", CINE ACCION SAGAS
 http://user.tvcluboficial.com/stream/nov/nov/700.m3u8
 
 
