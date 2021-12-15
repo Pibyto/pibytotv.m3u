@@ -509,6 +509,9 @@ http://etvhome.com:25461/Arturo/Arturo1/13344
 http://tv.naturalplus.live:25461/Carla/Carla123/888
 
 
+#EXTINF:-1 tvg-logo=""group-title"24/7", CINE ACCION SAGAS
+http://user.tvcluboficial.com/stream/nov/nov/700.m3u8
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="24/7", CINE MARVEL
@@ -598,9 +601,6 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png"group-title="ARGENTINA", TEC TV  22.5
 https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
 
-
-#EXTINF:-1 tvg-logo=""group-title"24/7",CINE ACCION SAGAS
-http://user.tvcluboficial.com/stream/nov/nov/700.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png"group-title="ARGENTINA", CANAL ENCUENTRO  22.1
@@ -766,7 +766,8 @@ https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?Web
 https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg"group-title="PARAGUAY", LIM
-https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8?WebM3UCL
+https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8?WebM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png"group-title="CINE Y SERIES", ANTARES TV 
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1847102702.m3u8?WebM3UCL
