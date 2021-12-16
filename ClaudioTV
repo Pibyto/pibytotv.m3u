@@ -100,6 +100,14 @@ http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?nimblesessionid=62
 #EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="ARGENTINA", VALLEVISION HD
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/858/446/png-transparent-adelaide-logo-brand-outdoor-cinema-font-horror-film-text-logo-adelaide.png"group-title="ARGENTINA", HORROR 2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/858/446/png-transparent-adelaide-logo-brand-outdoor-cinema-font-horror-film-text-logo-adelaide.png"group-title="ARGENTINA", HORROR 1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b524&deviceDNT=0&deviceModel=0
+
+
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/bellavision.jpg"group-title="ARGENTINA", BELLAVISION HD
 https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
 
