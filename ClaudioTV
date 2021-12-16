@@ -54,6 +54,10 @@ https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
 
 
+#EXTINF:-1 tvg-logo="https://jarvistv.net/wp-content/uploads/2018/02/Galaxy-TV.png"group-title="ARGENTINA", GALAXY TV
+https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
+
+
 #EXTINF: -1 tvg-logo = "https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg"group-title="ARGENTINA", CANAL HM 
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
@@ -876,9 +880,6 @@ https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.m3u.cl/logo/522_TV_MauleSur.png"group-title="CINE Y SERIES", TV MOULE SUR
 https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-logo="https://jarvistv.net/wp-content/uploads/2018/02/Galaxy-TV.png"group-title="CINE Y SERIES", GALAXY TV
-https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg"group-title="PARAGUAY", LIM
 https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8?WebM3UCL
