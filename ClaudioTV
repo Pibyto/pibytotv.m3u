@@ -1770,7 +1770,9 @@ https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/uMcwx2p.jpg" group-title="PLUTO TV", RAKUTEN ACCION
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
+
+
 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/uMcwx2p.jpg" group-title="PLUTO TV", RAKUTEN ACCION 2
 https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
