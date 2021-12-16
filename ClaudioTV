@@ -114,7 +114,7 @@ https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8?WebM3UCL
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/836673683997483013/9xtjWyh6_400x400.jpg"group-title="ARGENTINA", MICROVISIÓN 10
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/836673683997483013/9xtjWyh6_400x400.jpg"group-title="ARGENTINA", MICROVISIÓN 
 https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w955317782.m3u8
 
 
@@ -122,9 +122,6 @@ https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w955317782.
 https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/chunklist_w279047731_b2108000_sleng.m3u8?WebM3UCL
 
 
-
-#EXTINF: -1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/12/CANANGATV.jpeg"group-title="ARGENTINA", CANANGA TV
-https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 
 
 
@@ -198,7 +195,8 @@ http://etvhome.com:25461/Arturo/Arturo1/13845
 http://etvhome.com:25461/Arturo/Arturo1/13847
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png"group-title="ARGENTINA",BARĆA TV
-https://streamamghdl-lh.akamaihd.net/i/0fcq6zq7g_1@149352/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1639711411~acl=%2fi%2f0fcq6zq7g_1%40149352*~data=hdntl~hmac=1e4b2c43e9a9fc767599b3401acd02e931e9e1e35f3da4803c5fc663b8f585b3
+https://streamamghdl-lh.akamaihd.net/i/0fcq6zq7g_1@149352/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1639712259~acl=%2fi%2f0fcq6zq7g_1%40149352*~data=hdntl~hmac=33e94641aa32ad7c98b130c3f873c64440fa717323fde37432d0b27c84837b93
+
 
 
 
