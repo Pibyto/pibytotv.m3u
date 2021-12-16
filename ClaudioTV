@@ -62,6 +62,10 @@ https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png"group-title="ARGENTINA", ANTARES TV 
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1847102702.m3u8?WebM3UCL
+
+
 #EXTINF:-1 tvg-logo="http://barvatvplus.com/wp-content/uploads/2020/12/PicsArt_11-24-11.04.44.png"group-title="ARGENTINA", BARVA TV
 https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 
