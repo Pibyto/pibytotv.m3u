@@ -8,6 +8,19 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 http://etvhome.com:25461/Arturo/Arturo1/134127
 
 
+#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
+https://videohd.live:19360/8010/8010.m3u8
+
+
+#EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 PINAMAR
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="ARGENTINA",MY TIME
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 
@@ -18,6 +31,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f
 
 #EXTINF: -1 tvg-logo = "https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg"group-title="ARGENTINA", CANAL HM 
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://barvatvplus.com/wp-content/uploads/2020/12/PicsArt_11-24-11.04.44.png"group-title="ARGENTINA", BARVA TV
+https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
+
 
 
 #EXTINF: -1 tvg-logo="https://www.m3u.cl/logo/522_TV_MauleSur.png"group-title="ARGENTINA", TV MOULE SUR
@@ -32,7 +50,7 @@ https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
-#EXTINF: -1 tvg-logo = "https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="ARGENTINA", RUN: TIME 3
+#EXTINF: -1 tvg-logo = "https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="ARGENTINA", RUN: TIME
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
 
@@ -93,9 +111,6 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 https://stmv.panel.grupolimalive.com:443/cinperu/cinperu/chunklist_w1060372831.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png" group-title="ARGENTINA", TELEVISIÓN DEL ESTE
-http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8?nimblesessionid=62708225&fluxustv.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="ARGENTINA", VALLEVISION HD
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
@@ -149,13 +164,6 @@ http://etvhome.com:25461/Arturo/Arturo1/13847
 
 
 
-#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
-https://videohd.live:19360/8010/8010.m3u8
-
-
-#EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo-latina-noticias.png"group-title="ARGENTINA", LATINA
 https://live-latina-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
@@ -198,10 +206,6 @@ https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-4-san-martn-1515.jpg"group-title="ARGENTINA", CANAL 4 TELEAIRE
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 PINAMAR
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 
 
@@ -652,7 +656,7 @@ http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF: -1 tvg-logo = "https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png"group-title="CRISTIANO", UNIFE TV 25.1
 https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg" group-title="CRISTIANO", SOLIDARIA TV
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg"group-title="CRISTIANO", SOLIDARIA TV
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 
