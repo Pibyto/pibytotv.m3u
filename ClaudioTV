@@ -381,6 +381,12 @@ https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="http://tvtolive.com/wp-content/uploads/Salvaci%C3%B3n-TV-tvtolive.com_.jpg"group-title="CRISTIANO",SALVACION TV
+https://stream.eleden.com:443/livesalvatv/ngrp:livesalvatv_all/chunklist_w2142339777_b700000.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image44323995057.jpg", group-title="CRISTIANO", HOSANNAVISION
 https://1206618505.rsc.cdn77.org:443/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
