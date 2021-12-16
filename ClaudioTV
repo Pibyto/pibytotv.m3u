@@ -42,6 +42,8 @@ http://tv.naturalplus.live:25461/Carla/Carla123/959
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo-latina-noticias.png"group-title="ARGENTINA", LATINA
 https://live-latina-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
 
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA", 13 HD
+http://tv.naturalplus.live:25461/Carla/Carla123/971
 
 
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="ARGENTINA",MY TIME
@@ -694,8 +696,6 @@ https://5fb24b460df87.streamlock.net:443/live-cont.ar/cinear/chunklist_w52504387
 https://r8---sn-uxax4vopj55gb-x1xr.googlevideo.com/videoplayback?expire=1627432397&ei=bVEAYdD1Fcj9wATBnrho&ip=186.132.16.43&id=ns8-5XKA0Ww.1&itag=244&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=gU&mm=44%2C29&mn=sn-uxax4vopj55gb-x1xr%2Csn-x1x7zn7s&ms=lva%2Crdu&mv=m&mvi=8&pcm2cms=yes&pl=17&hcs=%2Csd&smhost=%2Cr6---sn-x1x7zn7l.googlevideo.com&initcwndbps=998750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=pK3Mv-Dqif1YprYqGL4A7mQG&gir=yes&mt=1627410513&fvip=6&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=ebdfHJhotAxZPA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAKhk3CmNzSt1GXSl3KOSaa8owP5Aq0Lpa0S3nsx4-II_AiEAsqWY8XooJiXCKalkLwxEwOaLpYVbAGQiKAK_LwUozWA%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Chcs%2Csmhost%2Cinitcwndbps&lsig=AG3C_xAwRgIhAMZJMhxh7ruksvQZQal241IyurDJBNKwEvCsJEZCgiDZAiEAzCEnwVr5qg-V139pLv2hCagulKGwB3A7lJGQZeALQnE%3D&alr=yes&cpn=LFEc9oFFAVXRm5Bf&cver=1.20210725.0.0&sq=6538045&rn=16&rbuf=10804
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA", 13 HD
-http://tv.naturalplus.live:25461/Carla/Carla123/971
 
 
 
