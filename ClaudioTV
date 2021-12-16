@@ -39,6 +39,10 @@ https://panel.dattalive.com:443/8250/8250/chunklist_w1060032190.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Televisi%C3%B3n_Nacional_de_Chile_wordmark.svg/1200px-Televisi%C3%B3n_Nacional_de_Chile_wordmark.svg.png"group-title="ARGENTINA", TVN
 http://tv.naturalplus.live:25461/Carla/Carla123/959
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo-latina-noticias.png"group-title="ARGENTINA", LATINA
+https://live-latina-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
+
+
 
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="ARGENTINA",MY TIME
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
@@ -134,12 +138,14 @@ https://stmv.panel.grupolimalive.com:443/cinperu/cinperu/chunklist_w1060372831.m
 #EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="ARGENTINA", VALLEVISION HD
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/858/446/png-transparent-adelaide-logo-brand-outdoor-cinema-font-horror-film-text-logo-adelaide.png"group-title="ARGENTINA", HORROR 2
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/858/446/png-transparent-adelaide-logo-brand-outdoor-cinema-font-horror-film-text-logo-adelaide.png"group-title="ARGENTINA", TERROR 1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b524&deviceDNT=0&deviceModel=0
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/858/446/png-transparent-adelaide-logo-brand-outdoor-cinema-font-horror-film-text-logo-adelaide.png"group-title="ARGENTINA", TERROR 2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
 
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/858/446/png-transparent-adelaide-logo-brand-outdoor-cinema-font-horror-film-text-logo-adelaide.png"group-title="ARGENTINA", HORROR 1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b524&deviceDNT=0&deviceModel=0
 
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/bellavision.jpg"group-title="ARGENTINA", BELLAVISION HD
@@ -184,8 +190,6 @@ http://etvhome.com:25461/Arturo/Arturo1/13847
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo-latina-noticias.png"group-title="ARGENTINA", LATINA
-https://live-latina-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
 
 
 
