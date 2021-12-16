@@ -87,6 +87,9 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRipYNdXh_7w6zWtiDj4GlFbsZicQ40pfE76Q&usqp=CAU"group-title="ARGENTINA",CENTRAL TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1428128082.m3u8
+
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png"group-title="ARGENTINA", CHINOLA TV
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
