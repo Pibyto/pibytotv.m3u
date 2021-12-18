@@ -148,7 +148,8 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116087_Cine_Club.png"group-title="ARGENTINA", CINECLUB
 https://stmv.panel.grupolimalive.com:443/cinperu/cinperu/chunklist_w1060372831.m3u8?WebM3UCL
 
-
+#EXTINF:-1tvg-logo""group-title="ARGENTINA",VIVA HD
+https://www.dailymotion.com/cdn/live/video/x7u200z.m3u8?sec=P8i8n-s6VjCjdtX9P8dHA0vMwkcG4NbLaNykbBIWCqOCrcM54RAfka2upJOfjLzxohwtXDrydc0ssNFQh0aQUQ&dmTs=628962&dmV1st=91D770660EDFE6E550E853BC0F8B9F1A
 
 #EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="ARGENTINA", VALLEVISION HD
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
