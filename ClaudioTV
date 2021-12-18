@@ -358,7 +358,8 @@ https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=ba
 https://59ce1298bfb98.streamlock.net:443/sucesotv/sucesotv/chunklist_w1622156069.m3u8?WebM3UCL
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title=" PARAGUAY", MI TV
-http://copaco.desdeparaguay.net:1935/mitv/mitv/chunklist_w1809479909.m3u8?WebM3UCL
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=16c246aae504d8bd53166621eef62ed378dba7c879a776fb979bcd22aee6c239&exp=1639846091
+
 
 #EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg"group-title="PARAGUAY", SNT HD
 https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM5NjE2NTQ2LCJzZXNzaW9uIjoiMjAwLjEyMy4xNTAuMTY5Iiwid2hpdGVsaXN0IjpbIjIwMC4xMjMuMTUwLjE2OSJdfSwic2lnbmF0dXJlIjoiOWM4YmRkZjg1Yzc3YjRmZjdhNjEyMDk3ZDQxYThjOTU0MTcwMGUwYiJ9
