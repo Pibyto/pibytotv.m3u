@@ -37,7 +37,8 @@ https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w149262164
 https://panel.dattalive.com:443/8250/8250/chunklist_w1060032190.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Televisi%C3%B3n_Nacional_de_Chile_wordmark.svg/1200px-Televisi%C3%B3n_Nacional_de_Chile_wordmark.svg.png"group-title="ARGENTINA", TVN
-http://tv.naturalplus.live:25461/Carla/Carla123/959
+https://us-b4-p-e-lh9.cdn.mdstrm.com/live-stream-dai/c772e2ff710d47519accb36341713f3b/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57a498c4d7b86d600e5461cb/b7306f1e-ac1a-46f1-b713-5d3b620b4097/0.m3u8?aid=51c2f628b440bd797900051f&uid=c7rAqFJkTTCk3w1TtmiAzZg3OaaHimG9&sid=T8PFhtmRYUXAwLLH1E4goRG2P6MY7DxO&pid=iM9Ve98mgmOyzKjzB0HPZQ215MrMXvpo&ref=https%3A%2F%2Ftoken.tvn.cl%2F&without_cookies=false&dnt=true&access_token=GUbM5uWndGJpVEOvjbyIXOo9y3nMdsrOO3WNeuwg8iIgHFuN71DyfO37DsBXIa2wskE3eZuC1CZ&es=us-b4-p-e-lh9.cdn.mdstrm.com&ote=1639930986260&ot=lEJGLNert_0IOYoUT_HpvQ&proto=https&pz=us
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo-latina-noticias.png"group-title="ARGENTINA", LATINA
 https://live-latina-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
