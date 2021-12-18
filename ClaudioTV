@@ -28,7 +28,7 @@ https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?WebM3UCL
 #EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",RETROPLUS
+#EXTINF:-1 tvg-logo="https://nitter.pussthecat.org/pic/profile_images%2F1340488609623912448%2FifJLg-Oy.jpg"group-title="ARGENTINA",RETROPLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w411956702.m3u8
 
 
