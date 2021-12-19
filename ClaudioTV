@@ -424,6 +424,11 @@ http://arcast.net:1935/radio/vidaabundante.stream/playlist.m3u8
 https://shout2.brnstream.com/proxy/krge1290am?mp=/stream
 
 
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/0/74790.v12.png"group-title="RADIO", RADIOS CRISTIANAS HD
+https://stream1.305stream.com/proxy/client367?mp=/stream
+
+
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnBvdGVuY2lhd2ViLmFwcGZtbWlyb2NhX3NjcmVlbl8wXzE1NjcwMzI4NDlfMDUz/screen-0.jpg?fakeurl=1&type=.jpg"group-title="RADIO", FM MI ROCA
 http://server.laradio.online:8068/live?1639913424164
 
