@@ -429,6 +429,8 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 #EXTINF:-1, tvg-logo="https://www.923laradio.com.ar/web-ama.jpg"group-title="RADIO",  AMA92.3
 https://panel.nexolife.ar/stream/laradio923?1623598756622
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/DytbPNND3tj4HvFIqlMbZBSCOOLFjngJvnBVma04iZmU8cTnA9WZEjKaSC_0bzbMxXYpJXS4whpZGlY_9C29MgI"group-title="RADIO",VISÍON2000
+https://genexservicios.com:2000/stream/mision2000web?1640115825712
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/067fdf_03ba5db54302d380725caa3660babf71.png/v1/fill/w_491,h_245,al_c,lg_1,q_85/067fdf_03ba5db54302d380725caa3660babf71.webp"group-title="RADIO", VIDA ABUNDANTE
