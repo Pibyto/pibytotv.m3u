@@ -26,7 +26,9 @@ https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7f4ecb7c2f2357888048d013effb4c16b1b78ae96e6fc02691d64c325ae69501.png"group-title="ARGENTINA", RUN:TIME LATINO
 https://runtime-espanol-roku.amagi.tv:443/playlistR1080p.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/CINEMA-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg"group-title="ARGENTINA", CINEMA+
+https://hvtrafico.ddns.net:443/cinema720/cinema720.stream/chunklist_w1864655689.m3u8
+ 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg"group-title="ARGENTINA",UNITEL HD
 https://proxy-05.nyc.dailymotion.com/sec(4D9qlkTX-vRCFXZHYHjCmgZBow_pulwX9AZioDICmpPztOLP8O2kVIrITZH-AQmLHxiDhWkxrA9myFaQ_jaDDDvICKLCmiwogZJO3-KrdcQ)/video/067/805/494508760_mp4_h264_aac_hd.m3u8#cell=nyc
