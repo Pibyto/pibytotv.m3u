@@ -207,18 +207,18 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="ARGENTINA", CINE ROMANCE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
 
-#EXTINF: -1 tvg-logo = "https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="ARGENTINA", RUN: TIME
+#EXTINF: -1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="ARGENTINA", RUN: TIME
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "ARGENTINA", TU CINE
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="ARGENTINA", TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "ARGENTINA", CINE REAL
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="ARGENTINA", CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "ARGENTINA", TOP CINE
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="ARGENTINA", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 
