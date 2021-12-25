@@ -80,6 +80,10 @@ http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist_w365987513.m3u8?WebM3UCL
 https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/718515904204709892/_1Tf2A6o_400x400.jpg"group-title="ARGENTINA", ANZOA TV
+http://vcp1.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8?WebM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="ARGENTINA", TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
