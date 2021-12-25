@@ -528,6 +528,10 @@ https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w15
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/815/325/png-clipart-cinema-film-movie-theatre-film-poster-clapperboard.png"group-title="CRISTIANO", MOVIE FE
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp"group-title="CRISTIANO", GOSPEL MOVIE TELEVISIÓN
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?WebM3UCL
+
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org//tv-logo/co-oasis-tv-8294-300x225.jpg"group-title="CRISTIANO", OASIS TV CHANNEL
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?WebM3UCL
 
