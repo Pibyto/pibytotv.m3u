@@ -554,6 +554,9 @@ https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEma6MQx5cwh1bl6k9NYmm6842vFj7zdA9w&usqp=CAU"group-title="CRISTIANO", VOLVAMOS A DIOS TV
 https://stmv.panel.mivideo.pro/remanenteescogido/remanenteescogido/playlist.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CtuPEiRWIAAMDXI.jpg"group-title="CRISTIANO", TVCRET
+https://radiocret.net:8082/hls/tvcret.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/30d1686314b9687d3002429157d2ffc2ec9731796d20840586dfadf4b8edb39c.png"group-title="CRISTIANO", SOBRENATURAL TV
