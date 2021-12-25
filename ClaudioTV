@@ -576,8 +576,11 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/2021-12/radiopeniel-c.png"group-title="RADIO", RADIO PENIEL 98.3 FM
+http://69.175.88.11:8045/stream
 
-#EXTINF:-1, tvg-logo="https://www.923laradio.com.ar/web-ama.jpg"group-title="RADIO",  AMA92.3
+
+#EXTINF:-1, tvg-logo="https://www.923laradio.com.ar/web-ama.jpg"group-title="RADIO",  AMA 92.3 FM
 https://panel.nexolife.ar/stream/laradio923?1623598756622
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/DytbPNND3tj4HvFIqlMbZBSCOOLFjngJvnBVma04iZmU8cTnA9WZEjKaSC_0bzbMxXYpJXS4whpZGlY_9C29MgI"group-title="RADIO",VISÍON2000
