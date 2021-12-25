@@ -71,6 +71,11 @@ https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png"group-title="ARGENTINA", TVS MARACAY
+http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist_w365987513.m3u8?WebM3UCL
+
+
+
 #EXTINF: -1 tvg-logo = "https://albardontv.com.ar/wp-content/uploads/2020/02/1.png"group-title="ARGENTINA", ALBARDON TV SAN JUAN
 https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
