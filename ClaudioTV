@@ -563,6 +563,9 @@ https://stmv.panel.mivideo.pro/remanenteescogido/remanenteescogido/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CtuPEiRWIAAMDXI.jpg"group-title="CRISTIANO", TVCRET
 https://radiocret.net:8082/hls/tvcret.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://www.canaljesustv.com/wp-content/uploads/2017/01/02-Anunciando-la-buena-nueva.jpg"group-title="CRISTIANO", JESÚS TV
+https://cloudflare.streamgato.us:3037/live/jesustvlive.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/30d1686314b9687d3002429157d2ffc2ec9731796d20840586dfadf4b8edb39c.png"group-title="CRISTIANO", SOBRENATURAL TV
