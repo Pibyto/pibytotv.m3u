@@ -76,7 +76,7 @@ https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
 
 
-#EXTINF: -1 tvg-logo = "https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/ Canela.TV_190x190_circle.jpg? Raw = true "group-title ="ARGENTINA", CANELA TV 
+#EXTINF: -1 tvg-logo = "https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/ Canela.TV_190x190_circle.jpg"group-title ="ARGENTINA", CANELA TV 
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app. plex & gdpr = 0 & device_make = Windows & device_model = Opera & coppa = 0 & us_privacy = 1 ---
 
 
@@ -175,7 +175,7 @@ https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
 
-#EXTINF: -1 tvg-logo = "http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg" group-title = "ARGENTINA", TVS 
+#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg"group-title="ARGENTINA", TVS 
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 
 
