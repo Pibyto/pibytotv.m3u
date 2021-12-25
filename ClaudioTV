@@ -38,10 +38,6 @@ https://runtime-espanol-roku.amagi.tv:443/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/CINEMA-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg"group-title="ARGENTINA", CINEMA+
 https://hvtrafico.ddns.net:443/cinema720/cinema720.stream/chunklist_w1864655689.m3u8
  
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg"group-title="ARGENTINA",UNITEL HD
-https://proxy-05.nyc.dailymotion.com/sec(4D9qlkTX-vRCFXZHYHjCmgZBow_pulwX9AZioDICmpPztOLP8O2kVIrITZH-AQmLHxiDhWkxrA9myFaQ_jaDDDvICKLCmiwogZJO3-KrdcQ)/video/067/805/494508760_mp4_h264_aac_hd.m3u8#cell=nyc
-
 #EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
@@ -101,9 +97,6 @@ https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://jarvistv.net/wp-content/uploads/2018/02/Galaxy-TV.png"group-title="ARGENTINA", GALAXY TV
-https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
-
 
 #EXTINF: -1 tvg-logo = "https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg"group-title="ARGENTINA", CANAL HM 
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
@@ -141,9 +134,6 @@ https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRipYNdXh_7w6zWtiDj4GlFbsZicQ40pfE76Q&usqp=CAU"group-title="ARGENTINA",CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1428128082.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Willax_Televisi%C3%B3n_2020.png"group-title="ARGENTINA",WILLAX
-https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA0fkqdPAykAzbdIdEgjnfhT8JAf0mduWEQYs86IykxfwxOgvIYbAUXaACIai55ZK7Nw&dmTs=628962&dmV1st=91D770660EDFE6E550E853BC0F8B9F1A
-
 
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png"group-title="ARGENTINA", CHINOLA TV
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
@@ -176,10 +166,6 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w955317782.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://maxtvonline.com/wp-content/uploads/2019/10/WhatsApp-Image-2019-09-26-at-15.23.42.jpeg"group-title="ARGENTINA", MAX TV
-https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/chunklist_w279047731_b2108000_sleng.m3u8?WebM3UCL
-
-
 
 
 
@@ -192,13 +178,6 @@ https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CrAF6X3J9RseycMFwxms7cyNgNa
 https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CqUFGwc6-yUhEeyXHeuokbKGx9I-NWkMSc1cV8Ob4kO_fF-g3L3PJlgnHK2h89Vpv_nqKHCWqItUBcw8VBCewb3JufdY_fRUraxjhQ7HIb8R7mVRudEb2N6-JsxRdP0o_0QNU5KsQiQdiC4oFBrBcy6j2aAaNZE49EFOUU0a1dszGYesH5tY0sHw7JxdAsMKuWb3Z6-m5X8_0HH5xJJxDg_bpbQtal6xOuDXii4gTVuqJUOfGW1NlKRDjcLGi2juDv08LbwDN3jN9c3XWKYKY1iZwy5I6JGJzUF8mEI6AmU6o_QE9jw6ycqlxIK49tDYhnPqH4vQHtj2pwVJJYZEMfCGYYhsFKNOMMrguwqnwI54E9HRd5k2THqD23AtyFSJdp5t0g-xTjZ3TiBEKggwoc9H89ggdoFb-gQVe2zwYspwjKQBSZGBOeEOnY_YpesmagpANkk-soLHH5OZ-zAr0TAnH0gro9LFngoqSyKOZP3WyTlOcGb_x_M7mvxOBsIiLGcxKZRDrLx92OiILvIoCnRzT82wWIa1FqaxKPvKP3Hbi_ds8rLeQi1lmACxnZpJD9broCoO_6VKTIFnp_vWC_-mjS64D5r6Fpue7gUyKla814dJ6mfapSgxRNJ15B1hNsJq_OGWPjX47ZgWJfY8SSZ5r1CVB0OfwzX955bMD-9abLoeLqZvHS0zAEVCKQ_7GIL8gjDoTaGliFNyx35bdh_RMvCEv2JjNjVCPcUm-w3Gy9w73hiMm1dy3E_c-oauS0B2tQYZPXTsxWlUe-SMXP-mnSbzaHGNMdGe7yb0n-8SGstOHLm1_5UAFcDx90zSe58ODy39suRheNoXJUYFt9HRVw1FpeyLx1hgVr9I-DnoHtDIIsnLCx1f-yqcIBcnUIl7HXuT3fEaDP-hA5YdxOhmRnLjbyABKgl1cy1lYXN0LTIwzQI.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Contivision-en-vivo-Online.png"group-title="ARGENTINA", CONTIVISION
-https://unlimited1-cl-isp.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8?nimblesessionid=1554504&WebM3UCL
-
-#EXTINF:-1 tvg-logo="https://www.clubtv.cl/img/logo-canal.png"group-title="ARGENTINA", CLUB TV
-https://paneltv.online:1936/8030/8030/chunklist_w2043360116.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/blog/wp-content/uploads/2020/08/ButacaTV-Blog_10.jpg"group-title="ARGENTINA", BUTACA TV
 https://veranda-butacatv-2-mx.samsung.wurl.tv:443/3000.m3u8
