@@ -490,6 +490,17 @@ https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?WebM3UCL
 http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
 
 
+#EXTINF:-1tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="CRISTIANO", EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/886623373614342144/TkVOFEox.jpg"group-title="CRISTIANO", DIOS TE VE HD
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.truli.com/sites/default/files/styles/400x225/public/canluz.jpg"group-title="CRISTIANO", CANAL LUZ
+https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://tvtolive.com/wp-content/uploads/Salvaci%C3%B3n-TV-tvtolive.com_.jpg"group-title="CRISTIANO",SALVACION TV
 https://stream.eleden.com:443/livesalvatv/ngrp:livesalvatv_all/chunklist_w2142339777_b700000.m3u8
@@ -1197,16 +1208,6 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?WebM3
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR57XN1_ueC8D1LBf5EqNblG7yvlXt9RDYu9g&usqp=CAU"group-title="CRISTIANO", SION HD
 http://185.36.211.142:8080/tmp_hls/sion/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/886623373614342144/TkVOFEox.jpg"group-title="CRISTIANO", DIOS TE VE HD
-https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/30d1686314b9687d3002429157d2ffc2ec9731796d20840586dfadf4b8edb39c.png"group-title="CRISTIANO", SOBRENATURAL TV
-
-
-#EXTINF:-1 tvg-logo="http://www.truli.com/sites/default/files/styles/400x225/public/canluz.jpg"group-title="CRISTIANO", CANAL LUZ
-https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
-
-
 
 
 
@@ -1257,8 +1258,6 @@ https://5bf8041cb3fed.streamlock.net:443/TeveVida/TeveVida/chunklist_w1065613269
 
 
 
-#EXTINF:-1tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="CRISTIANO", EXTREMA TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF: -1 tvg-logo = "https://image.roku.com/developer_channels/prod/54b1c3dc0ac19483abf8931a1419a105284c91f393236946e18e84a4d76433ba.png"group-title="CRISTIANO", ALERTA TV
 http://stream2.livestreamingservices.com:1935/alertatv/alertatv/chunklist_w852405639.m3u8
@@ -1298,7 +1297,7 @@ https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
 
 
 
-#EXTINF: -1 tvg-logo= "https://liveonlineradio.net/wp-content/uploads/2016/03/Radio-JCB.jpg" group-title="CRISTIANO", CADENA JCB - TEMPERLEY
+#EXTINF: -1 tvg-logo= "https://liveonlineradio.net/wp-content/uploads/2016/03/Radio-JCB.jpg" group-title="RADIO", CADENA JCB - TEMPERLEY
 https://clientes.videostreaming.ar:19360/jcbtv/jcbtv.m3u8
 
 
