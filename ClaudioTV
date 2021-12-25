@@ -121,6 +121,8 @@ https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="ARGENTINA", CINE ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
 
+#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-CwMYprB8eaA/XnATeNoPyXI/AAAAAAAAw-Y/I40dMYtgMWstYOVQvOI-uZArZune0a9VACK8BGAsYHg/s0/2020"group-title="ARGENTINA", GEO
+https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg"group-title="ARGENTINA", CANAL HM 
