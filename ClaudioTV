@@ -172,6 +172,11 @@ https://live-latina-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ7g3DfBGPbktMqkMduWrx5yxZNw9YeUMMFw&usqp=CAU"group-title="ARGENTINA", CIUDAD MAGAZINE HD
+http://etvhome.com:25461/Arturo/Arturo1/63804
+
+
+
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="ARGENTINA",MY TIME
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 
@@ -485,9 +490,6 @@ http://etvhome.com:25461/Arturo/Arturo1/28903
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title=" PREMIUM", CINECANAL
 http://etvhome.com:25461/Arturo/Arturo1/13387
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ7g3DfBGPbktMqkMduWrx5yxZNw9YeUMMFw&usqp=CAU"group-title="ARGENTINA", CIUDAD MAGAZINE HD
-http://etvhome.com:25461/Arturo/Arturo1/63804
 
 
 
