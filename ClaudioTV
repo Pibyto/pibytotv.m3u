@@ -26,6 +26,11 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoEmbErxc640V8CBY5gJ-XX457HFkiujM6Og&usqp=CAU"group-title="ARGENTINA", CANAL 5
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?WebM3UCL
 
+
+
+#EXTINF: -1 tvg-logo = "https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title = "ARGENTINA", ALBARDON TV SAN JUAN
+https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7f4ecb7c2f2357888048d013effb4c16b1b78ae96e6fc02691d64c325ae69501.png"group-title="ARGENTINA", RUN:TIME LATINO
 https://runtime-espanol-roku.amagi.tv:443/playlistR1080p.m3u8
 
