@@ -55,6 +55,11 @@ https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title = "ARGENTINA", ALBARDON TV SAN JUAN
 https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
+
+
+#EXTINF: -1 tvg-logo = "https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/ Canela.TV_190x190_circle.jpg? Raw = true "group-title ="ARGENTINA", CANELA TV 
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app. plex & gdpr = 0 & device_make = Windows & device_model = Opera & coppa = 0 & us_privacy = 1 ---
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7f4ecb7c2f2357888048d013effb4c16b1b78ae96e6fc02691d64c325ae69501.png"group-title="ARGENTINA", RUN:TIME LATINO
 https://runtime-espanol-roku.amagi.tv:443/playlistR1080p.m3u8
 
