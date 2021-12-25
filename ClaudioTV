@@ -114,6 +114,11 @@ https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w149262164
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", MULTIVISION SALTA HD
 https://panel.dattalive.com:443/8250/8250/chunklist_w1060032190.m3u8
 
+
+#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA"group-title="ARGENTINA", CANAL 9 NORTE MISIONES
+https://panel.dattalive.com/8076/8076/playlist.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Televisi%C3%B3n_Nacional_de_Chile_wordmark.svg/1200px-Televisi%C3%B3n_Nacional_de_Chile_wordmark.svg.png"group-title="ARGENTINA", TVN
 https://us-b4-p-e-lh9.cdn.mdstrm.com/live-stream-dai/c772e2ff710d47519accb36341713f3b/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57a498c4d7b86d600e5461cb/b7306f1e-ac1a-46f1-b713-5d3b620b4097/0.m3u8?aid=51c2f628b440bd797900051f&uid=c7rAqFJkTTCk3w1TtmiAzZg3OaaHimG9&sid=T8PFhtmRYUXAwLLH1E4goRG2P6MY7DxO&pid=iM9Ve98mgmOyzKjzB0HPZQ215MrMXvpo&ref=https%3A%2F%2Ftoken.tvn.cl%2F&without_cookies=false&dnt=true&access_token=GUbM5uWndGJpVEOvjbyIXOo9y3nMdsrOO3WNeuwg8iIgHFuN71DyfO37DsBXIa2wskE3eZuC1CZ&es=us-b4-p-e-lh9.cdn.mdstrm.com&ote=1639930986260&ot=lEJGLNert_0IOYoUT_HpvQ&proto=https&pz=us
 
@@ -1059,9 +1064,6 @@ https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-3-La-Pampa-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 LA PAMPA
 https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA"group-title="ARGENTINA", CANAL 9 NORTE MISIONES
-https://panel.dattalive.com/8076/8076/playlist.m3u8
 
 
 
