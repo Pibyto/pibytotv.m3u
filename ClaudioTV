@@ -588,6 +588,9 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
 
+#EXTINF: -1 tvg-logo="https://image.roku.com/developer_channels/prod/cd1c82fb5dd4ce62f4d2b44622fdce848bf099172843abaeaa286d66807dcc82.png"group-title="CRISTIANO", LUZ NACIENTE TV
+https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8?WebM3UCL
+
 
 #EXTINF: -1 tvg-logo="https://victoriatvcristoviene.com/wp-content/uploads/2020/06/VictoriaTV.png"group-title="CRISTIANO",  VICTORIA TV
 https://videohd.live:19360/8062/8062.m3u8?WebM3UCL
@@ -1521,9 +1524,6 @@ http://mediaplatform.streamingmediahosting.com/p/10671/sp/1067100/playManifest/e
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 
-
-#EXTINF: -1 tvg-logo="https://image.roku.com/developer_channels/prod/cd1c82fb5dd4ce62f4d2b44622fdce848bf099172843abaeaa286d66807dcc82.png"group-title="CRISTIANO", LUZ NACIENTE TV
-https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8?WebM3UCL
 
 
 
