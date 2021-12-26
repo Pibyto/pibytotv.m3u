@@ -1076,7 +1076,7 @@ https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-p.m3u8?sd=10
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="24/7", CINE COMEDIA 1
+#EXTINF:-1 tvg-logo="https://www.lavoz.com.ar/resizer/04UEVyoH_dzI8jSCHubNwl0_CyU=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/2UPAZ3C7FFH3RB5W7CUY3TGV7M.png"group-title="24/7", CINE COMEDIA 1
 http://user.tvcluboficial.com/stream/nov/nov/695.m3u8
 
 #EXTINF: -1 tvg-logo = "https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg"group-title="ARGENTINA", NET TV
