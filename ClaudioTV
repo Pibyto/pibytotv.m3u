@@ -640,6 +640,21 @@ https://cloudflare.streamgato.us:3037/live/jesustvlive.m3u8?WebM3UCL
 
 
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bd959e5a2f2797240d8a08171c7db83f.webp"group-title="CRISTIANO", TV ADORANDO JESUS
+https://stmv1.srvsite.com/tvaparana/tvaparana/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5ce59e5a4f52bbc5c6419fe5a8674447.webp"group-title="CRISTIANO", GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/2021-12/escuchame-radio-clasicos-chile.png"group-title="CRISTIANO", ESCUCHAME
+https://stmv1.voxtvhd.com.br:443/escuchame/escuchame/chunklist_w1449652967.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/63f36fhtrgw.png"group-title="CRISTIANO", CIELO - CANAL 26
+https://5e149b9159444.streamlock.net:443/_on-cielotv/_on-cielotv/chunklist_w1866930727.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/30d1686314b9687d3002429157d2ffc2ec9731796d20840586dfadf4b8edb39c.png"group-title="CRISTIANO", SOBRENATURAL TV
 http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w1714633449.m3u8
 
