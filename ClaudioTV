@@ -286,6 +286,13 @@ https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w955317782.
 
 
 
+#EXTINF:-1 tvg-logo="https://i.mycdn.me/image?id=932795754519&t=50&plc=WEB&tkn=*4KKDS4zcKcOI8vGnLluZAlv3brM&fn=external_8"group-title="ARGENTINA",TVR DIGITAL
+https://vsd119.mycdn.me:443/hls/1698824391191.m3u8/sig/Vd7L3TYKuS0/expires/1640610663372/srcIp/186.132.117.239/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11278/thumb_Group_19.png"group-title="ARGENTINA", PERU CHANNEL
+https://stmv1.duvoxtv.com.br:443/novelaplz/novelaplz/chunklist_w582543405.m3u8
+
 
 
 #EXTINF:-1 tvg-logo"https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/peliculas_mania_320.jpg"group-title="ARGENTINA", PELÍCULAS_MANIA
