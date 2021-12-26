@@ -2297,11 +2297,53 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 
 
 
-#EXTINF:-1 tvg-logo="https://assets-prd.ignimgs.com/2021/11/08/fdo0mohvqaap5td-1636343382417.jpg"group-title="PELICULAS", SPIDERMAN NO WAY HOME 1
-http://192.168.1.34:30001/file/O2SDKIsK/video.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/venom_let_there_be_carnage-797643212-large.jpg"group-title="PELICULAS", VENON - HABRA UNA MATANZA
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14676.mp4
 
-#EXTINF:-1 tvg-logo="https://assets-prd.ignimgs.com/2021/11/08/fdo0mohvqaap5td-1636343382417.jpg"group-title="PELICULAS", SPIDERMAN (NO WAY HOME) 2
-https://www74.uptostream.com/stream/4dk8cg4be9/_v_355753_0.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Greenland_El_ltimo_refugio-845083448-large.jpg"group-title="PELICULAS", GREENLAND
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14836.mkv
+
+
+#EXTINF:-1 tvg-logo="https://catalogodepeliculas.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-24-at-11.41.01-AM-e1616604557979-600x833.jpeg"group-title="PELICULAS", MAS LOCO QUE UNA CABRA
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14704.mkv
+
+
+#EXTINF:-1 tvg-logo="https://www.designbust.com/download/748/png/free_guy_folder_icon512.png"group-title="PELICULAS", FREE GUY
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14703.mkv
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/94Y0dB5k0og2p556cs4AqVp1fwE.jpg"group-title="PELICULAS", BLACK AS NIGHT
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14693.mkv
+
+
+#EXTINF:-1 tvg-logo="https://media.filmelier.com/images/tit/16538/poster/a-menina-que-matou-os-pais35915.jpeg"group-title="PELICULAS", LA CHICA QUE MATO A SUS PADRES
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14684.mkv
+
+#EXTINF:-1 tvg-logo="https://www.konnichiwafestival.com/wp-content/uploads/2021/03/Violet_web_lr.jpg"group-title="PELICULAS", VIOLET EVERGARDEN - LA PELÍCULA
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14673.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://www.mixup.com.mx/mixup/ImgMixup/Mixup_big/7503028823444.jpg"group-title="PELICULAS", LIGA DE LA JUSTICIA OSCURA
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14840.mkv
+
+
+
+
+#EXTINF:-1 tvg-logo="https://macabro.mx/2021/wp-content/uploads/2021/08/21-antologia.jpg"group-title="PELICULAS", ANTOLOGÍA DE LA PANDEMIA
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14751.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Snake_Eyes_El_origen-962296156-large.jpg"group-title="PELICULAS", SNAKE EYES
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14727.mkv
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Power-243507425-large.jpg"group-title="PELICULAS", THE POWER
+http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14691.mp4
 
 
 
@@ -2309,104 +2351,6 @@ https://www74.uptostream.com/stream/4dk8cg4be9/_v_355753_0.mp4
 
 #EXTINF:-1 tvg-logo="https://www.cinevistablog.com/wp-content/uploads/2012/07/el-rescate-machine-gun-preacher_opt2_.jpg"group-title="PELICULAS", MACHINE GUN PREDICADOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e7ebe7e53bc0c65d521/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae- 480a-aeae-f805d255de09 & deviceLat = -34.8150 & deviceLon = -58.4693 & deviceMake = Chrome% 2BMobile & deviceModel = web & deviceType = web & deviceVersion = 90.0.4430.210 & includeExtendedEvents = false & marketingRegion = VE & sid2 -b & b222acdsc9 = servidor
-
-
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/21/04/14/17/28/5059871.jpg"group-title="PELICULAS", RÁPIDOS Y FURIOSOS 9
-http://ipeteve.com/REGIOFLIX070821/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
-
-
-#EXTINF:-1 tvg-logo="https://www.accioncine.es/media/k2/items/cache/ad6bc1661008883d98ad925321e4aa69_Generic.jpg"group-title="PELICULAS", SIN REMORDIMIENTOS
-https://rr4---sn-x1x7zn7e.c.drive.google.com/videoplayback?expire=1629043364&ei=ZAIZYdi3C5mZhgbVzYK4Cw&ip=186.132.74.136&cp=QVRHQUFfUlNURVhPOmxBTzlOWlQ4ZklEZE1wQndDaEV5dENPbmJaY0R2M2tzNG1YOTRWZXFwVFk&id=253173f808020ae8&itag=18&source=webdrive&requiressl=yes&mh=9S&mm=32&mn=sn-x1x7zn7e&ms=su&mv=u&mvi=4&pl=19&sc=yes&ttl=transient&susc=dr&driveid=1EmUZyKa2_KkgN3ObhWwjq9mC2TNGO4_Q&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=6555.736&lmt=1628996197657790&mt=1629028432&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgd6PXOTJkwwh6JaSr-QDvMaYitpOiI6tdew2YsijzFjICIQDMsAdB3ZwaG5DuBR36-ztKs-qx4X5lf1j8G6k9pUsp-w==&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRAIgPTe5gMVOl_XqNixIG935PvywLaWZI1rLQSkc-BYUIKsCIEZVNF4YcH1abIJ3NHo44IfMJ7nFI657PFrLOK6JbbbY&cpn=oaQFaBdiSjzuEK7n&c=WEB_EMBEDDED_PLAYER&cver=1.20210811.1.0
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/25/13/44/0609737.jpg"group-title="PELICULAS", LA PURGA INFINITA
-http://ipeteve.com/REGIOFLIX070821/The.forever.purge.2021.1080p-dual-lat-SrRegio.Net.mkv
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images.everyeye.it/img-cover/jungle-cruise-v3-17662.jpg"group-title="PELICULAS", JUNGLE CRUISE
-http://ipeteve.com/REGIOFLIX070821/Jungle.Cruise.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/12600/12608/003_m.jpg"group-title="PELICULAS", ESCUADRÓN SUICIDA 2
-http://ipeteve.com/REGIOFLIX070821/The.suicide.squad.2021.1080p-SRREGIO.NET.mkv
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/30/08/10/1385971.jpg"group-title="PELICULAS", JOLT
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/10/17/39/5369760.jpg"group-title="PELICULAS", UN LUGAR TRANQUILO 2
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/05/16/42/3751570.jpg"group-title="PELICULAS", SPACE JAM
-http://ipeteve.com/REGIOFLIX070821/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/09/18/28/5915477.jpg"group-title="PELICULAS",  VIUDA NEGRA
-http://ipeteve.com/REGIOFLIX070821/Black.Widow.2021.1080P-Dual-Lat-SrRegio.Net.mkv
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/26/17/45/4238572.jpg"group-title="PELICULAS", LA GUERRA DEL MAÑANA
-http://ipeteve.com/REGIOFLIX070821/La.Guerra.Del.Ma%C3%B1ana.%282021%29.1080P-Dual-Lat-SrRegio.Net.mkv
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/20/12/15/11/11/4656694.jpg"group-title="PELICULAS", NADIE
-http://ipeteve.com/REGIOFLIX070821/Nadie%20%282021%29.1080P-Dual-Lat-Sr-Regio.Net.mkv
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://media.gq.com.mx/photos/6089777c7a5da02e8a3dbf76/master/pass/original_1619620187_LUCA%20Disney+.png"group-title="PELICULAS", LUCA
-http://ipeteve.com/REGIOFLIX070821/Luca.%282021%29.1080P-Dual-Lat-Sr_Regio_Net.mkv
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/12800/12899/002_m.jpg"group-title="PELICULAS", BEBE JEFAZO 2
-http://ipeteve.com/REGIOFLIX070821/The.Boss.Baby.Family.Business.2021.%282021%29.1080P-Dual-Lat-SrRegio.NEt.mkv
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg"group-title="PELICULAS", TOM & JERRY 2021
-http://ipeteve.com/REGIOFLIX070821/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
-
-
 
 
 
