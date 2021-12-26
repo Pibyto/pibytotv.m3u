@@ -687,6 +687,15 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000314606907-84duua-original.jpg"group-title="RADIO", RADIO EL LUGAR DE SU PRESENCIA
+https://supresenciaradio.out.airtime.pro/supresenciaradio_a
+
+
+
 #EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/2021-12/radiopeniel-c.png"group-title="RADIO", RADIO PENIEL 98.3 FM
 http://69.175.88.11:8045/stream
 
