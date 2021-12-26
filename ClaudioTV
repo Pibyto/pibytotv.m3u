@@ -559,6 +559,9 @@ http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
 https://cloudflare.streamgato.us:3006/live/elvivientetvlive.m3u8?WebM3UCL
 
 
+#EXTINF: -1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/02/Teve-Vida-Logo-nuevo.jpg"group-title="CRISTIANO", TEVE VIDA 
+https://5bf8041cb3fed.streamlock.net:443/TeveVida/TeveVida/chunklist_w1065613269.m3u8
+
 #EXTINF:-1tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="CRISTIANO", EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
@@ -1208,9 +1211,6 @@ https://inliveserver.com:1936/11516/11516/chunklist_w2100780946.m3u8?WebM3UCL
 https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w955317782.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://maxtvonline.com/wp-content/uploads/2019/10/WhatsApp-Image-2019-09-26-at-15.23.42.jpeg"group-title="CINE Y SERIES", MAX TV
-https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/chunklist_w279047731_b2108000_sleng.m3u8?WebM3UCL
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Unitel_logo_HD.jpg/1200px-New_Unitel_logo_HD.jpg"group-title="CINE Y SERIES", UNITEL HD
 https://cp.sradiotv.com:1936/8078/8078/chunklist_w1398365877.m3u8?WebM3UCL
@@ -1287,8 +1287,6 @@ https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6
 #EXTINF:-1 tvg-logo="https://cristolibera.org/wp-content/uploads/2020/06/cropped-LogoAltaCalidad-2040x2040px.png"group-title="CRISTIANO",CRISTO LIBERA HD
 https://583ed2f226ac2.streamlock.net/1708/stream/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OEvk0VqOovkB1XptvOjyc6CRR7xJ5lXHSg&usqp=CAU"group-title="CRISTIANO", VIDA TELEVISIÓN
-https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR57XN1_ueC8D1LBf5EqNblG7yvlXt9RDYu9g&usqp=CAU"group-title="CRISTIANO", SION HD
 http://185.36.211.142:8080/tmp_hls/sion/index.m3u8
@@ -1337,8 +1335,6 @@ https://usher.ttvnw.net/vod/45290453.m3u8?allow_audio_only=true&allow_source=tru
 #EXTINF: -1 tvg-logo = "https://televisioncelestial.com.ar/uploads/1zje40laqizoswwcso.png"group-title="CRISTIANO", TELEVISION CELESTIAL ROSARIO
 https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/02/Teve-Vida-Logo-nuevo.jpg"group-title="CRISTIANO", TEVE VIDA 
-https://5bf8041cb3fed.streamlock.net:443/TeveVida/TeveVida/chunklist_w1065613269.m3u8
 
 
 
