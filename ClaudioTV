@@ -566,6 +566,33 @@ https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImuv086BjtqOXoSsgw7Gmk3i227FQv8Enag&usqp=CAU"group-title="CRISTIANO", CRISTIANA TV (ENLACE)
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OEvk0VqOovkB1XptvOjyc6CRR7xJ5lXHSg&usqp=CAU"group-title="CRISTIANO", VIDA TELEVISIÓN
+https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTIt5Hurz27ES-CuZvEqwGuenc5Y-cSlqew&usqp=CAU"group-title="CRISTIANO", PRESENCIA TELEVISION
+https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/601919873380392960/kCqpYx5P.png"group-title="CRISTIANO", TELEFAMILIA
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_enlace-tbn_m.png"group-title="CRISTIANO", ENLACE
+http://tv.naturalplus.live:25461/Carla/Carla123/833
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEma6MQx5cwh1bl6k9NYmm6842vFj7zdA9w&usqp=CAU"group-title="CRISTIANO", VOLVAMOS A DIOS TV
 https://stmv.panel.mivideo.pro/remanenteescogido/remanenteescogido/playlist.m3u8?WebM3UCL
 
@@ -884,31 +911,6 @@ https://videohd.live:19360/8062/8062.m3u8?WebM3UCL
 https://inliveserver.com:1936/10020/10020/chunklist_w1563077035.m3u8?WebM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImuv086BjtqOXoSsgw7Gmk3i227FQv8Enag&usqp=CAU"group-title="CRISTIANO", CRISTIANA TV (ENLACE)
-https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OEvk0VqOovkB1XptvOjyc6CRR7xJ5lXHSg&usqp=CAU"group-title="CRISTIANO", VIDA TELEVISIÓN
-https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTIt5Hurz27ES-CuZvEqwGuenc5Y-cSlqew&usqp=CAU"group-title="CRISTIANO", PRESENCIA TELEVISION
-https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?PlaylistM3UCL
-
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/601919873380392960/kCqpYx5P.png"group-title="CRISTIANO", TELEFAMILIA
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_enlace-tbn_m.png"group-title="CRISTIANO", ENLACE
-http://tv.naturalplus.live:25461/Carla/Carla123/833
 
 
 
