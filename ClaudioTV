@@ -555,6 +555,10 @@ https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?WebM3UCL
 http://45.161.188.242:88/vidatv/index.m3u8?WebM3UCL
 
 
+#EXTINF: -1 tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png"group-title="CRISTIANO", EL VIVIENTE TV
+https://cloudflare.streamgato.us:3006/live/elvivientetvlive.m3u8?WebM3UCL
+
+
 #EXTINF:-1tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="CRISTIANO", EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
@@ -577,6 +581,8 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?WebM3
 https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1222519766193262597/UZsxHbU4_400x400.png"group-title="CRISTIANO", RCC HD
+https://59ce1298bfb98.streamlock.net:443/rcctv02/rcctv02/chunklist_w1142756147.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/601919873380392960/kCqpYx5P.png"group-title="CRISTIANO", TELEFAMILIA
@@ -1276,8 +1282,6 @@ https://unlimited1-cl.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?WebM3UCL
 #EXTINF:-1, tvg-logo="https://i.pinimg.com/280x280_RS/75/5c/fa/755cfa2a735891843a68b66a62e9e793.jpg"group-title="CINE Y SERIES", TVN 
 https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 
-#EXTINF: -1 tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png"group-title="CRISTIANO", EL VIVIENTE TV
-https://cloudflare.streamgato.us:3006/live/elvivientetvlive.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://cristolibera.org/wp-content/uploads/2020/06/cropped-LogoAltaCalidad-2040x2040px.png"group-title="CRISTIANO",CRISTO LIBERA HD
