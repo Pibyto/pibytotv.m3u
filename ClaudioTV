@@ -593,6 +593,16 @@ https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?Playlis
 https://59ce1298bfb98.streamlock.net:443/rcctv02/rcctv02/chunklist_w1142756147.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/33f357e22d0e0c35353cee0c5898b1b8e3faedf34bab87de81f0d6aa4fdd6c9f.png"group-title="CRISTIANO", EBENEZER TV
+https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/playlist.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ec65e521ab9c770c405ad8be75ff88d7.webp"group-title="CRISTIANO", JEHOVA TV
+https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/chunklist_w1363204407.m3u8?WebM3UCL
+
+
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/601919873380392960/kCqpYx5P.png"group-title="CRISTIANO", TELEFAMILIA
 https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8
 
