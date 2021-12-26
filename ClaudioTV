@@ -582,6 +582,11 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
 
+
+#EXTINF: -1 tvg-logo="https://victoriatvcristoviene.com/wp-content/uploads/2020/06/VictoriaTV.png"group-title="CRISTIANO",  VICTORIA TV
+https://videohd.live:19360/8062/8062.m3u8?WebM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImuv086BjtqOXoSsgw7Gmk3i227FQv8Enag&usqp=CAU"group-title="CRISTIANO", CRISTIANA TV (ENLACE)
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
@@ -1445,9 +1450,6 @@ https://rctvhdstream.com:8081/senalestvlive/tracks-v1a1/mono.m3u8
 
 
 
-
-#EXTINF: -1 tvg-logo="https://victoriatvcristoviene.com/wp-content/uploads/2020/06/VictoriaTV.png"group-title="CRISTIANO",  VICTORIA TV
-https://videohd.live:19360/8062/8062.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png"group-title="CINE Y SERIES", CARACOL
