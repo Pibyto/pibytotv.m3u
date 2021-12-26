@@ -619,8 +619,9 @@ http://tv.naturalplus.live:25461/Carla/Carla123/833
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEma6MQx5cwh1bl6k9NYmm6842vFj7zdA9w&usqp=CAU"group-title="CRISTIANO", VOLVAMOS A DIOS TV
 https://stmv.panel.mivideo.pro/remanenteescogido/remanenteescogido/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CtuPEiRWIAAMDXI.jpg"group-title="CRISTIANO", TVCRET
-https://radiocret.net:8082/hls/tvcret.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CtuPEiRWIAAMDXI.jpg"group-title="CRISTIANO", TV CRET
+https://radiocret.net:8082/hls/tvcret.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.canaljesustv.com/wp-content/uploads/2017/01/02-Anunciando-la-buena-nueva.jpg"group-title="CRISTIANO", JESÚS TV
 https://cloudflare.streamgato.us:3037/live/jesustvlive.m3u8?WebM3UCL
