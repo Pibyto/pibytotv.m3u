@@ -1043,7 +1043,7 @@ http://user.tvcluboficial.com/stream/nov/nov/700.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="24/7", CINE MARVEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Marvel_Studios_logo.svg/2560px-Marvel_Studios_logo.svg.png"group-title="24/7", CINE MARVEL
 http://user.tvcluboficial.com/stream/nov/nov/697.m3u8
 
 
@@ -1506,8 +1506,6 @@ https://cloudflare.streamgato.us:3399/live/luznacientetvlive.m3u8?WebM3UCL
 
 
 
-#EXTINF: -1 tvg-logo="http://www.redpublicadominicana.com/wp-content/uploads/2017/08/LOGO-SE%C3%B1ALES-01.png"group-title="CRISTIANO", SEÑALES TV
-https://rctvhdstream.com:8081/senalestvlive/tracks-v1a1/mono.m3u8
 
 
 
@@ -1994,9 +1992,6 @@ https://stream.rpc.com.py/live/trece.m3u8
 
 
 
-
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/en/4/4c/Zee_mundo_Logo.jpg"group-title="CINE Y SERIES", ZEE MUNDO TV
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg"group-title="CINE Y SERIES", WMS HD
