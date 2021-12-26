@@ -599,6 +599,11 @@ https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/playlist.
 https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/chunklist_w1363204407.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://televisionadventista.org/wp-content/uploads/2017/12/tvch-logostv.jpg"group-title="CRISTIANO", LOGOS ESTUDIOS
+https://streamer1.streamhost.org:443/salive/logosdirectaH/chunklist_w1482981736.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nUHulWkzH9_43PjpRd9iH5y3jnSKCU6F0U8ViMy9zblVTOJmtD1Ho_G98FGAg7uW_g"group-title="CRISTIANO", TELEVIDA ABUNDANTE
 https://playback2.akamaized.net/streams/13718662_4080629_lsi3anwg2uavaeku9gv_1/exp=1640572410~acl=%2f*~data=hdntl~hmac=c15a08df6ed5e6d769cd7db023f1a2959eedbcb9f8e945b330fdfc84a4e26379/media/13718662_4080629_lsi3anwg2uavaeku9gv_1@2128000pb.m3u8?dw=80&ts=1640484000
 https://playback2.akamaized.net/streams/13718662_4080629_lsi3anwg2uava
