@@ -325,6 +325,53 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009
 https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png"group-title="ARGENTINA", CARACOL TV
+https://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/58d539f1a3ec37fa097a75de/publish/media_1200.m3u8?aid=574462d1cab0f4d50866f001&pid=KjCcxK4uJFoE6f50QbAkMA5Gemqw8stS&sid=YrunXWfRHrNDa2prbUCdzXkTClxBNSoP&uid=6odQ9tOHCAODWVMIFXpEkr3l48hoScxD&es=us-b4-p-e-by2.cdn.mdstrm.com&ote=1640734923595&ot=ghICM76oIKoZ-UAt5AlJ1Q&proto=https&pz=us
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YM3_SjkI8w4/WdZ_EvXUSqI/AAAAAAAAAR0/daKsJaQuF0wYxcz9MTOUfyhxzWTHDgSfgCLcBGAs/s1600/TVN-Panama.png"group-title="ARGENTINA", TVN
+https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Am%C3%A9rica_Tev%C3%A9_logo.jpg/1200px-Am%C3%A9rica_Tev%C3%A9_logo.jpg"group-title="ARGENTINA", AMÉRICA TEVE
+https://americateve-rokuus.amagi.tv:443/amRdirect/platform=rokuplayer&uid=1fnv1a471-3iku-egg-loh9-1e8tymjj7fw/hls/amagi_hls_data_americate-america-teve-roku-us/CDN/1280x720_2855600/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png"group-title="ARGENTINA", TVMAX
+https://bcovlive-a.akamaihd.net:443/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dancefestmx.com/wp-content/uploads/2019/10/Logo_MVS_TV_Color_sitio.png"group-title="ARGENTINA", MVStv
+https://content-asae1-up-1.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c/f.m3u8?pbs=c5b0545f6e4c45b0b5bce2faef4d086a
+
+
+#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11215302.jpg"group-title="ARGENTINA", CANAL 14
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com:443/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.programapublicidad.com/wp-content/uploads/2020/06/a3series-logo-nuevo-programapublicidad-1280x720.jpg"group-title="ARGENTINA",  A3S HD
+http://hls.webredirect.org/7yek/mp_4953.php/https://directo.atresmedia.com/d81b9016acbc6de552ee7ff4c02f43a1cea84ec5_1640644419/geoa3series/bitrate_2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.revistavisionmedia.es/wp-content/uploads/2018/10/profesor_gratis_cine.jpg"group-title="ARGENTINA" CINE (VERDI)
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv:443/3000.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.movilinvasion.es/wp-content/uploads/2011/11/COSMO-HD.jpg"group-title="ARGENTINA", COSMO
+http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1106389745_b1928000_sleng.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://barcelona.cines-verdi.com/storage/app/media/feelgoodtv1.jpg"group-title="ARGENTINA",FEEL GOOD (VERDI)
+https://contracorriente-canalfeelgood-1-es.samsung.wurl.tv:443/3000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/800px-Telecinco.svg.png"group-title="ARGENTINA", 5 MITELE
+https://live.mitele.es/hls/live/2004101/telecinco/02.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"group-title="ARGENTINA", DAZN
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
