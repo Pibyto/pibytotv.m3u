@@ -29,9 +29,6 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
 https://videohd.live:19360/8010/8010.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA", ZONDA TV 35.1 - SAN JUAN
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
@@ -98,7 +95,7 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/ Canela.TV_190x190_circle.jpg"group-title ="ARGENTINA", CANELA TV 
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app. plex & gdpr = 0 & device_make = Windows & device_model = Opera & coppa = 0 & us_privacy = 1 ---
+https://stream.ads.ottera.tv/cl/f3c8ed9a-e4e1-4a86-bfbc-f151c653be33/1280x720_1400000_3_false.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/f4/41/ac/f441ac38-9d37-ba81-e0a1-1d8f27966e03/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png"group-title="ARGENTINA", CANELA TV
