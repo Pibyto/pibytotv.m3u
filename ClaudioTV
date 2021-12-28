@@ -113,6 +113,11 @@ https://5eae379fb77bb.streamlock.net:443/8126/8126/chunklist_w325188716.m3u8?Web
 https://stmv1.zcastbr.com:443/danielg/danielg/chunklist_w1637904609.m3u8?WebM3UCL
 
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1049424706942722049/lgTYMykt_400x400.jpg"group-title="ARGENTINA", TDI
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8?WebM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://comoayer.weebly.com/uploads/4/6/7/8/46782355/published/1498d916-1440-4682-a5f0-9cee9d59c09d.png?1628906296"group-title="ARGENTINA", RETROPLAY TV
 https://v4.tustreaming.cl:443/retroplaytv/tracks-v1a1/mono.m3u8
 
