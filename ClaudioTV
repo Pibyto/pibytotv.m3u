@@ -94,6 +94,32 @@ https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F727f4de6a319b31e9aa766153c0af631915d2c11557468f8447d81a10c543292.png"group-title="ARGENTINA", RCKTV
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w1912863401.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2021/01/Captura-de-Pantalla-2021-01-27-a-las-10.32.34-554x1000.png"group-title="ARGENTINA", 13 TELESERIES
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/nimble-absolute-url-livestream1-edge.m3u8?nimblesessionid=18884607&WebM3UCL&nimbleabsoluteurl=Ys4iq9fdlN2cQ0PzVT%2FprNiNjp6uJacURWnP1Bb6%2F2FPdP18dFJwsdFCwfSpoZx+tMDGEMJnvNYQQGwC28bqL6+OSIuYHAo1CGb0XQDdw6I8ZQCdWZXXC6QknJ2K8acX&nimbleurlhash=o2YGaUElwjfTanrJLc%2FGog==&nimbleurliv=4O2rHckSuJGQD%2FqqKqHa5A==
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Contivision-en-vivo-Online.png"group-title="ARGENTINA", CONTIVISION
+https://unlimited1-cl-isp.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8?nimblesessionid=18940075&WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="http://www.lagranja.tv/gallery_gen/a08851eaf2d8abd4a01558603ad6bdbd_470x475.82263814617.png"group-title="ARGENTINA", LA GRANJA TV
+https://5eae379fb77bb.streamlock.net:443/8126/8126/chunklist_w325188716.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://www.tvquintaregion.cl/wp-content/uploads/2021/03/logo-png.png"group-title="ARGENTINA", TV QUINTA REGION I
+https://stmv1.zcastbr.com:443/danielg/danielg/chunklist_w1637904609.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://comoayer.weebly.com/uploads/4/6/7/8/46782355/published/1498d916-1440-4682-a5f0-9cee9d59c09d.png?1628906296"group-title="ARGENTINA", RETROPLAY TV
+https://v4.tustreaming.cl:443/retroplaytv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.tvquintaregion.cl/wp-content/uploads/2021/03/logo-png.png"group-title="ARGENTINA", TV QUINTA REGION TV II
+https://srv1.zcast.com.br:443/daniel2525/daniel2525/chunklist_w349643401.m3u8?WebM3UCL
+
 
 
 #EXTINF: -1 tvg-logo = "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="CINE Y SERIES", CANAL 34
