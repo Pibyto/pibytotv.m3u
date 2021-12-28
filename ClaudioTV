@@ -126,6 +126,9 @@ https://v4.tustreaming.cl:443/retroplaytv/tracks-v1a1/mono.m3u8
 https://srv1.zcast.com.br:443/daniel2525/daniel2525/chunklist_w349643401.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/800px-Logo_TVE-Internacional.svg.png"group-title="ARGENTINA", RED TVE 
+https://s1.tvdatta.com:3707/live/redtvelive.m3u8?WebM3UCL
+
 
 #EXTINF: -1 tvg-logo = "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="CINE Y SERIES", CANAL 34
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
