@@ -328,7 +328,8 @@ https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png"group-title="ARGENTINA", CARACOL TV
-https://us-b4-p-e-by2.cdn.mdstrm.com/live-stream/58d539f1a3ec37fa097a75de/publish/media_1200.m3u8?aid=574462d1cab0f4d50866f001&pid=KjCcxK4uJFoE6f50QbAkMA5Gemqw8stS&sid=YrunXWfRHrNDa2prbUCdzXkTClxBNSoP&uid=6odQ9tOHCAODWVMIFXpEkr3l48hoScxD&es=us-b4-p-e-by2.cdn.mdstrm.com&ote=1640734923595&ot=ghICM76oIKoZ-UAt5AlJ1Q&proto=https&pz=us
+https://mdstrm.com/live-stream-playlist/58d539f1a3ec37fa097a75de.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YM3_SjkI8w4/WdZ_EvXUSqI/AAAAAAAAAR0/daKsJaQuF0wYxcz9MTOUfyhxzWTHDgSfgCLcBGAs/s1600/TVN-Panama.png"group-title="ARGENTINA", TVN
 https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
@@ -354,8 +355,9 @@ https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com:443/out/v1/1b9d9ef
 http://hls.webredirect.org/7yek/mp_4953.php/https://directo.atresmedia.com/d81b9016acbc6de552ee7ff4c02f43a1cea84ec5_1640644419/geoa3series/bitrate_2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.revistavisionmedia.es/wp-content/uploads/2018/10/profesor_gratis_cine.jpg"group-title="ARGENTINA" CINE (VERDI)
+#EXTINF:-1 tvg-logo="https://www.revistavisionmedia.es/wp-content/uploads/2018/10/profesor_gratis_cine.jpg"group-title="ARGENTINA" CINE VERDI
 https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv:443/3000.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.movilinvasion.es/wp-content/uploads/2011/11/COSMO-HD.jpg"group-title="ARGENTINA", COSMO
@@ -363,12 +365,9 @@ http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1106389745_b1928000_sleng.
 
 
 
-#EXTINF:-1 tvg-logo="https://barcelona.cines-verdi.com/storage/app/media/feelgoodtv1.jpg"group-title="ARGENTINA",FEEL GOOD (VERDI)
-https://contracorriente-canalfeelgood-1-es.samsung.wurl.tv:443/3000.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/800px-Telecinco.svg.png"group-title="ARGENTINA", 5 MITELE
-https://live.mitele.es/hls/live/2004101/telecinco/02.m3u8
+
 
 
 
