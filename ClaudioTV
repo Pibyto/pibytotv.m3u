@@ -153,9 +153,15 @@ https://stream.ads.ottera.tv/cl/d2695c7d-5797-4a59-a707-0979eddb7a44/1280x720_14
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7f4ecb7c2f2357888048d013effb4c16b1b78ae96e6fc02691d64c325ae69501.png"group-title="ARGENTINA", RUN:TIME LATINO
 https://runtime-espanol-roku.amagi.tv:443/playlistR1080p.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/CINEMA-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg"group-title="ARGENTINA", CINEMA+
 https://hvtrafico.ddns.net:443/cinema720/cinema720.stream/chunklist_w1864655689.m3u8
  
+
+#EXTINF:-1 tvg-logo="https://www.revistavisionmedia.es/wp-content/uploads/2018/10/profesor_gratis_cine.jpg"group-title="ARGENTINA" CINE (VERDI)
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv:443/3000.m3u8
+
 #EXTINF:-1 tvg-logo="https://nitter.pussthecat.org/pic/profile_images%2F1340488609623912448%2FifJLg-Oy.jpg"group-title="ARGENTINA",RETROPLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w411956702.m3u8
 
