@@ -159,7 +159,7 @@ https://runtime-espanol-roku.amagi.tv:443/playlistR1080p.m3u8
 https://hvtrafico.ddns.net:443/cinema720/cinema720.stream/chunklist_w1864655689.m3u8
  
 
-#EXTINF:-1 tvg-logo="https://www.revistavisionmedia.es/wp-content/uploads/2018/10/profesor_gratis_cine.jpg"group-title="ARGENTINA" CINE (VERDI)
+#EXTINF:-1 tvg-logo="https://www.revistavisionmedia.es/wp-content/uploads/2018/10/profesor_gratis_cine.jpg"group-title="ARGENTINA",CINE (VERDI)
 https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv:443/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://nitter.pussthecat.org/pic/profile_images%2F1340488609623912448%2FifJLg-Oy.jpg"group-title="ARGENTINA",RETROPLUS
