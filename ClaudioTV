@@ -76,9 +76,6 @@ https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_canal10.png"group-title="ARGENTINA", CANAL 10 MDP.
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canal2mdp.com.ar/wp-content/uploads/2016/04/13427954_1104019889671271_5647949923378659701_n-1.jpg"group-title="ARGENTINA", CANAL 2 MAR DEL PLATA
-https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", TDC TV SANTA FE
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
@@ -240,6 +237,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f
 
 #EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-CwMYprB8eaA/XnATeNoPyXI/AAAAAAAAw-Y/I40dMYtgMWstYOVQvOI-uZArZune0a9VACK8BGAsYHg/s0/2020"group-title="ARGENTINA", GEO
 https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.revistavisionmedia.es/wp-content/uploads/2018/10/profesor_gratis_cine.jpg"group-title="ARGENTINA" CINE VERDI
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv:443/3000.m3u8
+
 
 
 #EXTINF: -1 tvg-logo = "https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg"group-title="ARGENTINA", CANAL HM 
