@@ -68,6 +68,33 @@ https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?WebM3UCL
 https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 
 
+
+#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1341555650900455427/cVUKuSGt_400x400.jpg"group-title="ARGENTINA", CTV CORRIENTES
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_canal10.png"group-title="ARGENTINA", CANAL 10 MDP.
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal2mdp.com.ar/wp-content/uploads/2016/04/13427954_1104019889671271_5647949923378659701_n-1.jpg"group-title="ARGENTINA", CANAL 2 MAR DEL PLATA
+https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", TDC TV SANTA FE
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+
+
+
+
+#EXTINF: -1 tvg-logo = "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="CINE Y SERIES", CANAL 34
+http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3487556435/aaae8392a11f89550187210f1a944807_400x400.jpeg"group-title="ARGENTINA", CANAL 29 ENSENADA
+https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png"group-title="ARGENTINA", WOW
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
@@ -1257,20 +1284,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="CINE Y SERIES", NEO TV DIGITAL  14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
@@ -1617,8 +1630,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png"group-title="CINE Y SERIES", CARACOL
 https://6ra8tpg8m6.azcdn107.net:8443/hls/65is893586k.m3u8?s=Ocu3V9D3y2MoVoVb2Djctg&e=1628824653
 
-#EXTINF:-1 tvg-logo="https://www.canaldhe.com/wp-content/uploads/2021/05/Favicon-DHE.png"group-title="PREMIUM", DHE
-https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYn2FYv-PU-hnPCfQCCIdhJ9AccsqJdczBow&usqp=CAU"group-title="CINE Y SERIES", SONY COMEDIA
 https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
@@ -1925,7 +1936,7 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://jtamendoza.com/images/icon_144.png"group-title="CRISTIANO", JTA TV 21.1 MENDOZA
+#EXTINF: -1 tvg-logo = "https://jtamendoza.com/images/icon_144.png"group-title="RADIO", JTA TV 21.1 MENDOZA
 https://streaming.jtamendoza.com:8443/hls/test_mid.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png"group-title="CRISTIANO", KINGDOM TV 
@@ -1972,30 +1983,6 @@ https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.
 #EXTINF: -1 tvg-logo = "http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png"group-title="CINE Y SERIES", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-
-#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1341555650900455427/cVUKuSGt_400x400.jpg"group-title="ARGENTINA", CTV CORRIENTES
-https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_canal10.png"group-title="ARGENTINA", CANAL 10 MDP.
-https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://canal2mdp.com.ar/wp-content/uploads/2016/04/13427954_1104019889671271_5647949923378659701_n-1.jpg"group-title="ARGENTINA", CANAL 2 MAR DEL PLATA
-https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", TDC TV SANTA FE
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-
-
-
-
-#EXTINF: -1 tvg-logo = "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="CINE Y SERIES", CANAL 34
-http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3487556435/aaae8392a11f89550187210f1a944807_400x400.jpeg"group-title="ARGENTINA", CANAL 29 ENSENADA
-https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/K3n7ECn.png"group-title="INFANTIL", AFV
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
