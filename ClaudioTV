@@ -52,7 +52,7 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA"group-title="ARGENTINA", CANAL 9 NORTE MISIONES
+#EXTINF: -1 tvg-logo="https://www.stopenlinea.com.ar/uploads/imagenes/repositorio/2019/02/06/44981/20190206111757eb2ba8ee3dcef3ccda59128342a6d130_min.jpg"group-title="ARGENTINA", CANAL 9 NORTE MISIONES
 https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 
 
