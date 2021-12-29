@@ -53,7 +53,8 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA"group-title="ARGENTINA", CANAL 9 NORTE MISIONES
-https://panel.dattalive.com/8076/8076/playlist.m3u8
+https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
+
 
 
 
