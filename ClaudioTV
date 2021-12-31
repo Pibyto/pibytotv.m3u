@@ -758,6 +758,35 @@ https://5b50404ec5e4c.streamlock.net/ebenezertv2/smil:ebenezertv2.smil/playlist.
 https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/chunklist_w1363204407.m3u8?WebM3UCL
 
 
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png?format=1000w&content-type=image%2Fpng"group-title="CRISTIANO", ALIENTO VISION HD
+https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/chunklist_w1498398310_b1300000_slen.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0JVTKp_xioAj-2wOdEdN59zrb-bs0_bYATA&usqp=CAU"group-title=" CRISTIANO", TELE SANTO
+https://vdo1.streamgato.us:3550/live/telesantodomingolive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-p4F59EIc5ts/XA3r2vE-6zI/AAAAAAAAAow/1lPlNgcXyKYIwOOCaYgY7cQRz5__GUO3gCLcBGAs/w1200-h630-p-k-no-nu/taber-tv.jpg"group-title="CRISTIANO",TABER TV
+https://5ca9af4645e15.streamlock.net:443/tabertv/smil:tabertv.smil/chunklist_w144300524_b3428000_DVR_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/8dabc744cc5d41999da03e5676ec9e0b2132a59a436ebc89caa5f86e7e267e82.png"group-title="CRISTIANO", RENUEVO TV
+https://5bff1bf18a887.streamlock.net:443/rtvla/rtvla/chunklist_w681928651.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000133635844/4ce4488c4063e324fbc525fdf9aa9d39_400x400.jpeg"group-title="CRISTIANO",RVIDA TV
+https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?WebM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/fa1744c221b87f2c1b73ff60aff8a6519f83f4848bb7f0001d6b8608c66ff7bf.png"group-title="CRISTIANO",  ELIM TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/manifest.m3u8?p=79&s=1640953651&e=1640953771&h=c56d5c726e8155e2b0fd24a5808b24d1
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://televisionadventista.org/wp-content/uploads/2017/12/tvch-logostv.jpg"group-title="CRISTIANO", LOGOS ESTUDIO
 https://streamer1.streamhost.org:443/salive/logosdirectaH/chunklist_w1482981736.m3u8
 
