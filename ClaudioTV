@@ -813,6 +813,12 @@ https://stmv.panel.mivideo.pro/remanenteescogido/remanenteescogido/playlist.m3u8
 https://radiocret.net:8082/hls/tvcret.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-YhFuHgLe-iA/Tp8QsY9UA9I/AAAAAAAAAGc/0yzcI5MFENE/s1600/bethel.png"group-title="CRISTIANO", BETHEL TV
+https://streannlive-lh.akamaihd.net/i/betheltelevision_1@352148/index_1_av-p.m3u8?sd=10&dw=3600&set-segment-duration=smoothest&rebase=on&hdntl=exp=1641043616~acl=*~data=hdntl~hmac=e6bc5ae1824dbc60d8763fbe6d0f793e83b4765656f33998b27bed838a6c7f13
+
+
+
 #EXTINF:-1 tvg-logo="https://www.canaljesustv.com/wp-content/uploads/2017/01/02-Anunciando-la-buena-nueva.jpg"group-title="CRISTIANO", JESÚS TV
 https://cloudflare.streamgato.us:3037/live/jesustvlive.m3u8?WebM3UCL
 
