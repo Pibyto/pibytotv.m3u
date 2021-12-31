@@ -163,7 +163,8 @@ https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="ARGENTINA", TOP CINE
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+https://olympusamagi.pc.cdn.bitgravity.com:443/TopCine-roku/master_6.m3u8
+
 
 
 
