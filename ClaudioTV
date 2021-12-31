@@ -860,6 +860,9 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://distribucion.betheltv.tv/assets/imagenes/noticias/3_bethel_television_ingresa_a_nueva_plataforma.jpg"group-title="CRISTIANO", BETHEL MUSICALES
+https://streannlive-lh.akamaihd.net/i/bethelmusicales_1@355207/master.m3u8?customtoken=d87eb245-357c-4947-8a5d-6293f1e76053&hdnts=exp=1640957192~acl=*~hmac=149dd3620fa99c7cb73a2d75a511bbec8a95679350dbdac9205620c018eda495&AkamaiAnalytics_debug=1&set-segment-duration=smoothest&dw=3600&resellerId=5e00e27f2cdcb4fdbcd783c8
+
 
 
 
