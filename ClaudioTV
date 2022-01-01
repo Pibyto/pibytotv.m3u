@@ -833,7 +833,19 @@ https://streannlive-lh.akamaihd.net/i/bethelmusicales_1@355207/master.m3u8?custo
 https://gloria.tv/streaming/2un4HSSCCaYjD97Lqh6FYwwsA
 
 
+#EXTINF:-1 tvg-logo="https://img.repelis.id/cover/un-golpe-del-destino.jpg"group-title="VOD/CRISTIANO", GOLPE DEL DESTINO
+https://r1---sn-x1x7dn7k.c.drive.google.com/videoplayback?expire=1641064740&ei=5HDQYbP4Kvbp1bYPk_iUmAs&ip=186.132.97.248&cp=QVRJU0FfU1dSQVhPOnZ6cWgxUGdlN2xzWENyMVpZZ1ItNEQ5N3d4bXRieDllLWRoSFA5TTM1SnE&id=de5ae505003b6797&itag=18&source=picasa&requiressl=yes&mh=Hd&mm=32&mn=sn-x1x7dn7k&ms=su&mv=m&mvi=1&pl=18&ttl=transient&susc=dr&driveid=1iKFRQPk9mlZ0MFxJHF-0xRAXM7EI54MKYg&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=7122.233&lmt=1537838712200658&mt=1641049960&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhANutW_nAWXRyU45-27GXnrgoPn51ruZVN9c8s0qFsb9pAiAyeHbg2t2ciIiNKv5Ert9zdLWHQQi_quvB92cxLqfJvA==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAL3u2PFJKsSqViUlDzfNaFecx8ReVRH6vxcEVn9yOtdAAiBcUW_BZ9Tvi6PIBfCLANfBCJTY5BMBicjpbBmRWAOdAw==&cpn=19s38QN4NbvVSXkD&c=WEB_EMBEDDED_PLAYER&cver=1.20211215.00.01
 
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cineenlinea.net/dvd/juliofoxysony/JPEG/TCFHE_PERSECUTED_BR_PORTADILLA.jpg"group-title="VOD/CRISTIANO", PERSEGUIDO POR EL PODER
+https://vd186.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1641137549928&srcIp=186.132.97.248&srcAg=CHROME_ANDROID&ms=45.136.21.33&type=4&sig=kZBX4YjcKZ8&ct=8&urls=185.226.52.76&clientType=0&id=1017847548439
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OAVbVOZh0M4/maxresdefault.jpg"group-title="VOD/CRISTIANO", EXPERIENCIA CRUZADA
+https://rr1---sn-p5qs7nes.googlevideo.com/videoplayback?expire=1641073296&ei=MHbQYemeF4_ohgaK_a3IBg&ip=154.13.133.180&id=o-AAy_3dxD7tk8Cjv8lvS-S2b612-s6WmNvDgz65gfyfs-&itag=22&source=youtube&requiressl=yes&mh=rB&mm=31%2C29&mn=sn-p5qs7nes%2Csn-p5qlsnzd&ms=au%2Crdu&mv=u&mvi=1&pl=23&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=489.732&lmt=1575397839119951&mt=1641050774&fvip=1&fexp=24001373%2C24007246&c=ANDROID&txp=1306222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIhAJ56j65GXLJ90vpR37432yTp82zDG6rQhFgPqcHbtvgAAh9T5ENzPPIGmrQCVv6URoMJzzW4TarPcT3isaVJV9U_&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRgIhANTY0A9alV4PQdJZttfdNCP7HoQAGGxw1V7KgWc08Nf2AiEAqFVmP6RkjMGZ-8y76wX6GtbQPN0iO8hovIf5qCG3Ks8%3D
 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/518AXWN6QBL.jpg"group-title="VOD/CRISTIANO", RESCATADOS DEL INFIERNO
