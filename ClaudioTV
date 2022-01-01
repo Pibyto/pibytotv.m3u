@@ -869,6 +869,20 @@ https://vd284.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1641139067355&srcIp
 
 
 
+#EXTINF: -1 tvg-logo = "https://es.web.img3.acsta.net/pictures/17/01/10/09/13/325612.jpg" group-title = "VOD/CRISTIANO", EL SALVADOR
+https://play-akamai.pongalo.com/the-savior/the-savior_1-1/hls_2500.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://4.bp.blogspot.com/-s01jrzR37cM/WSylxxkbFUI/AAAAAAAAJyQ/Ratsh5oE6rkkWTMs1i8ReUqiojgCFzq6ACLcB/s1600/donde.jpg"group-title="VOD/CRISTIANO", DONDE ESTA DIOS?
+https://play-akamai.pongalo.com/where-is-good/where-is-good_1-1/play_v1_hls_1080p.m3u8
+
+
+#EXTINF: -1 tvg-logo = "https://www.bibliatodo.com/PeliculasCristianas/wp-content/uploads/2021/02/el-sonido-del-espiritu.jpg" group-title = "VOD/CRISTIANO", EL SONIDO DEL ESPÍRITU
+https://play-akamai.pongalo.com/sound-spirit/sound-spirit_1-1/play_v1_hls_1080p.m3u8
+
+
+
+
 #EXTINF:- tvg-logo="https://pics.filmaffinity.com/El_cielo_es_real-377992411-large.jpg"group-title="VOD/CRISTIANO", EL CIELO ES REAL
 https://seed-us1.gloria.tv/4xeC19PyKNuaBXe3vxFhAQsmN/tmx7ecdys7cji0m9ecprzkodkv8rj49o4swmr8g.mp4/index.m3u8
 
