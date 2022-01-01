@@ -180,23 +180,6 @@ https://olympusamagi.pc.cdn.bitgravity.com:443/TopCine-roku/master_6.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/f4/41/ac/f441ac38-9d37-ba81-e0a1-1d8f27966e03/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png"group-title="ARGENTINA", CANELA TV
-https://stream.ads.ottera.tv/cl/319731d1-938f-4d99-a1e8-fa4b409eaa2b/1280x720_2300000_4_false.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.novelas.net.br/wp-content/imagens/2019/03/cropped-Logo-Novelas-1.jpg"group-title="ARGENTINA", CANELA TELENOVELAS
-https://stream.ads.ottera.tv/cl/156bfafd-35ce-4366-a7bc-831ff7461dfe/1280x720_1400000_3_false.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"group-title="ARGENTINA",CINE ROMANTICO
-https://stream.ads.ottera.tv/cl/2782a976-ac10-4f7a-ae95-94b00cf8cbdb/1280x720_1400000_3_false.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://static.12core.net/0db2c3cfb3b99f46cfe3132701abddb0.png"group-title="ARGENTINA",CANELA CINEMA
 https://stream.ads.ottera.tv/cl/13b8e337-ea89-447d-8865-de2e91aaf85b/1280x720_1400000_3_false.m3u8
@@ -230,9 +213,6 @@ https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w149262164
 #EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA"group-title="ARGENTINA", CANAL 9 NORTE MISIONES
 https://panel.dattalive.com/8076/8076/playlist.m3u8
 
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Televisi%C3%B3n_Nacional_de_Chile_wordmark.svg/1200px-Televisi%C3%B3n_Nacional_de_Chile_wordmark.svg.png"group-title="ARGENTINA", TVN
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream-dai/c772e2ff710d47519accb36341713f3b/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57a498c4d7b86d600e5461cb/adecfda8-5418-4878-8c0a-250907d4caf8/1.m3u8?aid=51c2f628b440bd797900051f&uid=c7rAqFJkTTCk3w1TtmiAzZg3OaaHimG9&sid=yBy9xigWf2gHBHLVrNHpnxJFWHIo0PHH&pid=bRHSRLdTshvVlAxasDo5QbmmX2En6kdr&ref=https%3A%2F%2Ftoken.tvn.cl%2F&without_cookies=false&dnt=true&access_token=9CUS7FxxrvCleTYAakOIFvtRioyY8ZcypfYwBGD71zZnBxazhSR0MQG4ayESBJZSyMtWmG2VMN4&es=us-b4-p-e-xy7.cdn.mdstrm.com&ote=1640555992841&ot=2rfXK6tsLMDkSRsoCxJhjw&proto=https&pz=us
 
 
 
@@ -286,9 +266,6 @@ https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1401222220102438917/lF-wvCH1_400x400.jpg"group-title="ARGENTINA", MUSAVISION
-https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/chunks.m3u8?nimblesessionid=75098665&WebM3UCL
 
 
 
@@ -388,6 +365,12 @@ https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CqQF1Qpl5ZhuNZpvjDdNLq9Hch2
 
 #EXTINF:-1 tvg-logo="https://thumbnails.odysee.com/optimize/s:0:500/quality:85/plain/https://cdn.lbryplayer.xyz/speech/851f4366082cd2fb:d.png"group-title="DOCUMENTALES", LA VERDAD SOBRE EL CORONA VIRUS
 https://cdn.lbryplayer.xyz/api/v4/streams/tc/final-definitivo-martinez.mp4/13f0e649d353b7bb8dd594770f97853bf83ac4b4/41eab061eebab01ea68b4a69373a63455a882a253f52bc5840b1f09df76420aac5f4c61f285702239f2bccd9a65c1cf4/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-6yKky6ojXtocg6nB-rYanMA-t500x500.jpg"group-title="DOCUMENTALES", TIEMPOS PELIGROSOS
+https://rr5---sn-ab5sznle.googlevideo.com/videoplayback?expire=1641066463&ei=f1vQYbOhBo3phwaGsbLoBQ&ip=23.254.49.145&id=o-AO-F-i-gorH0Q0JSt3_iy4CAxIsSKtbBrpJsSsi32aFx&itag=22&source=youtube&requiressl=yes&mh=x-&mm=31%2C26&mn=sn-ab5sznle%2Csn-p5qs7n7d&ms=au%2Conr&mv=m&mvi=5&pl=24&initcwndbps=411250&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=1818.888&lmt=1630915130045647&mt=1641044478&fvip=5&fexp=24001373%2C24007246&c=ANDROID&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgWj7ZHr7-MUKJ3kYPhMHiPDKX3PbSQDk5eLx2Hg-IChsCIQCG0MP7cOuqbORa8Q0xa557S_0sPX4x9Smbu9dAOV-orw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgbKGIrOLtcdAa4McO0Yu7ZRrfVZcL3V5lZluAmdvQ-hQCIGFC25L1A37GAGOjsQj41HM5qloCHkH1eekBtdsMnWPl
 
 
 
