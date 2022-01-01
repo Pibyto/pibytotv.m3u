@@ -221,30 +221,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="ARGENTINA", UNIVERSAL HD
-http://etvhome.com:25461/Arturo/Arturo1/13364
-
-
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png"group-title="ARGENTINA", UNIVERSAL CINEMA
-http://etvhome.com:25461/Arturo/Arturo1/140097
-
-
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png"group-title="ARGENTINA", UNIVERSAL COMEDY
-http://etvhome.com:25461/Arturo/Arturo1/138231
-
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png"group-title="ARGENTINA", UNIVERSAL PREMIER
-http://etvhome.com:25461/Arturo/Arturo1/138233
-
-
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png"group-title="ARGENTINA", UNIVERSAL CRIME
-http://etvhome.com:25461/Arturo/Arturo1/138232
-
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1900466692_UniversalReality.png.4589a40c388f30c4a4529ab027716a02.png"group-title="ARGENTINA", UNIVERSAL REALITY
-http://etvhome.com:25461/Arturo/Arturo1/140098
-
-
-
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-13-San-Luis-en-vivo-Online.png"group-title="ARGENTINA", CANAL 13 SAN LUIS
 https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w1492621647_b1030144.m3u8
