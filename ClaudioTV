@@ -161,6 +161,12 @@ http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist_w365987513.m3u8?WebM3UCL
 #EXTINF: -1 tvg-logo = "https://albardontv.com.ar/wp-content/uploads/2020/02/1.png"group-title="ARGENTINA", ALBARDON TV SAN JUAN
 https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1095378907942014976/_wDsVuy0_400x400.jpg"group-title="ARGENTINA", !!CAOS!! - @VIX
+https://play-akamai.pongalo.com/nyc-tornado-terror/nyc-tornado-terror_1-1/play_v1_hls_1080p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgs3.pongalo.com/categories/VOD/Channel_Cards_Movies.jpg"group-title="ARGENTINA", MOVIE- @VIX
+https://play-akamai.pongalo.com/shirin-love/shirin-love_1-1/hls_2500.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="ARGENTINA", TU CINE
