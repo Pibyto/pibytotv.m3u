@@ -169,6 +169,15 @@ https://play-akamai.pongalo.com/nyc-tornado-terror/nyc-tornado-terror_1-1/play_v
 https://play-akamai.pongalo.com/shirin-love/shirin-love_1-1/hls_2500.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.corcudec.cl/wp-content/uploads/2018/10/FICFS-Web-360x240.jpg"group-title="ARGENTINA", CINE SUSPENSO - @VIX
+https://play-akamai.pongalo.com/xternal-affairs/xternal-affairs_1-1/play_v1_hls_1080p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://novelas.pormega.com/wp-content/uploads/2020/10/La-Promesa-2013MegaOnLine61.jpg"group-title="ARGENTINA", SERIES - @VIX
+https://play-akamai.pongalo.com/la-promesa/la-promesa_1-1/hls_2500.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="ARGENTINA", TU CINE
 https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
 
