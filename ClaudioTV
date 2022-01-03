@@ -38,6 +38,9 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
 
 
+#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-PkSqz6Aw_KI/WwoSzNHYAtI/AAAAAAAABmI/OjQlFpl0bTEqlXd5-MbJfYF-dJo9elBjwCLcBGAs/s320/vision%2B3000.png"group-title="ARGENTINA", VISIÓN 3000
+https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1268363411.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",  SOMOS DEL ESTE HD
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
@@ -1672,9 +1675,6 @@ https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
 #EXTINF: -1 tvg-logo = "https://graph.facebook.com/radioprimaveramoquegua/picture?width=320&height=320"group-title= "CINE Y SERIES", Primavera 15 
 https://rtmp02.portalexpress.es/primaveratv/primaveratv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91a3378f-11bb-45c5-9fb4-bdaf842fafe2/d58xy2b-d2b2e6ec-5d62-4fd2-90cd-cb2bd506c709.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxYTMzNzhmLTExYmItNDVjNS05ZmI0LWJkYWY4NDJmYWZlMlwvZDU4eHkyYi1kMmIyZTZlYy01ZDYyLTRmZDItOTBjZC1jYjJiZDUwNmM3MDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Anf4N8Ya-SlPG8i4npqtNka3qkG-8MNwFShwaPZgH4w"group-title="24/7",¡CARLY
-http://tv.naturalplus.live:25461/Carla/Carla123/79
-
 
 #EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png"group-title="ARGENTINA", CALCHAQUI TV TUCUMAN
 http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
@@ -1779,7 +1779,7 @@ https://583ed2f226ac2.streamlock.net/49/stream/chunklist_w1954002463.m3u8
 
 
 
-#EXTINF: -1 tvg-logo = "http://www.radiosublimegraciatv.com.ar/img/logo.png"group-title="CRISTIANO", SUBLIME GRACIA TV FORMOSA
+#EXTINF: -1 tvg-logo = "http://www.radiosublimegraciatv.com.ar/img/logo.png"group-title="CRISTIANO", SUBLIME GRACIA TV
 https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
 
 
@@ -1793,7 +1793,7 @@ https://asomastream.duckdns.org/livestream/stream.m3u8?WebM3UCL
 
 
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/XTO_TV_2017.png/revision/latest/scale-to-width-down/300?cb=20200923004941&path-prefix=es"group-title="CRISTIANO",  XTO TV BOLIVIA
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/XTO_TV_2017.png/revision/latest/scale-to-width-down/300?cb=20200923004941&path-prefix=es"group-title="CRISTIANO",  XTO TV
 https://5f5a73adac4ac.streamlock.net/XtoTv/XtoTv/chunklist_w1492576395.m3u8?WebM3UCL
 
 
@@ -1877,7 +1877,6 @@ https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/playlist.m3u8
 
 #EXTINF: -1 tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/1200px-Logo_tvmax.png"group-title="ARGENTINA", TVMAX
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
-
 
 
 #EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-PkSqz6Aw_KI/WwoSzNHYAtI/AAAAAAAABmI/OjQlFpl0bTEqlXd5-MbJfYF-dJo9elBjwCLcBGAs/s320/vision%2B3000.png"group-title="CINE Y SERIES", VISIÓN 3000
