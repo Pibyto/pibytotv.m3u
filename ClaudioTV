@@ -75,6 +75,8 @@ https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=16c246aae504d8bd53166621eef62ed378dba7c879a776fb979bcd22aee6c239&exp=1639846091
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-THdaYfFi1xU/X60myXKF8tI/AAAAAAAA7Og/hB3m6DqzN9EvfnoBnjNWKiT9MT6hDSl4QCK8BGAsYHg/s0/2020-11-12.png"group-title="ARGENTINA", EXPRECION TV
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
 https://videohd.live:19360/8010/8010.m3u8
@@ -1343,9 +1345,6 @@ https://inliveserver.com:1936/10020/10020/chunklist_w1563077035.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_disney-jr_m.png"group-title="INFANTIL", DISNEY JUNIOR
 http://tv.naturalplus.live:25461/Carla/Carla123/660
 
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-m66zwUAoFBM/X_T87xEv56I/AAAAAAAAeNg/78xHJ9VQ5_I8X1ZKVqMv2YjO7Mk5sidRQCLcBGAsYHQ/s400/Logo%2BDisney%2BXD.jpg"group-title="INFANTIL", DISNEY XD
 
 
 
