@@ -34,8 +34,12 @@ https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/2070c68
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pe-mega-tv-arequipa-6914.jpg"group-title="ARGENTINA", MEGA TV
+https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",  SOMOS DEL ESTE HD PARAGUAY
+
+
+#EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",  SOMOS DEL ESTE HD
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 
@@ -133,9 +137,6 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F727f4de6a319b31e9aa766153c0af631915d2c11557468f8447d81a10c543292.png"group-title="ARGENTINA", RCKTV
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w1912863401.m3u8?WebM3UCL
 
-
-#EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2021/01/Captura-de-Pantalla-2021-01-27-a-las-10.32.34-554x1000.png"group-title="ARGENTINA", 13 TELESERIES
-https://unlimited1-cl-isp.dps.live/13t/13t.smil/nimble-absolute-url-livestream1-edge.m3u8?nimblesessionid=19072448&WebM3UCL&nimbleabsoluteurl=ltOWQoLOPF7ZIC%2FnIEshND7RjOl4qlfgBZyFNBC0X0ld4ETDPj14oRqQSs%2FiGrGBmQJetKChhAyIJ1Im1y328HRdmPxs58E6ZnAfcfaPZi+wx1+dpbELHTTnG+pRmlYz&nimbleurlhash=1bm2k6GiwdhblXlLcdfKJQ==&nimbleurliv=eiCx+cYK0T+OjEnZ1bhJQQ==
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Contivision-en-vivo-Online.png"group-title="ARGENTINA", CONTIVISION
