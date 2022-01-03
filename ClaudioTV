@@ -34,6 +34,11 @@ https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/2070c68
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 
+
+#EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",  SOMOS DEL ESTE HD PARAGUAY
+https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png"group-title="ARGENTINA", WOW
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
@@ -56,6 +61,11 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ksm54ajpnavf.png"group-title="ARGENTINA", LUNA TV
 https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA", MI TV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=16c246aae504d8bd53166621eef62ed378dba7c879a776fb979bcd22aee6c239&exp=1639846091
 
 
 
@@ -648,30 +658,13 @@ http://etvhome.com:25461/Arturo/Arturo1/27683
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png"group-title="PARAGUAY", TELEFUTURO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png"group-title="ARGENTINA", TELEFUTURO HD
 https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=baafb2386de880ff57f95cb135dd35e161ceca0b00725591acdd76a7d621e1ab&exp=1639530366
 
 
-#EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png"group-title=" PARAGUAY" ,SUCESO TV
+#EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png"group-title="ARGENTINA" ,SUCESO TV
 https://59ce1298bfb98.streamlock.net:443/sucesotv/sucesotv/chunklist_w1622156069.m3u8?WebM3UCL
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title=" PARAGUAY", MI TV
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=16c246aae504d8bd53166621eef62ed378dba7c879a776fb979bcd22aee6c239&exp=1639846091
-
-
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg"group-title="PARAGUAY", SNT HD
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM5NjE2NTQ2LCJzZXNzaW9uIjoiMjAwLjEyMy4xNTAuMTY5Iiwid2hpdGVsaXN0IjpbIjIwMC4xMjMuMTUwLjE2OSJdfSwic2lnbmF0dXJlIjoiOWM4YmRkZjg1Yzc3YjRmZjdhNjEyMDk3ZDQxYThjOTU0MTcwMGUwYiJ9
-
-
-
-
-
-#EXTINF: -1tvg-logo="https://www.rcn.com.py/file/2020/08/portada_rcnmedia.png"group-title=" PARAGUAY", RCN HD
-https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
-
-
-#EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title=" PARAGUAY",  SOMOS DEL ESTE HD PARAGUAY
-https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/815/325/png-clipart-cinema-film-movie-theatre-film-poster-clapperboard.png"group-title="CRISTIANO", MOVIE FE
