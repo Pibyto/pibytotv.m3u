@@ -38,6 +38,10 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png"group-title="ARGENTINA", LA CALETA
+https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="ARGENTINA", CINE ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
 
@@ -1619,7 +1623,7 @@ https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u.cl/logo/522_TV_MauleSur.png"group-title="CINE Y SERIES", TV MOULE SUR
 https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg"group-title="PARAGUAY", LIM
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg"group-title="ARGENTINA", LIM
 https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8?WebM3UCL
 
 
@@ -1726,27 +1730,6 @@ http://185.36.211.142:8080/tmp_hls/sion/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/98030b7/2147483647/strip/true/crop/1000x716+0+0/resize/1200x859!/quality/90/?url=https%3A%2F%2Fcaracol-brightspot.s3-us-west-2.amazonaws.com%2Fassets%2Fbluradio%2Fblu_radio._pastor_condenado_por_estafa_floridablanca_._foto._captura_video.jpg"group-title="OMAR SAIZ", OMAR SAIZ ( HUMANOS DIGITALES Y SIN ALMAS)
-https://rr3---sn-x1x7zn7l.c.drive.google.com/videoplayback?expire=1640060858&ei=eh_BYY73Ms7egwPd26roCw&ip=186.132.28.169&cp=QVRJUkFfT1hTSVhPOm5jS1p4R3d3RnVDcnZVeGh2RG0xQVdIcEZUU2NOb0VTeUpISmRGM2xycEs&id=0370d9051b3b9f14&itag=18&source=webdrive&requiressl=yes&mh=go&mm=32&mn=sn-x1x7zn7l&ms=su&mv=m&mvi=3&pl=21&sc=yes&ttl=transient&susc=dr&driveid=1eb-xhfX1C6mM3PkoYxokjpgPJBJngxSl&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=4800.516&lmt=1640037229892348&mt=1640046268&txp=0011224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRgIhAPyKs3V0L53aM1PPLD41HcZqZ9zkdG0CXVCD7VNmtTyeAiEAu7WtBWFUmVPaRC1fdzuhCLjgAYnJ8nrMqqiJlBke2xE=&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRQIgZmkFypuXNT5Sfr4-CpFjzt7cHfwpnWWiIGd7sJ8-IkMCIQDcCYI7CVgWPkyHDv0VgUHc3rRCke4YWGGoruU3dN-yoA==&cpn=U5p0zTFFjgKhTf4N&c=WEB_EMBEDDED_PLAYER&cver=1.20211215.00.01
-
-
-
-#EXTINF:-1 tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/98030b7/2147483647/strip/true/crop/1000x716+0+0/resize/1200x859!/quality/90/?url=https%3A%2F%2Fcaracol-brightspot.s3-us-west-2.amazonaws.com%2Fassets%2Fbluradio%2Fblu_radio._pastor_condenado_por_estafa_floridablanca_._foto._captura_video.jpg"group-title="OMAR SAIZ",OMAR SAIZ
-https://dgeft87wbj63p.cloudfront.net/47a5d5a9d66b0f5c8235_iglesiamca_44052804428_1639322313/chunked/index-dvr.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/5/e/8/1/59c1-e8cb-4beb-a514-abd3a6f11ddd.png"group-title="ARMANDO ALDUCIN", ARMANDO ALDUCIN ( )
-https://usher.ttvnw.net/vod/45321676.m3u8?allow_audio_only=true&allow_source=true&cdm=wv&nauth=%7B%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%7D%2C%22device_id%22%3A%22zJ6xvzggH3X4lFu8VBEXzQON1cjYWXHY%22%2C%22expires%22%3A1639400854%2C%22https_required%22%3Atrue%2C%22privileged%22%3Afalse%2C%22user_id%22%3Anull%2C%22version%22%3A2%2C%22vod_id%22%3A45321676%7D&nauthsig=903d7fb02904359673607181b2c88a1a2958be76&play_session_id=c2be771205f54740969d73491809855d&player_backend=mediaplayer&player_type=pulsar&player_version=1.6.0&warp=true
-
-#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/5/e/8/1/59c1-e8cb-4beb-a514-abd3a6f11ddd.png"group-title="ARMANDO ALDUCIN", ARMANDO ALDUCIN ( )
-https://usher.ttvnw.net/vod/44924487.m3u8?allow_audio_only=true&allow_source=true&cdm=wv&nauth=%7B%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%7D%2C%22device_id%22%3A%22zJ6xvzggH3X4lFu8VBEXzQON1cjYWXHY%22%2C%22expires%22%3A1639400964%2C%22https_required%22%3Atrue%2C%22privileged%22%3Afalse%2C%22user_id%22%3Anull%2C%22version%22%3A2%2C%22vod_id%22%3A44924487%7D&nauthsig=83fb124eb5fbe4b53445b74aa74289881b2c4732&play_session_id=6025fe61da774cac88ac4b1ed7ade5db&player_backend=mediaplayer&player_type=pulsar&player_version=1.6.0&warp=true
-
-
-#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/600x600/extaudio/5/e/8/1/59c1-e8cb-4beb-a514-abd3a6f11ddd.png"group-title="ARMANDO ALDUCIN", ARMANDO ALDUCIN (La futura invasión demoniaca ) 
-https://usher.ttvnw.net/vod/45290453.m3u8?allow_audio_only=true&allow_source=true&cdm=wv&nauth=%7B%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%7D%2C%22device_id%22%3A%22zJ6xvzggH3X4lFu8VBEXzQON1cjYWXHY%22%2C%22expires%22%3A1639419839%2C%22https_required%22%3Atrue%2C%22privileged%22%3Afalse%2C%22user_id%22%3Anull%2C%22version%22%3A2%2C%22vod_id%22%3A45290453%7D&nauthsig=4eb30bbb671fc1ff023e8a7facebd1dc7b787f90&play_session_id=9d2ac7ed52f54d3abc87a47cdee1aab1&player_backend=mediaplayer&player_type=pulsar&player_version=1.6.0&warp=true
-
-
-
 
 
 
@@ -1757,9 +1740,6 @@ https://usher.ttvnw.net/vod/45290453.m3u8?allow_audio_only=true&allow_source=tru
 
 
   
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1360962116480622594/DYJf7R0v_400x400.jpg"group-title="CRISTIANO EVENTOS", MINISTERIO GPS
 
 
 
