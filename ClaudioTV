@@ -853,7 +853,7 @@ https://streannlive-lh.akamaihd.net/i/bethelmusicales_1@355207/master.m3u8?custo
 https://play.pongalo.com/christ-lord/christ-lord_1-1/play_v1_hls_1080p.m3u8
 
 
-EXTINF:-1 tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/when-the-game-stands-tall/poster_originalsize_250X375.jpg"group-title="VOD/CRISTIANO", LEVANTANDOSE DE NUEVO
+#EXTINF:-1 tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/when-the-game-stands-tall/poster_originalsize_250X375.jpg"group-title="VOD/CRISTIANO", LEVANTANDOSE DE NUEVO
 https://vd376.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1641246748570&srcIp=186.132.71.130&srcAg=CHROME_ANDROID&ms=185.226.52.71&type=4&sig=rmTrEpUTngA&ct=8&urls=185.226.53.37&clientType=0&id=310364801667
 
 
