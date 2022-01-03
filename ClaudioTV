@@ -2244,28 +2244,14 @@ http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png"group-title="CINE Y SERIES", TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/29/db/ba/29dbbaa4b401cfb760813f915e886e8e.jpg"group-title="PARAGUAY", ÚNICANAL HD
-http://45.55.127.106/live/unicanal.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Paravision.jpg"group-title="PARAGUAY", PARAVISION HD
-http://goplays.xyz:8000/hugo/Hugo/139188
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png"group-title="PARAGUAY", EL TRECE HD PARAGUAY
-https://stream.rpc.com.py/live/trece.m3u8
 
 
 
 
 
 
-#EXTINF: -1 tvg-logo = "https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg"group-title="CINE Y SERIES", WMS HD
-https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "http://www.m3u.cl/logo/109756_Sol_TV.png"group-title="CINE Y SERIES", SOL TV
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG.png" group-title="PLUTO TV", CINE JAJA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
