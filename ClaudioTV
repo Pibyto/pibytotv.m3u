@@ -53,6 +53,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
+
+#EXTINF: -1 tvg-logo="https://domreptv.com/wp-content/uploads/2019/10/lunatv.jpg"group-title="ARGENTINA", LUNA TV
+https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
+
+
+
 #EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
 https://videohd.live:19360/8010/8010.m3u8
 
@@ -61,6 +67,8 @@ https://videohd.live:19360/8010/8010.m3u8
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/697_Hechicera_TV.png"group-title="ARGENTINA", HECHICERA TV
+https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
@@ -1047,7 +1055,7 @@ https://acastream.org:20048/;
 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/37/ae/ff/37aeff5fe7cc6a3964ead7e9aa1363d2.jpg"group-title="PARAGUAY", FARRA PLAY
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/37/ae/ff/37aeff5fe7cc6a3964ead7e9aa1363d2.jpg"group-title="ARGENTINA", FARRA PLAY
 http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://www.ministeriointernacionalyeshuasanayrestaura.org/data/files/yeshuasanayrestaurabanner.jpg"group-title="CRISTIANO", Yeshua Sana y Restaura TV
