@@ -2573,6 +2573,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 http://clubtv.link/2ene/peliculas3.php?c=without%20remorse%20%202021.mkv
 
 
+
+#EXTINF:-1 tvg-logo="https://cafecomnerd.com.br/wp-content/uploads/2021/09/Finch-Filme-de-ficcao-cientifica-de-Tom-Hanks-para-o-streaming-Apple-TV-Plus-ganha-poster.jpg"group-title="PELICULAS", FINCH
+https://pr2.sbcdnvideo.com/hls/tysxffqydo66j6cdabgrfg2cfzit6dvgcdtb3qvgxe2kh4krneob3qxl5eqq/index-v1-a1.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/11/13/22/5520699.jpg"group-title="PELICULAS", EJÉRCITO DE LOS MUERTOS
 http://clubtv.link/2ene/peliculas3.php?c=army%20of%20thieves%202021.mkv
 
