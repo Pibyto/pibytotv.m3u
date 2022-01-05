@@ -835,6 +835,10 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/un_amor_inquebrantable.jpg"group-title="VOD/CRISTIANO", AMOR INQUEBRANTABLE
+http://clubtv.link/2ene/peliculas2.php?c=img20200314122721/4m0r1nu3br4n74bl3.mp4
+
+
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-9_BNGQwOsH8/V18Z0YDlYZI/AAAAAAAAItc/XWaTP4OKwHIdZ2f8rcx0Dj5GkGepj11ZQCLcB/s1600/dgggg.jpg"group-title="VOD/CRISTIANO", EL MESIAS
 https://play.pongalo.com/christ-lord/christ-lord_1-1/play_v1_hls_1080p.m3u8
