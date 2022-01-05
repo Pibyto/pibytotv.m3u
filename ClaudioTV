@@ -2552,6 +2552,25 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/06/16/26/1138210.jpg"group-title="PELICULAS", SIN REMORDIMIENTOS
+http://clubtv.link/2ene/peliculas3.php?c=without%20remorse%20%202021.mkv
+
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/11/13/22/5520699.jpg"group-title="PELICULAS", EJÉRCITO DE LOS MUERTOS
+http://clubtv.link/2ene/peliculas3.php?c=army%20of%20thieves%202021.mkv
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cSWVdjfFK6k/YHtDwFfJjyI/AAAAAAADB-U/c1ZEI70Y3tU37upi1zE3pkTEliS9VWztwCLcBGAsYHQ/s838/el-protector-cine%2B%25281%2529.png"group-title="PELICULAS", EL PROTECTOR
+http://clubtv.link/2ene/peliculas3.php?c=the%20marksman%202021.mkv
+
 #EXTINF:-1 tvg-logo="https://www.mubis.es/media/articles/29653/282118/trailer-poster-y-fecha-de-estreno-de-venom-habra-matanza-original.jpg"group-title="PELICULAS", VENON - HABRA UNA MATANZA
 http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14676.mp4
 
