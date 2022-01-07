@@ -2583,6 +2583,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 http://clubtv.link/2ene/peliculas3.php?c=without%20remorse%20%202021.mkv
 
 
+#EXTINF:-1 tvg-logo="https://purodiseno.lat/wp-content/uploads/2021/10/KINGS-MAN-POSTER-717x1024.jpg"group-title="PELICULAS", EL KING'S MAN
+http://192.168.1.34:30001/file/0LjHrqDZ/video.mp4
+
+
 
 #EXTINF:-1 tvg-logo="https://cafecomnerd.com.br/wp-content/uploads/2021/09/Finch-Filme-de-ficcao-cientifica-de-Tom-Hanks-para-o-streaming-Apple-TV-Plus-ganha-poster.jpg"group-title="PELICULAS", FINCH
 https://pr2.sbcdnvideo.com/hls/tysxffqydo66j6cdabgrfg2cfzit6dvgcdtb3qvgxe2kh4krneob3qxl5eqq/index-v1-a1.m3u8
