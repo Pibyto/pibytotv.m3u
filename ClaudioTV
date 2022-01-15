@@ -786,7 +786,8 @@ https://streamer1.streamhost.org:443/salive/logosdirectaH/chunklist_w1482981736.
 https://playback2.akamaized.net/streams/13718662_4080629_lsi3e6k0cqjgy0nkgbg_1/exp=1640993022~acl=%2f*~data=hdntl~hmac=bbe59973c1de60d374d472c83f5a4fb70faa57c5a975183657f48d548ebb4f64/media/13718662_4080629_lsi3e6k0cqjgy0nkgbg_1@2128000pb.m3u8?dw=80&ts=1640905200
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/601919873380392960/kCqpYx5P.png"group-title="CRISTIANO", TELEFAMILIA
-https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?WebM3UCL
+
 
 
 
