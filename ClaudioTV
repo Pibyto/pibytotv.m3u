@@ -82,6 +82,10 @@ https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.google.com/search?q=logo++CaracolaTV+chile&tbm=isch&ved=2ahUKEwiMx4Xpn7T1AhXsOLkGHcjHAvsQ2-cCegQIABAC&oq=logo++CaracolaTV+chile&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIECB4QCjoHCCMQ7wMQJ1CxCFiYC2C_FWgAcAB4AIABiwGIAbsDkgEDMS4zmAEAoAEBwAEB&sclient=mobile-gws-wiz-img&ei=5P_iYYzFMuzx5OUPyI-L2A8&bih=512&biw=360&client=ms-android-motorola&prmd=invx#imgrc=gjYZB2rgU2WjtM"group-title="ARGENTINA", CARACOLA TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8?nimblesessionid=2553483&WebM3UCL
+
+
 #EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
