@@ -680,6 +680,13 @@ https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp"group-title="CRISTIANO", GOSPEL MOVIE TELEVISIÓN
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?WebM3UCL
 
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hZlw7ljt1Vo/YKF7Z2DLItI/AAAAAAAAASk/2R1fkB-MEss0lVZL2Z1aoDmc3Xufw6q8ACK4BGAYYCw/s400/webnata.png"group-title="CRISTIANO", NATANAEL TV
+https://stmv1.voxhdnet.com:443/ventvpremium/ventvpremium/chunklist_w1458867770.m3u8?WebM3UCL
+
+
+
+
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org//tv-logo/co-oasis-tv-8294-300x225.jpg"group-title="CRISTIANO", OASIS TV CHANNEL
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?WebM3UCL
 
