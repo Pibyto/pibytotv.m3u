@@ -79,6 +79,12 @@ https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w15
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png"group-title="ARGENTINA", 21 TV HD
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8?nimblesessionid=8381570&WebM3UCL
+
+
+
+
 #EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png"group-title="ARGENTINA", LA CALETA
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
