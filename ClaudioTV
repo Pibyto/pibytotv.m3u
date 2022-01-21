@@ -61,8 +61,7 @@ https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?WebM3UCL
 https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/cropped-atvargentina-favicon.png"group-title="ARGENTINA",
-ATV ARGENTINA
+#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/cropped-atvargentina-favicon.png"group-title="ARGENTINA",ATV AR
 https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png"group-title="ARGENTINA", ATV
