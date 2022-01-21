@@ -61,8 +61,6 @@ https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?WebM3UCL
 https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/cropped-atvargentina-favicon.png"group-title="ARGENTINA",ATV AR
-https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png"group-title="ARGENTINA", ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?WebM3UCL
@@ -79,6 +77,8 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="http://canalvisiondorada.com.co/images/Icono512x512.png"group-title="ARGENTINA", CANAL VISION DORADA
 https://movil.ejeserver.com/live/visiondorada.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/cropped-atvargentina-favicon.png"group-title="ARGENTINA",ATV AR
+https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?WebM3UCL
 
 
 #EXTINF:-1tvg-logo="https://i.pinimg.com/736x/84/d9/5d/84d95d39c4f21d5774383f124b674ab5.jpg"group-title="ARGENTINA", MEGAVISIÓN
