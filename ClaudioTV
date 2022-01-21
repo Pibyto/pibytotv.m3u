@@ -52,6 +52,27 @@ https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=6b
 https://py-snt-snt-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQyODc2ODAzLCJzZXNzaW9uIjoiMTg2LjEzMi4zNi4yNTUiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEzMi4zNi4yNTUiXX0sInNpZ25hdHVyZSI6ImYzMzAzYzMxMTFhMWYyMDcyNjFkMDNhMDkyZDYxM2YxNjljNmY0NDQifQ==
 
 
+#EXTINF:-1 tvg-logo="https://teleoriental.com.do/wp-content/uploads/2021/03/cropped-teleoriental.jpg"group-title="ARGENTINA", TELE ORIENTAL DIGITAL
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NnX56V9T5R8/XxKkisjn1tI/AAAAAAAAKRk/jPy1HuEtQdodTm1R7k-6ztQwEqQJ-XYowCLcBGAsYHQ/s1600/vegavision-18.png"group-title="ARGENTINA", VEGAVISION
+https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8?WebM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1242-640x360-FFFFFF.jpg"group-title="ARGENTINA", TELECARIBE
+https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr-300x300-1525980274.jpg"group-title="ARGENTINA", MICROVISION HD
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="http://canalvisiondorada.com.co/images/Icono512x512.png"group-title="ARGENTINA", CANAL VISION DORADA
+https://movil.ejeserver.com/live/visiondorada.m3u8?WebM3UCL
+
+
 
 #EXTINF:-1tvg-logo="https://i.pinimg.com/736x/84/d9/5d/84d95d39c4f21d5774383f124b674ab5.jpg"group-title="ARGENTINA", MEGAVISIÓN
 https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
