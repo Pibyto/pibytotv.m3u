@@ -78,6 +78,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?WebM3UCL
 https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/gh_television-1.png"group-title="ARGENTINA", GH TELEVISIÓN
+https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png"group-title="ARGENTINA", TV MAS
