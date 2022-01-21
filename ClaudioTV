@@ -124,10 +124,6 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ksm54ajpnavf.png"group-title="ARGENTINA", LUNA TV
-https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
-
-
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA", MI TV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=16c246aae504d8bd53166621eef62ed378dba7c879a776fb979bcd22aee6c239&exp=1639846091
@@ -224,8 +220,6 @@ https://stmv1.zcastbr.com:443/danielg/danielg/chunklist_w1637904609.m3u8?WebM3UC
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1049424706942722049/lgTYMykt_400x400.jpg"group-title="ARGENTINA", TDI
-https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://comoayer.weebly.com/uploads/4/6/7/8/46782355/published/1498d916-1440-4682-a5f0-9cee9d59c09d.png?1628906296"group-title="ARGENTINA", RETROPLAY TV
