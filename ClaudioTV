@@ -57,6 +57,21 @@ https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8?nimbleses
 https://cdn2.streamgato.us/ryetelevision/ryetelevision/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://channels.roku.com/images/a56bf9f28adb40c18f337be70404669d-hd.png"group-title="ARGENTINA",  ZPTV
+https://srv3.zcast.com.br:443/juancarlos9451/juancarlos9451/chunklist_w2048797446.m3u8?WebM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/multivision-2-logo-png-transparent.png"group-title="ARGENTINA",  MULTIVISION
+https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1517108113.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://sumundotv.com/wp-content/uploads/2021/12/logosumundo2-1.png"group-title="ARGENTINA",  SU MUNDO TV
+https://cdn4.hostlagarto.com:8081/sumundotv/sumundotv.myStream/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png"group-title="ARGENTINA", CANA TV
 https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist_w436300158.m3u8
