@@ -134,6 +134,10 @@ https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8?WebM3UCL
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.eabolivia.com/images/stories/plus/logo-boliviatv.jpg"group-title="ARGENTINA",  BTV
+https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w1327566929.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIyIDY6NTM6MDYgUE0maGFzaF92YWx1ZT16YjBjNW1MMFk2Z2RCbksySEVPa0JnPT0mdmFsaWRtaW51dGVzPTUwJmlkPQ%3D%3D
+
+
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pe-mega-tv-arequipa-6914.jpg"group-title="ARGENTINA", MEGA TV
 https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
 
