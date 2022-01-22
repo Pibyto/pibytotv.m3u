@@ -44,6 +44,29 @@ https://cdn1.streamgato.us:443/megacinetv/megacinetv/chunks.m3u8?nimblesessionid
 
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XrMUdkyPx10/XzgeHRC_4lI/AAAAAAAA4WM/OY0kXlB-fpMkogRS1KhC-pPpqPPyggH6ACK8BGAsYHg/s0/2020-08-15.jpg"group-title="ARGENTINA",  TNI 51
+https://ss8.domint.net:3126/tni_str/tni51/chunklist_w765326847.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dantvrd.com/logo512.png"group-title="ARGENTINA", DANTV
+https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8?nimblesessionid=96746076&DVR
+
+
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/r-e-television.png"group-title="ARGENTINA",  R&E TELEVISIÓN
+https://cdn2.streamgato.us/ryetelevision/ryetelevision/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png"group-title="ARGENTINA", CANA TV
+https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist_w436300158.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQChGIe2ysi_mBbS_k3_NHRPJhe_FqNWiIJQg&usqp=CAU"group-title="ARGENTINA",  ALEGRE TV
+https://cdn4.hostlagarto.com:8081/static/alegretv/playlist.m3u8?DVR
+
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_telefuturo_m.png"group-title="ARGENTINA", TELEFUTURO HD
