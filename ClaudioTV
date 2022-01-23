@@ -44,6 +44,26 @@ https://cdn1.streamgato.us:443/megacinetv/megacinetv/chunks.m3u8?nimblesessionid
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",  MX CLASSIC
+http://iptvcanales.gq/canales/live/263/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",  MX FAMILY
+http://iptvcanales.gq/canales/live/264/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",  MX PRIME
+http://iptvcanales.gq/canales/live/265/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_2-vVKDAd-2c/TDxvly2beWI/AAAAAAAADSg/bZStG9nPi80/s400/canal5.jpg"group-title="ARGENTINA", CANAL 5
+https://v-sd.mybtv.net/event/486/1280x720.m3u8?start_time=2022-01-23T17&end_time=2022-01-24T01 
+
+
+#EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/Cabezales/2245.jpg"group-title="ARGENTINA",  AZTECA 7
+https://v-sd.mybtv.net/event/502/1280x720.m3u8?start_time=2022-01-23T17&end_time=2022-01-24T01
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XrMUdkyPx10/XzgeHRC_4lI/AAAAAAAA4WM/OY0kXlB-fpMkogRS1KhC-pPpqPPyggH6ACK8BGAsYHg/s0/2020-08-15.jpg"group-title="ARGENTINA",  TNI 51
 https://ss8.domint.net:3126/tni_str/tni51/chunklist_w765326847.m3u8
 
