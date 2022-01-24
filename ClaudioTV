@@ -77,6 +77,30 @@ https://v-sd.mybtv.net/event/486/1280x720.m3u8?start_time=2022-01-23T17&end_time
 https://v-sd.mybtv.net/event/502/1280x720.m3u8?start_time=2022-01-23T17&end_time=2022-01-24T01
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348835968988700672/KyPDlxS6_400x400.jpg"group-title="ARGENTINA", CINE NARCO
+http://iptvcanales.gq/canales/dai/4Uv7iLToSHyDK87RqR7_gw/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348835968988700672/KyPDlxS6_400x400.jpg"group-title="ARGENTINA", CINE DRAMA
+http://iptvcanales.gq/canales/dai/r0KgfSjNRw-Z1rkgFfvndg/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348835968988700672/KyPDlxS6_400x400.jpg"group-title="ARGENTINA", CINE BOOM
+http://iptvcanales.gq/canales/dai/igA5BAdPTMaZNoSVDr3Qhw/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348835968988700672/KyPDlxS6_400x400.jpg"group-title="ARGENTINA", CINE SUSPENSO
+http://iptvcanales.gq/canales/dai/uXmor8LgQKuwi4l5n49_qg/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348835968988700672/KyPDlxS6_400x400.jpg"group-title="ARGENTINA", CINE COMICO
+http://iptvcanales.gq/canales/dai/vMRSMPCiTKqAQg1MKz2ZxA/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XrMUdkyPx10/XzgeHRC_4lI/AAAAAAAA4WM/OY0kXlB-fpMkogRS1KhC-pPpqPPyggH6ACK8BGAsYHg/s0/2020-08-15.jpg"group-title="ARGENTINA",  TNI 51
 https://ss8.domint.net:3126/tni_str/tni51/chunklist_w765326847.m3u8
 
