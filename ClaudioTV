@@ -54,7 +54,7 @@ https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/Cv4ELOFjK0g5D1dFGU8OegOzurN
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"group-title="ARGENTINA", MEGA CINE TV
 https://cdn1.streamgato.us:443/megacinetv/megacinetv/chunks.m3u8?nimblesessionid=129062
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA", PUNTA CANA TV
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png"group-title="ARGENTINA", PUNTA CANA TV
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
 
