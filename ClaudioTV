@@ -42,16 +42,6 @@ https://master.tucableip.com//zoytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"group-title="ARGENTINA", MEGA CINE TV
 https://cdn1.streamgato.us:443/megacinetv/megacinetv/chunks.m3u8?nimblesessionid=109222
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png"group-title="ARGENTINA",  GOLDEN HD
-http://iptvcanales.gq/canales/tvfree/202/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.GoldenPlus.png.2bb811abb24ea652e0afb3148038747e.png"group-title="ARGENTINA",  GOLDEN PLUS HD
-http://iptvcanales.gq/canales/tvfree/73/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png"group-title="ARGENTINA",  GOLDEN PREMIER
@@ -142,8 +132,6 @@ https://cdn4.hostlagarto.com:8081/static/alegretv/playlist.m3u8?DVR
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_telefuturo_m.png"group-title="ARGENTINA", TELEFUTURO HD
-https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=eb307142408e6069d94e851990c5c30a2abb8d2b2f75e4332456bed0c3293ee7&exp=1642804398
 
 
 
@@ -191,9 +179,6 @@ https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8?WebM3UCL
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.eabolivia.com/images/stories/plus/logo-boliviatv.jpg"group-title="ARGENTINA",  BTV
-https://5fe2654d6127d.streamlock.net:443/boliviatv/videoboliviatv/chunklist_w1327566929.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIyIDY6NTM6MDYgUE0maGFzaF92YWx1ZT16YjBjNW1MMFk2Z2RCbksySEVPa0JnPT0mdmFsaWRtaW51dGVzPTUwJmlkPQ%3D%3D
-
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pe-mega-tv-arequipa-6914.jpg"group-title="ARGENTINA", MEGA TV
 https://media2.cdnlayer.biz:8081/8008/tracks-v1a1/mono.m3u8
@@ -210,9 +195,6 @@ https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w15
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png"group-title="ARGENTINA", WOW
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png"group-title="ARGENTINA", 21 TV HD
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8?nimblesessionid=8382245&WebM3UCL
 
 
 
@@ -292,12 +274,6 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 #EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoEmbErxc640V8CBY5gJ-XX457HFkiujM6Og&usqp=CAU"group-title="ARGENTINA", CANAL 5
-https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/06/Canal-5-del-pueblo-en-vivo-Alcorta-santa-fe-320x180.jpg"group-title="ARGENTINA", CANAL 5 ALCORTA SANTA FE
-https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
-
 
 
 #EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1341555650900455427/cVUKuSGt_400x400.jpg"group-title="ARGENTINA", CTV CORRIENTES
@@ -324,9 +300,6 @@ https://unlimited1-cl-isp.dps.live/contivision/contivision.smil/contivision/live
 #EXTINF:-1 tvg-logo="http://www.lagranja.tv/gallery_gen/a08851eaf2d8abd4a01558603ad6bdbd_470x475.82263814617.png"group-title="ARGENTINA", LA GRANJA TV
 https://5eae379fb77bb.streamlock.net:443/8126/8126/chunklist_w325188716.m3u8?WebM3UCL
 
-
-#EXTINF:-1 tvg-logo="https://www.tvquintaregion.cl/wp-content/uploads/2021/03/logo-png.png"group-title="ARGENTINA", TV QUINTA REGION I
-https://stmv1.zcastbr.com:443/danielg/danielg/chunklist_w1637904609.m3u8?WebM3UCL
 
 
 
