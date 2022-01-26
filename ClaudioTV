@@ -38,6 +38,17 @@ https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/2070c68
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xDDHbcp3-UOXRPHsLA9Ja92H7RpFBofW6WIyWidv_54NfFs&s"group-title="ARGENTINA", CANAL 2 PERICO
+https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-mGdBAJfSvuR-q_M_LXbmK0J5kg53k1-VQ&usqp=CAU"group-title="ARGENTINA", 12 TARTAGAL
+https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2dp6YjeRUcFJRHObWSAWvw38bAoRofqe1pQ&usqp=CAU"group-title="ARGENTINA", TVES
+https://stmv1.srvif.com/envivotves/envivotves/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoZdr8bOYTEmhxMFtRk-Kzkn9au3pJOSt29Q&usqp=CAU"group-title="ARGENTINA", ITEL CHAJARI
 http://66.128.32.245/output/iteltv/playlist.m3u8
 
