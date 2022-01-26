@@ -35,6 +35,11 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w13662490
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/2070c68a-751b-40d7-a067-cd01e0b5a2d0:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA", CNR.TV
+https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png/v1/fill/w_227,h_227,al_c,q_85,usm_0.66_1.00_0.01/LOGO%20ZoyTV%203.webp"group-title="ARGENTINA", ZOY TV
 https://master.tucableip.com//zoytv/playlist.m3u8
 
