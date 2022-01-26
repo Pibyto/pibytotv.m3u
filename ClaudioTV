@@ -62,7 +62,7 @@ https://cdn1.streamgato.us:443/megacinetv/megacinetv/chunks.m3u8?nimblesessionid
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png"group-title="ARGENTINA", PUNTA CANA TV
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA", LA CORRIENTE
+#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/bot%C3%B3n-vivo-de-instagram-la-corriente-icono-emblema-etiqueta-133633733.jpg"group-title="ARGENTINA", LA CORRIENTE
 https://stream.ads.ottera.tv/cl/234833a3-8eca-47fe-86a6-fb199856529c/1280x720_2300000_4_false.m3u8
 
 
