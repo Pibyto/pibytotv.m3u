@@ -35,7 +35,7 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w13662490
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/2070c68a-751b-40d7-a067-cd01e0b5a2d0:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA", CNR.TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB6W_eNXnePMz4pdqeHBwtH_aAvD8RJlW0qA&usqp=CAU"group-title="ARGENTINA", CNR.TV
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 
