@@ -80,6 +80,16 @@ https://stream.ads.ottera.tv/cl/234833a3-8eca-47fe-86a6-fb199856529c/1280x720_23
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png"group-title="ARGENTINA",  GOLDEN PREMIER
 http://iptvcanales.gq/canales/stream/0069/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAZKmt4iHp3wHrYlGSH19cpRvzAEY67N82A&usqp=CAU"group-title="ARGENTINA", ATV Digital
+https://video.misistemareseller.com:443/atvhonduras/atvhonduras/chunklist_w2085189261.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA",  BELLA ASUNCIÓN TV
+https://tvdatta.com:3602/stream/play.m3u8
+
+
 #EXTINF:-1 tvg-logo=""group-title="ARGENTINA",  MX CLASSIC
 http://iptvcanales.gq/canales/live/263/playlist.m3u8
 
