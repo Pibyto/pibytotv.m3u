@@ -42,20 +42,6 @@ https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CqYFVbFcoKXVfq0Dt9noZxwhIhVaQTLzuxIOggsUzoL_Fq7XjkgbDz0UE4sHDIMAZadPNjqS6AOAFC8jl-hx9LDnjkRVskjxXEOvoYZSJzHI9y0QPBo5mSnHNqPoBuw59qKcaBH5Iz-SNm8ukVtrBI6-E2Oq1FqojGa6oxsyYXeU9otYUlSkPC7I6SP5-yrs-PziKUzlHO3bd_sZNT_QyngVkXqFdcGwoNTHv_FHgwccHgCYXM7W5zheLF_Uq4oJo-aAhraqGOY-yFysPlOjZ2mSPPChP7eNhGaUcVZyz_K4r07ekoS5JDL-GhgTmDjHk7QWWUXs2zmAAp5wZrjz-SXNrni-0n1peGHUo9M8A60k3bKVo_Qt2spP4mDB4JrlNfj20eMKwI7Z2RPz74zw55wNiP9kVY9UdPdWe1RRO49WPlIkBRdcZWzw-nCOfTi2TSeJ_phz0zIhx64WVi3d62cKPbjnoO_SnZnH61niH7UIE4xhfn_hZp9ycixx8ZRkvPE7F0meRfAQw2n5Knn9odk9yNZkUwASr2wYPOKF0IPLIx4qCrFPOh25Ze-L7b6tXdA7sUeNgoFs90IgWxzFntjHKHtmYNRrmw6uNm6h6iKVRB9QUAOlWBGBVzyKCnoYTQOBb77X9iuZ8dZndUzrLEQbLRokeRxHEYYHUeVwhLji5QsdbJBYUMy9zI93uLhw-_eutsA_P2V4hVkcZ2FZRgLtY04fAlKmxSWtYx-dmdM3Fp-XZHkum7mf_Z1gKl_BTE-odZc71h6YA-WgTz14ngChEP92ZYmlAXbTpQDva6DsNTMrnKIE8pKV-K7ZMbgjcOdM8mOKjupXysJ4bf3R8MWYYuVd7XE42Xjd9SqnBZ6Mu10dNu2ZlVdlFBYtHlw1kTdsGVmsq4DvGgybHo22PSP6psf0a4YgASoJdXMtZWFzdC0yMO8C.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xDDHbcp3-UOXRPHsLA9Ja92H7RpFBofW6WIyWidv_54NfFs&s"group-title="ARGENTINA", CANAL 2 PERICO
-https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-mGdBAJfSvuR-q_M_LXbmK0J5kg53k1-VQ&usqp=CAU"group-title="ARGENTINA", 12 TARTAGAL
-https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2dp6YjeRUcFJRHObWSAWvw38bAoRofqe1pQ&usqp=CAU"group-title="ARGENTINA", TVES
-https://stmv1.srvif.com/envivotves/envivotves/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoZdr8bOYTEmhxMFtRk-Kzkn9au3pJOSt29Q&usqp=CAU"group-title="ARGENTINA", ITEL CHAJARI
-http://66.128.32.245/output/iteltv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB6W_eNXnePMz4pdqeHBwtH_aAvD8RJlW0qA&usqp=CAU"group-title="ARGENTINA", CNR.TV
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
@@ -97,12 +83,6 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png"group-title="ARGENTINA", PUNTA CANA TV
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/bot%C3%B3n-vivo-de-instagram-la-corriente-icono-emblema-etiqueta-133633733.jpg"group-title="ARGENTINA", LA CORRIENTE
-https://stream.ads.ottera.tv/cl/234833a3-8eca-47fe-86a6-fb199856529c/1280x720_2300000_4_false.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png"group-title="ARGENTINA",  GOLDEN PREMIER
-http://iptvcanales.gq/canales/stream/0069/playlist.m3u8
 
 
 
@@ -113,17 +93,6 @@ https://video.misistemareseller.com:443/atvhonduras/atvhonduras/chunklist_w20851
 #EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA",  BELLA ASUNCIÓN TV
 https://tvdatta.com:3602/stream/play.m3u8
 
-
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",  MX CLASSIC
-http://iptvcanales.gq/canales/live/263/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",  MX FAMILY
-http://iptvcanales.gq/canales/live/264/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",  MX PRIME
-http://iptvcanales.gq/canales/live/265/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1855ebb2d2587d5f0691118e0c2cd0351ea284548622c87825f121b222b2982b.png"group-title="ARGENTINA", CTV
 https://vdo2.streamgato.us:3233/live/ctvlive.m3u8
@@ -141,28 +110,6 @@ http://user.tvcluboficial.com/stream/free_Claudio_Caceres/BkZ/635.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348835968988700672/KyPDlxS6_400x400.jpg"group-title="ARGENTINA", CINE NARCO
-http://iptvcanales.gq/canales/dai/4Uv7iLToSHyDK87RqR7_gw/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348835968988700672/KyPDlxS6_400x400.jpg"group-title="ARGENTINA", CINE DRAMA
-http://iptvcanales.gq/canales/dai/r0KgfSjNRw-Z1rkgFfvndg/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348835968988700672/KyPDlxS6_400x400.jpg"group-title="ARGENTINA", CINE BOOM
-http://iptvcanales.gq/canales/dai/igA5BAdPTMaZNoSVDr3Qhw/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348835968988700672/KyPDlxS6_400x400.jpg"group-title="ARGENTINA", CINE SUSPENSO
-http://iptvcanales.gq/canales/dai/uXmor8LgQKuwi4l5n49_qg/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1348835968988700672/KyPDlxS6_400x400.jpg"group-title="ARGENTINA", CINE COMICO
-http://iptvcanales.gq/canales/dai/vMRSMPCiTKqAQg1MKz2ZxA/playlist.m3u8
 
 
 
@@ -209,9 +156,6 @@ https://cdn4.hostlagarto.com:8081/static/alegretv/playlist.m3u8?DVR
 
 
 
-
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg"group-title="ARGENTINA", SNT HD
-https://py-snt-snt-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQyODc2ODAzLCJzZXNzaW9uIjoiMTg2LjEzMi4zNi4yNTUiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEzMi4zNi4yNTUiXX0sInNpZ25hdHVyZSI6ImYzMzAzYzMxMTFhMWYyMDcyNjFkMDNhMDkyZDYxM2YxNjljNmY0NDQifQ==
 
 
 #EXTINF:-1 tvg-logo="https://teleoriental.com.do/wp-content/uploads/2021/03/cropped-teleoriental.jpg"group-title="ARGENTINA", TELE ORIENTAL DIGITAL
