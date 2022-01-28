@@ -58,7 +58,7 @@ https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CogFGFXXWbuj_E249KaGgQTZk1P
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA", COSMOS TV
+#EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2016/12/LOGO-2016-chico-3.jpg"group-title="ARGENTINA", COSMOS TV
 https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
 
