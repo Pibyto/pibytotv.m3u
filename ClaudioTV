@@ -1,9 +1,6 @@
 # ClaudioTV
 
 
-#EXTINF:-1 tvg-logo="https://graffica.info/wp-content/uploads/2017/07/logo-nasa-fondo-oscuro.jpg"group-title="ARGENTINA", LA NASA LIVE 
-https://ov-space-sp.ottera.tv:443/out/v1/190362790edc41c2bd6dd7653c2009f9/index_6.m3u8
-
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"group-title="ARGENTINA ", EL TRECE FHD
@@ -11,7 +8,8 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
-http://etvhome.com:25461/Arturo/Arturo1/134127
+http://globalentertainmentec.xyz:8000/Cristian2022/2022Cristian/7982
+
 
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-canal-7-de-jujuy.jpg"group-title="ARGENTINA", CANAL 7 JUJUY
