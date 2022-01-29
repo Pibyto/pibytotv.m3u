@@ -67,6 +67,9 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 
 
+#EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
 
 
 #EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
@@ -330,9 +333,6 @@ https://panel.dattalive.com/8012/8012/playlist.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
 
-
-#EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
 
