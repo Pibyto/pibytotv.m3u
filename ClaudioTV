@@ -566,6 +566,104 @@ https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w955317782.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES", ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png/v1/fill/w_227,h_227,al_c,q_85,usm_0.66_1.00_0.01/LOGO%20ZoyTV%203.webp"group-title="CINE Y SERIES", ZOY TV
+https://master.tucableip.com//zoytv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XrMUdkyPx10/XzgeHRC_4lI/AAAAAAAA4WM/OY0kXlB-fpMkogRS1KhC-pPpqPPyggH6ACK8BGAsYHg/s0/2020-08-15.jpg"group-title="CINE Y SERIES",  TNI 51
+https://ss8.domint.net:3126/tni_str/tni51/chunklist_w765326847.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://sumundotv.com/wp-content/uploads/2021/12/logosumundo2-1.png"group-title="CINE Y SERIES",  SU MUNDO TV
+https://cdn4.hostlagarto.com:8081/sumundotv/sumundotv.myStream/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxh58NzJFdRouYOSBtVZX-fjpIn4DdT9SSJg&usqp=CAU"group-title="CINE Y SERIES", PLANETA TV MOVIE
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="http://www.lagranja.tv/gallery_gen/a08851eaf2d8abd4a01558603ad6bdbd_470x475.82263814617.png"group-title="CINE Y SERIES", LA GRANJA TV
+https://5eae379fb77bb.streamlock.net:443/8126/8126/chunklist_w325188716.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png"group-title="CINE Y SERIES", READY
+http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="CINE Y SERIES", VALLEVISION HD
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
+
+
+
+#EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="CINE Y SERIES",  SOMOS DEL ESTE HD
+https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png"group-title="CINE Y SERIES", WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://radiaciones.files.wordpress.com/2020/09/5g-antenas-amanecer-1.png"group-title="DOCUMENTALES", RADIACION Y 5G 
 https://cdn.lbryplayer.xyz/api/v4/streams/tc/Especial-TLV1-N%c2%b002---Conferencia-Radiaci%c3%b3n-y-5G.-del-1%c2%b0-Ateneo-Cient%c3%adfico-Emp%c3%adrico-P%c3%bablico-Internacional./c8bb7de8871c29b6e06ee9ca95d5d89fe82689dd/1f1a99c00e861f6fd489428c97483813f9c0dc40109624cc625eff25799fde65dadf5ec5b6c84209dad5bb85f3c8a3fd/master.m3u8
 
