@@ -59,8 +59,12 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2020/12/kzo.jpg"group-title="ARGENTINA", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
+
+
 #EXTINF: -1 tvg-logo = "https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png" group-title = "ARGENTINA", TV NATURALEZA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion= & amp; b3fa-019cb96f121b & deviceMake = Chrome & deviceModel = web & deviceType = web & deviceVersion = unknown & includeExtendedEvents = false & sid = d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c & userId = & serverSideAds = true
+
+
 
 #EXTINF: -1 tvg-logo = "https://images.pluto.tv/channels/5d8d10ce06a9665fe54bf74a/colorLogoPNG.png" group-title = "ARGENTINA", TV NATURALEZA 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8? 842e-ed7bad763363 & deviceMake = Chrome & deviceModel = web & deviceType = web & deviceVersion = unknown & includeExtendedEvents = false & sid = c17b587b-1c4b-4113-806a-81298e54678e & userId = & serverSideAds = true
@@ -81,6 +85,9 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxh58NzJFdRouYOSBtVZX-fjpIn4DdT9SSJg&usqp=CAU"group-title="ARGENTINA", PLANETA TV MOVIE
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
+
+#EXTINF:-1 tvg-logo="https://sumundotv.com/wp-content/uploads/2021/12/logosumundo2-1.png"group-title="ARGENTINA",  SU MUNDO TV
+https://cdn4.hostlagarto.com:8081/sumundotv/sumundotv.myStream/chunks.m3u8
 
 
 
@@ -142,18 +149,12 @@ https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/Cv4EDuZ1vbnP7XZ1jvnPdmNX3vk
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxh58NzJFdRouYOSBtVZX-fjpIn4DdT9SSJg&usqp=CAU"group-title="ARGENTINA", PLANETA TV MOVIE
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png"group-title="ARGENTINA", PUNTA CANA TV
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfAZKmt4iHp3wHrYlGSH19cpRvzAEY67N82A&usqp=CAU"group-title="ARGENTINA", ATV Digital
-https://video.misistemareseller.com:443/atvhonduras/atvhonduras/chunklist_w2085189261.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA",  BELLA ASUNCIÓN TV
@@ -203,9 +204,6 @@ https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983
 
 
 
-
-#EXTINF:-1 tvg-logo="https://sumundotv.com/wp-content/uploads/2021/12/logosumundo2-1.png"group-title="ARGENTINA",  SU MUNDO TV
-https://cdn4.hostlagarto.com:8081/sumundotv/sumundotv.myStream/chunks.m3u8
 
 
 
