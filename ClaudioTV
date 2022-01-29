@@ -583,6 +583,9 @@ https://streaming.telecablecentral.com.do:443/live/MicroHD/chunklist_w955317782.
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png"group-title="CINE Y SERIES", PH TV
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png/v1/fill/w_227,h_227,al_c,q_85,usm_0.66_1.00_0.01/LOGO%20ZoyTV%203.webp"group-title="CINE Y SERIES", ZOY TV
 https://master.tucableip.com//zoytv/playlist.m3u8
