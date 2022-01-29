@@ -36,7 +36,8 @@ EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABe
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png"group-title="ARGENTINA", TELEMAX - 26.3
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png"group-title="ARGENTINA", TEC TV  22.5
