@@ -79,6 +79,9 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png"group-title="ARGENTINA", PH TV
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+
 
 #EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
@@ -377,8 +380,6 @@ https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w191
 
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Contivision-en-vivo-Online.png"group-title="ARGENTINA", CONTIVISION
-https://unlimited1-cl-isp.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8?nimblesessionid=18940075&WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="http://www.lagranja.tv/gallery_gen/a08851eaf2d8abd4a01558603ad6bdbd_470x475.82263814617.png"group-title="ARGENTINA", LA GRANJA TV
@@ -2072,9 +2073,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png"group-title="CINE Y SERIES", CARACOL
-https://6ra8tpg8m6.azcdn107.net:8443/hls/65is893586k.m3u8?s=Ocu3V9D3y2MoVoVb2Djctg&e=1628824653
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYn2FYv-PU-hnPCfQCCIdhJ9AccsqJdczBow&usqp=CAU"group-title="CINE Y SERIES", SONY COMEDIA
 https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
@@ -2123,10 +2121,6 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1268363411.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-N8tanxhoC5k/WV-zz41u9HI/AAAAAAAADmM/wJ1icRl-D5AuvGFs_YRtY_tZti5r7StRACLcBGAs/s1600/TV%2BCotu%25C3%25AD%2Ben%2Bvivo.png"group-title="CINE Y SERIES", TV COTUI HD
-https://vdo2.streamgato.us:3095/live/tvcotuilive.m3u8?WebM3UCL
-
-
 #EXTINF: -1 tvg-logo = "https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png"group-title="INFANTIL", AZTECA 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
@@ -2151,8 +2145,11 @@ https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGAsYHg/s0/2020-02-05.png"group-title="CINE Y SERIES", REC ONLINE
 https://master.tucableip.com/reconline/live/video.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png"group-title="CINE Y SERIES", PH TV
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png", 74 TV
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
