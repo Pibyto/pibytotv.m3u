@@ -95,6 +95,9 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 
 
+#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-NIJDSgSyQwI/YF4tcPPggxI/AAAAAAABA9Y/1pkfP7_eu10_moioRSqfOJpdaGgDsv2agCK8BGAsYHg/s512/2021-03-26.png"group-title="ARGENTINA", CANAL 32 SPTV SAN PEDRO
+https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
+
 
 #EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",  SOMOS DEL ESTE HD
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
@@ -1867,11 +1870,6 @@ https://cp.sradiotv.com:1936/8078/8078/chunklist_w1398365877.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EoEsgwMW4AEozlb.jpg"group-title="CINE Y SERIES", ROMANA TV
 http://live.romanatv42.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telemontv.com/img/log.2cd2a2a3.png"group-title="CINE Y SERIES", TELEMON
-http://184.173.181.2:1935/8062/8062/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115395_AC_Vision.png"group-title="CINE Y SERIES", AC VISION
-https://rtmp02.portalexpress.es:443/acvisionazogues/acvisionazogues/chunklist_w128224072.m3u8?WebM3UCL
 
 #EXTINF: -1 tvg-logo = "https://serenotv.com/wp-content/uploads/2020/08/canl-gen-tv.jpg"group-title="CINE Y SERIES", GENTV
 https://videohd.live:19360/8010/8010.m3u8
@@ -1909,10 +1907,6 @@ https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/chunklist_w16754
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ3NmFjYjQtNzM2Yi00NDEyLTgzYjMtMzFjODAwMjg2NzUzXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_.jpg"group-title="ARGENTINA", ANIME ZONE TV
 http://azxtv.com/hls/stream.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-NDPtywW2yXw/TtUdQmakgpI/AAAAAAAARMc/pCqOMMjasXE/s800/locomotion.jpg"group-title="ARGENTINA", LOCOMOTION
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pe-mega-tv-arequipa-6914.jpg"group-title="CINE Y SERIES", MEGA TV
@@ -2321,28 +2315,6 @@ https://www.youtube.com/watch?v=9FOhlvqOW9g
 
 
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/logo-canal-2-perico.jpg"group-title="ARGENTINA", CANAL 2 PERICO
-https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png"group-title="ARGENTINA", CANAL 12 TUCUMAN
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
-
-#EXTINF:-1 tvg-logo="http://www.ntvcanal7.com.ar/images/logo-canal7-150.png"group-title="ARGENTINA", 7 NORTE TUCUMAN
-http://video.streamtvradio.com:8081/uv027/uv027/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png"group-title="CINE Y SERIES", READY
-http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg"group-title="CINE Y SERIES", DANTV
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
-
-
-
-#EXTINF: -1 tvg-logo = "http://www.canal13jujuy.com/img/logo-web.png"group-title="ARGENTINA", CANAL 13 JUJUY
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-
 
 #EXTINF: -1 tvg-logo = "https://jtamendoza.com/images/icon_144.png"group-title="RADIO", JTA TV 21.1 MENDOZA
 https://streaming.jtamendoza.com:8443/hls/test_mid.m3u8
@@ -2375,8 +2347,6 @@ https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-NIJDSgSyQwI/YF4tcPPggxI/AAAAAAABA9Y/1pkfP7_eu10_moioRSqfOJpdaGgDsv2agCK8BGAsYHg/s512/2021-03-26.png"group-title="CINE Y SERIES", CANAL 32 SPTV SAN PEDRO
-https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/apMSrKP4Vh0-kXjo9LblAWXF1ECWRAePh4fbqp6mgqzvvafXFHzKI2uoZ2p7Og3GJb4"group-title="CINE Y SERIES", SPEED TV CONCORDIA
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
