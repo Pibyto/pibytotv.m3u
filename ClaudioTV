@@ -17,7 +17,8 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA", EL NUEVE
-http://etvhome.com:25461/Arturo/Arturo1/13325
+http://etvhome.com:25461/Arturo/Arturo1/24782
+
 
 
 
@@ -27,7 +28,8 @@ https://g4.vxral-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_120274.png"group-title="ARGENTINA", CANAL 26 HD
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+http://etvhome.com:25461/Arturo/Arturo1/33754
+
 
 
 
