@@ -43,6 +43,8 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg"group-title="ARGENTINA", MIRADOR  22.3
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8 
 
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png"group-title="ARGENTINA", TELEMAX - 26.3
 https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 
@@ -73,9 +75,6 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 
 
 
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="ARGENTINA", LOVE NATURE
-https://bamus-spa-roku.amagi.tv/playlist.m3u8
-
 
 
 #EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1
@@ -104,6 +103,11 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-MSptTpvEsasspujzgZyGujb-2TR7_XnNcCCkmf-lxIKc-QAq&s"group-title="ARGENTINA", HISTORY
 http://globalentertainmentec.xyz:8000/Cristian2022/2022Cristian/48376
+
+
+
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="ARGENTINA", LOVE NATURE
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-logo.jpg"group-title="ARGENTINA", NATIONAL GEOGRAPHIC
