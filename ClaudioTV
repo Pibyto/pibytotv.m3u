@@ -1815,26 +1815,6 @@ https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.
 
 
 
-#EXTINF:-1 tvg-logo="https://canal9riocuartotv.com.ar/El_Canal_de_los_Riocuartenses,_y_tu_mejor_compania._files/logotrans.png"group-title="ARGENTINA", CANAL 9 RIO CUARTO
-http://streamcasthd.com:1935/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkLBCuKuEKH3j6-3ti15yjst71-c-FwQOkA&usqp=CAU"group-title="ARGENTINA",CANAL 10 ARTV
-http://mediacpstreamchile.com:1935/canal10artv/canal10artv/chunklist_w1285318425.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-logo="https://frecuenciasalta.ar/wp-content/uploads/2020/08/NORTR-VISION-780x405.jpg"group-title="ARGENTINA", CANAL10 NORTEVISION
-https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png"group-title="CINE Y SERIES", TV10
-https://5d79ae45bc63b.streamlock.net:443/8256/8256/chunklist_w12029778.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png"group-title="ARGENTINA", CANAL 13 LA RIOJA
-https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg"group-title="ARGENTINA", CANAL 10 SENILLOSA NEUQUEN
-https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
-
 #EXTINF: -1 tvg-logo="https://www.m3u.cl/logo/522_TV_MauleSur.png"group-title="CINE Y SERIES", TV MOULE SUR
 https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
 
@@ -1875,15 +1855,6 @@ http://live.romanatv42.com/hls/live.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://graph.facebook.com/canal45television/picture?width=320&height=320"group-title= "CINE Y SERIES", Canal 45 TV
-https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
-
-#EXTINF: -1 tvg-logo = "https://graph.facebook.com/radioprimaveramoquegua/picture?width=320&height=320"group-title= "CINE Y SERIES", Primavera 15 
-https://rtmp02.portalexpress.es/primaveratv/primaveratv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://calchaquitv.com.ar/images/logo.png"group-title="ARGENTINA", CALCHAQUI TV TUCUMAN
-http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Logo_Canal_21.jpg"group-title="CINE Y SERIES", C21
@@ -2396,15 +2367,9 @@ https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://www.flixtube.me/latino/upload/source/1280x720px-flixtube.jpg"group-title="CINE Y SERIES", FLIXTUBE
-https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/875664704764608512/L-8xnjNf_400x400.jpg"group-title="CINE Y SERIES", CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-
-#EXTINF: -1 tvg-logo="https://tvmontana.com/wp-content/uploads/2021/01/logo-header1.png"group-title="CINE Y SERIES", TV MONTAÑA
-http://ss6.domint.net:2060/tvm_str/montanatv/chunklist_w901556046.m3u8?WebM3UCL
 
 #EXTINF: -1 tvg-logo = "https://image.roku.com/developer_channels/prod/d0f540e05d51010be780c87961ee018fa3d3d8e4ed3f39c3abbf1545165cfb7d.png"group-title="CINE Y SERIES", RETROPLUS 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
