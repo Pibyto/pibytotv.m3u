@@ -41,7 +41,8 @@ EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABe
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png"group-title="ARGENTINA", TELEMAX - 26.3
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
+https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
+
 
 
 
