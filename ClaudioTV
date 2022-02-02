@@ -81,6 +81,11 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 #EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.diarioelzondasj.com.ar/wp-content/uploads/2021/04/351a.jpg"group-title="ARGENTINA",ZONDA TV
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png"group-title="ARGENTINA", PH TV
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
