@@ -91,6 +91,10 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEQwp6ojbl2fxqMnO_zq3DkujkMR4VzOWcg&usqp=CAU"group-title="ARGENTINA", KBO
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+
 #EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
