@@ -114,7 +114,7 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxh58NzJFdRouYOSBtVZX-fjpIn4DdT9SSJg&usqp=CAU"group-title="ARGENTINA", PLANETA TV MOVIE
+#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA", PLANETA TV MOVIE
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
 
@@ -146,6 +146,8 @@ http://globalentertainmentec.xyz:8000/Cristian2022/2022Cristian/48372
 http://globalentertainmentec.xyz:8000/Cristian2022/2022Cristian/176852
 
 
+#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA",  PLANETA TV KIDS
+https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1521480640.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg"group-title="ARGENTINA", CANAL HM
