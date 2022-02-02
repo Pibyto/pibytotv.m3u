@@ -32,6 +32,8 @@ https://g4.vxral-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100
 http://etvhome.com:25461/Arturo/Arturo1/33754
 
 
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/py-canal-8-vision-tv-6069.jpg"group-title="ARGENTINA",  CANAL 8 VISION
+https://video.radiosenpy.net:19360/canal8vision/canal8vision.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="ARGENTINA", AMERICA HD  36.1
