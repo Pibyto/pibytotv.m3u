@@ -101,8 +101,9 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-NIJDSgSyQwI/YF4tcPPggxI/AAAAAAABA9Y/1pkfP7_eu10_moioRSqfOJpdaGgDsv2agCK8BGAsYHg/s512/2021-03-26.png"group-title="ARGENTINA", CANAL 32 SPTV SAN PEDRO
-https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-NIJDSgSyQwI/YF4tcPPggxI/AAAAAAABA9Y/1pkfP7_eu10_moioRSqfOJpdaGgDsv2agCK8BGAsYHg/s512/2021-03-26.png"group-title="ARGENTINA", CANAL 32 SPTV
+https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
+
 
 
 #EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",  SOMOS DEL ESTE HD
