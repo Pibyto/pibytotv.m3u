@@ -89,6 +89,16 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4d775bc6ae81e96a31427c8909c7e183.webp"group-title="ARGENTINA",  NATURAL TV
+https://stmv1.voxhdnet.com/naturaltv/naturaltv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8W616vsftkbMPWnQACNcjuXX9m95VDlD9mCqo66SZBOBH94e1&s"group-title="ARGENTINA",  ATACAMATV
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGy9BsQw_2fHt__SeWEyiuMisaUAFSQoLLBw&usqp=CAU"group-title="ARGENTINA",  CANAL RTV 12 
 https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
