@@ -105,6 +105,10 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFwDotBXDoa2uFxCGXn9k0HF-D0OW3hWr7w&usqp=CAU"group-title="ARGENTINA", PANAMERICANA
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGy9BsQw_2fHt__SeWEyiuMisaUAFSQoLLBw&usqp=CAU"group-title="ARGENTINA",  CANAL RTV 12 
 https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
