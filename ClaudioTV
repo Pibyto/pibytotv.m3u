@@ -116,7 +116,7 @@ https://stmv1.voxhdnet.com/naturaltv/naturaltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoVLV3y8tx_6j51mAQMe8LeceblFCseQQk1g&usqp=CAU"group-title="ARGENTINA", AUTENTICA TV
 https://live.obslivestream.com:443/autenticatvmux/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8DzJ_7CZDSX_j84lCjU7x3E7AxHdSChIU8g&usqp=CAU"group-title="ARGENTINA", G VISION
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8DzJ_7CZDSX_j84lCjU7x3E7AxHdSChIU8g&usqp=CAU"group-title="ARGENTINA", G VISION
 https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8
 
 
