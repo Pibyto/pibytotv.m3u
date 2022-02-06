@@ -101,9 +101,31 @@ https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 https://medios.sirtel.cl/live/stream/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1984727601/oromarhd_400x400.jpg"group-title="ARGENTINA", OROMAR TV - WUFY PLAYER
+http://globalentertainmentec.xyz:8000/Cristian2022/2022Cristian/3332
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5ZSudi4btDyHRfQFF_qvk_foTOUOhI2_KA&usqp=CAU"group-title="ARGENTINA", CAJAMARCA
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5ZSudi4btDyHRfQFF_qvk_foTOUOhI2_KA&usqp=CAU"group-title="ARGENTINA", CAJAMARCA - WUFY PLAYER
 https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/bf3f51b317480dcfb8a5928c0b0c55e7dbfb641d1285931770649d394b30091a.png"group-title="ARGENTINA", GUACARA TV
+https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN2ieloWjd5qRyxFYzX11NnyKblCNjTBZP6A&usqp=CAU"group-title="ARGENTINA", BLU TV
+https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1984727601/oromarhd_400x400.jpg"group-title="ARGENTINA", OROMAR TV - WUFY PLAYER
+http://globalentertainmentec.xyz:8000/Cristian2022/2022Cristian/3332
+
 
 
 
