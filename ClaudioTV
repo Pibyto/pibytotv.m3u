@@ -128,6 +128,11 @@ http://globalentertainmentec.xyz:8000/Cristian2022/2022Cristian/3332
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAw9XjTgLb-oH7vrpE_-7rQXqW4Wu6ft2ssw&usqp=CAU"group-title="ARGENTINA", MI TV - CINE CLÁSICO
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXgdC5h23zXwbKUBrNP6I5BhzQ2fwvCHNLg&usqp=CAU"group-title="ARGENTINA", CARUCOLA TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
