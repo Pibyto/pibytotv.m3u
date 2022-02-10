@@ -86,6 +86,10 @@ https://cdn1-6p.teleuptv.net:443/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v1a
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenaccion.png"group-title="ARGENTINA", RAKUTEN TV - ACCIÓN
+https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOKTtIrCGV-2_jiYKs8UNCJF7a3Txc-8t3w&usqp=CAU"group-title="ARGENTINA", CINECLUB
 https://servilive.com:3176/live/cineclublive.m3u8
