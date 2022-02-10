@@ -77,6 +77,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/40268
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLXP2WkgT4RC_vQ3G8avcLwX1ACm2MmZ-k5A&usqp=CAU"group-title="ARGENTINA", CINE SONY
+http://greenstreamtv.xyz:25461/Tricia/tricia/3461
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwVnGKiQ-DBJgyjC6twuX1zfvCB2U5Y7ujmg&usqp=CAU"group-title="ARGENTINA", WTV
