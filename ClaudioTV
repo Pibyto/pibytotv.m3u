@@ -1111,7 +1111,7 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.truli.com/sites/default/files/styles/400x225/public/canluz.jpg"group-title="CRISTIANO", CANAL LUZ
+#EXTINF:-1tvg-logo="http://www.truli.com/sites/default/files/styles/400x225/public/canluz.jpg"group-title="CRISTIANO",CANAL LUZ
 https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
 
