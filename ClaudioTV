@@ -125,18 +125,25 @@ http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/37920
 https://medios.sirtel.cl/live/stream/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-i0lYCP1Si6b_xodbynmvEFRx_eWC5KHUA&usqp=CAU"group-title="ARGENTINA", UNIMAS - WUFY PLAYER
-http://globalentertainmentec.xyz:8000/Cristian2022/2022Cristian/52791
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0XMofl9p1RqS4qBALqSJF1obWO1yhJvLhvg&usqp=CAU"group-title="ARGENTINA", SiTV
+http://190.122.104.221/Player/sitv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1984727601/oromarhd_400x400.jpg"group-title="ARGENTINA", OROMAR TV - WUFY PLAYER
-http://globalentertainmentec.xyz:8000/Cristian2022/2022Cristian/3332
+#EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="ARGENTINA", GDM
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2XAeRDQuMXRPY2Jj8Ys4QYwiqJaOYeBdzyYpRUhi6XUVOpdM&s"group-title="ARGENTINA", TCS PLUS
-http://ingrid.ltd:25461/William00/SEelXQ7kfh/24230
+#EXTINF:-1 tvg-logo="https://theitseries.com/wp-content/uploads/2020/10/Telenord-Canal-12-Live-TV-Channel-Dom-min.jpg"group-title="ARGENTINA", TELENORD 12
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w805979062.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRacNZmWAO1a1GibMUgcrKdZ7LKEBzq4pyrQ&usqp=CAU"group-title="ARGENTINA",
+TELEUNO TV
+https://5d16127744872.streamlock.net:443/TVUNO/TVUNO/chunklist_w1891698695.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5ZSudi4btDyHRfQFF_qvk_foTOUOhI2_KA&usqp=CAU"group-title="ARGENTINA", CAJAMARCA - WUFY PLAYER
