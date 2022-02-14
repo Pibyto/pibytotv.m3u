@@ -368,6 +368,13 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1521480640.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_ZoQk6EISShvdZZgwe_Ys2-wEzin9enpwA&usqp=CAU"group-title="ARGENTINA", BIT ME
+http://clubtv.link/iptv/p13/tvpremium.php?c=3035&f=.m3u8
+
+
+
+
+
 #EXTINF: -1 tvg-logo = "https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg"group-title="ARGENTINA", CANAL HM
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
