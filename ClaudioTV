@@ -73,6 +73,12 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/a6/94/21/a694219b5050e87c1499822ef635cdad.jpg"group-title="ARGENTINA", TBS
+http://clubtv.link/iptv/p13/tvpremium.php?c=3184&f=.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.blogs.es/2f070a/12-valientes2/500_333.jpg"group-title="ARGENTINA", CINE BÉLICO 24HS
 http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/40268
 
