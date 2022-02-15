@@ -381,6 +381,11 @@ http://clubtv.link/iptv/p13/tvpremium.php?c=3035&f=.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png"group-title="ARGENTINA",. LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+
 
 
 #EXTINF: -1 tvg-logo = "https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg"group-title="ARGENTINA", CANAL HM
