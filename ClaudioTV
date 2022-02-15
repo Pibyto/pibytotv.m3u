@@ -150,6 +150,19 @@ https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/multipremier-4f92d194-29d8-4e8d-a859-06b22a90545-resize-750.jpg"group-title="ARGENTINA", MULTIPREMIER
+http://pms-tv.online:25461/pmstv/LD6LU4GZwt/653
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bBLtQk3-BUFidvNSgcZDyaxuROaL_TPWMw&usqp=CAU"group-title="ARGENTINA", MOOVIMEX
+http://pms-tv.online:25461/live/pmstv/LD6LU4GZwt/11388.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="ARGENTINA", MY TIME MOVIE LATINO
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
