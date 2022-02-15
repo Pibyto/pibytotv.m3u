@@ -275,6 +275,22 @@ https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA
 https://bcovlive-a.akamaihd.net:443/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.programapublicidad.com/wp-content/uploads/2020/06/a3series-logo-nuevo-programapublicidad.jpg"group-title="ARGENTINA", A3SERIES
+http://pms-tv.online:25461/pmstv/LD6LU4GZwt/396
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjF5cEXgUDVj7vZWoPWG8ZJDHbCU_i_rZnzBXNS9Krr_G_WT0&s"group-title="ARGENTINA", UNIMAS
+http://pms-tv.online:25461/pmstv/LD6LU4GZwt/42
+
+
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png"group-title="ARGENTINA", PASIONES HD
+http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10767
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo-latina-noticias.png"group-title="ARGENTINA", LATINA
 https://live-latina-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
