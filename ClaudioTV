@@ -137,6 +137,14 @@ https://servilive.com:3176/live/cineclublive.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW1krBm8YFA9b0INm0q_ATRWI5xUv9xPvyBQ&usqp=CAU"group-title="ARGENTINA", CATACAOS
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fe6ae09b087d724c5c5a5b5524dab2b1f8768cc475966d7ae3896931e7a3114d6.jpg"group-title="ARGENTINA", CATAVISION
+https://stmv1.zcastbr.com/catavision/catavision/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/logo-del-cine-cristiano-s%C3%ADmbolo-de-pel%C3%ADculas-y-videos-para-el-ministerio-conferencia-campamento-festival-o-evento-estilo-moderno-163162196.jpg"group-title="ARGENTINA", CINE CRISTIANO 24HS - WUFY PLAYER
 http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/40280
 
