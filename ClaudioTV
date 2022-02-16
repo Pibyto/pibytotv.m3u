@@ -5,6 +5,17 @@
 http://pms-tv.online:25461/pmstv/LD6LU4GZwt/44
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmVhwdKCey9GF_v_xZS6P-vBoBPapDrwp7bg&usqp=CAU"group-title="ARGENTINA", AVENIDA BRASIL 24HS
+http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/62998
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3KE5qfdYP72y1o4GhRObHBHeQj_DKyY3Ug&usqp=CAU"group-title="ARGENTINA", XICA DA SILVA 24HS
+http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/62997
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"group-title="ARGENTINA ", EL TRECE FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
