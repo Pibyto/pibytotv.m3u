@@ -104,17 +104,6 @@ http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10904
 
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpmshHr3L8lmpjJjHI-p5qgU-Vq_rgd6-SIQ&usqp=CAU"group-title="ARGENTINA",TELECINE ACCION
-http://xcui.vitvabc.xyz:8880/287994003501/287994003501/31583
-
-
-
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp1GP0jptnS4l-4PaeLeah99iNk-ewO39tiA&usqp=CAU"group-title="ARGENTINA",RECORDTV HD
-http://xcui.vitvabc.xyz:8880/287994003501/287994003501/16748
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg"group-title="ARGENTINA",  UNITEL HD
-http://plustv.ddns.me:33200/cristobal02/cristobal02/15596
 
 
 
@@ -123,9 +112,6 @@ https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkh34sAahm2FojxGKHgwXw328aON_uuKtboQ&usqp=CAU"group-title="ARGENTINA", LA7d
-https://d15umi5iaezxgx.cloudfront.net:443/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
 
 
 
@@ -148,8 +134,6 @@ https://vsd119.mycdn.me:443/hls/1698824391191.m3u8/sig/SPSWeIjCvR8/expires/16453
 
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png"group-title="ARGENTINA", CINEMAX HD
-http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/1444
 
 
 
@@ -168,8 +152,6 @@ https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 https://stmv1.zcastbr.com/catavision/catavision/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/z/logo-del-cine-cristiano-s%C3%ADmbolo-de-pel%C3%ADculas-y-videos-para-el-ministerio-conferencia-campamento-festival-o-evento-estilo-moderno-163162196.jpg"group-title="ARGENTINA", CINE CRISTIANO 24HS - WUFY PLAYER
-http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/40280
 
 
 
@@ -189,14 +171,6 @@ https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/multipremier-4f92d194-29d8-4e8d-a859-06b22a90545-resize-750.jpg"group-title="ARGENTINA", MULTIPREMIER
-http://pms-tv.online:25461/pmstv/LD6LU4GZwt/653
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bBLtQk3-BUFidvNSgcZDyaxuROaL_TPWMw&usqp=CAU"group-title="ARGENTINA", MOOVIMEX
-http://pms-tv.online:25461/live/pmstv/LD6LU4GZwt/11388.m3u8
 
 
 
@@ -211,8 +185,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074
 
 
 
-#EXTINF:-1 tvg-logo="https://giuraf.com/wp-content/uploads/2017/08/hechos-reales-1200x620.jpg"group-title="ARGENTINA", BASADAS EN HECHOS REALES 24HS - REPRODUCIR CON WUFY PLAYER
-http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/37920
 
 
 
@@ -220,8 +192,6 @@ http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/37920
 https://medios.sirtel.cl/live/stream/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0XMofl9p1RqS4qBALqSJF1obWO1yhJvLhvg&usqp=CAU"group-title="ARGENTINA", SiTV
-http://190.122.104.221/Player/sitv.m3u8
 
 
 
@@ -235,8 +205,7 @@ http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w805979062.m3
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRacNZmWAO1a1GibMUgcrKdZ7LKEBzq4pyrQ&usqp=CAU"group-title="ARGENTINA",
-TELEUNO TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRacNZmWAO1a1GibMUgcrKdZ7LKEBzq4pyrQ&usqp=CAU"group-title="ARGENTINA",tluno
 https://5d16127744872.streamlock.net:443/TVUNO/TVUNO/chunklist_w1891698695.m3u8
 
 
@@ -272,8 +241,6 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4d775bc6ae81e96a31427c8909c7e183.webp"group-title="ARGENTINA",  NATURAL TV
-https://stmv1.voxhdnet.com/naturaltv/naturaltv/playlist.m3u8
 
 
 
