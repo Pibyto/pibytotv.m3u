@@ -4,16 +4,19 @@
 #EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="ARGENTINA", TELEMUNDO
 http://pms-tv.online:25461/pmstv/LD6LU4GZwt/44
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjF5cEXgUDVj7vZWoPWG8ZJDHbCU_i_rZnzBXNS9Krr_G_WT0&s"group-title="ARGENTINA", UNIMAS
+http://pms-tv.online:25461/pmstv/LD6LU4GZwt/42
 
 
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"group-title="ARGENTINA ", EL TRECE FHD
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
 http://globalentertainmentec.xyz:8000/Cristian2022/2022Cristian/7982
 
+
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"group-title="ARGENTINA ", EL TRECE FHD
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-canal-7-de-jujuy.jpg"group-title="ARGENTINA", CANAL 7 JUJUY
@@ -220,7 +223,7 @@ https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN2ieloWjd5qRyxFYzX11NnyKblCNjTBZP6A&usqp=CAU"group-title="ARGENTINA", BLU TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN2ieloWjd5qRyxFYzX11NnyKblCNjTBZP6A&usqp=CAU"group-title="ARGENTINA", BLU HD
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
 
 
@@ -285,8 +288,6 @@ http://pms-tv.online:25461/pmstv/LD6LU4GZwt/396
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjF5cEXgUDVj7vZWoPWG8ZJDHbCU_i_rZnzBXNS9Krr_G_WT0&s"group-title="ARGENTINA", UNIMAS
-http://pms-tv.online:25461/pmstv/LD6LU4GZwt/42
 
 
 
