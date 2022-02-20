@@ -238,6 +238,12 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA",  BELLA ASUNCIÓN TV
+https://tvdatta.com:3602/stream/play.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png"group-title="ARGENTINA", PH TV
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 
@@ -571,8 +577,6 @@ https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA",  BELLA ASUNCIÓN TV
-https://tvdatta.com:3602/stream/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1855ebb2d2587d5f0691118e0c2cd0351ea284548622c87825f121b222b2982b.png"group-title="ARGENTINA", CTV
