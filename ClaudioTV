@@ -242,6 +242,9 @@ https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
 https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/w1600/spacehd.png"group-title="ARGENTINA", SPACE HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/11363
+
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr-300x300-1525980274.jpg"group-title="ARGENTINA", MICROVISION HD
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?WebM3UCL
@@ -1865,6 +1868,7 @@ https://dcunilive16-lh.akamaihd.net/i/dclive_1@330503/master.m3u8?hdnea=st=16390
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/w1600/spacehd.png"group-title=" PREMIUM", SPACE HD
+http://greenstreamtv.xyz:25461/Tricia/tricia/11363
 http://etvhome.com:25461/Arturo/Arturo1/27861
 
 
