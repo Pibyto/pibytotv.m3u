@@ -103,6 +103,9 @@ http://etvhome.com:25461/Arturo/Arturo1/33754
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
+#EXTINF: -1 tvg-logo = "https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png"group-title="ARGENTINA", UNIFE TV 25.1
+https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-p.m3u8?sd=10&rebase=on
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Alfatv.png"group-title="ARGENTINA", ALFA TV
@@ -166,6 +169,8 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
 
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hZlw7ljt1Vo/YKF7Z2DLItI/AAAAAAAAASk/2R1fkB-MEss0lVZL2Z1aoDmc3Xufw6q8ACK4BGAYYCw/s400/webnata.png"group-title="ARGENTINA", NATANAEL TV
+https://stmv1.voxhdnet.com:443/ventvpremium/ventvpremium/chunklist_w1458867770.m3u8?WebM3UCL
 
 
 
@@ -1291,7 +1296,9 @@ https://player.netv.cl:443/vidatv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5jYVBfzx-62AjCMQ8s6mqtcFizttUBVdog&usqp=CAU"group-title="CRISTIANO", TVR TELEVISIÓN-abierto de 09:hs a 24:hs
-https://vsd88.mycdn.me:443/hls/1698824391191.m3u8/sig/LnlGBtMk9FE/expires/1645049477796/srcIp/186.132.97.170/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+https://vsd88.mycdn.me:443/hls/1698824391191.m3u8/sig/jbji4e8B07M/expires/1645485904504/srcIp/186.132.72.104/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+
+
 
 
 
@@ -1361,8 +1368,6 @@ https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/chunkl
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png?format=1000w&content-type=image%2Fpng"group-title="CRISTIANO", ALIENTO VISION HD
 https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/chunklist_w1498398310_b1300000_slen.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0JVTKp_xioAj-2wOdEdN59zrb-bs0_bYATA&usqp=CAU"group-title=" CRISTIANO", TELE SANTO
-https://vdo1.streamgato.us:3550/live/telesantodomingolive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-p4F59EIc5ts/XA3r2vE-6zI/AAAAAAAAAow/1lPlNgcXyKYIwOOCaYgY7cQRz5__GUO3gCLcBGAs/w1200-h630-p-k-no-nu/taber-tv.jpg"group-title="CRISTIANO",TABER TV
