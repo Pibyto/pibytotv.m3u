@@ -171,6 +171,11 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="ARGENTINA", AMC HD
+http://etvhome.com:25461/Arturo/Arturo1/27683
+
+
+
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="ARGENTINA", CANAL 34 HD 6.11 TDA
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
