@@ -151,6 +151,24 @@ https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"group-title="ARGENTINA", MEGA CINE TV
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="ARGENTINA", MY TIME MOVIE LATINO
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2020/05/Estrellas-de-Accion-Pluto-TV.jpg"group-title="ARGENTINA", ESTRELLAS DE ACCIÓN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png" group-title="ARGENTINA", HBO 2
 http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
@@ -242,6 +260,7 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2016/12/LOGO-2016-chico-3.jpg"group-title="ARGENTINA", COSMOS TV
 https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
+
 
 
 
@@ -391,21 +410,6 @@ https://stmv1.zcastbr.com/catavision/catavision/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"group-title="ARGENTINA", MEGA CINE TV
-https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="ARGENTINA", MY TIME MOVIE LATINO
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2020/05/Estrellas-de-Accion-Pluto-TV.jpg"group-title="ARGENTINA", ESTRELLAS DE ACCIÓN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
 
 
 
