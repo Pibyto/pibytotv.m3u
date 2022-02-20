@@ -65,6 +65,16 @@ http://tv.plusme1.xyz:25461/ramonespinalnunez/3pQmf7KwPk/116197
 
 
 
+#EXTINF: -1 tvg-logo="https://www.stopenlinea.com.ar/uploads/imagenes/repositorio/2019/02/06/44981/20190206111757eb2ba8ee3dcef3ccda59128342a6d130_min.jpg"group-title="ARGENTINA", CANAL 9 NORTE MISIONES
+https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", MULTIVISION SALTA
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal_9_Litoral_logo_2021.png"group-title="ARGENTINA", CANAL 9 LITORAL
+https://stream.arcast.live:443/ahora/ahora/chunklist_w728312553.m3u8
 
 
 
@@ -682,15 +692,6 @@ https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/697_Hechicera_TV.png"group-title="ARGENTINA", HECHICERA TV
 https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", MULTIVISION SALTA
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal_9_Litoral_logo_2021.png"group-title="ARGENTINA", CANAL 9 LITORAL
-https://stream.arcast.live:443/ahora/ahora/chunklist_w728312553.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://www.stopenlinea.com.ar/uploads/imagenes/repositorio/2019/02/06/44981/20190206111757eb2ba8ee3dcef3ccda59128342a6d130_min.jpg"group-title="ARGENTINA", CANAL 9 NORTE MISIONES
-https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 
 
 
