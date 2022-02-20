@@ -159,6 +159,15 @@ https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w160616
 #EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2016/12/LOGO-2016-chico-3.jpg"group-title="ARGENTINA", COSMOS TV
+https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJr7ereT0NYT0sDqDKL43B1UXL0I7OiwgaRA&usqp=CAU"group-title="ARGENTINA",  CANAL 57
 https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 
@@ -489,10 +498,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2016/12/LOGO-2016-chico-3.jpg"group-title="ARGENTINA", COSMOS TV
-https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
 
 
