@@ -198,6 +198,11 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF: -1 tvg-logo="https://vidatv.cl/img/logos/vidatv.png"group-title="ARGENTINA", VIDA TV
+https://player.netv.cl:443/vidatv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF: -1 tvg-logo = "https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg"group-title="ARGENTINA", CANAL HM
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
