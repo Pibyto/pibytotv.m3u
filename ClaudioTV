@@ -1,8 +1,22 @@
 # ClaudioTV
 
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="ARGENTINA",PASION DE GAVILANES 2 -2X1
+http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1252745.mkv
 
-#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="ARGENTINA", TELEMUNDO
-http://pms-tv.online:25461/pmstv/LD6LU4GZwt/44
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="ARGENTINA",PASION DE GAVILANES 2 -2X2
+http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1252856.mkv
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="ARGENTINA",PASION DE GAVILANES 2 -2X3
+http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1253215.mkv
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="ARGENTINA", TELEMUNDO FHD 
 http://etvhome.com:25461/Arturo/Arturo1/145765
@@ -11,9 +25,6 @@ http://etvhome.com:25461/Arturo/Arturo1/145765
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjF5cEXgUDVj7vZWoPWG8ZJDHbCU_i_rZnzBXNS9Krr_G_WT0&s"group-title="ARGENTINA", UNIMAS
-http://pms-tv.online:25461/pmstv/LD6LU4GZwt/42
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjF5cEXgUDVj7vZWoPWG8ZJDHbCU_i_rZnzBXNS9Krr_G_WT0&s"group-title="ARGENTINA", UNIMAS FHD
