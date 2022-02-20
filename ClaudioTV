@@ -26,11 +26,19 @@ http://etvhome.com:25461/Arturo/Arturo1/134365
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png"group-title="ARGENTINA", ÚNICABLE
 http://etvhome.com:25461/Arturo/Arturo1/73652
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEQwp6ojbl2fxqMnO_zq3DkujkMR4VzOWcg&usqp=CAU"group-title="ARGENTINA", KBO
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
@@ -111,6 +119,34 @@ http://pms-tv.online:25461/live/pmstv/LD6LU4GZwt/94.m3u8
 
 
 
+#EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="ARGENTINA", GDM
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
+https://videohd.live:19360/8010/8010.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccWO1JVM1Dm3HSNqW9sB-rKddyoEzIzkw3w&usqp=CAU"group-title="ARGENTINA", CANAL 32 SPTV
+https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",  SOMOS DEL ESTE HD
+https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png"group-title="ARGENTINA", PH TV
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwVnGKiQ-DBJgyjC6twuX1zfvCB2U5Y7ujmg&usqp=CAU"group-title="ARGENTINA", WTV
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
@@ -141,6 +177,13 @@ http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10904
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png"group-title="ARGENTINA", WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA", PLANETA TV MOVIE
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
 
 
@@ -225,9 +268,6 @@ https://medios.sirtel.cl/live/stream/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="ARGENTINA", GDM
-https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://theitseries.com/wp-content/uploads/2020/10/Telenord-Canal-12-Live-TV-Channel-Dom-min.jpg"group-title="ARGENTINA", TELENORD 12
@@ -240,7 +280,7 @@ https://5d16127744872.streamlock.net:443/TVUNO/TVUNO/chunklist_w1891698695.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5ZSudi4btDyHRfQFF_qvk_foTOUOhI2_KA&usqp=CAU"group-title="ARGENTINA", CAJAMARCA - WUFY PLAYER
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5ZSudi4btDyHRfQFF_qvk_foTOUOhI2_KA&usqp=CAU"group-title="ARGENTINA", CAJAMARCA 
 https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8
 
 
@@ -255,7 +295,7 @@ https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1984727601/oromarhd_400x400.jpg"group-title="ARGENTINA", OROMAR TV - WUFY PLAYER
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1984727601/oromarhd_400x400.jpg"group-title="ARGENTINA", OROMAR TV 
 http://globalentertainmentec.xyz:8000/Cristian2022/2022Cristian/3332
 
 
@@ -314,11 +354,6 @@ https://bcovlive-a.akamaihd.net:443/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6
 http://pms-tv.online:25461/pmstv/LD6LU4GZwt/396
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png"group-title="ARGENTINA", PASIONES HD
 http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10767
 
@@ -352,30 +387,9 @@ https://master.tucableip.com/reconline/live/video.m3u8
 https://inliveserver.com:1936/10016/10016/playlist.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png"group-title="ARGENTINA", PH TV
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEQwp6ojbl2fxqMnO_zq3DkujkMR4VzOWcg&usqp=CAU"group-title="ARGENTINA", KBO
-https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
-
-#EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
-
-
-#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
-https://videohd.live:19360/8010/8010.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccWO1JVM1Dm3HSNqW9sB-rKddyoEzIzkw3w&usqp=CAU"group-title="ARGENTINA", CANAL 32 SPTV
-https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
-
-
-
-#EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",  SOMOS DEL ESTE HD
-https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 
 
@@ -383,14 +397,6 @@ https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w15
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png"group-title="ARGENTINA", WOW
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA", PLANETA TV MOVIE
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://sumundotv.com/wp-content/uploads/2021/12/logosumundo2-1.png"group-title="ARGENTINA",  SU MUNDO TV
