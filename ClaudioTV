@@ -175,6 +175,10 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/multivision-2-logo-png-transparent.png"group-title="ARGENTINA",  MULTIVISION
+https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="ARGENTINA", CINE ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
@@ -615,17 +619,6 @@ https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8?nimbleses
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/r-e-television.png"group-title="ARGENTINA",  R&E TELEVISIÓN
 https://cdn2.streamgato.us/ryetelevision/ryetelevision/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://channels.roku.com/images/a56bf9f28adb40c18f337be70404669d-hd.png"group-title="ARGENTINA",  ZPTV
-https://srv3.zcast.com.br:443/juancarlos9451/juancarlos9451/chunklist_w2048797446.m3u8?WebM3UCL
-
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/multivision-2-logo-png-transparent.png"group-title="ARGENTINA",  MULTIVISION
-https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
-
 
 
 
