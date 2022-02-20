@@ -151,6 +151,11 @@ https://videohd.live:19360/8010/8010.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGy9BsQw_2fHt__SeWEyiuMisaUAFSQoLLBw&usqp=CAU"group-title="ARGENTINA",  CANAL RTV 12 
+https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
+
+
+
 #EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
@@ -401,9 +406,6 @@ https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFg8K3vUfodsHW3Uzxp
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU6UhFi6aMUsnA0s4ntBTBZXqa5NJtfVaDjQ&usqp=CAU"group-title="ARGENTINA", COLOSAL
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w2104890955.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGy9BsQw_2fHt__SeWEyiuMisaUAFSQoLLBw&usqp=CAU"group-title="ARGENTINA",  CANAL RTV 12 
-https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_77859d5a045049d28030108c161ce857~mv2.png/v1/fill/w_225,h_225,al_c/7edb0d_77859d5a045049d28030108c161ce857~mv2.png"group-title="ARGENTINA",  REC ONLINE TV
 https://master.tucableip.com/reconline/live/video.m3u8
