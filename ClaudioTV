@@ -205,6 +205,11 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://uploads.turbologo.com/uploads/design/preview_image/4551835/preview_image20211224-8647-1g7dld3.png"group-title="ARGENTINA",ANIME
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CooFh_Pb5iEddl1RHgjwqSvmKow3aelPzjs5UrKHhzZS_jdvhGc4PLyP3S1IVpNi6ij0ZncghYFoX-6ATQXNzr2tUqMePPROwm2_M7vnxjd37cYKq9qupNfrd7oLIsoq7_2190CWqL9RxqZ6W67L2_MLaBgfwXrVn0uusv4wxzbpo9o_1VDnI_OxfKL3yDODNuMHaUj8FzLFRT9g0EMUgo0OwPLMNpc23rpiHdV4UgKyVobs0lMIZ083D_2MvLK99exreXH-k7P1HZL2saBgk5GCxxCwInSvTT0FCs7iE4jPLEYmwgqCyIeMFxGrQseOwn40-YG22riBDlcnjByIRSf_YzuieK5rYAieQZ-r5-lTakT8asF74UzcvPn-Pb6gXCW72WMFzLEN_aLQOb-bOLks_c0a_7zs7JrVmdn1YJPDg90N71IWdMzGbbpviF5vb8mmiur1bYPhspWi7_fLcH26Y4MSFv_FGhIQ42k_rHr3RZcGQzbvKBGsTLbCzFhhJFq0PPlE5QCd7Zwx62l28SFvFxHY_0tTWzd5m_JwkbystBojihkK1KRqUCYWftVVZKMqf8uWPL7L8WVNKJ9NoZMW7OjyJ9oKdaR3mvGWl2Xy8ceHjYYZVgICOQ6NWvkMuKZHAn_sQJ2IDc1NpcLIMbA4hL_hdiInn2c-ZAU6qoKy-1hOtqdpCHa9f5Kr-P0YhpqQOJe0oOTq1lGgk4DUX5cqGc4DBhAeZaWEru9GO2pxuw8MpmZjSYcD7gDhYHVmUOkIRoLtzetAltUK5AWZlM3dDAgIu6_AGCg4gZFiIRITZueBPalcZI6z9YavwuLjyAuPLGRYAWONXosbVWCLLdbL1Ff_gBOOs1Lhn28aDDHtQHxxFrCgCM1eIiABKgl1cy1lYXN0LTIwiAM.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png" group-title="ARGENTINA", HBO
 https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
