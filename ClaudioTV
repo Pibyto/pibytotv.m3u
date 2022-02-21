@@ -183,6 +183,11 @@ https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist
 
 
 
+#EXTINF:-1  tvg-logo="https://canalesdominicanos.live/template/images/radios/telemax.png"group-title="ARGENTINA",TELEMAX
+https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w693779543.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="ARGENTINA", MY TIME MOVIE LATINO
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
