@@ -350,6 +350,9 @@ http://moontools.me:8080/tv1chago/1p7iYUyvZF/1165028
 
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_eKpsDywpXZrjVPQ9rBTiJ13uIXh6yFL73Q&usqp=CAU"group-title="ARGENTINA",TELEXIMA
+https://vdo2.streamgato.us:3244/live/teleximalive.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr-300x300-1525980274.jpg"group-title="ARGENTINA", MICROVISION HD
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?WebM3UCL
