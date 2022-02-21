@@ -103,6 +103,11 @@ https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="ARGENTINA", LA VOZ TV
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
+
+
+
 #EXTINF: -1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2017/10/WhatsApp-Image-2020-05-28-at-10.35.45-PM-1-300x276.jpeg"group-title="ARGENTINA", URBANCRIST WORSHIP 
 https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8?WebM3UCL
 
@@ -2528,9 +2533,6 @@ https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99
 #EXTINF: -1 tvg-logo="https://enfoquedigital.cl/wp-content/uploads/2020/03/LOGO-ED.png"group-title="CINE Y SERIES", ENFOQUE DIGITAL TV
 https://stmv1.zcastbr.com:443/edtvchile/edtvchile/chunklist_w875429006.m3u8?WebM3UCL
 
-
-#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="ARGENTINA", LA VOZ TV
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1AkpM1rC75w/YGdiuKFuQzI/AAAAAAABBGg/lG-2DxIFeU8K4vxZQxqPVZ6J29Bu5ZuSgCK8BGAsYHg/s512/2021-04-02.png"group-title="CINE Y SERIES", ZPTV
