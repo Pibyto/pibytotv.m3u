@@ -175,6 +175,18 @@ https://stream.arcast.live:443/ahora/ahora/chunklist_w728312553.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3487556435/aaae8392a11f89550187210f1a944807_400x400.jpeg"group-title="ARGENTINA",ENSENADA TV
+https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
+
+
+
+
+
+#EXTINF: -1 tvg-logo = "https://albardontv.com.ar/wp-content/uploads/2020/02/1.png"group-title="ARGENTINA", ALBARDON TV SAN JUAN
+https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://vod.magma.qaotic.net/media/posters-live/cronica/placa_cronica2019.jpg"group-title="ARGENTINA", CRÓNICA HD
 https://g4.vxral-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
@@ -915,16 +927,6 @@ https://s1.tvdatta.com:3707/live/redtvelive.m3u8?WebM3UCL
 #EXTINF: -1 tvg-logo = "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="CINE Y SERIES", CANAL 34
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3487556435/aaae8392a11f89550187210f1a944807_400x400.jpeg"group-title="ARGENTINA",ENSENADA TV
-https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
-
-
-
-
-
-#EXTINF: -1 tvg-logo = "https://albardontv.com.ar/wp-content/uploads/2020/02/1.png"group-title="ARGENTINA", ALBARDON TV SAN JUAN
-https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="ARGENTINA", TU CINE
