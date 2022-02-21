@@ -207,6 +207,11 @@ https://stmv1.voxhdnet.com:443/ventvpremium/ventvpremium/chunklist_w1458867770.m
 
 
 
+#EXTINF:-1  tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/deltatv.jpg"group-title="ARGENTINA", DELTA TV
+https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png" group-title="ARGENTINA", HBO 2
 http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
