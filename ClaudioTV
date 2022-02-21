@@ -228,7 +228,7 @@ http://etvhome.com:25461/Arturo/Arturo1/20159
 
 
 
-#EXTINF:-1  tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png"group-title="ARGENTINA", TELECINE PREMIUM HD
+#EXTINF:-1tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png"group-title="ARGENTINA",TELECINE PREMIUM HD
 http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
 
 
@@ -266,8 +266,14 @@ https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 https://cdn2.streamgato.us/ryetelevision/ryetelevision/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5-600x338.jpg"group-title="ARGENTINA", TELECINE ACCIÓN HD
+#EXTINF:-1tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5-600x338.jpg"group-title="ARGENTINA",TELECINE ACCIÓN HD
 http://xcui.vitvabc.xyz:8880/287994017033/287994017033/31583
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/WNM1-HwpFtI/hqdefault.jpg"group-title="ARGENTINA", RED TV
+https://cdn2.streamgato.us/redtvrd/redtvrd/playlist.m3u8
 
 
 
