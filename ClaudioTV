@@ -202,6 +202,11 @@ https://stmv1.voxhdnet.com:443/ventvpremium/ventvpremium/chunklist_w1458867770.m
 http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/474x/82/28/df/8228df5bdbf40ea108fc263679549962.jpg"group-title="ARGENTINA", COMBATE UFC
+http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16703
+
+
+
 
 
 #EXTINF:-1 tvg-logo"https://yt3.ggpht.com/ytc/AKedOLQXaF4q0agN2AboRrXPARfAew6mtitgkHx_W_g3lQ=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA", PELÍCULAS_MANIA
@@ -221,6 +226,10 @@ https://vsd88.mycdn.me:443/hls/1698824391191.m3u8/sig/jbji4e8B07M/expires/164548
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ARGENTINA", HBO PLUS
 http://etvhome.com:25461/Arturo/Arturo1/20159
 
+
+
+#EXTINF:-1  tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png"group-title="ARGENTINA", TELECINE PREMIUM HD
+http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
 
 
 
@@ -255,6 +264,11 @@ https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/r-e-television.png"group-title="ARGENTINA",  R&E TELEVISIÓN
 https://cdn2.streamgato.us/ryetelevision/ryetelevision/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5-600x338.jpg"group-title="ARGENTINA", TELECINE ACCIÓN HD
+http://xcui.vitvabc.xyz:8880/287994017033/287994017033/31583
+
 
 
 
