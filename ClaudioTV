@@ -97,6 +97,12 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
+#EXTINF: -1, tvg-logo = "http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png"group-title="ARGENTINA", CANAL 2 SANAGASTA
+https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
+
+
+
+
 #EXTINF: -1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2017/10/WhatsApp-Image-2020-05-28-at-10.35.45-PM-1-300x276.jpeg"group-title="ARGENTINA", URBANCRIST WORSHIP 
 https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8?WebM3UCL
 
@@ -1184,8 +1190,7 @@ http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 #EXTINF: -1 tvg-logo = "http://www.estoesmachagai.com/web/img/IMAGEN_PORTADA_SITIO_WEB_02.jpg"group-title="ARGENTINA", CANAL 3 PLUS TV MACHAGAI CHACO
 https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 
-#EXTINF: -1, tvg-logo = "http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png"group-title="ARGENTINA", CANAL 2 SANAGASTA
-https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-4-san-martn-1515.jpg"group-title="ARGENTINA", CANAL 4 TELEAIRE
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
