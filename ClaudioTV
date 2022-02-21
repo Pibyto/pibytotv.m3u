@@ -260,11 +260,25 @@ https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w693779543.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="ARGENTINA", MY TIME MOVIE LATINO
+#EXTINF:-1 tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="ARGENTINA", MY TIME 
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="ARGENTINA", VALLEVISION HD
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-j-WhR-Avfrs/W6lsNQGABHI/AAAAAAAAAM8/2k8UoEzqKPIjzlBPL8BJXvBwoeauhdjtQCPcBGAYYCw/s1600/panicotv.png"group-title="ARGENTINA", PANICO HD
+http://etvhome.com:25461/Arturo/Arturo1/59607
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-Sbo4eA6EFNzCr2GP3AS-LZCBkFXTMZcNA&usqp=CAU"group-title="ARGENTINA", DARKMATTER TV
+https://darkmatter-spanish-rakuten.amagi.tv:443/playlist720p.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/858/446/png-transparent-adelaide-logo-brand-outdoor-cinema-font-horror-film-text-logo-adelaide.png"group-title="ARGENTINA", TERROR 1
@@ -350,6 +364,10 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
 http://etvhome.com:25461/Arturo/Arturo1/27683
 
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png"group-title="ARGENTINA", TVS MARACAY
+http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist_w365987513.m3u8?WebM3UCL
 
 
 
@@ -482,8 +500,6 @@ https://player.netv.cl:443/vidatv/tracks-v1a1/mono.m3u8
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png/v1/fill/w_227,h_227,al_c,q_85,usm_0.66_1.00_0.01/LOGO%20ZoyTV%203.webp"group-title="ARGENTINA", ZOY TV
-https://master.tucableip.com//zoytv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ7g3DfBGPbktMqkMduWrx5yxZNw9YeUMMFw&usqp=CAU"group-title="ARGENTINA", CIUDAD MAGAZINE HD
@@ -530,28 +546,6 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA", PLANETA TV MOVIE
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
-
-
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-j-WhR-Avfrs/W6lsNQGABHI/AAAAAAAAAM8/2k8UoEzqKPIjzlBPL8BJXvBwoeauhdjtQCPcBGAYYCw/s1600/panicotv.png"group-title="ARGENTINA", PANICO HD
-http://etvhome.com:25461/Arturo/Arturo1/59607
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-Sbo4eA6EFNzCr2GP3AS-LZCBkFXTMZcNA&usqp=CAU"group-title="ARGENTINA", DARKMATTER TV
-https://darkmatter-spanish-rakuten.amagi.tv:443/playlist720p.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg"group-title="ARGENTINA", TELESOL
-https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
-
-
-
-
-
-
 
 
 
@@ -787,23 +781,6 @@ https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 https://vdo2.streamgato.us:3233/live/ctvlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/_2-vVKDAd-2c/TDxvly2beWI/AAAAAAAADSg/bZStG9nPi80/s400/canal5.jpg"group-title="ARGENTINA", CANAL 5
-http://pms-tv.online:25461/pmstv/LD6LU4GZwt/559
-
-
-
-
- 
-
-
-#EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/Cabezales/2245.jpg"group-title="ARGENTINA",  AZTECA 7
-http://clubtv.link/iptv/p13/tvpremium.php?c=3030&f=.m3u8
-
-
-
-
-
-
 
 
 
@@ -943,10 +920,6 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png"group-title="ARGENTINA", TVS MARACAY
-http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist_w365987513.m3u8?WebM3UCL
 
 
 
