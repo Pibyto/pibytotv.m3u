@@ -297,6 +297,9 @@ http://etvhome.com:25461/Arturo/Arturo1/20159
 https://stmv.panel.grupolimalive.com:443/cinperu/cinperu/chunklist_w1060372831.m3u8?WebM3UCL
 
 
+#EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/Y2FuYWwubWFzNV9zY3JlZW5fMl8xNTk3ODA4ODAyXzAxMw/screen-2.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA",CANAL+
+https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
+
 
 #EXTINF:-1tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png"group-title="ARGENTINA",TELECINE PREMIUM HD
 http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
