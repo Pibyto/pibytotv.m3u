@@ -131,6 +131,11 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2021/06/canal5-alcorta.jpg"group-title="ARGENTINA", CANAL 5 ALCORTA SANTA FE
+https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
+
+
+
 #EXTINF: -1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2017/10/WhatsApp-Image-2020-05-28-at-10.35.45-PM-1-300x276.jpeg"group-title="ARGENTINA", URBANCRIST WORSHIP 
 https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8?WebM3UCL
 
@@ -1740,9 +1745,6 @@ https://acastream.org:20048/;
 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/37/ae/ff/37aeff5fe7cc6a3964ead7e9aa1363d2.jpg"group-title="ARGENTINA", FARRA PLAY
-http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://www.ministeriointernacionalyeshuasanayrestaura.org/data/files/yeshuasanayrestaurabanner.jpg"group-title="CRISTIANO", Yeshua Sana y Restaura TV
 https://584097344c1f0.streamlock.net/1625/stream/chunklist_w1163404488.m3u8
 
@@ -1766,10 +1768,6 @@ https://5fd5567570c0e.streamlock.net:443/36/stream/chunklist_w788448893.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png"group-title="ARGENTINA", TV MAS
-https://593b04c4c5670.streamlock.net:443/8008/8008/chunklist_w1374383399.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/v6v8LlTFX_kkrxlM7EViPuG9EvQwkHmzdXfeCwnPIAAzjY7r7rrgqqEdaykRRaSkmRa_"group-title="24/7",CINE ACCION
@@ -2164,9 +2162,6 @@ http://etvhome.com:25461/Arturo/Arturo1/36426
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1276199099478552577/9KzAG68i_400x400.jpg"group-title="ARGENTINA", CANAL NUEVE COMODORO 
-https://live.canalnueve.tv/canal.m3u8
-
 
 
 
@@ -2175,13 +2170,7 @@ http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG"group-title="ARGENTINA",C5N
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png"group-title="ARGENTINA", AMERICA TUCUMAN 
-http://45.6.4.154/americatuc/vivo.m3u8
 
 
 #EXTINF: -1 tvg-logo = "https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png"group-title="CRISTIANO", UNIFE TV 25.1
@@ -2265,26 +2254,12 @@ http://etvhome.com:25461/Arturo/Arturo1/13853
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg"group-title="ARGENTINA", CANAL 4 TELECONDOR
-https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-3-La-Pampa-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 LA PAMPA
-https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 
 
 
 
 
-
-
-
-#EXTINF: -1 tvg-logo="https://www.m3u.cl/logo/522_TV_MauleSur.png"group-title="CINE Y SERIES", TV MOULE SUR
-https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg"group-title="ARGENTINA", LIM
-https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png"group-title="CINE Y SERIES", ANTARES TV 
@@ -2501,13 +2476,7 @@ https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8?We
 #EXTINF: -1 tvg-logo="https://3.bp.blogspot.com/-4VEwQWMsFTU/X6WUazGQV8I/AAAAAAAAAwU/3tkNlT-QTZUMQpo8Ex0j6C5nsPfcd-04wCK4BGAYYCw/s1600/Urbancrist2-logo.png"group-title="CRISTIANO", URBANCRIST TV 2
 https://5790d294af2dc.streamlock.net:443/8160/8160/chunklist_w1412141262.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2021/06/canal5-alcorta.jpg"group-title="ARGENTINA", CANAL 5 ALCORTA SANTA FE
-https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png"group-title="ARGENTINA", CANAL 7 SALTA
-https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/1200px-Logo_tvmax.png"group-title="ARGENTINA", TVMAX
@@ -2522,9 +2491,6 @@ https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1268363411.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png"group-title="ARGENTINA", AZTECA UNO
-https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99nu/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-.m3u8
 
 #EXTINF: -1 tvg-logo="https://enfoquedigital.cl/wp-content/uploads/2020/03/LOGO-ED.png"group-title="CINE Y SERIES", ENFOQUE DIGITAL TV
 https://stmv1.zcastbr.com:443/edtvchile/edtvchile/chunklist_w875429006.m3u8?WebM3UCL
@@ -2575,9 +2541,6 @@ https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png" group-title="INFANTIL", CHINOLA TV
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="ARGENTINA", AZTECA 7
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="INFANTIL", RAKUTEN FAMILIA
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -2798,10 +2761,6 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/K3n7ECn.png"group-title="INFANTIL", AFV
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://barvatvplus.com/wp-content/uploads/2020/12/PicsArt_11-24-11.04.44.png"group-title="CINE Y SERIES", BARVA TV
-https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 
 
 
