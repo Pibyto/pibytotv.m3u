@@ -242,6 +242,14 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
 
+
+#EXTINF:-1  tvg-logo="http://www.egmtv.online/img/logo-radio.png"group-title="ARGENTINA", EGM TV
+https://paneltv.online:1936/8186/8186/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
