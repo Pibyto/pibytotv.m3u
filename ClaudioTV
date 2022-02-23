@@ -170,6 +170,11 @@ http://185.59.221.136:25461/tv1chago/1p7iYUyvZF/50627?token=TxFcUUoKEV9HBAYGAlQD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://4dproducciones.com.ar/wp-content/uploads/2020/10/TN.png"group-title="ARGENTINA",TN TODO NOTICIAS
+http://moontools.me:8080/tv1chago/1p7iYUyvZF/29490
+
+
+
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA", ALTAR TV
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
@@ -288,6 +293,7 @@ https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada
 
 #EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3fJnRoQ0aj7rT3xcZ-m0I8O7QFIht9c6_ZA&usqp=CAU"group-title="ARGENTINA", ALBARDON TV SAN JUAN
 https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
+
 
 
 
