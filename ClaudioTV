@@ -414,6 +414,20 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009
 
 
 
+
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/cl-contivision-musica-5382.jpg"group-title="ARGENTINA",CONTIVISION TV
+https://unlimited1-cl-isp.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8?nimblesessionid=111498653&WebM3UCL
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqw8kYCezvyCeyXNLVmLntjG6Dp_2RFux7QA&usqp=CAU"group-title="ARGENTINA",TV TURF
+https://janus.tvturf.cl:443/playlist/stream.m3u8?s=hd&t=&id=7b0b1df7-5645-699c-f456-4f620d55ddab&q=&d=u
+
+
+
+
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/bellavision.jpg"group-title="ARGENTINA", BELLAVISION HD
 https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
 
