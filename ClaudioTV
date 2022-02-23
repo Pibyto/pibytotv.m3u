@@ -239,8 +239,61 @@ https://edge-live32-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCO
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="ARGENTINA",FOX SPORTS PREMIUM - opción 2
+http://etvhome.com:25461/Arturo/Arturo1/13779
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="ARGENTINA",TNT SPORTS HD
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg"group-title="ARGENTINA",TyC Sports HD
+http://etvhome.com:25461/Arturo/Arturo1/36357
+
+
+
+
+#EXTINF:-1 tvg-logo"https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="ARGENTINA", ESPN
+http://etvhome.com:25461/Arturo/Arturo1/36545
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/dk/284289/png/284289.png"group-title="ARGENTINA", ESPN2
+http://etvhome.com:25461/Arturo/Arturo1/92618
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="ARGENTINA", FOX SPORTS
+http://etvhome.com:25461/Arturo/Arturo1/13845
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="ARGENTINA", FOX SPORTS 2
+http://etvhome.com:25461/Arturo/Arturo1/13847
+
+
+
+
+
+
+
 #EXTINF:-1  tvg-logo="https://espnpressroom.com/mexico/files/2021/07/Sports-Star.png"group-title="ARGENTINA",ESPN - STAR =EVENTUAL
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/9XnOPW7d87tTzUQgU7sFKe0g65pH_E3N5S0dZg2aeyC0aKVfjbKRsjL150siGoJoJXlL-kIR9HuiUgftXUpi8A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"group-title="ARGENTINA",DAZN
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
 
@@ -1213,53 +1266,8 @@ http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1106389745_b1928000_sleng.
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"group-title="ARGENTINA",DAZN
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"group-title="DEPORTES 2", DAZN
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg"group-title="ARGENTINA",TyC Sports HD
-http://etvhome.com:25461/Arturo/Arturo1/36357
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="ARGENTINA",FOX SPORTS PREMIUM
-http://etvhome.com:25461/Arturo/Arturo1/13779
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="ARGENTINA",TNT SPORTS HD
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo"https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="ARGENTINA", ESPN
-http://etvhome.com:25461/Arturo/Arturo1/36545
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/dk/284289/png/284289.png"group-title="ARGENTINA", ESPN2
-http://etvhome.com:25461/Arturo/Arturo1/92618
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="ARGENTINA", FOX SPORTS
-http://etvhome.com:25461/Arturo/Arturo1/13845
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="ARGENTINA", FOX SPORTS 2
-http://etvhome.com:25461/Arturo/Arturo1/13847
 
 
 
