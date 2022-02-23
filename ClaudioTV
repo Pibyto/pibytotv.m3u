@@ -209,7 +209,8 @@ https://g5.mc-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_120274.png"group-title="ARGENTINA", CANAL 26 HD
-http://etvhome.com:25461/Arturo/Arturo1/33754
+https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w166455214_b2628000_sleng.m3u8
+
 
 
 
