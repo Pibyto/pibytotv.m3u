@@ -296,6 +296,9 @@ https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTIt5Hurz27ES-CuZvEqwGuenc5Y-cSlqew&usqp=CAU"group-title="ARGENTINA", PRESENCIA TELEVISION
+https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://vod.magma.qaotic.net/media/posters-live/cronica/placa_cronica2019.jpg"group-title="ARGENTINA", CRÓNICA HD
@@ -1636,6 +1639,11 @@ https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.iptvcristiano.com/uploads/channels/166/logo_thumb.jpg"group-title="CRISTIANO", ALCANCE TV
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBgBqnAcvICV8ua-u_zR-QS6J7NGsYY3DZQ&usqp=CAU"group-title="CRISTIANO", VIENTO RECIO
+https://stmvideo1.livecastv.com/vientorecio/vientorecio/playlist.m3u8?WebM3UCL
 
 
 
