@@ -303,6 +303,12 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w16645521
 
 
 
+#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/516/214/png-clipart-telemax-logo-television-channel-film-poster-others-television-angle.png"group-title="ARGENTINA", TELEMAX HD
+http://moontools.me:8080/tv1chago/1p7iYUyvZF/1116302
+
+
+
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKN8N8fNFYmsYDIK2BG_N8eAJlABse6uCdsA&usqp=CAU"group-title="ARGENTINA",RT ESPAÑOL
 https://rt-esp.gcdn.co:443/live/rtesp/playlist_4500Kb.m3u8
 
