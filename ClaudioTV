@@ -328,6 +328,10 @@ https://edge-live34-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.
 
 
 
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/474x/82/28/df/8228df5bdbf40ea108fc263679549962.jpg"group-title="ARGENTINA", COMBATE UFC
+http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16703
+
+
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQohmsm8s1Q4kajS5ZHHyZ67BpXdpyr5ULw-g&usqp=CAU"group-title="ARGENTINA",ZOYTV
 https://master.tucableip.com//zoytv/playlist.m3u8
@@ -345,6 +349,18 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuLmX48Za6JVf9wCBcvq4vbMQcIdvOWyW22g&usqp=CAU"group-title="ARGENTINA",INSPIRANIME - ANIME - ANIMACIÓN
+https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w569981525.m3u8?WebM3UCL
+
+
+
+#EXTINF:-1  tvg-logo="https://uploads.turbologo.com/uploads/design/preview_image/4551835/preview_image20211224-8647-1g7dld3.png"group-title="ARGENTINA",ANIME
+https://usher.ttvnw.net/api/channel/hls/los_simpson_24_7.m3u8?playlist_include_framerate=true&allow_source=true&player_type=pulsar&player_backend=mediaplayer&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22los_simpson_24_7%22%2C%22channel_id%22%3A651101791%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22zJ6xvzggH3X4lFu8VBEXzQON1cjYWXHY%22%2C%22expires%22%3A1645611757%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.46.68.34%22%2C%22version%22%3A2%7D&sig=6bfe51de14e5671e3e9d5132f2afe3c4a5b96f07&cdm=wv&player_version=1.8.0
+
+
+
+
 #EXTINF:-1  tvg-logo="http://www.egmtv.online/img/logo-radio.png"group-title="ARGENTINA", EGM TV
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 
@@ -355,9 +371,6 @@ https://paneltv.online:1936/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA", ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://uploads.turbologo.com/uploads/design/preview_image/4551835/preview_image20211224-8647-1g7dld3.png"group-title="ARGENTINA",ANIME
-https://usher.ttvnw.net/api/channel/hls/los_simpson_24_7.m3u8?playlist_include_framerate=true&allow_source=true&player_type=pulsar&player_backend=mediaplayer&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22los_simpson_24_7%22%2C%22channel_id%22%3A651101791%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22zJ6xvzggH3X4lFu8VBEXzQON1cjYWXHY%22%2C%22expires%22%3A1645611757%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.46.68.34%22%2C%22version%22%3A2%7D&sig=6bfe51de14e5671e3e9d5132f2afe3c4a5b96f07&cdm=wv&player_version=1.8.0
 
 
 
@@ -452,9 +465,6 @@ https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png" group-title="ARGENTINA", HBO 2
 http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/474x/82/28/df/8228df5bdbf40ea108fc263679549962.jpg"group-title="ARGENTINA", COMBATE UFC
-http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16703
 
 
 
