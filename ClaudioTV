@@ -303,6 +303,10 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w16645521
 
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKN8N8fNFYmsYDIK2BG_N8eAJlABse6uCdsA&usqp=CAU"group-title="ARGENTINA",RT ESPAÑOL
+https://rt-esp.gcdn.co:443/live/rtesp/playlist_4500Kb.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="ARGENTINA", AMERICA HD  36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
