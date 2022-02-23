@@ -111,7 +111,7 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
-#EXTINF: -1, tvg-logo = "http://canal2sanagasta.com/wp-content/uploads/2018/03/28458722_419904775113526_320551255_n.png"group-title="ARGENTINA", CANAL 2 SANAGASTA
+#EXTINF: -1, tvg-logo = "https://canal2sanagasta.com/wp-content/uploads/2019/03/CANAL-2-SANAGASTA.png"group-title="ARGENTINA", CANAL 2 SANAGASTA
 https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
 
