@@ -116,17 +116,6 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.718406328_FoxSportsPremium.png.2d3118dc99043ec79eaff13b026c8953.png"group-title="ARGENTINA",FOX SPORTS PREMIUM
-https://edge-live32-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQohmsm8s1Q4kajS5ZHHyZ67BpXdpyr5ULw-g&usqp=CAU"group-title="ARGENTINA",ZOYTV SPORTS
-https://master.tucableip.com//zoytv/playlist.m3u8
-
-
-
 
 #EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
 https://videohd.live:19360/8010/8010.m3u8
@@ -243,6 +232,35 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png"group-title="ARGENTINA", DEPORTV - 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://espnpressroom.com/mexico/files/2021/07/Sports-Star.png"group-title="ARGENTINA",ESPN - STAR =EVENTUAL
+https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/9XnOPW7d87tTzUQgU7sFKe0g65pH_E3N5S0dZg2aeyC0aKVfjbKRsjL150siGoJoJXlL-kIR9HuiUgftXUpi8A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+
+
+
+#EXTINF:-1  tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png"group-title="ARGENTINA",Bein sport Xtra ñ
+https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpb901BSQryDKebM4aHuZI4FoY3r5307vtUKFMTOtSRcKkIQc&s"group-title="ARGENTINA", 
+CONMEBOL TV - EVENTUAL
+https://play.brasiltvweb.com/v3/youshi/m1_xrNh5O0VIHWdGhbT5J_480p.m3u8?session_id=HLsTAnNLFm3T&app_ver=10101&auth_id=42166598_com.global.brasiltvweb&client_ip=45.163.153.38&user_id=42166598&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=1d85131d&expired=1645588501&token=8CECE6661030811EF09C1B12094723D2&media_code=m1_xrNh5O0VIHWdGhbT5J_480p
+
+
+
+#EXTINF:-1  tvg-logo=""group-title="ARGENTINA",FOX SPORTS
+https://edge-live34-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8?mvk
+
+
+#EXTINF:-1  tvg-logo=""group-title="ARGENTINA",FOX SPORTS
+https://edge-live34-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8?mvk
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.am1080.com.ar/radio/wp-content/uploads/nav-paka-paka.jpg"group-title="ARGENTINA", PAKA PAKA  22.2
