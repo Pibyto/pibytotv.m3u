@@ -218,7 +218,7 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w16645521
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzkWhz-jofcRd9fiVgQRhVxH92hgZuJS1tQ&usqp=CAU"group-title="ARGENTINA", UNIFE TV 25.1
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2U_n3VA7ER4qT2FggFEBcCxr3srHZsxVJw&usqp=CAU"group-title="ARGENTINA", UNIFE TV 25.1
 https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-p.m3u8?sd=10&rebase=on
 
 
