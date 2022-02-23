@@ -281,6 +281,10 @@ https://player-api.new.livestream.com/accounts/22636012/events/8242619/broadcast
 https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8?WebM3UCL
 
 
+#EXTINF:-1  tvg-logo="http://www.canal21tv.com.ar/images/00_ARTE_NUEVO.png"group-title="ARGENTINA",CANAL 21 HD MISIONES
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8?nimblesessionid=8478327
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal_9_Litoral_logo_2021.png"group-title="ARGENTINA", CANAL 9 LITORAL
 https://stream.arcast.live:443/ahora/ahora/chunklist_w728312553.m3u8
