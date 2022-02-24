@@ -369,6 +369,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png"group-title="ARGENTINA",LA2 HD
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png"group-title="ARGENTINA", TEC TV  22.5
