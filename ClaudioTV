@@ -527,19 +527,39 @@ http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16703
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="ARGENTINA", MMA TV
-https://alchimie-mmatv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="ARGENTINA", BELLATOR MMA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
 
+
+
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="ARGENTINA", TV FIGHT
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
+
+
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="ARGENTINA", GLORY KICKBOXING TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 
+
+
+
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png"group-title="ARGENTINA",PELEAS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_PPep2i7McKw_nPD4xHaKEMJZ7BxhhuNWi9VNIHQLF9hJNqa&s"group-title="ARGENTINA",LUCHA LIBRE AAA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXUhY73WDQaQP0NNBYuRGqKiAPfPqIlQlGkKilHr1zSxz3qo&s"group-title="ARGENTINA",MOTERVISION TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="ARGENTINA", TyC SPORT PLAY 2
