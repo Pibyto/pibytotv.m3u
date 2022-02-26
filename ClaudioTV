@@ -542,6 +542,59 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="ARGENTINA", TyC SPORT PLAY 2
+https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="ARGENTINA", TyC SPORT PLAY 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="ARGENTINA", TyC SPORT PLAY 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="ARGENTINA", TyC SPORT PLAY 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="ARGENTINA", TyC SPORT PLAY 6
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="ARGENTINA", TNT Sports  Brasil
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="ARGENTINA", TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="ARGENTINA", TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="ARGENTINA", TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="ARGENTINA", TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="DEPORTES 2",ERT SPORTS
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+
 
 
 
@@ -3372,62 +3425,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007c
 
 
 
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-Best-Cable-Sports-en-vivo.jpg" group-title="DEPORTES 2", BEST CABLE SPORT
-https://live.siete.us/bestcablesports/bestcablesports/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="ARGENTINA", TyC SPORT PLAY 2
-https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="ARGENTINA", TyC SPORT PLAY 3
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="ARGENTINA", TyC SPORT PLAY 4
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="ARGENTINA", TyC SPORT PLAY 5
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="ARGENTINA", TyC SPORT PLAY 6
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="ARGENTINA", TNT Sports  Brasil
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="ARGENTINA", TNT Sports 2 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="ARGENTINA", TNT Sports 3 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="ARGENTINA", TNT Sports 4 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="ARGENTINA", TNT Sports 5 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="DEPORTES 2",ERT SPORTS
-http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 
 
 
