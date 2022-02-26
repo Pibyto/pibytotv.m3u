@@ -484,6 +484,11 @@ http://tv.thepremiummedia.com:8080/toni1/1toni/1091366
 
 
 
+#EXTINF:-1  tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png"group-title="ARGENTINA",DIRECTV SPORTS 2 HD
+http://tv.thepremiummedia.com:8080/toni1/1toni/32882
+
+
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdGiPYs_XWcPTG3I7XRf3M3qTJQMTC19CRA&usqp=CAU"group-title="ARGENTINA",DIRECTV SPORTS +
 http://moontools.me:8080/tv1chago/1p7iYUyvZF/1194936
 
