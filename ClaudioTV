@@ -447,11 +447,12 @@ http://etvhome.com:25461/Arturo/Arturo1/13847
 
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png"group-title="ARGENTINA",TIGO SPORTS PY
+http://tv.thepremiummedia.com:8080/toni1/1toni/7435
 
 
 
-#EXTINF:-1  tvg-logo="https://espnpressroom.com/mexico/files/2021/07/Sports-Star.png"group-title="ARGENTINA",ESPN - STAR =EVENTUAL
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/9XnOPW7d87tTzUQgU7sFKe0g65pH_E3N5S0dZg2aeyC0aKVfjbKRsjL150siGoJoJXlL-kIR9HuiUgftXUpi8A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
+
 
 
 
@@ -471,6 +472,12 @@ https://play.brasiltvweb.com/v3/youshi/m1_xrNh5O0VIHWdGhbT5J_480p.m3u8?session_i
 
 #EXTINF:-1  tvg-logo=""group-title="ARGENTINA",FOX SPORTS
 https://edge-live34-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8?mvk
+
+
+
+
+#EXTINF:-1  tvg-logo="https://www.vive-santa-elena.com/wp-content/uploads/2019/08/204-2047658_urmdp-tv-directv-sports-logo-png-transparent-png.jpg"group-title="ARGENTINA",DIRECTV SPORTS HD
+http://tv.thepremiummedia.com:8080/toni1/1toni/1091366
 
 
 
