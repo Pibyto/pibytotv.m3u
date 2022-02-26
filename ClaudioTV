@@ -661,8 +661,17 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CokFdozQRbPSAyZMHWUab2P9qkm
 
 
 
-#EXTINF:-1  tvg-logo="http://www.egmtv.online/img/logo-radio.png"group-title="ARGENTINA", EGM TV
-https://paneltv.online:1936/8186/8186/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA", PLANETA TV MOVIE
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOKTtIrCGV-2_jiYKs8UNCJF7a3Txc-8t3w&usqp=CAU"group-title="ARGENTINA", CINECLUB
+https://servilive.com:3176/live/cineclublive.m3u8
+
 
 
 
@@ -1005,17 +1014,6 @@ https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA", PLANETA TV MOVIE
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOKTtIrCGV-2_jiYKs8UNCJF7a3Txc-8t3w&usqp=CAU"group-title="ARGENTINA", CINECLUB
-https://servilive.com:3176/live/cineclublive.m3u8
 
 
 
