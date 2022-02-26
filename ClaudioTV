@@ -671,6 +671,16 @@ http://tv.thepremiummedia.com:8080/toni1/1toni/23222
 
 
 
+#EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",  SOMOS DEL ESTE HD
+https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA",  BELLA ASUNCIÓN TV
+https://tvdatta.com:3602/stream/play.m3u8
+
+
+
+
 #EXTINF:-1  tvg-logo="https://www.television.com.py/wp-content/uploads/2016/10/telefuturo-UH-doble-pagina-HD-2.jpg"group-title="ARGENTINA", TELEFUTURO HD
 http://tv.thepremiummedia.com:8080/toni1/1toni/7529
 
@@ -929,13 +939,6 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?WebM3UCL
 
 
 
-
-#EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",  SOMOS DEL ESTE HD
-https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA",  BELLA ASUNCIÓN TV
-https://tvdatta.com:3602/stream/play.m3u8
 
 
 
