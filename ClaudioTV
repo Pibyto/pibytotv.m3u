@@ -461,6 +461,14 @@ http://etvhome.com:25461/Arturo/Arturo1/67736
 
 
 
+#EXTINF:-1  tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png"group-title="ARGENTINA",TENNIS CHANNEL UK
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://www.logolynx.com/images/logolynx/7e/7e36e802707b65c2fc16030a923928e5.jpeg"group-title="ARGENTINA",TENNIS CHANNEL HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"group-title="ARGENTINA",DAZN
@@ -618,6 +626,16 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://www.edgesports.eu/assets/images/layout/es_logo.png"group-title="ARGENTINA",EDGE SPORT
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png"group-title="ARGENTINA",RED-BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.am1080.com.ar/radio/wp-content/uploads/nav-paka-paka.jpg"group-title="ARGENTINA", PAKA PAKA  22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
@@ -643,6 +661,15 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CokFdozQRbPSAyZMHWUab2P9qkm
 #EXTINF:-1  tvg-logo="http://www.egmtv.online/img/logo-radio.png"group-title="ARGENTINA", EGM TV
 https://paneltv.online:1936/8186/8186/playlist.m3u8
 
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJkGzPlQxAWp_ytFiZPTnHKu9HIc3MI59qgg&usqp=CAU"group-title="ARGENTINA",SNT. 
+http://tv.thepremiummedia.com:8080/toni1/1toni/23222
+
+
+
+#EXTINF:-1  tvg-logo="https://www.television.com.py/wp-content/uploads/2016/10/telefuturo-UH-doble-pagina-HD-2.jpg"group-title="ARGENTINA", TELEFUTURO HD
+http://tv.thepremiummedia.com:8080/toni1/1toni/7529
 
 
 
