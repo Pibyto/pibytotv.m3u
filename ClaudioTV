@@ -454,6 +454,9 @@ http://etvhome.com:25461/Arturo/Arturo1/13847
 http://tv.thepremiummedia.com:8080/toni1/1toni/7435
 
 
+#EXTINF:-1  tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F889%2Flook-sport-hd-2.png"group-title="ARGENTINA",LOOKSPORTS + HD
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
+
 
 
 #EXTINF:-1 tvg-logo="https://files.antena2.com/antena2/public/2020-02/win__3_0.jpg"group-title="ARGENTINA", WIN SPORTS+
