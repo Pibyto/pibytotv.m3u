@@ -8,40 +8,6 @@
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="PASIÓN DE GAVILANES 2",PASION DE GAVILANES 2 -2X1
-http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1252745.mkv
-
-
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="PASIÓN DE GAVILANES 2",PASION DE GAVILANES 2 -2X2
-http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1252856.mkv
-
-
-
-
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="PASIÓN DE GAVILANES 2",PASION DE GAVILANES 2 -2X3
-http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1253215.mkv
-
-
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="PASIÓN DE GAVILANES 2",PASION DE GAVILANES 2 -2X4
-http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1253535.mp4
-
-
-
-
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="PASIÓN DE GAVILANES 2",PASION DE GAVILANES 2 -2X5
-http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1253536.mp4
-
-
-
-
-
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="PASIÓN DE GAVILANES 2",PASION DE GAVILANES 2 -2X6
-http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1253667.mp4
-
-
-
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="PASIÓN DE GAVILANES 2",PASION DE GAVILANES 2 -2X7
-http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1254078.mp4
 
 
 
@@ -1261,6 +1227,40 @@ https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="PASIÓN DE GAVILANES 2",PASION DE GAVILANES 2 -2X1
+http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1252745.mkv
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="PASIÓN DE GAVILANES 2",PASION DE GAVILANES 2 -2X2
+http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1252856.mkv
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="PASIÓN DE GAVILANES 2",PASION DE GAVILANES 2 -2X3
+http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1253215.mkv
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="PASIÓN DE GAVILANES 2",PASION DE GAVILANES 2 -2X4
+http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1253535.mp4
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="PASIÓN DE GAVILANES 2",PASION DE GAVILANES 2 -2X5
+http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1253536.mp4
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="PASIÓN DE GAVILANES 2",PASION DE GAVILANES 2 -2X6
+http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1253667.mp4
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/SeaP4TGV9tA/sddefault.jpg"group-title="PASIÓN DE GAVILANES 2",PASION DE GAVILANES 2 -2X7
+http://moontools.me:8080/series/tv1chago/1p7iYUyvZF/1254078.mp4
 
 
 
@@ -1357,8 +1357,6 @@ http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1106389745_b1928000_sleng.
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"group-title="DEPORTES 2", DAZN
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
 
