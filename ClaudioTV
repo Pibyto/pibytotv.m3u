@@ -339,6 +339,11 @@ http://moontools.me:8080/tv1chago/1p7iYUyvZF/1116291
 http://moontools.me:8080/tv1chago/1p7iYUyvZF/1116296
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png"group-title="ARGENTINA",EURONEWS ESPAÑOL
+http://clubtv.link/iptv/24f/distro.php?c=euronews-spa&f=.m3u8
+
+
+
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKN8N8fNFYmsYDIK2BG_N8eAJlABse6uCdsA&usqp=CAU"group-title="ARGENTINA",RT ESPAÑOL
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
@@ -708,6 +713,14 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://a.jsrdn.com/hls/23007/spanglish/thumbh_20220111_222123.png"group-title="ARGENTINA",SPANGLISH
+http://clubtv.link/iptv/24f/distro.php?c=spanglish&f=.m3u8
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uIlMoWnRA7BuTu-qGn_zyDeWdo9vbzNQiw&usqp=CAU"group-title="ARGENTINA",GLEWEDTV
+http://clubtv.link/iptv/24f/distro.php?c=glewedtv-spanish&f=.m3u8
 
 
 
