@@ -483,6 +483,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f9
 https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 
 
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/3p5pXDp/BSP2.png"group-title="ARGENTINA",BEIN SPORTS 2 PREMIUM
+http://ultrontv.xyz:80/clay424/clay424/98807
+
+
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpb901BSQryDKebM4aHuZI4FoY3r5307vtUKFMTOtSRcKkIQc&s"group-title="ARGENTINA",CONMEBOL TV
 https://play.brasiltvweb.com/v3/youshi/m1_xrNh5O0VIHWdGhbT5J_480p.m3u8?session_id=HLsTAnNLFm3T&app_ver=10101&auth_id=42166598_com.global.brasiltvweb&client_ip=45.163.153.38&user_id=42166598&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=1d85131d&expired=1645588501&token=8CECE6661030811EF09C1B12094723D2&media_code=m1_xrNh5O0VIHWdGhbT5J_480p
 
