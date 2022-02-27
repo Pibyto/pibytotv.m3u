@@ -1335,6 +1335,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f9
 https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png"group-title="DEPORTES",BEINSPORTS 1 PREMIUM
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/-W3akHQ2RGhdDFMmMD4cZFn3_XuKCADu8DgjlIECIplLaa_yA_o2AhmEDPWDJe7EdWgGrt-5XyMS1rKRrGjA8A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+
+
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/3p5pXDp/BSP2.png"group-title="DEPORTES",BEIN SPORTS 2 PREMIUM
 http://ultrontv.xyz:80/clay424/clay424/98807
