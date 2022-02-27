@@ -5,36 +5,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="ARGENTINA", TELEMUNDO FHD 
-http://etvhome.com:25461/Arturo/Arturo1/145765
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjF5cEXgUDVj7vZWoPWG8ZJDHbCU_i_rZnzBXNS9Krr_G_WT0&s"group-title="ARGENTINA", UNIMAS FHD
-http://etvhome.com:25461/Arturo/Arturo1/134355
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png"group-title="ARGENTINA", ÚNICABLE
-http://etvhome.com:25461/Arturo/Arturo1/73652
-
-
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png"group-title="ARGENTINA", PASIONES HD
-http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10767
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEQwp6ojbl2fxqMnO_zq3DkujkMR4VzOWcg&usqp=CAU"group-title="ARGENTINA", KBO
-https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
-
-
 
 
 
@@ -257,6 +227,42 @@ https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-p.m3u8?sd=10
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Alfatv.png"group-title="ARGENTINA", ALFA TV
 https://byecableiptv.com:443/alfatv/alfatv.stream/chunklist_w1257975845.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="ARGENTINA", TELEMUNDO FHD 
+http://etvhome.com:25461/Arturo/Arturo1/145765
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjF5cEXgUDVj7vZWoPWG8ZJDHbCU_i_rZnzBXNS9Krr_G_WT0&s"group-title="ARGENTINA", UNIMAS FHD
+http://etvhome.com:25461/Arturo/Arturo1/134355
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png"group-title="ARGENTINA", ÚNICABLE
+http://etvhome.com:25461/Arturo/Arturo1/73652
+
+
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png"group-title="ARGENTINA", PASIONES HD
+http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10767
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEQwp6ojbl2fxqMnO_zq3DkujkMR4VzOWcg&usqp=CAU"group-title="ARGENTINA", KBO
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", TDC TV SANTA FE
