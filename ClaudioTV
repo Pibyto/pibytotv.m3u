@@ -269,6 +269,12 @@ https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CANAL 4 JUJUY
+http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="ARGENTINA", LA VOZ TV
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
@@ -688,9 +694,6 @@ https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w569981525.m
 
 
 
-
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="ARGENTINA",CINE SONY
-https://cdn1-6p.teleuptv.net:443/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v1a1/mono.m3u8
 
 
 
@@ -2616,17 +2619,6 @@ http://etvhome.com:25461/Arturo/Arturo1/31764
 
 #EXTINF:-1 tvg-logo="https://www.pngmart.com/files/17/Cobra-Kai-Logo-Transparent-PNG.png"group-title="24/7", COBRA KAI
 http://etvhome.com:25461/Arturo/Arturo1/36426
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CANAL 4 JUJUY
-http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
-
 
 
 
