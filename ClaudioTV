@@ -279,7 +279,8 @@ https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-P5y5gS0XzC2l11-Gek3EEs8nTX8ZKm_cCg&usqp=CAU"group-title="ARGENTINA",SANTA FE CANAL
-https://player-api.new.livestream.com/accounts/22636012/events/8242619/broadcasts/229517183.secure.m3u8?dw=80&hdnea=st=1645654622~exp=1645656422~acl=/i/22636012_8242619_b54d0deba114dc0d5a64a9edfe3447fd_1@447330/*~hmac=85993dbd0c0b9059aa0adad0e5f66d8ba2e50f0306370c9fa5e273cf93c961ab&token=6216b38a_09e204e71fcc4dc2b626ca521fa2d3d889449abc
+http://playback2.akamaized.net/streams/22636012_8242619_bb51c0ca4a428a4b43414ae3535a5e8a_1/exp=1646055321~acl=%2f*~data=hdntl~hmac=8d5a1e1a021cfb93b8758c2d3673618ea966477ff8f558f64220d0ff4ce8acfc/media/22636012_8242619_bb51c0ca4a428a4b43414ae3535a5e8a_1@2592000p.m3u8?dw=80&ts=1645966800
+
 
 
 #EXTINF: -1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2017/10/WhatsApp-Image-2020-05-28-at-10.35.45-PM-1-300x276.jpeg"group-title="ARGENTINA", URBANCRIST WORSHIP 
