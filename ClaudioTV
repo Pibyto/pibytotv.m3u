@@ -2,17 +2,8 @@
 
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
 http://185.59.221.136:25461/tv1chago/1p7iYUyvZF/50627?token=TxFcUUoKEV9HBAYGAlQDAwUGVAEIC1oCVFBSVwUKUAABCgMAAFILUVJHGxZERkMHVVhvXVQbAwRRVAMCGxFEQFFBa1ldQAlHV1YDDQQKE04WQVlZVRsDAFdWBAMGCwELAh8WQFAGEV9HXQEDBBAdQFFNRFFCV1hdPgZUQ15QVBEOXUFcVU4RCgs6U1FaU18GFg8SBBIVG1gSEhMPWUZdXxgRVllNEFIRAEcNFgUGAFMWGRJXX0xXRRMbEw8VcmMRGBFRSE0HXRYMClkWDRBFERYZEl1DZktUEhZDUFZeVEEWCRYAG04RCAQdaFdYXF8HV0FZW15KGwtDURMZFV5eXV1HW0JmEloBR18VBQ4LA1oWSA==
-
 
 
 
@@ -307,22 +298,6 @@ http://etvhome.com:25461/Arturo/Arturo1/36357
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.am1080.com.ar/radio/wp-content/uploads/nav-paka-paka.jpg"group-title="ARGENTINA", PAKA PAKA  22.2
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
@@ -335,11 +310,6 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuLmX48Za6JVf9wCBcvq4vbMQcIdvOWyW22g&usqp=CAU"group-title="ARGENTINA",INSPIRANIME - ANIME - ANIMACIÓN
 https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w569981525.m3u8?WebM3UCL
-
-
-
-
-
 
 
 
@@ -378,6 +348,9 @@ https://tvdatta.com:3602/stream/play.m3u8
 #EXTINF:-1  tvg-logo="https://www.television.com.py/wp-content/uploads/2016/10/telefuturo-UH-doble-pagina-HD-2.jpg"group-title="ARGENTINA", TELEFUTURO HD
 http://tv.thepremiummedia.com:8080/toni1/1toni/7529
 
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="ARGENTINA",CINE SONY
+https://cdn1-6p.teleuptv.net:443/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v1a1/mono.m3u8
 
 
 
