@@ -432,6 +432,9 @@ http://etvhome.com:25461/Arturo/Arturo1/36545
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/dk/284289/png/284289.png"group-title="ARGENTINA", ESPN2
 https://edge10-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8?SBN
 
@@ -444,20 +447,20 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8?SBN
 
 
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="ARGENTINA", FOX SPORTS
 http://etvhome.com:25461/Arturo/Arturo1/13845
 
-
-
-#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/900/439/png-transparent-television-channel-gol-tv-cnt-sports-zee-tv-logo-television-logo-logo-vector-thumbnail.png"group-title="ARGENTINA",GOL TV
-http://tv.thepremiummedia.com:8080/toni1/1toni/3755
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="ARGENTINA", FOX SPORTS 2
 http://etvhome.com:25461/Arturo/Arturo1/13847
 
+
+
+
+#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/900/439/png-transparent-television-channel-gol-tv-cnt-sports-zee-tv-logo-television-logo-logo-vector-thumbnail.png"group-title="ARGENTINA",GOL TV
+http://tv.thepremiummedia.com:8080/toni1/1toni/3755
 
 
 
@@ -500,8 +503,10 @@ http://ultrontv.xyz:80/clay424/clay424/98807
 
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpb901BSQryDKebM4aHuZI4FoY3r5307vtUKFMTOtSRcKkIQc&s"group-title="ARGENTINA",CONMEBOL TV
-https://play.brasiltvweb.com/v3/youshi/m1_xrNh5O0VIHWdGhbT5J_480p.m3u8?session_id=HLsTAnNLFm3T&app_ver=10101&auth_id=42166598_com.global.brasiltvweb&client_ip=45.163.153.38&user_id=42166598&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=1d85131d&expired=1645588501&token=8CECE6661030811EF09C1B12094723D2&media_code=m1_xrNh5O0VIHWdGhbT5J_480p
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png"group-title="ARGENTINA",BEIN SPORTS 3
+http://moontools.me:8080/tv1chago/1p7iYUyvZF/14604
+
+
 
 
 
@@ -538,9 +543,6 @@ http://moontools.me:8080/tv1chago/1p7iYUyvZF/26169
 
 
 
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png"group-title="ARGENTINA",BEIN SPORTS 3
-http://moontools.me:8080/tv1chago/1p7iYUyvZF/14604
 
 
 
@@ -653,6 +655,18 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png"group-title="ARGENTINA",RED-BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/poster_20210622_195953.png"group-title="ARGENTINA",BILLIARDTV
+https://1621590671.rsc.cdn77.org:443/HLS/BILLIARDTV_SCTE_Max.m3u8
+
+
+
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/981009599850409985/rTzmSoqJ_400x400.jpg"group-title="ARGENTINA",DANGER TV
+https://dangertv-us.samsung.wurl.tv:443/3000.m3u8
+
+
 
 
 
