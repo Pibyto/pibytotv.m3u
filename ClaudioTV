@@ -426,13 +426,14 @@ http://etvhome.com:25461/Arturo/Arturo1/36357
 
 
 
-#EXTINF:-1 tvg-logo"https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="ARGENTINA", ESPN
+#EXTINF:-1 tvg-loigo="https://4.bp.blogspot.com/-DEtOenIRyWc/UTVa4EauCXI/AAAAAAAAQBc/5Klyn9rW_78/s1600/logo+espn+2013.png"group-title="ARGENTINA", ESPN
 http://etvhome.com:25461/Arturo/Arturo1/36545
 
 
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/dk/284289/png/284289.png"group-title="ARGENTINA", ESPN2
-http://etvhome.com:25461/Arturo/Arturo1/92618
+https://edge10-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8?SBN
+
 
 
 
