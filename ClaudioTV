@@ -682,6 +682,9 @@ https://servilive.com:3176/live/cineclublive.m3u8
 http://ultrontv.xyz:80/clay424/clay424/85961
 
 
+#EXTINF:-1  tvg-logo="https://www.television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy.jpg"group-title="ARGENTINA",UNICANAL HD
+http://tv.thepremiummedia.com:8080/toni1/1toni/7434
+
 
 
 #EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",  SOMOS DEL ESTE HD
