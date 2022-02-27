@@ -713,6 +713,11 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
 
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MC.png"group-title="ARGENTINA",MC
+http://etvhome.com:25461/Arturo/Arturo1/133136
+
+
 #EXTINF:-1  tvg-logo="https://a.jsrdn.com/hls/23007/spanglish/thumbh_20220111_222123.png"group-title="ARGENTINA",SPANGLISH
 http://clubtv.link/iptv/24f/distro.php?c=spanglish&f=.m3u8
 
