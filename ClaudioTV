@@ -446,6 +446,12 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8?SBN
 
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="ARGENTINA",FOX SPORTS
+https://edge-live34-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8?mvk
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="ARGENTINA", FOX SPORTS
 http://etvhome.com:25461/Arturo/Arturo1/13845
@@ -510,10 +516,6 @@ http://moontools.me:8080/tv1chago/1p7iYUyvZF/14604
 
 
 
-#EXTINF:-1  tvg-logo=""group-title="ARGENTINA",FOX SPORTS
-https://edge-live34-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8?mvk
-
-
 
 
 #EXTINF:-1  tvg-logo="https://www.vive-santa-elena.com/wp-content/uploads/2019/08/204-2047658_urmdp-tv-directv-sports-logo-png-transparent-png.jpg"group-title="ARGENTINA",DIRECTV SPORTS HD
@@ -543,7 +545,8 @@ http://moontools.me:8080/tv1chago/1p7iYUyvZF/26169
 
 
 
-
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/ADgG4LDeTgc/maxresdefault.jpg"group-title="ARGENTINA",MMA TV
+https://alchimie-mmatv-samsung.amagi.tv:443/playlist1080_p.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/76/15/0b/76150b0d12ac24b0ad83d7d1c4fba438.png"group-title="ARGENTINA",UFC LIVE HD
