@@ -3411,13 +3411,15 @@ https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-spotlight-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/dWNxCqp.png" group-title="PLUTO TV", DRAMA DE RAKUTEN TV
-https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+https://rakuten-tvshows-2-es.samsung.wurl.tv:443/3000.m3u8
+
 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/dWNxCqp.png" group-title="PLUTO TV", RAKUTEN TV DRAMA 2
 https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
    
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/eQKFgpa.png" group-title="PLUTO TV", COMEDIA DE RAKUTEN    
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/eQKFgpa.png" group-title="PLUTO TV", COMEDIA DE RAKUTEN
+https://rakuten-comedymovies-2-es.samsung.wurl.tv:443/3000.m3u8    
+
 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/eQKFgpa.png" group-title="PLUTO TV", RAKUTEN COMEDIA 2
 https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
@@ -3432,7 +3434,8 @@ https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
 https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/hboiinD.jpg" group-title="PLUTO TV", RAKUTEN FAMILIA
-https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+https://rakuten-family-2-es.samsung.wurl.tv:443/3000.m3u8
+
 
 #EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="PLUTO TV", RAKUTEN TOP GRATIS
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
