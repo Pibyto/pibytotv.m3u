@@ -65,6 +65,16 @@ https://panel.dattalive.com/8012/8012/playlist.m3u8
 https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 
+#EXTINF: -1 tvg-logo = "http://1.bp.blogspot.com/-NGDAifGyP1E/UpI-Xc5EYqI/AAAAAAAAAFM/jdgvD3akd_I/s320/canal11.jpg"group-title="ARGENTINA", CANAL 11 MACHAGAI
+http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
+
+
+#EXTINF: -1 tvg-logo = "http://www.estoesmachagai.com/web/img/IMAGEN_PORTADA_SITIO_WEB_02.jpg"group-title="ARGENTINA", CANAL 3 PLUS TV MACHAGAI
+https://videohd.live:19360/8050/8050.m3u8
+
+
+
+
 
 
 #EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
@@ -1639,12 +1649,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/apMSrKP4Vh0-kXjo9LblAWXF1ECWRAePh4fbqp6mgqzvvafXFHzKI2uoZ2p7Og3GJb4"group-title="ARGENTINA", SPEED TV CONCORDIA
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "http://1.bp.blogspot.com/-NGDAifGyP1E/UpI-Xc5EYqI/AAAAAAAAAFM/jdgvD3akd_I/s320/canal11.jpg"group-title="ARGENTINA", CANAL 11 MACHAGAI CHACO
-http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
-
-
-#EXTINF: -1 tvg-logo = "http://www.estoesmachagai.com/web/img/IMAGEN_PORTADA_SITIO_WEB_02.jpg"group-title="ARGENTINA", CANAL 3 PLUS TV MACHAGAI CHACO
-https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 
 
 
