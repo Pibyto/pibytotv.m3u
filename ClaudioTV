@@ -343,6 +343,11 @@ https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w569981525.m
 
 
 
+#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg"group-title="ARGENTINA", TVS 
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA", PLANETA TV MOVIE
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
@@ -1183,9 +1188,6 @@ https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv:443/3000.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg"group-title="ARGENTINA", TVS 
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 
 
 
