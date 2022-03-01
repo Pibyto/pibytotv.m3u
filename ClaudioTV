@@ -69,7 +69,7 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "http://www.estoesmachagai.com/web/img/IMAGEN_PORTADA_SITIO_WEB_02.jpg"group-title="ARGENTINA", CANAL 3 PLUS TV
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqWNvUyaBNuylppPF712ZgJX4QoT667_K_Lg&usqp=CAU"group-title="ARGENTINA", CANAL 3 PLUS TV
 https://videohd.live:19360/8050/8050.m3u8
 
 
