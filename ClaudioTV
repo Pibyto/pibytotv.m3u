@@ -7,6 +7,11 @@ http://185.59.221.136:25461/tv1chago/1p7iYUyvZF/50627?token=TxFcUUoKEV9HBAYGAlQD
 
 
 
+#EXTINF: -1 tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/1200px-Logo_tvmax.png"group-title="ARGENTINA", TVMAX
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+
+
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"group-title="ARGENTINA ", EL TRECE FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
@@ -2849,9 +2854,6 @@ https://5790d294af2dc.streamlock.net:443/8160/8160/chunklist_w1412141262.m3u8?We
 
 
 
-
-#EXTINF: -1 tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/1200px-Logo_tvmax.png"group-title="ARGENTINA", TVMAX
-https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-PkSqz6Aw_KI/WwoSzNHYAtI/AAAAAAAABmI/OjQlFpl0bTEqlXd5-MbJfYF-dJo9elBjwCLcBGAs/s320/vision%2B3000.png"group-title="CINE Y SERIES", VISIÓN 3000
