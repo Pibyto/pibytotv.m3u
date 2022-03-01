@@ -348,6 +348,12 @@ https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w569981525.m
 
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ3NmFjYjQtNzM2Yi00NDEyLTgzYjMtMzFjODAwMjg2NzUzXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_.jpg"group-title="ARGENTINA", ANIME ZONE TV
+http://azxtv.com/hls/stream.m3u8?WebM3UCL
+
+
+
+
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg"group-title="ARGENTINA", TVS 
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 
@@ -1663,15 +1669,6 @@ http://etvhome.com:25461/Arturo/Arturo1/27683
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png"group-title="ARGENTINA", TELEFUTURO HD
-https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=c682a2fd01a5b50a05d693b7f8b230babc18362ef8c5c89e685f5c8010a0345d&exp=1644721384
-
-
-
-#EXTINF:-1 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png"group-title="ARGENTINA" ,SUCESO TV
-https://59ce1298bfb98.streamlock.net:443/sucesotv/sucesotv/chunklist_w1622156069.m3u8?WebM3UCL
-
-
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/815/325/png-clipart-cinema-film-movie-theatre-film-poster-clapperboard.png"group-title="CRISTIANO", MOVIE FE
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
@@ -2715,10 +2712,6 @@ https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vQ_Td1OAgyg/Wgx6RXUOxgI/AAAAAAAAAvw/st-k9EyVa2E5WLiQEe3ELPmIuqW_5ZPqgCLcBGAs/s1600/descarga%2B%25282%2529.jpg"group-title="INFANTIL", EL CHAVO TV 24/7
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/chunklist_w1675426815.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ3NmFjYjQtNzM2Yi00NDEyLTgzYjMtMzFjODAwMjg2NzUzXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_.jpg"group-title="ARGENTINA", ANIME ZONE TV
-http://azxtv.com/hls/stream.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pe-mega-tv-arequipa-6914.jpg"group-title="CINE Y SERIES", MEGA TV
