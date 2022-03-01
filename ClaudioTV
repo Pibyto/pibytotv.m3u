@@ -65,7 +65,7 @@ https://panel.dattalive.com/8012/8012/playlist.m3u8
 https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 
-#EXTINF: -1 tvg-logo = "http://1.bp.blogspot.com/-NGDAifGyP1E/UpI-Xc5EYqI/AAAAAAAAAFM/jdgvD3akd_I/s320/canal11.jpg"group-title="ARGENTINA", CANAL 11 MACHAGAI
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKXBbDTImQqoSvU8cFihksNsnQKUJDwTQAg&usqp=CAU"group-title="ARGENTINA", CANAL 11 MACHAGAI
 http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
 
