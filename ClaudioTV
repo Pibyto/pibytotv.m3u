@@ -551,6 +551,10 @@ http://etvhome.com:25461/Arturo/Arturo1/13390
 https://vsd132.mycdn.me:443/hls/1698824391191.m3u8/sig/JqolFhHRPcg/expires/1646249989235/srcIp/186.132.38.249/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5jYVBfzx-62AjCMQ8s6mqtcFizttUBVdog&usqp=CAU"group-title="CRISTIANO", TVR TELEVISIÓN
+https://vsd132.mycdn.me:443/hls/1698824391191.m3u8/sig/JqolFhHRPcg/expires/1646249989235/srcIp/186.132.38.249/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+
+
 
 
 
@@ -1239,31 +1243,7 @@ https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="DEPORTES",FOX SPORTS PREMIUM - opción 2
+#XTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="DEPORTES",FOX SPORTS PREMIUM - opción 2
 http://etvhome.com:25461/Arturo/Arturo1/13779
 
 
@@ -1691,9 +1671,6 @@ https://ss9.domint.net:3004/vntv_str/vidanuevatv/chunklist_w503323505.m3u8
 #EXTINF: -1 tvg-logo="https://vidatv.cl/img/logos/vidatv.png"group-title="CRISTIANO", VIDA TV
 https://player.netv.cl:443/vidatv/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5jYVBfzx-62AjCMQ8s6mqtcFizttUBVdog&usqp=CAU"group-title="CRISTIANO", TVR TELEVISIÓN-abierto de 09:hs a 24:hs
-https://vsd88.mycdn.me:443/hls/1698824391191.m3u8/sig/jbji4e8B07M/expires/1645485904504/srcIp/186.132.72.104/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
 
 
