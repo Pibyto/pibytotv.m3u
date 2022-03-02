@@ -46,6 +46,11 @@ https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?WebM3UCL
 https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ7g3DfBGPbktMqkMduWrx5yxZNw9YeUMMFw&usqp=CAU"group-title="ARGENTINA", CIUDAD MAGAZINE HD
+http://etvhome.com:25461/Arturo/Arturo1/63804
+
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
@@ -72,6 +77,14 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKXBbDTImQqoSvU8cFihksNsnQKUJDwTQAg&usqp=CAU"group-title="ARGENTINA", CANAL 11 MACHAGAI
 http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg"group-title="ARGENTINA", DANTV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+
+
+
 
 
 #EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqWNvUyaBNuylppPF712ZgJX4QoT667_K_Lg&usqp=CAU"group-title="ARGENTINA", CANAL 3 PLUS TV
@@ -626,10 +639,6 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg"group-title="ARGENTINA", DANTV
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/multivision-2-logo-png-transparent.png"group-title="ARGENTINA",  MULTIVISION
 https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
@@ -719,8 +728,6 @@ https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ7g3DfBGPbktMqkMduWrx5yxZNw9YeUMMFw&usqp=CAU"group-title="ARGENTINA", CIUDAD MAGAZINE HD
-http://etvhome.com:25461/Arturo/Arturo1/63804
 
 
 
