@@ -131,6 +131,15 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 
 
 
+#EXTINF:-1  tvg-logo="https://logodix.com/logo/1613837.jpg"group-title="ARGENTINA",MOVIEPLEX
+http://170222.1222908.net:2086/arsenio/arsenio/323516
+
+
+
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-actionmax-west-6600.jpg"group-title="ARGENTINA",ACTION MAX
+http://170222.1222908.net:2086/arsenio/arsenio/323503
+
+
 
 
 #EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1Djy6qdt91q7Nz8IOe0Wmi9E6mRLz59-Lg&usqp=CAU"group-title="ARGENTINA", CTV CORRIENTES
