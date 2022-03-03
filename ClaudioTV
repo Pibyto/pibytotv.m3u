@@ -360,6 +360,11 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Premiere_logo_2013.png"group-title="ARGENTINA",PREMIERE
+http://gratis.shortgod.com/apoyanosshortgod/tv5.php?c=40164
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuLmX48Za6JVf9wCBcvq4vbMQcIdvOWyW22g&usqp=CAU"group-title="ARGENTINA",INSPIRANIME - ANIME - ANIMACIÓN
 https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w569981525.m3u8?WebM3UCL
@@ -507,16 +512,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009
 
 
 
-
-#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/cl-contivision-musica-5382.jpg"group-title="ARGENTINA",CONTIVISION TV
-https://unlimited1-cl-isp.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8?nimblesessionid=111498653&WebM3UCL
-
-
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqw8kYCezvyCeyXNLVmLntjG6Dp_2RFux7QA&usqp=CAU"group-title="ARGENTINA",TV TURF
-https://janus.tvturf.cl:443/playlist/stream.m3u8?s=hd&t=&id=7b0b1df7-5645-699c-f456-4f620d55ddab&q=&d=u
 
 
 
