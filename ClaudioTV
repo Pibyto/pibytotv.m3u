@@ -151,6 +151,9 @@ https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSPyafVNj3A4h5Qcpe0uI37oRrNgjGewn4g&usqp=CAU"group-title="ARGENTINA",CANAL 41
+https://stmv.panel.grupolimalive.com/surtv/surtv/chunklist_w1449848498.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CANAL 4 JUJUY
 http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
