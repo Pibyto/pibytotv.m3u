@@ -125,7 +125,8 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png"group-title="ARGENTINA",STAR CHANNEL (SD)
-http://pms-tv.online:25461/live/pmstv/LD6LU4GZwt/33.m3u8
+http://pms-tv.online:25461/pmstvfree/listagratis/33
+
 
 
 
