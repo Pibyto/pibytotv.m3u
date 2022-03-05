@@ -41,6 +41,10 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443
 https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?WebM3UCL
 
 
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="ARGENTINA",SPACE HD
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz/rGwQ6Rk5nQc8b7h/877_4769.ts
+
+
 
 #EXTINF: -1 tvg-logo="https://www.stopenlinea.com.ar/uploads/imagenes/repositorio/2019/02/06/44981/20190206111757eb2ba8ee3dcef3ccda59128342a6d130_min.jpg"group-title="ARGENTINA", CANAL 9 NORTE MISIONES
 https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
