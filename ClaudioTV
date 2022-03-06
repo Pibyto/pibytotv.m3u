@@ -56,6 +56,10 @@ http://etvhome.com:25461/Arturo/Arturo1/63804
 
 
 
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png"group-title="ARGENTINA",  MULTIVISION
+https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
@@ -68,6 +72,18 @@ https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png"group-title="ARGENTINA", CANAL 9 MENDOZA
 https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w752832264.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2016/12/LOGO-2016-chico-3.jpg"group-title="ARGENTINA", COSMOS TV
+https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN2ieloWjd5qRyxFYzX11NnyKblCNjTBZP6A&usqp=CAU"group-title="ARGENTINA", BLU HD
+https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
+
+
 
 
 
@@ -130,6 +146,10 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 #EXTINF:-1  tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png"group-title="ARGENTINA",STAR CHANNEL (SD)
 http://pms-tv.online:25461/pmstvfree/listagratis/33
 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGy9BsQw_2fHt__SeWEyiuMisaUAFSQoLLBw&usqp=CAU"group-title="ARGENTINA",  CANAL RTV 12 
+https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
 
 
 
@@ -691,9 +711,6 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png"group-title="ARGENTINA",  MULTIVISION
-https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="ARGENTINA", CINE ACCIÓN
@@ -708,9 +725,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGy9BsQw_2fHt__SeWEyiuMisaUAFSQoLLBw&usqp=CAU"group-title="ARGENTINA",  CANAL RTV 12 
-https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
-
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWF87u9p7dYcrU6gyeIiNkLKNS_r_vOmlQA&usqp=CAU"group-title="ARGENTINA", VISION NDV
@@ -721,15 +735,6 @@ https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2016/12/LOGO-2016-chico-3.jpg"group-title="ARGENTINA", COSMOS TV
-https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN2ieloWjd5qRyxFYzX11NnyKblCNjTBZP6A&usqp=CAU"group-title="ARGENTINA", BLU HD
-https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
 
 
 
