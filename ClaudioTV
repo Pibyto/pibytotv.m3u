@@ -358,6 +358,11 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://canalesdominicanos.live/template/images/radios/santiago-tv.png"group-title="ARGENTINA", SANTIAGO TV
+https://vdo2.streamgato.us:3265/live/santiagotvlive.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg"group-title="ARGENTINA", MIRADOR  22.3
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8 
 
