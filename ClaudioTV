@@ -22,6 +22,11 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 
 
 
+#EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="ARGENTINA", GDM
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
+
+
+
 #EXTINF:-1  tvg-logo="https://st1.uvnimg.com/dims4/default/f8377bc/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F31%2Fba%2F7b82868048868e2c1df2d580541b%2Fprendetv-hero-image-414x230-sept2021.png"group-title="ARGENTINA",PRENDETV - ROMANCE
 https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist_1280x720.m3u8
 
@@ -59,6 +64,9 @@ https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?WebM3UCL
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="ARGENTINA",SPACE HD
 http://pms-tv.online:25461/pmstvfree/listagratis/15953
 
+
+#EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png"group-title="ARGENTINA", LA CALETA
+https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
 
 
@@ -143,6 +151,14 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png"group-title="ARGENTINA", TVS MARACAY
 http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist_w365987513.m3u8?WebM3UCL
 
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="ARGENTINA", CINE ACCIÓN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
+
+
+#EXTINF:-1 tvg-logo="https://carbonmade-media.accelerator.net/17760333;640x367.jpeg"group-title="ARGENTINA", CINE PREMIER
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
 
 
 
@@ -696,9 +712,6 @@ http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
 
 
 
-#EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="ARGENTINA", GDM
-https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="ARGENTINA", AMC HD
 http://etvhome.com:25461/Arturo/Arturo1/27683
@@ -742,13 +755,6 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="ARGENTINA", CINE ACCIÓN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
-
-
-#EXTINF:-1 tvg-logo="https://carbonmade-media.accelerator.net/17760333;640x367.jpeg"group-title="ARGENTINA", CINE PREMIER
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
 
 
 
@@ -1153,8 +1159,6 @@ https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1268363411.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png"group-title="ARGENTINA", LA CALETA
-https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
 
 
@@ -1327,6 +1331,35 @@ https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1106451788104978433/lFVk_4XU_400x400.png"group-title="ARGENTINA", TV PLATA
 https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/blog/wp-content/uploads/2020/08/ButacaTV-Blog_10.jpg"group-title="ARGENTINA", BUTACA TV
+https://veranda-butacatv-2-mx.samsung.wurl.tv:443/3000.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11215302.jpg"group-title="ARGENTINA", CANAL 14
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com:443/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.revistavisionmedia.es/wp-content/uploads/2018/10/profesor_gratis_cine.jpg"group-title="ARGENTINA" CINE VERDI
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv:443/3000.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.movilinvasion.es/wp-content/uploads/2011/11/COSMO-HD.jpg"group-title="ARGENTINA", COSMO
+http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1106389745_b1928000_sleng.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/apMSrKP4Vh0-kXjo9LblAWXF1ECWRAePh4fbqp6mgqzvvafXFHzKI2uoZ2p7Og3GJb4"group-title="ARGENTINA", SPEED TV CONCORDIA
+http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
+
 
 
 
@@ -1658,32 +1691,6 @@ https://rr5---sn-ab5sznle.googlevideo.com/videoplayback?expire=1641066463&ei=f1v
 
 
 
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/blog/wp-content/uploads/2020/08/ButacaTV-Blog_10.jpg"group-title="ARGENTINA", BUTACA TV
-https://veranda-butacatv-2-mx.samsung.wurl.tv:443/3000.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11215302.jpg"group-title="ARGENTINA", CANAL 14
-https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com:443/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.revistavisionmedia.es/wp-content/uploads/2018/10/profesor_gratis_cine.jpg"group-title="ARGENTINA" CINE VERDI
-https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv:443/3000.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://www.movilinvasion.es/wp-content/uploads/2011/11/COSMO-HD.jpg"group-title="ARGENTINA", COSMO
-http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1106389745_b1928000_sleng.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/apMSrKP4Vh0-kXjo9LblAWXF1ECWRAePh4fbqp6mgqzvvafXFHzKI2uoZ2p7Og3GJb4"group-title="ARGENTINA", SPEED TV CONCORDIA
-http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
 
 
