@@ -94,6 +94,13 @@ https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 http://etvhome.com:25461/Arturo/Arturo1/63804
 
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="ARGENTINA", CINE ROMANCE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
+
+#EXTINF: -1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="ARGENTINA", RUN: TIME
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png"group-title="ARGENTINA",  MULTIVISION
 https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
@@ -159,6 +166,10 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOKTtIrCGV-2_jiYKs8UNCJF7a3Txc-8t3w&usqp=CAU"group-title="ARGENTINA", CINECLUB
 https://servilive.com:3176/live/cineclublive.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png" group-title="ARGENTINA", HBO
+https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 
 
@@ -599,9 +610,6 @@ https://d31faiqgbicbr8.cloudfront.net:443/dist/samsungtv/195/hls/master/playlist
 
 
 
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png" group-title="ARGENTINA", HBO
-https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIIyp3MBRITAek3jMYIGj33e6meV5MBoxRA&usqp=CAU"group-title="ARGENTINA", DIGITAL VISION
@@ -1318,11 +1326,6 @@ https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?WebM3UCL
 http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="ARGENTINA", CINE ROMANCE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
-
-#EXTINF: -1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="ARGENTINA", RUN: TIME
-https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
 
 
