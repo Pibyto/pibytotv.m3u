@@ -537,6 +537,10 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sp
 http://etvhome.com:25461/Arturo/Arturo1/36357
 
 
+#EXTINF:-1  tvg-logo="https://mma.uno/wp-content/uploads/2019/05/WWE-logo.jpg"group-title="ARGENTINA",WWE HD
+http://etvhome.com:25461/Arturo/Arturo1/24313
+
+
 
 #EXTINF:-1  tvg-logo="https://st1.uvnimg.com/dims4/default/f8377bc/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F31%2Fba%2F7b82868048868e2c1df2d580541b%2Fprendetv-hero-image-414x230-sept2021.png"group-title="ARGENTINA",PRENDETV - LIGA MX
 https://dip0m6wuccbi7.cloudfront.net:443/dist/samsungtv/193/hls/master/playlist_1280x720.m3u8
