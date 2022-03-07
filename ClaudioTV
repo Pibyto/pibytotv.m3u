@@ -11,9 +11,24 @@ https://vd368.mycdn.me/expires/1646680446341/srcIp/186.132.119.10/srcAg/CHROME_A
 
 
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"group-title="ARGENTINA ", EL TRECE FHD
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_canal10.png"group-title="ARGENTINA", CANAL 10 MDP.
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
 http://185.59.221.136:25461/tv1chago/1p7iYUyvZF/50627?token=TxFcUUoKEV9HBAYGAlQDAwUGVAEIC1oCVFBSVwUKUAABCgMAAFILUVJHGxZERkMHVVhvXVQbAwRRVAMCGxFEQFFBa1ldQAlHV1YDDQQKE04WQVlZVRsDAFdWBAMGCwELAh8WQFAGEV9HXQEDBBAdQFFNRFFCV1hdPgZUQ15QVBEOXUFcVU4RCgs6U1FaU18GFg8SBBIVG1gSEhMPWUZdXxgRVllNEFIRAEcNFgUGAFMWGRJXX0xXRRMbEw8VcmMRGBFRSE0HXRYMClkWDRBFERYZEl1DZktUEhZDUFZeVEEWCRYAG04RCAQdaFdYXF8HV0FZW15KGwtDURMZFV5eXV1HW0JmEloBR18VBQ4LA1oWSA==
+
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-canal-7-de-jujuy.jpg"group-title="ARGENTINA", CANAL 7 JUJUY
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
+
 
 
 
@@ -32,12 +47,6 @@ https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist
 
 
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"group-title="ARGENTINA ", EL TRECE FHD
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://4dproducciones.com.ar/wp-content/uploads/2020/10/TN.png"group-title="ARGENTINA",TN TODO NOTICIAS
-http://moontools.me:8080/tv1chago/1p7iYUyvZF/29490
 
 
 
@@ -48,8 +57,6 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-canal-7-de-jujuy.jpg"group-title="ARGENTINA", CANAL 7 JUJUY
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA", EL NUEVE
@@ -86,6 +93,11 @@ https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenaccion.png"group-title="ARGENTINA", RAKUTEN TV - ACCIÓN
+https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
+
+
+
 #EXTINF: -1 tvg-logo="https://www.stopenlinea.com.ar/uploads/imagenes/repositorio/2019/02/06/44981/20190206111757eb2ba8ee3dcef3ccda59128342a6d130_min.jpg"group-title="ARGENTINA", CANAL 9 NORTE MISIONES
 https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 
@@ -112,6 +124,15 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwVnGKiQ-DBJgyjC6twuX1zfvCB2U5Y7ujmg&usqp=CAU"group-title="ARGENTINA", WTV
+https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AJk-_2ROoNNy_8gEKHS7flcxdc8VzHHpsg&usqp=CAU"group-title="ARGENTINA", TV SUR CANAL 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+
+
+
 #EXTINF: -1, tvg-logo = "https://pbs.twimg.com/profile_images/974840212034609152/wjxoqVd7_400x400.jpg"group-title="ARGENTINA", CANAL 2 SANAGASTA
 https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
@@ -126,9 +147,19 @@ https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN2ieloWjd5qRyxFYzX11NnyKblCNjTBZP6A&usqp=CAU"group-title="ARGENTINA", BLU HD
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
 
+
+
+#EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",  SOMOS DEL ESTE HD
+https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA",  BELLA ASUNCIÓN TV
+https://tvdatta.com:3602/stream/play.m3u8
 
 
 
@@ -275,9 +306,6 @@ http://pms-tv.online:25461/pmstvfree/listagratis/15930
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_canal10.png"group-title="ARGENTINA", CANAL 10 MDP.
-https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
-
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSPyafVNj3A4h5Qcpe0uI37oRrNgjGewn4g&usqp=CAU"group-title="ARGENTINA",CANAL 41
@@ -355,6 +383,11 @@ https://g5.mc-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_120274.png"group-title="ARGENTINA", CANAL 26 HD
 https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w166455214_b2628000_sleng.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://4dproducciones.com.ar/wp-content/uploads/2020/10/TN.png"group-title="ARGENTINA",TN TODO NOTICIAS
+http://moontools.me:8080/tv1chago/1p7iYUyvZF/29490
 
 
 
@@ -551,13 +584,6 @@ http://tv.thepremiummedia.com:8080/toni1/1toni/7434
 
 
 
-#EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",  SOMOS DEL ESTE HD
-https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA",  BELLA ASUNCIÓN TV
-https://tvdatta.com:3602/stream/play.m3u8
-
 
 
 
@@ -601,13 +627,6 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwVnGKiQ-DBJgyjC6twuX1zfvCB2U5Y7ujmg&usqp=CAU"group-title="ARGENTINA", WTV
-https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AJk-_2ROoNNy_8gEKHS7flcxdc8VzHHpsg&usqp=CAU"group-title="ARGENTINA", TV SUR CANAL 9
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
 
 
@@ -822,9 +841,6 @@ https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rakutenaccion.png"group-title="ARGENTINA", RAKUTEN TV - ACCIÓN
-https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ705eVxKKzcyg5JNP-d81pqZFN0YeZaWXEg&usqp=CAU"group-title="ARGENTINA", TV LATINA
