@@ -95,6 +95,11 @@ https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="http://meteoalcorcon.es/1_0_1_76C0_40E_1_C00000_0_0_0.png"group-title="ARGENTINA", MOVISTAR ESTRENOS HD
+http://etvhome.com:25461/Arturo/Arturo1/31859
+
+
+
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png"group-title="ARGENTINA", CASCARA TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8 
