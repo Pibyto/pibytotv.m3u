@@ -235,6 +235,19 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://comoayer.weebly.com/uploads/4/6/7/8/46782355/published/1498d916-1440-4682-a5f0-9cee9d59c09d.png?1628906296"group-title="ARGENTINA", RETROPLAY TV
+https://v4.tustreaming.cl:443/retroplaytv/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/800px-Logo_TVE-Internacional.svg.png"group-title="ARGENTINA", RED TVE 
+https://s1.tvdatta.com:3707/live/redtvelive.m3u8?WebM3UCL
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png"group-title="ARGENTINA", LA CALETA
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
@@ -1185,24 +1198,8 @@ https://5eae379fb77bb.streamlock.net:443/8126/8126/chunklist_w325188716.m3u8?Web
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://comoayer.weebly.com/uploads/4/6/7/8/46782355/published/1498d916-1440-4682-a5f0-9cee9d59c09d.png?1628906296"group-title="ARGENTINA", RETROPLAY TV
-https://v4.tustreaming.cl:443/retroplaytv/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/800px-Logo_TVE-Internacional.svg.png"group-title="ARGENTINA", RED TVE 
-https://s1.tvdatta.com:3707/live/redtvelive.m3u8?WebM3UCL
-
-
 #EXTINF: -1 tvg-logo = "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="CINE Y SERIES", CANAL 34
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
-
-
-
-
 
 
 
@@ -1236,26 +1233,8 @@ https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w149262164
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png"group-title="ARGENTINA", CARACOL TV
-https://mdstrm.com/live-stream-playlist/58d539f1a3ec37fa097a75de.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2021/05/FMTV-matriz-CLASSIC-blanco-277x156.png" group-title="ARGENTINA", FM SUPER CLASSIC
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.revistavisionmedia.es/wp-content/uploads/2018/10/profesor_gratis_cine.jpg"group-title="ARGENTINA",CINE VERDI
-https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv:443/3000.m3u8
-
-
-
 
 
 
@@ -1263,9 +1242,6 @@ https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv:443/3000.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png"group-title="ARGENTINA", ANTARES TV 
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1847102702.m3u8?WebM3UCL
-
-
-
 
 
 
@@ -1283,15 +1259,6 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1428128082.
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png"group-title="ARGENTINA", CHINOLA TV
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11215302.jpg"group-title="ARGENTINA", CANAL 14
-https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com:443/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.revistavisionmedia.es/wp-content/uploads/2018/10/profesor_gratis_cine.jpg"group-title="ARGENTINA" CINE VERDI
-https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv:443/3000.m3u8
 
 
 
