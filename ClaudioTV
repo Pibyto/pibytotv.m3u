@@ -31,6 +31,9 @@ http://etvhome.com:25461/Arturo/Arturo1/134127
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA", EL NUEVE
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/f596f4c5-0140-4a4f-b8e9-e04c756ff549/5.m3u8
+
 
 
 #EXTINF: -1 tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ-2GtysmcPkUbc7uvju1h2EdqWH_jtNeWw&usqp=CAU"group-title="ARGENTINA", TVMAX
@@ -49,19 +52,10 @@ https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA", ALTAR TV
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA", EL NUEVE
-https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/f596f4c5-0140-4a4f-b8e9-e04c756ff549/5.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA", ORBIT TV
