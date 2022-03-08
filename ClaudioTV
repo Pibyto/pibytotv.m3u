@@ -178,6 +178,11 @@ http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10907
 
 
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7f4ecb7c2f2357888048d013effb4c16b1b78ae96e6fc02691d64c325ae69501.png"group-title="ARGENTINA", RUN:TIME MX
+https://runtime-espanol-roku.amagi.tv:443/playlistR1080p.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png"group-title="ARGENTINA", PH TV
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 
@@ -1230,9 +1235,6 @@ https://olympusamagi.pc.cdn.bitgravity.com:443/TopCine-roku/master_6.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7f4ecb7c2f2357888048d013effb4c16b1b78ae96e6fc02691d64c325ae69501.png"group-title="ARGENTINA", RUN:TIME LATINO
-https://runtime-espanol-roku.amagi.tv:443/playlistR1080p.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/CINEMA-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg"group-title="ARGENTINA", CINEMA+
@@ -1270,15 +1272,7 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="ARGENTINA",MY TIME
-https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
-
-
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-CwMYprB8eaA/XnATeNoPyXI/AAAAAAAAw-Y/I40dMYtgMWstYOVQvOI-uZArZune0a9VACK8BGAsYHg/s0/2020"group-title="ARGENTINA", GEO
-https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.revistavisionmedia.es/wp-content/uploads/2018/10/profesor_gratis_cine.jpg"group-title="ARGENTINA" CINE VERDI
+#EXTINF:-1 tvg-logo="https://www.revistavisionmedia.es/wp-content/uploads/2018/10/profesor_gratis_cine.jpg"group-title="ARGENTINA",CINE VERDI
 https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv:443/3000.m3u8
 
 
@@ -2146,88 +2140,6 @@ https://acastream.org:20048/;
 
 
 
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe_Mjti4WMU7ufqLpit4t4sYvIBNWJrEadTA&usqp=CAU"group-title="3D",COMO ENTRENAR A TU DRAGON
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/99695.mkv
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjZnEFMEmSb3PNwJ70UlbYP4wNLM87_jEgvg&usqp=CAU"group-title="3D",WIFI RALPH
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/99697.mkv
-
-
-#EXTINF:-1  tvg-logo="https://www.ecured.cu/images/7/76/Diosesdeegipto.jpg"group-title="3D",DIOSES DE EGIPTO
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/92198.mkv
-
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVzjT77NzGbkqUiTB2xKbS7VAl_QOjhhhm5g&usqp=CAU"group-title="3D",CASAFANTASMAS
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/92199.mkv
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnw-hsc1O-5ZxQc5h9mTm3FwqdBuulabl7Dg&usqp=CAU"group-title="3D", PUNTO DE QUIEBRE
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/92189.mkv
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJSiXfwyYrhraq47YOxAXJrssGwIewTol3Eg&usqp=CAU"group-title="3D", MÁQUINAS MORTALES
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/99694.mkv
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVoQ6JGwNQHUun_4RL7T3AOo1a7NBE4BvLJQ&usqp=CAU"group-title="3D",RESIDENT EVIL EL CAPÍTULO FINAL
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/92188.mkv
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8tt-uQvdEOzWxjKbxlk3Gptd3UiNH3vEgMA&usqp=CAU"group-title="3D", PROYECTO RAMPAGE
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/88822.mp4
-
-
-
-#EXTINF:-1  tvg-logo="https://i.blogs.es/6d24bc/ready-player-one/840_560.jpg"group-title="3D",READY PLAYER ONE
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/88821.mkv
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_goHTGR7eYXMNRxhsJelr2AT4cZNP8JiQRg&usqp=CAU"group-title="3D",TITANES DEL PACIFICO
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/88820.mp4
-
-
-
-#EXTINF:-1  tvg-logo="https://sm.ign.com/t/ign_es/gallery/a/art-of-sol/art-of-solo-exclusive-images_ey6v.1080.jpg"group-title="3D",HAN SOLO
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/88825.mp4
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmO_0jrrfEjQ-aUUwRGcqARETaYCQs4Gciw&usqp=CAU"group-title="3D",JUMANJI
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/89647.mkv
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQ0Nrf2Ow9qkl5_nCj73iwDUZQE_Rm8gfrg&usqp=CAU"group-title="3D",TOMB RAIDER
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/89584.mkv
-
-
-
-#EXTINF:-1  tvg-logo="https://brandemia.org/sites/default/files/inline/images/justice_league_logo.jpg"group-title="3D",LIGA DE LA JUSTICIA
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/89653.mkv
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKDuKhO2aEM4VJ4pSKW13br6makRLsvmA9Gg&usqp=CAU"group-title="3D",PIRAÑAS 3D
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/91750.avi
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPurBLKJI1G9ln2uSqPfYfp7CrnsBb8lDFMg&usqp=CAU"group-title="3D",NEED FOR SPEED
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/92193.mkv
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRfrNWblsDWOZM0ZlM4yGBlkbBNe0haamOrw&usqp=CAU"group-title="3D",LA HORA DECISIVA
-http://moontools.me:8080/movie/tv1chago/1p7iYUyvZF/92185.mkv
 
 
 
