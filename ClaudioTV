@@ -183,8 +183,16 @@ https://runtime-espanol-roku.amagi.tv:443/playlistR1080p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png"group-title="ARGENTINA", PH TV
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aR1KtUinfdipk64wtGTv8apIP5Z27YO17g&usqp=CAU"group-title="ARGENTINA", CANAL HM
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ705eVxKKzcyg5JNP-d81pqZFN0YeZaWXEg&usqp=CAU"group-title="ARGENTINA", TV LATINA
+https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
+
 
 
 
@@ -195,6 +203,11 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_b
 
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/886623373614342144/TkVOFEox.jpg"group-title="ARGENTINA", DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1tvg-logo"https://play-lh.googleusercontent.com/pTdJRVDDV8jmJV-Nu-Ci9MCJOjsJOyE4QTNwOf_hLyqdRCi0qmUkDNElQ0hUD9qPGD1z"group-title="ARGENTINA", NICOYA TV
+http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
 
 
 
@@ -921,16 +934,6 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?WebM3UCL
 https://player.netv.cl:443/vidatv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aR1KtUinfdipk64wtGTv8apIP5Z27YO17g&usqp=CAU"group-title="ARGENTINA", CANAL HM
-https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
-
-
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ705eVxKKzcyg5JNP-d81pqZFN0YeZaWXEg&usqp=CAU"group-title="ARGENTINA", TV LATINA
-https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
-
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCtm8HS7kXiteVNjkN3CF1BFldOxsYfnNyZg&usqp=CAU"group-title="ARGENTINA", RED UNO HD
 https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlGNbsgeDcDpHJN2R6jkr_s)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
@@ -1296,12 +1299,6 @@ https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1tvg-logo"https://play-lh.googleusercontent.com/pTdJRVDDV8jmJV-Nu-Ci9MCJOjsJOyE4QTNwOf_hLyqdRCi0qmUkDNElQ0hUD9qPGD1z"group-title="ARGENTINA", NICOYA TV
-http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRipYNdXh_7w6zWtiDj4GlFbsZicQ40pfE76Q&usqp=CAU"group-title="ARGENTINA",CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1428128082.m3u8
@@ -1311,9 +1308,6 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1428128082.
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
 
-
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1106451788104978433/lFVk_4XU_400x400.png"group-title="ARGENTINA", TV PLATA
-https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
 
 
 
