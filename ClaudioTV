@@ -142,6 +142,11 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6079be62f9
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ARGENTINA", HBO PLUS
+http://etvhome.com:25461/Arturo/Arturo1/20159
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png"group-title="ARGENTINA",MOVIE FE
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
@@ -891,16 +896,6 @@ http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png"group-title="ARGENTINA", CINEMAX HD
 http://etvhome.com:25461/Arturo/Arturo1/13390
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ARGENTINA", HBO PLUS
-http://etvhome.com:25461/Arturo/Arturo1/20159
 
 
 
