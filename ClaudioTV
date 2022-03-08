@@ -274,6 +274,13 @@ http://etvhome.com:25461/Arturo/Arturo1/63804
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="ARGENTINA", CINE ROMANCE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
 
+
+
+#EXTINF:-1 tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"group-title="ARGENTINA",CINE ROMANTICO
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_cineromantico_001.m3u8?ads.caid=CineRomantico&ads.csid=samsungtvplus_us_cineromantico_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=movies&ads._fw_content_language=en%2Ces%2Cfr&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2068&ads.xumo_contentName=UpTVCineRomantico&ads.xumo_providerId=2068&ads.xumo_providerName=UpTVCineRomantico&ads.xumo_channelId=9999538&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%
+
+
+
 #EXTINF: -1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="ARGENTINA", RUN: TIME
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
@@ -778,28 +785,6 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 
 
 
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJkGzPlQxAWp_ytFiZPTnHKu9HIc3MI59qgg&usqp=CAU"group-title="ARGENTINA",SNT
-http://ultrontv.xyz:80/clay424/clay424/85961
-
-
-#EXTINF:-1  tvg-logo="https://www.television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy.jpg"group-title="ARGENTINA",UNICANAL HD
-http://tv.thepremiummedia.com:8080/toni1/1toni/7434
-
-
-
-
-
-
-#EXTINF:-1  tvg-logo="https://www.television.com.py/wp-content/uploads/2016/10/telefuturo-UH-doble-pagina-HD-2.jpg"group-title="ARGENTINA", TELEFUTURO HD
-http://tv.thepremiummedia.com:8080/toni1/1toni/7529
-
-
-
-
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MC.png"group-title="ARGENTINA",MC
 http://etvhome.com:25461/Arturo/Arturo1/133136
 
@@ -1090,23 +1075,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/06/84888_1_54838.jpg"group-title="ARGENTINA",CINE ROMANTICO
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_cineromantico_001.m3u8?ads.caid=CineRomantico&ads.csid=samsungtvplus_us_cineromantico_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=movies&ads._fw_content_language=en%2Ces%2Cfr&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2068&ads.xumo_contentName=UpTVCineRomantico&ads.xumo_providerId=2068&ads.xumo_providerName=UpTVCineRomantico&ads.xumo_channelId=9999538&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%
-
-
-
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png"group-title="ARGENTINA", PUNTA CANA TV
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
-
-
-
 
 
 
