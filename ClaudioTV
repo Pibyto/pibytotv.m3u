@@ -59,6 +59,9 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
+#EXTINF:-1 tvg-logo"https://i.imgur.com/6yvnhLM_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="ARGENTINA",PELÍCULAS_MANIA
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CooF1cihyiUiFLuta2qnmg7pjjxt7ouKQ5rY8YV-298oDcnDdNI3cmxKyTrnidJ4pOQE5cMnXXHmzcEXJqdVnJXw65YCqDHhUdOREKBAnIMleb-AEIlZmNmuBdYIg2bTVRBmpWxBKvxk8-qlqSZitIAax11sNDFqNvm0buhlWulT7nLQQTwsYEJ8LlpGcLx3gA0YEsW61qPKuWI3VSKnb4FtRmoJ2-RjTbMTOAwDDY0L9O-YapIAs0QoX1ZDsf6rC9pr4uqZvg5sLMnMSLTqj4g-Q8JyLpnq9bLcmz3AtumjaZwh_zAMzKGx6GxJFsZVBs3BjY3MZ37oX1rsOhvjNnWY0LoqKMapk4gkUdsDnKtB3ekUWCCPQR_ecZXpd3AKc2KE0WAtGSfGWsu0zdtJ9v7dOVSnKl2On6xUqVukgHCntwXuEAFjEj5_byn_ImBylwEyruHnYMhcMb13Gs0FpPyUsSdRhhcrgk6pSSpF-RMKuyEuqhhHSnMatAj0C-KmC9seRUrl9Xu2c1RkOThGbZlEdUlSGz6AbQiL1nENBN5_dHbvKhiWx-x75qQMLerwmcuT1FH_Ag9lHmjdweg3xm5yvOMK0UrqqlE_TTLl8fkSd7vhn3DJDQNLNZE2KEQ_vIuyj2ieQD-UhnzurhueFHeWbGOXiSXFfVz1UJHQBtUZEEbJaTS-1oSwExn5E664cwxUb932TdP_L4-ZEGMqWYOni7vSZlxBIAVpbqccRE8JcSu4sxzIpOKzlKZO0cvfMFi0WfJuOQzFUe356GW8BWYVV875JVbSPh61DcQQYHjWDwdhk6jjPNtGqo5Yk5umcUdQo05KYh8Hq2507A9nMbR_RS_lGUUZjAMzFxkaDOvUoSx4r0286E-rWCABKglldS13ZXN0LTIwlQM.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jWFndt1lNlg9q7oiwUvUQbvnyCpHGLd4UA&usqp=CAU"group-title="ARGENTINA", VIWIX TV
@@ -765,22 +768,6 @@ https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png" group-title="ARGENTINA", HBO 2
 http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo"https://i.imgur.com/6yvnhLM_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="ARGENTINA",PELÍCULAS_MANIA
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CooF1cihyiUiFLuta2qnmg7pjjxt7ouKQ5rY8YV-298oDcnDdNI3cmxKyTrnidJ4pOQE5cMnXXHmzcEXJqdVnJXw65YCqDHhUdOREKBAnIMleb-AEIlZmNmuBdYIg2bTVRBmpWxBKvxk8-qlqSZitIAax11sNDFqNvm0buhlWulT7nLQQTwsYEJ8LlpGcLx3gA0YEsW61qPKuWI3VSKnb4FtRmoJ2-RjTbMTOAwDDY0L9O-YapIAs0QoX1ZDsf6rC9pr4uqZvg5sLMnMSLTqj4g-Q8JyLpnq9bLcmz3AtumjaZwh_zAMzKGx6GxJFsZVBs3BjY3MZ37oX1rsOhvjNnWY0LoqKMapk4gkUdsDnKtB3ekUWCCPQR_ecZXpd3AKc2KE0WAtGSfGWsu0zdtJ9v7dOVSnKl2On6xUqVukgHCntwXuEAFjEj5_byn_ImBylwEyruHnYMhcMb13Gs0FpPyUsSdRhhcrgk6pSSpF-RMKuyEuqhhHSnMatAj0C-KmC9seRUrl9Xu2c1RkOThGbZlEdUlSGz6AbQiL1nENBN5_dHbvKhiWx-x75qQMLerwmcuT1FH_Ag9lHmjdweg3xm5yvOMK0UrqqlE_TTLl8fkSd7vhn3DJDQNLNZE2KEQ_vIuyj2ieQD-UhnzurhueFHeWbGOXiSXFfVz1UJHQBtUZEEbJaTS-1oSwExn5E664cwxUb932TdP_L4-ZEGMqWYOni7vSZlxBIAVpbqccRE8JcSu4sxzIpOKzlKZO0cvfMFi0WfJuOQzFUe356GW8BWYVV875JVbSPh61DcQQYHjWDwdhk6jjPNtGqo5Yk5umcUdQo05KYh8Hq2507A9nMbR_RS_lGUUZjAMzFxkaDOvUoSx4r0286E-rWCABKglldS13ZXN0LTIwlQM.m3u8
-
-
-
-
-
-
-
-
 
 
 
