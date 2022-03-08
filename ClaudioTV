@@ -96,6 +96,9 @@ https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png"group-title"ARGENTINA",STAR LIFE
+http://etvhome.com:25461/Arturo/Arturo1/13374
+
 
 
 
@@ -295,6 +298,11 @@ https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.stopenlinea.com.ar/uploads/imagenes/repositorio/2019/02/06/44981/20190206111757eb2ba8ee3dcef3ccda59128342a6d130_min.jpg"group-title="ARGENTINA", CANAL 9 NORTE MISIONES
 https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="ARGENTINA",UNIVERSAL HD
+http://etvhome.com:25461/Arturo/Arturo1/13364
+
 
 
 
@@ -1632,37 +1640,37 @@ http://etvhome.com:25461/Arturo/Arturo1/13350
 http://etvhome.com:25461/Arturo/Arturo1/20159
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-j-WhR-Avfrs/W6lsNQGABHI/AAAAAAAAAM8/2k8UoEzqKPIjzlBPL8BJXvBwoeauhdjtQCPcBGAYYCw/s1600/panicotv.png"group-title="PREMIUM", PANICO HD
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-j-WhR-Avfrs/W6lsNQGABHI/AAAAAAAAAM8/2k8UoEzqKPIjzlBPL8BJXvBwoeauhdjtQCPcBGAYYCw/s1600/panicotv.png"group-title="PREMIUM",PANICO HD
 http://etvhome.com:25461/Arturo/Arturo1/59607
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title=" PREMIUM", HBO SIGNATURE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title="PREMIUM",HBO SIGNATURE
 http://etvhome.com:25461/Arturo/Arturo1/13351
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title=" PREMIUM", HBO MUNDI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="PREMIUM",HBO MUNDI
 http://etvhome.com:25461/Arturo/Arturo1/13676
 
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ld35DS2wq4o/X6Dka5mH-3I/AAAAAAAAKiU/P2kVxxBWPAcAt1Om1mm5bAlEAletILUFQCLcBGAsYHQ/w1200-h630-p-k-no-nu/HBO%2BEXTREME.png"group-title=" PREMIUM",  HBO XTREME
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ld35DS2wq4o/X6Dka5mH-3I/AAAAAAAAKiU/P2kVxxBWPAcAt1Om1mm5bAlEAletILUFQCLcBGAsYHQ/w1200-h630-p-k-no-nu/HBO%2BEXTREME.png"group-title="PREMIUM",HBO XTREME
 http://etvhome.com:25461/Arturo/Arturo1/28905
 
 
 
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpwhz3-02d4c319-e35c-40d2-8e73-28064b4cb323.png"group-title=" PREMIUM",  HBO POP
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpwhz3-02d4c319-e35c-40d2-8e73-28064b4cb323.png"group-title="PREMIUM",HBO POP
 http://etvhome.com:25461/Arturo/Arturo1/28903
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title=" PREMIUM", CINECANAL
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="PREMIUM",CINECANAL
 http://etvhome.com:25461/Arturo/Arturo1/13387
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title=" PREMIUM", AMC HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="PREMIUM",AMC HD
 http://etvhome.com:25461/Arturo/Arturo1/27683
 
 
@@ -2116,16 +2124,16 @@ http://user.tvcluboficial.com/stream/nov/nov/699.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png"group-title=" PREMIUM", STAR CHANNELL
+#EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png"group-title="PREMIUM",STAR CHANNELL
 http://etvhome.com:25461/Arturo/Arturo1/95776
 
 
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png"group-title" PREMIUM", STAR LIFE
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png"group-title"PREMIUM",STAR LIFE
 http://etvhome.com:25461/Arturo/Arturo1/13374
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="PREMIUM", UNIVERSAL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="PREMIUM",UNIVERSAL HD
 http://etvhome.com:25461/Arturo/Arturo1/13364
 
 
