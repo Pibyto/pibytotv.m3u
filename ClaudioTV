@@ -61,6 +61,28 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5jYVBfzx-62AjCMQ8s6mqtcFizttUBVdog&usqp=CAU"group-title="ARGENTINA", TVR TELEVISIÓN
+https://vsd132.mycdn.me:443/hls/1698824391191.m3u8/sig/Jt8Q4pxf_1w/expires/1646790564441/srcIp/186.132.119.10/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5jYVBfzx-62AjCMQ8s6mqtcFizttUBVdog&usqp=CAU"group-title="CRISTIANO", TVR TELEVISIÓN
+https://vsd132.mycdn.me:443/hls/1698824391191.m3u8/sig/Jt8Q4pxf_1w/expires/1646790564441/srcIp/186.132.119.10/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLCBnoNSK1LsDXZKLH0ixbXiL_qb8Fgb2P8g&usqp=CAU"group-title="ARGENTINA",  DTV
+https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png"group-title="ARGENTINA", CASCARA TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8 
+
+
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA", ALTAR TV
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
@@ -105,8 +127,10 @@ https://stmv1.voxhdnet.com:443/ventvpremium/ventvpremium/chunklist_w1458867770.m
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1451307711472230404/2_kj_t1w_400x400.jpg"group-title="ARGENTINA",EL PALOMAR TV HD
-https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-j-WhR-Avfrs/W6lsNQGABHI/AAAAAAAAAM8/2k8UoEzqKPIjzlBPL8BJXvBwoeauhdjtQCPcBGAYYCw/s1600/panicotv.png"group-title="ARGENTINA", PANICO HD
+http://etvhome.com:25461/Arturo/Arturo1/59607
+
+
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT978nyBeYJsoieGiKPxKLAGPIaA93szw7PmA&usqp=CAU"group-title="ARGENTINA", STARZ ENCORE SUSPENSE HD
@@ -117,6 +141,11 @@ http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10907
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png"group-title="ARGENTINA", PH TV
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 
+
+
+
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/886623373614342144/TkVOFEox.jpg"group-title="ARGENTINA", DIOS TE VE HD
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 
 
@@ -152,6 +181,11 @@ https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.stopenlinea.com.ar/uploads/imagenes/repositorio/2019/02/06/44981/20190206111757eb2ba8ee3dcef3ccda59128342a6d130_min.jpg"group-title="ARGENTINA", CANAL 9 NORTE MISIONES
 https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="ARGENTINA",CINE SONY
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 
 
@@ -224,11 +258,6 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLCBnoNSK1LsDXZKLH0ixbXiL_qb8Fgb2P8g&usqp=CAU"group-title="ARGENTINA",  DTV
-https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://sumundotv.com/wp-content/uploads/2021/12/logosumundo2-1.png"group-title="ARGENTINA",  SU MUNDO TV
 https://cdn1.streamgato.us:443/sumundotv/sumundotv.myStream/chunks.m3u8?nimblesessionid=272975
 
@@ -285,6 +314,10 @@ http://etvhome.com:25461/Arturo/Arturo1/143755
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg"group-title="ARGENTINA", DANTV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1451307711472230404/2_kj_t1w_400x400.jpg"group-title="ARGENTINA",EL PALOMAR TV HD
+https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?WebM3UCL
 
 
 
@@ -690,9 +723,6 @@ http://tv.thepremiummedia.com:8080/toni1/1toni/7434
 http://tv.thepremiummedia.com:8080/toni1/1toni/7529
 
 
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="ARGENTINA",CINE SONY
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
-
 
 
 
@@ -724,9 +754,6 @@ https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w693779543.m3u8
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-j-WhR-Avfrs/W6lsNQGABHI/AAAAAAAAAM8/2k8UoEzqKPIjzlBPL8BJXvBwoeauhdjtQCPcBGAYYCw/s1600/panicotv.png"group-title="ARGENTINA", PANICO HD
-http://etvhome.com:25461/Arturo/Arturo1/59607
 
 
 
@@ -771,15 +798,6 @@ http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 http://etvhome.com:25461/Arturo/Arturo1/13390
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5jYVBfzx-62AjCMQ8s6mqtcFizttUBVdog&usqp=CAU"group-title="ARGENTINA", TVR TELEVISIÓN
-https://vsd132.mycdn.me:443/hls/1698824391191.m3u8/sig/Jt8Q4pxf_1w/expires/1646790564441/srcIp/186.132.119.10/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5jYVBfzx-62AjCMQ8s6mqtcFizttUBVdog&usqp=CAU"group-title="CRISTIANO", TVR TELEVISIÓN
-https://vsd132.mycdn.me:443/hls/1698824391191.m3u8/sig/Jt8Q4pxf_1w/expires/1646790564441/srcIp/186.132.119.10/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-
 
 
 
@@ -806,19 +824,6 @@ http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="ARGENTINA", AMC HD
 http://etvhome.com:25461/Arturo/Arturo1/27683
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png"group-title="ARGENTINA", CASCARA TV
-https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8 
-
-
-
-
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/886623373614342144/TkVOFEox.jpg"group-title="ARGENTINA", DIOS TE VE HD
-https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 
 
