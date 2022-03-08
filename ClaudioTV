@@ -111,6 +111,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab52300099
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="ARGENTINA", MY TIME 
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png"group-title="ARGENTINA",  MULTIVISION
 https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
@@ -173,7 +178,7 @@ https://tvdatta.com:3602/stream/play.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA LANUS
+#EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 
@@ -202,6 +207,7 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
 #EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqWNvUyaBNuylppPF712ZgJX4QoT667_K_Lg&usqp=CAU"group-title="ARGENTINA", CANAL 3 PLUS TV
 https://videohd.live:19360/8050/8050.m3u8
+
 
 
 
@@ -617,12 +623,6 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA", ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
-
-
-
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MC.png"group-title="ARGENTINA",MC
 http://etvhome.com:25461/Arturo/Arturo1/133136
 
@@ -677,8 +677,7 @@ https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w693779543.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="ARGENTINA", MY TIME 
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="ARGENTINA", VALLEVISION HD
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
