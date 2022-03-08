@@ -108,9 +108,22 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="ARGENTINA", AMC HD
+http://etvhome.com:25461/Arturo/Arturo1/27683
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQva5bQaxu6TvxRjf2sxeKXKVl711_9asd_Mw&usqp=CAU"group-title="ARGENTINA",PELÍCULAS_MANIA
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CosFl_3rauXaLk7RxyRRgnGx0JncVphtpRXHYXxwvuqO6hp_oANF1OLl1_vgISPPLhn_m6eByyRofIzoj0hNsABtRvpv_y3cGrqhupIMfCZBq5h96SVvd35x64Gw1EYxB0XSlG0JQrZYCRGl70Sj6k5igkUX6g5JRKO6UCMExNGh3XYYDv22YkY45E6l0e07dWkudtFKZK-tL1oXEySAmh4V5lfR90j6TDTv1jlwYfXNY3p-k0fsz9whQuAPWUm9J3yPdgHJIaaPAQuAOHuI1T3YFm4VTdwUcN9XKfWaTcFrmKLf_fmFrqsQ9SQ6arFf3dlE4NRnxb_ywTum84KbIGt6PqrGWGI5PBOl_xAlY6W04dilh4UcjiLyEdWqWCE9O1KNWWSA1GpqWsz_BDZouxB4rf2pdF1ttRiAKBpluUspJfc0bcENi-1NRB7raIHYUkaV5OBq8ebFJqfN4ndkLl1iDND6aagFJ-ywFV8nTDveMbOLN9ZE_CMiBMDJyMhj2DLtCIHN89PJAkFNlzrCJXkIWD2Oe80sDkTv999Ele9EkTxwKoB5juuVn_dltSTotmB-A1Uxt0212Y9dOgx4b0hU-XJdrB7BCM2zS5xSG7I51CyEHBFv1YrdaFZJuAq7NDkObC2ZsEIZqR-evlMbdIfvHfzP70bR6gF_DQCmFUFO1EHppKXhzK9Y2QHhRprTyPLG1AwZDSkUNwjOB4Ovr8lgK5WYrCFmadZvx5TLOBvXY1UHOnDdgBIiaQAIAs7Bv_h1DxhB9aknsUGSUSN2FFLV4oZnEyiYywklfycT0901jJe0xwcO2DBP8-iv_oh7-XrWcIooJb4Xmyk2rfo1XCiAuwjU9py1DDCR_CFDGgw8JSoo93Cg--vufnwgASoJZXUtd2VzdC0yMJgD.m3u8
 
+
+
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png" group-title="ARGENTINA", HBO
+https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 
 
@@ -341,6 +354,11 @@ https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvDj8FpCjsQOTYlitf82JocxY4TXxQDXglLA&usqp=CAU"group-title="ARGENTINA", TERROR HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b524&deviceDNT=0&deviceModel=0
+
+
+
 
 #EXTINF: -1, tvg-logo = "https://pbs.twimg.com/profile_images/974840212034609152/wjxoqVd7_400x400.jpg"group-title="ARGENTINA", CANAL 2 SANAGASTA
 https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
@@ -447,10 +465,6 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOKTtIrCGV-2_jiYKs8UNCJF7a3Txc-8t3w&usqp=CAU"group-title="ARGENTINA", CINECLUB
 https://servilive.com:3176/live/cineclublive.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png" group-title="ARGENTINA", HBO
-https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 
 
@@ -850,12 +864,6 @@ https://darkmatter-spanish-rakuten.amagi.tv:443/playlist720p.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvDj8FpCjsQOTYlitf82JocxY4TXxQDXglLA&usqp=CAU"group-title="ARGENTINA", TERROR 1
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b524&deviceDNT=0&deviceModel=0
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvDj8FpCjsQOTYlitf82JocxY4TXxQDXglLA&usqp=CAU"group-title="ARGENTINA", TERROR 2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
 
@@ -904,12 +912,6 @@ https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 #EXTINF:-1tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png"group-title="ARGENTINA",TELECINE PREMIUM HD
 http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="ARGENTINA", AMC HD
-http://etvhome.com:25461/Arturo/Arturo1/27683
 
 
 
