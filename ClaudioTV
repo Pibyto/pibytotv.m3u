@@ -164,6 +164,9 @@ http://etvhome.com:25461/Arturo/Arturo1/13348
 https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/r-e-television.png"group-title="ARGENTINA",  R&E TELEVISIÓN
+https://cdn2.streamgato.us/ryetelevision/ryetelevision/playlist.m3u8
+
 
 
 
@@ -875,11 +878,6 @@ http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="ARGENTINA", AMC HD
 http://etvhome.com:25461/Arturo/Arturo1/27683
 
-
-
-
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/r-e-television.png"group-title="ARGENTINA",  R&E TELEVISIÓN
-https://cdn2.streamgato.us/ryetelevision/ryetelevision/playlist.m3u8
 
 
 #EXTINF:-1tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5-600x338.jpg"group-title="ARGENTINA",TELECINE ACCIÓN HD
