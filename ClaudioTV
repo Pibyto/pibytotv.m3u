@@ -95,7 +95,7 @@ https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="http://meteoalcorcon.es/1_0_1_76C0_40E_1_C00000_0_0_0.png"group-title="ARGENTINA", MOVISTAR ESTRENOS HD
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="ARGENTINA", MOVISTAR ESTRENOS HD
 http://etvhome.com:25461/Arturo/Arturo1/31859
 
 
