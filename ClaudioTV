@@ -100,6 +100,11 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CosFl_3rauXaLk7RxyRRgnGx0Jn
 
 
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-j-WhR-Avfrs/W6lsNQGABHI/AAAAAAAAAM8/2k8UoEzqKPIjzlBPL8BJXvBwoeauhdjtQCPcBGAYYCw/s1600/panicotv.png"group-title="ARGENTINA", PANICO HD
+http://etvhome.com:25461/Arturo/Arturo1/59607
+
+
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtJGYwPaFNsrkDGZ4VXjMIYDrUEAZvB-VL6w&usqp=CAU"group-title="ARGENTINA",ANIME - HEROES
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?advertisingId=&appName=web&appVersion=5.109.0-6577a51c82bdba0d9a0a2bab4950dd43d469ea83&app_name=web&clientDeviceType=0&clientID=944795d5-20fd-4dfa-8465-336c683bcd4d&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=944795d5-20fd-4dfa-8465-336c683bcd4d&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=99.0.4844&marketingRegion=VE&serverSideAds=true&sessionID=76465f49-9ee5-11ec-ac6b-0242ac110003&sid=76465f49-9ee5-11ec-ac6b-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImFmMjgwMzYwLWU1ZmUtNGUwNC05YzUxLTM5MWY3NDNmY2RjNSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3NjQ2NWY0OS05ZWU1LTExZWMtYWM2Yi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE4Ni4xMzIuMTE5LjEwIiwiY2l0eSI6Ik1vbnRlIEdyYW5kZSIsInBvc3RhbENvZGUiOiIxODQyIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjgxNSwiZGV2aWNlTG9uIjotNTguNDY5MywicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTkuMC40ODQ0IiwiZGV2aWNlTWFrZSI6ImNocm9taXVtLXdlYnZpZXciLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiNS4xMDkuMC02NTc3YTUxYzgyYmRiYTBkOWEwYTJiYWI0OTUwZGQ0M2Q0NjllYTgzIiwiY2xpZW50SUQiOiI5NDQ3OTVkNS0yMGZkLTRkZmEtODQ2NS0zMzZjNjgzYmNkNGQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9BcmdlbnRpbmEvQnVlbm9zX0FpcmVzIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0Njc3NTY5MSwianRpIjoiZTUyNDczOTAtY2M3MC00ZTZiLThlMzItNjg0YzFiNzhiNDRhIiwiaWF0IjoxNjQ2NzQ2ODkxLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6T1RRME56azFaRFV0TWpCbVpDMDBaR1poTFRnME5qVXRNek0yWXpZNE0ySmpaRFJrIn0.N6TXL4l592qgro3dTJsVwI8tSuTNy3I7frgNTn3ToIo&masterJWTPassthrough=true
 
@@ -132,13 +137,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dCmVrPpak9Q/XqDkraarkHI/AAAAAAAAyIU/c1aIH-hl3XULRj8Dltqx91-6n8eGEE6fACK8BGAsYHg/s0/2020-04-22.png"group-title="ARGENTINA", RESTAURANDO VIDAS
 https://patagoniaip.trapemn.tv:1936/cristianos/restaurandovidatv1.stream/chunks.m3u8?nimblesessionid=2455031&WebM3UCL
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-j-WhR-Avfrs/W6lsNQGABHI/AAAAAAAAAM8/2k8UoEzqKPIjzlBPL8BJXvBwoeauhdjtQCPcBGAYYCw/s1600/panicotv.png"group-title="ARGENTINA", PANICO HD
-http://etvhome.com:25461/Arturo/Arturo1/59607
 
 
 
