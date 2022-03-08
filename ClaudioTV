@@ -140,7 +140,7 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://st1.uvnimg.com/dims4/default/f8377bc/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F31%2Fba%2F7b82868048868e2c1df2d580541b%2Fprendetv-hero-image-414x230-sept2021.png"group-title="ARGENTINA",PRENDETV - ROMANCE
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmpoigXrd_sQYdXGaa8kMjgkxUYUqmNe5mA&usqp=CAU"group-title="ARGENTINA",PRENDETV - ROMANCE
 https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist_1280x720.m3u8
 
 
@@ -157,6 +157,14 @@ https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.stopenlinea.com.ar/uploads/imagenes/repositorio/2019/02/06/44981/20190206111757eb2ba8ee3dcef3ccda59128342a6d130_min.jpg"group-title="ARGENTINA", CANAL 9 NORTE MISIONES
 https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmpoigXrd_sQYdXGaa8kMjgkxUYUqmNe5mA&usqp=CAU"group-title="ARGENTINA",PRENDETV - CINECLUB
+https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ7g3DfBGPbktMqkMduWrx5yxZNw9YeUMMFw&usqp=CAU"group-title="ARGENTINA", CIUDAD MAGAZINE HD
@@ -559,6 +567,10 @@ http://etvhome.com:25461/Arturo/Arturo1/73652
 
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uIlMoWnRA7BuTu-qGn_zyDeWdo9vbzNQiw&usqp=CAU"group-title="ARGENTINA",PRENDETV - ORO
+https://d1jgsg6cns4jzy.cloudfront.net:443/dist/samsungtv/196/hls/master/playlist_1280x720.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png"group-title="ARGENTINA", PASIONES HD
 http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10767
@@ -689,34 +701,9 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 http://etvhome.com:25461/Arturo/Arturo1/133136
 
 
-#EXTINF:-1  tvg-logo="https://a.jsrdn.com/hls/23007/spanglish/thumbh_20220111_222123.png"group-title="ARGENTINA",SPANGLISH
-http://clubtv.link/iptv/24f/distro.php?c=spanglish&f=.m3u8
 
 
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uIlMoWnRA7BuTu-qGn_zyDeWdo9vbzNQiw&usqp=CAU"group-title="ARGENTINA",GLEWEDTV
-http://clubtv.link/iptv/24f/distro.php?c=glewedtv-spanish&f=.m3u8
-
-
-
-#EXTINF:-1  tvg-logo="https://st1.uvnimg.com/dims4/default/f8377bc/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F31%2Fba%2F7b82868048868e2c1df2d580541b%2Fprendetv-hero-image-414x230-sept2021.png"group-title="ARGENTINA",PRENDETV - ORO
-https://d1jgsg6cns4jzy.cloudfront.net:443/dist/samsungtv/196/hls/master/playlist_1280x720.m3u8
-
-
-
-
-#EXTINF:-1  tvg-logo="https://st1.uvnimg.com/dims4/default/f8377bc/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F31%2Fba%2F7b82868048868e2c1df2d580541b%2Fprendetv-hero-image-414x230-sept2021.png"group-title="ARGENTINA",PRENDETV - FAMILIA
-https://d31faiqgbicbr8.cloudfront.net:443/dist/samsungtv/195/hls/master/playlist_1280x720.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIIyp3MBRITAek3jMYIGj33e6meV5MBoxRA&usqp=CAU"group-title="ARGENTINA", DIGITAL VISION
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIIyp3MBRITAek3jMYIGj33e6meV5MBoxRA&usqp=CAU"group-title="ARGENTINA", DIGITAL VISION
 https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w974060221.m3u8
 
 
