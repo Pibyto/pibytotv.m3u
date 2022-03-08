@@ -147,8 +147,23 @@ https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/bf3f51b317480dcfb8a5928c0b0c55e7dbfb641d1285931770649d394b30091a.png"group-title="ARGENTINA", GUACARA TV
+https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="ARGENTINA", TU CINE
+https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
+
+
+
 #EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="ARGENTINA",GOLDEN PLUS HD
 http://etvhome.com:25461/Arturo/Arturo1/13348
+
+
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWF87u9p7dYcrU6gyeIiNkLKNS_r_vOmlQA&usqp=CAU"group-title="ARGENTINA",VISION NDV
+https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
+
+
 
 
 
@@ -885,9 +900,6 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
 
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWF87u9p7dYcrU6gyeIiNkLKNS_r_vOmlQA&usqp=CAU"group-title="ARGENTINA",VISION NDV
-https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
-
 
 
 
@@ -965,20 +977,6 @@ https://5d16127744872.streamlock.net:443/TVUNO/TVUNO/chunklist_w1891698695.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk5ZSudi4btDyHRfQFF_qvk_foTOUOhI2_KA&usqp=CAU"group-title="ARGENTINA", CAJAMARCA 
-https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/bf3f51b317480dcfb8a5928c0b0c55e7dbfb641d1285931770649d394b30091a.png"group-title="ARGENTINA", GUACARA TV
-https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAw9XjTgLb-oH7vrpE_-7rQXqW4Wu6ft2ssw&usqp=CAU"group-title="ARGENTINA", MI TV - CINE CLÁSICO
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
@@ -988,9 +986,6 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXgdC5h23zXwbKUBrNP6I5BhzQ2fwvCHNLg&usqp=CAU"group-title="ARGENTINA", CARUCOLA TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-
-
-
 
 
 
@@ -1238,8 +1233,6 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="ARGENTINA", TU CINE
-https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
 
 
 
