@@ -216,6 +216,10 @@ http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10904
 
 
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA", MI TV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=16c246aae504d8bd53166621eef62ed378dba7c879a776fb979bcd22aee6c239&exp=1639846091
+
+
 
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="ARGENTINA",SPACE HD
 http://pms-tv.online:25461/pmstvfree/listagratis/15953
@@ -254,6 +258,11 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmpoigXrd_sQYdXGaa8kMjgkxUYUqmNe5mA&usqp=CAU"group-title="ARGENTINA",PRENDETV - CINECLUB
 https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/blog/wp-content/uploads/2020/08/ButacaTV-Blog_10.jpg"group-title="ARGENTINA", BUTACA TV
+https://veranda-butacatv-2-mx.samsung.wurl.tv:443/3000.m3u8
 
 
 
@@ -1180,9 +1189,6 @@ https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1268363411.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA", MI TV
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=16c246aae504d8bd53166621eef62ed378dba7c879a776fb979bcd22aee6c239&exp=1639846091
-
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-THdaYfFi1xU/X60myXKF8tI/AAAAAAAA7Og/hB3m6DqzN9EvfnoBnjNWKiT9MT6hDSl4QCK8BGAsYHg/s0/2020-11-12.png"group-title="ARGENTINA", EXPRECION TV
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
@@ -1309,13 +1315,6 @@ https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/blog/wp-content/uploads/2020/08/ButacaTV-Blog_10.jpg"group-title="ARGENTINA", BUTACA TV
-https://veranda-butacatv-2-mx.samsung.wurl.tv:443/3000.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11215302.jpg"group-title="ARGENTINA", CANAL 14
 https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com:443/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
 
@@ -1330,12 +1329,6 @@ https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv:443/3000.m3u8
 http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1106389745_b1928000_sleng.m3u8
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/apMSrKP4Vh0-kXjo9LblAWXF1ECWRAePh4fbqp6mgqzvvafXFHzKI2uoZ2p7Og3GJb4"group-title="ARGENTINA", SPEED TV CONCORDIA
-http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
 
 
 
