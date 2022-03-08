@@ -53,6 +53,23 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w16645521
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://almomento.mx/wp-content/uploads/2021/04/lix-simbolo-jpg-1.jpg"group-title="ARGENTINA", NETFLIX - 1
+http://etvhome.com:25461/Arturo/Arturo1/48241
+
+
+
+#EXTINF:-1  tvg-logo="https://almomento.mx/wp-content/uploads/2021/04/lix-simbolo-jpg-1.jpg"group-title="ARGENTINA", NETFLIX - 2
+http://etvhome.com:25461/Arturo/Arturo1/36219
+
+
+#EXTINF:-1  tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/03/Amazon-Prime-Video-Emblema.jpg"group-title="ARGENTINA",AMAZON PRIME VIDEO
+http://etvhome.com:25461/Arturo/Arturo1/144712
+
+
+#EXTINF:-1  tvg-logo="https://cdn-3.expansion.mx/dims4/default/10389fe/2147483647/strip/true/crop/866x538+0+0/resize/1800x1118!/format/webp/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fbe%2F0d%2F5369f2d246faa99b4f18f83214d1%2Fparamount.JPG"group-title="ARGENTINA", PARAMOUNT +
+http://etvhome.com:25461/Arturo/Arturo1/148557
+
+
 
 #EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="ARGENTINA", GDM
 https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
