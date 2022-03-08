@@ -130,8 +130,10 @@ https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8?WebM3UCL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hZlw7ljt1Vo/YKF7Z2DLItI/AAAAAAAAASk/2R1fkB-MEss0lVZL2Z1aoDmc3Xufw6q8ACK4BGAYYCw/s400/webnata.png"group-title="ARGENTINA", NATANAEL TV
-https://stmv1.voxhdnet.com:443/ventvpremium/ventvpremium/chunklist_w1458867770.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJXJ4NMb5IGVzO_RL3YF5W7HeInjdLtxfbg&usqp=CAU"group-title="ARGENTINA", RESTAURANDO VIDAS
+https://patagoniaip.trapemn.tv:1936/cristianos/restaurandovidatv1.stream/chunks.m3u8?nimblesessionid=2455031&WebM3UCL
+
+
 
 
 
@@ -2587,7 +2589,8 @@ http://50.30.37.36:1935/live/stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJXJ4NMb5IGVzO_RL3YF5W7HeInjdLtxfbg&usqp=CAU"group-title="CRISTIANO", RESTAURANDO VIDAS
-http://v4.tustreaming.cl:80/restaurandovidastv/tracks-v1a1/mono.m3u8
+https://patagoniaip.trapemn.tv:1936/cristianos/restaurandovidatv1.stream/chunks.m3u8?nimblesessionid=2455031&WebM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://victoriatvcristoviene.com/wp-content/uploads/2020/06/VictoriaTV.png"group-title="CRISTIANO", VICTORIA TV
 https://videohd.live:19360/8062/8062.m3u8?WebM3UCL
