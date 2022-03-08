@@ -39,6 +39,15 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/f596f4c5-0140-4a4f-b8e9-e04c756ff549/5.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://vod.magma.qaotic.net/media/posters-live/cronica/placa_cronica2019.jpg"group-title="ARGENTINA", CRÓNICA HD
+https://g5.mc-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_120274.png"group-title="ARGENTINA", CANAL 26 HD
+https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w166455214_b2628000_sleng.m3u8
+
+
+
 
 #EXTINF: -1 tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ-2GtysmcPkUbc7uvju1h2EdqWH_jtNeWw&usqp=CAU"group-title="ARGENTINA", TVMAX
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
@@ -454,14 +463,6 @@ https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?Playlis
 
 
 
-#EXTINF:-1 tvg-logo="https://vod.magma.qaotic.net/media/posters-live/cronica/placa_cronica2019.jpg"group-title="ARGENTINA", CRÓNICA HD
-https://g5.mc-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_120274.png"group-title="ARGENTINA", CANAL 26 HD
-https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w166455214_b2628000_sleng.m3u8
 
 
 
