@@ -62,6 +62,9 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 http://etvhome.com:25461/Arturo/Arturo1/28905
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1f/33/2b/1f332b99b982af05cfc8e0219746f006.jpg"group-title="ARGENTINA",MULTICINEMA
+http://etvhome.com:25461/Arturo/Arturo1/133136
+
 
 
 #EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="ARGENTINA", GDM
@@ -2119,13 +2122,6 @@ http://etvhome.com:25461/Arturo/Arturo1/95776
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png"group-title" PREMIUM", STAR LIFE
 http://etvhome.com:25461/Arturo/Arturo1/13374
-
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarHits_Logo2021_FondoOscuro.png.45ae1af33adde821778a60e2d08ca43e.png"group-title=" PREMIUM", STAR HITS
-http://etvhome.com:25461/Arturo/Arturo1/13377
-
-
 
 
 
