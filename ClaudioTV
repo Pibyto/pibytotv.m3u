@@ -75,6 +75,12 @@ https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/chunklist_w1250018
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCInK8RGqWtu191slIer7HKe6io1ngczZbkQ&usqp=CAU" group-title="ARGENTINA",CANAL 5 TV ENTRE RIOS
+https://srv3.zcast.com.ar/carlosr/carlosr/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="ARGENTINA",RTV CABLE JUJUY
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
