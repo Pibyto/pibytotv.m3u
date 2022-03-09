@@ -58,6 +58,10 @@ https://master.tucableip.com/reconline/live/video.m3u8
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu3rPBl_iXCsokEonYCSUKthtmvLs7RXu5OA&usqp=CAU"group-title="ARGENTINA", LA CORRIENTE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=499&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=HXPEXX8sxRq2Fzzka8Jc&content_series=602d6608f867c4002c897e27&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=HXPEXX8sxRq2Fzzka8Jc&custom_7=602d6608f867c4002c897e27
+
+
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQRE3D3B38xMhGYDJsY4dTEtxLKpmUn-Lfg&usqp=CAU"group-title="ARGENTINA",ZARACAY TV HD
 https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/chunklist_w1250018812_b2108000_sleng.m3u8
