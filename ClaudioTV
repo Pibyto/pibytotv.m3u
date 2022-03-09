@@ -75,6 +75,11 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",ZONDA TV 35.1 - SAN JUAN
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSULdmSIL5Mf1psDICdNGc15uCHcaeKw-4JA&usqp=CAU"group-title="ARGENTINA",HBO XTREME
 http://etvhome.com:25461/Arturo/Arturo1/28905
