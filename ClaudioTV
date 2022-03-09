@@ -115,6 +115,11 @@ https://vsd132.mycdn.me:443/hls/1698824391191.m3u8/sig/Jt8Q4pxf_1w/expires/16467
 
 
 
+#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg"group-title="ARGENTINA", TVS 
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLCBnoNSK1LsDXZKLH0ixbXiL_qb8Fgb2P8g&usqp=CAU"group-title="ARGENTINA",  DTV
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 
@@ -205,6 +210,11 @@ http://etvhome.com:25461/Arturo/Arturo1/20159
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png"group-title="ARGENTINA",MOVIE FE
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.exprezion.cl/wp-content/uploads/2021/10/cropped-fondo-3.png"group-title="ARGENTINA",EXPRECION TV
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+
 
 
 
@@ -875,11 +885,6 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 
 
 
-#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg"group-title="ARGENTINA", TVS 
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
-
-
-
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MC.png"group-title="ARGENTINA",MC
 http://etvhome.com:25461/Arturo/Arturo1/133136
@@ -1194,10 +1199,6 @@ https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1268363411.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://www.exprezion.cl/wp-content/uploads/2021/10/cropped-fondo-3.png"group-title="ARGENTINA", EXPRECION TV
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/697_Hechicera_TV.png"group-title="ARGENTINA", HECHICERA TV
 https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3UCL
