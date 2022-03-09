@@ -721,7 +721,9 @@ https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8?We
 
 
 #EXTINF:-1  tvg-logo="http://www.canal21tv.com.ar/images/00_ARTE_NUEVO.png"group-title="ARGENTINA",CANAL 21 HD MISIONES
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8?nimblesessionid=8478539
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
+
+
 
 
 
