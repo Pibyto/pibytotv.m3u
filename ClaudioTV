@@ -48,6 +48,11 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w16645521
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_77859d5a045049d28030108c161ce857~mv2.png/v1/fill/w_225,h_225,al_c/7edb0d_77859d5a045049d28030108c161ce857~mv2.png"group-title="ARGENTINA",REC ONLINE TV
+https://master.tucableip.com/reconline/live/video.m3u8
+
+
+
 
 #EXTINF: -1 tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ-2GtysmcPkUbc7uvju1h2EdqWH_jtNeWw&usqp=CAU"group-title="ARGENTINA", TVMAX
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
@@ -1101,28 +1106,10 @@ https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFg8K3vUfodsHW3Uzxp
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w2104890955.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_77859d5a045049d28030108c161ce857~mv2.png/v1/fill/w_225,h_225,al_c/7edb0d_77859d5a045049d28030108c161ce857~mv2.png"group-title="ARGENTINA",  REC ONLINE TV
-https://master.tucableip.com/reconline/live/video.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-MSptTpvEsasspujzgZyGujb-2TR7_XnNcCCkmf-lxIKc-QAq&s"group-title="ARGENTINA", HISTORY
-http://globalentertainmentec.xyz:8000/Cristian2022/2022Cristian/48376
-
-
 
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="ARGENTINA", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-logo.jpg"group-title="ARGENTINA", NATIONAL GEOGRAPHIC
-http://globalentertainmentec.xyz:8000/Cristian2022/2022Cristian/48372
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-MSptTpvEsasspujzgZyGujb-2TR7_XnNcCCkmf-lxIKc-QAq&s"group-title="ARGENTINA", HISTORY 2
-http://globalentertainmentec.xyz:8000/Cristian2022/2022Cristian/176852
 
 
 
@@ -1146,13 +1133,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XrMUdkyPx10/XzgeHRC_4lI/AAAAAAAA4WM/OY0kXlB-fpMkogRS1KhC-pPpqPPyggH6ACK8BGAsYHg/s0/2020-08-15.jpg"group-title="ARGENTINA",  TNI 51
 https://ss8.domint.net:3126/tni_str/tni51/chunklist_w765326847.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://dantvrd.com/logo512.png"group-title="ARGENTINA",DANTV
-https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8?nimblesessionid=107018468&DVR
-
-
-
 
 
 
@@ -1216,7 +1196,7 @@ https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1268363411.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-THdaYfFi1xU/X60myXKF8tI/AAAAAAAA7Og/hB3m6DqzN9EvfnoBnjNWKiT9MT6hDSl4QCK8BGAsYHg/s0/2020-11-12.png"group-title="ARGENTINA", EXPRECION TV
+#EXTINF:-1 tvg-logo="https://www.exprezion.cl/wp-content/uploads/2021/10/cropped-fondo-3.png"group-title="ARGENTINA", EXPRECION TV
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/697_Hechicera_TV.png"group-title="ARGENTINA", HECHICERA TV
