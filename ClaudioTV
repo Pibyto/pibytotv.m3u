@@ -1393,6 +1393,22 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f9
 
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYiMJ3je9gjQdMWGCkDov5AY9dxtYFvCmKA&usqp=CAU"group-title="DEPORTES", BEINSPORTS
+http://s2.famousiptv.com:8080/leroy21/leroy22/73132
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYiMJ3je9gjQdMWGCkDov5AY9dxtYFvCmKA&usqp=CAU"group-title="DEPORTES", BEINSPORTS
+http://s2.famousiptv.com:8080/leroy21/leroy22/73134
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYiMJ3je9gjQdMWGCkDov5AY9dxtYFvCmKA&usqp=CAU"group-title="DEPORTES", BEINSPORTS
+http://s2.famousiptv.com:8080/leroy21/leroy22/73136
+
+
+
+
 #EXTINF:-1  tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png"group-title="DEPORTES",Bein sport Xtra ñ
 https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 
