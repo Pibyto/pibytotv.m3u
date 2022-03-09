@@ -88,6 +88,14 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA", PLANETA TV MOVIE
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOKTtIrCGV-2_jiYKs8UNCJF7a3Txc-8t3w&usqp=CAU"group-title="ARGENTINA", CINECLUB
+https://servilive.com:3176/live/cineclublive.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5jYVBfzx-62AjCMQ8s6mqtcFizttUBVdog&usqp=CAU"group-title="ARGENTINA", TVR TELEVISIÓN
@@ -530,16 +538,6 @@ https://videohd.live:19360/8050/8050.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA", PLANETA TV MOVIE
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOKTtIrCGV-2_jiYKs8UNCJF7a3Txc-8t3w&usqp=CAU"group-title="ARGENTINA", CINECLUB
-https://servilive.com:3176/live/cineclublive.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOdtLognMpoWeKK-rB0hQvdh9gHvHIW6Ijw&usqp=CAU"group-title="ARGENTINA", ATM TELEVISIÓN
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 
@@ -624,7 +622,8 @@ https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSPyafVNj3A4h5Qcpe0uI37oRrNgjGewn4g&usqp=CAU"group-title="ARGENTINA",CANAL 41
-https://stmv.panel.grupolimalive.com/surtv/surtv/chunklist_w1449848498.m3u8
+https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
+
 
 
 
