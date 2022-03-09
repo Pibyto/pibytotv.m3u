@@ -62,6 +62,18 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 http://etvhome.com:25461/Arturo/Arturo1/28905
 
 
+
+#EXTINF:-1  tvg-logo="https://logodix.com/logo/1613837.jpg"group-title="ARGENTINA",MOVIEPLEX
+http://170222.1222908.net:2086/arsenio/arsenio/323516
+
+
+
+#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-actionmax-west-6600.jpg"group-title="ARGENTINA",ACTION MAX
+http://170222.1222908.net:2086/arsenio/arsenio/323503
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1f/33/2b/1f332b99b982af05cfc8e0219746f006.jpg"group-title="ARGENTINA",MULTICINEMA
 http://etvhome.com:25461/Arturo/Arturo1/133136
 
@@ -109,6 +121,11 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA", ALTAR TV
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/04/archivosforenesesplutotv.jpg"group-title="ARGENTINA", ARCHIVOS FORENSES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=50356e3e-f693-11ea-b77a-0242ac110002&userId=&serverSideAds=true
+
 
 
 
@@ -582,19 +599,9 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 
 
 
-#EXTINF:-1  tvg-logo="https://logodix.com/logo/1613837.jpg"group-title="ARGENTINA",MOVIEPLEX
-http://170222.1222908.net:2086/arsenio/arsenio/323516
-
-
-
-#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-actionmax-west-6600.jpg"group-title="ARGENTINA",ACTION MAX
-http://170222.1222908.net:2086/arsenio/arsenio/323503
-
 
 #EXTINF:-1  tvg-logo="https://logodix.com/logo/1860200.jpg"group-title="ARGENTINA",FXM HD
 http://pms-tv.online:25461/pmstvfree/listagratis/15930
-
-
 
 
 
