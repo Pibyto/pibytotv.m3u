@@ -720,7 +720,8 @@ https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-P5y5gS0XzC2l11-Gek3EEs8nTX8ZKm_cCg&usqp=CAU"group-title="ARGENTINA",SANTA FE CANAL
-https://playback2.akamaized.net/streams/22636012_8242619_c14687f86805c81f9d0e6b4acd582ab8_1/exp=1646250445~acl=%2f*~data=hdntl~hmac=9ab73be0725281d6a95ebf4956ad799a02a492d57ab1baaceaab43fc59e42fac/media/22636012_8242619_c14687f86805c81f9d0e6b4acd582ab8_1@2592000pb.m3u8?dw=80&ts=1646161200
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
 
 
 
