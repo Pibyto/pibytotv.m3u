@@ -192,6 +192,10 @@ https://cdn2.streamgato.us/ryetelevision/ryetelevision/playlist.m3u8
 http://etvhome.com:25461/Arturo/Arturo1/13367
 
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png/v1/fill/w_227,h_227,al_c,q_85,usm_0.66_1.00_0.01/LOGO%20ZoyTV%203.webp"group-title="ARGENTINA",ZOY TV
+https://master.tucableip.com//zoytv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NnX56V9T5R8/XxKkisjn1tI/AAAAAAAAKRk/jPy1HuEtQdodTm1R7k-6ztQwEqQJ-XYowCLcBGAsYHQ/s1600/vegavision-18.png"group-title="ARGENTINA", VEGAVISION
 https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8?WebM3UCL
@@ -359,6 +363,13 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png"group-title="ARGENTINA",  MULTIVISION
 https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlVQR7wkSM2uuRN4L38LQM862AuHMkGO1T4w&usqp=CAU"group-title="ARGENTINA",ÑUBLE RTV
+https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZRxjGW5OWCdnHAxe-yHpHZlOn0CxjdS8Gw&usqp=CAU"group-title="ARGENTINA",NIM TV
