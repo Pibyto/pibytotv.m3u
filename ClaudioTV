@@ -285,7 +285,7 @@ http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10904
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA", MI TV
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=16c246aae504d8bd53166621eef62ed378dba7c879a776fb979bcd22aee6c239&exp=1639846091
+https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
 
 
 
