@@ -48,8 +48,18 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w16645521
 
 
 
-#EXTINF:-1  tvg-logo="https://previews.123rf.com/images/chaoss/chaoss1501/chaoss150100088/36079088-jeune-femme-sexy-dj-jouer-de-la-musique-casques-et-dj-m%C3%A9langeur-sur-le-plancher-.jpg"group-title="ARGENTINA",KOA TV - KACHACAS
+#EXTINF:-1  tvg-logo="https://previews.123rf.com/images/chaoss/chaoss1501/chaoss150100088/36079088-jeune-femme-sexy-dj-jouer-de-la-musique-casques-et-dj-m%C3%A9langeur-sur-le-plancher-.jpg"group-title="VIDEOS MUSICALES",KOA TV - KACHACAS
 https://panel.dattalive.com/8028/8028/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo=""group-title="VIDEOS MUSICALES",CAAGUAZU TV
+https://59ce1298bfb98.streamlock.net:443/caaguazutv/caaguazutv/chunklist_w467104297.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSsXu5n8jIGtouv7xyoRZKWpChaj2-N8J3nw&usqp=CAU"group-title="VIDEOS MUSICALES",ALMAYA TV
+https://59ce1298bfb98.streamlock.net:443/almayatv/almayatv/chunklist_w1853411360.m3u8
+
 
 
 
