@@ -68,6 +68,12 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/8dabc744cc5d41999da03e5676ec9e0b2132a59a436ebc89caa5f86e7e267e82.png"group-title="ARGENTINA",RENUEVO TV
+https://5bff1bf18a887.streamlock.net:443/rtvla/rtvla/chunklist_w681928651.m3u8?WebM3UCL
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ7g3DfBGPbktMqkMduWrx5yxZNw9YeUMMFw&usqp=CAU"group-title="ARGENTINA", CIUDAD MAGAZINE HD
 http://etvhome.com:25461/Arturo/Arturo1/63804
 
@@ -1263,18 +1269,6 @@ http://pms-tv.online:25461/pmstv/LD6LU4GZwt/396
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo-latina-noticias.png"group-title="ARGENTINA", LATINA
-http://moontools.me:8080/tv1chago/1p7iYUyvZF/1194948
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOFwDotBXDoa2uFxCGXn9k0HF-D0OW3hWr7w&usqp=CAU"group-title="ARGENTINA", PANAMERICANA
-https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFg8K3vUfodsHW3Uzxp343Xc)/dm/3/x774s7s/s/live-3.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU6UhFi6aMUsnA0s4ntBTBZXqa5NJtfVaDjQ&usqp=CAU"group-title="ARGENTINA", COLOSAL
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w2104890955.m3u8
 
@@ -1292,22 +1286,6 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 
 #EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA",  PLANETA TV KIDS
 https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1521480640.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_ZoQk6EISShvdZZgwe_Ys2-wEzin9enpwA&usqp=CAU"group-title="ARGENTINA", BIT ME
-http://clubtv.link/iptv/p13/tvpremium.php?c=3035&f=.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png"group-title="ARGENTINA",. LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XrMUdkyPx10/XzgeHRC_4lI/AAAAAAAA4WM/OY0kXlB-fpMkogRS1KhC-pPpqPPyggH6ACK8BGAsYHg/s0/2020-08-15.jpg"group-title="ARGENTINA",  TNI 51
-https://ss8.domint.net:3126/tni_str/tni51/chunklist_w765326847.m3u8
-
-
 
 
 
@@ -1409,18 +1387,8 @@ https://olympusamagi.pc.cdn.bitgravity.com:443/TopCine-roku/master_6.m3u8
 https://hvtrafico.ddns.net:443/cinema720/cinema720.stream/chunklist_w1864655689.m3u8
  
 
-#EXTINF:-1 tvg-logo="https://www.revistavisionmedia.es/wp-content/uploads/2018/10/profesor_gratis_cine.jpg"group-title="ARGENTINA",CINE (VERDI)
-https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv:443/3000.m3u8
-
 #EXTINF:-1 tvg-logo="https://nitter.pussthecat.org/pic/profile_images%2F1340488609623912448%2FifJLg-Oy.jpg"group-title="ARGENTINA",RETROPLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w411956702.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-13-San-Luis-en-vivo-Online.png"group-title="ARGENTINA", CANAL 13 SAN LUIS
-https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w1492621647_b1030144.m3u8
-
 
 
 
