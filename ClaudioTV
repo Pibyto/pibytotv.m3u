@@ -69,6 +69,12 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOdtLognMpoWeKK-rB0hQvdh9gHvHIW6Ijw&usqp=CAU"group-title="ARGENTINA", ATM TELEVISIÓN
+https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccWO1JVM1Dm3HSNqW9sB-rKddyoEzIzkw3w&usqp=CAU"group-title="ARGENTINA", CANAL 32 SPTV
 https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
@@ -77,6 +83,11 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/8dabc744cc5d41999da03e5676ec9e0b2132a59a436ebc89caa5f86e7e267e82.png"group-title="ARGENTINA",RENUEVO TV
 https://5bff1bf18a887.streamlock.net:443/rtvla/rtvla/chunklist_w681928651.m3u8?WebM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGy9BsQw_2fHt__SeWEyiuMisaUAFSQoLLBw&usqp=CAU"group-title="ARGENTINA",  CANAL RTV 12 
+https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
 
 
 
@@ -738,9 +749,6 @@ https://videohd.live:19360/8050/8050.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOdtLognMpoWeKK-rB0hQvdh9gHvHIW6Ijw&usqp=CAU"group-title="ARGENTINA", ATM TELEVISIÓN
-https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png"group-title="ARGENTINA", WOW
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
@@ -776,9 +784,6 @@ https://cdn2.streamgato.us:443/pregotv/pregotv/chunklist_w1936102864.m3u8
 http://pms-tv.online:25461/pmstvfree/listagratis/33
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGy9BsQw_2fHt__SeWEyiuMisaUAFSQoLLBw&usqp=CAU"group-title="ARGENTINA",  CANAL RTV 12 
-https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
 
 
 
