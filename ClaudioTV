@@ -63,14 +63,39 @@ https://59ce1298bfb98.streamlock.net:443/almayatv/almayatv/chunklist_w1853411360
 
 
 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccWO1JVM1Dm3HSNqW9sB-rKddyoEzIzkw3w&usqp=CAU"group-title="ARGENTINA", CANAL 32 SPTV
+https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ7g3DfBGPbktMqkMduWrx5yxZNw9YeUMMFw&usqp=CAU"group-title="ARGENTINA", CIUDAD MAGAZINE HD
 http://etvhome.com:25461/Arturo/Arturo1/63804
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvDj8FpCjsQOTYlitf82JocxY4TXxQDXglLA&usqp=CAU"group-title="ARGENTINA", TERROR HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b524&deviceDNT=0&deviceModel=0
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQva5bQaxu6TvxRjf2sxeKXKVl711_9asd_Mw&usqp=CAU"group-title="ARGENTINA",PELÍCULAS_MANIA
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CokFnWmHdc6KGfiQJi1hXDOb7lOcpB10kYf1hOajGUIrEWQUHHC1Px0lhV8ihvK-G1j0ADvkricnVAOpiDEUU6emEsWh480uCTMCG9mTP3o3cEl_TgDfyAilkhhDidxG0eFQJMenxqjtNHGs6HLOnkzV3-KvwZ4kY7tYsJJJA1-PCLwd2Fzjzo6TWDPa_k7dtuqLrsyZTCEzfBydc_EwMHYK3xJn7rTDsJvizMZDIq16m1NBlBDyS3eoeSwnE7cUKNmQpFcf3gEa_qt1Ie8DX4CQDKba5ltpen5nNz-IrvZfpptPyIRiDPasgOR13NjEc-MmsscMNQmTDNhRebuhNRwGDiufHIhJiKOqLJzLBcW0dynvw4fLFu1X2gxu4UbiTTP3o7ZDwGLq4MgcvMsx6VEI4SKkXhteCBhtdE_p8NkyniP_YPCxtCK42d0R5v-C3_W-5x8-vWzw1aZ1KDCCCnf--iLLNWjGlB_D1eQiorA_MviDVc23COElze-58Hb3BPsZGnTVKfgv5U4tXe7pGfe1mKv7F7Io1IBz-_AmpG8LMAgAi3B049L02HIunpxGCPKOJWRVLyXDBCFDDGA7ThrQUfU0csYzVhTS1U41vayL2xT-hGnHPguTRpCx8SkDyKNOTA5922xHPnuB4sbn7RW0d5nHn-UtQ_MMRYg-K0H95wuWCBVMCQlncIAeADmZOzTCP3O93mbRAg9Z32B74h2tLDd46X1cKRIQC1KSSJoZz7oJaSpOHBUcPGpD71SyqyHtH8BAyqT56vMpHVqzCSjJsoE9tG_hw2zlRuJP25Wd-VbhCUSYmqTYnQvJP8hPjHi90X8pCN0biKIseR0PbJM2cpyD_MFVKtSwrxoMGc8e9MoJTttohOslIAEqCWV1LXdlc3QtMjCaAw.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="ARGENTINA", AMC HD
+http://etvhome.com:25461/Arturo/Arturo1/27683
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png" group-title="ARGENTINA", HBO
+https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+
 
 
 
@@ -350,16 +375,6 @@ http://etvhome.com:25461/Arturo/Arturo1/73576
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="ARGENTINA", AMC HD
-http://etvhome.com:25461/Arturo/Arturo1/27683
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png" group-title="ARGENTINA", HBO
-https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SeRL2NVnyJS_gGhZ9L6ZuTj9tNJW5iRLwA&usqp=CAU"group-title="ARGENTINA", VISIÓN PLUS TV
@@ -620,14 +635,6 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvDj8FpCjsQOTYlitf82JocxY4TXxQDXglLA&usqp=CAU"group-title="ARGENTINA", TERROR HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b524&deviceDNT=0&deviceModel=0
-
-
-
-
 #EXTINF: -1, tvg-logo = "https://pbs.twimg.com/profile_images/974840212034609152/wjxoqVd7_400x400.jpg"group-title="ARGENTINA", CANAL 2 SANAGASTA
 https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
@@ -682,9 +689,6 @@ https://tvdatta.com:3602/stream/play.m3u8
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccWO1JVM1Dm3HSNqW9sB-rKddyoEzIzkw3w&usqp=CAU"group-title="ARGENTINA", CANAL 32 SPTV
-https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 
 
