@@ -58,11 +58,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107
 
 
 
-#EXTINF:-1 tvg-logo="https://www.google.com/search?q=logo+canal12+metro+tv&tbm=isch&ved=2ahUKEwjg5aLnurr2AhV1jZUCHZSmD44Q2-cCegQIABAC&oq=logo+canal&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQARgCMgcIIxDvAxAnMgcIIxDvAxAnMgcIIxDvAxAnMgUIABCABDIFCAAQgAQ6CggjEO8DEOoCECc6CAgAELEDEIMBOgQIABADOgQIABBDOgcIABCxAxBDOggIABCABBCxAzoLCAAQgAQQsQMQgwFQ_i5YyGJgtnxoA3AAeACAAXuIAeQIkgEDNC43mAEAoAEBsAEFwAEB&sclient=mobile-gws-wiz-img&ei=XV0pYqDDMfWa1sQPlM2-8Ag&bih=512&biw=360&client=ms-android-motorola&prmd=ivn&hl=es-419#imgrc=SXmmLaAyeHI2FM"group-title="ARGENTINA",CANAL 12 METRO TV
+#EXTINF:-1 o="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="ARGENTINA",CANAL 12 METRO TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
 
-#EXTINF: -1 tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ-2GtysmcPkUbc7uvju1h2EdqWH_jtNeWw&usqp=CAU"group-title="ARGENTINA", TVMAX
+#EXTINF: -1 tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ-2GtysmcPkUbc7uvju1h2EdqWH_jtNeWw&usqp=CAU"group-title="ARGENTINA",TVMAX HD
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
 
