@@ -128,6 +128,11 @@ https://vdo2.streamgato.us:3244/live/teleximalive.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS25bh_ul-gV1owEmt97-CM0YE58sHzdnchNQ&usqp=CAU"group-title="ARGENTINA", PANICO HD
+http://etvhome.com:25461/Arturo/Arturo1/59607
+
+
+
 #EXTINF: -1 tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ-2GtysmcPkUbc7uvju1h2EdqWH_jtNeWw&usqp=CAU"group-title="ARGENTINA",TVMAX HD
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
@@ -330,8 +335,6 @@ https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS25bh_ul-gV1owEmt97-CM0YE58sHzdnchNQ&usqp=CAU"group-title="ARGENTINA", PANICO HD
-http://etvhome.com:25461/Arturo/Arturo1/59607
 
 
 
