@@ -84,8 +84,9 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCInK8RGqWtu191slIer7HKe6io1ngczZbkQ&usqp=CAU" group-title="ARGENTINA",CANAL 5 TV ENTRE RIOS
-https://srv3.zcast.com.ar/carlosr/carlosr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCInK8RGqWtu191slIer7HKe6io1ngczZbkQ&usqp=CAU"group-title="ARGENTINA",CANAL 5 TV ENTRE RIOS
+https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
+
 
 
 
