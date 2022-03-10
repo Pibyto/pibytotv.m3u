@@ -246,6 +246,11 @@ https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJr7ereT0NYT0sDqDKL43B1UXL0I7OiwgaRA&usqp=CAU"group-title="ARGENTINA",  CANAL 57
+https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AJk-_2ROoNNy_8gEKHS7flcxdc8VzHHpsg&usqp=CAU"group-title="ARGENTINA", TV SUR CANAL 9
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
@@ -794,11 +799,6 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_hd.png"group-title="ARGENTINA", GOLDEN HD
 http://etvhome.com:25461/Arturo/Arturo1/76125
 
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJr7ereT0NYT0sDqDKL43B1UXL0I7OiwgaRA&usqp=CAU"group-title="ARGENTINA",  CANAL 57
-https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 
 
 
