@@ -63,6 +63,13 @@ https://59ce1298bfb98.streamlock.net:443/almayatv/almayatv/chunklist_w1853411360
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSANZQuqh7i1yg0iYUL13DQH06fO-_EUVXihg&usqp=CAU"group-title="ARGENTINA", ALTAGRACIA TV
+https://inliveserver.com:1936/10016/10016/playlist.m3u8 
+
+
+
+
+
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccWO1JVM1Dm3HSNqW9sB-rKddyoEzIzkw3w&usqp=CAU"group-title="ARGENTINA", CANAL 32 SPTV
 https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
@@ -167,6 +174,12 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 #EXTINF:-1 o="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="ARGENTINA",CANAL 12 METRO TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
+
+
+
+#EXTINF:-1tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="ARGENTINA", EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png"group-title="ARGENTINA", PUNTA CANA TV
@@ -541,9 +554,6 @@ https://videohd.live:19360/8010/8010.m3u8
 
 
 
-#EXTINF:-1tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="ARGENTINA", EXTREMA TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://comoayer.weebly.com/uploads/4/6/7/8/46782355/published/1498d916-1440-4682-a5f0-9cee9d59c09d.png?1628906296"group-title="ARGENTINA", RETROPLAY TV
@@ -655,10 +665,6 @@ http://etvhome.com:25461/Arturo/Arturo1/13773
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png"group-title="ARGENTINA", CANAL 9 MENDOZA
 https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w752832264.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSANZQuqh7i1yg0iYUL13DQH06fO-_EUVXihg&usqp=CAU"group-title="ARGENTINA", ALTAGRACIA TV
-https://inliveserver.com:1936/10016/10016/playlist.m3u8 
 
 
 
