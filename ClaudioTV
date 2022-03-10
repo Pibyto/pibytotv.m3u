@@ -163,6 +163,13 @@ https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1855ebb2d2587d5f0691118e0c2cd0351ea284548622c87825f121b222b2982b.png"group-title="ARGENTINA", CTV
+https://vdo2.streamgato.us:3233/live/ctvlive.m3u8
+
+
+
+
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQRE3D3B38xMhGYDJsY4dTEtxLKpmUn-Lfg&usqp=CAU"group-title="ARGENTINA",ZARACAY TV HD
 https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/chunklist_w1250018812_b2108000_sleng.m3u8
 
@@ -353,6 +360,10 @@ http://etvhome.com:25461/Arturo/Arturo1/27683
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png" group-title="ARGENTINA", HBO
 https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SeRL2NVnyJS_gGhZ9L6ZuTj9tNJW5iRLwA&usqp=CAU"group-title="ARGENTINA", VISIÓN PLUS TV
+https://v2.tustreaming.cl:443/visionplustv/tracks-v1a1/mono.m3u8
 
 
 
@@ -548,14 +559,6 @@ https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 http://etvhome.com:25461/Arturo/Arturo1/13364
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1855ebb2d2587d5f0691118e0c2cd0351ea284548622c87825f121b222b2982b.png"group-title="ARGENTINA", CTV
-https://vdo2.streamgato.us:3233/live/ctvlive.m3u8
 
 
 
