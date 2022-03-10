@@ -52,6 +52,15 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w16645521
 https://panel.dattalive.com/8028/8028/playlist.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQva5bQaxu6TvxRjf2sxeKXKVl711_9asd_Mw&usqp=CAU"group-title="ARGENTINA",PELÍCULAS_MANIA
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CogFbr2swnYJuIGgKKTz-lcefMIuoRjTWU9wfFo8fOEhWVqEpfi7GmZMbOEoLkNNGiZJCZYA6azhxi-q_EMFZACj3Ml0Cg5N18Su72TZTorHyiI_vEZMtCQVJy1VlpZzZWLi_tAvU2lAXAI05ZfkvSbRpvUjoJ5vjbHqVgqDAqBw6IPYJg38UMOWLo4cMOPQlqN9g4QNNJFBvqAhZOsVihd666WD_qk_nfx-ozaJbh40nzT35BO0QCr1jGBoRFqWDPw6cE6iD9mJ2zqVRR5IHPhUu_aliuFiOIa9v57Boqy7accqie--lUpmlxFWo77seRbAr8ztoLrqeTce028kE3kqnG0eGz0xAx-ZfIjyqpVCL6CPBCesUzrrwA6yntphG76kJeC9hZx8Pq3R3mDwWyXdKZkUE3UKT4XmEZxJi8n7LccDLsPHpLXlHyfutkBGCTxn1wsg_x3wYvcJMQO8oqhHIkcatXBYubyqiGJHum2p6GPE1vr0NdwP1Z6WHa2zJch87HY1esP7DWhyhGlqA_QIC4L-Q5bDob4ZAke0fc_DFtKYyFE5BgpeG9Ihy-CUx4QDjB4QvBWmz9CRO_L6TP3aom2PEBLIbk8sovuNAlX7eMiOfImYxA_sOT7IYojCAqY8taknYFo6FfEXkB3ox7le2RT4FEDrrPWuW4eBlydu-pstxdhq9qEEqbHKzIVHPwEKXc7UKK6001zI0ynpWRfYEvx6BTF4-7h09iNbWe9gN7lyKQahgTvY_Y0YJwl0bf_c1IrFWgx0gh2Yqh1jBZqHviLfJGJfDddq_V_2Nc_1lwKSNLG_8KryAofq97U2nCurbB3x4sYo8FAxW77kTj0dGLLasDoXqKREGgzT0ZH5rxi4b3p3yAwgASoJZXUtd2VzdC0yMJkD.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOKTtIrCGV-2_jiYKs8UNCJF7a3Txc-8t3w&usqp=CAU"group-title="ARGENTINA", CINECLUB
 https://servilive.com:3176/live/cineclublive.m3u8
 
@@ -73,6 +82,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107
 
 
 
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA", ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jWFndt1lNlg9q7oiwUvUQbvnyCpHGLd4UA&usqp=CAU"group-title="ARGENTINA", VIWIX TV
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
@@ -89,6 +104,8 @@ https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
 
 
+
+
 #EXTINF: -1 tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ-2GtysmcPkUbc7uvju1h2EdqWH_jtNeWw&usqp=CAU"group-title="ARGENTINA",TVMAX HD
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
@@ -99,6 +116,8 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/chunklist_w1250018812_b2108000_sleng.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLCBnoNSK1LsDXZKLH0ixbXiL_qb8Fgb2P8g&usqp=CAU"group-title="ARGENTINA",  DTV
+https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 
 
 
@@ -215,8 +234,6 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLCBnoNSK1LsDXZKLH0ixbXiL_qb8Fgb2P8g&usqp=CAU"group-title="ARGENTINA",  DTV
-https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 
 
 
@@ -253,21 +270,9 @@ http://etvhome.com:25461/Arturo/Arturo1/73576
 
 
 
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA", ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="ARGENTINA", AMC HD
 http://etvhome.com:25461/Arturo/Arturo1/27683
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQva5bQaxu6TvxRjf2sxeKXKVl711_9asd_Mw&usqp=CAU"group-title="ARGENTINA",PELÍCULAS_MANIA
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CogFbr2swnYJuIGgKKTz-lcefMIuoRjTWU9wfFo8fOEhWVqEpfi7GmZMbOEoLkNNGiZJCZYA6azhxi-q_EMFZACj3Ml0Cg5N18Su72TZTorHyiI_vEZMtCQVJy1VlpZzZWLi_tAvU2lAXAI05ZfkvSbRpvUjoJ5vjbHqVgqDAqBw6IPYJg38UMOWLo4cMOPQlqN9g4QNNJFBvqAhZOsVihd666WD_qk_nfx-ozaJbh40nzT35BO0QCr1jGBoRFqWDPw6cE6iD9mJ2zqVRR5IHPhUu_aliuFiOIa9v57Boqy7accqie--lUpmlxFWo77seRbAr8ztoLrqeTce028kE3kqnG0eGz0xAx-ZfIjyqpVCL6CPBCesUzrrwA6yntphG76kJeC9hZx8Pq3R3mDwWyXdKZkUE3UKT4XmEZxJi8n7LccDLsPHpLXlHyfutkBGCTxn1wsg_x3wYvcJMQO8oqhHIkcatXBYubyqiGJHum2p6GPE1vr0NdwP1Z6WHa2zJch87HY1esP7DWhyhGlqA_QIC4L-Q5bDob4ZAke0fc_DFtKYyFE5BgpeG9Ihy-CUx4QDjB4QvBWmz9CRO_L6TP3aom2PEBLIbk8sovuNAlX7eMiOfImYxA_sOT7IYojCAqY8taknYFo6FfEXkB3ox7le2RT4FEDrrPWuW4eBlydu-pstxdhq9qEEqbHKzIVHPwEKXc7UKK6001zI0ynpWRfYEvx6BTF4-7h09iNbWe9gN7lyKQahgTvY_Y0YJwl0bf_c1IrFWgx0gh2Yqh1jBZqHviLfJGJfDddq_V_2Nc_1lwKSNLG_8KryAofq97U2nCurbB3x4sYo8FAxW77kTj0dGLLasDoXqKREGgzT0ZH5rxi4b3p3yAwgASoJZXUtd2VzdC0yMJkD.m3u8
-
-
 
 
 
