@@ -53,6 +53,10 @@ https://panel.dattalive.com/8028/8028/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ7g3DfBGPbktMqkMduWrx5yxZNw9YeUMMFw&usqp=CAU"group-title="ARGENTINA", CIUDAD MAGAZINE HD
+http://etvhome.com:25461/Arturo/Arturo1/63804
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQva5bQaxu6TvxRjf2sxeKXKVl711_9asd_Mw&usqp=CAU"group-title="ARGENTINA",PELÍCULAS_MANIA
@@ -60,9 +64,20 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CokFnWmHdc6KGfiQJi1hXDOb7lO
 
 
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="ARGENTINA", CINE ESTELAR 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOKTtIrCGV-2_jiYKs8UNCJF7a3Txc-8t3w&usqp=CAU"group-title="ARGENTINA", CINECLUB
 https://servilive.com:3176/live/cineclublive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png"group-title="ARGENTINA",MOVIE FE
+https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
+
 
 
 
@@ -88,6 +103,11 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="ARGENTINA", CINE ACCIÓN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jWFndt1lNlg9q7oiwUvUQbvnyCpHGLd4UA&usqp=CAU"group-title="ARGENTINA", VIWIX TV
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
@@ -102,6 +122,8 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_eKpsDywpXZrjVPQ9rBTiJ13uIXh6yFL73Q&usqp=CAU"group-title="ARGENTINA",TELEXIMA
+https://vdo2.streamgato.us:3244/live/teleximalive.m3u8
 
 
 
@@ -109,6 +131,10 @@ https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 #EXTINF: -1 tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ-2GtysmcPkUbc7uvju1h2EdqWH_jtNeWw&usqp=CAU"group-title="ARGENTINA",TVMAX HD
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwVnGKiQ-DBJgyjC6twuX1zfvCB2U5Y7ujmg&usqp=CAU"group-title="ARGENTINA", WTV
+https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
 
 
@@ -127,14 +153,30 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2016/12/LOGO-2016-chico-3.jpg"group-title="ARGENTINA", COSMOS TV
+https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AJk-_2ROoNNy_8gEKHS7flcxdc8VzHHpsg&usqp=CAU"group-title="ARGENTINA", TV SUR CANAL 9
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA", MI TV
+https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
 
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tXAlGJ2CGUZa83ai_ZASZrU8wMktFAjTZw&usqp=CAU"group-title="ARGENTINA",CANAL 5 TV ENTRE RIOS
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_O_yDJ3BrVGVM7SY08qrsHI2FUHZYYqQg&usqp=CAU"group-title="ARGENTINA",  E-TV
+https://59ce1298bfb98.streamlock.net:443/emprendetv/emprendetv/chunklist_w68446214.m3u8
 
 
 
@@ -157,6 +199,11 @@ http://etvhome.com:25461/Arturo/Arturo1/28905
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",CNR JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.exprezion.cl/wp-content/uploads/2021/10/cropped-fondo-3.png"group-title="ARGENTINA",EXPRECION TV
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 
 
 
@@ -298,9 +345,6 @@ https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w569981525.m
 
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ3NmFjYjQtNzM2Yi00NDEyLTgzYjMtMzFjODAwMjg2NzUzXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_.jpg"group-title="ARGENTINA", ANIME ZONE TV
-http://azxtv.com/hls/stream.m3u8?WebM3UCL
-
 
 #EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/133708012_688547691824725_4359396706139005064_n.jpg?_nc_cat=106&ccb=3&_nc_sid=973b4a&_nc_ohc=u7Zzlj0_FTEAX_SKRSF&_nc_ht=scontent.fepa11-1.fna&oh=509ce59af3472416b3eea5794e2e02a5&oe=6066D962" group-title="ARGENTINA",CANAL 6 PLUS TV
 http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
@@ -323,12 +367,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png"group-title="ARGENTINA",MOVIE FE
-https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.exprezion.cl/wp-content/uploads/2021/10/cropped-fondo-3.png"group-title="ARGENTINA",EXPRECION TV
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 
 
 
@@ -443,9 +481,6 @@ http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10904
 
 
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA", MI TV
-https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
-
 
 
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="ARGENTINA",SPACE HD
@@ -525,10 +560,6 @@ https://veranda-butacatv-2-mx.samsung.wurl.tv:443/3000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ7g3DfBGPbktMqkMduWrx5yxZNw9YeUMMFw&usqp=CAU"group-title="ARGENTINA", CIUDAD MAGAZINE HD
-http://etvhome.com:25461/Arturo/Arturo1/63804
-
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="ARGENTINA", CINE ROMANCE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
 
@@ -568,8 +599,6 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwVnGKiQ-DBJgyjC6twuX1zfvCB2U5Y7ujmg&usqp=CAU"group-title="ARGENTINA", WTV
-https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
 
 
@@ -603,17 +632,6 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sumundotv.com/wp-content/uploads/2021/12/logosumundo2-1.png"group-title="ARGENTINA",  SU MUNDO TV
 https://cdn1.streamgato.us:443/sumundotv/sumundotv.myStream/chunks.m3u8?nimblesessionid=272975
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_O_yDJ3BrVGVM7SY08qrsHI2FUHZYYqQg&usqp=CAU"group-title="ARGENTINA",  E-TV
-https://59ce1298bfb98.streamlock.net:443/emprendetv/emprendetv/chunklist_w68446214.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2016/12/LOGO-2016-chico-3.jpg"group-title="ARGENTINA", COSMOS TV
-https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
-
 
 
 
@@ -699,9 +717,6 @@ http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist_w365987513.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="ARGENTINA", CINE ACCIÓN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
-
 
 #EXTINF:-1 tvg-logo="https://carbonmade-media.accelerator.net/17760333;640x367.jpeg"group-title="ARGENTINA", CINE PREMIER
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
@@ -716,9 +731,6 @@ http://pms-tv.online:25461/pmstvfree/listagratis/122
 https://cdn2.streamgato.us:443/pregotv/pregotv/chunklist_w1936102864.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="ARGENTINA", CINE ESTELAR 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true
 
 
 
@@ -1126,8 +1138,6 @@ http://moontools.me:8080/tv1chago/1p7iYUyvZF/23583
 
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_eKpsDywpXZrjVPQ9rBTiJ13uIXh6yFL73Q&usqp=CAU"group-title="ARGENTINA",TELEXIMA
-https://vdo2.streamgato.us:3244/live/teleximalive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr-300x300-1525980274.jpg"group-title="ARGENTINA", MICROVISION HD
