@@ -75,6 +75,16 @@ https://59ce1298bfb98.streamlock.net:443/almayatv/almayatv/chunklist_w1853411360
 
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="ARGENTINA",TBS HD
+http://pms-tv.online:25461/pmstv/LD6LU4GZwt/100
+
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png"group-title="ARGENTINA",MULTIPREMIER HD
+http://pms-tv.online:25461/pmstv/LD6LU4GZwt/653
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSANZQuqh7i1yg0iYUL13DQH06fO-_EUVXihg&usqp=CAU"group-title="ARGENTINA", ALTAGRACIA TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8 
@@ -126,11 +136,18 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CokFnWmHdc6KGfiQJi1hXDOb7lO
 
 
 
+#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
+https://videohd.live:19360/8010/8010.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="ARGENTINA", AMC HD
 http://etvhome.com:25461/Arturo/Arturo1/27683
 
 
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SeRL2NVnyJS_gGhZ9L6ZuTj9tNJW5iRLwA&usqp=CAU"group-title="ARGENTINA", VISIÓN PLUS TV
+https://v2.tustreaming.cl:443/visionplustv/tracks-v1a1/mono.m3u8
 
 
 
@@ -448,15 +465,6 @@ http://etvhome.com:25461/Arturo/Arturo1/73576
 
 
 
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SeRL2NVnyJS_gGhZ9L6ZuTj9tNJW5iRLwA&usqp=CAU"group-title="ARGENTINA", VISIÓN PLUS TV
-https://v2.tustreaming.cl:443/visionplustv/tracks-v1a1/mono.m3u8
-
-
-
-
-
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtJGYwPaFNsrkDGZ4VXjMIYDrUEAZvB-VL6w&usqp=CAU"group-title="ARGENTINA",ANIME - HEROES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -603,8 +611,6 @@ http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10904
 http://pms-tv.online:25461/pmstvfree/listagratis/15953
 
 
-#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
-https://videohd.live:19360/8010/8010.m3u8
 
 
 
