@@ -6,50 +6,42 @@
 https://vd368.mycdn.me/expires/1646680446341/srcIp/186.132.119.10/srcAg/CHROME_ANDROID/ms/185.226.53.75/type/5/sig/r-OmW-FvNuI/ct/8/urls/185.226.52.61/clientType/1/zs/43/id/2146416790112/video/
 
 
-#EXTINF:-1tvg-logo="https://videoseriesbiblicas.com/wp-content/uploads/2021/01/genesis-8789-poster.jpg"group-title="GÉNESIS",GÉNESIS-NOVELA-LATINO- 1X1
-https://vd368.mycdn.me/expires/1646680446341/srcIp/186.132.119.10/srcAg/CHROME_ANDROID/ms/185.226.53.75/type/5/sig/r-OmW-FvNuI/ct/8/urls/185.226.52.61/clientType/1/zs/43/id/2146416790112/video/
 
-
-
-#EXTINF:-1tvg-logo="https://videoseriesbiblicas.com/wp-content/uploads/2021/01/genesis-8789-poster.jpg"group-title="GÉNESIS",GÉNESIS-NOVELA-LATINO- 1x2
-https://video.feze7-1.fna.fbcdn.net/v/t42.1790-2/10000000_1076498922917581_7365571757387481559_n.mp4?_nc_cat=105&ccb=1-5&_nc_sid=985c63&efg=eyJybHIiOjQzMiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_eui2=AeHjKeUpGjzJfcpJmGSDyQAyvQ1JAjLN8-29DUkCMs3z7f248w0ROkEwalyp3sFA4g70ANt_f9rFRqQntVtI-P5m&_nc_ohc=9j6AvTQ7Nz8AX-NpbZV&tn=uPC5mwX-3sCthYSs&_nc_rml=0&_nc_ht=video.feze7-1.fna&oh=00_AT-9cvfaCN7k3W5FA-NEfoeLAZeXBeLy2LIjFdiM-eCAoA&oe=6226E8C3
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"group-title="ARGENTINA ", EL TRECE FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"group-title="ARGENTINA",EL TRECE FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_canal10.png"group-title="ARGENTINA", CANAL 10 MDP.
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_canal10.png"group-title="ARGENTINA",CANAL 10 MDP.
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA", TELEFE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE
 http://etvhome.com:25461/Arturo/Arturo1/134127
 
 
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-canal-7-de-jujuy.jpg"group-title="ARGENTINA", CANAL 7 JUJUY
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-canal-7-de-jujuy.jpg"group-title="ARGENTINA",CANAL 7 JUJUY
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA", EL NUEVE 35.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE 35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/f596f4c5-0140-4a4f-b8e9-e04c756ff549/5.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg" group-title="ARGENTINA",TV PUBLICA  23.2 
+#EXTINF:-1 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg"group-title="ARGENTINA",TV PUBLICA  23.2 
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://vod.magma.qaotic.net/media/posters-live/cronica/placa_cronica2019.jpg"group-title="ARGENTINA", CRÓNICA HD
+#EXTINF:-1 tvg-logo="https://vod.magma.qaotic.net/media/posters-live/cronica/placa_cronica2019.jpg"group-title="ARGENTINA",CRÓNICA HD
 https://g5.mc-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_120274.png"group-title="ARGENTINA", CANAL 26 HD
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_120274.png"group-title="ARGENTINA",CANAL 26 HD
 https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w166455214_b2628000_sleng.m3u8
 
 
