@@ -58,6 +58,17 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w16645521
 https://panel.dattalive.com/8028/8028/playlist.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png"group-title="VIDEOS MUSICALES",GO TV
+https://rds3.desdeparaguay.net:443/gotv/gotv/chunklist_w119703051.m3u8?k=9f35a188a977176a633491a415268b34f66bf7da76e79f47b14248043714bf80&exp=1646958799
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i1.sndcdn.com/avatars-nUVpyQKogZoE91UX-cNrzxQ-t240x240.jpg"group-title="VIDEOS MUSICALES",SUCESO TV HD
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://frecuenciasalta.ar/wp-content/uploads/2020/08/NEOX-SALTA-300x240.jpg"group-title="VIDEOS MUSICALES",NEOX TV
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
