@@ -176,10 +176,21 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvsEoHfLWuB1W_BeuXKUnO4yqVl
 
 
 
+#EXTINF:-1 tvg-logo="http://canalvisiondorada.com.co/images/Icono512x512.png"group-title="ARGENTINA", CANAL VISION DORADA
+https://movil.ejeserver.com/live/visiondorada.m3u8?WebM3UCL
+
+
+
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="ARGENTINA",TBS HD
 http://pms-tv.online:25461/pmstv/LD6LU4GZwt/100
+
+
+
+#EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/h6EiTBshRNRPbNYpCMIoUwmjR8M=/360x222/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/A2FKBEZ4LJEZTPVDQMQSKLG2RQ.jpg"group-title="ARGENTINA",  EL CHAVO DEL 8 
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+
 
 
 
@@ -1445,8 +1456,6 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/h6EiTBshRNRPbNYpCMIoUwmjR8M=/360x222/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/A2FKBEZ4LJEZTPVDQMQSKLG2RQ.jpg"group-title="ARGENTINA",  EL CHAVO DEL 8 
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA",  PLANETA TV KIDS
@@ -1483,9 +1492,6 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?WebM3UCL
 https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8?WebM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="http://canalvisiondorada.com.co/images/Icono512x512.png"group-title="ARGENTINA", CANAL VISION DORADA
-https://movil.ejeserver.com/live/visiondorada.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/cropped-atvargentina-favicon.png"group-title="ARGENTINA",ATV AR
 https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?WebM3UCL
