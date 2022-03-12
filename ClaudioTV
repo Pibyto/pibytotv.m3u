@@ -195,6 +195,10 @@ https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6f
 
 
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA", MI TV HD
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=8e9368de8c6d0e35dac9110f68a8f6f7950c3b45160e0609c2199b29f3edf755&exp=1647057537
+
+
 
 #EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/h6EiTBshRNRPbNYpCMIoUwmjR8M=/360x222/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/A2FKBEZ4LJEZTPVDQMQSKLG2RQ.jpg"group-title="ARGENTINA",  EL CHAVO DEL 8 
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
