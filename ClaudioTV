@@ -213,16 +213,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708d
 
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png"group-title="ARGENTINA",MULTIPREMIER HD
-http://pms-tv.online:25461/pmstv/LD6LU4GZwt/653
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5jYVBfzx-62AjCMQ8s6mqtcFizttUBVdog&usqp=CAU"group-title="ARGENTINA",TVR DIGITAL
+https://vsd88.mycdn.me:443/hls/1698824391191.m3u8/sig/ShL_79p3DtQ/expires/1647202342375/srcIp/186.132.55.93/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5jYVBfzx-62AjCMQ8s6mqtcFizttUBVdog&usqp=CAU"group-title="CRISTIANO", TVR DIGITAL
+https://vsd88.mycdn.me:443/hls/1698824391191.m3u8/sig/ShL_79p3DtQ/expires/1647202342375/srcIp/186.132.55.93/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://sumundotv.com/wp-content/uploads/2021/12/logosumundo2-1.png"group-title="ARGENTINA",  SU MUNDO TV
 https://cdn1.streamgato.us:443/sumundotv/sumundotv.myStream/chunks.m3u8?nimblesessionid=559795
-
-
 
 
 
@@ -545,26 +547,6 @@ https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w58195212_
 
 #EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA", PLANETA TV MOVIE
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5jYVBfzx-62AjCMQ8s6mqtcFizttUBVdog&usqp=CAU"group-title="ARGENTINA", TVR TELEVISIÓN
-https://vsd88.mycdn.me:443/hls/1698824391191.m3u8/sig/S8wMpZNaCoA/expires/1646938714828/srcIp/186.132.20.15/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5jYVBfzx-62AjCMQ8s6mqtcFizttUBVdog&usqp=CAU"group-title="CRISTIANO", TVR TELEVISIÓN
-https://vsd88.mycdn.me:443/hls/1698824391191.m3u8/sig/S8wMpZNaCoA/expires/1646938714828/srcIp/186.132.20.15/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-
-
-
 
 
 
