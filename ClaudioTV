@@ -190,13 +190,6 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?WebM3UCL
 
 
 
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="ARGENTINA",TBS HD
-http://pms-tv.online:25461/pmstv/LD6LU4GZwt/100
-
-
-
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA", MI TV FHD
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
 
@@ -255,6 +248,12 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/8dabc744cc5d41999da03e5676ec9e0b2132a59a436ebc89caa5f86e7e267e82.png"group-title="ARGENTINA",RENUEVO TV
 https://5bff1bf18a887.streamlock.net:443/rtvla/rtvla/chunklist_w681928651.m3u8?WebM3UCL
+
+
+#EXTINF:-1  tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/telesur-costa-rica.png"group-title="ARGENTINA",TELESUR HD
+https://59ef525c24caa.streamlock.net:443/telesur/telesur/chunklist_w1965179923.m3u8
+
+
 
 
 
