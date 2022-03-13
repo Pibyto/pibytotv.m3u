@@ -193,6 +193,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f
 
 
 
+#EXTINF:-1  tvg-logo="http://meteoalcorcon.es/1_0_1_76C0_40E_1_C00000_0_0_0.png"group-title="ARGENTINA", MOVISTAR ESTRENOS HD
+http://etvhome.com:25461/Arturo/Arturo1/31859
+
 
 
 #EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/1003/323/png-clipart-logo-brand-product-design-font-anime-logo-text-logo.png"group-title="ARGENTINA", ADICTO AL ANIME
