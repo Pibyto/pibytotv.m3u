@@ -187,6 +187,11 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cp0FBGX2fdnUXswDCP3GrvRxSFX
 http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandositeLLLLmexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3301
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png"group-title="ARGENTINA",DHE HD
+http://etvhome.com:25461/Arturo/Arturo1/31814
+
+
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="ARGENTINA", CINE ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
@@ -247,6 +252,12 @@ https://vdo2.streamgato.us:3244/live/teleximalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLCBnoNSK1LsDXZKLH0ixbXiL_qb8Fgb2P8g&usqp=CAU"group-title="ARGENTINA",  DTV
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/monthly_2017_06/large.507_tvc-platino.png.6eb9dfd088ffba70bd5018b049e60a9e.png"group-title="ARGENTINA",CINEMA PLATINO HD
+http://etvhome.com:25461/Arturo/Arturo1/127180
 
 
 
