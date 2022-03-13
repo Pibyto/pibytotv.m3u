@@ -206,6 +206,9 @@ https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="ARGENTINA",TBS HD
+http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandositeLLLLmexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3123
+
 
 #EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/h6EiTBshRNRPbNYpCMIoUwmjR8M=/360x222/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/A2FKBEZ4LJEZTPVDQMQSKLG2RQ.jpg"group-title="ARGENTINA",  EL CHAVO DEL 8 
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
