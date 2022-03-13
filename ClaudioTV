@@ -162,6 +162,10 @@ http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandosit
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cp0FBGX2fdnUXswDCP3GrvRxSFXtQsEaT_ej5OW3M8OTBgUHsTJZGZF13WWZlkRJwLc8zK8pZhvt1NO21zq360cnQx4poh8KEZ4W0zswmTFp-AVb3kXNb8wRomJwACNPhte7nGgn5kXWywsrFF6wXBMunBL70HySWd1uCDsVNlGfa1qDlUDPz-Gm_0QshRNI841vp5jMb4kQjniksi_bw2UQdtzhEyCt0JmZWubxVOeUzDztQUqM_JevLGrG3z6faC7cCzIQZX0Wrm_hlYyBzgkMxV3fLKe8rkWuQVYshlg7STNak_HliEOc-qa0YA8axCLJn_3VFsgHhRTw9iWDH8kMFlrhUGZbdYrxy6ABJtUnV2BafRqtfgL1cQSd5k8eKfyQTNa2DTP1f7wWFdxpcR5xupkIenDOxfzo2A6H5sz1BpF9XGxpirzB_vi6dw7u46D_9i3puenOr3_fiwoj2SgqDE7KDMEtx3-fb8bQJBoWuBw4lzcAWAylunh19UhAKImNsiEFeK1L5JIE4GHJ1ICiWkc2F8sn90AO1IodhvKDOHRoDHysLRbiQUlOyM31Gpjvp_-lYTC2Oiix_tm6KShDTnw-Xj2cEza178CbA0JXXQWGe7hD1DM5KWQrmfSrkpFOnXgI820R_Mxo6ZP2RPOXpAA-sUaxK5riTOxLybANbnegOj2edSRBqleZNUggA-KOMiWpowfmhDQw-JKNAuwJeGtTH_IvIhjZYm7-LfEh5C1CaY5z-YxvUfJTk6KTk5WRZ0a4qpLH0FYItULppiNi0PezR5IjhKU85TDHt9ld14c9fxdVYVXeSSAtCDAuCBWZffcoHS4ZaqiyxRkbCac2_r-JBPsveomPwaU_Dq7gFIaSrKYAG6u7cU6CYeJxGgwZSXdh4hfuMqwPZcAgASoJdXMtZWFzdC0yMJoD.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title="ARGENTINA",HBO SIGNATURE
+http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandositeLLLLmexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3301
+
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="ARGENTINA", CINE ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
@@ -190,6 +194,11 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?WebM3UCL
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA", MI TV FHD
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
+
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png"group-title="ARGENTINA",TNT SERIES
+http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandositeLLLLmexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3131
 
 
 
