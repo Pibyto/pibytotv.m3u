@@ -164,6 +164,12 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 
 
 
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/N_s9R6_3ZVg/maxresdefault.jpg"group-title="ARGENTINA",AZM TV
+https://live.canalnueve.tv/canal.m3u8
+
+
+
+
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKXBbDTImQqoSvU8cFihksNsnQKUJDwTQAg&usqp=CAU"group-title="ARGENTINA", CANAL 11 MACHAGAI
 http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
