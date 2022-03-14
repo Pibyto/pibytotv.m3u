@@ -156,7 +156,7 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-P5y5gS0XzC2l11-Gek3EEs8nTX8ZKm_cCg&usqp=CAU"group-title="ARGENTINA",SANTA FE CANAL
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="ARGENTINA",SANTA FE CANAL
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
