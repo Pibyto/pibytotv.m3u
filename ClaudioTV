@@ -36,12 +36,31 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN2ieloWjd5qRyxFYzX11NnyKblCNjTBZP6A&usqp=CAU"group-title="ARGENTINA", BLU HD
+https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2016/12/LOGO-2016-chico-3.jpg"group-title="ARGENTINA", COSMOS TV
 https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 PINAMAR
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccWO1JVM1Dm3HSNqW9sB-rKddyoEzIzkw3w&usqp=CAU"group-title="ARGENTINA", CANAL 32 SPTV
+https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="ARGENTINA", CANAL 34 HD 6.11 TDA
+http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
 
@@ -52,37 +71,6 @@ https://g5.mc-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_120274.png"group-title="ARGENTINA",CANAL 26 HD
 https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w166455214_b2628000_sleng.m3u8
 
-
-
-#EXTINF:-1  tvg-logo="https://previews.123rf.com/images/chaoss/chaoss1501/chaoss150100088/36079088-jeune-femme-sexy-dj-jouer-de-la-musique-casques-et-dj-m%C3%A9langeur-sur-le-plancher-.jpg"group-title="VIDEOS MUSICALES",KOA TV - KACHACAS
-https://panel.dattalive.com/8028/8028/playlist.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png"group-title="VIDEOS MUSICALES",GO TV
-https://rds3.desdeparaguay.net:443/gotv/gotv/chunklist_w119703051.m3u8?k=9f35a188a977176a633491a415268b34f66bf7da76e79f47b14248043714bf80&exp=1646958799
-
-
-
-
-#EXTINF:-1  tvg-logo="https://i1.sndcdn.com/avatars-nUVpyQKogZoE91UX-cNrzxQ-t240x240.jpg"group-title="VIDEOS MUSICALES",SUCESO TV HD
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://frecuenciasalta.ar/wp-content/uploads/2020/08/NEOX-SALTA-300x240.jpg"group-title="VIDEOS MUSICALES",NEOX TV
-https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
-
-
-
-
-#EXTINF:-1  tvg-logo=""group-title="VIDEOS MUSICALES",CAAGUAZU TV
-https://59ce1298bfb98.streamlock.net:443/caaguazutv/caaguazutv/chunklist_w467104297.m3u8
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSsXu5n8jIGtouv7xyoRZKWpChaj2-N8J3nw&usqp=CAU"group-title="VIDEOS MUSICALES",ALMAYA TV
-https://59ce1298bfb98.streamlock.net:443/almayatv/almayatv/chunklist_w1853411360.m3u8
 
 
 
@@ -252,8 +240,6 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 
 
 
-#EXTINF: -1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar-en-vivo-Online.png"group-title="ARGENTINA", CANAL 3 PINAMAR
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 
 
@@ -296,9 +282,6 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/media/Eua6E5cXAAIfYft.jpg"group-title="ARGENTINA",CINE FEEL GOOLD HD
 https://contracorriente-canalfeelgood-1-es.samsung.wurl.tv/3000.m3u8
 
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccWO1JVM1Dm3HSNqW9sB-rKddyoEzIzkw3w&usqp=CAU"group-title="ARGENTINA", CANAL 32 SPTV
-https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 
 
@@ -861,12 +844,6 @@ https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w7528
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN2ieloWjd5qRyxFYzX11NnyKblCNjTBZP6A&usqp=CAU"group-title="ARGENTINA", BLU HD
-https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
-
-
-
 #EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",  SOMOS DEL ESTE HD
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
@@ -959,11 +936,6 @@ https://cdn2.streamgato.us:443/pregotv/pregotv/chunklist_w1936102864.m3u8
 http://pms-tv.online:25461/pmstvfree/listagratis/33
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="ARGENTINA", CANAL 34 HD 6.11 TDA
-http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_hd.png"group-title="ARGENTINA", GOLDEN HD
@@ -1584,6 +1556,54 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1
 
 #EXTINF:-1 tvg-logo="http://www.movilinvasion.es/wp-content/uploads/2011/11/COSMO-HD.jpg"group-title="ARGENTINA", COSMO
 http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1106389745_b1928000_sleng.m3u8
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://previews.123rf.com/images/chaoss/chaoss1501/chaoss150100088/36079088-jeune-femme-sexy-dj-jouer-de-la-musique-casques-et-dj-m%C3%A9langeur-sur-le-plancher-.jpg"group-title="VIDEOS MUSICALES",KOA TV - KACHACAS
+https://panel.dattalive.com/8028/8028/playlist.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png"group-title="VIDEOS MUSICALES",GO TV
+https://rds3.desdeparaguay.net:443/gotv/gotv/chunklist_w119703051.m3u8?k=9f35a188a977176a633491a415268b34f66bf7da76e79f47b14248043714bf80&exp=1646958799
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i1.sndcdn.com/avatars-nUVpyQKogZoE91UX-cNrzxQ-t240x240.jpg"group-title="VIDEOS MUSICALES",SUCESO TV HD
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://frecuenciasalta.ar/wp-content/uploads/2020/08/NEOX-SALTA-300x240.jpg"group-title="VIDEOS MUSICALES",NEOX TV
+https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
+
+
+
+
+#EXTINF:-1  tvg-logo=""group-title="VIDEOS MUSICALES",CAAGUAZU TV
+https://59ce1298bfb98.streamlock.net:443/caaguazutv/caaguazutv/chunklist_w467104297.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSsXu5n8jIGtouv7xyoRZKWpChaj2-N8J3nw&usqp=CAU"group-title="VIDEOS MUSICALES",ALMAYA TV
+https://59ce1298bfb98.streamlock.net:443/almayatv/almayatv/chunklist_w1853411360.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
