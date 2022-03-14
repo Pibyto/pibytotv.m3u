@@ -35,6 +35,11 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/f596f4c5-0140-4a4f-b8e9-e04c756ff549/5.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5DocKJpSqnDxMMvYyPBOwBqcwo8zVorAVyg&usqp=CAU"group-title="ARGENTINA", YOUTUBER - MISSA - ENTRETENIMIENTOS
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CpUFfbiqZRDZkUYAkL06hh7ZZ5HdbUJSzLzPMaE3OoV0UkuOWl4n_IDAjFaGEu7I7ry1kP_CpXQDdybF218xpBUdxwCC-juAo-PvRhWuTEo4l3HYmgsu5102JGPlHI3xJBDNcZaP2dJr3qwafPjHwXm3PzkVOsDhAxGSr2P3N6s4od7BGfJxFn6xj63hPHfPzAcRkETg1AwWdDhcyY37NCtbfj7SN900I1R9smUE23I1u2OSHeFDTGAYnuVyMx3L-hk0xaZMejvNr2bT0-6yIXTultdbZFPzpglB0WpfxYOitlj0OKOtg6Ws9TamKlrlm8MGt9KRQl5MxrcKDWVyqqQJA9uhLNBNJZSOWTqCUMnMWLYlk4PP2DxZmPWMOTMG8Rjcc4E0slvG_yq4g4Itq-5ARralb4tU7REFSVQWfYcic5THtONF9K-rjQUHdaQQG-n7SzEfzRctF5-7rsXsuT_4QJmOXyGmCTnedccjwOAOUGV3zEbQhgyI9b-58WjuXog2Oh062tOTh_2eHHkihJbyxOsR5N7Ein6nRzv8POU5xN67wzN_9t_5-Wu0dcvobJoEc0lkVLV7L70Yt0uhQbJecXZFNuB_-Kuu7ue4qB6quEA_TzP-Ilj_Q2o76N5IYcgQoWM8yQCf1gXO5QAE1vw-bwzbVcBOJXBKDJS5uEQrGAwAOBtq_50BAhAzjNej76-A8b8FsOJ4dHwWgZfHIfT7ej1vs4BYEa2pqMutgx0GJXtEi9OZKAxuLaeNKr4ivv1V2ryluDYqvvk5g4EDqnaL_AlHxY3-4yon_0Yk1dlMDkDC1CqrEPEx8MZzuqnT9qIDAwwZax82GpVtpfJnyY6vLLnuLj1SvuaA8FWOzYZ7l9LcRGG-hhoM1Hfl441pOVW1segfIAEqCXVzLXdlc3QtMjCdAw.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN2ieloWjd5qRyxFYzX11NnyKblCNjTBZP6A&usqp=CAU"group-title="ARGENTINA", BLU HD
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
