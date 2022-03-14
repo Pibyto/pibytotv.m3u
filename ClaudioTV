@@ -41,6 +41,15 @@ https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
 
 
 
+#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
+https://videohd.live:19360/8010/8010.m3u8
+
+
+
+#EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
@@ -61,6 +70,20 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="ARGENTINA", CANAL 34 HD 6.11 TDA
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",ZONDA TV 35.1 - SAN JUAN
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-13-San-Luis-en-vivo-Online.png"group-title="ARGENTINA",13 SAN LUIS
+https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w58195212_b692224.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKXBbDTImQqoSvU8cFihksNsnQKUJDwTQAg&usqp=CAU"group-title="ARGENTINA", CANAL 11 MACHAGAI
+http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
 
 
@@ -93,6 +116,10 @@ http://etvhome.com:25461/Arturo/Arturo1/48241
 
 #EXTINF:-1  tvg-logo="https://almomento.mx/wp-content/uploads/2021/04/lix-simbolo-jpg-1.jpg"group-title="ARGENTINA", NETFLIX √√ CINE
 http://etvhome.com:25461/Arturo/Arturo1/36219
+
+
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA", ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
 
@@ -183,9 +210,6 @@ http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandosit
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=8e9368de8c6d0e35dac9110f68a8f6f7950c3b45160e0609c2199b29f3edf755&exp=1647057537
 
 
-#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
-https://videohd.live:19360/8010/8010.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_O_yDJ3BrVGVM7SY08qrsHI2FUHZYYqQg&usqp=CAU"group-title="ARGENTINA",  E-TV
@@ -226,9 +250,6 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.
 http://etvhome.com:25461/Arturo/Arturo1/127180
 
 
-
-#EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="ARGENTINA",TBS HD
@@ -371,13 +392,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107
 
 
 
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA", ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLxkc2GWYAIQOt6.png"group-title="ARGENTINA", GUAYMATE HD
 https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?WebM3UCL
@@ -478,10 +492,6 @@ https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",ZONDA TV 35.1 - SAN JUAN
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f7b47f12a45590007821749/colorLogoPNG.png"group-title="ARGENTINA",NARCOS - SERIES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7b47f12a45590007821749/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca4-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db32e708-3f49-4116-9202-54e60c2967ae&userId=&serverSideAds=true
@@ -535,12 +545,6 @@ http://192.99.212.8:25461/pmstv/LD6LU4GZwt/37?token=HRNeWUUMQwIXBlRXVFcCBgBZBwFS
 
 #EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="ARGENTINA", GDM
 https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-13-San-Luis-en-vivo-Online.png"group-title="ARGENTINA",13 SAN LUIS
-https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w58195212_b692224.m3u8
 
 
 
@@ -871,9 +875,6 @@ https://panel.dattalive.com/8012/8012/playlist.m3u8
 https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
 
 
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYKXBbDTImQqoSvU8cFihksNsnQKUJDwTQAg&usqp=CAU"group-title="ARGENTINA", CANAL 11 MACHAGAI
-http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
 
 
