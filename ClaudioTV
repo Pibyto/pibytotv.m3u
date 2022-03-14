@@ -15,6 +15,11 @@ http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandosit
 
 
 
+#EXTINF:-1  tvg-logo="https://static1.s123-cdn-static-a.com/uploads/2287839/2000_5d6ea63a868bd.jpg"group-title="ARGENTINA",NUEVE TV
+https://5ca9af4645e15.streamlock.net:443/nuevetv/videonuevetv/chunklist_w1063504095.m3u8
+
+
+
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Logo_canal10.png"group-title="ARGENTINA",CANAL 10 MDP.
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
@@ -29,6 +34,9 @@ http://etvhome.com:25461/Arturo/Arturo1/134127
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-canal-7-de-jujuy.jpg"group-title="ARGENTINA",CANAL 7 JUJUY
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE 35.1
