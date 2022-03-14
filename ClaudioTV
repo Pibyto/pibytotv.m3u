@@ -66,9 +66,20 @@ https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/133708012_688547691824725_4359396706139005064_n.jpg?_nc_cat=106&ccb=3&_nc_sid=973b4a&_nc_ohc=u7Zzlj0_FTEAX_SKRSF&_nc_ht=scontent.fepa11-1.fna&oh=509ce59af3472416b3eea5794e2e02a5&oe=6066D962" group-title="ARGENTINA",CANAL 6 PLUS TV
+http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", MULTIVISION SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="ARGENTINA",RTV CABLE JUJUY
+https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2016/12/LOGO-2016-chico-3.jpg"group-title="ARGENTINA", COSMOS TV
@@ -118,6 +129,10 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-13-San-Luis-en-vivo-Online.png"group-title="ARGENTINA",13 SAN LUIS
 https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w58195212_b692224.m3u8
+
+
+#EXTINF:-1 o="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="ARGENTINA",CANAL 12 METRO TV
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
 
 
@@ -457,12 +472,6 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 
 
-#EXTINF:-1 o="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="ARGENTINA",CANAL 12 METRO TV
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
-
-
-
-
 
 #EXTINF:-1tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="ARGENTINA", EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -506,16 +515,8 @@ https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/chunklist_w1250018
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png"group-title="ARGENTINA",SEPTIMO ARTE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3548ea01-ec9a-4077-95c1-67068b0dfecd&userId=&serverSideAds=true
-
-
-
 
 
 
@@ -526,12 +527,6 @@ https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AJk-_2ROoNNy_8gEKHS7flcxdc8VzHHpsg&usqp=CAU"group-title="ARGENTINA", TV SUR CANAL 9
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="ARGENTINA",RTV CABLE JUJUY
-https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
 
 
@@ -644,13 +639,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuLmX48Za6JVf9wCBcvq4vbMQcIdvOWyW22g&usqp=CAU"group-title="ARGENTINA",INSPIRANIME - ANIME - ANIMACIÓN
 https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w569981525.m3u8?WebM3UCL
-
-
-
-
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/133708012_688547691824725_4359396706139005064_n.jpg?_nc_cat=106&ccb=3&_nc_sid=973b4a&_nc_ohc=u7Zzlj0_FTEAX_SKRSF&_nc_ht=scontent.fepa11-1.fna&oh=509ce59af3472416b3eea5794e2e02a5&oe=6066D962" group-title="ARGENTINA",CANAL 6 PLUS TV
-http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
-
 
 
 
