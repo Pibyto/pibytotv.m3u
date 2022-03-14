@@ -54,6 +54,12 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CpUFfbiqZRDZkUYAkL06hh7ZZ5H
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/82Rx7CgZkxc/hqdefault.jpg"group-title="ARGENTINA",VOLVER
+http://etvhome.com:25461/Arturo/Arturo1/59692
+
+
+
+
 
 #EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD
 https://videohd.live:19360/8010/8010.m3u8
