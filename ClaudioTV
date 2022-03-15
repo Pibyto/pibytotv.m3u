@@ -298,7 +298,9 @@ http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandosit
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="ARGENTINA",HBO POP
-http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandositeLLLLmexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3304
+http://etvhome.com:25461/Arturo/Arturo1/28903
+
+
 
 
 
@@ -327,7 +329,8 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvAEnd0GafipCpkjYxO3JPY3xCG
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="ARGENTINA",HBO MUNDI
-http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandositeLLLLmexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3299
+http://etvhome.com:25461/Arturo/Arturo1/13676
+
 
 
 
@@ -399,8 +402,13 @@ https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6f
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png"group-title="ARGENTINA", TNT
+http://etvhome.com:25461/Arturo/Arturo1/13367
+
+
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png"group-title="ARGENTINA",TNT SERIES
-http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandositeLLLLmexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3131
+http://etvhome.com:25461/Arturo/Arturo1/36542
 
 
 
@@ -2110,18 +2118,12 @@ http://etvhome.com:25461/Arturo/Arturo1/13351
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="PREMIUM",HBO MUNDI
-http://etvhome.com:25461/Arturo/Arturo1/13676
-
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ld35DS2wq4o/X6Dka5mH-3I/AAAAAAAAKiU/P2kVxxBWPAcAt1Om1mm5bAlEAletILUFQCLcBGAsYHQ/w1200-h630-p-k-no-nu/HBO%2BEXTREME.png"group-title="PREMIUM",HBO XTREME
 http://etvhome.com:25461/Arturo/Arturo1/28905
 
 
-
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpwhz3-02d4c319-e35c-40d2-8e73-28064b4cb323.png"group-title="PREMIUM",HBO POP
-http://etvhome.com:25461/Arturo/Arturo1/28903
 
 
 
@@ -2647,13 +2649,6 @@ http://etvhome.com:25461/Arturo/Arturo1/13390
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/419-4197240_en-grillas-59c2a7ee7a1a0-fxmhd-fxm-hd-logo.png"group-title=" PREMIUM", FXM HD
 http://etvhome.com:25461/Arturo/Arturo1/13345
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png"group-title=" PREMIUM", TNT
-http://etvhome.com:25461/Arturo/Arturo1/13367
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"group-title=" PREMIUM", TNT SERIES
-http://etvhome.com:25461/Arturo/Arturo1/36542
 
 
 
