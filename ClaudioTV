@@ -371,6 +371,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f
 http://etvhome.com:25461/Arturo/Arturo1/31859
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFUfMa_H5ROVpoN9OIRXOdM6RYZRTfkaiVEQ&usqp=CAU"group-title="ARGENTINA",BBC DRAMA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQsqZxy1Q6OhulNcPJaC-9PI0OAPmXLahsRA&usqp=CAU"group-title="ARGENTINA", JUNTOS
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=mC1UNYZLHUcs7Sb89ASV&channelId=60240f57676235002df19f49
+
+
 
 
 #EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/1003/323/png-clipart-logo-brand-product-design-font-anime-logo-text-logo.png"group-title="ARGENTINA", ADICTO AL ANIME
