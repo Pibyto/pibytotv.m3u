@@ -151,6 +151,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007f
 https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
 
+
 #EXTINF:-1, tvg-logo = "https://pbs.twimg.com/profile_images/974840212034609152/wjxoqVd7_400x400.jpg"group-title="ARGENTINA", CANAL 2 SANAGASTA
 https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
