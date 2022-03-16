@@ -500,6 +500,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/uMcwx2p.jpg" group-title="ARGENTINA", RAKUTEN ACCION
+https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/644597c2-30d2-43f4-8f14-ae3d8196676f/2.m3u8
+
 
 
 
@@ -3615,8 +3618,6 @@ https://rakuten-comedymovies-2-es.samsung.wurl.tv:443/3000.m3u8
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/eQKFgpa.png" group-title="PLUTO TV", RAKUTEN COMEDIA 2
 https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/uMcwx2p.jpg" group-title="PLUTO TV", RAKUTEN ACCION
-https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
 
 
 
