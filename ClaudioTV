@@ -314,6 +314,19 @@ http://etvhome.com:25461/Arturo/Arturo1/27861
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="ARGENTINA",CINECANAL
+http://etvhome.com:25461/Arturo/Arturo1/13387
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="ARGENTINA",AMC HD
+http://etvhome.com:25461/Arturo/Arturo1/27683
+
+
+
+
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png" group-title="ARGENTINA", HBO 2
 http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
@@ -354,10 +367,6 @@ http://etvhome.com:25461/Arturo/Arturo1/13676
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_hd.png"group-title="ARGENTINA", GOLDEN HD
 http://etvhome.com:25461/Arturo/Arturo1/76125
 
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFvi6DPfSduftQt0IZKD51XXx1DQKTDyy2bA&usqp=CAU"group-title="ARGENTINA", GOLDEN PREMIER HD
-http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandositeLLLLmexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3092
 
 
 
@@ -923,8 +932,6 @@ http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkiyb_fs7Jj0Swy7GvLSOnnqP9BtYy1hEkpg&usqp=CAU"group-title="ARGENTINA",STARZ CLASSICS HD
-http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10904
 
 
 
@@ -1678,40 +1685,6 @@ http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1106389745_b1928000_sleng.
 
 
 
-#EXTINF:-1  tvg-logo="https://previews.123rf.com/images/chaoss/chaoss1501/chaoss150100088/36079088-jeune-femme-sexy-dj-jouer-de-la-musique-casques-et-dj-m%C3%A9langeur-sur-le-plancher-.jpg"group-title="VIDEOS MUSICALES",KOA TV - KACHACAS
-https://panel.dattalive.com/8028/8028/playlist.m3u8
-
-
-#EXTINF:-1  tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png"group-title="VIDEOS MUSICALES",GO TV
-https://rds3.desdeparaguay.net:443/gotv/gotv/chunklist_w119703051.m3u8?k=9f35a188a977176a633491a415268b34f66bf7da76e79f47b14248043714bf80&exp=1646958799
-
-
-
-
-#EXTINF:-1  tvg-logo="https://i1.sndcdn.com/avatars-nUVpyQKogZoE91UX-cNrzxQ-t240x240.jpg"group-title="VIDEOS MUSICALES",SUCESO TV HD
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://frecuenciasalta.ar/wp-content/uploads/2020/08/NEOX-SALTA-300x240.jpg"group-title="VIDEOS MUSICALES",NEOX TV
-https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
-
-
-
-
-#EXTINF:-1  tvg-logo=""group-title="VIDEOS MUSICALES",CAAGUAZU TV
-https://59ce1298bfb98.streamlock.net:443/caaguazutv/caaguazutv/chunklist_w467104297.m3u8
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSsXu5n8jIGtouv7xyoRZKWpChaj2-N8J3nw&usqp=CAU"group-title="VIDEOS MUSICALES",ALMAYA TV
-https://59ce1298bfb98.streamlock.net:443/almayatv/almayatv/chunklist_w1853411360.m3u8
-
-
-
-
-
 
 
 
@@ -2067,38 +2040,6 @@ http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title=" PREMIUM", HBO FAMILY
-http://etvhome.com:25461/Arturo/Arturo1/13350
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title=" PREMIUM", HBO PLUS
-http://etvhome.com:25461/Arturo/Arturo1/20159
-
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-j-WhR-Avfrs/W6lsNQGABHI/AAAAAAAAAM8/2k8UoEzqKPIjzlBPL8BJXvBwoeauhdjtQCPcBGAYYCw/s1600/panicotv.png"group-title="PREMIUM",PANICO HD
-http://etvhome.com:25461/Arturo/Arturo1/59607
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ld35DS2wq4o/X6Dka5mH-3I/AAAAAAAAKiU/P2kVxxBWPAcAt1Om1mm5bAlEAletILUFQCLcBGAsYHQ/w1200-h630-p-k-no-nu/HBO%2BEXTREME.png"group-title="PREMIUM",HBO XTREME
-http://etvhome.com:25461/Arturo/Arturo1/28905
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="PREMIUM",CINECANAL
-http://etvhome.com:25461/Arturo/Arturo1/13387
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="PREMIUM",AMC HD
-http://etvhome.com:25461/Arturo/Arturo1/27683
 
 
 
