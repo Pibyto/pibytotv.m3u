@@ -2,6 +2,11 @@
 
 
 
+#EXTINF:-1  tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/38506-476586-20220118093712.jpg"group-title="ARGENTINA",LUZ NEGRA
+http://disfruta.net:80/movie/danielerodriguezbel/STuEbTeyYS/12973.mp4
+
+
+
 #EXTINF:-1  tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_41888_11.jpg"group-title="ARGENTINA",VENGANZA A GOLPES
 http://disfruta.net/movie/danielerodriguezbel/STuEbTeyYS/12343.mkv
 
@@ -19,8 +24,23 @@ http://disfruta.net/movie/danielerodriguezbel/STuEbTeyYS/9291.mkv
 
 
 
+#EXTINF:-1  tvg-logo="https://pics.filmaffinity.com/Duro_de_cuidar_2-672895194-large.jpg"group-title="ARGENTINA",DURO DE CUIDAR 2
+http://disfruta.net/movie/danielerodriguezbel/STuEbTeyYS/10231.mkv
+
+
+
+#EXTINF:-1  tvg-logo="https://www.lahiguera.net/cinemania/pelicula/9804/despierta_la_furia-cartel-9830.jpg"group-title="ARGENTINA", DESPIERTA LA FURIA
+http://disfruta.net/movie/danielerodriguezbel/STuEbTeyYS/10126.mkv
+
+
+
 #EXTINF:-1  tvg-logo="https://cinecalidad.la/wp-content/uploads/2022/02/9SerAlGoQl1hNSyDumBMCqZ6Zd9.jpg"group-title="ARGENTINA", PERSECUCIÓN (2022)
 http://disfruta.net/movie/danielerodriguezbel/STuEbTeyYS/12409.mkv
+
+
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/I/81vZ6tNxuoL._SY500_.jpg"group-title="ARGENTINA",JHON WICK
+http://disfruta.net/movie/danielerodriguezbel/STuEbTeyYS/10231.mkv
 
 
 
