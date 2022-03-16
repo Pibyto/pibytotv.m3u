@@ -314,6 +314,26 @@ http://etvhome.com:25461/Arturo/Arturo1/27861
 
 
 
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png" group-title="ARGENTINA", HBO 2
+http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png"group-title="ARGENTINA", CINEMAX HD
+http://etvhome.com:25461/Arturo/Arturo1/13390
+
+
+
+
+#EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/Y2FuYWwubWFzNV9zY3JlZW5fMl8xNTk3ODA4ODAyXzAxMw/screen-2.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA",CANAL+
+https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
+
+
+#EXTINF:-1tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png"group-title="ARGENTINA",TELECINE PREMIUM HD
+http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
+
+
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="ARGENTINA",HBO POP
 http://etvhome.com:25461/Arturo/Arturo1/28903
 
@@ -331,6 +351,10 @@ http://etvhome.com:25461/Arturo/Arturo1/13676
 
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_hd.png"group-title="ARGENTINA", GOLDEN HD
+http://etvhome.com:25461/Arturo/Arturo1/76125
+
+
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFvi6DPfSduftQt0IZKD51XXx1DQKTDyy2bA&usqp=CAU"group-title="ARGENTINA", GOLDEN PREMIER HD
 http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandositeLLLLmexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3092
@@ -343,17 +367,14 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvAEi6ZqEtgMT_jznp_CB-BR_BS
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title="ARGENTINA",HBO SIGNATURE
-http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandositeLLLLmexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3301
+http://etvhome.com:25461/Arturo/Arturo1/13351
+
+
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png"group-title="ARGENTINA",DHE HD
 http://etvhome.com:25461/Arturo/Arturo1/31814
 
-
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="ARGENTINA", GOLDEN EDGE
-http://gratuita.mrzutv.net:8080/mexiqueandositemexiqueandositemexiqu8787eandositeLLLLmexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/mexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandositemexiqueandosite/3090
 
 
 
@@ -1096,12 +1117,6 @@ http://pms-tv.online:25461/pmstvfree/listagratis/33
 
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_hd.png"group-title="ARGENTINA", GOLDEN HD
-http://etvhome.com:25461/Arturo/Arturo1/76125
-
-
-
-
 #EXTINF: -1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES 
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
@@ -1405,32 +1420,6 @@ https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png" group-title="ARGENTINA", HBO 2
-http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png"group-title="ARGENTINA", CINEMAX HD
-http://etvhome.com:25461/Arturo/Arturo1/13390
-
-
-
-
-#EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/Y2FuYWwubWFzNV9zY3JlZW5fMl8xNTk3ODA4ODAyXzAxMw/screen-2.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA",CANAL+
-https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
-
-
-#EXTINF:-1tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png"group-title="ARGENTINA",TELECINE PREMIUM HD
-http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
-
-
-
-
-#EXTINF:-1tvg-logo="https://cdn.mundodastribos.com/2021/05/Programacao-Telecine-Action-5-600x338.jpg"group-title="ARGENTINA",TELECINE ACCIÓN HD
-http://xcui.vitvabc.xyz:8880/287994017033/287994017033/31583
-
-
-
 
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/WNM1-HwpFtI/hqdefault.jpg"group-title="ARGENTINA", RED TV
 https://cdn2.streamgato.us/redtvrd/redtvrd/playlist.m3u8
@@ -1646,11 +1635,6 @@ https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w191
 #EXTINF:-1 tvg-logo="http://www.lagranja.tv/gallery_gen/a08851eaf2d8abd4a01558603ad6bdbd_470x475.82263814617.png"group-title="ARGENTINA", LA GRANJA TV
 https://5eae379fb77bb.streamlock.net:443/8126/8126/chunklist_w325188716.m3u8?WebM3UCL
 
-
-
-
-#EXTINF: -1 tvg-logo = "http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="CINE Y SERIES", CANAL 34
-http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
 
@@ -2061,35 +2045,6 @@ https://dangertv-us.samsung.wurl.tv:443/3000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://radiaciones.files.wordpress.com/2020/09/5g-antenas-amanecer-1.png"group-title="DOCUMENTALES", RADIACION Y 5G 
-https://cdn.lbryplayer.xyz/api/v4/streams/tc/Especial-TLV1-N%c2%b002---Conferencia-Radiaci%c3%b3n-y-5G.-del-1%c2%b0-Ateneo-Cient%c3%adfico-Emp%c3%adrico-P%c3%bablico-Internacional./c8bb7de8871c29b6e06ee9ca95d5d89fe82689dd/1f1a99c00e861f6fd489428c97483813f9c0dc40109624cc625eff25799fde65dadf5ec5b6c84209dad5bb85f3c8a3fd/master.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xhm2e6tFmtk/maxresdefault.jpg"group-title="DOCUMENTALES", HALLOWEEN : TRADICIÓN O SATANISMO
-https://rr1---sn-p5qs7nzk.googlevideo.com/videoplayback?expire=1641075583&ei=H3_QYYi7DpeQhgaapKW4DA&ip=154.21.36.42&id=o-AFinVYDd-O7JAVY_Gc2D4to5y91SoSlslGI-MadX4xFU&itag=22&source=youtube&requiressl=yes&mh=iO&mm=31%2C26&mn=sn-p5qs7nzk%2Csn-vgqsrned&ms=au%2Conr&mv=u&mvi=1&pl=23&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=719.609&lmt=1621400841758291&mt=1641053365&fvip=1&fexp=24001373%2C24007246&c=ANDROID&txp=6211222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgTcY8849P6yOLQUFCKa4-PVc31t6HsfhiyBm1x-Q21OACIGG2NZs5rXaj93wH8Wl9GUvcd_5WjbNkThz1v-EbNBYV&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRgIhAMV5Hdnlr3gGOx0ujr9z96Hg95VAGPspC9q3eV4OpQN0AiEAuJl-bdnP8fZaJDouC1ssTNu3sOb4TE0nBbE9VRvcc_s%3D
-
-
-#EXTINF:-1 tvg-logo="https://elarconte.tv/wp-content/uploads/2021/03/logo-el-arconte.jpg"group-title="DOCUMENTALES", LOS NANOCIRCUITOS HALLADOS EN PFIZER SE AUTOENSAMBLAN EN EL INTERIOR DEL CUERPO
-https://videos.files.wordpress.com/0p0J2h1n/los-nanocircuitos-integrados-en-vacunas-se-ensamblan-en-el-interior-del-cuerpo-1_mp4_hd.master.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://thumbnails.odysee.com/optimize/s:0:500/quality:85/plain/https://cdn.lbryplayer.xyz/speech/851f4366082cd2fb:d.png"group-title="DOCUMENTALES", LA VERDAD SOBRE EL CORONA VIRUS
-https://cdn.lbryplayer.xyz/api/v4/streams/tc/final-definitivo-martinez.mp4/13f0e649d353b7bb8dd594770f97853bf83ac4b4/41eab061eebab01ea68b4a69373a63455a882a253f52bc5840b1f09df76420aac5f4c61f285702239f2bccd9a65c1cf4/master.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://canaltlv1.com/wp-content/uploads/logo272x90.png"group-title="DOCUMENTALES", LA VERDAD SOBRE EL CORONA VIRUS √√
-https://cdn.lbryplayer.xyz/api/v4/streams/tc/Aristeo-FINAL.mp4/0b5380c589a877f2d234312fcc85ffe6f8f36875/fe66cccffbcbcd94861d362e5777b672c2155a87109996e2541c1d1a9f9bc5f15cb09fa86a3f34072bbcf9d82639cdca/master.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-6yKky6ojXtocg6nB-rYanMA-t500x500.jpg"group-title="DOCUMENTALES", TIEMPOS PELIGROSOS
-https://rr5---sn-ab5sznle.googlevideo.com/videoplayback?expire=1641066463&ei=f1vQYbOhBo3phwaGsbLoBQ&ip=23.254.49.145&id=o-AO-F-i-gorH0Q0JSt3_iy4CAxIsSKtbBrpJsSsi32aFx&itag=22&source=youtube&requiressl=yes&mh=x-&mm=31%2C26&mn=sn-ab5sznle%2Csn-p5qs7n7d&ms=au%2Conr&mv=m&mvi=5&pl=24&initcwndbps=411250&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=1818.888&lmt=1630915130045647&mt=1641044478&fvip=5&fexp=24001373%2C24007246&c=ANDROID&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgWj7ZHr7-MUKJ3kYPhMHiPDKX3PbSQDk5eLx2Hg-IChsCIQCG0MP7cOuqbORa8Q0xa557S_0sPX4x9Smbu9dAOV-orw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgbKGIrOLtcdAa4McO0Yu7ZRrfVZcL3V5lZluAmdvQ-hQCIGFC25L1A37GAGOjsQj41HM5qloCHkH1eekBtdsMnWPl
-
 
 
 
@@ -2123,9 +2078,6 @@ http://etvhome.com:25461/Arturo/Arturo1/20159
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-j-WhR-Avfrs/W6lsNQGABHI/AAAAAAAAAM8/2k8UoEzqKPIjzlBPL8BJXvBwoeauhdjtQCPcBGAYYCw/s1600/panicotv.png"group-title="PREMIUM",PANICO HD
 http://etvhome.com:25461/Arturo/Arturo1/59607
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title="PREMIUM",HBO SIGNATURE
-http://etvhome.com:25461/Arturo/Arturo1/13351
 
 
 
