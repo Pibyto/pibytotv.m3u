@@ -280,6 +280,11 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png"group-title="ARGENTINA", PUNTA CANA TV
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
+
+
+
 #EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA", CANAL 32 SPTV HD
 https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
@@ -290,6 +295,13 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",ZONDA TV 35.1 - SAN JUAN
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOKTtIrCGV-2_jiYKs8UNCJF7a3Txc-8t3w&usqp=CAU"group-title="ARGENTINA", CINECLUB
+https://servilive.com:3176/live/cineclublive.m3u8
+
+
 
 
 
@@ -493,6 +505,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107
 
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmpoigXrd_sQYdXGaa8kMjgkxUYUqmNe5mA&usqp=CAU"group-title="ARGENTINA",PRENDETV - CINECLUB
+https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG.png" group-title="ARGENTINA",CINE
@@ -503,6 +520,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb00070
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="ARGENTINA",CINE SONY
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="ARGENTINA", TOP CINE
+https://olympusamagi.pc.cdn.bitgravity.com:443/TopCine-roku/master_6.m3u8
 
 
 
@@ -519,6 +541,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf07
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7f4ecb7c2f2357888048d013effb4c16b1b78ae96e6fc02691d64c325ae69501.png"group-title="ARGENTINA", RUN:TIME MX
 https://runtime-espanol-roku.amagi.tv:443/playlistR1080p.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png"group-title="ARGENTINA",SEPTIMO ARTE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3548ea01-ec9a-4077-95c1-67068b0dfecd&userId=&serverSideAds=true
 
 
 
@@ -549,6 +575,18 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/playl
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpTgvlnB6ziyj4RWTYBYOvdgzZiYBSdXbrw&usqp=CAU"group-title="ARGENTINA",SCI-FI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f7b47f12a45590007821749/colorLogoPNG.png"group-title="ARGENTINA",NARCOS - SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7b47f12a45590007821749/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca4-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db32e708-3f49-4116-9202-54e60c2967ae&userId=&serverSideAds=true
+
+
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f7274806621ff00072651ff/colorLogoPNG.png"group-title="ARGENTINA",NARCOS 2 - SERIES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7274806621ff00072651ff/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
 
 
 
@@ -756,9 +794,6 @@ https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOKTtIrCGV-2_jiYKs8UNCJF7a3Txc-8t3w&usqp=CAU"group-title="ARGENTINA", CINECLUB
-https://servilive.com:3176/live/cineclublive.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png"group-title="ARGENTINA",MOVIE FE
@@ -798,9 +833,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png"group-title="ARGENTINA", PUNTA CANA TV
-https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
-
 
 
 
@@ -832,9 +864,6 @@ https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/chunklist_w1250018
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png"group-title="ARGENTINA",SEPTIMO ARTE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3548ea01-ec9a-4077-95c1-67068b0dfecd&userId=&serverSideAds=true
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJr7ereT0NYT0sDqDKL43B1UXL0I7OiwgaRA&usqp=CAU"group-title="ARGENTINA",  CANAL 57
@@ -846,15 +875,6 @@ https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f7b47f12a45590007821749/colorLogoPNG.png"group-title="ARGENTINA",NARCOS - SERIES
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7b47f12a45590007821749/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca4-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db32e708-3f49-4116-9202-54e60c2967ae&userId=&serverSideAds=true
-
-
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f7274806621ff00072651ff/colorLogoPNG.png"group-title="ARGENTINA",NARCOS 2 - SERIES
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7274806621ff00072651ff/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
 
@@ -1105,10 +1125,6 @@ http://etvhome.com:25461/Arturo/Arturo1/13364
 
 
 
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmpoigXrd_sQYdXGaa8kMjgkxUYUqmNe5mA&usqp=CAU"group-title="ARGENTINA",PRENDETV - CINECLUB
-https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
 
 
 
@@ -1769,10 +1785,6 @@ https://5eae379fb77bb.streamlock.net:443/8126/8126/chunklist_w325188716.m3u8?Web
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="ARGENTINA", TOP CINE
-https://olympusamagi.pc.cdn.bitgravity.com:443/TopCine-roku/master_6.m3u8
 
 
 
