@@ -500,6 +500,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
+
+
+
+
+
+
+#EXTINF: -1 tvg-logo = "https://i.imgur.com/dWNxCqp.png" group-title="ARGENTINA", RAKUTEN TV DRAMA
+https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/6b220a9a-ecae-4afe-8fd6-61bb18ec599e/2.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png" group-title="ARGENTINA",CINE ADRENALINA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804192-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0b46a48-3e72-4c90-a658-826f98daa8a9&userId=&serverSideAds=true
 
@@ -3596,8 +3607,6 @@ https://rakuten-spotlight-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://rakuten-tvshows-2-es.samsung.wurl.tv:443/3000.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://i.imgur.com/dWNxCqp.png" group-title="PLUTO TV", RAKUTEN TV DRAMA 2
-https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
    
 #EXTINF: -1 tvg-logo = "https://i.imgur.com/eQKFgpa.png" group-title="PLUTO TV", COMEDIA DE RAKUTEN
 https://rakuten-comedymovies-2-es.samsung.wurl.tv:443/3000.m3u8    
