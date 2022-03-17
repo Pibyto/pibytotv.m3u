@@ -397,6 +397,12 @@ http://etvhome.com:25461/Arturo/Arturo1/13387
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ARGENTINA", HBO PLUS
+http://gratis.shortgod.com/shortgod34descarga/tv3.php?c=3460
+
+
+
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png"group-title="ARGENTINA", CINEMAX HD
 
 
@@ -967,8 +973,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8
 https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w569981525.m3u8?WebM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ARGENTINA", HBO PLUS
 
 
 
