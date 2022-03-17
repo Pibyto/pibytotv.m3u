@@ -201,6 +201,11 @@ https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaRd-u_wISYDTGZImCyWmN_JMZLjb7y-X7Ag&usqp=CAU"group-title="ARGENTINA",DIOS TEVE KIDS
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1  tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png"group-title="ARGENTINA",PLANETA TV HD
 https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 
