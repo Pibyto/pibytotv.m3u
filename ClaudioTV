@@ -259,8 +259,19 @@ https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSPyafVNj3A4h5Qcpe0uI37oRrNgjGewn4g&usqp=CAU"group-title="ARGENTINA",CANAL 41
+https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
+
+
+
 #EXTINF:-1, tvg-logo = "https://pbs.twimg.com/profile_images/974840212034609152/wjxoqVd7_400x400.jpg"group-title="ARGENTINA", CANAL 2 SANAGASTA
 https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
+
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/WNM1-HwpFtI/hqdefault.jpg"group-title="ARGENTINA", RED TV
+https://cdn2.streamgato.us/redtvrd/redtvrd/playlist.m3u8
 
 
 
@@ -316,9 +327,10 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8
 
 
 
-#EXTINF: -1 tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwJ-2GtysmcPkUbc7uvju1h2EdqWH_jtNeWw&usqp=CAU"group-title="ARGENTINA",TVMAX HD
-https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQChGIe2ysi_mBbS_k3_NHRPJhe_FqNWiIJQg&usqp=CAU"group-title="ARGENTINA",  ALEGRE TV
+https://cdn4.hostlagarto.com:8081/static/alegretv/playlist.m3u8?DVR
 
 
 
@@ -343,6 +355,16 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 
 #EXTINF:-1  tvg-logo="https://cdx.solo.to/user/a/6098a9ba5765b7_19914391.jpg"group-title="ARGENTINA",WOWLY.
 https://wowly.stream/hls/stream_src/index.m3u8?WebM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW1krBm8YFA9b0INm0q_ATRWI5xUv9xPvyBQ&usqp=CAU"group-title="ARGENTINA", CATACAOS
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fe6ae09b087d724c5c5a5b5524dab2b1f8768cc475966d7ae3896931e7a3114d6.jpg"group-title="ARGENTINA", CATAVISION
+https://stmv1.zcastbr.com/catavision/catavision/playlist.m3u8
 
 
 
@@ -1268,13 +1290,6 @@ https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSPyafVNj3A4h5Qcpe0uI37oRrNgjGewn4g&usqp=CAU"group-title="ARGENTINA",CANAL 41
-https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
-
-
-
-
-
 
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="ARGENTINA",CINECANAL HD
 http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz/rGwQ6Rk5nQc8b7h/834_2835.ts
@@ -1554,9 +1569,6 @@ https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/WNM1-HwpFtI/hqdefault.jpg"group-title="ARGENTINA", RED TV
-https://cdn2.streamgato.us/redtvrd/redtvrd/playlist.m3u8
-
 
 
 
@@ -1596,21 +1608,8 @@ https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlGNbsgeDcDpHJN2R6
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW1krBm8YFA9b0INm0q_ATRWI5xUv9xPvyBQ&usqp=CAU"group-title="ARGENTINA", CATACAOS
-https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fe6ae09b087d724c5c5a5b5524dab2b1f8768cc475966d7ae3896931e7a3114d6.jpg"group-title="ARGENTINA", CATAVISION
-https://stmv1.zcastbr.com/catavision/catavision/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR6JepoqSKiZdZ2U-1yIf6Euj7tDHmt5GtWA&usqp=CAU"group-title="ARGENTINA", LTV CANAL
 https://medios.sirtel.cl/live/stream/index.m3u8
-
-
-
 
 
 
@@ -1693,14 +1692,6 @@ https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1521480640.m3u8
 
 #EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png"group-title="ARGENTINA", CANA TV
 https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist_w436300158.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQChGIe2ysi_mBbS_k3_NHRPJhe_FqNWiIJQg&usqp=CAU"group-title="ARGENTINA",  ALEGRE TV
-https://cdn4.hostlagarto.com:8081/static/alegretv/playlist.m3u8?DVR
-
-
-
 
 
 
