@@ -585,6 +585,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab52300099
 
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbR4isYcl1ur7dREE6WGVNaaHleZpwDjw-Rg&usqp=CAU"group-title="ARGENTINA",CINE ROMANTICO
+https://stream.ads.ottera.tv/cl/77c22a6a-7d89-4b1f-833b-587b28f3d20d/1280x720_2300000_4_false.m3u8
+
+
 
 #EXTINF: -1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="ARGENTINA", RUN: TIME
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
