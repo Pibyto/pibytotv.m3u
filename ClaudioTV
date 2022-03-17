@@ -353,7 +353,7 @@ https://cdn2.streamgato.us:443/pregotv/pregotv/chunklist_w1936102864.m3u8
 https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w58195212_b692224.m3u8
 
 
-#EXTINF:-1 o="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="ARGENTINA",CANAL 12 METRO TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="ARGENTINA",CANAL 12 METRO TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
 
