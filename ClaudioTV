@@ -339,6 +339,11 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSauVqIVzs8BFeOb5vZgEFOlPTCbnabiT3EjA&usqp=CAU"group-title="ARGENTINA",TELEMILENIO
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/chunks.m3u8?nimblesessionid=147479215&WebM3UCL
+
+
+
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="ARGENTINA", LA VOZ TV
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
