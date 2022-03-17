@@ -235,7 +235,7 @@ https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.0-9/133708012_688547691824725_4359396706139005064_n.jpg?_nc_cat=106&ccb=3&_nc_sid=973b4a&_nc_ohc=u7Zzlj0_FTEAX_SKRSF&_nc_ht=scontent.fepa11-1.fna&oh=509ce59af3472416b3eea5794e2e02a5&oe=6066D962" group-title="ARGENTINA",CANAL 6 PLUS TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyYlJOaOPx8Hgs_wnk8-D4CEEzymXNtDdVA&usqp=CAU"group-title="ARGENTINA",CANAL 6 PLUS TV
 http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
 
 
@@ -290,7 +290,7 @@ https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?Playlis
 
 
 
-#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqWNvUyaBNuylppPF712ZgJX4QoT667_K_Lg&usqp=CAU"group-title="ARGENTINA", CANAL 3 PLUS TV
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyYlJOaOPx8Hgs_wnk8-D4CEEzymXNtDdVA&usqp=CAU"group-title="ARGENTINA", CANAL 3 PLUS TV
 https://videohd.live:19360/8050/8050.m3u8
 
 
