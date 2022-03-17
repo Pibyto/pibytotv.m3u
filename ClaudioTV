@@ -479,6 +479,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Q1jJFK8jPqD3qaWh5UkUeDPD37PNjoM8Ig&usqp=CAU"group-title="ARGENTINA", TERROR HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b524&deviceDNT=0&deviceModel=0
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png"group-title="ARGENTINA",RAKUTEN TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -491,6 +496,13 @@ https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjUcvez-GwZvQFnm009Ea769hedIwvWgHnkQ&usqp=CAU"group-title="ARGENTINA",TRHILLERS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png"group-title="ARGENTINA", TU CINE
+https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
 
 
 
@@ -540,8 +552,45 @@ https://olympusamagi.pc.cdn.bitgravity.com:443/TopCine-roku/master_6.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://static.12core.net/0db2c3cfb3b99f46cfe3132701abddb0.png"group-title="ARGENTINA",CANELA TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
+
+
+
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFUfMa_H5ROVpoN9OIRXOdM6RYZRTfkaiVEQ&usqp=CAU"group-title="ARGENTINA",BBC DRAMA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/blog/wp-content/uploads/2020/08/ButacaTV-Blog_10.jpg"group-title="ARGENTINA", BUTACA TV
+https://veranda-butacatv-2-mx.samsung.wurl.tv:443/3000.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="ARGENTINA", CINE ROMANCE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
+
+
+
+
+#EXTINF: -1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="ARGENTINA", RUN: TIME
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="ARGENTINA", MY TIME 
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://variety.com/wp-content/uploads/2019/02/pluto-tv-indies-featuredimage.jpg"group-title="ARGENTINA",INDIES HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
 
 
 
@@ -585,6 +634,12 @@ https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-juntos-plex/CDN/playl
 
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSO35wbFyHeuImu-mLIKdrzv96VBGgzzrlwA&usqp=CAU"group-title="ARGENTINA", HISTORIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpTgvlnB6ziyj4RWTYBYOvdgzZiYBSdXbrw&usqp=CAU"group-title="ARGENTINA",SCI-FI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -619,6 +674,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb
 
 
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtJGYwPaFNsrkDGZ4VXjMIYDrUEAZvB-VL6w&usqp=CAU"group-title="ARGENTINA",ANIME - HEROES
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6079be62f9f8d6000783c8a4/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=944795d5-20fd-4dfa-8465-336c683bcd4d&deviceVersion=99.0.4844&appVersion=5.109.0-6577a51c82bdba0d9a0a2bab4950dd43d469ea83&deviceType=web&deviceMake=chromium-webview&sid=c25a6a63-a5a1-11ec-ab07-0242ac110003&advertisingId=&deviceLat=-34.815&deviceLon=-58.4693&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjYwZDdhZTExLWRhNmEtNGRkYS1hODg2LWYwZDBjZWEwZDM4MCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjMjVhNmE2My1hNWExLTExZWMtYWIwNy0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE4Ni4xMzIuNzIuMzgiLCJjaXR5IjoiTW9udGUgR3JhbmRlIiwicG9zdGFsQ29kZSI6IjE4NDIiLCJjb3VudHJ5IjoiQVIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMzQuODE1LCJkZXZpY2VMb24iOi01OC40NjkzLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5OS4wLjQ4NDQiLCJkZXZpY2VNYWtlIjoiY2hyb21pdW0td2VidmlldyIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwOS4wLTY1NzdhNTFjODJiZGJhMGQ5YTBhMmJhYjQ5NTBkZDQzZDQ2OWVhODMiLCJjbGllbnRJRCI6Ijk0NDc5NWQ1LTIwZmQtNGRmYS04NDY1LTMzNmM2ODNiY2Q0ZCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjQ3NTE2MjcxLCJqdGkiOiI2YzVhZTQ1YS0wNmRjLTQ1OTYtODZiNS03NTI2ZjFiZTFhODMiLCJpYXQiOjE2NDc0ODc0NzEsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpPVFEwTnprMVpEVXRNakJtWkMwMFpHWmhMVGcwTmpVdE16TTJZelk0TTJKalpEUmsifQ.6l_xGHLQ40jW3ry06QcuiLfc5v8qFjNciI6HyUSFwSU
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuLmX48Za6JVf9wCBcvq4vbMQcIdvOWyW22g&usqp=CAU"group-title="ARGENTINA",INSPIRANIME - ANIME - ANIMACIÓN
+https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w569981525.m3u8?WebM3UCL
+
+
+
+
 #EXTINF:-1  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png"group-title="ARGENTINA",A&E HD
 http://pms-tv.online:25461/pmstv/LD6LU4GZwt/67
 
@@ -632,9 +699,6 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?WebM3UCL
 
 
 
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSO35wbFyHeuImu-mLIKdrzv96VBGgzzrlwA&usqp=CAU"group-title="ARGENTINA", HISTORIA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
@@ -710,10 +774,6 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 
 
 
-#EXTINF:-1  tvg-logo="https://variety.com/wp-content/uploads/2019/02/pluto-tv-indies-featuredimage.jpg"group-title="ARGENTINA",INDIES HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708dc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
 
 
 
@@ -756,9 +816,6 @@ https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w160616
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Q1jJFK8jPqD3qaWh5UkUeDPD37PNjoM8Ig&usqp=CAU"group-title="ARGENTINA", TERROR HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b524&deviceDNT=0&deviceModel=0
 
 
 
@@ -897,15 +954,6 @@ https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w687911450.m
 
 
 
-#EXTINF:-1  tvg-logo="https://logodix.com/logo/1613837.jpg"group-title="ARGENTINA",MOVIEPLEX
-http://170222.1222908.net:2086/arsenio/arsenio/323516
-
-
-
-
-#EXTINF:-1  tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-actionmax-west-6600.jpg"group-title="ARGENTINA",ACTION MAX
-http://170222.1222908.net:2086/arsenio/arsenio/323503
-
 
 
 
@@ -969,14 +1017,6 @@ https://videohd.live:19360/8016/8016.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtJGYwPaFNsrkDGZ4VXjMIYDrUEAZvB-VL6w&usqp=CAU"group-title="ARGENTINA",ANIME - HEROES
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuLmX48Za6JVf9wCBcvq4vbMQcIdvOWyW22g&usqp=CAU"group-title="ARGENTINA",INSPIRANIME - ANIME - ANIMACIÓN
-https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w569981525.m3u8?WebM3UCL
-
 
 
 
@@ -997,10 +1037,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png"group-title="ARGENTINA", TU CINE
-https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
 
 
 
@@ -1068,9 +1104,6 @@ https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.12core.net/0db2c3cfb3b99f46cfe3132701abddb0.png"group-title="ARGENTINA",CANELA TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
-
 
 
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/886623373614342144/TkVOFEox.jpg"group-title="ARGENTINA", DIOS TE VE HD
@@ -1124,29 +1157,6 @@ https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/blog/wp-content/uploads/2020/08/ButacaTV-Blog_10.jpg"group-title="ARGENTINA", BUTACA TV
-https://veranda-butacatv-2-mx.samsung.wurl.tv:443/3000.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="ARGENTINA", CINE ROMANCE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
-
-
-
-
-
-
-#EXTINF: -1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="ARGENTINA", RUN: TIME
-https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="ARGENTINA", MY TIME 
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 
 
