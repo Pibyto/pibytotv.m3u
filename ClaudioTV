@@ -427,6 +427,12 @@ https://cdn2.streamgato.us/ryetelevision/ryetelevision/playlist.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MC.png"group-title="ARGENTINA",MC
+
+
+
+
+
 #EXTINF:-1  tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png"group-title="ARGENTINA",STAR CHANNEL (SD)
 http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3072
 
@@ -1455,10 +1461,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2020/12/kzo.jpg"group-title="ARGENTINA", KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
-
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MC.png"group-title="ARGENTINA",MC
 
 
 
