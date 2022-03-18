@@ -422,6 +422,25 @@ https://cdn2.streamgato.us/ryetelevision/ryetelevision/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="ARGENTINA",UNIVERSAL HD
+
+
+
+
+#EXTINF:-1  tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png"group-title="ARGENTINA",STAR CHANNEL (SD)
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3072
+
+
+
+#EXTINF:-1  tvg-logo="https://logodix.com/logo/1860200.jpg"group-title="ARGENTINA",FXM HD
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3085
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1f/33/2b/1f332b99b982af05cfc8e0219746f006.jpg"group-title="ARGENTINA",MULTICINEMA
+http://192.99.212.8:25461/pmstv/LD6LU4GZwt/37?token=HRNeWUUMQwIXBlRXVFcCBgBZBwFSAFxXBwEEAQMBXVhVBgdcU1BZAVBHShEWEhZQBVVtWAVHXgFSGERERVAWZg9VFAIUVlcJF0lERwwLARdeCQQFV11XA1MAVR0URQ1dRAsUCwZQUgAXSURWHRIBRwpZXm4FABJbBlFEC1hACFVKE1lWaQAEVVQLAhFfRFQXSBpbQhFHXlwQWAodFFcNTRRQQl0UXkMJB1ReEUlEB1oRVkZDGEdeECRmRB0UUBxNA19FUVkKQwIXERURSUQNRjtKV0IVFwFTCFEUEwwXVRtKE1tZTjsCV1sLA1ARDwtbFxoIE1NVRh5HWQlfX0ELSzlBX1wUXkMJBFxWCkcb
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FX_Turkey_logo.svg/1200px-FX_Turkey_logo.svg.png"group-title="ARGENTINA", FX HD
 
 
@@ -758,6 +777,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cc807324d60a0007708d
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQygGsV_i9WLfyCb67r3wZl9Lqsk3C80rTyew&usqp=CAU"group-title="ARGENTINA", LA CORRIENTE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=499&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=HXPEXX8sxRq2Fzzka8Jc&content_series=602d6608f867c4002c897e27&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=HXPEXX8sxRq2Fzzka8Jc&custom_7=602d6608f867c4002c897e27
+
 
 
 
@@ -1008,17 +1030,6 @@ https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w687911450.m
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1f/33/2b/1f332b99b982af05cfc8e0219746f006.jpg"group-title="ARGENTINA",MULTICINEMA
-http://192.99.212.8:25461/pmstv/LD6LU4GZwt/37?token=HRNeWUUMQwIXBlRXVFcCBgBZBwFSAFxXBwEEAQMBXVhVBgdcU1BZAVBHShEWEhZQBVVtWAVHXgFSGERERVAWZg9VFAIUVlcJF0lERwwLARdeCQQFV11XA1MAVR0URQ1dRAsUCwZQUgAXSURWHRIBRwpZXm4FABJbBlFEC1hACFVKE1lWaQAEVVQLAhFfRFQXSBpbQhFHXlwQWAodFFcNTRRQQl0UXkMJB1ReEUlEB1oRVkZDGEdeECRmRB0UUBxNA19FUVkKQwIXERURSUQNRjtKV0IVFwFTCFEUEwwXVRtKE1tZTjsCV1sLA1ARDwtbFxoIE1NVRh5HWQlfX0ELSzlBX1wUXkMJBFxWCkcb
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg"group-title="ARGENTINA",CANAL 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/playlist.m3u8
 
@@ -1039,9 +1050,6 @@ https://videohd.live:19360/8016/8016.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQygGsV_i9WLfyCb67r3wZl9Lqsk3C80rTyew&usqp=CAU"group-title="ARGENTINA", LA CORRIENTE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=499&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=HXPEXX8sxRq2Fzzka8Jc&content_series=602d6608f867c4002c897e27&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=HXPEXX8sxRq2Fzzka8Jc&custom_7=602d6608f867c4002c897e27
 
 
 
@@ -1150,15 +1158,6 @@ https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
 https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="ARGENTINA",UNIVERSAL HD
-
-
-
-
-
-
-
-
 
 
 
@@ -1230,23 +1229,6 @@ http://pms-tv.online:25461/pmstvfree/listagratis/122
 
 
 
-#EXTINF:-1  tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png"group-title="ARGENTINA",STAR CHANNEL (SD)
-http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3072
-http://pms-tv.online:25461/pmstvfree/listagratis/33
-
-
-
-
-#EXTINF: -1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES 
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-
-
-
-
-#EXTINF:-1  tvg-logo="https://logodix.com/logo/1860200.jpg"group-title="ARGENTINA",FXM HD
-http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3085
-http://pms-tv.online:25461/pmstvfree/listagratis/15930
-
 
 
 
@@ -1254,6 +1236,9 @@ http://pms-tv.online:25461/pmstvfree/listagratis/15930
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
+
+#EXTINF: -1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES 
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
 
 
