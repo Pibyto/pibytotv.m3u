@@ -438,6 +438,13 @@ http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3072
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-4.png"group-title=" PREMIUM", PARAMOUNT HD
+
+
+
+
 #EXTINF:-1  tvg-logo="https://logodix.com/logo/1860200.jpg"group-title="ARGENTINA",FXM HD
 http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3085
 
@@ -1527,21 +1534,8 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-LrWhQBx4zi0/WmO2Ibo5_5I/AAAAAAABDbM/wjOq8TCWZWoAoJTnkvXnc4cZY5Ssu36DACLcBGAs/w1600/spacehd.png"group-title="ARGENTINA", SPACE HD
-http://moontools.me:8080/tv1chago/1p7iYUyvZF/23583
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr-300x300-1525980274.jpg"group-title="ARGENTINA", MICROVISION HD
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?WebM3UCL
-
 
 
 
@@ -1738,20 +1732,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1
 
 #EXTINF:-1 tvg-logo="http://www.movilinvasion.es/wp-content/uploads/2011/11/COSMO-HD.jpg"group-title="ARGENTINA", COSMO
 http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1106389745_b1928000_sleng.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2501,92 +2481,6 @@ https://5fd5567570c0e.streamlock.net:443/36/stream/chunklist_w788448893.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/v6v8LlTFX_kkrxlM7EViPuG9EvQwkHmzdXfeCwnPIAAzjY7r7rrgqqEdaykRRaSkmRa_"group-title="24/7",CINE ACCION
-http://user.tvcluboficial.com/stream/nov/nov/699.m3u8
-
-
-
-#EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png"group-title="PREMIUM",STAR CHANNELL
-
-
-
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png"group-title="PREMIUM",STAR LIFE
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="PREMIUM",UNIVERSAL HD
-
-
-
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png"group-title="PREMIUM", UNIVERSAL CINEMA
-
-
-
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_comedy_hero.png"group-title="PREMIUM", UNIVERSAL COMEDY
-
-
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png"group-title="PREMIUM", UNIVERSAL PREMIER
-
-
-
-#EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png"group-title="PREMIUM", UNIVERSAL CRIME
-
-
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1900466692_UniversalReality.png.4589a40c388f30c4a4529ab027716a02.png"group-title="PREMIUM", UNIVERSAL REALITY
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png"group-title=" PREMIUM", GOLDEN
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title=" PREMIUM", GOLDEN PLUS
-
-
-
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-4.png"group-title=" PREMIUM", PARAMOUNT HD
-
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1f/33/2b/1f332b99b982af05cfc8e0219746f006.jpg"group-title="PREMIUM",MULTICINEMA
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png"group-title=" PREMIUM", CINEMAX HD
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/419-4197240_en-grillas-59c2a7ee7a1a0-fxmhd-fxm-hd-logo.png"group-title=" PREMIUM", FXM HD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDWqG5tceTx8-PkyxMPPf8Up3aRS-FsOTpYA&usqp=CAU"group-title="CRISTIANO", VIDA TV
 https://59ef525c24caa.streamlock.net/vidatv/vidatv/playlist.m3u8
 
@@ -2613,14 +2507,6 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canal27.org/wp-content/uploads/2019/01/logo_c27f4.png"group-title="CRISTIANO",CANAL27 EL CANAL DE LA ESPERANZA
 https://dcunilive16-lh.akamaihd.net/i/dclive_1@330503/master.m3u8?hdnea=st=1639097130~exp=1639097250~acl=/i/dclive_1@330503*~hmac=c0e1999487d40202f189dc7eeb5cfed49bf7c296a2b0f03bad56bdbccd66e116
-
-
-
-
-
-
-
-
 
 
 
@@ -2829,44 +2715,12 @@ https://5790d294af2dc.streamlock.net:443/8160/8160/chunklist_w1412141262.m3u8?We
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="INFANTIL", TOON GOGGLES
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/35BpWJh.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="INFANTIL", SUPERTOONS TV
-https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83648_Canal_IPE.png" group-title="INFANTIL", CANAL IPE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png" group-title="INFANTIL", CHINOLA TV
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/1_%C2%B72_%C2%B73_TV_logo.svg/245px-1_%C2%B72_%C2%B73_TV_logo.svg.png" group-title="INFANTIL", 123 TV
-http://177.52.221.214:8000/play/a0ew/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.png/v1/fill/w_96,h_72,al_c,q_85,usm_0.66_1.00_0.01/Mosca-1280x720_color_edited%20editado_edit.webp" group-title="INFANTIL", PEQUERADIO
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8 lo
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="INFANTIL", DUCK TV
-https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni_--nfDx7dY1f6hpnTgv3hrKLPeD4-B-4MeB5K2A=s900-c-k-c0x00ffffff-no-rj" group-title="INFANTIL", PLANETA JUNIOR TV
-https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.alchimie.com/wp-content/uploads/2020/11/1-patio-tv-l.jpg" group-title="INFANTIL", EL PATIO TV
-https://alchimie-elpatio-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-f_fV7wGrmYs/Uh-3n9zhl6I/AAAAAAAAA1M/_qgfGdcN6R8/s320/caillou-logo-3.jpg" group-title="INFANTIL", CAILLOU
-https://dhx-caillou-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="CRISTIANO", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="INFANTIL", BEBESITO BUM Y SUS AMIGOS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60493283ffc52f000710edae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-
 
 
 
