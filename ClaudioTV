@@ -459,6 +459,10 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/Y2FuYWwubWFzNV9zY3JlZW5fMl8xNTk3ODA4ODAyXzAxMw/screen-2.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA",CANAL+
+https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
+
+
 
 #EXTINF: -1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",  SOMOS DEL ESTE HD
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
@@ -590,10 +594,25 @@ http://gratis.shortgod.com/shortgod34descarga/tv3.php?c=3460
 
 
 
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="ARGENTINA",HBO POP
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3304
+
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="ARGENTINA",HBO MUNDI
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3299
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSULdmSIL5Mf1psDICdNGc15uCHcaeKw-4JA&usqp=CAU"group-title="ARGENTINA",HBO XTREME
 http://pms-tv.online:25461/pmstvfree/listagratis/16903
 
 
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title="ARGENTINA",HBO SIGNATURE
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3301
 
 
 
@@ -603,29 +622,8 @@ http://pms-tv.online:25461/pmstvfree/listagratis/16881
 
 
 
-
-
-#EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/Y2FuYWwubWFzNV9zY3JlZW5fMl8xNTk3ODA4ODAyXzAxMw/screen-2.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA",CANAL+
-https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
-
-
 #EXTINF:-1tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png"group-title="ARGENTINA",TELECINE PREMIUM HD
 http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
-
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="ARGENTINA",HBO POP
-http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3304
-
-
-
-
-
-
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="ARGENTINA",HBO MUNDI
-http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3304
 
 
 
@@ -635,16 +633,8 @@ http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3089
 
 
 
-
 #EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="ARGENTINA",GOLDEN PLUS HD
 http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3091
-
-
-
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title="ARGENTINA",HBO SIGNATURE
-http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3301
 
 
 
