@@ -1351,23 +1351,6 @@ https://byecableiptv.com:443/alfatv/alfatv.stream/chunklist_w1257975845.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="ARGENTINA", TELEMUNDO FHD 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjF5cEXgUDVj7vZWoPWG8ZJDHbCU_i_rZnzBXNS9Krr_G_WT0&s"group-title="ARGENTINA", UNIMAS FHD
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png"group-title="ARGENTINA", ÚNICABLE
-
-
 
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uIlMoWnRA7BuTu-qGn_zyDeWdo9vbzNQiw&usqp=CAU"group-title="ARGENTINA",PRENDETV - ORO
@@ -2540,7 +2523,7 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
  
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="DEPORTES 2", FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="DEPORTES", FOX SPORTS PREMIUM
 
 
 
@@ -2548,23 +2531,14 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tntsports.com.ar/__export/1610632431950/sites/tntsports/arte/apps/facebook_20210114.jpg"group-title="DEPORTES 2", TNT SPORTS
+#EXTINF:-1 tvg-logo="https://tntsports.com.ar/__export/1610632431950/sites/tntsports/arte/apps/facebook_20210114.jpg"group-title="DEPORTES", TNT SPORTS
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo"https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES 2", ESPN
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/dk/284289/png/284289.png"group-title="DEPORTES 2", ESPN2
+#EXTINF:-1 tvg-logo"https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES", ESPN
 
 
 
@@ -2572,19 +2546,28 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="DEPORTES 2", FOX SPORTS
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/dk/284289/png/284289.png"group-title="DEPORTES", ESPN2
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="DEPORTES 2", FOX SPORTS 2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="DEPORTES", FOX SPORTS
 
 
 
 
-#EXTINF:-1 tvg-logo="https://files.antena2.com/antena2/public/2020-02/win__3_0.jpg"group-title="DEPORTES 2", WIN SPORTS+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="DEPORTES", FOX SPORTS 2
+
+
+
+
+#EXTINF:-1 tvg-logo="https://files.antena2.com/antena2/public/2020-02/win__3_0.jpg"group-title="DEPORTES", WIN SPORTS+
 
 
 
