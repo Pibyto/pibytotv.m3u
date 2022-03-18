@@ -517,11 +517,31 @@ https://cdn2.streamgato.us/ryetelevision/ryetelevision/playlist.m3u8
 
 
 
+
+#EXTINF:-1  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png"group-title="ARGENTINA",A&E HD
+https://edge2.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
+
+
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="ARGENTINA", WARNER TV HD
+http://pms-tv.online:25461/pmstv/LD6LU4GZwt/104
+
+
+
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png"group-title="ARGENTINA",STAR LIFE
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3078
+
+
+
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="ARGENTINA",SPACE HD
 http://pms-tv.online:25461/pmstvfree/listagratis/16852
 
 
 
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="ARGENTINA",TBS HD
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3123
 
 
 
@@ -532,10 +552,21 @@ http://pms-tv.online:25461/pmstvfree/listagratis/16880
 
 
 
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="ARGENTINA",CINECANAL HD opc.2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3445
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz/rGwQ6Rk5nQc8b7h/834_2835.ts
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="ARGENTINA",AMC HD
 http://pms-tv.online:25461/pmstvfree/listagratis/16955
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="ARGENTINA", AMC HD opc.2
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3021
 
 
 
@@ -584,6 +615,7 @@ http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="ARGENTINA",HBO POP
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3304
 
 
 
@@ -593,20 +625,26 @@ http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="ARGENTINA",HBO MUNDI
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3304
 
 
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_hd.png"group-title="ARGENTINA", GOLDEN HD
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3089
 
 
 
+
+#EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="ARGENTINA",GOLDEN PLUS HD
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3091
 
 
 
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title="ARGENTINA",HBO SIGNATURE
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3301
 
 
 
@@ -615,11 +653,18 @@ http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png"group-title="ARGENTINA",DHE HD
 
 
+
+
+
+
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbHqaCKE71WbUOuh2T91kqEor9y2GlWs87C1e_mBjVeYmBtI&s"group-title="ARGENTINA",TNT HD
 https://edge2.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 https://edge2.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD-mp4a_144800_spa=20000.m3u8
 
 
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png"group-title="ARGENTINA",TNT SERIES
+http://pms-tv.online:25461/pmstvfree/listagratis/16936
 
 
 
@@ -897,10 +942,6 @@ https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w569981525.m
 
 
 
-#EXTINF:-1  tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png"group-title="ARGENTINA",A&E HD
-https://edge2.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
-
-
 
 
 
@@ -928,9 +969,6 @@ http://pms-tv.online:25461/pmstvfree/listagratis/16922
 
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png"group-title="ARGENTINA",TNT SERIES
-http://pms-tv.online:25461/pmstvfree/listagratis/16936
-
 
 
 
@@ -941,8 +979,6 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=8e9368de8c6d0e35dac9110
 
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="ARGENTINA", WARNER TV HD
-http://pms-tv.online:25461/pmstv/LD6LU4GZwt/104
 
 
 
@@ -957,8 +993,6 @@ https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 
 
 
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="ARGENTINA",TBS HD
 
 
 
@@ -996,9 +1030,6 @@ https://5bff1bf18a887.streamlock.net:443/rtvla/rtvla/chunklist_w681928651.m3u8?W
 https://59ef525c24caa.streamlock.net:443/telesur/telesur/chunklist_w1965179923.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="ARGENTINA", AMC HD
 
 
 
@@ -1074,8 +1105,6 @@ http://192.99.212.8:25461/pmstv/LD6LU4GZwt/37?token=HRNeWUUMQwIXBlRXVFcCBgBZBwFS
 
 
 
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png"group-title="ARGENTINA",STAR LIFE
-
 
 
 
@@ -1126,8 +1155,6 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1428128082.
 
 
 
-#EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="ARGENTINA",GOLDEN PLUS HD
-
 
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWF87u9p7dYcrU6gyeIiNkLKNS_r_vOmlQA&usqp=CAU"group-title="ARGENTINA",VISION NDV
@@ -1137,6 +1164,7 @@ https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png"group-title="ARGENTINA", TNT
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3311
 
 
 
@@ -1292,6 +1320,7 @@ http://pms-tv.online:25461/pmstvfree/listagratis/122
 
 
 #EXTINF:-1  tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png"group-title="ARGENTINA",STAR CHANNEL (SD)
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3072
 http://pms-tv.online:25461/pmstvfree/listagratis/33
 
 
@@ -1304,6 +1333,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 
 
 #EXTINF:-1  tvg-logo="https://logodix.com/logo/1860200.jpg"group-title="ARGENTINA",FXM HD
+http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3085
 http://pms-tv.online:25461/pmstvfree/listagratis/15930
 
 
@@ -1314,10 +1344,6 @@ https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
 
-
-
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="ARGENTINA",CINECANAL HD
-http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz/rGwQ6Rk5nQc8b7h/834_2835.ts
 
 
 
