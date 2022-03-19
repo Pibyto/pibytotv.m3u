@@ -83,6 +83,13 @@ https://cdn2.streamgato.us:443/pregotv/pregotv/chunklist_w1936102864.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="ARGENTINA", WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA",  PLANETA TV KIDS
 https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1521480640.m3u8
 
@@ -318,7 +325,7 @@ https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 
 
 
-#EXTINF:-1 tvg-loigo="https://yt3.ggpht.com/ytc/AKedOLSa1RGbMTXpckV5O1ilzvMKfl71FKmA-9H7I3no=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",MULTIVISION HD
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSa1RGbMTXpckV5O1ilzvMKfl71FKmA-9H7I3no=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",MULTIVISION HD
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
@@ -527,11 +534,6 @@ https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w160616
 #EXTINF:-1  tvg-logo="https://image.winudf.com/v2/image1/Y2FuYWwubWFzNV9zY3JlZW5fMl8xNTk3ODA4ODAyXzAxMw/screen-2.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA",CANAL+
 https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="ARGENTINA", WOW
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
 
