@@ -153,6 +153,10 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="ARGENTINA",9HD
+http://coninfo.net:1935/9linklive/live/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"group-title="ARGENTINA",EL TRECE FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
@@ -244,7 +248,7 @@ http://clubtv.link/14mr/ch8/peliculas2.php?c=0_20200403/2.mp4
 
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9-jEcpBnWC4pdEo3JPVIUitGLvfC-9hkUw&usqp=CAU"group-title="ARGENTINA",CINE HD 5
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9-jEcpBnWC4pdEo3JPVIUitGLvfC-9hkUw&usqp=CAU"group-title="ARGENTINA",CINE HD 5
 http://clubtv.link/movies/mastex
 
 
@@ -443,9 +447,6 @@ http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="ARGENTINA",9HD
-http://coninfo.net:1935/9linklive/live/playlist.m3u8
 
 
 
