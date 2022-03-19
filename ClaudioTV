@@ -126,6 +126,9 @@ https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w15
 https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png"group-title="ARGENTINA", TVMAX
+https://bcovlive-a.akamaihd.net:443/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8 
+
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg"group-title="ARGENTINA", DANTV
@@ -159,6 +162,17 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSje85UeM53ryOshSR3o7E5NyU0euKVAd-xqQ&usqp=CAU" group-title="ARGENTINA", FM SUPER CLASSIC
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="ARGENTINA", VALLEVISION HD
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png"group-title="ARGENTINA", CANA TV
+https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist_w436300158.m3u8
 
 
 
@@ -1571,14 +1585,6 @@ https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w693779543.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="ARGENTINA", VALLEVISION HD
-http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-Sbo4eA6EFNzCr2GP3AS-LZCBkFXTMZcNA&usqp=CAU"group-title="ARGENTINA", DARKMATTER TV
 https://darkmatter-spanish-rakuten.amagi.tv:443/playlist720p.m3u8
 
@@ -1684,12 +1690,6 @@ https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=VsdA0So2pMm9RZA3XkLA
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png"group-title="ARGENTINA", TVMAX
-https://bcovlive-a.akamaihd.net:443/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8 
-
-
 #EXTINF:-1 tvg-logo="https://www.programapublicidad.com/wp-content/uploads/2020/06/a3series-logo-nuevo-programapublicidad.jpg"group-title="ARGENTINA", A3SERIES
 http://pms-tv.online:25461/pmstv/LD6LU4GZwt/396
 
@@ -1699,17 +1699,6 @@ http://pms-tv.online:25461/pmstv/LD6LU4GZwt/396
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU6UhFi6aMUsnA0s4ntBTBZXqa5NJtfVaDjQ&usqp=CAU"group-title="ARGENTINA", COLOSAL
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w2104890955.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png"group-title="ARGENTINA", CANA TV
-https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist_w436300158.m3u8
 
 
 
