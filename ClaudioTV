@@ -444,7 +444,7 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",9HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="ARGENTINA",9HD
 http://coninfo.net:1935/9linklive/live/playlist.m3u8
 
 
