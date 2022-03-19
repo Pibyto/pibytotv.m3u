@@ -4,8 +4,22 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/fb.png"group-title="ARGENTINA",NEO TV DIGITAL
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/banner.png"group-title="ARGENTINA",NEO TV DIGITAL
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+
+
+
+#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD 17.3 TDA
+https://videohd.live:19360/8010/8010.m3u8
+
+
+
+
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/886623373614342144/TkVOFEox.jpg"group-title="ARGENTINA", DIOS TE VE HD
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"group-title="ARGENTINA",EL TRECE FHD
@@ -30,9 +44,6 @@ http://etvhome.com:25461/Arturo/Arturo1/134127
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 
 
-
-#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/886623373614342144/TkVOFEox.jpg"group-title="ARGENTINA", DIOS TE VE HD
-https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 
 
@@ -105,10 +116,6 @@ http://clubtv.link/movies/mastex
 
 
 
-
-
-#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/dmVlbWVzb2Z0LmdlbnR2X3NjcmVlbl8wXzE1MzA3NTM2NjBfMDg4/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", GENTV HD 17.3 TDA
-https://videohd.live:19360/8010/8010.m3u8
 
 
 
