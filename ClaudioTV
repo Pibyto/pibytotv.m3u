@@ -75,6 +75,11 @@ https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG"group-title="ARGENTINA",TVES SIEMPRE CONTIGO
+https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
+
+
+
 
 
 #EXTINF:-1  tvg-logo="https://i2.wp.com/pregotvyradio.com/wp-content/uploads/2021/10/LOGO-PREGO-TV.png?fit=897%2C495&ssl=1"group-title="ARGENTINA",PREGO TV
