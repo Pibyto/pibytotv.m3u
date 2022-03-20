@@ -145,8 +145,9 @@ https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 http://gratis.shortgod.com/ratonescuriosos/tv1.php?c=3148
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Kr2rzwbQX87o_xcrxAHffDjZdpZ1d1Qrwg&usqp=CAU"group-title="ARGENTINA",IMAGEN TELEVISIÓN HD OPC.2
-https://www.dailymotion.com/cdn/live/video/x8493ax.m3u8?sec=2bhwt3L79D_U9o-S2wW_RQgdtSUY3hjSO95W1BQSqvyT1R3vBurNiS8f4tno_t5uzAl_apdQhZ7reHpfVkpLFw&dmTs=355941&dmV1st=EB2D08B07E4ED8BA5365890202F77C76
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Kr2rzwbQX87o_xcrxAHffDjZdpZ1d1Qrwg&usqp=CAU"group-title="ARGENTINA",IMAGEN TELEVISIÓN HD OPC. 2
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOrFoIJBgGBKx05UGFmOMYHw)/dm/3/x8493ax/s/live-2.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png"group-title="ARGENTINA", TVMAX
@@ -249,14 +250,14 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w16645521
 
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5DocKJpSqnDxMMvYyPBOwBqcwo8zVorAVyg&usqp=CAU"group-title="ARGENTINA", YOUTUBER - MISSA - ENTRETENIMIENTOS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5DocKJpSqnDxMMvYyPBOwBqcwo8zVorAVyg&usqp=CAU"group-title="ARGENTINA",YOUTUBER - MISSA - ENTRETENIMIENTOS
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvAEi19pgPEejgTHtkQp0MqeB2dv8DlU9TN73F-72Clghez7Znr_84YtJR2R8Vj6M0MzTdvHgCWDcMwzPZSNrh8c-nG0zHVoX4Ww4AsgJmk5iYbG1jSsEaHk2_0p4RCdS5i8TDl6lUt2f8fiTiBiJiHdNL-3mdd5pjtoG3sR5t3QrojoSiE7P6Hnbn9REZcEuuEI6dM2sNnqGVAtGBHs_Io1nekl4X7M48bDtUc-hW_DC0KJ9aj87DkCpk3q4I_3YAkD8ebt2n6N8p66suvNrB7w2wMQrQIW3f7Vfr-GiuqhjRuKzKi4ydCqHlkH5JKcKPNeMk2byR_O7Ca-EDEZTApi84j6TLJ9wG1WJmu1JmBPh8ODKdrVnKsbYgZB-NoF_ETn-1bKKTlW_cCIRmAE61tN8VRIGIVvqpaoYho_X5gmis-Ehj6bBOKscIQVp7OZ1uos_6UTZiHG0iWVVQE4sN38NYEzQO-zMjsinSODzgjVHD9CCAn9RMl-6SAC0rW-4aZsVY2-5WEpvarhTZ7-lErR__t8vKdEHDqUDHmqI5cNTJSqO8XO0_VmmsRfPl-YmWG6gF0_GkDy4ST-cUck7SX4rQreDIeMmz-kOMvxbiIHJyVwsBQyCjtdKvoBwXDnNh3HXl-cEWb9RzK_yuiu6IefMCdVJe7TlFbClisfHsLNjb7FR4NyH6zafGNnklkW0o5dmD1I5KVWH1KH6j0OB4-0-VLQ6Spw-fP3AGiC9QSSGbpwd6TzXkUmABperotXs3PpE4kupK5CCAn60_D4JBoHuTbkfBRDOMWDSUyiJSD547JCSg7cerrbGBtdRg2zROADGgz_2ZoBAk2i9ZLHEVsgASoJdXMtZWFzdC0yMJ8D.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ32g0YR_QkcRiiyjMK7FlJuT3GnLVh5tXSw&usqp=CAU"group-title="ARGENTINA", BLU HD 29.1 TDA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ32g0YR_QkcRiiyjMK7FlJuT3GnLVh5tXSw&usqp=CAU"group-title="ARGENTINA",BLU HD 29.1 TDA
 https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
 
 
@@ -276,7 +277,7 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CooF3qS_epwrVdm3bkyTI7c9IuC
 
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9-jEcpBnWC4pdEo3JPVIUitGLvfC-9hkUw&usqp=CAU"group-title="ARGENTINA",TU CINE MIX HD 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9-jEcpBnWC4pdEo3JPVIUitGLvfC-9hkUw&usqp=CAU"group-title="ARGENTINA",TU CINE MIX HD 2
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvUENz89tgCpLr715Q5siVzfH8hoOIiTO4MojbTvFwiEsYnot7t7rxWD6aopEGdChKFWuLhOsgHqVau7qiB3ufyw18MvDbic_SZhv-dBAGca3G7x6IuKzWv4NsxghToAuFpvXHbUh_kO0u3qGKxzvu3P5kheEWzxdOypobH-lvfrQXD-uHNoP3_g2gQDjU-9qh3NdjxTJVOd3zHnCluLppmRS6NXvIFRzni6viiwkoXWxKz-qrWgXof4bcy3ISNlaLkQNkplxCtX1JBk9VE1Eq3GOnzBszX809aTIM9f-Pvz8mQOVCp-h572xFWls0L60_wTsre3Fv5F0KIkb7PsRcclQxxzmX6Jmz9X6HcEjz-qyJOCxQxqopNJdhPIFGfPJq44JLbvpROyo9qqAnQAAf-RzhoHENQZUzLEQRAHQYYxPeZW2phkcS1ygCQA42kIO9-E3EvFiuyfZfwmKWNNOC3B2wIFB-t-uqgIEBmClx7f27Ue1Njh3naAzuKvo5e9LMTOsMW3Wk5Fa72G1ZJo87y9SAzmjeeLEsJmwjtFbKj6uig6wKkPI6RfkNtLv1kMQ5I33_4u84XIgVsJLbfDK79sx6VTq9IHbMr-5PsQkIXnp-I-EH4gXy07-EUkDGQtz_PwIQyYhXU1sAiSMFVs4BO91hVCksjXyyk6zNqWgxIQ89xll-c6D7r1YimWWekqhISraZQ5QGstkTeC8JwED5N6xTfOcl-jcRmjd19ywaH1Hs3rKeO2MPzBJx3pSXguJstvBAZQKd3YInmzsTG2kMclz-rawqID9H9YIdiH-WAk-npm91yyYe1FAGKtgMzPPbbhxvhM3pgaDI9XBaIRHbQLFHRJSCABKgl1cy1lYXN0LTIwogM.m3u8
 
 
