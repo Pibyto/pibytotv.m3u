@@ -78,6 +78,8 @@ https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG"group-title="ARGENTINA",TVES SIEMPRE CONTIGO
 https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
 
+#EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.AnzoateguiTV-logo2020-rec1.png.16954ef50ddeff8f97cce0312f5a0ee3.png"group-title="ARGENTINA",ANZOTEGUI TV
+http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/playlist.m3u8?WebM3UCL
 
 
 
