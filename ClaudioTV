@@ -135,6 +135,10 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_a1343f704ae0412ba28bab4239e78411~mv2.png/v1/fill/w_540,h_540,al_c,usm_0.66_1.00_0.01,enc_auto/visiontv.png"group-title="ARGENTINA",VISIONTV HD
+https://tv.streamgt.tk:2083/live/tvgt/123456/7.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://reconlinebolivia.com/wp-content/uploads/2021/10/logo-slogan.png"group-title="ARGENTINA",REC ONLINE TV
 https://master.tucableip.com/reconline/live/video.m3u8
 
