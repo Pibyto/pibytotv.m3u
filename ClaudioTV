@@ -19,10 +19,24 @@ http://heinentv.ddns.me:25461/Marzo2020/2020/22180
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://www.alquilerappletv.com/img/brand/alquiler-apple-tv-logo.png"group-title="ARGENTINA", ALQUILER
+http://latinoamericatv.vip:8080/alberto12/alberto12/101029
+
+
+
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/gallery_gen/87c90468fc51f0112a9e0cf567e32eb5.png"group-title="ARGENTINA",TELECOSTA
 http://latinoamericatv.vip:8080/alberto12/alberto12/115796
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
+
+
+#EXTINF:-1  tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png"group-title="ARGENTINA", ALQUILER
+http://latinoamericatv.vip:8080/alberto12/alberto12/101027
+
+
+
+#EXTINF:-1  tvg-logo="http://meteoalcorcon.es/1_0_1_768E_41E_1_C00000_0_0_0.png"group-title="ARGENTINA", ALQUILER
+http://latinoamericatv.vip:8080/alberto12/alberto12/101030
 
 
 
