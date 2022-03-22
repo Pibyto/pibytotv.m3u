@@ -37,6 +37,11 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/lxgYNMCbowqmVr8QEl-pFO6AGevsZqTCFCif_8kEpaT1BaPhG8QdMx1LQvnBraOyiPk"group-title="ARGENTINA",PENIEL TV
+https://stream.oursnetworktv.com/latin/MaPeniE1YuFaMilyaRyO/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_O_yDJ3BrVGVM7SY08qrsHI2FUHZYYqQg&usqp=CAU"group-title="ARGENTINA",E-TV
 https://59ce1298bfb98.streamlock.net:443/emprendetv/emprendetv/chunklist_w68446214.m3u8
@@ -274,6 +279,22 @@ https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="ARGENTINA",12 TARTAGAL
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w687911450.m3u8
+
+
+
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWsXd1BZcqnmKfq-9IkL6P6tL2abTgx6dftg&usqp=CAU"group-title="ARGENTINA",GARDENIAS TV
+https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://static.wixstatic.com/media/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg"group-title="ARGENTINA",CANAL +9 
+https://tv.streamgt.tk:2083/live/tvgt/123456/18.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://scontent.feze7-1.fna.fbcdn.net/v/t1.6435-9/94615598_237692577642802_882103948075335680_n.jpg?stp=cp0_dst-jpg_e15_q65_s206x206&_nc_cat=111&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeHwmc_1CvVbHctnbXhlVCTZSccQaO24jglJxxBo7biOCTPjHvnO5M48m_8xElYgqb1iw2426IaD2NjtEr82Q7AB&_nc_ohc=qNeHMTZRLToAX-t8flV&_nc_ht=scontent.feze7-1.fna&oh=00_AT_lfk67zx7vU5fGJksHNnQ88TCnQZHGN5hOs4bpzoKpFg&oe=625EE298"group-title="ARGENTINA",GUATV
+https://tv.streamgt.tk:2083/live/tvgt/123456/23.m3u8
 
 
 
