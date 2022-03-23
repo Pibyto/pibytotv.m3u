@@ -19,7 +19,7 @@ http://heinentv.ddns.me:25461/Marzo2020/2020/22180
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://www.alquilerappletv.com/img/brand/alquiler-apple-tv-logo.png"group-title="ARGENTINA", ALQUILER
+#EXTINF:-1 tvg-logo="https://www.alquilerappletv.com/img/brand/alquiler-apple-tv-logo.png"group-title="ARGENTINA", ALQUILER
 http://latinoamericatv.vip:8080/alberto12/alberto12/101029
 
 
@@ -30,12 +30,12 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png"group-title="ARGENTINA", ALQUILER
+#EXTINF:-1  tvg-logo="http://meteoalcorcon.es/1_0_19_7854_41A_1_C00000_0_0_0.png"group-title="ARGENTINA",ALQUILER
 http://latinoamericatv.vip:8080/alberto12/alberto12/101027
 
 
 
-#EXTINF:-1  tvg-logo="http://meteoalcorcon.es/1_0_1_768E_41E_1_C00000_0_0_0.png"group-title="ARGENTINA", ALQUILER
+#EXTINF:-1 tvg-logo="http://meteoalcorcon.es/1_0_1_768E_41E_1_C00000_0_0_0.png"group-title="ARGENTINA",ALQUILER
 http://latinoamericatv.vip:8080/alberto12/alberto12/101030
 
 
@@ -51,12 +51,12 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="ARGENTINA",CANAL 3 PINAMAR
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="ARGENTINA",3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/lxgYNMCbowqmVr8QEl-pFO6AGevsZqTCFCif_8kEpaT1BaPhG8QdMx1LQvnBraOyiPk"group-title="ARGENTINA",PENIEL TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lxgYNMCbowqmVr8QEl-pFO6AGevsZqTCFCif_8kEpaT1BaPhG8QdMx1LQvnBraOyiPk"group-title="ARGENTINA",PENIEL TV
 https://stream.oursnetworktv.com/latin/MaPeniE1YuFaMilyaRyO/playlist.m3u8
 
 
@@ -73,18 +73,18 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png"group-title="ARGENTINA",  MULTIVISION
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png"group-title="ARGENTINA",MULTIVISION
 https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA", MI TV FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA",MI TV FHD
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCauDwYbCOLLXbKe3t--wB1eqEYKZLbY8LQ&usqp=CAU"group-title="ARGENTINA", CINCO TV TIGRE  30.1 TDA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCauDwYbCOLLXbKe3t--wB1eqEYKZLbY8LQ&usqp=CAU"group-title="ARGENTINA",CINCO TV TIGRE  30.1 TDA
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
@@ -96,7 +96,7 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA", COSMOS TV
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV
 https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
 
@@ -192,18 +192,13 @@ http://heinentv.ddns.me:25461/Marzo2020/2020/8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png"group-title="ARGENTINA", TVMAX
-https://bcovlive-a.akamaihd.net:443/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8 
-
-
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg"group-title="ARGENTINA", DANTV
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg"group-title="ARGENTINA",DANTV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png"group-title="ARGENTINA", TVS MARACAY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png"group-title="ARGENTINA",TVS MARACAY
 http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist_w365987513.m3u8?WebM3UCL
 
 
@@ -217,24 +212,24 @@ https://cdn1.streamgato.us:443/sumundotv/sumundotv.myStream/chunks.m3u8?nimblese
 
 
 
-#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="ARGENTINA", LA VOZ TV
+#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="ARGENTINA",LA VOZ TV
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSje85UeM53ryOshSR3o7E5NyU0euKVAd-xqQ&usqp=CAU" group-title="ARGENTINA", FM SUPER CLASSIC
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSje85UeM53ryOshSR3o7E5NyU0euKVAd-xqQ&usqp=CAU" group-title="ARGENTINA",FM SUPER CLASSIC
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="ARGENTINA", VALLEVISION HD
+#EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="ARGENTINA",VALLEVISION HD
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
 
 
 
 
-#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png"group-title="ARGENTINA", CANA TV
+#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png"group-title="ARGENTINA",CANA TV
 https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist_w436300158.m3u8
 
 
