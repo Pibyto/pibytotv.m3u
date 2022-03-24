@@ -42,6 +42,11 @@ https://cdn2.streamgato.us/ryetelevision/ryetelevision/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA", CANAL 32 SPTV HD
+https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ32g0YR_QkcRiiyjMK7FlJuT3GnLVh5tXSw&usqp=CAU"group-title="ARGENTINA",BLU HD 29.1 TDA
 https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
 
@@ -267,18 +272,9 @@ http://gratis.shortgod.com/ratonescuriosos/tv5.php?c=110764.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://poptv.orange.es/wp-content/uploads/sites/3/2020/04/logo-orange-tv.jpg"group-title="ARGENTINA",ALQUILER ORANGE TV
 http://latinoamericatv.vip:8080/alberto12/alberto12/101029
 
-
-
-#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/gallery_gen/87c90468fc51f0112a9e0cf567e32eb5.png"group-title="ARGENTINA",TELECOSTA
-http://latinoamericatv.vip:8080/alberto12/alberto12/115796
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 
 
@@ -294,6 +290,26 @@ http://latinoamericatv.vip:8080/alberto12/alberto12/101030
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV HD 17.3 TDA
 https://videohd.live:19360/8010/8010.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1w7tEcHXoZYs661t48QVRHh-sIaXmB0KsQ&usqp=CAU"group-title="ARGENTINA",MULTIVISION HD
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tXAlGJ2CGUZa83ai_ZASZrU8wMktFAjTZw&usqp=CAU"group-title="ARGENTINA",CANAL 5 TV
+https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyYlJOaOPx8Hgs_wnk8-D4CEEzymXNtDdVA&usqp=CAU"group-title="ARGENTINA",CANAL 6 PLUS TV
+http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
 
 
 
@@ -325,6 +341,9 @@ http://heinentv.ddns.me:25461/Marzo2020/2020/3260
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png"group-title="ARGENTINA", CANAL 9 NORTE MISIONERO
+https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 
 
 
@@ -427,9 +446,6 @@ https://tv.streamgt.tk:2083/live/tvgt/123456/2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG"group-title="ARGENTINA",TVES SIEMPRE CONTIGO
-https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.AnzoateguiTV-logo2020-rec1.png.16954ef50ddeff8f97cce0312f5a0ee3.png"group-title="ARGENTINA",ANZOTEGUI TV
 http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/playlist.m3u8?WebM3UCL
 
@@ -465,46 +481,13 @@ http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8?WebM3UCL
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png"group-title="ARGENTINA",CANA TV
 https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist_w436300158.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5DocKJpSqnDxMMvYyPBOwBqcwo8zVorAVyg&usqp=CAU"group-title="ARGENTINA",YOUTUBER - MISSA - ENTRETENIMIENTOS
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvAEi19pgPEejgTHtkQp0MqeB2dv8DlU9TN73F-72Clghez7Znr_84YtJR2R8Vj6M0MzTdvHgCWDcMwzPZSNrh8c-nG0zHVoX4Ww4AsgJmk5iYbG1jSsEaHk2_0p4RCdS5i8TDl6lUt2f8fiTiBiJiHdNL-3mdd5pjtoG3sR5t3QrojoSiE7P6Hnbn9REZcEuuEI6dM2sNnqGVAtGBHs_Io1nekl4X7M48bDtUc-hW_DC0KJ9aj87DkCpk3q4I_3YAkD8ebt2n6N8p66suvNrB7w2wMQrQIW3f7Vfr-GiuqhjRuKzKi4ydCqHlkH5JKcKPNeMk2byR_O7Ca-EDEZTApi84j6TLJ9wG1WJmu1JmBPh8ODKdrVnKsbYgZB-NoF_ETn-1bKKTlW_cCIRmAE61tN8VRIGIVvqpaoYho_X5gmis-Ehj6bBOKscIQVp7OZ1uos_6UTZiHG0iWVVQE4sN38NYEzQO-zMjsinSODzgjVHD9CCAn9RMl-6SAC0rW-4aZsVY2-5WEpvarhTZ7-lErR__t8vKdEHDqUDHmqI5cNTJSqO8XO0_VmmsRfPl-YmWG6gF0_GkDy4ST-cUck7SX4rQreDIeMmz-kOMvxbiIHJyVwsBQyCjtdKvoBwXDnNh3HXl-cEWb9RzK_yuiu6IefMCdVJe7TlFbClisfHsLNjb7FR4NyH6zafGNnklkW0o5dmD1I5KVWH1KH6j0OB4-0-VLQ6Spw-fP3AGiC9QSSGbpwd6TzXkUmABperotXs3PpE4kupK5CCAn60_D4JBoHuTbkfBRDOMWDSUyiJSD547JCSg7cerrbGBtdRg2zROADGgz_2ZoBAk2i9ZLHEVsgASoJdXMtZWFzdC0yMJ8D.m3u8
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="ARGENTINA",12 TARTAGAL
@@ -556,34 +539,8 @@ https://stream-03.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY9I54FuP0hCy2D2XSo
 
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png"group-title="ARGENTINA", CANAL 9 NORTE MISIONERO
-https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1w7tEcHXoZYs661t48QVRHh-sIaXmB0KsQ&usqp=CAU"group-title="ARGENTINA",MULTIVISION HD
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://x24.com.mx/ca3w/assets/img/logos/logo-x24-con-sombra.png"group-title="ARGENTINA", X24 HD
 https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tXAlGJ2CGUZa83ai_ZASZrU8wMktFAjTZw&usqp=CAU"group-title="ARGENTINA",CANAL 5 TV
-https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyYlJOaOPx8Hgs_wnk8-D4CEEzymXNtDdVA&usqp=CAU"group-title="ARGENTINA",CANAL 6 PLUS TV
-http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
 
 
 
@@ -651,9 +608,6 @@ https://videohd.live:19360/8050/8050.m3u8
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA", CANAL 32 SPTV HD
-https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 
 
