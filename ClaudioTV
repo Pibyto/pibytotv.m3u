@@ -211,7 +211,18 @@ https://multivision.digitalgt.com:442/hls/multivision/index.m3u8
 http://iptv.streamhispanatv.net:25461/playgt/123456/105
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Azteca_Guate_2017.png/640px-Azteca_Guate_2017.png"group-title="ARGENTINA", TVAZTECA GUATE
+https://5fc584f3f19c9.streamlock.net/aztecaguate/aztecaguate.smil/chunklist_w1970913182_b1428000_sleng.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Televisiete.png"group-title="ARGENTINA",TELEVISIETE
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Canal_10_Nicaragua_1997.png/revision/latest/scale-to-width-down/2000?cb=20210530143729&path-prefix=es"group-title="ARGENTINA",CANAL 10
+https://ni-canal10-canal10-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ4MjM5MDIwLCJzZXNzaW9uIjoiMTg2LjEzMi42Mi4yMzYiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEzMi42Mi4yMzYiXX0sInNpZ25hdHVyZSI6IjU2ZWExYmRlNzVlYWE2ODJjNGQ1MjQxNWRhZWVjYTE4OTBiMmQ1OTAifQ==
 
 
 
