@@ -5,7 +5,7 @@
 http://gratis.shortgod.com/ratonescuriosos/tv2.php?c=6738
 
 
-EXTINF:-1 tvg-logo="https://www.trecebits.com/wp-content/uploads/2020/03/configuraci%C3%B3n-en-Amazon-Prime-Video-1-800x445.jpg"group-title="ARGENTINA",CINE PRIME VIDEO 2
+#EXTINF:-1 tvg-logo="https://www.trecebits.com/wp-content/uploads/2020/03/configuraci%C3%B3n-en-Amazon-Prime-Video-1-800x445.jpg"group-title="ARGENTINA",CINE PRIME VIDEO 2
 http://latinoamericatv.vip:8080/alberto12/alberto12/86339
 
 
@@ -72,7 +72,7 @@ https://videohd.live:19360/8010/8010.m3u8
 https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8 
 
 
-#EXTINF:-1  tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png"group-title="ARGENTINA",SNT HD
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png"group-title="ARGENTINA",SNT HD
 http://latinoamericatv.vip:8080/alberto12/alberto12/76419
 
 
@@ -85,10 +85,10 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://canal2tv.com/wp-content/uploads/2020/06/LOGOB-e1592297058783.png"group-title="ARGENTINA",CANAL 2
+#EXTINF:-1 tvg-logo="https://canal2tv.com/wp-content/uploads/2020/06/LOGOB-e1592297058783.png"group-title="ARGENTINA",CANAL 2
 http://latinoamericatv.vip:8080/alberto12/alberto12/111269
 
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/Televisi__n_Nacional_de_Chile_-_TVN-logo-E99BE24030-seeklogo.com.png"group-title="ARGENTINA",TVN HD
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/Televisi__n_Nacional_de_Chile_-_TVN-logo-E99BE24030-seeklogo.com.png"group-title="ARGENTINA",TVN HD
 http://latinoamericatv.vip:8080/alberto12/alberto12/55279
 
 
@@ -370,28 +370,14 @@ http://heinentv.ddns.me:25461/Marzo2020/2020/22178
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9-jEcpBnWC4pdEo3JPVIUitGLvfC-9hkUw&usqp=CAU"group-title="ARGENTINA",TU CINE FLIX HD 2
 http://heinentv.ddns.me:25461/Marzo2020/2020/22177
-
-
-
-
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9-jEcpBnWC4pdEo3JPVIUitGLvfC-9hkUw&usqp=CAU"group-title="ARGENTINA",TU CINE COMEDY HD 3
 http://gratis.shortgod.com/ratonescuriosos/tv2.php?c=6735
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9-jEcpBnWC4pdEo3JPVIUitGLvfC-9hkUw&usqp=CAU"group-title="ARGENTINA",TU CINE ACCTION HD 5
-http://gratis.shortgod.com/ratonescuriosos/tv2.php?c=6738
 
 
 
