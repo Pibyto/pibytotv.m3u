@@ -82,6 +82,18 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 
 
+#EXTINF:-1  tvg-logo="https://canal2tv.com/wp-content/uploads/2020/06/LOGOB-e1592297058783.png"group-title="ARGENTINA",CANAL 2
+http://latinoamericatv.vip:8080/alberto12/alberto12/111269
+
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/Televisi__n_Nacional_de_Chile_-_TVN-logo-E99BE24030-seeklogo.com.png"group-title="ARGENTINA",TVN HD
+http://latinoamericatv.vip:8080/alberto12/alberto12/55279
+
+
+
+#EXTINF:-1  tvg-logo="https://www.google.com/search?q=logo+canal+TELEFUTURO+transparente+&tbm=isch&ved=2ahUKEwihv4f3st32AhWls5UCHaNnDHEQ2-cCegQIABAC&oq=logo+canal+TELEFUTURO+transparente+&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIHCCMQ7wMQJ1C3CViTD2DoFWgAcAB4AIABngGIAasEkgEDMy4ymAEAoAEBwAEB&sclient=mobile-gws-wiz-img&ei=uq47YqH6EKXn1sQPo8-xiAc&bih=512&biw=360&client=ms-android-motorola&prmd=ivn#imgrc=KpnvR5aIUloADM"group-title="ARGENTINA", TELEFUTURO HD
+http://latinoamericatv.vip:8080/alberto12/alberto12/76417
+
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lxgYNMCbowqmVr8QEl-pFO6AGevsZqTCFCif_8kEpaT1BaPhG8QdMx1LQvnBraOyiPk"group-title="ARGENTINA",PENIEL TV
 https://stream.oursnetworktv.com/latin/MaPeniE1YuFaMilyaRyO/playlist.m3u8
 
