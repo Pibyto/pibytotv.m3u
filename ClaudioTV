@@ -188,6 +188,22 @@ http://latinoamericatv.vip:8080/alberto12/alberto12/72326
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Canal_10_Nicaragua_1997.png/revision/latest/scale-to-width-down/2000?cb=20210530143729&path-prefix=es"group-title="ARGENTINA",CANAL 10
+https://ni-canal10-canal10-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ4MjM5MDIwLCJzZXNzaW9uIjoiMTg2LjEzMi42Mi4yMzYiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEzMi42Mi4yMzYiXX0sInNpZ25hdHVyZSI6IjU2ZWExYmRlNzVlYWE2ODJjNGQ1MjQxNWRhZWVjYTE4OTBiMmQ1OTAifQ==
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJIGDtxN3fPK6NZBwkD7dl2SZm7kuDFDptw&usqp=CAU"group-title="ARGENTINA",PLAY MEDIOS TV
+https://iptv.streamhispanatv.net:2083/live/playgt/123456/87.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS4dP_CaQrRZb3QBBGQMbjjb6iDYuQM2pi7kExQ=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",CANAL 3 MULTIVISION
+https://multivision.digitalgt.com:442/hls/multivision/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400"group-title="ARGENTINA",BARBE TV
+http://iptv.streamhispanatv.net:25461/playgt/123456/105
 
 
 
