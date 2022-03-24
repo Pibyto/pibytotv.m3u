@@ -41,6 +41,11 @@ https://cdn1.streamgato.us/sumundotv/sumundotv.myStream/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKK77vOrOiKIzB9DjAY_co8pzN9RIiNcnDng&usqp=CAU"group-title="ARGENTINA",GARDENIAS TV
+https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ctv.jpg"group-title="ARGENTINA",CTV EL CANAL DE TODOS
 https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 
@@ -530,13 +535,6 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvAEi19pgPEejgTHtkQp0MqeB2d
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="ARGENTINA",12 TARTAGAL
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w687911450.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWsXd1BZcqnmKfq-9IkL6P6tL2abTgx6dftg&usqp=CAU"group-title="ARGENTINA",GARDENIAS TV
-https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
-
 
 
 
