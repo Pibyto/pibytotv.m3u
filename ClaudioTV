@@ -1,6 +1,11 @@
 # ClaudioTV
 
 
+#EXTINF:-1 tvg-logo="https://www.trecebits.com/wp-content/uploads/2020/03/configuraci%C3%B3n-en-Amazon-Prime-Video-1-800x445.jpg"group-title="ARGENTINA",CINE PRIME VIDEO
+http://gratis.shortgod.com/ratonescuriosos/tv2.php?c=6738
+
+
+
 
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"group-title="ARGENTINA",CINE FLIX 1
 http://heinentv.ddns.me:25461/Marzo2020/2020/22181
@@ -23,9 +28,6 @@ http://latinoamericatv.vip:8080/alberto12/alberto12/99074
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.trecebits.com/wp-content/uploads/2020/03/configuraci%C3%B3n-en-Amazon-Prime-Video-1-800x445.jpg"group-title="ARGENTINA",CINE PRIME VIDEO
-http://gratis.shortgod.com/ratonescuriosos/tv2.php?c=6738
 
 
 
