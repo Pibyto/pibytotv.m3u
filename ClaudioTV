@@ -31,7 +31,47 @@ http://gratis.shortgod.com/ratonescuriosos/tv2.php?c=6737
 http://latinoamericatv.vip:8080/alberto12/alberto12/99074
 
 
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Disney%2B_white_logo.svg/revision/latest/scale-to-width-down/250?cb=20210613215039&path-prefix=es"group-title="ARGENTINA",CINE DISNEY+
+http://latinoamericatv.vip:8080/alberto12/alberto12/86338
 
+
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Disney%2B_white_logo.svg/revision/latest/scale-to-width-down/250?cb=20210613215039&path-prefix=es"group-title="ARGENTINA",CINE DISNEY+ 2
+http://latinoamericatv.vip:8080/alberto12/alberto12/99074
+
+
+
+#EXTINF:-1  tvg-logo="https://static.s123-cdn-static-d.com/uploads/5391386/normal_6105beb94ef13.png"group-title="ARGENTINA",CINE STARZ PLAY
+http://latinoamericatv.vip:8080/alberto12/alberto12/99075
+
+
+
+#EXTINF:-1  tvg-logo="https://static.s123-cdn-static-d.com/uploads/5391386/normal_6105beb94ef13.png"group-title="ARGENTINA",CINE STARZ PLAY 2
+http://gratis.shortgod.com/ratonescuriosos/tv2.php?c=6714
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png"group-title="ARGENTINA",CINE PARAMOUNT+
+http://latinoamericatv.vip:8080/alberto12/alberto12/99093
+
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png"group-title="ARGENTINA",CINE PARAMOUNT+ 2
+http://gratis.shortgod.com/ratonescuriosos/tv2.php?c=6712
+
+
+
+
+#EXTINF:-1  tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/hbo-max-logo-1922879.jpg"group-title="ARGENTINA",CINE HBOMAX
+http://gratis.shortgod.com/ratonescuriosos/tv5.php?c=110774.m3u8
+
+
+
+
+#EXTINF:-1  tvg-logo="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/04/hbo-max-logo-1922879.jpg"group-title="ARGENTINA",CINE HBOMAX 2
+http://gratis.shortgod.com/ratonescuriosos/tv5.php?c=110764.m3u8
 
 
 
