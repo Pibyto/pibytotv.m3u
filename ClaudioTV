@@ -1,7 +1,7 @@
 # ClaudioTV
 
 
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA", ORBIT TV
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA",ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
@@ -127,7 +127,7 @@ https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w15
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eOs3XCqn2CY/maxresdefault.jpg"group-title="ARGENTINA", WTV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eOs3XCqn2CY/maxresdefault.jpg"group-title="ARGENTINA",WTV
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
 
@@ -139,18 +139,18 @@ https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/chinola-tv.png"group-title="ARGENTINA", CHINOLA TV
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/chinola-tv.png"group-title="ARGENTINA",CHINOLA TV
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png"group-title="ARGENTINA", LA CALETA
+#EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png"group-title="ARGENTINA",LA CALETA
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIIyp3MBRITAek3jMYIGj33e6meV5MBoxRA&usqp=CAU"group-title="ARGENTINA", DIGITAL VISION
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIIyp3MBRITAek3jMYIGj33e6meV5MBoxRA&usqp=CAU"group-title="ARGENTINA",DIGITAL VISION
 https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w974060221.m3u8
 
 
@@ -162,17 +162,17 @@ https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w693779543.m3u8
 https://master.tucableip.com/reconline/live/video.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png"group-title="ARGENTINA", DIOS TE VE HD
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png"group-title="ARGENTINA",DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png"group-title="ARGENTINA", READY
+#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png"group-title="ARGENTINA",READY
 http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"group-title="ARGENTINA", MEGA CINE TV
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"group-title="ARGENTINA",MEGA CINE TV
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 
 
