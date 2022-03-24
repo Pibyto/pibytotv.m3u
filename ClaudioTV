@@ -107,6 +107,8 @@ http://latinoamericatv.vip:8080/alberto12/alberto12/101030
 https://videohd.live:19360/8010/8010.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae0b9684ea37__838x390.jpg"group-title="ARGENTINA",ESPN 4K
+http://asd2.me:80/23luiz/luiz23/10048420
 
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png"group-title="ARGENTINA",CASCARA TV
@@ -134,7 +136,7 @@ http://latinoamericatv.vip:8080/alberto12/alberto12/55279
 
 
 
-#EXTINF:-1  tvg-logo="https://www.google.com/search?q=logo+canal+TELEFUTURO+transparente+&tbm=isch&ved=2ahUKEwihv4f3st32AhWls5UCHaNnDHEQ2-cCegQIABAC&oq=logo+canal+TELEFUTURO+transparente+&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIHCCMQ7wMQJ1C3CViTD2DoFWgAcAB4AIABngGIAasEkgEDMy4ymAEAoAEBwAEB&sclient=mobile-gws-wiz-img&ei=uq47YqH6EKXn1sQPo8-xiAc&bih=512&biw=360&client=ms-android-motorola&prmd=ivn#imgrc=KpnvR5aIUloADM"group-title="ARGENTINA", TELEFUTURO HD
+#EXTINF:-1 tvg-logo="https://www.google.com/search?q=logo+canal+TELEFUTURO+transparente+&tbm=isch&ved=2ahUKEwihv4f3st32AhWls5UCHaNnDHEQ2-cCegQIABAC&oq=logo+canal+TELEFUTURO+transparente+&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIHCCMQ7wMQJ1C3CViTD2DoFWgAcAB4AIABngGIAasEkgEDMy4ymAEAoAEBwAEB&sclient=mobile-gws-wiz-img&ei=uq47YqH6EKXn1sQPo8-xiAc&bih=512&biw=360&client=ms-android-motorola&prmd=ivn#imgrc=KpnvR5aIUloADM"group-title="ARGENTINA", TELEFUTURO HD
 http://latinoamericatv.vip:8080/alberto12/alberto12/76417
 
 
@@ -143,7 +145,7 @@ https://stream.oursnetworktv.com/latin/MaPeniE1YuFaMilyaRyO/playlist.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLryznZSVvmuki7zQcJ7nfUic-Aym0SKXTbv3B20Bfua1zgwE&s"group-title="ARGENTINA",ANTARES TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLryznZSVvmuki7zQcJ7nfUic-Aym0SKXTbv3B20Bfua1zgwE&s"group-title="ARGENTINA",ANTARES TV
 http://latinoamericatv.vip:8080/alberto12/alberto12/72326
 
 
