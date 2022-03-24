@@ -166,6 +166,16 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Teleonce_Guatemala.png/revision/latest?cb=20170321003710"group-title="ARGENTINA",CANAL 11
+http://iptvparatodos.net:38953/Patricia/DeFa4XeDMR/55924
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Canal_3_Guatemala.png/revision/latest/scale-to-width-down/200?cb=20200408010051&path-prefix=es"group-title="ARGENTINA",CANAL 3
+http://iptvparatodos.net:38953/Patricia/DeFa4XeDMR/55922
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA",MI TV FHD
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
