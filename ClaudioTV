@@ -36,6 +36,23 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.sumundotv.com/wp-content/uploads/2021/12/logosumundo2-1.png"group-title="ARGENTINA",SU MUNDO TV
+https://cdn1.streamgato.us/sumundotv/sumundotv.myStream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ctv.jpg"group-title="ARGENTINA",CTV EL CANAL DE TODOS
+https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/canela-tv.jpg"group-title="ARGENTINA",CANELATV
+https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.retvrd.com/wp-content/uploads/2022/02/cropped-LOGO.png"group-title="ARGENTINA",R&E TELEVISIÓN
 https://cdn2.streamgato.us/ryetelevision/ryetelevision/playlist.m3u8
