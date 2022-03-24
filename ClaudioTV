@@ -120,6 +120,13 @@ http://latinoamericatv.vip:8080/alberto12/alberto12/76419
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIIyp3MBRITAek3jMYIGj33e6meV5MBoxRA&usqp=CAU"group-title="ARGENTINA", DIGITAL VISION
+https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w974060221.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telemax.png"group-title="ARGENTINA",TELEMAX
+https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w693779543.m3u8
+
 
 
 
@@ -1546,41 +1553,6 @@ https://stream.arcast.live:443/ahora/ahora/chunklist_w728312553.m3u8
 
 
 
-
-
-#EXTINF:-1  tvg-logo="https://4dproducciones.com.ar/wp-content/uploads/2020/10/TN.png"group-title="ARGENTINA",TN TODO NOTICIAS
-http://moontools.me:8080/tv1chago/1p7iYUyvZF/29490
-
-
-
-#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/516/214/png-clipart-telemax-logo-television-channel-film-poster-others-television-angle.png"group-title="ARGENTINA", TELEMAX HD
-http://moontools.me:8080/tv1chago/1p7iYUyvZF/1116302
-
-
-
-#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-Tr6qhq4djVY/Vvk8WHqnBMI/AAAAAAABBjE/_78g0tT7f84MUm7Nz3UI5LZk6IoLsZxAw/s1600/cn23-logo.png"group-title="ARGENTINA",C5N
-http://moontools.me:8080/tv1chago/1p7iYUyvZF/1116291
-
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-u_aVoT4AsNNqGaUQouuU_b9ciAQc9VpjZA&usqp=CAU"group-title="ARGENTINA",LN+
-http://moontools.me:8080/tv1chago/1p7iYUyvZF/1116296
-
-
-
-#EXTINF:-1  tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/PCiKhi.png"group-title="ARGENTINA",CNN ESPAÑOL
-http://gratis.shortgod.com/gratisenshortgod/tv4.1.php?c=73660
-
-
-
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png"group-title="ARGENTINA",EURONEWS ESPAÑOL
-http://clubtv.link/iptv/24f/distro.php?c=euronews-spa&f=.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKN8N8fNFYmsYDIK2BG_N8eAJlABse6uCdsA&usqp=CAU"group-title="ARGENTINA",RT ESPAÑOL
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
@@ -1605,11 +1577,6 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2U_n3VA7ER4qT2FggFEBcCxr3srHZsxVJw&usqp=CAU"group-title="ARGENTINA", UNIFE TV 25.1
 https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-p.m3u8?sd=10&rebase=on
-
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YM3_SjkI8w4/WdZ_EvXUSqI/AAAAAAAAAR0/daKsJaQuF0wYxcz9MTOUfyhxzWTHDgSfgCLcBGAs/s1600/TVN-Panama.png"group-title="ARGENTINA", TVN
-https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 
 
 
@@ -1659,22 +1626,9 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/santiago-tv.png"group-title="ARGENTINA", SANTIAGO TV
-https://vdo2.streamgato.us:3265/live/santiagotvlive.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg"group-title="ARGENTINA", MIRADOR  22.3
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8 
-
-
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png"group-title="ARGENTINA",LA2 HD
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&WebM3UCL
 
-
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png"group-title="ARGENTINA", TEC TV  22.5
-https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
 
 
 
@@ -1685,7 +1639,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 
-#EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.718406328_FoxSportsPremium.png.2d3118dc99043ec79eaff13b026c8953.png"group-title="ARGENTINA",FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.718406328_FoxSportsPremium.png.2d3118dc99043ec79eaff13b026c8953.png"group-title="ARGENTINA",FOX SPORTS PREMIUM
 https://edge-live32-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 
 
@@ -1699,7 +1653,7 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sp
 
 
 
-#EXTINF:-1  tvg-logo="https://mma.uno/wp-content/uploads/2019/05/WWE-logo.jpg"group-title="ARGENTINA",WWE HD
+#EXTINF:-1 tvg-logo="https://mma.uno/wp-content/uploads/2019/05/WWE-logo.jpg"group-title="ARGENTINA",WWE HD
 https://h2.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjIgMTowMzo0MCBQTSZoYXNoX3ZhbHVlPUlnNm1WcVNWNnQvSkNoYnV0eXQ1WGc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 
@@ -1723,15 +1677,6 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIIyp3MBRITAek3jMYIGj33e6meV5MBoxRA&usqp=CAU"group-title="ARGENTINA", DIGITAL VISION
-https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w974060221.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telemax.png"group-title="ARGENTINA",TELEMAX
-https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w693779543.m3u8
-
 
 
 
@@ -1748,16 +1693,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/bellavision.jpg"group-title="ARGENTINA", BELLAVISION HD
 https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/deltatv.jpg"group-title="ARGENTINA", DELTA TV
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/deltatv.jpg"group-title="ARGENTINA",DELTA TV
 https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 
 
