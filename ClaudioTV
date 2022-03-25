@@ -97,6 +97,14 @@ https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 https://cdn2.streamgato.us:443/pregotv/pregotv/chunklist_w1936102864.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz4NQ5FUq5qfrfmOd8kAmINkVXX9czCftTTg&usqp=CAU"group-title="ARGENTINA",PTV
+https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="ARGENTINA",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
