@@ -5,6 +5,12 @@
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://scontent.feze7-1.fna.fbcdn.net/v/t1.6435-9/125204894_711619822789715_891998583384151828_n.png?stp=dst-png_s851x315&_nc_cat=106&ccb=1-5&_nc_sid=7aed08&efg=eyJpIjoidCJ9&_nc_eui2=AeGkSzOQ3QM2EC69gxr7AB8FwefJe5BCkG7B58l7kEKQbqzrrZxIutD7aegOwR69EHFGDKnc6lD_Fc7SrM2_CZ0b&_nc_ohc=5J8XpXCq8IAAX_GIvG5&_nc_ht=scontent.feze7-1.fna&oh=00_AT_-jdfBqB0UwRZQ8VOkLvcoJKnoarZNTg9Ess3rg65-Iw&oe=6257CC53"group-title="ARGENTINA", ATM TELEVISIÓN
+https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png"group-title="ARGENTINA",CASCARA TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8 
 
@@ -86,6 +92,15 @@ https://cdn2.streamgato.us/ryetelevision/ryetelevision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA", CANAL 32 SPTV HD
 https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/puntacanatv.jpg"group-title="ARGENTINA", PUNTA CANA TV
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",ZONDA TV 35.1 - SAN JUAN
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 
 
@@ -688,16 +703,6 @@ https://videohd.live:19360/8050/8050.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/puntacanatv.jpg"group-title="ARGENTINA", PUNTA CANA TV
-https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",ZONDA TV 35.1 - SAN JUAN
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQChGIe2ysi_mBbS_k3_NHRPJhe_FqNWiIJQg&usqp=CAU"group-title="ARGENTINA",  ALEGRE TV
@@ -943,14 +948,6 @@ http://pms-tv.online:25461/pmstvfree/listagratis/16936
 
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_spt-renueva-su-marca-insignia-a-sony-channel.jpg"group-title="ARGENTINA", SONY HD
 http://pms-tv.online:25461/pmstvfree/listagratis/16853
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://scontent.feze7-1.fna.fbcdn.net/v/t1.6435-9/125204894_711619822789715_891998583384151828_n.png?stp=dst-png_s851x315&_nc_cat=106&ccb=1-5&_nc_sid=7aed08&efg=eyJpIjoidCJ9&_nc_eui2=AeGkSzOQ3QM2EC69gxr7AB8FwefJe5BCkG7B58l7kEKQbqzrrZxIutD7aegOwR69EHFGDKnc6lD_Fc7SrM2_CZ0b&_nc_ohc=5J8XpXCq8IAAX_GIvG5&_nc_ht=scontent.feze7-1.fna&oh=00_AT_-jdfBqB0UwRZQ8VOkLvcoJKnoarZNTg9Ess3rg65-Iw&oe=6257CC53"group-title="ARGENTINA", ATM TELEVISIÓN
-https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 
 
 
