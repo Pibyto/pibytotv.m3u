@@ -238,8 +238,9 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.artear.com/assets/uploads/canales/ae6fb-ciudad-140x140.png"group-title="ARGENTINA", CIUDAD MAGAZINE
-http://g1.vxral-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="https://www.artear.com/assets/uploads/canales/ae6fb-ciudad-140x140.png"group-title="ARGENTINA", CIUDAD MAGAZINE HD
+http://g5.vxral-hor.transport.edge-access.net:80/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
+
 
 
 
@@ -2741,23 +2742,7 @@ https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chu
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/02/08/16/01/5070457.jpg"group-title="ARGENTINA",12 VALIENTES
-http://heinentv.ddns.me:25461/movie/Marzo2020/2020/343.mkv
 
-
-
-#EXTINF:-1 tvg-logo="https://pre.tematika.com/media/catalog/Ilhsa/Imagenes/647936.jpg"group-title="ARGENTINA",13 HORAS : SOLDADOS DE BANGAZI
-http://heinentv.ddns.me:25461/movie/Marzo2020/2020/344.mkv
-
-
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/85/Estaci%C3%B3nZombie-1.jpg/revision/latest?cb=20161211005626&path-prefix=es"group-title="PELICULAS", ESTACIÓN ZOMBIE
-http://heinentv.ddns.me:25461/movie/Marzo2020/2020/1087.mp4
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/300/W/Warning.jpg"group-title="PELICULAS",  WARNING (2021)
-https://servidor-4.tk/Uploads/Ciencia-Ficcion/Warning-2021-lat.mp4
 
 
 #EXTINF:-1 tvg-logo="https://pictures.betaseries.com/films/affiches/es/7525.jpg"group-title="ARGENTINA",CUATRO HERMANOS
@@ -2771,6 +2756,29 @@ http://heinentv.ddns.me:25461/movie/Marzo2020/2020/20714.mkv
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_ca_da_del_halc_n_negro-847311943-large.jpg"group-title="ARGENTINA",LA CAIDA DEL HALCON NEGRO
 http://heinentv.ddns.me:25461/movie/Marzo2020/2020/398.mkv
+
+
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/02/08/16/01/5070457.jpg"group-title="ARGENTINA",12 VALIENTES
+http://heinentv.ddns.me:25461/movie/Marzo2020/2020/343.mkv
+
+
+
+#EXTINF:-1 tvg-logo="https://pre.tematika.com/media/catalog/Ilhsa/Imagenes/647936.jpg"group-title="ARGENTINA",13 HORAS : SOLDADOS DE BANGAZI
+http://heinentv.ddns.me:25461/movie/Marzo2020/2020/344.mkv
+
+
+
+
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/85/Estaci%C3%B3nZombie-1.jpg/revision/latest?cb=20161211005626&path-prefix=es"group-title="PELICULAS", ESTACIÓN ZOMBIE
+http://heinentv.ddns.me:25461/movie/Marzo2020/2020/1087.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/300/W/Warning.jpg"group-title="PELICULAS",  WARNING (2021)
+https://servidor-4.tk/Uploads/Ciencia-Ficcion/Warning-2021-lat.mp4
 
 
 
