@@ -233,6 +233,13 @@ https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b120000
 https://ni-canal10-canal10-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ4MjM5MDIwLCJzZXNzaW9uIjoiMTg2LjEzMi42Mi4yMzYiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEzMi42Mi4yMzYiXX0sInNpZ25hdHVyZSI6IjU2ZWExYmRlNzVlYWE2ODJjNGQ1MjQxNWRhZWVjYTE4OTBiMmQ1OTAifQ==
 
 
+#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy-290x166.jpg"group-title="ARGENTINA", UNICANAL HD 3.2 AIRE DIGITAL
+http://45.55.127.106/live/unicanal_mid.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.artear.com/assets/uploads/canales/ae6fb-ciudad-140x140.png"group-title="ARGENTINA", CIUDAD MAGAZINE
+http://g1.vxral-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
 
 
 
@@ -1072,6 +1079,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmpoigXrd_sQYdXGaa8kMjgkxUYUqmNe5mA&usqp=CAU"group-title="ARGENTINA",PRENDETV - CINECLUB
 https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiO7Y22vQC1LlgsxewgiKv817gtogoDIgAoQ&usqp=CAU"group-title="ARGENTINA", RAKUTEN VIKI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8a24e17da110007eed4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
