@@ -30,6 +30,9 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg"group-title="ARGENTINA", TVS 
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV
@@ -38,6 +41,23 @@ https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sumundotv.com/wp-content/uploads/2021/12/logosumundo2-1.png"group-title="ARGENTINA",SU MUNDO TV
 https://cdn1.streamgato.us/sumundotv/sumundotv.myStream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jWFndt1lNlg9q7oiwUvUQbvnyCpHGLd4UA&usqp=CAU"group-title="ARGENTINA", VIWIX TV
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-31-at-12.29.17-300x210.jpeg"group-title="ARGENTINA",  CANAL RTV 12 
+https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y2FuYWwubWFzNV9zY3JlZW5fMl8xNTk3ODA4ODAyXzAxMw/screen-2.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA",CANAL+
+https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA",  BELLA ASUNCIÓN TV
+https://tvdatta.com:3602/stream/play.m3u8
 
 
 
@@ -736,33 +756,6 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jWFndt1lNlg9q7oiwUvUQbvnyCpHGLd4UA&usqp=CAU"group-title="ARGENTINA", VIWIX TV
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-31-at-12.29.17-300x210.jpeg"group-title="ARGENTINA",  CANAL RTV 12 
-https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y2FuYWwubWFzNV9zY3JlZW5fMl8xNTk3ODA4ODAyXzAxMw/screen-2.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA",CANAL+
-https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA",  BELLA ASUNCIÓN TV
-https://tvdatta.com:3602/stream/play.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJr7ereT0NYT0sDqDKL43B1UXL0I7OiwgaRA&usqp=CAU"group-title="ARGENTINA",  CANAL 57
@@ -786,12 +779,6 @@ https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3
 
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F727f4de6a319b31e9aa766153c0af631915d2c11557468f8447d81a10c543292.png"group-title="ARGENTINA", RCKTV
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w1912863401.m3u8?WebM3UCL
-
-
-
-
-#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg"group-title="ARGENTINA", TVS 
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 
 
 
