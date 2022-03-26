@@ -735,8 +735,12 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://energeek.cl/wp-content/uploads/2021/12/logo_psd.png"group-title="ARGENTINA", ENERGEEK 1
+http://186.121.206.197/live/daniel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSzZmO2hkxMY4lTUTNsUxgt1N8hgM5s3szyA&usqp=CAU"group-title="ARGENTINA",ENERGEEK
+
+
+#EXTINF:-1 tvg-logo="https://energeek.cl/wp-content/uploads/2021/12/logo_psd.png"group-title="ARGENTINA",ENERGEEK 2
 https://5eff35271151c.streamlock.net:1936/8074/8074/chunklist_w2077431113.m3u8?WebM3UCL
 
 
