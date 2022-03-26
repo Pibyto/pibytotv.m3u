@@ -80,6 +80,13 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Izlr36vLmsz2GO6cE1Ml8JnbXUuQP9D3XDZ19ZmlFK32_K-NMLdEtdCoYA464whXuH4"group-title="ARGENTINA",RTV CANAL 19
+https://play.amelbasoluciones.co:3546/live/boliviaradiotvlive.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y2FuYWwubWFzNV9zY3JlZW5fMl8xNTk3ODA4ODAyXzAxMw/screen-2.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA",CANAL+
 https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 
