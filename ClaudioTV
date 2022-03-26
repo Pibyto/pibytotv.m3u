@@ -281,7 +281,17 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 http://g5.vxral-hor.transport.edge-access.net:80/a10/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e0/VTV-Honduras-logo-actual.png/revision/latest/scale-to-width-down/200?cb=20170617211843&path-prefix=es"group-title="ARGENTINA",V TV
+https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ4MzU3MDYzLCJzZXNzaW9uIjoiMTg2LjEzMi42Mi4yMzYiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEzMi42Mi4yMzYiXX0sInNpZ25hdHVyZSI6ImI2YzgzMDkzOWRiMmIwMTZjODM2YjEyYjZlNWE4MzkzZGU3NTEwNDYifQ%3D%3D
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png"group-title="ARGENTINA",TELECADENA
+https://stream-03.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRHxEdf9UZofxwI7TcoU3N8E)/dm/3/x88jf6e/s/live-3.m3u8#cell=lnyc
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVMAX_logo.png/revision/latest/scale-to-width-down/262?cb=20220208160004&path-prefix=es"group-title="ARGENTINA",TVMAX HD
+https://bcovlive-a.akamaihd.net:443/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
 
 
