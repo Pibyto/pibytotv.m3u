@@ -547,7 +547,8 @@ https://stream.oursnetworktv.com/latin/MaPeniE1YuFaMilyaRyO/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVrTDLpcPcjjZDYIjircMs29OQjYc-qfQTpw&usqp=CAU"group-title="ARGENTINA",VIVOPLAY
+https://vp01-vivoplayiptv.delivery.fuugo.com:443/ngrp:vp01-VIVOplay_IPTV-aa730fa2_all/chunklist_b2179072.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_O_yDJ3BrVGVM7SY08qrsHI2FUHZYYqQg&usqp=CAU"group-title="ARGENTINA",E-TV
