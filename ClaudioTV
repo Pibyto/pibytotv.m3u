@@ -243,9 +243,6 @@ http://latinoamericatv.vip:8080/alberto12/alberto12/72326
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Canal_10_Nicaragua_1997.png/revision/latest/scale-to-width-down/2000?cb=20210530143729&path-prefix=es"group-title="ARGENTINA",CANAL 10
-https://ni-canal10-canal10-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ4MjM5MDIwLCJzZXNzaW9uIjoiMTg2LjEzMi42Mi4yMzYiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEzMi42Mi4yMzYiXX0sInNpZ25hdHVyZSI6IjU2ZWExYmRlNzVlYWE2ODJjNGQ1MjQxNWRhZWVjYTE4OTBiMmQ1OTAifQ==
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJIGDtxN3fPK6NZBwkD7dl2SZm7kuDFDptw&usqp=CAU"group-title="ARGENTINA",PLAY MEDIOS TV
 https://iptv.streamhispanatv.net:2083/live/playgt/123456/87.m3u8
@@ -478,6 +475,7 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PUBLICA
+https://g2.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/.m3u8
 
 
