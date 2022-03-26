@@ -78,6 +78,11 @@ https://tvdatta.com:3602/stream/play.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXgdC5h23zXwbKUBrNP6I5BhzQ2fwvCHNLg&usqp=CAU"group-title="ARGENTINA", CARUCOLA TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKK77vOrOiKIzB9DjAY_co8pzN9RIiNcnDng&usqp=CAU"group-title="ARGENTINA",GARDENIAS TV
 https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
 
@@ -331,6 +336,17 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr-300x300-1525980274.jpg"group-title="ARGENTINA", MICROVISION HD
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://theitseries.com/wp-content/uploads/2020/10/Telenord-Canal-12-Live-TV-Channel-Dom-min.jpg"group-title="ARGENTINA", TELENORD 12
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w805979062.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -1174,6 +1190,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60dafb9a0df1ba00075
 
 
 
+#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/CINEMA-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg"group-title="ARGENTINA", CINEMA+
+https://hvtrafico.ddns.net:443/cinema720/cinema720.stream/chunklist_w1864655689.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/blog/wp-content/uploads/2020/08/ButacaTV-Blog_10.jpg"group-title="ARGENTINA", BUTACA TV
 https://veranda-butacatv-2-mx.samsung.wurl.tv:443/3000.m3u8
@@ -1566,44 +1587,8 @@ https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://vidatv.cl/img/logos/vidatv.png"group-title="ARGENTINA", VIDA TV
 https://player.netv.cl:443/vidatv/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCtm8HS7kXiteVNjkN3CF1BFldOxsYfnNyZg&usqp=CAU"group-title="ARGENTINA", RED UNO HD
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlGNbsgeDcDpHJN2R6jkr_s)/dm/3/x825whp/d/live-3.m3u8#cell=lnyc
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR6JepoqSKiZdZ2U-1yIf6Euj7tDHmt5GtWA&usqp=CAU"group-title="ARGENTINA", LTV CANAL
-https://medios.sirtel.cl/live/stream/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://theitseries.com/wp-content/uploads/2020/10/Telenord-Canal-12-Live-TV-Channel-Dom-min.jpg"group-title="ARGENTINA", TELENORD 12
-http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w805979062.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRacNZmWAO1a1GibMUgcrKdZ7LKEBzq4pyrQ&usqp=CAU"group-title="ARGENTINA",tluno
-https://5d16127744872.streamlock.net:443/TVUNO/TVUNO/chunklist_w1891698695.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXgdC5h23zXwbKUBrNP6I5BhzQ2fwvCHNLg&usqp=CAU"group-title="ARGENTINA", CARUCOLA TV
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 
 
@@ -1659,19 +1644,15 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?WebM3UCL
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/84/d9/5d/84d95d39c4f21d5774383f124b674ab5.jpg"group-title="ARGENTINA", MEGAVISIÓN
 https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/CINEMA-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg"group-title="ARGENTINA", CINEMA+
-https://hvtrafico.ddns.net:443/cinema720/cinema720.stream/chunklist_w1864655689.m3u8
- 
+
+
+
+
 
 
 
