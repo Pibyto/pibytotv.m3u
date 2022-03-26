@@ -117,6 +117,10 @@ https://cdn2.streamgato.us/ryetelevision/ryetelevision/playlist.m3u8
 https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7wO9e2y90oxpDLkDHcvDOmvD0jfQk1VFdw&usqp=CAU"group-title="ARGENTINA",RHEMA VISION
+https://stream.oursnetworktv.com:443/latin/rhema/chunklist_w1411865542.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/puntacanatv.jpg"group-title="ARGENTINA", PUNTA CANA TV
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
