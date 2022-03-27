@@ -254,6 +254,13 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3
 
 
 
+#EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.18169-9/29313713_1860551163979687_8526750755828156607_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=101&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeGk4O77DJRq4WdKhqIVusJsmelPMaVjT5aZ6U8xpWNPlpEkXgT2qNDsaD5Qs95_ISLEHboblvcWJgZA4BsLD85f&_nc_ohc=ggPZcXUZVFAAX_B6Dlb&_nc_ht=scontent.feze8-2.fna&oh=00_AT9uFl6e9Zqsz2awbwqwVZaWam2gWQINRaZ896hZcIvj_Q&oe=62655DA4"group-title="ARGENTINA",LIMALIVE
+https://stmv.panel.grupolimalive.com:443/limalive/limalive/chunklist_w113368657.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="ARGENTINA",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
