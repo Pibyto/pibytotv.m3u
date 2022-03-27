@@ -217,6 +217,11 @@ https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8
 https://srv2.zcast.com.br:443/carlos2469/carlos2469/chunklist_w332280446.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV66FkP0sE0y7cgUSsZOj-6xz07SvG3HkRYA&usqp=CAU"group-title="ARGENTINA",ASIRITV
+https://video2.lhdserver.es/asiritv/live.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="ARGENTINA",WOW TV
