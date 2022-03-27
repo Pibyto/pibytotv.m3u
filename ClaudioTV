@@ -1,4 +1,4 @@
-# ClaudioTV
+#ClaudioTV
 
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="ARGENTINA", PELÍCULAS MANIAS
@@ -227,6 +227,9 @@ https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png"group-title="ARGENTINA",PLANETA TV HD
 https://live.obslivestream.com/planetatvmux/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="ARGENTINA",PLANETA TV
+https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.misionvida.org/wp-content/themes/veraka_mv/mvtv/logos.jpg"group-title="ARGENTINA",MISION VIDA TV
