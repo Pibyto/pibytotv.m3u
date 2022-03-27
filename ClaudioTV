@@ -90,9 +90,14 @@ https://movil.ejeserver.com/live/verteve.m3u8
 https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.sumundotv.com/wp-content/uploads/2021/12/logosumundo2-1.png"group-title="ARGENTINA",SU MUNDO TV
-https://cdn1.streamgato.us/sumundotv/sumundotv.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sumundotv.com/wp-content/uploads/2021/12/logosumundo2-1.png"group-title="ARGENTINA",SU MUNDO TV FHD
+https://cdn1.streamgato.us:443/sumundotv/sumundotv.myStream/chunks.m3u8?nimblesessionid=22503
 
+
+
+
+#EXTINF:-1 tvg-logo="https://www.sumundotv.com/wp-content/uploads/2021/12/logosumundo2-1.png"group-title="ARGENTINA",SU MUNDO TV HD
+https://cdn1.streamgato.us/sumundotv/sumundotv.myStream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA", ALTAR TV
