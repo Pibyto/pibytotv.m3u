@@ -20,6 +20,18 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJo0tmmNiBHKf6GXvWrBTrsOsubXGNIPLpg&usqp=CAU"group-title="ARGENTINA",BELLA ABANQUINA TV
+https://v4.tustreaming.cl/bellatv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4s1YE3xLDZnc-2olPgvGD3eMDrX-vGkft7Q2anuiM0-obYpk9&s"group-title="ARGENTINA",TELECANAL 12
+https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="http://vidanuevatv.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-29-at-11.44.13-AM-1024x490.jpeg"group-title="ARGENTINA",VIDA NUEVA TV
 https://ss9.domint.net:3004/vntv_str/vidanuevatv/chunklist_w503323505.m3u8
 
@@ -275,9 +287,6 @@ https://srv2.zcast.com.br:443/carlos2469/carlos2469/chunklist_w332280446.m3u8
 https://video2.lhdserver.es/asiritv/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJo0tmmNiBHKf6GXvWrBTrsOsubXGNIPLpg&usqp=CAU"group-title="ARGENTINA",BELLA ABANQUINA TV
-https://v4.tustreaming.cl/bellatv/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnP2j-x2u4mzkTZ77VbBf8Ey12zEOh2_FUFA&usqp=CAU"group-title="ARGENTINA",ATV - AVIVA TV
 https://video.misistemareseller.com:443/atvhonduras/atvhonduras/chunklist_w1311516334.m3u8
@@ -291,11 +300,6 @@ https://5eff35271151c.streamlock.net:1936/8144/8144/chunklist_w1273720400.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAEZbpNJYF8k2IMyU7KIkmPyvfQGOCsewdw&usqp=CAU"group-title="ARGENTINA",CREO TV
 https://srv1.mediastreamperu.com:8081/creotv/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4s1YE3xLDZnc-2olPgvGD3eMDrX-vGkft7Q2anuiM0-obYpk9&s"group-title="ARGENTINA",CANAL 12
-https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
-
 
 
 
