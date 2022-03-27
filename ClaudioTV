@@ -859,21 +859,23 @@ http://heinentv.ddns.me:25461/Marzo2020/2020/22178
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL
+https://vsd132.mycdn.me:443/hls/1698824391191.m3u8/sig/74KWDypcW1E/expires/1648464183339/srcIp/186.132.112.238/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9-jEcpBnWC4pdEo3JPVIUitGLvfC-9hkUw&usqp=CAU"group-title="ARGENTINA",TU CINE FLIX HD 2
 http://heinentv.ddns.me:25461/Marzo2020/2020/22177
 
 
 
-#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL
-https://vsd88.mycdn.me/hls/1698824391191.m3u8/sig/tNH4IzOraQc/expires/1647982160426/srcIp/186.132.119.111/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/video.m3u8?p
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="CRISTIANO",TVR DIGITAL
-https://vsd88.mycdn.me/hls/1698824391191.m3u8/sig/tNH4IzOraQc/expires/1647982160426/srcIp/186.132.119.111/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/video.m3u8?p
+https://vsd132.mycdn.me:443/hls/1698824391191.m3u8/sig/74KWDypcW1E/expires/1648464183339/srcIp/186.132.112.238/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+
 
 
 
