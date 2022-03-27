@@ -107,6 +107,11 @@ https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
 http://186.121.206.197/live/daniel/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_2_logo.svg/1024px-Canal_2_logo.svg.png"group-title="ARGENTINA",CANAL 2
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/deltatv.jpg"group-title="ARGENTINA",DELTA TV
 https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
@@ -126,6 +131,13 @@ https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ctv.jpg"group-title="ARGENTINA",CTV EL CANAL DE TODOS
 https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=562&w=1024"group-title="ARGENTINA",ANIMAL LIVE
+https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c9537b8932c837b49397343/chunklist_w976943082.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f1286c84570675.5d60f8fcdcb48.jpg"group-title="ARGENTINA",MOUNTAIN LIVE
+https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397357/chunklist_w842084170.m3u8
 
 
 
