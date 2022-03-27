@@ -351,7 +351,8 @@ https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWF87u9p7dYcrU6gyeIiNkLKNS_r_vOmlQA&usqp=CAU"group-title="ARGENTINA",VISION NDV
-https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
+https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SeRL2NVnyJS_gGhZ9L6ZuTj9tNJW5iRLwA&usqp=CAU"group-title="ARGENTINA", VISIÓN PLUS TV
