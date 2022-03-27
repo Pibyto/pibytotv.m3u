@@ -754,7 +754,8 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 
 
 #EXTINF:-1 tvg-logo="https://energeek.cl/wp-content/uploads/2021/12/logo_psd.png"group-title="ARGENTINA", ENERGEEK 1
-http://186.121.206.197/live/daniel/index.m3u8
+https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
+
 
 
 
@@ -2079,7 +2080,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b87428fe37d8c
 
 
 #EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/aTKQODhpkACqERQaa8g0ZiNUvohJD0EKeNKXgAKnYftRSZr8ZhsUCioLhhbLOrnVg8DG3OC0EOue4r3jZ_UVPwFnSLrqWL8puvqf4_Woo3Y"group-title="CRISTIANO",LA LUZ TV
-http://186.121.206.197/live/daniel/index.m3u8
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+
 
 
 
