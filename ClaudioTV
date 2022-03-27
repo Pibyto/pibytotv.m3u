@@ -19,6 +19,10 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://vidanuevatv.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-29-at-11.44.13-AM-1024x490.jpeg"group-title="ARGENTINA",VIDA NUEVA TV
+https://ss9.domint.net:3004/vntv_str/vidanuevatv/chunklist_w503323505.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NmbZAZ4dllR4dWWa8YjJxjCWJxE-o7WcvA&usqp=CAU"group-title="ARGENTINA", MEGAVISIÓN 
 http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
@@ -2809,7 +2813,7 @@ http://heinentv.ddns.me:25461/movie/Marzo2020/2020/344.mkv
 
 
 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/85/Estaci%C3%B3nZombie-1.jpg/revision/latest?cb=20161211005626&path-prefix=es"group-title="PELICULAS", ESTACIÓN ZOMBIE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/85/Estaci%C3%B3nZombie-1.jpg/revision/latest?cb=20161211005626&path-prefix=es"group-title="PELICULAS", ESTACIÓN ZOMBIE
 http://heinentv.ddns.me:25461/movie/Marzo2020/2020/1087.mp4
 
 
