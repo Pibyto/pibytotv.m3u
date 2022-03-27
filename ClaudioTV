@@ -182,6 +182,9 @@ https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima76406530338.jpg"group-title="ARGENTINA",PALMERAS TV
+https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="ARGENTINA",3 PINAMAR
