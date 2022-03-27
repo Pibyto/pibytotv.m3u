@@ -43,6 +43,11 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-5AzIkjfiv5w/V14lxf-dyaI/AAAAAAAAAMA/m9JhxT5FuJUMsVzuV5-X3yanwISOIbGhACLcB/w260/9260892_logoalfa_omega_vision__1339128512%252C192x192%252Cr-1.jpg"group-title="ARGENTINA",ALFA&OMEGA VISION
+http://186.121.206.197/live/daniel/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="ARGENTINA", CANAL 34 HD 6.11 TDA
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
