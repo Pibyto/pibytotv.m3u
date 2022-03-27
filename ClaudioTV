@@ -112,6 +112,10 @@ https://video13.virtualtronics.com/streamer/canal2.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/BethelTV1998.png/revision/latest?cb=20210326224941&path-prefix=es"group-title="CRISTIANO",BHETEL TV
+https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/deltatv.jpg"group-title="ARGENTINA",DELTA TV
 https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
