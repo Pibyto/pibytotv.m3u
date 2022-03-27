@@ -61,6 +61,19 @@ https://servilive.com:3176/live/cineclublive.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="ARGENTINA",SAN ISIDRO TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-erEYEjfY5D4/XxJzoLIKDSI/AAAAAAAAKPw/qwFSg3B8iNg5B0TWxAhH8mfOk8W2P0lmACLcBGAsYHQ/s1600/telemilenio.png"group-title="ARGENTINA",TELEMILENIO TV
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/chunks.m3u8?nimblesessionid=156760444
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOwY1A-sA1J8U8Mkjs5sgVh28tkI2ibPDp0aLPO=w1080-h608-p-no-v0"group-title="ARGENTINA",TELERADIO NORTE TV
+https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_nk61Sz-_hjniOtp6lLrrQJmFdEeWO-pBQ&usqp=CAU"group-title="ARGENTINA",PLANEA TV
 https://stmv.panel.grupolimalive.com:443/planeatv/planeatv/chunklist_w1465381133.m3u8
