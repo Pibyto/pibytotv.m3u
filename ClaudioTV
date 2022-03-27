@@ -19,6 +19,11 @@ https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NmbZAZ4dllR4dWWa8YjJxjCWJxE-o7WcvA&usqp=CAU"group-title="ARGENTINA", MEGAVISIÓN CANAL 49
+http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png"group-title="ARGENTINA",CASCARA TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8 
