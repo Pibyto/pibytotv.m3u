@@ -229,6 +229,8 @@ https://live.obslivestream.com/planetatvmux/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.misionvida.org/wp-content/themes/veraka_mv/mvtv/logos.jpg"group-title="ARGENTINA",MISION VIDA TV
+https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
 
 
@@ -2080,12 +2082,13 @@ https://ss9.domint.net:3004/vntv_str/vidanuevatv/chunklist_w503323505.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://vidatv.cl/img/logos/vidatv.png"group-title="CRISTIANO", VIDA TV
+#EXTINF:-1 tvg-logo="https://vidatv.cl/img/logos/vidatv.png"group-title="CRISTIANO",VIDA TV
 https://player.netv.cl:443/vidatv/tracks-v1a1/mono.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://www.misionvida.org/wp-content/themes/veraka_mv/mvtv/logos.jpg"group-title="CRISTIANO",MISION VIDA TV
+https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
 
 
