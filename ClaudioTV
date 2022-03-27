@@ -221,6 +221,17 @@ https://srv2.zcast.com.br:443/carlos2469/carlos2469/chunklist_w332280446.m3u8
 https://video2.lhdserver.es/asiritv/live.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJo0tmmNiBHKf6GXvWrBTrsOsubXGNIPLpg&usqp=CAU"group-title="ARGENTINA",BELLA ABANQUINA TV
+https://v4.tustreaming.cl/bellatv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnP2j-x2u4mzkTZ77VbBf8Ey12zEOh2_FUFA&usqp=CAU"group-title="ARGENTINA",ATV - AVIVA TV
+https://video.misistemareseller.com:443/atvhonduras/atvhonduras/chunklist_w1311516334.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://autonomatv.cl/wp-content/uploads/2021/07/AUTONOMA-tv-1-ok-chico-2-272x147.png"group-title="ARGENTINA",AUTONOMA TV
+https://5eff35271151c.streamlock.net:1936/8144/8144/chunklist_w1273720400.m3u8
 
 
 
