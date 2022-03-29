@@ -124,16 +124,8 @@ https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.sumundotv.com/wp-content/uploads/2021/12/logosumundo2-1.png"group-title="ARGENTINA",SU MUNDO TV FHD
-https://cdn1.streamgato.us:443/sumundotv/sumundotv.myStream/chunks.m3u8?nimblesessionid=22503
+https://cdn1.streamgato.us:443/sumundotv/sumundotv.myStream/chunks.m3u8?nimblesessionid=31416
 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-erEYEjfY5D4/XxJzoLIKDSI/AAAAAAAAKPw/qwFSg3B8iNg5B0TWxAhH8mfOk8W2P0lmACLcBGAsYHQ/s1600/telemilenio.png"group-title="ARGENTINA",TELEMILENIO TV
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/chunks.m3u8?nimblesessionid=156760444
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOwY1A-sA1J8U8Mkjs5sgVh28tkI2ibPDp0aLPO=w1080-h608-p-no-v0"group-title="ARGENTINA",TELERADIO NORTE TV
-https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
 
 
 
