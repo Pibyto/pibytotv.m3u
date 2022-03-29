@@ -8,7 +8,32 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CooF0ZJURYXV56EhtUxHT4Rne0j
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/YnVlbmEudHZfc2NyZWVuXzBfMTU1NTAwOTI2NV8wNDk/screen-0.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA", BUENA TV
 https://cdn4.hostlagarto.com:8081/static/buenatv/playlist.m3u8?DVR
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQst6PWQZl8dljp1eAUwDbKJFidfK_vzGIwO_vlJqG4Njzb_yQ&s"group-title="ARGENTINA",ENNTIVISION
+https://cdn4.hostlagarto.com:8081/static/enntivisiontv/chunks.m3u8?DVR
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQSpEdhd8I37WtA6c2K4vuN2vSJKMWPt3oQ&usqp=CAU"group-title="ARGENTINA",LATINA TV INTERNACIONAL
+https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w517185414.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFDg6rj78Wram3JxH8JQwyQyensgsfIozOA&usqp=CAU"group-title="ARGENTINA", MONTECRISTO DIGITAL
+https://cloudflare.streamgato.us:3079/live/montecristidigitallive.m3u8?DVR
+
+
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/Claro-Vision-Dominicana.jpeg"group-title="ARGENTINA", CLARO TELEVISIÓN DOMINICANA
+https://cdn2.streamgato.us/%20ctvd/%20ctvd/playlist.m3u8?DVR
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="ARGENTINA",IU TV
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR
+
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/noticiashoraxhora.com/wp-content/uploads/2021/03/IMG-20211124-WA0128.jpg?resize=250%2C250&ssl=1&is-pending-load=1"group-title="ARGENTINA",HORA X HORA TV
+https://cdn2.streamgato.us:443/horaxhoratelevision/horaxhoratelevision/chunklist_w724427598.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="ARGENTINA",MEGA TV
 https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
@@ -21,6 +46,27 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_N9oMWZ_H0A/maxresdefault.jpg"group-title="ARGENTINA",DAJA TV
 https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/LOGO-TELEXIMA-2-copy.jpg"group-title="ARGENTINA", TELEXIMA
+https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGm1ekxJFoMG_smB-QnUYsgulm2K0Ltf6GQw&usqp=CAU"group-title="ARGENTINA",MERLA VISION TV
+https://cm.hostlagarto.com:4445/merlavision/merlavision.myStream/chunks.m3u8?nimblesessionid=158366680&DVR
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2135-294x165-FFFFFF.jpg"group-title="ARGENTINA",AGENDA 56TV
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8?DVR
+
+
+#EXTINF:-1 tvg-logo="https://lahoratv.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-29-at-11.44.12-AM-300x140.jpeg"group-title="ARGENTINA",LA HORA TV
+https://ss5.domint.net:3056/lhtv_str/lahoratv/chunklist_w1271299099.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.dtti.it/wp-content/uploads/2014/07/junior-tv.jpg"group-title="ARGENTINA", JUNIOR TECNOLOGÍA TV
+https://vsrv1.az-streamingserver.com:3772/live/juniorrodrigueztvlive.m3u8
 
 
 
