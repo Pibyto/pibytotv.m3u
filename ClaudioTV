@@ -36,6 +36,9 @@ https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-c-WycWEw_H4/XtwM659Hk6I/AAAAAAAAASw/4ftRzkVVr2INhSlklwgV8K4c-FajWgOeQCK4BGAYYCw/s400/PARA%2BLA%2BPAGINA.png"group-title="ARGENTINA",CROM TV
+https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJo0tmmNiBHKf6GXvWrBTrsOsubXGNIPLpg&usqp=CAU"group-title="ARGENTINA",BELLA ABANQUINA TV
 https://v4.tustreaming.cl/bellatv/index.m3u8
@@ -48,6 +51,15 @@ https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8?nimblesessionid=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4s1YE3xLDZnc-2olPgvGD3eMDrX-vGkft7Q2anuiM0-obYpk9&s"group-title="ARGENTINA",TELECANAL 12
 https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lahoratv.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-29-at-11.44.12-AM-300x140.jpeg"group-title="ARGENTINA",LA HORA TV
+https://ss5.domint.net:3056/lhtv_str/lahoratv/chunklist_w1271299099.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.dtti.it/wp-content/uploads/2014/07/junior-tv.jpg"group-title="ARGENTINA", JUNIOR TECNOLOGÍA TV
+https://vsrv1.az-streamingserver.com:3772/live/juniorrodrigueztvlive.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2FlH43M3O5ySAzltsmgCiUoVDyzyG79rEA&usqp=CAU"group-title="ARGENTINA",CGTN ESPAÑOL
