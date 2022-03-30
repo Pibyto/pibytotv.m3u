@@ -9,6 +9,11 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CooF0ZJURYXV56EhtUxHT4Rne0j
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="ARGENTINA",IU TV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/noticiashoraxhora.com/wp-content/uploads/2021/03/IMG-20211124-WA0128.jpg?resize=250%2C250&ssl=1&is-pending-load=1"group-title="ARGENTINA",HORA X HORA TV
+https://cdn2.streamgato.us:443/horaxhoratelevision/horaxhoratelevision/chunklist_w724427598.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="ARGENTINA", GDM
@@ -136,13 +141,6 @@ https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w160616
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFDg6rj78Wram3JxH8JQwyQyensgsfIozOA&usqp=CAU"group-title="ARGENTINA", MONTECRISTO DIGITAL
 https://cloudflare.streamgato.us:3079/live/montecristidigitallive.m3u8?DVR
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/noticiashoraxhora.com/wp-content/uploads/2021/03/IMG-20211124-WA0128.jpg?resize=250%2C250&ssl=1&is-pending-load=1"group-title="ARGENTINA",HORA X HORA TV
-https://cdn2.streamgato.us:443/horaxhoratelevision/horaxhoratelevision/chunklist_w724427598.m3u8
 
 
 
