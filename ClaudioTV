@@ -9,6 +9,11 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CocFU0dzSQIkbp7h1MIMASHc6vW
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_O_yDJ3BrVGVM7SY08qrsHI2FUHZYYqQg&usqp=CAU"group-title="ARGENTINA",E-TV
 https://59ce1298bfb98.streamlock.net:443/emprendetv/emprendetv/chunklist_w68446214.m3u8
 
+#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="ARGENTINA",VIDA Y BENDICION TV
+https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="ARGENTINA",IU TV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR
