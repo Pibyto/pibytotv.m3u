@@ -4,6 +4,12 @@
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="ARGENTINA", PELÍCULAS MANIAS
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CokFdaa7M_yjyyLt-NZi52bZyiZkGu74LlVIGqCl-CJR-wwZDcxqkbQ-XzOGer-8aE75Rk7BLkoVAmp83l8b1LDvFMH41FwUyCloo2lP4Vmrfg8xe00XrXp13vMx9XYrbEi3oT-KfGHQjd44FzM2mQCnjuzkDSb-jo91LiLV8E7XN1k-Ttij7ypwzNR5uR2E34GIYrBSj5r0Gm-AAV2u0j_50yuf1KAJpLkFDMnE6OuqUQ2SGdkKXGOTo6Zsez4R2Gb0wCQ0ondf1CpQMPj_1nLyaFtDD-RfaNAWiwYCFPwm59JyrYh-Uf-ykaQ0VLVSChXZpC8-MwXXm0MoMIncrpiCbgvXaKyCY71dl-VuSPbcMNKtysXRc1ngJBjMUw7is0eeaZ1b6KY2b1hzZdFWDvZXfq2m7DHKZBSkWXbamyK50lFsQchRq2msLItVn3pkCJ3wkHxCgpGWSBs2zfVheIURx77uvEyDo-IO2CtQyWxfxPCv6kJc5ehJaIVtdZ4BL5HO9TwdXKFlznNazS2cGk7CHIrs9Mgk5R9AgDz-qrdWYJuJL1U2vrmjfaaKbjLDPQZp5HHT47hWcILwWlLdK7fBNK5TyermoEbwV42I2QpSwN6PIafHBoPsk4QA0iqkWG8saqWxqkqUDiaLllEyKO3--osgxbRzZvwfG-SFGth0X6QX6ASgmUGWvxBBn23XgSBqt4_V4TSUeXpIhexNg6oHbBCRVrtwytQZyk6G9H-V5CnNmhQQaGJjvGwl4KERnnmYfvOEzVFQ-nSq_pZshqc_SNoOXG9MQcZpgavMAEMU96fb7KSB56eJKQX-N8weB5d3zcNuiEwrKynUyWAwlyCbYbH6EoZRnLDjhxoMpmeoSGI_u521umosIAEqCWV1LXdlc3QtMjCwAw.m3u8
 
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA",PLANETA TV MOVIE
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
 
 
@@ -14,8 +20,23 @@ https://59ce1298bfb98.streamlock.net:443/emprendetv/emprendetv/chunklist_w684462
 https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
  
 
+#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="ARGENTINA",PLANETA TV
+https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/u3293Ef0Nk4/mqdefault.jpg"group-title="ARGENTINA",NICAVISION CANAL 12
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="ARGENTINA",SAN ISIDRO TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.6435-9/87045777_108496130742919_4190421276549971968_n.png?stp=cp0_dst-png_p64x64&_nc_cat=105&ccb=1-5&_nc_sid=85a577&_nc_ohc=P8ml6fBzE2IAX-QiGN7&_nc_ht=scontent.feze8-2.fna&oh=00_AT8LCSIGRXohYD-333xTLImrjmK0fXgA73o5HfDfiwwxQQ&oe=626B625C"group-title="ARGENTINA",CR TELEVISIÓN
+https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="ARGENTINA",IU TV
@@ -69,9 +90,6 @@ https://cdn2.streamgato.us/%20ctvd/%20ctvd/playlist.m3u8?DVR
 
 
 
-#EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="ARGENTINA",SAN ISIDRO TV
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="ARGENTINA",MEGA TV
@@ -87,8 +105,6 @@ https://videohd.live:19360/8010/8010.m3u8
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
 
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
@@ -138,9 +154,6 @@ https://emisoras.hn:8081/cholutecatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tXAlGJ2CGUZa83ai_ZASZrU8wMktFAjTZw&usqp=CAU"group-title="ARGENTINA",CANAL 5 TV
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.6435-9/87045777_108496130742919_4190421276549971968_n.png?stp=cp0_dst-png_p64x64&_nc_cat=105&ccb=1-5&_nc_sid=85a577&_nc_ohc=P8ml6fBzE2IAX-QiGN7&_nc_ht=scontent.feze8-2.fna&oh=00_AT8LCSIGRXohYD-333xTLImrjmK0fXgA73o5HfDfiwwxQQ&oe=626B625C"group-title="ARGENTINA",CR TELEVISIÓN
-https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/600px-Repretel_4_logo.png"group-title="ARGENTINA",CANAL 4
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/playlist.m3u8
@@ -151,8 +164,6 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/playlist.m3
 https://master.tucableip.com//zoytv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/l5TQ4kty4pBR25QXvTcu5h8u5VCg2oLuVs8XksdSdC54uzdeosfQVGtcabnt3F9SBfw"group-title="ARGENTINA",AVC HD MONTE CASEROS
-https://tna5.bozztv.com/AVCHD/index.m3u8
 
 
 
@@ -272,10 +283,6 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://lahoratv.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-29-at-11.44.12-AM-300x140.jpeg"group-title="ARGENTINA",LA HORA TV
 https://ss5.domint.net:3056/lhtv_str/lahoratv/chunklist_w1271299099.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.dtti.it/wp-content/uploads/2014/07/junior-tv.jpg"group-title="ARGENTINA", JUNIOR TECNOLOGÍA TV
-https://vsrv1.az-streamingserver.com:3772/live/juniorrodrigueztvlive.m3u8
 
 
 
@@ -450,8 +457,6 @@ https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA",PLANETA TV MOVIE
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
 
 
@@ -464,8 +469,6 @@ https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/planetatvmux/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="ARGENTINA",PLANETA TV
-https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2426642494/Logo_Planeta_TV_Fondo__Neo__400x400.jpg"group-title="ARGENTINA",PLANETA TV
