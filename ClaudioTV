@@ -138,6 +138,12 @@ https://emisoras.hn:8081/cholutecatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tXAlGJ2CGUZa83ai_ZASZrU8wMktFAjTZw&usqp=CAU"group-title="ARGENTINA",CANAL 5 TV
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.6435-9/87045777_108496130742919_4190421276549971968_n.png?stp=cp0_dst-png_p64x64&_nc_cat=105&ccb=1-5&_nc_sid=85a577&_nc_ohc=P8ml6fBzE2IAX-QiGN7&_nc_ht=scontent.feze8-2.fna&oh=00_AT8LCSIGRXohYD-333xTLImrjmK0fXgA73o5HfDfiwwxQQ&oe=626B625C"group-title="ARGENTINA",CR TELEVISIÓN
+https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/600px-Repretel_4_logo.png"group-title="ARGENTINA",CANAL 4
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/playlist.m3u8
 
 
 
