@@ -106,6 +106,34 @@ https://stmv.panel.grupolimalive.com:443/planeatv/planeatv/chunklist_w1465381133
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296983/images/logod.jpg?t=158076"group-title="ARGENTINA",LA RUTA TV
+https://cdn7.streamgato.us:3654/live/larutatvlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/819297808108974080/fXHeD6eW_400x400.jpg"group-title="ARGENTINA",TITANICO TV
+https://cdn2.streamgato.us:443/titanicotv/titanicotv/chunklist_w1906236809.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t1.6435-9/90221063_111244067169336_2591407769747718144_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=106&ccb=1-5&_nc_sid=85a577&_nc_ohc=upnkke_YvoYAX9b-R9Y&_nc_ht=scontent.feze8-1.fna&oh=00_AT-vwlql8CVShvt7pGgaPAAbLV_Y1B4I9B0WchR3GU9adw&oe=626E758E"group-title="ARGENTINA",CLAROVISION TV
+https://cdn2.streamgato.us/clarovision/clarovision/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EikIb10XYAIH9L2?format=jpg&name=large"group-title="ARGENTINA", ALEGRANDO TV
+https://cdn2.streamgato.us:443/alegrandotv/alegrandotv/chunklist_w1578055650.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F51058f732854cb24408d1c6afce2a5260aaf019cc0f163d31871dca9289f42ca.png"group-title="ARGENTINA",ATV
+https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.hn504.net/img/tv/Choluteca-Tv.png"group-title="ARGENTINA",CHOLUTECA TV
+https://emisoras.hn:8081/cholutecatv/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tXAlGJ2CGUZa83ai_ZASZrU8wMktFAjTZw&usqp=CAU"group-title="ARGENTINA",CANAL 5 TV
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
