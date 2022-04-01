@@ -145,6 +145,25 @@ https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 https://master.tucableip.com//zoytv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/l5TQ4kty4pBR25QXvTcu5h8u5VCg2oLuVs8XksdSdC54uzdeosfQVGtcabnt3F9SBfw"group-title="ARGENTINA",AVC HD MONTE CASEROS
+https://tna5.bozztv.com/AVCHD/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png"group-title="ARGENTINA",ANDES TV
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrY14IzkBHTBEctUYibVwM_yE5Hug6tBtR2QhrWWfUDnqa4ks&s"group-title="ARGENTINA",SEOTV
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-novelas-bo.png"group-title="ARGENTINA",SEOTV NOVELAS
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png"group-title="ARGENTINA",MULTIVISION
 https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
