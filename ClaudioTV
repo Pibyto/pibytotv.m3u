@@ -12,6 +12,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRxYYfJ6z0RKXUD0yMjmNjsg0WKHKOGNtK1xVg8BA=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",UNIKA TV
 https://video.misistemareseller.com:443/unikatv/unikatv/chunklist_w1798679584.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"group-title="ARGENTINA",CINE FLIX HD 1
+http://heinentv.ddns.me:25461/Marzo2020/2020/22178
 
 
 #EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="ARGENTINA",SAN ISIDRO TV
