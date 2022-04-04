@@ -62,6 +62,9 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/640px-Caracol_Televisi%C3%B3n_logo.svg.png"group-title="ARGENTINA",CARACOL
+https://g2.fctelerium.com:999/hls/c1m28.m3u8?md5=QRR5Ypb_ohr_s5WXgS_jbw&expires=1649119792
+
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/pregotvyradio.com/wp-content/uploads/2021/10/LOGO-PREGO-TV.png?fit=897%2C495&ssl=1"group-title="ARGENTINA",PREGO TV
 https://cdn2.streamgato.us:443/pregotv/pregotv/chunklist_w1936102864.m3u8
