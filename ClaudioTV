@@ -110,6 +110,18 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/18
 
  
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrjBBS8fewJNctq04_Xezy1ecqgJNTwUzX0j5x2hodmGlSYA&s"group-title="ARGENTINA", ESTRELLA TV
+https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmt5wlt_My1P-ME5-We8qIWIvL0jER10UfQ&usqp=CAU"group-title="ARGENTINA",NITIDA TV
+https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://huachoperutv.com/wp-content/uploads/elementor/thumbs/logo-1-p9jhmvdhk8zb9sh9bguhzvez9j02ffphsqx3erjkuo.png"group-title="ARGENTINA",HUACHO TV
+https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8?WebM3UCL
+
+
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DocrCiBPYOOoeWmd0MY7yodjmNrC4l0Hg8w_9wuiKb2td4y3rxgpTyzBafTdeB6yhFI"group-title="ARGENTINA", VISION TV
