@@ -102,6 +102,20 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 http://g3.vxral-slo.transport.edge-access.net/b11/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9buKX_Bk04NMwVg0L90MZrn29ECgoG1KcXg&usqp=CAU"group-title="ARGENTINA", CANAL 8
+http://iptv.streamhispanatv.net:25461/playgt/123456/93
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DocrCiBPYOOoeWmd0MY7yodjmNrC4l0Hg8w_9wuiKb2td4y3rxgpTyzBafTdeB6yhFI"group-title="ARGENTINA", VISION TV
+http://iptv.streamhispanatv.net:25461/playgt/123456/7
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlhi7flbuPzurdjzk0yblzp4V-h8NLBszbNA&usqp=CAU"group-title="ARGENTINA",TELE ARTE
+http://iptv.streamhispanatv.net:25461/playgt/123456/35
+
+
 
 #EXTINF:-1 tvg-logo="https://scontent.feze7-2.fna.fbcdn.net/v/t39.30808-6/271183566_5684967441520252_8836397484052236485_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=111&ccb=1-5&_nc_sid=85a577&_nc_ohc=bc18UvWtEvgAX8xF_Z0&_nc_ht=scontent.feze7-2.fna&oh=00_AT-lKVC5AQ8b8oSdOPr7WIyNKovO222TtHB_sQg3kzYYeA&oe=6252F0A0"group-title="ARGENTINA",CANAL 100
 http://iptv.streamhispanatv.net:25461/playgt/123456/85
