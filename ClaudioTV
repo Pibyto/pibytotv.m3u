@@ -136,6 +136,24 @@ https://srv2.zcast.com.br:443/ciudadm/ciudadm/chunklist_w789627950.m3u8?WebM3UCL
 
 
 
+#EXTINF:-1 tvg-logo="https://sidi.tse.org.gt/catalogo/uploads/logos/57.JPG"group-title="ARGENTINA",NIM TV
+http://iptv.streamhispanatv.net:25461/playgt/123456/2
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQ5uO_nEoNUuo_B0JWyWrSxYTIPaI0LAHOw&usqp=CAU"group-title="ARGENTINA",TOTOVISION
+http://iptv.streamhispanatv.net:25461/playgt/123456/13
+
+
+
+
+#EXTINF:-1 tvg-logo="https://scontent.feze7-2.fna.fbcdn.net/v/t1.6435-9/94615598_237692577642802_882103948075335680_n.jpg?stp=cp0_dst-jpg_e15_p64x64_q65&_nc_cat=111&ccb=1-5&_nc_sid=85a577&_nc_ohc=qQ3lI5_J3ZgAX9L2XxW&_nc_ht=scontent.feze7-2.fna&oh=00_AT9W8KyjzrxFW3gOG5EleT2H19uw3LRwnWYZAMXms-AXhg&oe=6272A918"group-title="ARGENTINA",GUATV
+http://iptv.streamhispanatv.net:25461/playgt/123456/23
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc_tjkvFxMmOwbO-7Y3HlLz6NqcsjnviKGQw&usqp=CAU"group-title="ARGENTINA",TUNEVISION
+http://iptv.streamhispanatv.net:25461/playgt/123456/36
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA",MI TV FHD
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
