@@ -79,6 +79,12 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CooF0L7mhdkMIf8UJ77BYQD3_Rh
 
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKK77vOrOiKIzB9DjAY_co8pzN9RIiNcnDng&usqp=CAU"group-title="ARGENTINA",GTV
+https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/LOGO-TELEXIMA-2-copy.jpg"group-title="ARGENTINA", TELEXIMA
 https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
 
@@ -159,8 +165,6 @@ http://heinentv.ddns.me:25461/Marzo2020/2020/22178
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img1.freepng.es/20180606/cst/kisspng-hbo-television-cinemax-film-warner-one-5b1899d5df24c5.539393001528338901914.jpg"group-title="ARGENTINA",HBO 4K VOSE
-http://serverfulltop.com:80/jessica/jessica/255
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg"group-title="ARGENTINA", CIUDAD MÁGICA TV
@@ -188,6 +192,7 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/36
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA",MI TV FHD
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=278f424ae1d8fd1af0a6785558eb310b3f24f5fe4cad421079c510156b260500&exp=1649376050
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
 
 
@@ -628,10 +633,6 @@ https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbc
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXgdC5h23zXwbKUBrNP6I5BhzQ2fwvCHNLg&usqp=CAU"group-title="ARGENTINA", CARUCOLA TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKK77vOrOiKIzB9DjAY_co8pzN9RIiNcnDng&usqp=CAU"group-title="ARGENTINA",GARDENIAS TV
-https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
 
 
 
