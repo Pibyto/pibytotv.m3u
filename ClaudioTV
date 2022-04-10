@@ -3,8 +3,11 @@
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL
 https://vsd132.mycdn.me/hls/1698824391191.m3u8/sig/OaBU9kkgZl8/expires/1649708820718/srcIp/186.132.18.102/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/video.m3u8?p
-https://vsd132.mycdn.me:4
 
+
+#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="ARGENTINA",VIDA TV
+https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
+ 
 
 
 
@@ -73,6 +76,10 @@ https://stmvideo1.livecastv.com:443/canal6er/canal6er/chunklist_w1935082922.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCauDwYbCOLLXbKe3t--wB1eqEYKZLbY8LQ&usqp=CAU"group-title="ARGENTINA",CINCO TV TIGRE  30.1 TDA
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-5AzIkjfiv5w/V14lxf-dyaI/AAAAAAAAAMA/m9JhxT5FuJUMsVzuV5-X3yanwISOIbGhACLcB/w260/9260892_logoalfa_omega_vision__1339128512%252C192x192%252Cr-1.jpg"group-title="ARGENTINA",ALFA&OMEGA VISION
+https://srv.panelcast.net/aovision/aovision/playlist.m3u8
 
 
 
@@ -331,9 +338,6 @@ https://59ce1298bfb98.streamlock.net:443/emprendetv/emprendetv/chunklist_w684462
 
 
 
-#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="ARGENTINA",VIDA Y BENDICION TV
-https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
- 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="ARGENTINA",MEGA TV
@@ -697,13 +701,6 @@ https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOwY1A-sA1J8U8Mkjs5sgVh28tkI2ibPDp0aLPO=w1080-h608-p-no-v0"group-title="ARGENTINA",TELERADIO NORTE TV
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-5AzIkjfiv5w/V14lxf-dyaI/AAAAAAAAAMA/m9JhxT5FuJUMsVzuV5-X3yanwISOIbGhACLcB/w260/9260892_logoalfa_omega_vision__1339128512%252C192x192%252Cr-1.jpg"group-title="ARGENTINA",ALFA&OMEGA VISION
-https://srv.panelcast.net/aovision/aovision/playlist.m3u8
-http://186.121.206.197/live/daniel/index.m3u8
 
 
 
