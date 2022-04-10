@@ -55,7 +55,8 @@ https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/chunklis
 
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-6-Entre-Rios-TV-en-vivo-Online.png"group-title="ARGENTINA", CANAL 6 HD
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-6-Entre-Rios-TV-en-vivo-Online.png"group-title="ARGENTINA", CANAL 6 ER HD
+https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
 https://stmvideo1.livecastv.com:443/canal6er/canal6er/chunklist_w1935082922.m3u8?WebM3UCL
 
 
