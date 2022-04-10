@@ -21,9 +21,17 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Azteca_7_2014.svg/revision/latest/scale-to-width-down/200?cb=20210516042857&path-prefix=es"group-title="ARGENTINA", AZTECA 7
+http://heinentv.ddns.me:25461/Marzo2020/2020/2
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA", CANAL 32 SPTV HD
 https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Kr2rzwbQX87o_xcrxAHffDjZdpZ1d1Qrwg&usqp=CAU"group-title="ARGENTINA",IMAGEN TELEVISIÓN HD
+http://heinentv.ddns.me:25461/Marzo2020/2020/8
 
 
 
@@ -836,9 +844,6 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Kr2rzwbQX87o_xcrxAHffDjZdpZ1d1Qrwg&usqp=CAU"group-title="ARGENTINA",IMAGEN TELEVISIÓN HD
-http://heinentv.ddns.me:25461/Marzo2020/2020/8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLryznZSVvmuki7zQcJ7nfUic-Aym0SKXTbv3B20Bfua1zgwE&s"group-title="ARGENTINA",ANTARES TV
