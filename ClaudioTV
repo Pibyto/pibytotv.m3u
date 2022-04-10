@@ -3,6 +3,10 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA", ALTAR TV
+https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="ARGENTINA",9HD
 http://coninfo.net:1935/9linklive/live/playlist.m3u8
 
@@ -13,11 +17,28 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV HD 17.3 TDA
+https://videohd.live:19360/8010/8010.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA", CANAL 32 SPTV HD
+https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="ARGENTINA",CANAL 10 MDP.
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCauDwYbCOLLXbKe3t--wB1eqEYKZLbY8LQ&usqp=CAU"group-title="ARGENTINA",CINCO TV TIGRE  30.1 TDA
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="ARGENTINA", CANAL 34 HD 6.11 TDA
+http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
 
@@ -25,6 +46,13 @@ https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 http://heinentv.ddns.me:25461/Marzo2020/2020/3260
 
 
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="ARGENTINA",3 PINAMAR
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="ARGENTINA",CANAL 12 METRO TV
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",CANAL 7 JUJUY
@@ -65,6 +93,23 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w16645521
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="ARGENTINA", AMERICA HD  36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1w7tEcHXoZYs661t48QVRHh-sIaXmB0KsQ&usqp=CAU"group-title="ARGENTINA",MULTIVISION HD
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CANAL 4 JUJUY
+http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyYlJOaOPx8Hgs_wnk8-D4CEEzymXNtDdVA&usqp=CAU"group-title="ARGENTINA",CANAL 6 PLUS TV
+http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
+
+
 
 
 
@@ -110,10 +155,6 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/108
 https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA", CANAL 32 SPTV HD
-https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.18169-9/29313713_1860551163979687_8526750755828156607_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=101&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeGk4O77DJRq4WdKhqIVusJsmelPMaVjT5aZ6U8xpWNPlpEkXgT2qNDsaD5Qs95_ISLEHboblvcWJgZA4BsLD85f&_nc_ohc=ggPZcXUZVFAAX_B6Dlb&_nc_ht=scontent.feze8-2.fna&oh=00_AT9uFl6e9Zqsz2awbwqwVZaWam2gWQINRaZ896hZcIvj_Q&oe=62655DA4"group-title="ARGENTINA",LIMALIVE
 https://stmv.panel.grupolimalive.com:443/limalive/limalive/chunklist_w113368657.m3u8
@@ -131,8 +172,6 @@ https://cdn2.streamgato.us/%20ctvd/%20ctvd/playlist.m3u8?DVR
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="ARGENTINA",CANAL 12 METRO TV
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
 
 
@@ -171,9 +210,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://cdn2.streamgato.us:443/pregotv/pregotv/chunklist_w1936102864.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV HD 17.3 TDA
-https://videohd.live:19360/8010/8010.m3u8
 
 
 
@@ -247,9 +283,6 @@ https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 https://video.misistemareseller.com:443/unikatv/unikatv/chunklist_w1798679584.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="ARGENTINA", CANAL 34 HD 6.11 TDA
-http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9buKX_Bk04NMwVg0L90MZrn29ECgoG1KcXg&usqp=CAU"group-title="ARGENTINA", CANAL 8
@@ -330,8 +363,6 @@ https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6f
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCauDwYbCOLLXbKe3t--wB1eqEYKZLbY8LQ&usqp=CAU"group-title="ARGENTINA",CINCO TV TIGRE  30.1 TDA
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4s1YE3xLDZnc-2olPgvGD3eMDrX-vGkft7Q2anuiM0-obYpk9&s"group-title="ARGENTINA",TELECANAL 12
@@ -610,14 +641,6 @@ https://movil.ejeserver.com/live/verteve.m3u8
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA", ALTAR TV
-https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Izlr36vLmsz2GO6cE1Ml8JnbXUuQP9D3XDZ19ZmlFK32_K-NMLdEtdCoYA464whXuH4"group-title="ARGENTINA",RTV CANAL 19
 https://play.amelbasoluciones.co:3546/live/boliviaradiotvlive.m3u8
 
@@ -688,10 +711,6 @@ https://stream.oursnetworktv.com:443/latin/rhema/chunklist_w1411865542.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima76406530338.jpg"group-title="ARGENTINA",PALMERAS TV
 https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="ARGENTINA",3 PINAMAR
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 
 
@@ -912,25 +931,6 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/84/d9/5d/84d95d39c4f21d5774383f124b674ab5.jpg"group-title="ARGENTINA", MEGAVISIÓN
 https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1w7tEcHXoZYs661t48QVRHh-sIaXmB0KsQ&usqp=CAU"group-title="ARGENTINA",MULTIVISION HD
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CANAL 4 JUJUY
-http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyYlJOaOPx8Hgs_wnk8-D4CEEzymXNtDdVA&usqp=CAU"group-title="ARGENTINA",CANAL 6 PLUS TV
-http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
-
 
 
 
