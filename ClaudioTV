@@ -59,6 +59,12 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png"group-title="ARGENTINA",TELEF ROSARIGASARIO
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-b.m3u8?sd=10&rebase=on
+
+
+
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="ARGENTINA", CANAL 34 HD 6.11 TDA
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
@@ -147,6 +153,16 @@ http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyYlJOaOPx8Hgs_wnk8-D4CEEzymXNtDdVA&usqp=CAU"group-title="ARGENTINA",CANAL 6 PLUS TV
 http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/L1hl-IYd0fnnimNCYZDKO0hLOZgGPzRSXw29SWvAFk0-DCVMMBgwJ5DNqOLGK_660lty8K9cZA=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",SICARDITV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/213/923/png-transparent-milenio-television-television-high-definition-video-magazine-watch-tv-television-text-logo.png"group-title="ARGENTINA", MILENIUM TV
+https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
+
 
 
 
