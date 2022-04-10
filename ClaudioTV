@@ -1,6 +1,12 @@
 #ClaudioTV
 
 
+#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL
+https://vsd132.mycdn.me/hls/1698824391191.m3u8/sig/OaBU9kkgZl8/expires/1649708820718/srcIp/186.132.18.102/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/video.m3u8?p
+https://vsd132.mycdn.me:4
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA", ALTAR TV
@@ -52,6 +58,11 @@ http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.canal4eldorado.com/wp-content/uploads/2016/10/cropped-canal4-120.png?fit=512%2C512&ssl=1"group-title="ARGENTINA",CANAL 4
 https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/chunklist_w294949290.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="CRISTIANO",TVR DIGITAL
+https://vsd132.mycdn.me/hls/1698824391191.m3u8/sig/OaBU9kkgZl8/expires/1649708820718/srcIp/186.132.18.102/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/video.m3u8?p
+
 
 
 
@@ -1127,17 +1138,6 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvAEi19pgPEejgTHtkQp0MqeB2d
 https://tv.streamgt.tk:2083/live/tvgt/123456/23.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL
-https://vsd132.mycdn.me:443/hls/1698824391191.m3u8/sig/74KWDypcW1E/expires/1648464183339/srcIp/186.132.112.238/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="CRISTIANO",TVR DIGITAL
-https://vsd132.mycdn.me:443/hls/1698824391191.m3u8/sig/74KWDypcW1E/expires/1648464183339/srcIp/186.132.112.238/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
 
 
