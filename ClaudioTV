@@ -84,6 +84,17 @@ https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrjBBS8fewJNctq04_Xezy1ecqgJNTwUzX0j5x2hodmGlSYA&s"group-title="ARGENTINA", ESTRELLA TV
+https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="ARGENTINA",SAN ISIDRO TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_nk61Sz-_hjniOtp6lLrrQJmFdEeWO-pBQ&usqp=CAU"group-title="ARGENTINA",PLANEA TV
 https://stmv.panel.grupolimalive.com:443/planeatv/planeatv/chunklist_w1465381133.m3u8
 
@@ -135,6 +146,12 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CogFZ9byW_pivCh0ZFbwBnDVBuh
 
 #EXTINF:-1 tvg-logo="https://www.retvrd.com/wp-content/uploads/2022/02/cropped-LOGO.png"group-title="ARGENTINA",R&E TELEVISIÓN
 https://inliveserver.com:1936/8162/8162/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png"group-title="ARGENTINA",PLANETA TV FHD
+https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -232,10 +249,6 @@ https://video.misistemareseller.com:443/unikatv/unikatv/chunklist_w1798679584.m3
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.artear.com/assets/uploads/canales/ae6fb-ciudad-140x140.png"group-title="ARGENTINA",CIUDAD MAGAZINE HD
-http://g3.vxral-slo.transport.edge-access.net/b11/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9buKX_Bk04NMwVg0L90MZrn29ECgoG1KcXg&usqp=CAU"group-title="ARGENTINA", CANAL 8
 http://iptv.streamhispanatv.net:25461/playgt/123456/93
 
@@ -243,10 +256,6 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/93
 http://iptv.streamhispanatv.net:25461/playgt/123456/18
 
  
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrjBBS8fewJNctq04_Xezy1ecqgJNTwUzX0j5x2hodmGlSYA&s"group-title="ARGENTINA", ESTRELLA TV
-https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmt5wlt_My1P-ME5-We8qIWIvL0jER10UfQ&usqp=CAU"group-title="ARGENTINA",NITIDA TV
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?WebM3UCL
@@ -284,10 +293,6 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/88
 
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"group-title="ARGENTINA",CINE NETFLIX 1
 http://heinentv.ddns.me:25461/Marzo2020/2020/22178
-
-
-#EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="ARGENTINA",SAN ISIDRO TV
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
 
 
@@ -684,13 +689,6 @@ https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="ARGENTINA",3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png"group-title="ARGENTINA",PLANETA TV FHD
-https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 
 
 
