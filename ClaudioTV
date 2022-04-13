@@ -7,6 +7,9 @@ https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
  
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVMAX_logo.png/revision/latest/scale-to-width-down/262?cb=20220208160004&path-prefix=es"group-title="ARGENTINA",TVMAX HD
+https://bcovlive-a.akamaihd.net:443/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
 
 
 
@@ -113,6 +116,11 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",ZONDA TV 35.1 - SAN JUAN
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE
 http://heinentv.ddns.me:25461/Marzo2020/2020/3260
 
@@ -194,6 +202,28 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", TDC TV SANTA FE
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png"group-title="ARGENTINA", CANAL 9 MENDOZA
+https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w752832264.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA
+https://panel.dattalive.com/8012/8012/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2U_n3VA7ER4qT2FggFEBcCxr3srHZsxVJw&usqp=CAU"group-title="ARGENTINA", UNIFE TV 25.1
+https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Alfatv.png"group-title="ARGENTINA", ALFA TV
+https://byecableiptv.com:443/alfatv/alfatv.stream/chunklist_w1257975845.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CANAL 4 JUJUY
 http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 
@@ -238,6 +268,11 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CooFpqvaHjWKp4JIjJXoEyD6Ieu
 
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA",ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://reconlinebolivia.com/wp-content/uploads/2021/10/logo-slogan.png"group-title="ARGENTINA",REC ONLINE TV
+https://master.tucableip.com/reconline/live/video.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_N9oMWZ_H0A/maxresdefault.jpg"group-title="ARGENTINA",DAJA TV
@@ -558,9 +593,6 @@ https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w693779543.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",ZONDA TV 35.1 - SAN JUAN
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="ARGENTINA",WOW TV
@@ -584,12 +616,6 @@ https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"group-title="ARGENTINA",CINE NETFLIX 2
 http://heinentv.ddns.me:25461/Marzo2020/2020/22177
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/u3293Ef0Nk4/mqdefault.jpg"group-title="ARGENTINA",NICAVISION CANAL 12
-https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
 
 
 
@@ -701,11 +727,6 @@ https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w517185414.m3u8
 https://cloudflare.streamgato.us:3079/live/montecristidigitallive.m3u8?DVR
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGm1ekxJFoMG_smB-QnUYsgulm2K0Ltf6GQw&usqp=CAU"group-title="ARGENTINA",MERLA VISION TV
-https://cm.hostlagarto.com:4445/merlavision/merlavision.myStream/chunks.m3u8?nimblesessionid=158366680&DVR
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2135-294x165-FFFFFF.jpg"group-title="ARGENTINA",AGENDA 56TV
@@ -901,8 +922,6 @@ https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w974060221.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://reconlinebolivia.com/wp-content/uploads/2021/10/logo-slogan.png"group-title="ARGENTINA",REC ONLINE TV
-https://master.tucableip.com/reconline/live/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png"group-title="ARGENTINA",DIOS TE VE HD
@@ -953,28 +972,9 @@ https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b120000
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Canal_10_Nicaragua_1997.png/revision/latest/scale-to-width-down/2000?cb=20210530143729&path-prefix=es"group-title="ARGENTINA",CANAL 10
-https://ni-canal10-canal10-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ4MjM5MDIwLCJzZXNzaW9uIjoiMTg2LjEzMi42Mi4yMzYiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEzMi42Mi4yMzYiXX0sInNpZ25hdHVyZSI6IjU2ZWExYmRlNzVlYWE2ODJjNGQ1MjQxNWRhZWVjYTE4OTBiMmQ1OTAifQ==
-
 
 #EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy-290x166.jpg"group-title="ARGENTINA", UNICANAL HD 3.2 AIRE DIGITAL
 http://45.55.127.106/live/unicanal_mid.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e0/VTV-Honduras-logo-actual.png/revision/latest/scale-to-width-down/200?cb=20170617211843&path-prefix=es"group-title="ARGENTINA",V TV
-https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ4MzU3MDYzLCJzZXNzaW9uIjoiMTg2LjEzMi42Mi4yMzYiLCJ3aGl0ZWxpc3QiOlsiMTg2LjEzMi42Mi4yMzYiXX0sInNpZ25hdHVyZSI6ImI2YzgzMDkzOWRiMmIwMTZjODM2YjEyYjZlNWE4MzkzZGU3NTEwNDYifQ%3D%3D
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Telecadena7y42018.png"group-title="ARGENTINA",TELECADENA
-https://stream-03.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRHxEdf9UZofxwI7TcoU3N8E)/dm/3/x88jf6e/s/live-3.m3u8#cell=lnyc
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVMAX_logo.png/revision/latest/scale-to-width-down/262?cb=20220208160004&path-prefix=es"group-title="ARGENTINA",TVMAX HD
-https://bcovlive-a.akamaihd.net:443/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
-
 
 
 
@@ -1022,34 +1022,6 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?WebM3UCL
 https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", TDC TV SANTA FE
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png"group-title="ARGENTINA", CANAL 9 MENDOZA
-https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w752832264.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA
-https://panel.dattalive.com/8012/8012/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2U_n3VA7ER4qT2FggFEBcCxr3srHZsxVJw&usqp=CAU"group-title="ARGENTINA", UNIFE TV 25.1
-https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-p.m3u8?sd=10&rebase=on
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Alfatv.png"group-title="ARGENTINA", ALFA TV
-https://byecableiptv.com:443/alfatv/alfatv.stream/chunklist_w1257975845.m3u8
 
 
 
