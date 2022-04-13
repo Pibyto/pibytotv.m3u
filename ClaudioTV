@@ -91,6 +91,26 @@ https://vsd88.mycdn.me:443/hls/1698824391191.m3u8/sig/Fl9KGdJcCM4/expires/164988
 https://vsd132.mycdn.me/hls/1698824391191.m3u8/sig/OaBU9kkgZl8/expires/1649708820718/srcIp/186.132.18.102/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/video.m3u8?p
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1Djy6qdt91q7Nz8IOe0Wmi9E6mRLz59-Lg&usqp=CAU"group-title="ARGENTINA", CTV CORRIENTES
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES 
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00_ARTE_NUEVO.png"group-title="ARGENTINA",CANAL 21 HD MISIONES
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal_9_Litoral_logo_2021.png"group-title="ARGENTINA",CANAL 9 LITORAL ENTRE RIOS
+https://stream.arcast.live:443/ahora/ahora/chunklist_w66127673.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-6-Entre-Rios-TV-en-vivo-Online.png"group-title="ARGENTINA", CANAL 6 ER HD
@@ -1808,23 +1828,6 @@ http://pms-tv.online:25461/pmstvfree/listagratis/122
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1Djy6qdt91q7Nz8IOe0Wmi9E6mRLz59-Lg&usqp=CAU"group-title="ARGENTINA", CTV CORRIENTES
-https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES 
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00_ARTE_NUEVO.png"group-title="ARGENTINA",CANAL 21 HD MISIONES
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal_9_Litoral_logo_2021.png"group-title="ARGENTINA", CANAL 9 LITORAL
-https://stream.arcast.live:443/ahora/ahora/chunklist_w728312553.m3u8
 
 
 
