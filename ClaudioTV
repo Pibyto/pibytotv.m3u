@@ -49,6 +49,10 @@ https://streamconex.com:1936/telecondor/telecondor/playlist.m3u8?WebM3UCL
 
 
 
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E03AQGN5q0_5WSUiQ/profile-displayphoto-shrink_200_200/0/1560829639010?e=1655337600&v=beta&t=919T2jHhX7QV7K5aI8u998GWYhgtn-Bmo89pnjQlNBk"group-title="ARGENTINA",CANAL 6 MAR DEL PLATA
+https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/playlist.m3u8?WebM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Azteca_7_2014.svg/revision/latest/scale-to-width-down/200?cb=20210516042857&path-prefix=es"group-title="ARGENTINA", AZTECA 7
 http://heinentv.ddns.me:25461/Marzo2020/2020/2
 
