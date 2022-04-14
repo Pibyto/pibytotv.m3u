@@ -78,6 +78,11 @@ https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png"group-title="ARGENTINA",TELECINCO HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1483
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tputRy4YD-A/hqdefault.jpg"group-title="ARGENTINA",CANAL 4 HD
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?WebM3UCL
 
