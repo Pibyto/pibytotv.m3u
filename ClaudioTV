@@ -184,6 +184,19 @@ https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png"group-title="ARGENTINA",SNT HD
+https://systvplay.com:2083/Xk8FN23HueyY/vPazhRGq9Nxh/15611
+http://latinoamericatv.vip:8080/alberto12/alberto12/76419
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest?cb=20201020230413&path-prefix=es"group-title="ARGENTINA",PARAVISION
+https://systvplay.com:2083/Xk8FN23HueyY/vPazhRGq9Nxh/15614
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE 35.1 TDA
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/4524e63d-0c87-418f-8201-e6bd355ec349/5.m3u8
 
@@ -1086,10 +1099,6 @@ https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae0b9684ea37__838x390.jpg"group-title="ARGENTINA",ESPN 4K
 http://asd2.me:80/23luiz/luiz23/10048420
 
-
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png"group-title="ARGENTINA",SNT HD
-http://latinoamericatv.vip:8080/alberto12/alberto12/76419
 
 
 
