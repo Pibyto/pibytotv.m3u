@@ -44,6 +44,10 @@ https://videohd.live:19360/8010/8010.m3u8
 https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNRvPLrZZKw5euzhtTACiUZ3Hz4Jm-hZbkA&usqp=CAU"group-title="ARGENTINA",TELECONDOR
+https://streamconex.com:1936/telecondor/telecondor/playlist.m3u8?WebM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Azteca_7_2014.svg/revision/latest/scale-to-width-down/200?cb=20210516042857&path-prefix=es"group-title="ARGENTINA", AZTECA 7
 http://heinentv.ddns.me:25461/Marzo2020/2020/2
