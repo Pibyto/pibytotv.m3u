@@ -84,9 +84,9 @@ http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/files/image_449_220/uploads/2015/05/28/5fa2832bbc765.jpeg"group-title="ARGENTINA",MEGA HD
+http://hls.webredirect.org/jm3d/mp_4953.php/https://directo.atresmedia.com/cfe43e94ae9fd584512a70e6a1a7392ba2657321_1650004170/geomega/bitrate_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Kr2rzwbQX87o_xcrxAHffDjZdpZ1d1Qrwg&usqp=CAU"group-title="ARGENTINA",IMAGEN TELEVISIÓN HD
-http://heinentv.ddns.me:25461/Marzo2020/2020/8
 
 
 
