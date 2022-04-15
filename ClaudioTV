@@ -39,10 +39,17 @@ http://coninfo.net:1935/9linklive/live/playlist.m3u8
 https://inliveserver.com:1936/14044/14044/playlist.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="ARGENTINA",CANAL 10 MDP.
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png"group-title="ARGENTINA",EL TRECE FHD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest?cb=20201020230413&path-prefix=es"group-title="ARGENTINA",PARAVISION
+https://systvplay.com:2083/Xk8FN23HueyY/vPazhRGq9Nxh/15614
 
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA
@@ -84,19 +91,10 @@ http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/files/image_449_220/uploads/2015/05/28/5fa2832bbc765.jpeg"group-title="ARGENTINA",MEGA HD
-http://hls.webredirect.org/jm3d/mp_4953.php/https://directo.atresmedia.com/cfe43e94ae9fd584512a70e6a1a7392ba2657321_1650004170/geomega/bitrate_1.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ32g0YR_QkcRiiyjMK7FlJuT3GnLVh5tXSw&usqp=CAU"group-title="ARGENTINA",BLU HD 29.1 TDA
 https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="ARGENTINA",CANAL 10 MDP.
-https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
 
 
@@ -215,13 +213,6 @@ https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png"group-title="ARGENTINA",SNT HD
 https://systvplay.com:2083/Xk8FN23HueyY/vPazhRGq9Nxh/15611
 http://latinoamericatv.vip:8080/alberto12/alberto12/76419
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest?cb=20201020230413&path-prefix=es"group-title="ARGENTINA",PARAVISION
-https://systvplay.com:2083/Xk8FN23HueyY/vPazhRGq9Nxh/15614
-
-
-
 
 
 
