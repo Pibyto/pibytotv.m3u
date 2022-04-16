@@ -18,6 +18,9 @@ https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
  
 
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Disney%2B_white_logo.svg/revision/latest/scale-to-width-down/250?cb=20210613215039&path-prefix=es"group-title="ARGENTINA",CINE DISNEY+
+http://amper-tv-mx.club:25461/4diasfulltv/100conecciones/17104
+
 
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/colosaltv.png"group-title="ARGENTINA", COLOSAL TV
 https://5d16127744872.streamlock.net:443/COLOSAL/COLOSAL/chunklist_w1048192255.m3u8?WebM3UCL
