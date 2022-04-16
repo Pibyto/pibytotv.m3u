@@ -261,6 +261,8 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxd_f1YXd6T1HVT2VMPSFYmKsQJpT4q64f1Q&usqp=CAU"group-title="ARGENTINA",SOMOS LA PAMPA
+https://5975e06a1f292.streamlock.net:4443/somosnoticias/somosnoticias/chunklist_w423164225.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png"group-title="ARGENTINA",TELECINCO HD
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1483
