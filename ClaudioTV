@@ -85,6 +85,14 @@ https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 https://bcovlive-a.akamaihd.net:443/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png"group-title="ARGENTINA",UNO HD
+http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69250.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png"group-title="ARGENTINA",CARACOL FHD
+http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69252.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/04/64/37/77/360_F_464377776_4go2Oxndiken8T1BKA16LKCz4ah4BlX2.jpg"group-title="ARGENTINA",DMJ
 https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
 
