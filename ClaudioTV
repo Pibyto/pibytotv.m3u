@@ -114,6 +114,11 @@ https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbw2Tzm-fLT184UIkb72Yn__Fg2xOWM85KxQ&usqp=CAU"group-title="ARGENTINA",NUEVA FAMILIA TV
+http://iptv.streamhispanatv.net:25461/playgt/123456/106
+
+
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/DA2asU0w91KyOcHQWUFEtBECgv-NG1pUtRrWw78Negq5uH6gEeLaaxTJkxe8f9CNTDHZJHLfpJM=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",URANIO TV
 https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
