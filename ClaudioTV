@@ -35,6 +35,10 @@ https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
  
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK_Cn63dN18vD_g4RVPy_NLCF7j0rRUxZofQ&usqp=CAU"group-title="ARGENTINA", CANAL 36
+http://rtmp.info:8081/anexiontv/envivo/chunklist_w1084858600.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png" group-title="ARGENTINA", HBO
 https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
