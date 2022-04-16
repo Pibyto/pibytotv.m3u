@@ -44,6 +44,10 @@ http://rtmp.info:8081/anexiontv/envivo/chunklist_w1084858600.m3u8
 https://edge9-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLBSSWE48MSMKxLZCNZ0YEYupXxG8TNiK6w&usqp=CAU"group-title="ARGENTINA",CANAL EVELYN
+https://srv1.mediastreamperu.com:8081/8004/tracks-v1a1/mono.m3u8
+
+
 
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Disney%2B_white_logo.svg/revision/latest/scale-to-width-down/250?cb=20210613215039&path-prefix=es"group-title="ARGENTINA",CINE DISNEY+
@@ -60,6 +64,11 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrjBBS8fewJNctq04_Xezy1ecqgJNTwUzX0j5x2hodmGlSYA&s"group-title="ARGENTINA", ESTRELLA TV
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRibEPpv01xtDMPb5YfIficg3F9fVsu5sDzPw&usqp=CAU"group-title="ARGENTINA",CANAL 2 SAN ANTONIO
+https://unlimited1-us.dps.live:443/canal2/canal2.smil/canal2/livestream1/chunks.m3u8?nimblesessionid=35704216
+
 
 
 
@@ -142,6 +151,9 @@ https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="ARGENTINA",CANAL 12 METRO TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/TUTV_11_2014.png/1200px-TUTV_11_2014.png"group-title="ARGENTINA",CANAL TUTV
+https://paneltv.net:3978/hybrid/play.m3u8
 
 
 
