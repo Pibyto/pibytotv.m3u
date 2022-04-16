@@ -127,6 +127,15 @@ http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69252.m3u8
 https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="ARGENTINA",RTV CABLE JUJUY
+https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg"group-title="ARGENTINA", CIUDAD MÁGICA TV
 https://srv2.zcast.com.br:443/ciudadm/ciudadm/chunklist_w789627950.m3u8?WebM3UCL
 
@@ -1235,14 +1244,6 @@ https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.lagranja.tv/gallery_gen/a08851eaf2d8abd4a01558603ad6bdbd_470x475.82263814617.png"group-title="ARGENTINA", LA GRANJA TV
 https://5eae379fb77bb.streamlock.net:443/8126/8126/chunklist_w325188716.m3u8?WebM3UCL
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="ARGENTINA",RTV CABLE JUJUY
-https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
-
-
 
 
 
