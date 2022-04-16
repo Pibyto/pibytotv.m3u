@@ -14,6 +14,10 @@ https://5d16127744872.streamlock.net:443/COLOSAL/COLOSAL/chunklist_w1048192255.m
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCauDwYbCOLLXbKe3t--wB1eqEYKZLbY8LQ&usqp=CAU"group-title="ARGENTINA",CINCO TV TIGRE  30.1 TDA
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV HD 17.3 TDA
 https://videohd.live:19360/8010/8010.m3u8
@@ -49,6 +53,10 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1Djy6qdt91q7Nz8IOe0Wmi9E6mRLz59-Lg&usqp=CAU"group-title="ARGENTINA", CTV CORRIENTES
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVMAX_logo.png/revision/latest/scale-to-width-down/262?cb=20220208160004&path-prefix=es"group-title="ARGENTINA",TVMAX HD
 https://bcovlive-a.akamaihd.net:443/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
@@ -59,6 +67,11 @@ https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg"group-title="ARGENTINA", CIUDAD MÁGICA TV
 https://srv2.zcast.com.br:443/ciudadm/ciudadm/chunklist_w789627950.m3u8?WebM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrjBBS8fewJNctq04_Xezy1ecqgJNTwUzX0j5x2hodmGlSYA&s"group-title="ARGENTINA", ESTRELLA TV
+https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
 
 
 
@@ -141,8 +154,6 @@ https://vsd88.mycdn.me:443/hls/1698824391191.m3u8/sig/Fl9KGdJcCM4/expires/164988
 https://vsd132.mycdn.me/hls/1698824391191.m3u8/sig/OaBU9kkgZl8/expires/1649708820718/srcIp/186.132.18.102/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/video.m3u8?p
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1Djy6qdt91q7Nz8IOe0Wmi9E6mRLz59-Lg&usqp=CAU"group-title="ARGENTINA", CTV CORRIENTES
-https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
 
@@ -174,8 +185,6 @@ https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCauDwYbCOLLXbKe3t--wB1eqEYKZLbY8LQ&usqp=CAU"group-title="ARGENTINA",CINCO TV TIGRE  30.1 TDA
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-5AzIkjfiv5w/V14lxf-dyaI/AAAAAAAAAMA/m9JhxT5FuJUMsVzuV5-X3yanwISOIbGhACLcB/w260/9260892_logoalfa_omega_vision__1339128512%252C192x192%252Cr-1.jpg"group-title="ARGENTINA",ALFA&OMEGA VISION
@@ -429,10 +438,6 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"group-title="ARGENTINA",MEGA CINE TV
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrjBBS8fewJNctq04_Xezy1ecqgJNTwUzX0j5x2hodmGlSYA&s"group-title="ARGENTINA", ESTRELLA TV
-https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
 
 
 
