@@ -2,6 +2,20 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/dazn_1.png"group-title="ARGENTINA",DAZN1
+http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45872.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?ssl=1"group-title="ARGENTINA",DAZN3
+http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45940.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn4.png?ssl=1"group-title="ARGENTINA",DAZN4
+http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45941.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="ARGENTINA",SPACE HD
 http://gratis.shortgod.com/lala4q/tv5.php?c=499&f=.m3u8
@@ -36,6 +50,14 @@ http://gratis.shortgod.com/lala4q/tv5.php?c=495&f=.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.s123-cdn-static-d.com/uploads/5391386/normal_6105beb94ef13.png"group-title="ARGENTINA",CINE STARZ PLAY
 http://amper-tv-mx.club:25461/4diasfulltv/100conecciones/17103
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="ARGENTINA", MOVISTAR ACCIÓN HD
+http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45811.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://darktv.es/wp-content/uploads/2017/06/DarkEnOrange.jpg"group-title="ARGENTINA",DARK HD
+http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45817.m3u8
 
 
 
