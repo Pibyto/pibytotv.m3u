@@ -2,6 +2,17 @@
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.718406328_FoxSportsPremium.png.2d3118dc99043ec79eaff13b026c8953.png"group-title="ARGENTINA",FOX SPORTS PREMIUM
+https://edge-live32-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="ARGENTINA",TNT SPORTS HD
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/dazn_1.png"group-title="ARGENTINA",DAZN1
 http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45872.m3u8
 
