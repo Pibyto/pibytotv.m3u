@@ -41,6 +41,12 @@ http://gratis.shortgod.com/lala4q/tv5.php?c=499&f=.m3u8
 http://gratis.shortgod.com/lala4q/tv2.php?c=
 http://pms-tv.online:25461/pmstvfree/listagratis/16852
 
+
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png"group-title="ARGENTINA",ANTENA3
+http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45792.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Starz_Encore_Family.svg/1280px-Starz_Encore_Family.svg.png"group-title="ARGENTINA",STARZ ENCORE FAMILY
 http://gratis.shortgod.com/lala4q/tv5.php?c=684&f=.m3u8
 
