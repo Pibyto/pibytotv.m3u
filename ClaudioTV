@@ -17,8 +17,13 @@ https://edge-live32-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCO
 
 
 #EXTINF:-1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png"group-title="ARGENTINA",DIRECTV SPORTS
+http://gratis.shortgod.com/lala4q/tv5.php?c=259&f=.m3u8
 https://directvsports-live.akamaized.net/hls/live/2026717/DTVSAR/stream05/hdntl=exp=1650307141~acl=%2f*~data=hdntl~hmac=a9c91a1c8ed82e0e6f1c54d4f707cfe25111918e1fe1bf3f66cf2f26bc0c3d1b/streamPlaylist.m3u8?SBN
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg"group-title="ARGENTINA",DIRECTV SPORTS 2
+http://gratis.shortgod.com/lala4q/tv5.php?c=667&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/dazn_1.png"group-title="ARGENTINA",DAZN1
