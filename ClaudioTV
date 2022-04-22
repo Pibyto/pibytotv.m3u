@@ -15,60 +15,19 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sp
 https://edge-live32-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png"group-title="ARGENTINA",DIRECTV SPORTS
-http://gratis.shortgod.com/lala4q/tv5.php?c=259&f=.m3u8
-https://directvsports-live.akamaized.net/hls/live/2026717/DTVSAR/stream05/hdntl=exp=1650307141~acl=%2f*~data=hdntl~hmac=a9c91a1c8ed82e0e6f1c54d4f707cfe25111918e1fe1bf3f66cf2f26bc0c3d1b/streamPlaylist.m3u8?SBN
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg"group-title="ARGENTINA",DIRECTV SPORTS 2
-http://gratis.shortgod.com/lala4q/tv5.php?c=667&f=.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/dazn_1.png"group-title="ARGENTINA",DAZN1
-http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45872.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?ssl=1"group-title="ARGENTINA",DAZN3
-http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45940.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn4.png?ssl=1"group-title="ARGENTINA",DAZN4
-http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45941.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="ARGENTINA",SPACE HD
-http://gratis.shortgod.com/lala4q/tv5.php?c=499&f=.m3u8
 http://gratis.shortgod.com/lala4q/tv2.php?c=
 http://pms-tv.online:25461/pmstvfree/listagratis/16852
 
 
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png"group-title="ARGENTINA",ANTENA3
-http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45792.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Starz_Encore_Family.svg/1280px-Starz_Encore_Family.svg.png"group-title="ARGENTINA",STARZ ENCORE FAMILY
-http://gratis.shortgod.com/lala4q/tv5.php?c=684&f=.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz-encore-black.png"group-title="ARGENTINA",STARZ ENCORE BLACK
-http://gratis.shortgod.com/lala4q/tv5.php?c=683&f=.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png"group-title="ARGENTINA", CINEMAX HD
 http://gratis.shortgod.com/lala4q/tv5.php?c=638&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/381-3814419_watch-incredibles-2-online-watch-incredibles-2-online.png"group-title="ARGENTINA",MOVIEMAX HD
-http://gratis.shortgod.com/lala4q/tv5.php?c=678&f=.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lovingseries.files.wordpress.com/2016/01/showtime-logo.jpg"group-title="ARGENTINA",SHOWTIME HD
-http://gratis.shortgod.com/lala4q/tv5.php?c=679&f=.m3u8
 
 
 
@@ -84,9 +43,6 @@ http://amper-tv-mx.club:25461/4diasfulltv/100conecciones/17103
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="ARGENTINA", MOVISTAR ACCIÓN HD
 http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45811.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://darktv.es/wp-content/uploads/2017/06/DarkEnOrange.jpg"group-title="ARGENTINA",DARK HD
-http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45817.m3u8
 
 
 
@@ -146,28 +102,11 @@ https://srv1.mediastreamperu.com:8081/8004/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Disney%2B_white_logo.svg/revision/latest/scale-to-width-down/250?cb=20210613215039&path-prefix=es"group-title="ARGENTINA",CINE DISNEY+
-http://amper-tv-mx.club:25461/4diasfulltv/100conecciones/17104
-
 
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/colosaltv.png"group-title="ARGENTINA", COLOSAL TV
 https://5d16127744872.streamlock.net:443/COLOSAL/COLOSAL/chunklist_w1048192255.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Latina_TV_2019.svg/revision/latest/scale-to-width-down/200?cb=20210524150455&path-prefix=es"group-title="ARGENTINA", LATINA HD
-http://amper-tv-mx.club:25461/4diasfulltv/100conecciones/16729
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png"group-title="ARGENTINA",TELECINCO HD
-http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45795.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/436/514/png-transparent-lasexta-logo-la-sexta-hd-television-treking-television-angle-triangle.png"group-title="ARGENTINA",LA SEXTA
-http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45797.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.avpasion.com/wp-content/uploads/2021/07/todos-canales-TDT-07.jpg"group-title="ARGENTINA",TRECE TV
-http://live-31.spain.torofutbol.com:25461/live/iptvgratissss/SjZxIKYPtH/45801.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="ARGENTINA",3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
