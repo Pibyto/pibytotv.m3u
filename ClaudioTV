@@ -4,34 +4,42 @@
 
 
 #EXTINF:-1 tvg-logo="tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png"group-title="LIVE TV SD",HBO
+http://45.225.95.170:8000/play/a0k0/index.m3u8
 http://etvhome.com:25461/jose5/jose/22385
 
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png"group-title="LIVE TV SD",HBO2
+http://45.225.95.170:8000/play/a0k1/index.m3u8
 http://etvhome.com:25461/jose5/jose/22386
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="LIVE TV SD",HBO PLUS
+http://45.225.95.170:8000/play/a0pd/index.m3u8
 http://etvhome.com:25461/jose5/jose/22387
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFR9GxjZRONi0PrFshtU4QOAOJPFlDoOM7w&usqp=CAU"group-title="LIVE TV SD",HBO FAMILY
+http://45.225.95.170:8000/play/a0pb/index.m3u8
 http://etvhome.com:25461/jose5/jose/31027
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="LIVE TV SD",HBO MUNDI
+http://45.225.95.170:8000/play/a0oh/index.m3u8
 http://etvhome.com:25461/jose5/jose/34967
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="LIVE TV SD",HBO POP
+http://45.225.95.170:8000/play/a0pi/index.m3u8
 http://etvhome.com:25461/jose5/jose/34966
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title="LIVE TV SD",HBO SIGNATURE
+http://45.225.95.170:8000/play/a0pe/index.m3u8
 http://etvhome.com:25461/jose5/jose/48846
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSULdmSIL5Mf1psDICdNGc15uCHcaeKw-4JA&usqp=CAU"group-title="LIVE TV SD",HBO XTREME
+http://45.225.95.170:8000/play/a0pc/index.m3u8
 http://etvhome.com:25461/jose5/jose/28828
 
 
@@ -41,15 +49,18 @@ http://etvhome.com:25461/jose5/jose/127179
 
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="LIVE TV SD", GOLDEN
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="LIVE TV SD",GOLDEN
+http://gratis.shortgod.com/laspe930/tv4.php?c=202&f=.m3u8
 http://etvhome.com:25461/jose5/jose/13347
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="LIVE TV SD",GOLDEN PLUS
+http://gratis.shortgod.com/laspe930/tv4.php?c=73&f=.m3u8
 http://etvhome.com:25461/jose5/jose/37927
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="LIVE TV SD",GLDEN EDGE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="LIVE TV SD",GOLDEN EDGE
+http://gratis.shortgod.com/laspe930/tv4.php?c=74&f=.m3u8
 http://etvhome.com:25461/jose5/jose/13346
 
 
@@ -420,6 +431,7 @@ http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69250.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png"group-title="ARGENTINA",CARACOL FHD
+http://gratis.shortgod.com/laspe930/tv2.php?c=caracol
 http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69252.m3u8
 
 
