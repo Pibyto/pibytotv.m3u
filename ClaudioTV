@@ -23,7 +23,8 @@ http://etvhome.com:25461/jose5/jose/13779
 http://etvhome.com:25461/jose5/jose/72793
 https://edge-live32-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332"group-title="ARGENTINA", PÁNICO HD
+http://etvhome.com:25461/jose5/jose/59607
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="ARGENTINA",SPACE HD
@@ -32,6 +33,9 @@ http://gratis.shortgod.com/lala4q/tv2.php?c=
 http://pms-tv.online:25461/pmstvfree/listagratis/16852
 
 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es"group-title="ARGENTINA", CIUDAD MAGAZINE
+http://etvhome.com:25461/jose5/jose/63804
 
 
 
