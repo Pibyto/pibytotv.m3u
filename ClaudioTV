@@ -52,6 +52,11 @@ http://gratis.shortgod.com/lala4q/tv5.php?c=495&f=.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2021/01/D0A33E2B-94EF-4AA8-A9EE-DBAC941DA72E.jpeg"group-title="ARGENTINA",CINEMA MARVEL
+http://etvhome.com:25461/jose5/jose/63850
+
+
+
 #EXTINF:-1  tvg-logo="https://static.s123-cdn-static-d.com/uploads/5391386/normal_6105beb94ef13.png"group-title="ARGENTINA",CINE STARZ PLAY
 http://etvhome.com:25461/jose5/jose/145737
 http://amper-tv-mx.club:25461/4diasfulltv/100conecciones/17103
@@ -61,6 +66,20 @@ http://amper-tv-mx.club:25461/4diasfulltv/100conecciones/17103
 http://gratis.shortgod.com/laspe930/tves1.php?c=1094
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRqOrGdqRe7DtrRKMH4WKLuO08sLqodSpVA&usqp=CAU"group-title="ARGENTINA",EL TRECE
+http://etvhome.com:25461/jose5/jose/13327
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png"group-title="ARGENTINA",CANAL 4
+http://etvhome.com:25461/jose5/jose/89144
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Seotvprovincias.jpg"group-title="ARGENTINA",SEO TV HD
+http://etvhome.com:25461/jose5/jose/148322
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Telecinco.svg"group-title="ARGENTINA",TELECINCO HD
+http://etvhome.com:25461/jose5/jose/31831
 
 
 
