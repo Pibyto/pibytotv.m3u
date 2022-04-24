@@ -3,6 +3,13 @@
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="ARGENTINA", PELÍCULAS MANIAS
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoYFp3r0J53zgBwRC2-0l0V_6vsrw3weskGp9PsfR6SkiTYplSSjJQXgeWLIYW4rgjHKxpGgMEtUA0wwExkZ64kj4qNXrQsQETnp3YNbuqJixO8pRLOgLhEg2eJqfnWhsF_-V5xcNwUB9fcaItJOezx-gKYqSAolrqHzoC5D-hoWcKhSb-weLtZSF7YNKTsA7AWcE7VV7do89MuifjIdQJfw-ByCPmnOYk2V_0OY92yL37LZwnV3featyXKR_GMHPORnIBp4TpHg31WBpdfltgOIkj75apJbFvXKEiZ7JSgx-5NbTWzBurzp2VJFp37p8O4gzhV1YiyzLxuF5oiDhsBB_tBFBQDdln44KU9KhIK0VI-AssXiBgo3zDLHDxTaQJlcV7tLfH4GCAhUhOHpQApKY6w_nG1Sz5Ww6n6VJxrWks9YR4EdEAueoi4Dzl_fdEk_2Yj2BXHBNBNF_ZyfRW7OfaZoQsFOp9u9_669o_FOouQuNszWM7s7U92522uSFC6bL4P_VKxUNSvYRyibGPVovFwQ25Aivff2-XhihRlVGi4WBx4p4998hzXTtHlDnoQ2LwM0LngkqBAoy_6XL8PXVEfIak6wals_xAmMNbyzQnDgg8bBOzWlFmLKFRoaYPUEXNg-ybl_fTKar-MvGk31OFEThZTsg8SMUHlgNs4mgcd-dEOrx_PH7kgCpkbpyiaYPX612MJgH160QbIVQwaRJ_IxTTcrocXN8TgNwRz8OO7DuAHyzaUAvCJwETv8psQVDScnXraVGg-U58BI_mWfI93FILUfL6P5cfPSbcNmDB_r9swhpw-kfkDufJhyHtVoT7Ez2FRMt_cRlYAlPnB9cwuojVDXShoMl0LH9PB44k3IxXzPIAEqCWV1LXdlc3QtMjDHAw.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png"group-title="LIVE TV SD",HBO
 http://45.225.95.170:8000/play/a0k0/index.m3u8
 http://etvhome.com:25461/jose5/jose/22385
@@ -50,13 +57,10 @@ http://etvhome.com:25461/jose5/jose/127179
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="LIVE TV SD",GOLDEN
-http://etvhome.com:25461/jose5/jose/76125
-http://gratis.shortgod.com/laspe930/tv4.php?c=202&f=.m3u8
 http://etvhome.com:25461/jose5/jose/13347
-
+http://etvhome.com:25461/jose5/jose/76125
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="LIVE TV SD",GOLDEN PLUS
-http://etvhome.com:25461/jose5/jose/13348
 http://gratis.shortgod.com/laspe930/tv4.php?c=73&f=.m3u8
 http://etvhome.com:25461/jose5/jose/37927
 
@@ -130,8 +134,6 @@ http://etvhome.com:25461/jose5/jose/13384
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png"group-title="LIVE TV SD",DHE
-http://gratis.shortgod.com/laspe930/tv2.php?c=dhe
-http://gratis.shortgod.com/laspe930/tv2.php?c=dhe
 http://etvhome.com:25461/jose5/jose/31814
 
 
@@ -251,9 +253,6 @@ http://etvhome.com:25461/jose5/jose/89144
 http://etvhome.com:25461/jose5/jose/148322
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Telecinco.svg"group-title="ARGENTINA",TELECINCO HD
-http://etvhome.com:25461/jose5/jose/31831
-
 
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA
@@ -261,9 +260,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="ARGENTINA", PELÍCULAS MANIAS
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CooFI_i2wAKIJ77nyLiIhctEWWiBQjalLHpcSPDZgODQosIwMKfQAfiaMmlyWYM6VTFBXtBhGvVGcBHZk7wL1QJgnWBzK8RnWDvqnmVbCQrCkGI0mO5rkF83sQdDpbMdbLQ-3D-PstSQiea5kAeMWO_ZqbMIIIsL3Z-OdIf3o_jWmS1-4N3ztPEQDBH1m7EOCXgNU45vLcZ_38denG12GIrJ4HKZ0_UPU4Qpfm2kfmELBlfp52rMoB-Ad0aaJ7CnT88Id9e90OhmOJSRRvF6Hq5FfF8-Mwz0oyw39dpQemHUE7y7DlV8fGUQfSbTeVEthjaAt-UEq8dvJ4Se6chQ9_lv-rhztCptjBBfhAPuqyUQHz6S15RJLq8UbPucGBV7JECjHhAZCn3SeCFlheepVMy9X_nnulsGF5zsTzUTBzQZ0yfANOHSPNkqpUiGOOlRjDCgQ0AmoPKqtW70J4BANyLMVxKXMZz7qgisimZAB-ZgOTG_24Po8ndmW3fCOIJG1EIPQf2SR9BM_76XXPd79cmSyrRkU1qjUGof3JowP9-jm8C7vaQXGxRBawPBQJSa3PXNBWNF6PI1lI0KdAoH4ybMsNp_-JJwqhIYaGrKclp93SOWuy0AF3xjgpK5FVy4dfoB382qWY72drl71L2-w8JhMlql0OEv_bQSLg09BPXL6QqnA8X5cCh9dp-2VVydM59KoFH737p9VKQJkz-E_8ckoOAJJiTt_ushHahMrmcDWkHpSWO30Z9ieUTQlYqhkDLjhNnyetatLkdck5pO78IQ5N78HrNez_eBK4qm-bNo49L-rcTkGC7PGLXFt0H0RMfkRs6l9XSzXQtBLAlWjWuK628iJQJNpJqOVBEaDBaM5BQyydXI-mt3RiABKglldS13ZXN0LTIwxwM.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CosF3bT9135ztdGe1UeKpMcC5RAZufMx0-OEXjsm08yuwYJIp6Lbebf9PiZsydBAN2IvPpEahFckuzG2NSYJdsxPmDnsugHRCReote_3frjEIJg-x8u_kUkUBi0Ltyv7sNNTWHyGq6YVb8KVjLre5S5GxiLtF2adyq-AEYw_KBQHTEbQt4ZyVK1BVQvvyO0visxAzPj-FeR5IBR3iBs84ua2ItuMPEnptwDtrGyhMDbfBzkMFugm3fYKydqAzpVrca1gyrGzdqLwLz-QCfd-g6L0FR8aGVSNP2ByabVprs5mPFCwnfVroLoD-SBksjSvLTxKTUDS5DXPW2eYGGxl-C5eh7yxU3nbnfJkM8lQAH2SELLk6Kh53-lYeDpPudNm6cH2iZZ5Bh2q_ZNxS8_cJfmk6MV0W6MUC9XfFPdT_nZbqbGG2GYx0IScLWEHpFBdTIkOGQz1DWTIbsuQLRWiJutGxsdMjKqrzj5vnYL4H4iZIGvLlPouCdBGoBWIaEZXaXA2XdmHUU8FXstGD0tJjGJhUgYTr5Dn4ypnW7IA38nHuWPY1XfsvNFqQB9G8PQl_CflSfqdW3gMVUmFPgMB872t6Guun6lXYIkIzKle0CbKYxpqthXH-sVwvqKa37iTtxK1nntrV4O4bO38NkpW9K9vDq69urJ03_GySrhiRhVqE4c0hQIX_ZfLPmuhjFZhuZ0t00GyNCX4WP7VScT-O9bOMxdpbepvqubceDyVghWryx9HizVN1TmaY7q84pV2heFdiMo41hpTiclI67V1R0JxpWbaP1wmjVD_bLYm5K5yxFpaRUEbgMQKFSXz0k8qoI_E-fIPnxnq_canmUiu4zo2t4H9cavyV9SUc49bGgxJj7X_I_GbODunOo4gASoJZXUtd2VzdC0yML8D.m3u8
 
 
 
