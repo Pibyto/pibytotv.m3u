@@ -456,6 +456,8 @@ http://etvhome.com:25461/jose5/jose/13369
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png"group-title="LIVE TV SD",ESTUDIOS UNIVERSAL
+https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 http://etvhome.com:25461/jose5/jose/13356
 http://gratis.shortgod.com/laspe930/tv2.php?c=studiouniversal
 http://etvhome.com:25461/jose5/jose/13357
@@ -463,6 +465,7 @@ http://etvhome.com:25461/jose5/jose/13357
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbHqaCKE71WbUOuh2T91kqEor9y2GlWs87C1e_mBjVeYmBtI&s"group-title="LIVE TV SD",TNT
+https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 http://etvhome.com:25461/jose5/jose/13367
 http://gratis.shortgod.com/laspe930/tv2.php?c=tnt
 http://etvhome.com:25461/jose5/jose/13366
@@ -490,6 +493,7 @@ http://etvhome.com:25461/jose5/jose/31814
 
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png"group-title="LIVE TV SD",STAR CHANNEL
+https://cdn.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
 http://etvhome.com:25461/jose5/jose/13344
 http://gratis.shortgod.com/laspe930/tv2.php?c=starch
 http://etvhome.com:25461/jose5/jose/13392
@@ -508,6 +512,7 @@ http://etvhome.com:25461/jose5/jose/32789
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="LIVE TV SD",UNIVERSAL CHANNEL
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 http://etvhome.com:25461/jose5/jose/13364
 http://gratis.shortgod.com/laspe930/tv2.php?c=universal
 http://etvhome.com:25461/jose5/jose/13363
