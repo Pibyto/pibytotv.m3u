@@ -238,6 +238,12 @@ http://45.225.95.170:8000/play/a0oh/index.m3u8
 http://etvhome.com:25461/jose5/jose/34967
 
 
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="ARGENTINA", RUN:TIME MX
+https://ammo-espanol-plex.amagi.tv:443/playlistR1080p.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="LIVE TV SD",HBO POP
 https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 http://45.225.95.170:8000/play/a0pi/index.m3u8
@@ -2083,7 +2089,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf07
 
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="ARGENTINA", RUN:TIME MX
-https://runtime-espanol-roku.amagi.tv:443/playlistR1080p.m3u8
+https://ammo-espanol-plex.amagi.tv:443/playlistR1080p.m3u8
+
 
 
 
