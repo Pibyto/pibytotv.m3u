@@ -1,6 +1,12 @@
 #ClaudioTV
 
 
+
+#EXTINF:-1 tvg-logo="https://www.misionvida.org/wp-content/themes/veraka_mv/mvtv/logos.jpg"group-title="ARGENTINA",MISION VIDA TV
+https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png"group-title="ARGENTINA",TELEF ROSARIGASARIO
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-b.m3u8?sd=10&rebase=on
 
@@ -1374,10 +1380,6 @@ https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2426642494/Logo_Planeta_TV_Fondo__Neo__400x400.jpg"group-title="ARGENTINA",PLANETA TV
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvEEFm6UBcoxQ1zSOG0SrPVuqnfgYBwn2JZ0XjFWGPA2FR6SlZNIXCSWPMt55-F_c5T0BcRGWG2TR_OgIRANJGo9vxJN8Jq-N4ptz-vQ_QOxwSNjYOl-AJEkvYTwMIQcgltFJ8Mh4_VocVn_i6NjwIfbsEIBw75zO8gl3R3fII0u2jB4J9M8MpXIvaok3LiRJw7q5wX7WfGe0RG3ixk1EZIoQPYppgLjnlDrX1yUV0cx_gWB4QaiQV5ttFbIKUd-i-tv0ovlZpfuFDX6rS-jQp0QPLdawsRm8quJp6c-R4XdeGfnDMo63cRQd70P4slPOoRMUWrDBVFuaoWTijT3GR7uxAhkuyjydxxN_NJBB5jefCPezT9-gcb0k02yf0cMC6qfmV6FZhx_IPIUovpua292TtNZc1tLlUQU4S8SZrnznV_up5G2oX0sr9ny2PLE6memHytWRfWXApreJDywNy9IS4ayz3QRe0O8DLvLSq4bmtCb_psaUZpyiMdM67Pb2uh6feknQmV_UV2JdFglDr24fZltxNOaBUiVowJTDcI6YVKeHNQd6Tc3zMRK2OoarMeNs13CIaEUJ_OHMox_zXXgimCoZXHdYekNwHSBs0vuDg1kwer541xxsgVap3t1uz0823riA3RkFJqzLbfd5dUgT-kIkVTRjWQQPODDZL1Ym8XUtWLYaVa8PF3T1aLRvP2eK7Cop9O66Q1DyscNJD3Sulbhs_TuchyUJrdX31B2yMDY_tHaPK--DZ9z2yR9x-vyoMUpZv3Bd8Hi2Kjiec-i3q_gS_B1eyIJ7MKY4BL0yiO9YzJWJiqNhJPqyhdIL0dl2xoMcpcAYIqaE7lf_wwRIAEqCWV1LXdlc3QtMjCrAw.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://www.misionvida.org/wp-content/themes/veraka_mv/mvtv/logos.jpg"group-title="ARGENTINA",MISION VIDA TV
-https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
 
 
