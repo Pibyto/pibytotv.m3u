@@ -48,6 +48,22 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://x24.com.mx/ca3w/assets/img/logos/logo-x24-con-sombra.png"group-title="ARGENTINA", X24 HD
+https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",SOMOS DEL ESTE HD
+https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSje85UeM53ryOshSR3o7E5NyU0euKVAd-xqQ&usqp=CAU" group-title="ARGENTINA",FM SUPER CLASSIC
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="ARGENTINA",VALLEVISION HD
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA",ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
@@ -79,6 +95,16 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoUFLfZrkKHIUfvYm6hNtSpqAoT
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTIt5Hurz27ES-CuZvEqwGuenc5Y-cSlqew&usqp=CAU"group-title="ARGENTINA",PRESENCIA TELEVISION
 https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg"group-title="ARGENTINA",TELEMAX
+https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w693779543.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJIGDtxN3fPK6NZBwkD7dl2SZm7kuDFDptw&usqp=CAU"group-title="ARGENTINA",PLAY MEDIOS TV
+https://iptv.streamhispanatv.net:2083/live/playgt/123456/87.m3u8
 
 
 
@@ -1107,17 +1133,6 @@ https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 https://srv1.mediastreamperu.com:8081/creotv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg"group-title="ARGENTINA",TELEMAX
-https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w693779543.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoVLV3y8tx_6j51mAQMe8LeceblFCseQQk1g&usqp=CAU"group-title="ARGENTINA", AUTENTICA TV
 https://live.obslivestream.com:443/autenticatvmux/tracks-v1a1/mono.m3u8
@@ -1399,21 +1414,6 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3
 http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist_w365987513.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSje85UeM53ryOshSR3o7E5NyU0euKVAd-xqQ&usqp=CAU" group-title="ARGENTINA",FM SUPER CLASSIC
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",SOMOS DEL ESTE HD
-https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
-
-
-
-
-#EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="ARGENTINA",VALLEVISION HD
-http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SeRL2NVnyJS_gGhZ9L6ZuTj9tNJW5iRLwA&usqp=CAU"group-title="ARGENTINA", VISIÓN PLUS TV
 https://v2.tustreaming.cl:443/visionplustv/tracks-v1a1/mono.m3u8
@@ -1463,11 +1463,6 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 https://movil.ejeserver.com/live/visiondorada.m3u8?WebM3UCL
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJIGDtxN3fPK6NZBwkD7dl2SZm7kuDFDptw&usqp=CAU"group-title="ARGENTINA",PLAY MEDIOS TV
-https://iptv.streamhispanatv.net:2083/live/playgt/123456/87.m3u8
 
 
 
@@ -1611,9 +1606,6 @@ https://stream-03.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY9I54FuP0hCy2D2XSo
 
 
 
-
-#EXTINF:-1 tvg-logo="https://x24.com.mx/ca3w/assets/img/logos/logo-x24-con-sombra.png"group-title="ARGENTINA", X24 HD
-https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
 
 
