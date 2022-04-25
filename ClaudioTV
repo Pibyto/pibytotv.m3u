@@ -12,6 +12,11 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-b.m3u8?s
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telefe_Salta_%282018%29.png"group-title="ARGENTINA",TELEF
+https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1650904596~exp=1651080996~acl=/i/canal11salta_1@722934/*~hmac=bc1b990aca8651afb452311f9198ea360bbc6c50e2180cc8be617fa6a5ea4977
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="ARGENTINA",CANAL 10 MDP.
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
@@ -59,6 +64,27 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://x24.com.mx/ca3w/assets/img/logos/logo-x24-con-sombra.png"group-title="ARGENTINA", X24 HD
 https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="ARGENTINA",TOONCAST
+https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png"group-title="ARGENTINA", DISNEY CHANNEL
+https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/2000?cb=20210617173806&path-prefix=es"group-title="ARGENTINA",DIANEY JR
+https://cdn.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2021/12/logo-cartoonito-black.png"group-title="ARGENTINA",CARTOO-NITO
+https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180402/hpe/kisspng-cartoon-network-logo-television-show-ben-10-cartoon-network-5ac27ec8cacd51.4124730615226958808307.jpg"group-title="ARGENTINA",CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",SOMOS DEL ESTE HD
@@ -255,6 +281,15 @@ http://45.225.95.170:8000/play/a0pe/index.m3u8
 http://etvhome.com:25461/jose5/jose/48846
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/800px-Logo_Eurochannel.png"group-title="ARGENTINA",EURO CHANNEL
+https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.mercadonegro.pe/wp-content/uploads/2017/07/27012714/syfy_2017_logo.png"group-title="ARGENTINA",SYFY
+https://cdn.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSULdmSIL5Mf1psDICdNGc15uCHcaeKw-4JA&usqp=CAU"group-title="LIVE TV SD",HBO XTREME
 http://45.225.95.170:8000/play/a0pc/index.m3u8
 http://etvhome.com:25461/jose5/jose/28828
@@ -416,6 +451,28 @@ http://etvhome.com:25461/jose5/jose/76125
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png"group-title="ARGENTINA",TELECINCO HD
 http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1483
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png"group-title="ARGENTINA",A3SERIES HD
+http://hls.webredirect.org/jm3d/mp_4953.php/https://directo.atresmedia.com/c4cd3dae6625764c0f2c62f51d815065cf187ce6_1650926336/geoa3series/bitrate_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/2560px-Trece.svg.png"group-title="ARGENTINA",TRECE
+https://live-edge-lon-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png"group-title="ARGENTINA",LA SEXTA
+http://hls.webredirect.org/jm3d/mp_4953.php/https://directo.atresmedia.com/07eaa018aee111c3d91d7eb949a18a44e2503489_1650922730/lasexta/bitrate_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cuatro_logo.svg/1024px-Cuatro_logo.svg.png"group-title="ARGENTINA",CUATRO
+https://live.mitele.es:443/hls/live/2004102/cuatro/bitrate_4.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-Logo-2014.png"group-title="ARGENTINA",ANTENA3
+http://hls.webredirect.org/jm3d/mp_4953.php/https://directo.atresmedia.com/fbd3ce319c15e7b57c35c3d6f0413abfaa5a6b3f_1650931161/geoantena3/bitrate_1.m3u8
 
 
 
