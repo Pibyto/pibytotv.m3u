@@ -66,6 +66,14 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es"group-title="ARGENTINA",TVN HD
+https://bcovlive-a.akamaihd.net:443/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="ARGENTINA",13MAX
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1558367580.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="ARGENTINA",TOONCAST
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
@@ -159,6 +167,15 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCauDwYbCOLLXbKe3t--wB1eqEYKZLbY8LQ&usqp=CAU"group-title="ARGENTINA",CINCO TV TIGRE  30.1 TDA
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64UPlwR4MmmkqjiPYp1h4ry9F45c49kRzNMo4UCb5erbuncY&s"group-title="ARGENTINA",CANAL 41
+https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
+
+
+
 
 
 
@@ -274,6 +291,11 @@ https://ammo-espanol-plex.amagi.tv:443/playlistR1080p.m3u8
 https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 http://45.225.95.170:8000/play/a0pi/index.m3u8
 http://etvhome.com:25461/jose5/jose/34966
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2FlH43M3O5ySAzltsmgCiUoVDyzyG79rEA&usqp=CAU"group-title="ARGENTINA",CGTN ESPAÑOL
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title="LIVE TV SD",HBO SIGNATURE
@@ -1313,8 +1335,6 @@ https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2FlH43M3O5ySAzltsmgCiUoVDyzyG79rEA&usqp=CAU"group-title="ARGENTINA",CGTN ESPAÑOL
-https://livees.cgtn.com/1000e/prog_index.m3u8
 
 
 
@@ -1697,16 +1717,6 @@ https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.lagranja.tv/gallery_gen/a08851eaf2d8abd4a01558603ad6bdbd_470x475.82263814617.png"group-title="ARGENTINA", LA GRANJA TV
 https://5eae379fb77bb.streamlock.net:443/8126/8126/chunklist_w325188716.m3u8?WebM3UCL
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64UPlwR4MmmkqjiPYp1h4ry9F45c49kRzNMo4UCb5erbuncY&s"group-title="ARGENTINA",CANAL 41
-https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
-
-
-
-
 
 
 
