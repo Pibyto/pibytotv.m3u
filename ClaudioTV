@@ -26,11 +26,19 @@ https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/AR9nyvG5pV3jYk7fHMlUI4JQnC9rUH6ryOmmDC5n-wTEQ1_oEhdVVdYJjqpRyHO3YY8EVYKzBv3m7j4scgIdyWJe-m8yVOCReWhHwAKu"group-title="ARGENTINA",CANAL 10 SENILLOSA
+https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w559086041.m3u8 
+
+
+
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL
 https://vsd61.mycdn.me:443/hls/1698824391191.m3u8/sig/AcoB6npIXio/expires/1651095281200/srcIp/186.132.9.32/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 https://vsd132.mycdn.me:443/hls/1698824391191.m3u8/sig/c7C6j9Ri9h4/expires/1650984567992/srcIp/186.132.9.32/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg"group-title="ARGENTINA", CIUDAD MÁGICA TV
+https://srv2.zcast.com.br:443/ciudadm/ciudadm/chunklist_w789627950.m3u8?WebM3UCL
 
 
 
@@ -880,12 +888,6 @@ https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg"group-title="ARGENTINA", CIUDAD MÁGICA TV
-https://srv2.zcast.com.br:443/ciudadm/ciudadm/chunklist_w789627950.m3u8?WebM3UCL
-
-
-
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA", ALTAR TV
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
@@ -902,10 +904,6 @@ https://inliveserver.com:1936/14044/14044/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg"group-title="ARGENTINA",CANAL 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/AR9nyvG5pV3jYk7fHMlUI4JQnC9rUH6ryOmmDC5n-wTEQ1_oEhdVVdYJjqpRyHO3YY8EVYKzBv3m7j4scgIdyWJe-m8yVOCReWhHwAKu"group-title="ARGENTINA",CANAL 10 SENILLOSA
-https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w559086041.m3u8 
 
 
 
