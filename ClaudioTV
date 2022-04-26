@@ -2,6 +2,11 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="ARGENTINA",VIDA Y BENDICION TV
+https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.misionvida.org/wp-content/themes/veraka_mv/mvtv/logos.jpg"group-title="ARGENTINA",MISION VIDA TV
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
@@ -58,8 +63,41 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w16645521
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1Djy6qdt91q7Nz8IOe0Wmi9E6mRLz59-Lg&usqp=CAU"group-title="ARGENTINA", CTV CORRIENTES
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVMAX_logo.png/revision/latest/scale-to-width-down/262?cb=20220208160004&path-prefix=es"group-title="ARGENTINA",TVMAX HD
+https://bcovlive-a.akamaihd.net:443/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-c-WycWEw_H4/XtwM659Hk6I/AAAAAAAAASw/4ftRzkVVr2INhSlklwgV8K4c-FajWgOeQCK4BGAYYCw/s400/PARA%2BLA%2BPAGINA.png"group-title="ARGENTINA",CROM TV
+https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1w7tEcHXoZYs661t48QVRHh-sIaXmB0KsQ&usqp=CAU"group-title="ARGENTINA",MULTIVISION HD
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLBSSWE48MSMKxLZCNZ0YEYupXxG8TNiK6w&usqp=CAU"group-title="ARGENTINA",CANAL EVELYN
+https://srv1.mediastreamperu.com:8081/8004/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/colosaltv.png"group-title="ARGENTINA", COLOSAL TV
+https://5d16127744872.streamlock.net:443/COLOSAL/COLOSAL/chunklist_w1048192255.m3u8?WebM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="ARGENTINA",3 PINAMAR
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrjBBS8fewJNctq04_Xezy1ecqgJNTwUzX0j5x2hodmGlSYA&s"group-title="ARGENTINA", ESTRELLA TV
+https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
+
 
 
 
@@ -151,10 +189,6 @@ https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w693779543.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJIGDtxN3fPK6NZBwkD7dl2SZm7kuDFDptw&usqp=CAU"group-title="ARGENTINA",PLAY MEDIOS TV
 https://iptv.streamhispanatv.net:2083/live/playgt/123456/87.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="ARGENTINA",VIDA Y BENDICION TV
-https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 
 
 
@@ -748,31 +782,6 @@ http://gratis.shortgod.com/lala4q/tv5.php?c=655&f=.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLBSSWE48MSMKxLZCNZ0YEYupXxG8TNiK6w&usqp=CAU"group-title="ARGENTINA",CANAL EVELYN
-https://srv1.mediastreamperu.com:8081/8004/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.parsatv.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/colosaltv.png"group-title="ARGENTINA", COLOSAL TV
-https://5d16127744872.streamlock.net:443/COLOSAL/COLOSAL/chunklist_w1048192255.m3u8?WebM3UCL
-
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="ARGENTINA",3 PINAMAR
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrjBBS8fewJNctq04_Xezy1ecqgJNTwUzX0j5x2hodmGlSYA&s"group-title="ARGENTINA", ESTRELLA TV
-https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="ARGENTINA",CINE SONY
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
@@ -847,12 +856,7 @@ https://s1.tvdatta.com:3707/live/redtvelive.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1Djy6qdt91q7Nz8IOe0Wmi9E6mRLz59-Lg&usqp=CAU"group-title="ARGENTINA", CTV CORRIENTES
-https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVMAX_logo.png/revision/latest/scale-to-width-down/262?cb=20220208160004&path-prefix=es"group-title="ARGENTINA",TVMAX HD
-https://bcovlive-a.akamaihd.net:443/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png"group-title="ARGENTINA",UNO HD
@@ -1370,12 +1374,6 @@ https://cloudflare.streamgato.us:3079/live/montecristidigitallive.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2135-294x165-FFFFFF.jpg"group-title="ARGENTINA",AGENDA 56TV
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8?DVR
-
-
-
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-c-WycWEw_H4/XtwM659Hk6I/AAAAAAAAASw/4ftRzkVVr2INhSlklwgV8K4c-FajWgOeQCK4BGAYYCw/s400/PARA%2BLA%2BPAGINA.png"group-title="ARGENTINA",CROM TV
-https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 
 
 
