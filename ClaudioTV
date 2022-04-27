@@ -45,6 +45,11 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sp
 
 
 
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae0b9684ea37__838x390.jpg"group-title="ARGENTINA",ESPN 4K
+http://asd2.me:80/23luiz/luiz23/10048420
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRqOrGdqRe7DtrRKMH4WKLuO08sLqodSpVA&usqp=CAU"group-title="ARGENTINA",EL TRECE
 http://etvhome.com:25461/jose5/jose/13327
 
@@ -1622,13 +1627,6 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/84/d9/5d/84d95d39c4f21d5774383f124b674ab5.jpg"group-title="ARGENTINA", MEGAVISIÓN
 https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae0b9684ea37__838x390.jpg"group-title="ARGENTINA",ESPN 4K
-http://asd2.me:80/23luiz/luiz23/10048420
 
 
 
