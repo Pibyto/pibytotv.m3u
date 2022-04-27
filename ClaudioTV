@@ -102,6 +102,8 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PU HD
 https://g1.vxral-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Acequia-TV-en-vivo-Online.png"group-title="ARGENTINA",ACEQUIA TV
+http://playback2.akamaized.net/streams/6450028_5813077_lsicp8th7wsdrum7zn1_1/exp=1651186399~acl=%2f*~data=hdntl~hmac=f1f3e997a45e29dea8b3643d08e294b51da2434077e40c284c713c724f8e0995/media/6450028_5813077_lsicp8th7wsdrum7zn1_1@2320000p.m3u8?dw=32&ts=1651096800
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png"group-title="ARGENTINA",CRÓNICA HD
@@ -118,12 +120,26 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w16645521
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://arteysociedad.com.ar/wp-content/uploads/2020/10/IP.jpg"group-title="ARGENTINA",IP HD
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png"group-title="ARGENTINA",TELEMAX HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png"group-title="ARGENTINA", CANAL ENCUENTRO  22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1Djy6qdt91q7Nz8IOe0Wmi9E6mRLz59-Lg&usqp=CAU"group-title="ARGENTINA", CTV CORRIENTES
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.6435-1/175906319_1295101140885738_6957459900438270003_n.jpg?stp=cp0_dst-jpg_e15_p480x480_q65&_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=d0s40yZ1xt0AX9tY-WK&_nc_ht=scontent.feze8-2.fna&oh=00_AT_-2a9YsabqHtJH7wtqLCIugHJ2tgqfIMYDGtf69ewIwg&oe=62915028"group-title="ARGENTINA",CANAL 5 DEL PUEBLO
+https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVMAX_logo.png/revision/latest/scale-to-width-down/262?cb=20220208160004&path-prefix=es"group-title="ARGENTINA",TVMAX HD
