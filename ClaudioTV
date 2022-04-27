@@ -62,6 +62,10 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8?SBN
 http://asd2.me:80/23luiz/luiz23/10048420
 
 
+#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png"group-title="ARGENTINA",Bein sport Xtra ñ
+https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYiMJ3je9gjQdMWGCkDov5AY9dxtYFvCmKA&usqp=CAU"group-title="ARGENTINA",BEINSPORTS
 http://s2.famousiptv.com:8080/leroy21/leroy22/73132
@@ -2529,8 +2533,6 @@ http://s2.famousiptv.com:8080/leroy21/leroy22/73136
 
 
 
-#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png"group-title="DEPORTES",Bein sport Xtra ñ
-https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png"group-title="DEPORTES",BEINSPORTS 1 PREMIUM
