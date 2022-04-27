@@ -71,6 +71,10 @@ https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 http://s2.famousiptv.com:8080/leroy21/leroy22/73132
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/82/28/df/8228df5bdbf40ea108fc263679549962.jpg"group-title="ARGENTINA",COMBATE UFC
+http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16703
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRqOrGdqRe7DtrRKMH4WKLuO08sLqodSpVA&usqp=CAU"group-title="ARGENTINA",EL TRECE
 http://etvhome.com:25461/jose5/jose/13327
