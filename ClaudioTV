@@ -609,16 +609,19 @@ https://live-edge-lon-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png"group-title="ARGENTINA",LA SEXTA
+http://hls.webredirect.org/jm3d/mp_4953.php/https://directo.atresmedia.com/51239c06efb7f66e6f58a182de37c621a1aba4d9_1651116519/lasexta/bitrate_1.m3u8
 http://hls.webredirect.org/jm3d/mp_4953.php/https://directo.atresmedia.com/07eaa018aee111c3d91d7eb949a18a44e2503489_1650922730/lasexta/bitrate_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cuatro_logo.svg/1024px-Cuatro_logo.svg.png"group-title="ARGENTINA",CUATRO
+https://live.mitele.es:443/hls/live/2004102/cuatro/bitrate_4.m3u8
 https://live.mitele.es:443/hls/live/2004102/cuatro/bitrate_4.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-Logo-2014.png"group-title="ARGENTINA",ANTENA3
+http://hls.webredirect.org/jm3d/mp_4953.php/https://directo.atresmedia.com/b6547701b8c7bf7fcfd751567eb8a99e67786ff0_1651126032/geoantena3/bitrate_1.m3u8
 http://hls.webredirect.org/jm3d/mp_4953.php/https://directo.atresmedia.com/fbd3ce319c15e7b57c35c3d6f0413abfaa5a6b3f_1650931161/geoantena3/bitrate_1.m3u8
 
 
