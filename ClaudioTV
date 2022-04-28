@@ -138,6 +138,17 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1Djy6qdt91q7Nz8IOe0Wmi9E6mRLz59-Lg&usqp=CAU"group-title="ARGENTINA", CTV CORRIENTES
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvNKsDUxzbanAofYubP0y5AoiN-MkgsWoHUl6nnMFpZT2rWF5&s"group-title="ARGENTINA",LATELE
+https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=39b6f759e5c524b9e237a3a1280f8b1397419b6136d78d1ce919e77b6c2ac954&exp=1651105992
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"group-title="ARGENTINA", TELEFUTURO HD
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=bd8573214ac07162dbe855fcc46a41f80c283884be5157423dc20c3c72ed0c4c&exp=1651105660
+
+
+
+
 #EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.6435-1/175906319_1295101140885738_6957459900438270003_n.jpg?stp=cp0_dst-jpg_e15_p480x480_q65&_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=d0s40yZ1xt0AX9tY-WK&_nc_ht=scontent.feze8-2.fna&oh=00_AT_-2a9YsabqHtJH7wtqLCIugHJ2tgqfIMYDGtf69ewIwg&oe=62915028"group-title="ARGENTINA",CANAL 5 DEL PUEBLO
 https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 
