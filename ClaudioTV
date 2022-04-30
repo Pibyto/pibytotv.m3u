@@ -167,6 +167,16 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA",MI TV FHD
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=278f424ae1d8fd1af0a6785558eb310b3f24f5fe4cad421079c510156b260500&exp=1649376050
+https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
+
+
+
+
+#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",SOMOS DEL ESTE HD
+https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"group-title="ARGENTINA", TELEFUTURO HD
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45695
@@ -181,27 +191,25 @@ http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45709
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.6435-1/175906319_1295101140885738_6957459900438270003_n.jpg?stp=cp0_dst-jpg_e15_p480x480_q65&_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=d0s40yZ1xt0AX9tY-WK&_nc_ht=scontent.feze8-2.fna&oh=00_AT_-2a9YsabqHtJH7wtqLCIugHJ2tgqfIMYDGtf69ewIwg&oe=62915028"group-title="ARGENTINA",CANAL 5 DEL PUEBLO
 https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141202870/original/ae09fc3b1c7ab7c70779cda421d2fddd9329c56a/get-your-music-video-on-vevo.jpg"group-title="ARGENTINA",VEVO - 2K
+#EXTINF:-1 tvg-logo="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141202870/original/ae09fc3b1c7ab7c70779cda421d2fddd9329c56a/get-your-music-video-on-vevo.jpg"group-title="ARGENTINA",VEVO 2K
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141202870/original/ae09fc3b1c7ab7c70779cda421d2fddd9329c56a/get-your-music-video-on-vevo.jpg"group-title="ARGENTINA",VEVO -R&B
+#EXTINF:-1 tvg-logo="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141202870/original/ae09fc3b1c7ab7c70779cda421d2fddd9329c56a/get-your-music-video-on-vevo.jpg"group-title="ARGENTINA",VEVO R&B
 http://service-stitcher.clusters.pluto.tv:80/proxy/6bc0815e-fe9a-464b-9d20-af824e8dcdc5/5da0d83f66c9700009b96d0e/5449180/playlist.m3u8?deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web
 
 
-#EXTINF:-1 tvg-logo="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141202870/original/ae09fc3b1c7ab7c70779cda421d2fddd9329c56a/get-your-music-video-on-vevo.jpg"group-title="ARGENTINA",VEVO - COUNTRY
+#EXTINF:-1 tvg-logo="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141202870/original/ae09fc3b1c7ab7c70779cda421d2fddd9329c56a/get-your-music-video-on-vevo.jpg"group-title="ARGENTINA",VEVO COUNTRY
 http://service-stitcher.clusters.pluto.tv:80/proxy/a7f46d76-39c5-4794-883c-4d22a9c41fde/5da0d75e84830900098a1ea0/5449197/playlist.m3u8?deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web
 
 
 
-#EXTINF:-1 tvg-logo="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141202870/original/ae09fc3b1c7ab7c70779cda421d2fddd9329c56a/get-your-music-video-on-vevo.jpg"group-title="ARGENTINA",VEVO - REAGETON Y TRAP
+#EXTINF:-1 tvg-logo="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141202870/original/ae09fc3b1c7ab7c70779cda421d2fddd9329c56a/get-your-music-video-on-vevo.jpg"group-title="ARGENTINA",VEVO REAGETON Y TRAP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 
 
@@ -301,8 +309,6 @@ https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",SOMOS DEL ESTE HD
-https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSje85UeM53ryOshSR3o7E5NyU0euKVAd-xqQ&usqp=CAU" group-title="ARGENTINA",FM SUPER CLASSIC
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
@@ -389,9 +395,6 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tXAlGJ2CGUZa83ai_ZASZrU8wMktFAjTZw&usqp=CAU"group-title="ARGENTINA",CANAL 5 TV COLONIA AVELLANEDA
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA",MI TV FHD
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=278f424ae1d8fd1af0a6785558eb310b3f24f5fe4cad421079c510156b260500&exp=1649376050
-https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4s1YE3xLDZnc-2olPgvGD3eMDrX-vGkft7Q2anuiM0-obYpk9&s"group-title="ARGENTINA",TELECANAL 12
