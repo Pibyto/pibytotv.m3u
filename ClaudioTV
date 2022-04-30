@@ -172,6 +172,14 @@ https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45695
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Recurso_2SNTCONTINENTAL.png/revision/latest?cb=20190710015108"group-title="ARGENTINA",SNT HD
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45705
+
+
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/py-canal-8-vision-tv-6069.jpg"group-title="ARGENTINA",CANAL 8 VISIÓN TV
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45709
+
+
 
 
 
