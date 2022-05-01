@@ -273,8 +273,17 @@ https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",ZONDA TV 35.1 - SAN JUAN
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1234868471697154053/0BCyTzb3_400x400.jpg"group-title="ARGENTINA",RED TV
+https://cdn2.streamgato.us/redtvrd/redtvrd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png"group-title="ARGENTINA",CANA TV
+https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist_w436300158.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://canalvisiondorada.com.co/images/Icono512x512.png"group-title="ARGENTINA", CANAL VISION DORADA
+https://movil.ejeserver.com/live/visiondorada.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ705eVxKKzcyg5JNP-d81pqZFN0YeZaWXEg&usqp=CAU"group-title="ARGENTINA", TV LATINA
@@ -1599,10 +1608,6 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://canalvisiondorada.com.co/images/Icono512x512.png"group-title="ARGENTINA", CANAL VISION DORADA
-https://movil.ejeserver.com/live/visiondorada.m3u8?WebM3UCL
-
-
 
 
 
@@ -1695,15 +1700,6 @@ http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/playlist.m3u8?WebM3UCL
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png"group-title="ARGENTINA",CANA TV
-https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist_w436300158.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://scontent.feze7-1.fna.fbcdn.net/v/t1.6435-9/94615598_237692577642802_882103948075335680_n.jpg?stp=cp0_dst-jpg_e15_q65_s206x206&_nc_cat=111&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeHwmc_1CvVbHctnbXhlVCTZSccQaO24jglJxxBo7biOCTPjHvnO5M48m_8xElYgqb1iw2426IaD2NjtEr82Q7AB&_nc_ohc=qNeHMTZRLToAX-t8flV&_nc_ht=scontent.feze7-1.fna&oh=00_AT_lfk67zx7vU5fGJksHNnQ88TCnQZHGN5hOs4bpzoKpFg&oe=625EE298"group-title="ARGENTINA",GUATV
 https://tv.streamgt.tk:2083/live/tvgt/123456/23.m3u8
 
@@ -1728,8 +1724,6 @@ https://5eae379fb77bb.streamlock.net:443/8126/8126/chunklist_w325188716.m3u8?Web
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1234868471697154053/0BCyTzb3_400x400.jpg"group-title="ARGENTINA",RED TV
-https://cdn2.streamgato.us/redtvrd/redtvrd/playlist.m3u8
 
 
 
