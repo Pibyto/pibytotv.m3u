@@ -426,10 +426,9 @@ https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6f
 https://systvplay.com:2083/Xk8FN23HueyY/vPazhRGq9Nxh/15611
 
 
+#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy-290x166.jpg"group-title="ARGENTINA", UNICANAL HD 3.2 AIRE DIGITAL
+http://45.55.127.106/live/unicanal_mid.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png"group-title="ARGENTINA", SNT HD
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45705
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest?cb=20201020230413&path-prefix=es"group-title="ARGENTINA",PARAVISION
@@ -517,6 +516,11 @@ https://bcovlive-a.akamaihd.net:443/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6
 
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="ARGENTINA",TOONCAST
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
@@ -565,6 +569,21 @@ https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180402/hpe/kisspng-cartoon-network-logo-television-show-ben-10-cartoon-network-5ac27ec8cacd51.4124730615226958808307.jpg"group-title="ARGENTINA",CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png"group-title="ARGENTINA",ANIPLUS
+https://stmv1.voxhdnet.com:443/aniplus/aniplus/chunklist_w1614070666.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://energeek.cl/wp-content/uploads/2021/12/logo_psd.png"group-title="ARGENTINA", ENERGEEK 1
+https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://energeek.cl/wp-content/uploads/2021/12/logo_psd.png"group-title="ARGENTINA",ENERGEEK 2
+https://5eff35271151c.streamlock.net:1936/8074/8074/chunklist_w2077431113.m3u8?WebM3UCL
+
+
+
+
 
 
 
@@ -1257,8 +1276,6 @@ https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png"group-title="ARGENTINA",ANIPLUS
-https://stmv1.voxhdnet.com:443/aniplus/aniplus/chunklist_w1614070666.m3u8?WebM3UCL
 
 
 
@@ -1605,12 +1622,6 @@ https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b120000
 
 
 
-#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy-290x166.jpg"group-title="ARGENTINA", UNICANAL HD 3.2 AIRE DIGITAL
-http://45.55.127.106/live/unicanal_mid.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr-300x300-1525980274.jpg"group-title="ARGENTINA", MICROVISION HD
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?WebM3UCL
 
@@ -1685,14 +1696,6 @@ http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/playlist.m3u8?WebM3UCL
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://energeek.cl/wp-content/uploads/2021/12/logo_psd.png"group-title="ARGENTINA", ENERGEEK 1
-https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://energeek.cl/wp-content/uploads/2021/12/logo_psd.png"group-title="ARGENTINA",ENERGEEK 2
-https://5eff35271151c.streamlock.net:1936/8074/8074/chunklist_w2077431113.m3u8?WebM3UCL
 
 
 
