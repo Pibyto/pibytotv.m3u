@@ -10,6 +10,11 @@ https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImuv086BjtqOXoSsgw7Gmk3i227FQv8Enag&usqp=CAU"group-title="ARGENTINA", CRISTIANA TV (ENLACE)
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
+
+
+
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL
 https://vsd143.mycdn.me:443/hls/1698824391191.m3u8/sig/y1VNemKpS-M/expires/1651498311384/srcIp/186.132.33.234/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
@@ -48,6 +53,11 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CogFjSVMhs3q7xy8WYT9aceHJqv
 
 
 
+#EXTINF:-1 tvg-logo="https://www.exprezion.cl/wp-content/uploads/2021/10/cropped-fondo-3.png"group-title="ARGENTINA",EXPRECION TV
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://sidi.tse.org.gt/catalogo/uploads/logos/57.JPG"group-title="ARGENTINA",NIM TV
 http://iptv.streamhispanatv.net:25461/playgt/123456/2
 
@@ -61,7 +71,7 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CocFCQj1y6PWDppsU6pFZHfsT1L
 https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="ARGENTINA",PLANETA TV
+#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="ARGENTINA", PLANETA TV
 https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 
 
@@ -2273,9 +2283,6 @@ https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.exprezion.cl/wp-content/uploads/2021/10/cropped-fondo-3.png"group-title="ARGENTINA",EXPRECION TV
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 
 
 
