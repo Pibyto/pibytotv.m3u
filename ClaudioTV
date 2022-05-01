@@ -91,6 +91,12 @@ https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-13-San-Luis-en-vivo-Online.png"group-title="ARGENTINA",13 SAN LUIS
+https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
+https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w58195212_b692224.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/AR9nyvG5pV3jYk7fHMlUI4JQnC9rUH6ryOmmDC5n-wTEQ1_oEhdVVdYJjqpRyHO3YY8EVYKzBv3m7j4scgIdyWJe-m8yVOCReWhHwAKu"group-title="ARGENTINA",CANAL 10 SENILLOSA
 https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w559086041.m3u8 
 
@@ -101,6 +107,21 @@ https://vsd143.mycdn.me:443/hls/1698824391191.m3u8/sig/y1VNemKpS-M/expires/16514
 https://vsd61.mycdn.me:443/hls/1698824391191.m3u8/sig/AcoB6npIXio/expires/1651095281200/srcIp/186.132.9.32/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 https://vsd132.mycdn.me:443/hls/1698824391191.m3u8/sig/c7C6j9Ri9h4/expires/1650984567992/srcIp/186.132.9.32/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="ARGENTINA",EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y2FuYWwubWFzNV9zY3JlZW5fMl8xNTk3ODA4ODAyXzAxMw/screen-2.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA",CANAL+
+https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296983/images/logod.jpg?t=158076"group-title="ARGENTINA",LA RUTA TV
+https://cdn7.streamgato.us:3654/live/larutatvlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Izlr36vLmsz2GO6cE1Ml8JnbXUuQP9D3XDZ19ZmlFK32_K-NMLdEtdCoYA464whXuH4"group-title="ARGENTINA",RTV CANAL 19
+https://play.amelbasoluciones.co:3546/live/boliviaradiotvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg"group-title="ARGENTINA", CIUDAD MÁGICA TV
@@ -1209,10 +1230,6 @@ https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-13-San-Luis-en-vivo-Online.png"group-title="ARGENTINA",13 SAN LUIS
-https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
-https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w58195212_b692224.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="ARGENTINA",12 TARTAGAL
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w687911450.m3u8
@@ -1366,14 +1383,7 @@ https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="ARGENTINA",EXTREMA TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296983/images/logod.jpg?t=158076"group-title="ARGENTINA",LA RUTA TV
-https://cdn7.streamgato.us:3654/live/larutatvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/819297808108974080/fXHeD6eW_400x400.jpg"group-title="ARGENTINA",TITANICO TV
@@ -1479,17 +1489,7 @@ https://movil.ejeserver.com/live/verteve.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Izlr36vLmsz2GO6cE1Ml8JnbXUuQP9D3XDZ19ZmlFK32_K-NMLdEtdCoYA464whXuH4"group-title="ARGENTINA",RTV CANAL 19
-https://play.amelbasoluciones.co:3546/live/boliviaradiotvlive.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y2FuYWwubWFzNV9zY3JlZW5fMl8xNTk3ODA4ODAyXzAxMw/screen-2.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA",CANAL+
-https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA",  BELLA ASUNCIÓN TV
+#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA", BELLA ASUNCIÓN TV
 https://tvdatta.com:3602/stream/play.m3u8
 
 
@@ -1656,9 +1656,6 @@ http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w805979062.m3
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/bellavision.jpg"group-title="ARGENTINA", BELLAVISION HD
 https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://vidatv.cl/img/logos/vidatv.png"group-title="ARGENTINA", VIDA TV
-https://player.netv.cl:443/vidatv/tracks-v1a1/mono.m3u8
 
 
 
