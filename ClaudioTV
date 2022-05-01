@@ -536,6 +536,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqhbrS1QwsuXf48l-LsmxIkNIxJSgo-NxTs4P5W3Q&s"group-title="ARGENTINA",FM 104.1 RADIO INTEGRAL MACIA
 http://179.43.114.70:9992/;
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEQwp6ojbl2fxqMnO_zq3DkujkMR4VzOWcg&usqp=CAU"group-title="ARGENTINA", KBO
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVMAX_logo.png/revision/latest/scale-to-width-down/262?cb=20220208160004&path-prefix=es"group-title="ARGENTINA",TVMAX HD
@@ -629,6 +631,22 @@ https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://energeek.cl/wp-content/uploads/2021/12/logo_psd.png"group-title="ARGENTINA",ENERGEEK 2
 https://5eff35271151c.streamlock.net:1936/8074/8074/chunklist_w2077431113.m3u8?WebM3UCL
 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtg6jNP81PbHbLNWw_A6IJNJV-Mh-DtVHUgw&usqp=CAU"group-title="ARGENTINA",NARUTO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuPqB2vMjIw76SvLAOSH0DMbXzoMTftarFw&usqp=CAU"group-title="ARGENTINA",ONE PIECE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtJGYwPaFNsrkDGZ4VXjMIYDrUEAZvB-VL6w&usqp=CAU"group-title="ARGENTINA",ANIME - HEROES
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6079be62f9f8d6000783c8a4/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=944795d5-20fd-4dfa-8465-336c683bcd4d&deviceVersion=99.0.4844&appVersion=5.109.0-6577a51c82bdba0d9a0a2bab4950dd43d469ea83&deviceType=web&deviceMake=chromium-webview&sid=c25a6a63-a5a1-11ec-ab07-0242ac110003&advertisingId=&deviceLat=-34.815&deviceLon=-58.4693&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjYwZDdhZTExLWRhNmEtNGRkYS1hODg2LWYwZDBjZWEwZDM4MCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjMjVhNmE2My1hNWExLTExZWMtYWIwNy0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE4Ni4xMzIuNzIuMzgiLCJjaXR5IjoiTW9udGUgR3JhbmRlIiwicG9zdGFsQ29kZSI6IjE4NDIiLCJjb3VudHJ5IjoiQVIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMzQuODE1LCJkZXZpY2VMb24iOi01OC40NjkzLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5OS4wLjQ4NDQiLCJkZXZpY2VNYWtlIjoiY2hyb21pdW0td2VidmlldyIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwOS4wLTY1NzdhNTFjODJiZGJhMGQ5YTBhMmJhYjQ5NTBkZDQzZDQ2OWVhODMiLCJjbGllbnRJRCI6Ijk0NDc5NWQ1LTIwZmQtNGRmYS04NDY1LTMzNmM2ODNiY2Q0ZCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjQ3NTE2MjcxLCJqdGkiOiI2YzVhZTQ1YS0wNmRjLTQ1OTYtODZiNS03NTI2ZjFiZTFhODMiLCJpYXQiOjE2NDc0ODc0NzEsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpPVFEwTnprMVpEVXRNakJtWkMwMFpHWmhMVGcwTmpVdE16TTJZelk0TTJKalpEUmsifQ.6l_xGHLQ40jW3ry06QcuiLfc5v8qFjNciI6HyUSFwSU
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuLmX48Za6JVf9wCBcvq4vbMQcIdvOWyW22g&usqp=CAU"group-title="ARGENTINA",INSPIRANIME - ANIME - ANIMACIÓN
+https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w569981525.m3u8?WebM3UCL
 
 
 
@@ -2234,28 +2252,6 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtg6jNP81PbHbLNWw_A6IJNJV-Mh-DtVHUgw&usqp=CAU"group-title="ARGENTINA",NARUTO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuPqB2vMjIw76SvLAOSH0DMbXzoMTftarFw&usqp=CAU"group-title="ARGENTINA",ONE PIECE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtJGYwPaFNsrkDGZ4VXjMIYDrUEAZvB-VL6w&usqp=CAU"group-title="ARGENTINA",ANIME - HEROES
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6079be62f9f8d6000783c8a4/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=944795d5-20fd-4dfa-8465-336c683bcd4d&deviceVersion=99.0.4844&appVersion=5.109.0-6577a51c82bdba0d9a0a2bab4950dd43d469ea83&deviceType=web&deviceMake=chromium-webview&sid=c25a6a63-a5a1-11ec-ab07-0242ac110003&advertisingId=&deviceLat=-34.815&deviceLon=-58.4693&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjYwZDdhZTExLWRhNmEtNGRkYS1hODg2LWYwZDBjZWEwZDM4MCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjMjVhNmE2My1hNWExLTExZWMtYWIwNy0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE4Ni4xMzIuNzIuMzgiLCJjaXR5IjoiTW9udGUgR3JhbmRlIiwicG9zdGFsQ29kZSI6IjE4NDIiLCJjb3VudHJ5IjoiQVIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMzQuODE1LCJkZXZpY2VMb24iOi01OC40NjkzLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiI5OS4wLjQ4NDQiLCJkZXZpY2VNYWtlIjoiY2hyb21pdW0td2VidmlldyIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwOS4wLTY1NzdhNTFjODJiZGJhMGQ5YTBhMmJhYjQ5NTBkZDQzZDQ2OWVhODMiLCJjbGllbnRJRCI6Ijk0NDc5NWQ1LTIwZmQtNGRmYS04NDY1LTMzNmM2ODNiY2Q0ZCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjQ3NTE2MjcxLCJqdGkiOiI2YzVhZTQ1YS0wNmRjLTQ1OTYtODZiNS03NTI2ZjFiZTFhODMiLCJpYXQiOjE2NDc0ODc0NzEsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpPVFEwTnprMVpEVXRNakJtWkMwMFpHWmhMVGcwTmpVdE16TTJZelk0TTJKalpEUmsifQ.6l_xGHLQ40jW3ry06QcuiLfc5v8qFjNciI6HyUSFwSU
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuLmX48Za6JVf9wCBcvq4vbMQcIdvOWyW22g&usqp=CAU"group-title="ARGENTINA",INSPIRANIME - ANIME - ANIMACIÓN
-https://videostreaming.cloudserverlatam.com:443/8062/8062/chunklist_w569981525.m3u8?WebM3UCL
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png"group-title="ARGENTINA", TNT
 http://pms-tv.online:25461/pmstvfree/listagratis/16850
@@ -2373,11 +2369,6 @@ http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10767
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEQwp6ojbl2fxqMnO_zq3DkujkMR4VzOWcg&usqp=CAU"group-title="ARGENTINA", KBO
-https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmpoigXrd_sQYdXGaa8kMjgkxUYUqmNe5mA&usqp=CAU"group-title="ARGENTINA",PRENDETV - ROMANCE
 https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist_1280x720.m3u8
 
@@ -2385,6 +2376,13 @@ https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png"group-title="ARGENTINA",LA2 HD
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&WebM3UCL
+
+
+
+
+
+
+
 
 
 
@@ -2400,8 +2398,6 @@ https://edge-live32-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCO
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg"group-title="ARGENTINA",TyC Sports HD
 
 
 
@@ -2448,17 +2444,6 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sp
 
 
 
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg"group-title="DEPORTES",TyC Sports HD
-
-
-
-
-
-#EXTINF:-1 tvg-loigo="https://4.bp.blogspot.com/-DEtOenIRyWc/UTVa4EauCXI/AAAAAAAAQBc/5Klyn9rW_78/s1600/logo+espn+2013.png"group-title="DEPORTES", ESPN
-
-
-
-
 
 
 
@@ -2471,16 +2456,6 @@ https://edge10-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8?
 https://edge-live34-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8?mvk
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="DEPORTES", FOX SPORTS
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="DEPORTES", FOX SPORTS 2
 
 
 
