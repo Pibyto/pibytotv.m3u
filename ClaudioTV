@@ -242,7 +242,7 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=278f424ae1d8fd1af0a6785
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Recurso_2SNTCONTINENTAL.png/revision/latest?cb=20190710015108"group-title="ARGENTINA",SNT HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png"group-title="ARGENTINA",SNT HD
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45705
 
 
