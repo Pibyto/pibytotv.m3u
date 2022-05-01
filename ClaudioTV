@@ -60,6 +60,12 @@ https://srv2.zcast.com.br:443/ciudadm/ciudadm/chunklist_w789627950.m3u8?WebM3UCL
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_03/jpg_20220331_184927_0000.jpg.b01f4ce716808ec4746f11d71e175ad1.jpg"group-title="ARGENTINA",ESPN PREMIUM HD
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151412
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png"group-title="ARGENTINA", DEPORTV - 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
@@ -857,9 +863,6 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sp
 
 
 
-
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_03/jpg_20220331_184927_0000.jpg.b01f4ce716808ec4746f11d71e175ad1.jpg"group-title="ARGENTINA",ESPN PREMIUM HD
-http://etvhome.com:25461/jose5/jose/13779
 
 
 
