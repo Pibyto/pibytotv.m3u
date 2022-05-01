@@ -940,6 +940,10 @@ http://etvhome.com:25461/jose5/jose/24860
 
 
 #EXTINF:-1 tvg-logo="https://cdn.elperiodico.com.gt/wp-content/uploads/2021/04/09163642/PPePF1.jpg"group-title="LIVE TV SD",PARAMOUNT
+https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+http://45.225.95.170:8000/play/a0pi/index.m3u8
+http://etvhome.com:25461/jose5/jose/34966
+
 https://cdn.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
 http://etvhome.com:25461/jose5/jose/13352
 http://gratis.shortgod.com/laspe930/tv2.php?c=paramount
@@ -947,6 +951,7 @@ http://etvhome.com:25461/jose5/jose/28827
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="LIVE TV SD",SPACE
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151752
 https://edge5-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space-avc1_3900000=10002.m3u8
 http://etvhome.com:25461/jose5/jose/27861
 http://gratis.shortgod.com/laspe930/tv2.php?c=
