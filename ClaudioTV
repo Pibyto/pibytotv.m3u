@@ -6,21 +6,30 @@
 https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/96d52a_49fe3188a59f416fb5fe5ab6631880f2~mv2.png/v1/crop/x_3,y_147,w_1046,h_770/fill/w_436,h_312,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%202021.png"group-title="ARGENTINA",EXPRESION TV
-http://iptv.streamhispanatv.net:25461/playgt/123456/88
-
-
-
 #EXTINF:-1 tvg-logo="https://www.misionvida.org/wp-content/themes/veraka_mv/mvtv/logos.jpg"group-title="ARGENTINA", MISION VIDA TV
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.hn504.net/img/tv/Choluteca-Tv.png"group-title="ARGENTINA",CHOLUTECA TV
+#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL
+https://vsd143.mycdn.me:443/hls/1698824391191.m3u8/sig/y1VNemKpS-M/expires/1651498311384/srcIp/186.132.33.234/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="ARGENTINA",EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/96d52a_49fe3188a59f416fb5fe5ab6631880f2~mv2.png/v1/crop/x_3,y_147,w_1046,h_770/fill/w_436,h_312,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%202021.png"group-title="ARGENTINA", EXPRESION TV
+http://iptv.streamhispanatv.net:25461/playgt/123456/88
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.hn504.net/img/tv/Choluteca-Tv.png"group-title="ARGENTINA", CHOLUTECA TV
 https://emisoras.hn:8081/cholutecatv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-5AzIkjfiv5w/V14lxf-dyaI/AAAAAAAAAMA/m9JhxT5FuJUMsVzuV5-X3yanwISOIbGhACLcB/w260/9260892_logoalfa_omega_vision__1339128512%252C192x192%252Cr-1.jpg"group-title="ARGENTINA",ALFA&OMEGA VISION
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-5AzIkjfiv5w/V14lxf-dyaI/AAAAAAAAAMA/m9JhxT5FuJUMsVzuV5-X3yanwISOIbGhACLcB/w260/9260892_logoalfa_omega_vision__1339128512%252C192x192%252Cr-1.jpg"group-title="ARGENTINA", ALFA&OMEGA VISION
 https://srv.panelcast.net/aovision/aovision/playlist.m3u8
 
 
@@ -31,6 +40,8 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png"group-title="ARGENTINA",DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="ARGENTINA", PELÍCULAS MANIAS
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CokFdZ37i-WexdffQUfPa03ovy_7bStchucsyoJEMIvQSo7vhyx_v1L31bZmMXfa7UfeC66cdRoEgHIk_ij6JLIKLJa3xFWHkdrABxuYHQESBq80-KmtbY-LaphYmwxu0jk8QSohQo-ISIaIeRpbK6Knxu3F_9cSy3h3pi7sa2L2seZntfvuahaIFqOgYbE9oVnTmD8Xqo0ojwE031EC2FAazrcuW80Nv7MvID2707BJ-yfTw32WmejnQq2RR0nMMyI3iY6fnablUkS4_OvvR57ggllFn4nCWlQ1S1rYzQgwKl3Ru093LX3uN-o4C0FPXT1IA2b1mPjuNS7za9i7_GrWeb5Ol1whLJ8MxeoLwGEZAbgh7Sa-1WvEAWgmnK82qyInOVvuRLJtNSiTdsQFIrHbeCdb3dwHWeZ4EOiLGK3K0Q8ah4UN5Buvoi0oMWCIzcaLpAvO0gHF4TqqcxB__82TLTwQM13-6YPPwav21ky9YF_jsEM8taiYn274I5sP7W56u_D_LW92jJ9ap8rqW1O-rQ34KCdDM6_n29j7KrppoXL6IICgowLd7ZUXVpbiB9ojDjWKt6G3PGwOF--2jZUnmGg23psX0p4GnaLMHxYawGJNdzgl_xbCCrnBrsmqOGgZ9u20GGlNh5-CHEJdt2cL-7tPYi2MEbHKoR055dkdXfKQsx93_fGwwyaDbhIWmAz_AtcFw2fKl574nDoczdCQLBQBo82ZTQF0y8sWXV9VNY6a_JxHcztxok7QbatqbKCzNKsCAo2HTkgamq4dzAog9T7hXaZ3WLQjmVdzLuUKRKYi42ceXK1-AXt8lDV4pzbQawqPh3oq2Ynt3S5QBn9iZ4hol_kO9osMpxoMI0tXn9fXVNJOUReYIAEqCWV1LXdlc3QtMjDOAw.m3u8
@@ -149,16 +160,6 @@ https://inliveserver.com:1936/14044/14044/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/AR9nyvG5pV3jYk7fHMlUI4JQnC9rUH6ryOmmDC5n-wTEQ1_oEhdVVdYJjqpRyHO3YY8EVYKzBv3m7j4scgIdyWJe-m8yVOCReWhHwAKu"group-title="ARGENTINA",CANAL 10 SENILLOSA
 https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w559086041.m3u8 
 
-
-
-#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL
-https://vsd143.mycdn.me:443/hls/1698824391191.m3u8/sig/y1VNemKpS-M/expires/1651498311384/srcIp/186.132.33.234/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd61.mycdn.me:443/hls/1698824391191.m3u8/sig/AcoB6npIXio/expires/1651095281200/srcIp/186.132.9.32/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd132.mycdn.me:443/hls/1698824391191.m3u8/sig/c7C6j9Ri9h4/expires/1650984567992/srcIp/186.132.9.32/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="ARGENTINA",EXTREMA TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y2FuYWwubWFzNV9zY3JlZW5fMl8xNTk3ODA4ODAyXzAxMw/screen-2.jpg?fakeurl=1&type=.jpg"group-title="ARGENTINA",CANAL+
