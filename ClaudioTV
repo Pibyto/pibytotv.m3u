@@ -235,6 +235,10 @@ https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png"group-title="ARGENTINA",ANTARES TELEVISIÓN HD
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1340479339.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/DA2asU0w91KyOcHQWUFEtBECgv-NG1pUtRrWw78Negq5uH6gEeLaaxTJkxe8f9CNTDHZJHLfpJM=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",URANIO TV HD
+https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png"group-title="ARGENTINA",CASCARA TV
