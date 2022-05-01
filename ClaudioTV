@@ -28,6 +28,23 @@ https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w185088520
 https://emisoras.hn:8081/cholutecatv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4s1YE3xLDZnc-2olPgvGD3eMDrX-vGkft7Q2anuiM0-obYpk9&s"group-title="ARGENTINA",TELECANAL 12
+https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="ARGENTINA",PLANETA TV
+https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://sidi.tse.org.gt/catalogo/uploads/logos/57.JPG"group-title="ARGENTINA",NIM TV
+http://iptv.streamhispanatv.net:25461/playgt/123456/2
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQ5uO_nEoNUuo_B0JWyWrSxYTIPaI0LAHOw&usqp=CAU"group-title="ARGENTINA",TOTOVISION
+http://iptv.streamhispanatv.net:25461/playgt/123456/13
+
+
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-5AzIkjfiv5w/V14lxf-dyaI/AAAAAAAAAMA/m9JhxT5FuJUMsVzuV5-X3yanwISOIbGhACLcB/w260/9260892_logoalfa_omega_vision__1339128512%252C192x192%252Cr-1.jpg"group-title="ARGENTINA",ALFA&OMEGA VISION
 https://srv.panelcast.net/aovision/aovision/playlist.m3u8
 
@@ -364,8 +381,6 @@ https://v4.tustreaming.cl/bellatv/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="ARGENTINA",PLANETA TV
-https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 
 
 
@@ -657,17 +672,6 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4s1YE3xLDZnc-2olPgvGD3eMDrX-vGkft7Q2anuiM0-obYpk9&s"group-title="ARGENTINA",TELECANAL 12
-https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://sidi.tse.org.gt/catalogo/uploads/logos/57.JPG"group-title="ARGENTINA",NIM TV
-http://iptv.streamhispanatv.net:25461/playgt/123456/2
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQ5uO_nEoNUuo_B0JWyWrSxYTIPaI0LAHOw&usqp=CAU"group-title="ARGENTINA",TOTOVISION
-http://iptv.streamhispanatv.net:25461/playgt/123456/13
 
 
 
