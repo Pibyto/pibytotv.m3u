@@ -2,17 +2,18 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="ARGENTINA",VIDA Y BENDICION TV
+#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="ARGENTINA", VIDA Y BENDICION TV
 https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.misionvida.org/wp-content/themes/veraka_mv/mvtv/logos.jpg"group-title="ARGENTINA",MISION VIDA TV
+#EXTINF:-1 tvg-logo="https://www.misionvida.org/wp-content/themes/veraka_mv/mvtv/logos.jpg"group-title="ARGENTINA", MISION VIDA TV
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRqOrGdqRe7DtrRKMH4WKLuO08sLqodSpVA&usqp=CAU"group-title="ARGENTINA",EL TRECE
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/152391
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/152390
 http://etvhome.com:25461/jose5/jose/13327
 
