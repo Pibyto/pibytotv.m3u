@@ -105,6 +105,10 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="ARGENTINA",CANAL 12 METRO TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
@@ -932,12 +936,6 @@ http://gratis.shortgod.com/lala4q/tv5.php?c=495&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Seotvprovincias.jpg"group-title="ARGENTINA",SEO TV HD
 http://etvhome.com:25461/jose5/jose/148322
 
-
-
-
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV
-https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOhyIchCvFQtkh0sfZKq3l5gaevgPI-D1LfoYQCIIU2X1)/dm/3/x84zae1/s/live-2.m3u8#cell=lnyc
-https://clientes.videostreaming.ar:19360/cosmos/cosmos.m3u8
 
 
 
