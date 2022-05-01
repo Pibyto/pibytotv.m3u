@@ -196,6 +196,12 @@ https://srv2.zcast.com.br:443/ciudadm/ciudadm/chunklist_w789627950.m3u8?WebM3UCL
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="ARGENTINA",TNT SPORTS HD
+http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/153801.m3u8
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/espn-logo-350x183.png?itok=heHZgbSx"group-title="ARGENTINA",ESPN HD
 http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/22112.m3u8
 
@@ -203,20 +209,22 @@ http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/22112.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-w0fjD0r_Evs/VmW-VfUpaAI/AAAAAAAAAQ8/XWAfmUm3RUk/s1600/espn2.png"group-title="ARGENTINA",ESPN 2 HD
 http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/59802.m3u8
 
+
+#EXTINF:-1  tvg-logo="http://1.bp.blogspot.com/-TZNQbBgu508/UjtEagBbaMI/AAAAAAAAAH0/8YrDDQ6iA6k/s1600/ESPN3Vivo.png"group-title="ARGENTINA",ESPN 3
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8?SBN
+
+
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_05/large_es.png.36ee9377a3b8a9c22b519d73de03d6c9.png"group-title="ARGENTINA", ESPN PREMIUM HD
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151412
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="ARGENTINA",TNT SPORTS HD
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png"group-title="ARGENTINA", DEPORTV - 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
-
-#EXTINF:-1  tvg-logo="http://1.bp.blogspot.com/-TZNQbBgu508/UjtEagBbaMI/AAAAAAAAAH0/8YrDDQ6iA6k/s1600/ESPN3Vivo.png"group-title="ARGENTINA",ESPN 3
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8?SBN
 
 
 
