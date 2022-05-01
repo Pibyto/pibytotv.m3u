@@ -202,10 +202,6 @@ http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/59797.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="ARGENTINA",TNT SPORTS HD
-http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/153801.m3u8
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/espn-logo-350x183.png?itok=heHZgbSx"group-title="ARGENTINA",ESPN HD
@@ -224,6 +220,10 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8?SBN
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_05/large_es.png.36ee9377a3b8a9c22b519d73de03d6c9.png"group-title="ARGENTINA", ESPN PREMIUM HD
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151412
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="ARGENTINA", TNT SP HD
+http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/153801.m3u8
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
 
 
