@@ -9,6 +9,10 @@ https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 #EXTINF:-1 tvg-logo="https://www.misionvida.org/wp-content/themes/veraka_mv/mvtv/logos.jpg"group-title="ARGENTINA", MISION VIDA TV
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",RESTAURANDO VIDAS
+https://patagoniaip.trapemn.tv:1936/cristianos/restaurandovidatv1.stream/chunks.m3u8?nimblesessionid=3681257&WebM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImuv086BjtqOXoSsgw7Gmk3i227FQv8Enag&usqp=CAU"group-title="ARGENTINA", CRISTIANA TV (ENLACE)
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
