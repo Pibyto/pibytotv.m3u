@@ -984,6 +984,7 @@ http://etvhome.com:25461/jose5/jose/13366
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="LIVE TV SD", WARNER TV
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151770
 https://cdn.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
 https://cdn.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
 http://etvhome.com:25461/jose5/jose/127034
@@ -993,6 +994,7 @@ http://etvhome.com:25461/jose5/jose/36360
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/FX_HD_2013.png/revision/latest?cb=20180216195050"group-title="LIVE TV SD",FX
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151731
 https://cdn.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 http://etvhome.com:25461/jose5/jose/13344
 http://gratis.shortgod.com/laspe930/tv2.php?c=fx
@@ -1012,6 +1014,7 @@ http://etvhome.com:25461/jose5/jose/13392
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG"group-title="LIVE TV SD",AXN
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151711
 https://cdn.prepro.cvattv.com.ar/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
 http://etvhome.com:25461/jose5/jose/13635
 http://gratis.shortgod.com/laspe930/tv2.php?c=axn
@@ -1026,6 +1029,7 @@ http://etvhome.com:25461/jose5/jose/32789
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="LIVE TV SD",UNIVERSAL CHANNEL
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151765
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 http://etvhome.com:25461/jose5/jose/13364
 http://gratis.shortgod.com/laspe930/tv2.php?c=universal
@@ -1837,6 +1841,7 @@ http://192.99.212.8:25461/pmstv/LD6LU4GZwt/37?token=HRNeWUUMQwIXBlRXVFcCBgBZBwFS
 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png"group-title="ARGENTINA",A&E HD
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151710
 http://gratis.shortgod.com/lala4q/tv5.php?c=474&f=.m3u8
 http://heinentv.ddns.me:25461/Marzo2020/2020/22188
 https://edge2.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
