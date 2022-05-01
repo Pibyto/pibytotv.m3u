@@ -208,6 +208,10 @@ https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png"group-title="ARGENTINA",ANTARES TELEVISIÓN HD
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1340479339.m3u8?WebM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png"group-title="ARGENTINA",CASCARA TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8
