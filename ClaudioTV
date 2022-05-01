@@ -784,9 +784,8 @@ https://ammo-espanol-plex.amagi.tv:443/playlistR1080p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="LIVE TV SD",HBO POP
-https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
-http://45.225.95.170:8000/play/a0pi/index.m3u8
-http://etvhome.com:25461/jose5/jose/34966
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151739
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2FlH43M3O5ySAzltsmgCiUoVDyzyG79rEA&usqp=CAU"group-title="ARGENTINA",CGTN ESPAÑOL
