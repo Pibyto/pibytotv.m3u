@@ -280,6 +280,14 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ705eVxKKzcyg5JNP-d81pqZFN0YeZaWXEg&usqp=CAU"group-title="ARGENTINA", TV LATINA
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQSpEdhd8I37WtA6c2K4vuN2vSJKMWPt3oQ&usqp=CAU"group-title="ARGENTINA",LATINA TV INTERNACIONAL
+https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w517185414.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AJk-_2ROoNNy_8gEKHS7flcxdc8VzHHpsg&usqp=CAU"group-title="ARGENTINA", TV SUR CANAL 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NnX56V9T5R8/XxKkisjn1tI/AAAAAAAAKRk/jPy1HuEtQdodTm1R7k-6ztQwEqQJ-XYowCLcBGAsYHQ/s1600/vegavision-18.png"group-title="ARGENTINA", VEGAVISION
 https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8?WebM3UCL
@@ -1413,9 +1421,6 @@ https://cdn4.hostlagarto.com:8081/static/buenatv/playlist.m3u8?DVR
 https://cdn4.hostlagarto.com:8081/static/enntivisiontv/chunks.m3u8?DVR
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQSpEdhd8I37WtA6c2K4vuN2vSJKMWPt3oQ&usqp=CAU"group-title="ARGENTINA",LATINA TV INTERNACIONAL
-https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w517185414.m3u8
-
 
 
 
@@ -1495,15 +1500,6 @@ https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c9537b8932c837b49397
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f1286c84570675.5d60f8fcdcb48.jpg"group-title="ARGENTINA",MOUNTAIN LIVE
 https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397357/chunklist_w842084170.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AJk-_2ROoNNy_8gEKHS7flcxdc8VzHHpsg&usqp=CAU"group-title="ARGENTINA", TV SUR CANAL 9
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-
-
-
 
 
 
