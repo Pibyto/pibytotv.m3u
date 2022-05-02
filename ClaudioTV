@@ -721,7 +721,7 @@ https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
 https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="ARGENTINA",PLANETA TV MOVIE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="ARGENTINA",PLANETA TV MOVIE
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
 
