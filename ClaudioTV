@@ -51,6 +51,10 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="ARGENTINA",PLANETA TV MOVIE
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="ARGENTINA", PELÍCULAS MANIAS
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CosFHAd_8CtAxbrJDXP9ZHZ9CDc7f6JXcRU7nnMO0rujpMF_cXwrvARJ8xvbUscTG7Ukd7v6RpDB2bgr-jNcJeP4yEX0ZqBv77Xn3x_0GRl4yyF8lp0W6BzxZeRSvL-eoNQL1YsGnLGcX68DJTh6svLuB5TVQGehg40IR56ABMVxynkdij7kGSx9FoOxE5UBRB07qgr8orl0BotJTc1wTEbOOFeJ3YC8_rstv3bMuUgU1HqQQhtJhtHV8Ru7V3oCNGbh859IaExtwCCsrf-bwkxnk4HknDseqZkjMMGz0ZU4nRpB9XqLBrRjLBi_FINi9BbwsD5ZGXrXZKAE2JVeKd4f6_4fe567c7EDUd0r0nlOwM9wqzjb0fawBJd0Ta6PcA6Hj0oChPY_pfwv8Llx_41GVQ4ZGBCmd9ljWSNczMtEc_dH1_5CeuVmo--wldXUbJ0Ri6Y7kY4I0ObC5DapaWQ00PmZL8QJ_cKbWCKo6ZR88wCYqISBR115fWc2Trx1kHhuNf1wOxvcrW7B4GpP-F_GC0q_9HXf-8saucw0jKoHEyUFHv3i1eZWNYZ3HAKHvk6oUVVaBZqPJccGHgkIGDYuLtMpbJgXlwKKYKoFyI-z_3r2-5SFYLk8B0P6jOFRkmsHLGRO9zJh2MaJC2JkAwzas7mWvjhnVh9iG5H8l_2R06T0hKYGEdTpyKPYIGSehkuvlvQnv0ocO9kVIZ84A5Vy4wMiKsNPiShphDqXW3BwfIvqrrUUVJC-xBSRx0GAzR2S0dJCFk7QsGfRrgZjk3myfnGVj_SZpJu7aobSVEk0xPfSVr4ig1ODSObXVD4rHugE326ST41Gf2jiS9HmPp_Y8fTPvyDugTonOSi0Ggy7En3Nbf3053PDYqkgASoJZXUtd2VzdC0yMM8D.m3u8
@@ -110,6 +114,12 @@ http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/153673.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="ARGENTINA",9HD
 http://coninfo.net:1935/9linklive/live/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES 
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png"group-title="ARGENTINA",TELEF ROSARIGASARIO
@@ -565,8 +575,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeO6nrQIKVr-zZUr7lpNhzQ9chNQ1mljS03A&usqp=CAU"group-title="ARGENTINA", PLANETA TV MUSIC
 https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w1779226923_b2820000.m3u8?WebM3UCL
 
+
+
+
 #EXTINF:-1 tvg-logo="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141202870/original/ae09fc3b1c7ab7c70779cda421d2fddd9329c56a/get-your-music-video-on-vevo.jpg"group-title="ARGENTINA", VEVO R&B
 http://service-stitcher.clusters.pluto.tv:80/proxy/6bc0815e-fe9a-464b-9d20-af824e8dcdc5/5da0d83f66c9700009b96d0e/5449180/playlist.m3u8?deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141202870/original/ae09fc3b1c7ab7c70779cda421d2fddd9329c56a/get-your-music-video-on-vevo.jpg"group-title="ARGENTINA", VEVO COUNTRY
@@ -574,12 +590,19 @@ http://service-stitcher.clusters.pluto.tv:80/proxy/a7f46d76-39c5-4794-883c-4d22a
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141202870/original/ae09fc3b1c7ab7c70779cda421d2fddd9329c56a/get-your-music-video-on-vevo.jpg"group-title="ARGENTINA", VEVO REAGETON Y TRAP
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 
 
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqhbrS1QwsuXf48l-LsmxIkNIxJSgo-NxTs4P5W3Q&s"group-title="ARGENTINA",FM 104.1 RADIO INTEGRAL MACIA
 http://179.43.114.70:9992/;
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEQwp6ojbl2fxqMnO_zq3DkujkMR4VzOWcg&usqp=CAU"group-title="ARGENTINA", KBO
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
@@ -721,8 +744,6 @@ https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
 https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="ARGENTINA",PLANETA TV MOVIE
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
 
 
@@ -1254,9 +1275,6 @@ https://vsd143.mycdn.me:443/hls/1698824391191.m3u8/sig/y1VNemKpS-M/expires/16514
 
 
 
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES 
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
 
 
