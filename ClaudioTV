@@ -597,7 +597,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeO6nrQIKVr-zZUr7lpNhzQ9chNQ1mljS03A&usqp=CAU"group-title="ARGENTINA", PLANETA TV MUSIC
 https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w1779226923_b2820000.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",MC URBANO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Kt0hQcXvP0vMFPqTwvHZ9uSGsjUiwVJIjQ&usqp=CAU"group-title="ARGENTINA",MC URBANO
 https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL128/O0U9MTY1MTk2NzUyMztBPTE7Sz0wO1A9MDExMTA7Uz01MDY5NDY5MjI5Y2M4ZTI5MGIwM2FjM2QyOTg1ZTBkMzVjYjlmZGRh/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_128&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
 
 
