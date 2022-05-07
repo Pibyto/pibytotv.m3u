@@ -604,7 +604,7 @@ https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROT
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Kt0hQcXvP0vMFPqTwvHZ9uSGsjUiwVJIjQ&usqp=CAU"group-title="ARGENTINA",MC MAX
 https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL1104/O0U9MTY1MTk2ODIwMjtBPTE7Sz0wO1A9MDExMTA7Uz0yODJlMjQwN2UzYzI3NjE1MmM1Y2IwZWNiZDliNmNhMGFjMzdjZDI5/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1104&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",SPIRIT TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMDUfmdrSfpM7clCTGUfh580H5P3nrkdWyOg&usqp=CAU"group-title="ARGENTINA",SPIRIT TV
 https://cdnlive.myspirit.tv:443/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 
