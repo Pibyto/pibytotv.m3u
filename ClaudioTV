@@ -604,6 +604,9 @@ https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROT
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Kt0hQcXvP0vMFPqTwvHZ9uSGsjUiwVJIjQ&usqp=CAU"group-title="ARGENTINA",MC MAX
 https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL1104/O0U9MTY1MTk2ODIwMjtBPTE7Sz0wO1A9MDExMTA7Uz0yODJlMjQwN2UzYzI3NjE1MmM1Y2IwZWNiZDliNmNhMGFjMzdjZDI5/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1104&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
 
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",SPIRIT TV
+https://cdnlive.myspirit.tv:443/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/862/837/png-clipart-vevo-light-signage-vevo-logo-black-icons-logos-emojis-iconic-brands.png"group-title="ARGENTINA", VEVO R&B
 http://service-stitcher.clusters.pluto.tv:80/proxy/6bc0815e-fe9a-464b-9d20-af824e8dcdc5/5da0d83f66c9700009b96d0e/5449180/playlist.m3u8?deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web
