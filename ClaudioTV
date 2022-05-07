@@ -584,6 +584,12 @@ https://iptv.streamhispanatv.net:2083/live/playgt/123456/87.m3u8
 https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 
 
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiob8azTJJPN3ab8FVqQ3ZA1Wnr1NUItky7g&usqp=CAU"group-title="ARGENTINA",VEVO 2K
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
 
@@ -601,7 +607,7 @@ http://service-stitcher.clusters.pluto.tv:80/proxy/6bc0815e-fe9a-464b-9d20-af824
 
 
 
-#EXTINF:-1 tvg-logo="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/141202870/original/ae09fc3b1c7ab7c70779cda421d2fddd9329c56a/get-your-music-video-on-vevo.jpg"group-title="ARGENTINA", VEVO COUNTRY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT60KgOjnmnZ2_5Y6LTs4qze-IKZwzpK3pMVA&usqp=CAU"group-title="ARGENTINA",VEVO COUNTRY
 http://service-stitcher.clusters.pluto.tv:80/proxy/a7f46d76-39c5-4794-883c-4d22a9c41fde/5da0d75e84830900098a1ea0/5449197/playlist.m3u8?deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web
 
 
@@ -614,8 +620,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqhbrS1QwsuXf48l-LsmxIkNIxJSgo-NxTs4P5W3Q&s"group-title="ARGENTINA",FM 104.1 RADIO INTEGRAL MACIA
-http://179.43.114.70:9992/;
+
+
+
 
 
 
