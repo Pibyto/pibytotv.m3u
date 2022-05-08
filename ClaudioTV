@@ -418,6 +418,22 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrjBBS8fewJNctq04_Xezy1ecqgJNTwUzX0j5x2hodmGlSYA&s"group-title="ARGENTINA", ESTRELLA TV
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg"group-title="ARGENTINA",CANAL 10 RIO NEGRO
+https://panel.dattalive.com/8204/8204/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2308bf_f2bb176b7bbe454989b6fb3eb9cb6e45~mv2.png"group-title="ARGENTINA",CANAL 10 NORTEVISION
+https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.canal4eldorado.com/wp-content/uploads/2016/10/cropped-canal4-120.png?fit=512%2C512&ssl=1"group-title="ARGENTINA",CANAL 4 EL DORADO
+https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/chunklist_w294949290.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",CNR JUJUY
+https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tXAlGJ2CGUZa83ai_ZASZrU8wMktFAjTZw&usqp=CAU"group-title="ARGENTINA",CANAL 5 TV COLONIA AVELLANEDA
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
@@ -1390,16 +1406,10 @@ https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxd_f1YXd6T1HVT2VMPSFYmKsQJpT4q64f1Q&usqp=CAU"group-title="ARGENTINA",SOMOS LA PAMPA
+https://5975e06a1f292.streamlock.net:4443/somosnoticias/somosnoticias/chunklist_w423164225.m3u8?WebM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg"group-title="ARGENTINA",CANAL 10 RIO NEGRO
-https://panel.dattalive.com/8204/8204/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2308bf_f2bb176b7bbe454989b6fb3eb9cb6e45~mv2.png"group-title="ARGENTINA",CANAL 10 NORTEVISION
-https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?WebM3UCL
 
 
 
@@ -1413,19 +1423,9 @@ http://server.miamitvchannel.com/externos/nuevaimagen/chunklist_w1749323216.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",CNR JUJUY
-https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxd_f1YXd6T1HVT2VMPSFYmKsQJpT4q64f1Q&usqp=CAU"group-title="ARGENTINA",SOMOS LA PAMPA
-https://5975e06a1f292.streamlock.net:4443/somosnoticias/somosnoticias/chunklist_w423164225.m3u8?WebM3UCL
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.canal4eldorado.com/wp-content/uploads/2016/10/cropped-canal4-120.png?fit=512%2C512&ssl=1"group-title="ARGENTINA",CANAL 4
-https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/chunklist_w294949290.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="CRISTIANO",TVR DIGITAL
