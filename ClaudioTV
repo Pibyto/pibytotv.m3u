@@ -175,8 +175,19 @@ http://edge7-ccast-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoti
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/lanacionar/NXKF436PYFDRLJJB77LJU7JVQA.png"group-title="ARGENTINA",LN
 http://edge4-sl.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://arteysociedad.com.ar/wp-content/uploads/2020/10/IP.jpg"group-title="ARGENTINA",IP HD
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",NET TV
+http://edge5-sl.cvattv.com.ar/live/c6eds/Net_TV/SA_SAGEMCOM/Net_TV.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",KZO
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png"group-title="ARGENTINA", CANAL ENCUENTRO  22.1
