@@ -649,10 +649,10 @@ http://edge4-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69250.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_O_yDJ3BrVGVM7SY08qrsHI2FUHZYYqQg&usqp=CAU"group-title="ARGENTINA",E-TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_O_yDJ3BrVGVM7SY08qrsHI2FUHZYYqQg&usqp=CAU"group-title="ARGENTINA",E-TV HD
 https://59ce1298bfb98.streamlock.net:443/emprendetv/emprendetv/chunklist_w68446214.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA", BELLA ASUNCIÓN TV
+#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA", BELLA ASUNCIÓN TV HD
 https://tvdatta.com:3602/stream/play.m3u8
 
 
@@ -663,7 +663,7 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=278f424ae1d8fd1af0a6785
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
 
 
-#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",SOMOS DEL ESTE HD
+#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="ARGENTINA",SOMOS DEL ESTE FHD
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 
@@ -680,7 +680,7 @@ http://edge2-ccast-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVIS
 https://systvplay.com:2083/Xk8FN23HueyY/vPazhRGq9Nxh/15611
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png"group-title="ARGENTINA",SNT HD opc 2
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png"group-title="ARGENTINA",SNT FHD
 http://edge3-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
 
 
@@ -688,7 +688,7 @@ http://edge3-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45695
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"group-title="ARGENTINA", TELEFUTURO HD opc 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"group-title="ARGENTINA", TELEFUTURO FHD
 http://edge1-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 
 
@@ -706,19 +706,19 @@ http://edge7-ccast-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4
 #EXTINF:-1 tvg-logo="https://www.trece.com.py/public/img/Logo-Trece.png"group-title="ARGENTINA",TRECE FHD
 http://edge4-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Sur_TV_Itapua_2013.png/revision/latest?cb=20171021201738"group-title="ARGENTINA",SUR TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Sur_TV_Itapua_2013.png/revision/latest?cb=20171021201738"group-title="ARGENTINA",SUR TV FHD
 http://edge4-hr.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png"group-title="ARGENTINA",NPY FHD
 http://edge8-ccast-hr.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",C9N FHD
+#EXTINF:-1 tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2017/10/C9N-VistaPrevia.png?fit=1000%2C1000&ssl=1"group-title="ARGENTINA",C9N FHD
 http://edge5-hr.cvattv.com.ar/live/c5eds/C9N_C4/SA_SAGEMCOM/C9N_C4.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-31-at-12.29.17-300x210.jpeg"group-title="ARGENTINA",  CANAL RTV 12 
+#EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-31-at-12.29.17-300x210.jpeg"group-title="ARGENTINA", CANAL RTV 12 
 https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
 
 
