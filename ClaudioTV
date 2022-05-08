@@ -323,6 +323,8 @@ http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/153801.m3u8
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg"group-title="ARGENTINA",TyC Sports internacional FHD
+http://edge10-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_SAGEMCOM/TyC_Internacional.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png"group-title="ARGENTINA", DEPORTV - 24.1
