@@ -125,6 +125,9 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u
 http://coninfo.net:1935/9linklive/live/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA", CIUDAD MAGAZINE FHD
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="ARGENTINA",CANAL 4
 http://edge4-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
