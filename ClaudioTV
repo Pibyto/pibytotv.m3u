@@ -15,6 +15,9 @@ https://patagoniaip.trapemn.tv:1936/cristianos/restaurandovidatv1.stream/chunks.
 https://patagoniaip.trapemn.tv:1936/cristianos/restaurandovidatv1.stream/chunks.m3u8?nimblesessionid=3681257&WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="http://sionmedios.com/fm-sion/wp-content/uploads/sites/2/2020/06/Fm-Sion.jpg"group-title="ARGENTINA",SION TV RADIO 24HS
+http://stm.livecastradio.com:7076/;
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImuv086BjtqOXoSsgw7Gmk3i227FQv8Enag&usqp=CAU"group-title="ARGENTINA", CRISTIANA TV (ENLACE)
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
