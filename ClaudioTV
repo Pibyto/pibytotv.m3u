@@ -578,7 +578,7 @@ http://edge3-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
 http://45.55.127.106/live/unicanal_mid.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",SUR TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Sur_TV_Itapua_2013.png/revision/latest?cb=20171021201738"group-title="ARGENTINA",SUR TV
 http://edge4-hr.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
 
 
