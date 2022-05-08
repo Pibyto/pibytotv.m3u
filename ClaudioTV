@@ -118,6 +118,9 @@ https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=
 http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/153673.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",EFELET opc 2
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="ARGENTINA",9HD
 http://coninfo.net:1935/9linklive/live/playlist.m3u8
 
