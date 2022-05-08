@@ -128,7 +128,7 @@ https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=
 http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/153673.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",EFELET FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE FHD
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="ARGENTINA",9HD
@@ -143,7 +143,7 @@ http://edge4-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="ARGENTINA", CIUDAD MAGAZINE FHD
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/panamericana-logo-6EB4821309-seeklogo.com.png"group-title="ARGENTINA", PANAMERICANA
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/panamericana-logo-6EB4821309-seeklogo.com.png"group-title="ARGENTINA",PANAMERICANA FHD
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 
