@@ -645,6 +645,18 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 http://edge4-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png"group-title="ARGENTINA",UNO HD
+http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69250.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_O_yDJ3BrVGVM7SY08qrsHI2FUHZYYqQg&usqp=CAU"group-title="ARGENTINA",E-TV
+https://59ce1298bfb98.streamlock.net:443/emprendetv/emprendetv/chunklist_w68446214.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA", BELLA ASUNCIÓN TV
+https://tvdatta.com:3602/stream/play.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="ARGENTINA",MI TV FHD
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=278f424ae1d8fd1af0a6785558eb310b3f24f5fe4cad421079c510156b260500&exp=1649376050
@@ -735,12 +747,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a
 https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w837482329_b2628000.m3u8?WebM3UCL
 https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w1779226923_b2820000.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Kt0hQcXvP0vMFPqTwvHZ9uSGsjUiwVJIjQ&usqp=CAU"group-title="ARGENTINA",MC URBANO
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL128/O0U9MTY1MTk2NzUyMztBPTE7Sz0wO1A9MDExMTA7Uz01MDY5NDY5MjI5Y2M4ZTI5MGIwM2FjM2QyOTg1ZTBkMzVjYjlmZGRh/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_128&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Kt0hQcXvP0vMFPqTwvHZ9uSGsjUiwVJIjQ&usqp=CAU"group-title="ARGENTINA",MC MAX
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL1104/O0U9MTY1MTk2ODIwMjtBPTE7Sz0wO1A9MDExMTA7Uz0yODJlMjQwN2UzYzI3NjE1MmM1Y2IwZWNiZDliNmNhMGFjMzdjZDI5/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1104&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMDUfmdrSfpM7clCTGUfh580H5P3nrkdWyOg&usqp=CAU"group-title="ARGENTINA",SPIRIT TV
 https://cdnlive.myspirit.tv:443/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
@@ -1055,8 +1063,7 @@ http://etvhome.com:25461/jose5/jose/28828
 http://edge2-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8?lang=en
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_O_yDJ3BrVGVM7SY08qrsHI2FUHZYYqQg&usqp=CAU"group-title="ARGENTINA",E-TV
-https://59ce1298bfb98.streamlock.net:443/emprendetv/emprendetv/chunklist_w68446214.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png"group-title="ARGENTINA",MULTIVISION
@@ -1385,9 +1392,6 @@ https://s1.tvdatta.com:3707/live/redtvelive.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png"group-title="ARGENTINA",UNO HD
-http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69250.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png"group-title="ARGENTINA",CARACOL FHD
 http://gratis.shortgod.com/laspe930/tv2.php?c=caracol
@@ -1697,8 +1701,6 @@ https://movil.ejeserver.com/live/verteve.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="ARGENTINA", BELLA ASUNCIÓN TV
-https://tvdatta.com:3602/stream/play.m3u8
 
 
 
