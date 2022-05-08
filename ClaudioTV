@@ -145,6 +145,9 @@ https://g4.vxral-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100
 http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png"group-title="ARGENTINA",TELEMAX HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_120274.png"group-title="ARGENTINA",CANAL 26 HD
 https://live-edge01.telecentro.net.ar:443/live/c26.smil/chunklist_w1368121916_b2628000_sleng.m3u8
@@ -165,7 +168,15 @@ http://edge7-ccast-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoti
 #EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/lanacionar/NXKF436PYFDRLJJB77LJU7JVQA.png"group-title="ARGENTINA",LN
 http://edge4-sl.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
 
+#EXTINF:-1 tvg-logo="https://arteysociedad.com.ar/wp-content/uploads/2020/10/IP.jpg"group-title="ARGENTINA",IP HD
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png"group-title="ARGENTINA", CANAL ENCUENTRO  22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Volver95.png/revision/latest?cb=20200515025718"group-title="ARGENTINA",VOLVER
+http://edge3-sl.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8?syo
 
 
 
@@ -210,22 +221,11 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://arteysociedad.com.ar/wp-content/uploads/2020/10/IP.jpg"group-title="ARGENTINA",IP HD
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png"group-title="ARGENTINA",TELEMAX HD
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png"group-title="ARGENTINA", CANAL ENCUENTRO  22.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Volver95.png/revision/latest?cb=20200515025718"group-title="ARGENTINA",VOLVER
-http://edge3-sl.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8?syo
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="ARGENTINA",CANAL 10 MDP.
