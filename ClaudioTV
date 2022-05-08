@@ -838,12 +838,17 @@ http://45.225.95.170:8000/play/a0k1/index.m3u8
 http://etvhome.com:25461/jose5/jose/22386
 
 
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png"group-title="LIVE TV SD",HBO2 FHD
+http://edge-live14-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="LIVE TV SD",HBO PLUS
 http://45.225.95.170:8000/play/a0pd/index.m3u8
 http://etvhome.com:25461/jose5/jose/22387
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="LIVE TV SD",HBO PLUS FHD
+http://edge-live14-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8?lang=en
 http://edge-live14-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8?lang=en
 
 
