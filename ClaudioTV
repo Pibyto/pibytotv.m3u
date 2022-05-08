@@ -719,6 +719,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeO6nrQIKVr-zZUr7lpNhzQ9chNQ1mljS03A&usqp=CAU"group-title="ARGENTINA", PLANETA TV MUSIC
+https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w837482329_b2628000.m3u8?WebM3UCL
 https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w1779226923_b2820000.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Kt0hQcXvP0vMFPqTwvHZ9uSGsjUiwVJIjQ&usqp=CAU"group-title="ARGENTINA",MC URBANO
