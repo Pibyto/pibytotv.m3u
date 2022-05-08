@@ -66,12 +66,12 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 http://iptv.streamhispanatv.net:25461/playgt/123456/18
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",CHOCHO TV
+#EXTINF:-1 tvg-logo="https://chochotv-net.webs.com/LOGO%201080.png"group-title="ARGENTINA",CHOCHO TV
 http://tvencasa.fun:2052/FGARCIA/FGARCIA/245269
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA", PÁNICO HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332"group-title="ARGENTINA", PÁNICO HD
 http://tvencasa.fun:2052/FGARCIA/FGARCIA/237816
 
 
