@@ -565,7 +565,10 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest?cb=20201020230413&path-prefix=es"group-title="ARGENTINA",PARAVISION
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45701
-https://systvplay.com:2083/Xk8FN23HueyY/vPazhRGq9Nxh/15614
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest?cb=20201020230413&path-prefix=es"group-title="ARGENTINA",PARAVISION HD opc 2
+http://edge2-ccast-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-31-at-12.29.17-300x210.jpeg"group-title="ARGENTINA",  CANAL RTV 12 
