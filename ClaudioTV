@@ -907,6 +907,11 @@ http://45.225.95.170:8000/play/a0pe/index.m3u8
 http://etvhome.com:25461/jose5/jose/48846
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title="LIVE TV SD",HBO SIGNATURE FHD
+http://edge9-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/800px-Logo_Eurochannel.png"group-title="ARGENTINA",EURO CHANNEL
 https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
 
@@ -921,7 +926,8 @@ http://45.225.95.170:8000/play/a0pc/index.m3u8
 http://etvhome.com:25461/jose5/jose/28828
 
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSULdmSIL5Mf1psDICdNGc15uCHcaeKw-4JA&usqp=CAU"group-title="LIVE TV SD",HBO XTREME FHD
+http://edge2-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8?lang=en
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_O_yDJ3BrVGVM7SY08qrsHI2FUHZYYqQg&usqp=CAU"group-title="ARGENTINA",E-TV
