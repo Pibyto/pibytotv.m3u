@@ -855,9 +855,9 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFR9GxjZRONi0PrFshtU4QOAOJPFlDoOM7w&usqp=CAU"group-title="LIVE TV SD",HBO FAMILY
 http://45.225.95.170:8000/play/a0pb/index.m3u8
-http://etvhome.com:25461/jose5/jose/31027
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFR9GxjZRONi0PrFshtU4QOAOJPFlDoOM7w&usqp=CAU"group-title="LIVE TV SD",HBO FAMILY FHD
+http://edge-live14-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="ARGENTINA",CINE SONY
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
