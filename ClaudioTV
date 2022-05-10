@@ -162,6 +162,7 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE HD
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1652312610~acl=%2f*~data=hdntl~hmac=fd2d9d404920f505890a70d42a3f85722ea8620c9a8c3da25860ba6bb0d866e2/master-mtlf.m3u8
 https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1651782180~exp=1651789380~acl=/i/appmitelefe_1@326430/*~hmac=c26bb0eaff36051a33695eb477dd13d1a76d4fec58bff5c980e196fa0445f96a
 
 
