@@ -31,7 +31,7 @@ https://vsd103.mycdn.me:443/hls/1698824391191.m3u8/sig/2XVDt5Uk9Jk/expires/16520
 #EXTINF:-1 tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="ARGENTINA",EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/96d52a_49fe3188a59f416fb5fe5ab6631880f2~mv2.png/v1/crop/x_3,y_147,w_1046,h_770/fill/w_436,h_312,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%202021.png"group-title="ARGENTINA", EXPRESION TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/96d52a_49fe3188a59f416fb5fe5ab6631880f2~mv2.png/v1/crop/x_3,y_147,w_1046,h_770/fill/w_436,h_312,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%202021.png"group-title="ARGENTINA",EXTV HD
 http://iptv.streamhispanatv.net:25461/playgt/123456/88
 
 
