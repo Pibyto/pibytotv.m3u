@@ -232,13 +232,14 @@ http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKN8N8fNFYmsYDIK2BG_N8eAJlABse6uCdsA&usqp=CAU"group-title="ARGENTINA",RT ESPAÑOL
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg"group-title="ARGENTINA", TELESUR HD
+https://dddfnn6w75cj1.cloudfront.net:443/telesur-video-2022-02-22-080649802000/streamables/hls/telesur-video-2022-02-22-080649802000_stream.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQqrep_bDZCcIMtK1h6HOVyp4eN7jM0_Q0A&usqp=CAU"group-title="ARGENTINA",DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg"group-title="ARGENTINA",TELESUR HD
-https://dddfnn6w75cj1.cloudfront.net:443/telesur-video-2022-02-22-080649802000/streamables/hls/telesur-video-2022-02-22-080649802000_stream.m3u8
 
 
 
