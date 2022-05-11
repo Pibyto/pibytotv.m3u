@@ -10,6 +10,9 @@ https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",SOLIDARIA TV HD
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbiwmCinUBGdDg38VnU0V04qrcPaveRfiLu8o9bBb_w4giZsFN&s"group-title="ARGENTINA",SION TV RADIO 24HS
 http://stm.livecastradio.com:7076/;
 
