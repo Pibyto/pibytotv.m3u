@@ -211,7 +211,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
 http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",CANAL 11 DE LA COSTA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyelG7pryS22W9ratSxePux4GiD194yRyvwQ&usqp=CAU"group-title="ARGENTINA",CANAL 11 DE LA COSTA
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
 
