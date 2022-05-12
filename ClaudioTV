@@ -124,6 +124,10 @@ https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Volver95.png/revision/latest?cb=20200515025718"group-title="ARGENTINA",VOLVER
+http://edge3-sl.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8?syo
+
+
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="ARGENTINA", CANAL 34 HD 6.11 TDA
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
@@ -180,6 +184,11 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2U_n3VA7ER4qT2FggFEBcCxr3srHZsxVJw&usqp=CAU"group-title="ARGENTINA", UNIFE TV 25.1
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca3a4ede27
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE HD
@@ -289,8 +298,21 @@ http://edge5-sl.cvattv.com.ar/live/c6eds/Net_TV/SA_SAGEMCOM/Net_TV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png"group-title="ARGENTINA", CANAL ENCUENTRO  22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Volver95.png/revision/latest?cb=20200515025718"group-title="ARGENTINA",VOLVER
-http://edge3-sl.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8?syo
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png"group-title="ARGENTINA",LA2 HD
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="ARGENTINA", LOVE NATURE
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=562&w=1024"group-title="ARGENTINA",ANIMAL LIVE
+https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c9537b8932c837b49397343/chunklist_w976943082.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f1286c84570675.5d60f8fcdcb48.jpg"group-title="ARGENTINA",MOUNTAIN LIVE
+https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397357/chunklist_w842084170.m3u8
 
 
 
@@ -337,10 +359,6 @@ http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?WebM3UCL
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2U_n3VA7ER4qT2FggFEBcCxr3srHZsxVJw&usqp=CAU"group-title="ARGENTINA", UNIFE TV 25.1
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca3a4ede27
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/manifest.m3u8?p=79&s=1652032063&e=1652032183&h=fb8be57841eacf02e468a8edd0f54dc1
-https://dcunilive262-lh.akamaihd.net/i/dclive_1@424582/index_150_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CANAL 4 JUJUY
@@ -1808,15 +1826,6 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56b27f85ff3037045055037e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=562&w=1024"group-title="ARGENTINA",ANIMAL LIVE
-https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c9537b8932c837b49397343/chunklist_w976943082.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/f1286c84570675.5d60f8fcdcb48.jpg"group-title="ARGENTINA",MOUNTAIN LIVE
-https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397357/chunklist_w842084170.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7wO9e2y90oxpDLkDHcvDOmvD0jfQk1VFdw&usqp=CAU"group-title="ARGENTINA",RHEMA VISION
 https://stream.oursnetworktv.com:443/latin/rhema/chunklist_w1411865542.m3u8
@@ -2331,9 +2340,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7274806
 
 
 
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="ARGENTINA", LOVE NATURE
-https://bamus-spa-roku.amagi.tv/playlist.m3u8
-
 
 
 
@@ -2444,9 +2450,6 @@ http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10767
 https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist_1280x720.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png"group-title="ARGENTINA",LA2 HD
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&WebM3UCL
 
 
 
