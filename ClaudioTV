@@ -241,6 +241,11 @@ https://g4.vxral-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1024px-C5N_logo.svg.png"group-title="ARGENTINA",C5N FHD
 http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
+#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/cropped-atvargentina-favicon.png"group-title="ARGENTINA",ATV AR
+https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/chunklist_w1069462215.m3u8
+https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?WebM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKN8N8fNFYmsYDIK2BG_N8eAJlABse6uCdsA&usqp=CAU"group-title="ARGENTINA",RT ESPAÑOL
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
@@ -1953,8 +1958,6 @@ https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
 http://latinoamericatv.vip:8080/alberto12/alberto12/111269
 
 
-#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/cropped-atvargentina-favicon.png"group-title="ARGENTINA",ATV AR
-https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?WebM3UCL
 
 
 
