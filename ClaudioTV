@@ -448,7 +448,7 @@ http://tvencasa.fun:2052/4236/4236/173927
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151412
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="ARGENTINA", TNT SP HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="ARGENTINA", TNT SPORTS HD
 http://edge9-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/153801.m3u8
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
@@ -478,7 +478,8 @@ http://edge10-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_SAGEMCOM/TyC_Inte
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ALLSPORTS HD
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1358957669.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png"group-title="ARGENTINA",Bein sport Xtra ñ
