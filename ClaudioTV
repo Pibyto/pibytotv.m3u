@@ -118,6 +118,9 @@ https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist
 #EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="ARGENTINA", PLANETA TV
 https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png"group-title="ARGENTINA",TELECINE PREMIUM HD
+http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="ARGENTINA", CIUDAD MAGAZINE FHD
@@ -505,6 +508,39 @@ http://s2.famousiptv.com:8080/leroy21/leroy22/73132
 http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16703
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ADgG4LDeTgc/maxresdefault.jpg"group-title="ARGENTINA",MMA TV
+https://alchimie-mmatv-samsung.amagi.tv:443/playlist1080_p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="ARGENTINA", BELLATOR MMA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="ARGENTINA", TV FIGHT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="ARGENTINA", GLORY KICKBOXING TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png"group-title="ARGENTINA",PELEAS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_PPep2i7McKw_nPD4xHaKEMJZ7BxhhuNWi9VNIHQLF9hJNqa&s"group-title="ARGENTINA ",LUCHA LIBRE AAA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
@@ -2087,9 +2123,6 @@ https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w191
 
 
 
-#EXTINF:-1 tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png"group-title="ARGENTINA",TELECINE PREMIUM HD
-http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
-
 
 
 
@@ -2690,20 +2723,12 @@ http://moontools.me:8080/tv1chago/1p7iYUyvZF/26169
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ADgG4LDeTgc/maxresdefault.jpg"group-title="DEPORTES",MMA TV
-https://alchimie-mmatv-samsung.amagi.tv:443/playlist1080_p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/76/15/0b/76150b0d12ac24b0ad83d7d1c4fba438.png"group-title="DEPORTES",UFC LIVE HD
-http://tv.thepremiummedia.com:8080/toni1/1toni/53372
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/82/28/df/8228df5bdbf40ea108fc263679549962.jpg"group-title="DEPORTES", COMBATE UFC
 http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16703
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ADgG4LDeTgc/maxresdefault.jpg"group-title="DEPORTES",MMA TV
+https://alchimie-mmatv-samsung.amagi.tv:443/playlist1080_p.m3u8
 
 
 
