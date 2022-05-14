@@ -466,6 +466,16 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSpor
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png"group-title="ARGENTINA",TENNIS CHANNEL UK
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"group-title="ARGENTINA",DAZN
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+
+
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg"group-title="ARGENTINA",TyC Sports FHD
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
@@ -478,7 +488,7 @@ http://edge10-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_SAGEMCOM/TyC_Inte
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ALLSPORTS HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd5VJBMxmgfymotXmRPiD6lBwx7Y-bykmGDw&usqp=CAU"group-title="ARGENTINA",ALLSPORTS HD
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1358957669.m3u8
 
 
@@ -2594,6 +2604,10 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/7e/7e36e802707b65c2fc16030a923928e5.jpeg"group-title="DEPORTES",TENNIS CHANNEL HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png"group-title="DEPORTES",TENNIS CHANNEL UK
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"group-title="DEPORTES",DAZN
