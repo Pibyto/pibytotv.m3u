@@ -180,6 +180,10 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Volver95.png/revision/latest?cb=20200515025718"group-title="ARGENTINA",VOLVER HD
 http://edge3-sl.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8?syo
 
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",VILLA MARIA HD
+https://fullvideo.enlaweb.com.ar:443/video81/video81/chunks.m3u8?nimblesessionid=62504&WebM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://nitter.pussthecat.org/pic/profile_images%2F1340488609623912448%2FifJLg-Oy.jpg"group-title="ARGENTINA",RETROPLUS HD
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w411956702.m3u8
 
