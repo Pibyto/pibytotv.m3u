@@ -16,8 +16,13 @@ https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w185088520
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz4NQ5FUq5qfrfmOd8kAmINkVXX9czCftTTg&usqp=CAU"group-title="ARGENTINA",PTV
-https://stream.oursnetworktv.com/latin/remaPresencia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/660898970/t192_400x400.jpg"group-title="ARGENTINA",CINECLUB
+https://servilive.com:3176/live/cineclublive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA",ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
 
 
 
@@ -740,17 +745,9 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA",ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg"group-title="ARGENTINA",TELEMAX
 https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w693779543.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/660898970/t192_400x400.jpg"group-title="ARGENTINA",CINECLUB
-https://servilive.com:3176/live/cineclublive.m3u8
 
 
 
@@ -1563,10 +1560,6 @@ https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/TUTV_11_2014.png/1200px-TUTV_11_2014.png"group-title="ARGENTINA",CANAL TUTV
-https://paneltv.net:3978/hybrid/play.m3u8
 
 
 
