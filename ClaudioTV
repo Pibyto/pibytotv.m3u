@@ -271,6 +271,7 @@ https://g1.vxral-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="ARGENTINA",CANAL 26 HD
+https://redirector.gvt1.com/api/manifest/hls_playlist/id/89ba11708066401d/itag/211/source/dclk_video_ads/requiressl/yes/ratebypass/yes/pfa/1/goi/160/sgoap/clen%3D481241%3Bdur%3D14.930%3Bgir%3Dyes%3Bitag%3D141%3Blmt%3D1645739012049685/sgovp/clen%3D5775668%3Bdur%3D14.880%3Bgir%3Dyes%3Bitag%3D217%3Blmt%3D1645739020328042/hls_chunk_host/rr8---sn-uxax4vopj55gb-x1xr.googlevideo.com/ei/UFOAYv2bMMOpobIPprChqAI/playlist_type/LIVE/acao/yes/mime/application%2Fx-mpegURL/ctier/L/initcwndbps/8410/mh/Ez/mip/186.132.96.153/mm/31/mn/sn-uxax4vopj55gb-x1xr/ms/au/mv/m/mvi/8/pl/18/dover/6/txp/0000224/mt/1652576699/ip/0.0.0.0/ipbits/0/expire/1684113097/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,pfa,goi,sgoap,sgovp,hls_chunk_host,ei,playlist_type,acao,mime,ctier,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/signature/7E261D48DC18A9EA80120CBF4810B7DF642DAD49.5A7FFCE89403DDD933BF6967C6FE3B3B1E140D29/key/dg_yt0/playlist/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png"group-title="ARGENTINA",CRONICA HD
