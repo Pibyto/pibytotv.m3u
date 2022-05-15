@@ -3545,11 +3545,11 @@ https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chu
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qMliNvi0Y9yS71NDAFr8lr62W42tAkgKOg&usqp=CAU"group-title="ARGENTINA",UNCHARTED
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qMliNvi0Y9yS71NDAFr8lr62W42tAkgKOg&usqp=CAU"group-title="ARGENTINA",UNCHARTED 2022
 https://peerlook.ru:443/static/streaming-playlists/hls/d6753f0b-54b6-48f2-8034-2f5fc79984e3/aa947e8f-3bd4-42ed-95e3-4bd2bcb5d63b-804.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img.ecartelera.com/noticias/fotos/68300/68317/1.jpg"group-title="PELICULAS",SONY 2
+#EXTINF:-1 tvg-logo="https://img.ecartelera.com/noticias/fotos/68300/68317/1.jpg"group-title="PELICULAS",SONY 2 2022
 https://peerlook.ru:443/static/streaming-playlists/hls/82265829-0684-4643-9cf9-91a565fd712b/6c161c33-b00d-4e08-bb0b-6b25af3f9c33-720.m3u8
 
 
@@ -3568,8 +3568,13 @@ https://servidor-4.tk/Uploads/Crimen/The-Batman-2022-lat.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2x9V8PWqPfMPO_le4kmjKCs_q5FnUuEpsQ&usqp=CAU"group-title="PELICULAS", AMBULANCIA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2x9V8PWqPfMPO_le4kmjKCs_q5FnUuEpsQ&usqp=CAU"group-title="PELICULAS", AMBULANCIA 2022
 https://peertube.linuxrocks.online:443/static/streaming-playlists/hls/a93c6b71-8f72-49a6-9cf1-72355f7f1610/d24c13bd-53aa-4800-9c49-3c76751a6086-798.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuOQPxJ9-ujuzot_QEfGYjM6KePWCx2thQYw&usqp=CAU"group-title="PELICULAS",EN LA TORMENTA 2022
+https://server31.pelisloadtop.com/server31/3c1ae18700fb0bc08b83dfd060924525/EP.0.2.v0.1645859230.720.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pictures.betaseries.com/films/affiches/es/7525.jpg"group-title="PELICULAS",CUATRO HERMANOS
