@@ -89,7 +89,7 @@ https://emisoras.hn:8081/cholutecatv/tracks-v1a1/mono.m3u8
 https://srv.panelcast.net/aovision/aovision/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ROMANA TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNDc4lqZVzIq-auu7syIWEyHU3iW5laIgP6g&usqp=CAU"group-title="ARGENTINA",ROMANA TV HD
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 
 
