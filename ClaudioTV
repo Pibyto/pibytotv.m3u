@@ -93,6 +93,11 @@ https://srv.panelcast.net/aovision/aovision/playlist.m3u8
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 
 
+
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA", SANTIAGO TV HD
+http://cdn.santiagotv.net:3228/live/santiagotvlive.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://scontent.feze7-2.fna.fbcdn.net/v/t1.6435-9/65050822_2230987586949438_2233456051313704960_n.png?stp=cp0_dst-png_p64x64&_nc_cat=104&ccb=1-6&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeHvCQBIhzpR_PdjarQNBGZOiMoQUenzvjWIyhBR6fO-Na-44mkPkcW0eho4pqCrRLbWkzX0NTFa7gG3Y_mD_0mc&_nc_ohc=mtMvVnVy7fQAX8d0Vdu&_nc_ht=scontent.feze7-2.fna&oh=00_AT_-JveEiFKshrx5JQPSNvKwiUu4EByi4WWgLVyhd3cZag&oe=62A4E7E7"group-title="ARGENTINA",CANAL 2 PERICO HD
 https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/chunklist_w1200022690.m3u8?WebM3UCL
 
