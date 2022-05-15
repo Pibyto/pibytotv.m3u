@@ -66,8 +66,6 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/88
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-novelas-bo.png"group-title="ARGENTINA",SEOTV NOVELAS
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFDg6rj78Wram3JxH8JQwyQyensgsfIozOA&usqp=CAU"group-title="ARGENTINA", MONTECRISTO DIGITAL
-https://cloudflare.streamgato.us:3079/live/montecristidigitallive.m3u8?DVR
 
 
 
@@ -84,6 +82,17 @@ https://srv.panelcast.net/aovision/aovision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA", ALTAR TV
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jWFndt1lNlg9q7oiwUvUQbvnyCpHGLd4UA&usqp=CAU"group-title="ARGENTINA", VIWIX TV
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png"group-title="ARGENTINA",DIOS TE VE HD
@@ -329,10 +338,6 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/c
 
 #EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg"group-title="ARGENTINA",CANAL 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEx5VnjJek-wAwJKo7CtK_b7GRpPBY19J3w&usqp=CAU"group-title="ARGENTINA", CANAL 11 MACHAGAI
@@ -823,8 +828,6 @@ https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jWFndt1lNlg9q7oiwUvUQbvnyCpHGLd4UA&usqp=CAU"group-title="ARGENTINA", VIWIX TV
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/puntacanatv.jpg"group-title="ARGENTINA", PUNTA CANA TV
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
