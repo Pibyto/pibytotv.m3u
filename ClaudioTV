@@ -252,10 +252,16 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443
 
 
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1w7tEcHXoZYs661t48QVRHh-sIaXmB0KsQ&usqp=CAU"group-title="ARGENTINA",MULTIVISION SALTA HD
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2U_n3VA7ER4qT2FggFEBcCxr3srHZsxVJw&usqp=CAU"group-title="ARGENTINA", UNIFE TV 25.1
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca3a4ede27
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PU HD
@@ -334,16 +340,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA", CANAL 32 SPTV HD
 https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2U_n3VA7ER4qT2FggFEBcCxr3srHZsxVJw&usqp=CAU"group-title="ARGENTINA", UNIFE TV 25.1
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca3a4ede27
 
 
 
