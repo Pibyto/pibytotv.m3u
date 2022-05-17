@@ -1472,7 +1472,7 @@ http://gratis.shortgod.com/laspe930/tv2.php?c=
 http://etvhome.com:25461/jose5/jose/27862
 
 
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_spt-renueva-su-marca-insignia-a-sony-channel.jpg"group-title="LIVE TV SD",SONY
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_spt-renueva-su-marca-insignia-a-sony-channel.jpg"group-title="LIVE TV SD",SONY HD
 https://edge1.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u8
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151751
 http://etvhome.com:25461/jose5/jose/73576
@@ -1490,7 +1490,8 @@ http://etvhome.com:25461/jose5/jose/13357
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbHqaCKE71WbUOuh2T91kqEor9y2GlWs87C1e_mBjVeYmBtI&s"group-title="LIVE TV SD",TNT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbHqaCKE71WbUOuh2T91kqEor9y2GlWs87C1e_mBjVeYmBtI&s"group-title="LIVE TV SD",TNT HD
+https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151761
 https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 http://etvhome.com:25461/jose5/jose/13367
@@ -1509,7 +1510,8 @@ http://etvhome.com:25461/jose5/jose/36360
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/FX_HD_2013.png/revision/latest?cb=20180216195050"group-title="LIVE TV SD",FX
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/FX_HD_2013.png/revision/latest?cb=20180216195050"group-title="LIVE TV SD",FX HD
+https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151731
 https://cdn.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 http://etvhome.com:25461/jose5/jose/13344
