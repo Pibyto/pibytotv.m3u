@@ -1350,6 +1350,19 @@ http://edge2-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvc06HCIZt4t4UD39FImL8awxQ9vrMOwqzvg&usqp=CAU"group-title="LIVE TV SD", HISTORY HD
+https://edge1.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png"group-title="LIVE TV SD",NAT GEO HD
+https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://ideakreativa.net/wp-content/uploads/2019/04/discover-nuevo-logo.jpg"group-title="LIVE TV SD", DISCOVERY HD
+https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png"group-title="ARGENTINA",MULTIVISION
@@ -1437,6 +1450,12 @@ https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
 http://etvhome.com:25461/jose5/jose/27683
 http://gratis.shortgod.com/laspe930/tv4.php?c=82&f=.m3u8
 http://etvhome.com:25461/jose5/jose/36347
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png"group-title="LIVE TV SD",A&E HD
+https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="LIVE TV SD", CINECANAL
