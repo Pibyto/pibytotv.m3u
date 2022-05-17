@@ -1462,7 +1462,8 @@ http://gratis.shortgod.com/laspe930/tv2.php?c=paramount
 http://etvhome.com:25461/jose5/jose/28827
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="LIVE TV SD",SPACE
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="LIVE TV SD",SPACE HD
+https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151752
 https://edge5-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space-avc1_3900000=10002.m3u8
 http://etvhome.com:25461/jose5/jose/27861
