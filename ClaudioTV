@@ -1444,7 +1444,8 @@ http://gratis.shortgod.com/laspe930/tv4.php?c=44&f=.m3u8
 http://etvhome.com:25461/jose5/jose/92604
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png"group-title="LIVE TV SD",CINEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png"group-title="LIVE TV SD",CINEMAX HD
+https://h3.ustvgo.la/Cinemax/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDIyIDEyOjIyOjA4IEFNJmhhc2hfdmFsdWU9bC9KeVpXY2wrb2w4cG9icDkxbnpPQT09JnZhbGlkbWludXRlcz0yNDA=
 https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 http://etvhome.com:25461/jose5/jose/13390
 http://gratis.shortgod.com/laspe930/tv4.php?c=43&f=.m3u8
