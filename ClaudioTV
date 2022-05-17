@@ -43,6 +43,13 @@ https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 #EXTINF:-1 tvg-logo="https://www.misionvida.org/wp-content/themes/veraka_mv/mvtv/logos.jpg"group-title="ARGENTINA", MISION VIDA TV HD
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/movie-central-logo-85DE28681B-seeklogo.com.png"group-title="ARGENTINA",MOVIES CENTRAL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/b6541dd8-ae92-4d29-a7fd-ce28aaacd427/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png"group-title="ARGENTINA", IMAGEN TELEVISIÓN HD
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlmcpX5ckhhQRSCOwYmt_wYtYs-mEdEMgb5B0t4Ja9SU)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrY14IzkBHTBEctUYibVwM_yE5Hug6tBtR2QhrWWfUDnqa4ks&s"group-title="ARGENTINA",SEOTV HD
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
