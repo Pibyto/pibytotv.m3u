@@ -1463,6 +1463,11 @@ http://etvhome.com:25461/jose5/jose/36347
 https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://ipla-e2-18.pluscdn.pl/p/redb/dg/dgnv8d5zzo9qa5jqky17vo26o2z7btuf.jpg"group-title="LIVE TV SD",SUNDANCE HD
+https://bcovlive-a.akamaihd.net:443/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"group-title="LIVE TV SD",TCM
+https://edge1.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="LIVE TV SD", CINECANAL HD
