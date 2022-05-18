@@ -1700,6 +1700,13 @@ http://gratis.shortgod.com/laspe930/tv2.php?c=sony
 http://etvhome.com:25461/jose5/jose/13369
 
 
+#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png"group-title="CINE PREMIUM",COMEDY CENTRAL FHD
+https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png"group-title="CINE PREMIUM",ESTUDIOS UNIVERSAL
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151753
 https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
