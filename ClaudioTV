@@ -2445,7 +2445,7 @@ https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist
 
 
 
-#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/dims4/default/f8377bc/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F31%2Fba%2F7b82868048868e2c1df2d580541b%2Fprendetv-hero-image-414x230-sept2021.png"group-title="ARGENTINA",PRENDETV - LIGA MX
+#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/dims4/default/f8377bc/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2F31%2Fba%2F7b82868048868e2c1df2d580541b%2Fprendetv-hero-image-414x230-sept2021.png"group-title="DEPORTES",PRENDETV - LIGA MX
 https://dip0m6wuccbi7.cloudfront.net:443/dist/samsungtv/193/hls/master/playlist_1280x720.m3u8
 
 
@@ -2466,12 +2466,6 @@ https://dip0m6wuccbi7.cloudfront.net:443/dist/samsungtv/193/hls/master/playlist_
 
 
 
-
-
-
-
-#XTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png"group-title="DEPORTES",FOX SPORTS PREMIUM HD
-http://gratis.shortgod.com/lala4q/tv5.php?c=658&f=.m3u8
 
 
 
@@ -2500,34 +2494,13 @@ https://edge-live34-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.
 
 
 
-#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/900/439/png-transparent-television-channel-gol-tv-cnt-sports-zee-tv-logo-television-logo-logo-vector-thumbnail.png"group-title="DEPORTES",GOL TV
-http://tv.thepremiummedia.com:8080/toni1/1toni/3755
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/2560px-Tigo_Sports_logo.svg.png"group-title="DEPORTES",TIGO SPORTS PY
-http://tv.thepremiummedia.com:8080/toni1/1toni/7435
-
-
-#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F889%2Flook-sport-hd-2.png"group-title="DEPORTES",LOOKSPORTS + HD
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
-
-
-
-#EXTINF:-1 tvg-logo="https://www.incomod.info/wp-content/uploads/2020/03/look-sport-3-online-hd-1.jpg"group-title="DEPORTES",LOOKSPORT 3 HD
-https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?mvk
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://files.antena2.com/antena2/public/2020-02/win__3_0.jpg"group-title="DEPORTES", WIN SPORTS+
 
 
-
-
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png"group-title="DEPORTES",TENNIS CHANNEL UK
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 
 
@@ -2540,61 +2513,24 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png"group-title="DEPORTES",DAZN
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYiMJ3je9gjQdMWGCkDov5AY9dxtYFvCmKA&usqp=CAU"group-title="DEPORTES", BEINSPORTS
-http://s2.famousiptv.com:8080/leroy21/leroy22/73132
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYiMJ3je9gjQdMWGCkDov5AY9dxtYFvCmKA&usqp=CAU"group-title="DEPORTES", BEINSPORTS
-http://s2.famousiptv.com:8080/leroy21/leroy22/73134
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYiMJ3je9gjQdMWGCkDov5AY9dxtYFvCmKA&usqp=CAU"group-title="DEPORTES", BEINSPORTS
-http://s2.famousiptv.com:8080/leroy21/leroy22/73136
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png"group-title="DEPORTES",BEINSPORTS 1 PREMIUM
-http://s2.famousiptv.com:8080/leroy21/leroy22/73125
-
-
-
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png"group-title="DEPORTES",BEINSPORTS 2 PREMIUM
-http://s2.famousiptv.com:8080/leroy21/leroy22/73126
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png"group-title="DEPORTES",BEINSPORTS 3 PREMIUM
-http://s2.famousiptv.com:8080/leroy21/leroy22/73128
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3p5pXDp/BSP2.png"group-title="DEPORTES",BEIN SPORTS 2 PREMIUM
-http://ultrontv.xyz:80/clay424/clay424/98807
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png"group-title="DEPORTES",BEIN SPORTS 3
-http://moontools.me:8080/tv1chago/1p7iYUyvZF/14604
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.vive-santa-elena.com/wp-content/uploads/2019/08/204-2047658_urmdp-tv-directv-sports-logo-png-transparent-png.jpg"group-title="DEPORTES",DIRECTV SPORTS HD
-http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/59797.m3u8
-http://tv.thepremiummedia.com:8080/toni1/1toni/1091366
+
+
+
+
+
+
+
 
 
 
@@ -2609,46 +2545,14 @@ http://moontools.me:8080/tv1chago/1p7iYUyvZF/1194936
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGjMrFhMQMrR05ThXsozQmXoqOhteCzCddw&usqp=CAU"group-title="DEPORTES",TUDN US
-http://moontools.me:8080/tv1chago/1p7iYUyvZF/19917
 
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1315369786906468354/7PjFLwZP_400x400.jpg"group-title="DEPORTES",IZZI AFICIONADOS
-http://moontools.me:8080/tv1chago/1p7iYUyvZF/26169
-
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/82/28/df/8228df5bdbf40ea108fc263679549962.jpg"group-title="DEPORTES", COMBATE UFC
-http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16703
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ADgG4LDeTgc/maxresdefault.jpg"group-title="DEPORTES",MMA TV
-https://alchimie-mmatv-samsung.amagi.tv:443/playlist1080_p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="DEPORTES", BELLATOR MMA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
 
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="DEPORTES", TV FIGHT
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="DEPORTES", GLORY KICKBOXING TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png"group-title="DEPORTES",PELEAS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
@@ -2675,24 +2579,6 @@ https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/ind
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTES", TNT Sports  Brasil
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTES", TNT Sports 2 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTES", TNT Sports 3 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTES", TNT Sports 4 Brasil
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-
 
 
 
@@ -2701,13 +2587,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/GolTVLatam-2005.png/revision/latest?cb=20200105205611&path-prefix=es"group-title="DEPORTES", GOL TV
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1200px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png"group-title="DEPORTES", DIRECTV SPORTS 2
 
 
 
