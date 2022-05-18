@@ -1,6 +1,200 @@
 #ClaudioTV
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
+https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_spt-renueva-su-marca-insignia-a-sony-channel.jpg"group-title="CINE PREMIUM",SONY HD
+https://edge1.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png"group-title="CINE PREMIUM",COMEDY CENTRAL FHD
+https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png"group-title="CINE PREMIUM",ESTUDIOS UNIVERSAL
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151753
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbHqaCKE71WbUOuh2T91kqEor9y2GlWs87C1e_mBjVeYmBtI&s"group-title="CINE PREMIUM",TNT HD
+https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="CINE PREMIUM", WARNER TV
+https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/FX_HD_2013.png/revision/latest?cb=20180216195050"group-title="CINE PREMIUM",FX HD
+https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png"group-title="CINE PREMIUM",DHE FHD
+http://etvhome.com:25461/jose5/jose/31814
+
+
+
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png"group-title="CINE PREMIUM",STAR CHANNEL
+https://cdn.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG"group-title="CINE PREMIUM",AXN
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151711
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="CINE PREMIUM",TBS
+https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="CINE PREMIUM",UNIVERSAL CHANNEL
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151765
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png"group-title="CINE PREMIUM",TNT SERIES
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151762
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="CINE PREMIUM",AMC FHD
+https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png"group-title="CINE PREMIUM",A&E HD
+https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://ipla-e2-18.pluscdn.pl/p/redb/dg/dgnv8d5zzo9qa5jqky17vo26o2z7btuf.jpg"group-title="CINE PREMIUM",SUNDANCE HD
+https://bcovlive-a.akamaihd.net:443/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"group-title="CINE PREMIUM",TCM
+https://edge1.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
+
+EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="CINE PREMIUM", CINECANAL HD
+https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png"group-title="CINE PREMIUM",CINEMAX HD
+http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=65
+
+#EXTINF:-1 tvg-logo="https://cdn.elperiodico.com.gt/wp-content/uploads/2021/04/09163642/PPePF1.jpg"group-title="CINE PREMIUM",PARAMOUNT
+https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/800px-Logo_Eurochannel.png"group-title="CINE PREMIUM",EURO CHANNEL FHD
+https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.mercadonegro.pe/wp-content/uploads/2017/07/27012714/syfy_2017_logo.png"group-title="CINE PREMIUM",SYFY FHD
+https://cdn.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
+http://gratis.shortgod.com/lala4q/tv2.php?c=
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png"group-title="CINE PREMIUM",CINEMAX HD
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/FX_HD_2013.png/revision/latest?cb=20180216195050"group-title="CINE PREMIUM",FX HD
+
+
+#EXTINF:-1 tvg-logo="tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png"group-title="CINE PREMIUM",HBO FHD
+http://edge6-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png"group-title="CINE PREMIUM",HBO2 FHD
+http://edge-live14-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="CINE PREMIUM",HBO PLUS FHD
+http://edge-live14-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8?lang=en
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFR9GxjZRONi0PrFshtU4QOAOJPFlDoOM7w&usqp=CAU"group-title="CINE PREMIUM",HBO FAMILY FHD
+http://edge-live14-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="CINE PREMIUM",CINE SONY
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="CINE PREMIUM",HBO MUNDI FHD
+http://edge10-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="CINE PREMIUM",HBO POP FHD
+http://edge1-ccast-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title="CINE PREMIUM",HBO SIGNATURE FHD
+http://tvencasa.fun:2052/FGARCIA/FGARCIA/63427
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSULdmSIL5Mf1psDICdNGc15uCHcaeKw-4JA&usqp=CAU"group-title="CINE PREMIUM",HBO XTREME FHD
+http://edge2-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8?lang=en
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="CINE PREMIUM",GOLDEN
+http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=1054
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="CINE PREMIUM",GOLDEN PLUS
+http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=1056
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="CINE PREMIUM",GOLDEN EDGE
+http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=1055
+
+
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2013/07/starz-logo.jpg"group-title="CINE PREMIUM",STARZ
+https://h3.ustvgo.la/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIyIDY6MjM6MjMgUE0maGFzaF92YWx1ZT1MMUJ0RHEzejdWRVhwS3NTV2lQUlZ3PT0mdmFsaWRtaW51dGVzPTI0MA==
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_05/large_es.png.36ee9377a3b8a9c22b519d73de03d6c9.png"group-title="ARGENTINA", ESPN PREMIUM HD
 http://edge7-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 http://tvencasa.fun:2052/4236/4236/173927
@@ -1450,11 +1644,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb
 
 
 
+#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png"group-title="CINE Y SERIES",READY
+http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="CINE Y SERIES",VALLEVISION HD
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
-
 
 
 
@@ -1476,7 +1671,7 @@ https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
 https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="ARGENTINA",WOW TV
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="CINE Y SERIES",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
@@ -1490,289 +1685,25 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png"group-title="CINE PREMIUM",HBO FHD
-http://edge6-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="CINE", CINE ACCIÓN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
 
 
 
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png"group-title="CINE PREMIUM",HBO2 FHD
-http://edge-live14-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="CINE PREMIUM",HBO PLUS FHD
-http://edge-live14-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8?lang=en
-http://edge-live14-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8?lang=en
-http://edge-live14-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8?lang=en
 
 
 
-#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png"group-title="CINE Y SERIES",READY
-http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFR9GxjZRONi0PrFshtU4QOAOJPFlDoOM7w&usqp=CAU"group-title="CINE PREMIUM",HBO FAMILY FHD
-http://edge-live14-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="CINE PREMIUM",CINE SONY
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://carbonmade-media.accelerator.net/17760333;640x367.jpeg"group-title="CINE", CINE PREMIER
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
 
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="CINE", CINE ESTELAR 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="CINE PREMIUM",HBO MUNDI FHD
-http://edge10-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="CINE", RUN:TIME MX
-https://ammo-espanol-plex.amagi.tv:443/playlistR1080p.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="CINE PREMIUM",HBO POP FHD
-http://edge1-ccast-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2FlH43M3O5ySAzltsmgCiUoVDyzyG79rEA&usqp=CAU"group-title="CINE",CGTN ESPAÑOL
-https://livees.cgtn.com/1000e/prog_index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title="CINE PREMIUM",HBO SIGNATURE FHD
-http://tvencasa.fun:2052/FGARCIA/FGARCIA/63427
-http://edge7-ccast-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
-http://edge9-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/800px-Logo_Eurochannel.png"group-title="CINE PREMIUM",EURO CHANNEL FHD
-https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.mercadonegro.pe/wp-content/uploads/2017/07/27012714/syfy_2017_logo.png"group-title="CINE PREMIUM",SYFY FHD
-https://cdn.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSULdmSIL5Mf1psDICdNGc15uCHcaeKw-4JA&usqp=CAU"group-title="CINE PREMIUM",HBO XTREME FHD
-http://edge2-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8?lang=en
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png"group-title="CINE Y SERIES",MULTIVISION
-https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/noticiashoraxhora.com/wp-content/uploads/2021/03/IMG-20211124-WA0128.jpg?resize=250%2C250&ssl=1&is-pending-load=1"group-title="CINE Y SERIES",HORA X HORA TV
-https://cdn2.streamgato.us:443/horaxhoratelevision/horaxhoratelevision/chunklist_w724427598.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg"group-title="CINE Y SERIES", TVS 
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLxkc2GWYAIQOt6.png"group-title="CINE Y SERIES", GUAYMATE HD
-https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZqGpWv7qqmY/maxresdefault.jpg"group-title="CINE Y SERIES",WTV CANAL 20
-https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="CINE PREMIUM",GOLDEN
-http://tvencasa.fun:2052/FGARCIA/FGARCIA/245270
-http://etvhome.com:25461/jose5/jose/13347
-http://etvhome.com:25461/jose5/jose/76125
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="CINE PREMIUM",GOLDEN PLUS
-http://tvencasa.fun:2052/FGARCIA/FGARCIA/63423
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151734
-http://gratis.shortgod.com/laspe930/tv4.php?c=73&f=.m3u8
-http://etvhome.com:25461/jose5/jose/37927
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="CINE PREMIUM",GOLDEN EDGE
-http://tvencasa.fun:2052/FGARCIA/FGARCIA/63280
-http://etvhome.com:25461/jose5/jose/97691
-http://gratis.shortgod.com/laspe930/tv4.php?c=74&f=.m3u8
-http://etvhome.com:25461/jose5/jose/13346
-
-
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2013/07/starz-logo.jpg"group-title="CINE PREMIUM",STARZ
-https://h3.ustvgo.la/StarZ/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOC8yMDIyIDY6MjM6MjMgUE0maGFzaF92YWx1ZT1MMUJ0RHEzejdWRVhwS3NTV2lQUlZ3PT0mdmFsaWRtaW51dGVzPTI0MA==
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="CINE PREMIUM",AMC HD
-https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
-http://etvhome.com:25461/jose5/jose/27683
-http://gratis.shortgod.com/laspe930/tv4.php?c=82&f=.m3u8
-http://etvhome.com:25461/jose5/jose/36347
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png"group-title="CINE PREMIUM",A&E HD
-https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://ipla-e2-18.pluscdn.pl/p/redb/dg/dgnv8d5zzo9qa5jqky17vo26o2z7btuf.jpg"group-title="CINE PREMIUM",SUNDANCE HD
-https://bcovlive-a.akamaihd.net:443/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"group-title="CINE PREMIUM",TCM
-https://edge1.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="CINE PREMIUM", CINECANAL HD
-https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
-http://etvhome.com:25461/jose5/jose/13387
-http://gratis.shortgod.com/laspe930/tv4.php?c=44&f=.m3u8
-http://etvhome.com:25461/jose5/jose/92604
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png"group-title="CINE PREMIUM",CINEMAX HD
-https://h3.ustvgo.la/Cinemax/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDIyIDEyOjIyOjA4IEFNJmhhc2hfdmFsdWU9bC9KeVpXY2wrb2w4cG9icDkxbnpPQT09JnZhbGlkbWludXRlcz0yNDA=
-https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
-http://etvhome.com:25461/jose5/jose/13390
-http://gratis.shortgod.com/laspe930/tv4.php?c=43&f=.m3u8
-http://etvhome.com:25461/jose5/jose/24860
-
-
-#EXTINF:-1 tvg-logo="https://cdn.elperiodico.com.gt/wp-content/uploads/2021/04/09163642/PPePF1.jpg"group-title="CINE PREMIUM",PARAMOUNT
-https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
-https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_spt-renueva-su-marca-insignia-a-sony-channel.jpg"group-title="CINE PREMIUM",SONY HD
-https://edge1.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png"group-title="CINE PREMIUM",COMEDY CENTRAL FHD
-https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png"group-title="CINE PREMIUM",ESTUDIOS UNIVERSAL
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151753
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbHqaCKE71WbUOuh2T91kqEor9y2GlWs87C1e_mBjVeYmBtI&s"group-title="CINE PREMIUM",TNT HD
-https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="CINE PREMIUM", WARNER TV
-https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/FX_HD_2013.png/revision/latest?cb=20180216195050"group-title="CINE PREMIUM",FX HD
-https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png"group-title="CINE PREMIUM",DHE FHD
-http://etvhome.com:25461/jose5/jose/31814
-
-
-
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png"group-title="CINE PREMIUM",STAR CHANNEL
-https://cdn.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG"group-title="CINE PREMIUM",AXN
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151711
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="CINE PREMIUM",TBS
-https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="CINE PREMIUM",UNIVERSAL CHANNEL
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151765
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png"group-title="CINE PREMIUM",TNT SERIES
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151762
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
-http://gratis.shortgod.com/lala4q/tv2.php?c=
-http://pms-tv.online:25461/pmstvfree/listagratis/16852
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png"group-title="CINE PREMIUM",CINEMAX HD
-http://45.225.95.170:8000/play/a0ly/index.m3u8
-http://gratis.shortgod.com/lala4q/tv5.php?c=638&f=.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/FX_HD_2013.png/revision/latest?cb=20180216195050"group-title="CINE PREMIUM",FX HD
-http://etvhome.com:25461/jose5/jose/13344
-http://gratis.shortgod.com/lala4q/tv5.php?c=495&f=.m3u8
 
 
 
@@ -1780,20 +1711,11 @@ http://gratis.shortgod.com/lala4q/tv5.php?c=495&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Seotvprovincias.jpg"group-title="CINE Y SERIES",SEO TV HD
 http://etvhome.com:25461/jose5/jose/148322
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK_Cn63dN18vD_g4RVPy_NLCF7j0rRUxZofQ&usqp=CAU"group-title="CINE Y SERIES", CANAL 36
 http://rtmp.info:8081/anexiontv/envivo/chunklist_w1084858600.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="CINE",CINE SONY
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://carbonmade-media.accelerator.net/17760333;640x367.jpeg"group-title="CINE", CINE PREMIER
@@ -1819,6 +1741,33 @@ https://s1.tvdatta.com:3707/live/redtvelive.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://www.google.com/search?q=logo+NUEVA+IMAGEN+TV&client=ms-android-motorola&sxsrf=APq-WBsT9To3lKP0H9HvWSYG2NYAdpmDdg%3A1650139172258&ei=JCBbYvqlD4WG1sQPusSLsAE&oq=logo+NUEVA+IMAGEN+TV&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAM6BwgjELADECc6CAgAEAgQBxAeOgQIABANOgYIABAHEB46BQgAEIAEOggIABAHEAoQHjoICAAQCBANEB5KBAhBGAFQ7A1Y4llgxGVoAHAAeACAAeYBiAHEDZIBBTguNy4xmAEAoAEByAEBwAEB&sclient=mobile-gws-wiz-serp#imgdii=Tj2uO0vAo5MJVM&imgrc=VI39eiwpWc3dEM"group-title="CRISTIANO",NUEVA IMAGEN TV
 http://server.miamitvchannel.com/externos/nuevaimagen/chunklist_w1749323216.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2FlH43M3O5ySAzltsmgCiUoVDyzyG79rEA&usqp=CAU"group-title="CINE Y SERIES",CGTN ESPAÑOL
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png"group-title="CINE Y SERIES",MULTIVISION
+https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/noticiashoraxhora.com/wp-content/uploads/2021/03/IMG-20211124-WA0128.jpg?resize=250%2C250&ssl=1&is-pending-load=1"group-title="CINE Y SERIES",HORA X HORA TV
+https://cdn2.streamgato.us:443/horaxhoratelevision/horaxhoratelevision/chunklist_w724427598.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg"group-title="CINE Y SERIES", TVS 
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLxkc2GWYAIQOt6.png"group-title="CINE Y SERIES", GUAYMATE HD
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZqGpWv7qqmY/maxresdefault.jpg"group-title="CINE Y SERIES",WTV CANAL 20
+https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
 
 
@@ -2113,6 +2062,7 @@ http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fe6ae09b087d724c5c5a5b5524dab2b1f8768cc475966d7ae3896931e7a3114d6.jpg"group-title="CINE Y SERIES",CATAVISION
 https://stmv1.zcastbr.com/catavision/catavision/playlist.m3u8
+
 
 
 
