@@ -31,6 +31,7 @@ https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL FHD
+https://vsd101.mycdn.me:443/hls/1698824391191.m3u8/sig/D7mC3UD7Pfg/expires/1652921915506/srcIp/186.132.38.135/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
 
 
@@ -2681,13 +2682,6 @@ https://dangertv-us.samsung.wurl.tv:443/3000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="CRISTIANO",TVR DIGITAL
-https://vsd116.mycdn.me:443/hls/1698824391191.m3u8/sig/Jtx3atVS9q4/expires/1652392910193/srcIp/186.132.97.130/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd143.mycdn.me:443/hls/1698824391191.m3u8/sig/jhchZChIRPk/expires/1652310949407/srcIp/186.132.97.130/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd143.mycdn.me:443/hls/1698824391191.m3u8/sig/y1VNemKpS-M/expires/1651498311384/srcIp/186.132.33.234/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/815/325/png-clipart-cinema-film-movie-theatre-film-poster-clapperboard.png"group-title="CRISTIANO", MOVIE FE
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 
@@ -2954,10 +2948,6 @@ https://rr1---sn-p5qs7nes.googlevideo.com/videoplayback?expire=1641073296&ei=MHb
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/518AXWN6QBL.jpg"group-title="VOD/CRISTIANO", RESCATADOS DEL INFIERNO
 https://rr6---sn-uxax4vopj55gb-x1xk.googlevideo.com/videoplayback?expire=1641075049&ei=CX3QYd3ULMOhkgbF86PIDw&ip=23.254.76.95&id=o-AOGFuQNPYviW7Wki9ZTdtby2fUbrj3mGMdrejRAejzng&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=2023.572&lmt=1603979382412676&fexp=24001373,24007246,24010698&beids=24010698&c=ANDROID&txp=6216222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgfAfWpo9bV1XoYkcpaUKwdg-8cWwUAOwHZEXrvTfdsOMCIQCNMdxRYNLFDT6WvCt1yCSViVKh3NFguiHJjpMMiFr5TQ%3D%3D&redirect_counter=1&rm=sn-a5mrk76&req_id=c40549ca920036e2&cms_redirect=yes&ipbypass=yes&mh=fo&mip=186.132.97.248&mm=31&mn=sn-uxax4vopj55gb-x1xk&ms=au&mt=1641053350&mv=m&mvi=6&pcm2cms=yes&pl=18&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl&lsig=AG3C_xAwRgIhAOEDrbZ0ajqKtraHaJKMGjzLEyl8EPNxdemO3M6ST5SCAiEA58M-V2c_dfLffrt3ZF24e4ojU2EQA2GPBMFyX487xdg%3D
 
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51XKrK4Io4L.jpg"group-title="DOCUMENTALES", NUEVO ORDEN MUNDIAL
-https://rr5---sn-p5qs7nek.googlevideo.com/videoplayback?expire=1641006934&ei=9XLPYe-EO8348gS59YDoCw&ip=154.21.37.163&id=o-AJ8b8AfzkMejmUqeuuFwUsHXY6F8W2XaPCK47xtvzOFK&itag=22&source=youtube&requiressl=yes&mh=YG&mm=31%2C26&mn=sn-p5qs7nek%2Csn-vgqsknld&ms=au%2Conr&mv=u&mvi=5&pl=23&vprv=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=2311.360&lmt=1585169667377146&mt=1640984631&fvip=5&fexp=24001373%2C24007246&c=ANDROID&txp=5316222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAJFDC5nZywYjJf55TyDcLGDcRBuq261PUMNoHV3mWCBdAiEA7qZCswNexIvRAO_qxmRLfRGpw15_4oyFKLzkfVIa1EA%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRQIgJCJbJshA-eVcC7pTiokmUj8UhNoiHHsElWooayXcsWYCIQCWsPHovxGYezEqZ4rzXDRpUogQug2jEQqaSmngcJrXtw%3D%3D
 
 
 #EXTINF:-1 tvg-logo = "https://i.ytimg.com/vi/S-g7kfFzx1E/maxresdefault.jpg"group-title="VOD/CRISTIANO", CONFECCIONES DE UN HIJO PRODIGO
