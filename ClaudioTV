@@ -1075,6 +1075,11 @@ http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=21&f=.m3u8
 http://tv.thepremiummedia.com:8080/toni1/1toni/32882
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdGiPYs_XWcPTG3I7XRf3M3qTJQMTC19CRA&usqp=CAU"group-title="DEPORTES",DIRECTV SPORTS +
+http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=936
+http://moontools.me:8080/tv1chago/1p7iYUyvZF/1194936
+
+
 
 #EXTINF:-1 tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/espn-logo-350x183.png?itok=heHZgbSx"group-title="DEPORTES",ESPN HD
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
@@ -1236,8 +1241,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdGiPYs_XWcPTG3I7XRf3M3qTJQMTC19CRA&usqp=CAU"group-title="DEPORTES",DIRECTV SPORTS +
-http://moontools.me:8080/tv1chago/1p7iYUyvZF/1194936
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXUhY73WDQaQP0NNBYuRGqKiAPfPqIlQlGkKilHr1zSxz3qo&s"group-title="DEPORTES",MOTORVISION TV
