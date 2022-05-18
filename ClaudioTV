@@ -1476,8 +1476,12 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png"group-title="CINE PREMIUM",HBO
-http://45.225.95.170:8000/play/a0k0/index.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png"group-title="CINE PREMIUM",HBO FHD
@@ -1488,22 +1492,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f
 
 
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png"group-title="CINE PREMIUM",HBO2
-http://45.225.95.170:8000/play/a0k1/index.m3u8
-http://etvhome.com:25461/jose5/jose/22386
-
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png"group-title="CINE PREMIUM",HBO2 FHD
 http://edge-live14-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="CINE PREMIUM",HBO PLUS
-http://45.225.95.170:8000/play/a0pd/index.m3u8
-http://etvhome.com:25461/jose5/jose/22387
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="CINE PREMIUM",HBO PLUS FHD
-http://tvencasa.fun:2052/FGARCIA/FGARCIA/245096
 http://edge-live14-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8?lang=en
 http://edge-live14-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8?lang=en
 http://edge-live14-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8?lang=en
@@ -1514,9 +1509,6 @@ http://edge-live14-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u
 http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFR9GxjZRONi0PrFshtU4QOAOJPFlDoOM7w&usqp=CAU"group-title="CINE PREMIUM",HBO FAMILY
-http://45.225.95.170:8000/play/a0pb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFR9GxjZRONi0PrFshtU4QOAOJPFlDoOM7w&usqp=CAU"group-title="CINE PREMIUM",HBO FAMILY FHD
 http://edge-live14-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
@@ -1539,10 +1531,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="CINE PREMIUM",HBO MUNDI
-http://45.225.95.170:8000/play/a0oh/index.m3u8
-http://etvhome.com:25461/jose5/jose/34967
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="CINE PREMIUM",HBO MUNDI FHD
@@ -1554,8 +1542,6 @@ https://ammo-espanol-plex.amagi.tv:443/playlistR1080p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="CINE PREMIUM",HBO POP
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151739
 
 
 
@@ -1566,10 +1552,6 @@ http://edge1-ccast-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title="CINE PREMIUM",HBO SIGNATURE
-http://45.225.95.170:8000/play/a0pe/index.m3u8
-http://etvhome.com:25461/jose5/jose/48846
 
 
 
@@ -1588,9 +1570,6 @@ https://cdn.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSULdmSIL5Mf1psDICdNGc15uCHcaeKw-4JA&usqp=CAU"group-title="CINE PREMIUM",HBO XTREME 
-http://45.225.95.170:8000/play/a0pc/index.m3u8
-http://etvhome.com:25461/jose5/jose/28828
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSULdmSIL5Mf1psDICdNGc15uCHcaeKw-4JA&usqp=CAU"group-title="CINE PREMIUM",HBO XTREME FHD
