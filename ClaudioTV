@@ -47,6 +47,7 @@ http://etvhome.com:25461/jose5/jose/31814
 
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png"group-title="CINE PREMIUM",STAR CHANNEL
+http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=42&f=.m3u8
 https://cdn.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG"group-title="CINE PREMIUM",AXN
@@ -58,6 +59,7 @@ http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151711
 https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="CINE PREMIUM",UNIVERSAL CHANNEL
+http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=79&f=.m3u8
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151765
 
 
