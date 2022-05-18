@@ -1,6 +1,17 @@
 #ClaudioTV
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbHqaCKE71WbUOuh2T91kqEor9y2GlWs87C1e_mBjVeYmBtI&s"group-title="CINE PREMIUM",TNT HD
+http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=41&f=.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
 https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
 
@@ -9,7 +20,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m
 https://edge1.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png"group-title="CINE PREMIUM",COMEDY CENTRAL FHD
+#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png"group-title="CINE PREMIUM",COMEDY CENTRAL HD
 https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
 
 
@@ -19,11 +30,10 @@ http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151753
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbHqaCKE71WbUOuh2T91kqEor9y2GlWs87C1e_mBjVeYmBtI&s"group-title="CINE PREMIUM",TNT HD
-https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="CINE PREMIUM", WARNER TV
+http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=40&f=.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
 
 
