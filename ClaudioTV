@@ -402,6 +402,97 @@ https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_O_yDJ3BrVGVM7SY08qrsHI2FUHZYYqQg&usqp=CAU"group-title="PARAGUAY",E-TV HD
+https://59ce1298bfb98.streamlock.net:443/emprendetv/emprendetv/chunklist_w68446214.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="PARAGUAY", BELLA ASUNCIÓN TV HD
+https://tvdatta.com:3602/stream/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="PARAGUAY",MI TV FHD
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=278f424ae1d8fd1af0a6785558eb310b3f24f5fe4cad421079c510156b260500&exp=1649376050
+https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
+
+
+#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="PARAGUAY",SOMOS DEL ESTE FHD
+https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest?cb=20201020230413&path-prefix=es"group-title="PARAGUAY",PARAVISION
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45701
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest?cb=20201020230413&path-prefix=es"group-title="PARAGUAY",PARAVISION FHD 
+http://edge2-ccast-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/06/Canal21-Ar-Logo1.jpg"group-title="PARAGUAY",ABC  FHD
+https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+https://d2e809bgs49c6y.cloudfront.net:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/keyframes/live-video_track=1200000.m3u8?caster
+
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png"group-title="PARAGUAY",SNT HD
+https://systvplay.com:2083/Xk8FN23HueyY/vPazhRGq9Nxh/15611
+
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png"group-title="PARAGUAY",SNT FHD
+http://edge3-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"group-title="PARAGUAY", TELEFUTURO HD
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45695
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"group-title="PARAGUAY", TELEFUTURO FHD
+http://edge1-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy-290x166.jpg"group-title="PARAGUAY", UNICANAL HD 3.2 AIRE DIGITAL
+http://45.55.127.106/live/unicanal_mid.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e9/Latele_offline.png/revision/latest?cb=20170112040241&path-prefix=es"group-title="PARAGUAY",LA TELE FHD
+http://edge7-ccast-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8?syo
+
+
+#EXTINF:-1 tvg-logo="https://www.trece.com.py/public/img/Logo-Trece.png"group-title="PARAGUAY",TRECE FHD
+http://edge4-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Sur_TV_Itapua_2013.png/revision/latest?cb=20171021201738"group-title="PARAGUAY",SUR TV FHD
+http://edge4-hr.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png"group-title="PARAGUAY",NPY FHD
+http://edge8-ccast-hr.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2017/10/C9N-VistaPrevia.png?fit=1000%2C1000&ssl=1"group-title="PARAGUAY",C9N FHD
+http://edge5-hr.cvattv.com.ar/live/c5eds/C9N_C4/SA_SAGEMCOM/C9N_C4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-31-at-12.29.17-300x210.jpeg"group-title="PARAGUAY", CANAL RTV 12 
+https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/py-canal-8-vision-tv-6069.jpg"group-title="PARAGUAY",CANAL 8 VISIÓN TV
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45709
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -552,9 +643,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://iptv.streamhispanatv.net:25461/playgt/123456/88
 
 
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-novelas-bo.png"group-title="CINE Y SERIES",SEOTV NOVELAS HD
-https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
 
 
@@ -724,6 +812,10 @@ https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c9537b8932c837b49397
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpxahvxoW5ryJTCqoltWFB0CSmJ38PRvAaA&usqp=CAU"group-title="DOCUMENTALES Y CULTURA",MOUNTAIN LIVE 4K
 https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397357/chunklist_w842084170.m3u8
+
+
+
+
 
 
 
@@ -1144,111 +1236,38 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png"group-title="CINE Y SERIES",UNO HD
 http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69250.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_O_yDJ3BrVGVM7SY08qrsHI2FUHZYYqQg&usqp=CAU"group-title="PARAGUAY",E-TV HD
-https://59ce1298bfb98.streamlock.net:443/emprendetv/emprendetv/chunklist_w68446214.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="PARAGUAY", BELLA ASUNCIÓN TV HD
-https://tvdatta.com:3602/stream/play.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="PARAGUAY",MI TV FHD
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=278f424ae1d8fd1af0a6785558eb310b3f24f5fe4cad421079c510156b260500&exp=1649376050
-https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
-
-
-#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="PARAGUAY",SOMOS DEL ESTE FHD
-https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest?cb=20201020230413&path-prefix=es"group-title="PARAGUAY",PARAVISION
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45701
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest?cb=20201020230413&path-prefix=es"group-title="PARAGUAY",PARAVISION FHD 
-http://edge2-ccast-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/06/Canal21-Ar-Logo1.jpg"group-title="PARAGUAY",ABC  FHD
-https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-https://d2e809bgs49c6y.cloudfront.net:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/keyframes/live-video_track=1200000.m3u8?caster
-
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png"group-title="PARAGUAY",SNT HD
-https://systvplay.com:2083/Xk8FN23HueyY/vPazhRGq9Nxh/15611
-
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png"group-title="PARAGUAY",SNT FHD
-http://edge3-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"group-title="PARAGUAY", TELEFUTURO HD
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45695
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"group-title="PARAGUAY", TELEFUTURO FHD
-http://edge1-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy-290x166.jpg"group-title="PARAGUAY", UNICANAL HD 3.2 AIRE DIGITAL
-http://45.55.127.106/live/unicanal_mid.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e9/Latele_offline.png/revision/latest?cb=20170112040241&path-prefix=es"group-title="PARAGUAY",LA TELE FHD
-http://edge7-ccast-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8?syo
-
-
-#EXTINF:-1 tvg-logo="https://www.trece.com.py/public/img/Logo-Trece.png"group-title="PARAGUAY",TRECE FHD
-http://edge4-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Sur_TV_Itapua_2013.png/revision/latest?cb=20171021201738"group-title="PARAGUAY",SUR TV FHD
-http://edge4-hr.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png"group-title="PARAGUAY",NPY FHD
-http://edge8-ccast-hr.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2017/10/C9N-VistaPrevia.png?fit=1000%2C1000&ssl=1"group-title="PARAGUAY",C9N FHD
-http://edge5-hr.cvattv.com.ar/live/c5eds/C9N_C4/SA_SAGEMCOM/C9N_C4.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-31-at-12.29.17-300x210.jpeg"group-title="PARAGUAY", CANAL RTV 12 
-https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/py-canal-8-vision-tv-6069.jpg"group-title="PARAGUAY",CANAL 8 VISIÓN TV
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45709
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJIGDtxN3fPK6NZBwkD7dl2SZm7kuDFDptw&usqp=CAU"group-title="CINE Y SERIES",PLAY MEDIOS TV
 https://iptv.streamhispanatv.net:2083/live/playgt/123456/87.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVMAX_logo.png/revision/latest/scale-to-width-down/262?cb=20220208160004&path-prefix=es"group-title="CINE Y SERIES",TVMAX HD
+https://bcovlive-a.akamaihd.net:443/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-c-WycWEw_H4/XtwM659Hk6I/AAAAAAAAASw/4ftRzkVVr2INhSlklwgV8K4c-FajWgOeQCK4BGAYYCw/s400/PARA%2BLA%2BPAGINA.png"group-title="CINE Y SERIES",CROM TV
+https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLBSSWE48MSMKxLZCNZ0YEYupXxG8TNiK6w&usqp=CAU"group-title="CINE Y SERIES",CANAL EVELYN
+https://srv1.mediastreamperu.com:8081/8004/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png"group-title="CINE Y SERIES",ANDES TV
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1256,7 +1275,6 @@ https://iptv.streamhispanatv.net:2083/live/playgt/123456/87.m3u8
 
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F727f4de6a319b31e9aa766153c0af631915d2c11557468f8447d81a10c543292.png"group-title="MUSICALES", RCKTV
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w1912863401.m3u8?WebM3UCL
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiob8azTJJPN3ab8FVqQ3ZA1Wnr1NUItky7g&usqp=CAU"group-title="MUSICALES",VEVO 2K
@@ -1268,8 +1286,6 @@ https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w837482329_b262800
 https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w1779226923_b2820000.m3u8?WebM3UCL
 
 
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMDUfmdrSfpM7clCTGUfh580H5P3nrkdWyOg&usqp=CAU"group-title="MUSICALES",SPIRIT TV
 https://cdnlive.myspirit.tv:443/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
@@ -1278,15 +1294,9 @@ https://cdnlive.myspirit.tv:443/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 http://service-stitcher.clusters.pluto.tv:80/proxy/6bc0815e-fe9a-464b-9d20-af824e8dcdc5/5da0d83f66c9700009b96d0e/5449180/playlist.m3u8?deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT60KgOjnmnZ2_5Y6LTs4qze-IKZwzpK3pMVA&usqp=CAU"group-title="MUSICALES",VEVO COUNTRY
 https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com:443/out/v1/f66d9d3fb088443baf9abae38ae01fef/live_8.m3u8
 http://service-stitcher.clusters.pluto.tv:80/proxy/a7f46d76-39c5-4794-883c-4d22a9c41fde/5da0d75e84830900098a1ea0/5449197/playlist.m3u8?deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbwx8v5jJOEwvgnbPMm0fX_GXE1qtMiilJ0Q&usqp=CAU"group-title="MUSICALES", VEVO REAGETON Y TRAP
@@ -1304,23 +1314,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVMAX_logo.png/revision/latest/scale-to-width-down/262?cb=20220208160004&path-prefix=es"group-title="CINE Y SERIES",TVMAX HD
-https://bcovlive-a.akamaihd.net:443/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-c-WycWEw_H4/XtwM659Hk6I/AAAAAAAAASw/4ftRzkVVr2INhSlklwgV8K4c-FajWgOeQCK4BGAYYCw/s400/PARA%2BLA%2BPAGINA.png"group-title="CINE Y SERIES",CROM TV
-https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLBSSWE48MSMKxLZCNZ0YEYupXxG8TNiK6w&usqp=CAU"group-title="CINE Y SERIES",CANAL EVELYN
-https://srv1.mediastreamperu.com:8081/8004/tracks-v1a1/mono.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png"group-title="CINE Y SERIES",ANDES TV
-https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+
 
 
 
@@ -1330,6 +1329,11 @@ https://bcovlive-a.akamaihd.net:443/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEQwp6ojbl2fxqMnO_zq3DkujkMR4VzOWcg&usqp=CAU"group-title="NOVELAS", KBO
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-novelas-bo.png"group-title="NOVELAS",SEOTV NOVELAS HD
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+
+#EXTINF:-1 tvg-logo="https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8"group-title="NOVELAS", TELESERIES
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 
 
 
@@ -1351,6 +1355,11 @@ https://byecableiptv.com:443/alfatv/alfatv.stream/chunklist_w1257975845.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="INFANTIL",TOONCAST
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+
+#EXTINF:-1 tvg-logo="https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8"group-title="INFANTIL",CANELA KIDS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-22Vr9Soc6gdKunQl2Ny5YMxDh0r5S2FZ-A&usqp=CAU"group-title="INFANTIL",ICARLY
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?advertisingId=&appName=web&appVersion=6.0.2-271615f9537e59ad39ce3706c1f53e155e4f8dc8&app_name=web&clientDeviceType=0&clientID=0e1dbd13-856a-4d47-8631-2008c79f2ff6&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=0e1dbd13-856a-4d47-8631-2008c79f2ff6&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=101.0.4951&marketingRegion=VE&serverSideAds=true&sessionID=714c1790-ce2d-11ec-95da-0242ac110003&sid=714c1790-ce2d-11ec-95da-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImUzNjFlNTMxLWY4ZDEtNGViNy05MThjLTI1MGE2ODkxMzI3YiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3MTRjMTc5MC1jZTJkLTExZWMtOTVkYS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE4Ni4xMzIuMTEzLjIxMyIsImNpdHkiOiJNb250ZSBHcmFuZGUiLCJwb3N0YWxDb2RlIjoiMTg0MiIsImNvdW50cnkiOiJBUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOi0zNC44MTUsImRldmljZUxvbiI6LTU4LjQ2OTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMS4wLjQ5NTEiLCJkZXZpY2VNYWtlIjoiY2hyb21pdW0td2VidmlldyIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjAuMi0yNzE2MTVmOTUzN2U1OWFkMzljZTM3MDZjMWY1M2UxNTVlNGY4ZGM4IiwiY2xpZW50SUQiOiIwZTFkYmQxMy04NTZhLTRkNDctODYzMS0yMDA4Yzc5ZjJmZjYiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9BcmdlbnRpbmEvQnVlbm9zX0FpcmVzIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1MTk3NDMxMSwianRpIjoiN2RmZGYxNzgtYThlZC00ZjkzLWFjNDAtZmUxNjg2MWQzNjg3IiwiaWF0IjoxNjUxOTQ1NTExLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TUdVeFpHSmtNVE10T0RVMllTMDBaRFEzTFRnMk16RXRNakF3T0dNM09XWXlabVkyIn0.iAXXq9I0mfaCwmygeZZjccLhoc7qdu-mlX6IuWF5H3g&masterJWTPassthrough=true&paln=AQzzBGQEuCW-ixehNaw1nutBryyHEPmnx1tX7p_7kWZoFX5Cv1Rigd7Jre8V_VsOg6Jm-URHeiwU4tXtJjNhde7DZ-a1gdQ_X5Jh_yIeeLDkFjU8t3SOUTfrSDQxmRDO-OwLNtRy1Qj3Rucimow-9Blgqr3eYHaIgva0wo7GeSfzJcSXhnix2lVQCiq9PmUoDp8UDOgogW_my9Xun3e0JJBhI-cf5B6wJUxk0pJjT9smYkdBG4aqQEw9_zKrrWFF6YPZVqML7Xk2dVK5HWM19A8nm3vhOzKDePdU9Hf0gaGLQK-ATxfmacb-jmk9opwg2AkiIchUCXS_-tg8cd2l-XvwMvfxwCTVhQV68AwnUh1719jqD1NQ4Vw-xyfyh1DlieQukl50iaaOUwWPm9oF7ZOpMTpcHPiPAnT0XvkwxfQ5q6yjNYICk2QxqhI422_xbQCtoAffUH9eLcwO35-DPipqFLGf5pT5_p0Gcv5QbRPOSssVYTEQDgUTbn4SESR3hAHVAHJWNUWoPZpB-pmogyvixPpBQIVKwmQdqrJ9TPvX7iWFxA76-A6rF9_9iblde-aACNVPNbjHBHRQzLYjwbC037zUnl_56bNIgG7rL6V64r3pvJMDLjD_St3Rk9vl66q1dmkea4_7xZlTxmDmuGg-4o-rbTvBS8Ct5gW4Zlg2esJLGtowVOEMUvsqWhWnEpMQiQN9qt0BAf7y-HdAW1TxWDIh5j7MJKrXedZfuBUqRWHwp0mxiEps1Z8HVU-yblsAC0upiYtBKUNI6e1aIvJpuBIj-BCwL3NOoegbcYX2hOvLHzEnampDl_ENMclKJ6J1-ICYd3pk3eni30U4wEEmWdfZvvWx-0F0vlGVzItyqbg5A57K7gwt2M2IGCdCOALRwwRs0QPftlr2WP2bYhzwiD3maxTcGKBlDc1jnWY37X2BAfKlyHNtFzMauA1gLqBJDAiHrgsHjp0hTlL3LZWYwuQQmQIIb36KZey7uDxk8cVYW2umJOnY_cq477pDtqbwCw_QHcz0EjUhEr5XcPyUOlUGvm1XhAaVXBJMpFIBM29gz5wpoF7cPaDMm1yvg-Vk4bcoEmkgo48aNPUt&eventVOD=
