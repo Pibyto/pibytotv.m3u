@@ -35,9 +35,8 @@ http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151753
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="CINE PREMIUM", WARNER TV
-http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=40&f=.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
-
+http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=40&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/FX_HD_2013.png/revision/latest?cb=20180216195050"group-title="CINE PREMIUM",FX HD
