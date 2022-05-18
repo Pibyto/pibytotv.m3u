@@ -728,6 +728,25 @@ https://play.amelbasoluciones.co:3546/live/boliviaradiotvlive.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.vive-santa-elena.com/wp-content/uploads/2019/08/204-2047658_urmdp-tv-directv-sports-logo-png-transparent-png.jpg"group-title="DEPORTES",DIRECTV SPORTS HD
 http://xgtv.club:8080/play/C8WTaInMKB4E0VfCk2nPyVa0ZhTH40K4QanOYAs3QmAF8yK9pzuaJuoPVKMiH7NA/ts
 http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/59797.m3u8
@@ -1526,7 +1545,7 @@ http://gratis.shortgod.com/laspe930/tv4.php?c=73&f=.m3u8
 http://etvhome.com:25461/jose5/jose/37927
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="CINE PREMIUM ",GOLDEN EDGE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="CINE PREMIUM",GOLDEN EDGE
 http://tvencasa.fun:2052/FGARCIA/FGARCIA/63280
 http://etvhome.com:25461/jose5/jose/97691
 http://gratis.shortgod.com/laspe930/tv4.php?c=74&f=.m3u8
