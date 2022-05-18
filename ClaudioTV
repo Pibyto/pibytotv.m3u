@@ -945,9 +945,11 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1358957669.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1169307701479989248/VGkpbncc_400x400.jpg"group-title="DEPORTES",ACCDN
+https://120sports-accdn-1-us.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe"group-title="DEPORTES",SPORT - TV
-https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/walxjawfo5x.m3u8?s=5Z8UITsAOxlD7b2H0jnnRA&e=1652906317
+
+
 
 
 #EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png"group-title="DEPORTES",BEIN SPORTS EXTRA Ñ
