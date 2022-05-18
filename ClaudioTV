@@ -245,6 +245,12 @@ https://vsd101.mycdn.me:443/hls/1698824391191.m3u8/sig/D7mC3UD7Pfg/expires/16529
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/880a23bb-ff0f-431f-a4b3-729db776b35d/5.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png"group-title="ARGENTINA",CANAL DE LA CIUDAD FHD
+https://g3.proy-slo.transport.edge-access.net:443/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA", ALTAR TV
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
@@ -990,6 +996,11 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png"group-title="DOCUMENTALES Y CULTURA",ANIMAL PLANET
+http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=94&f=.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png"group-title="DOCUMENTALES Y CULTURA",NAT GEO HD
 https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 
@@ -1175,10 +1186,6 @@ https://120sports-accdn-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcpvIGuzAxsfkhkwLoOQVxKGLmSQK48vHkmw&usqp=CAU"group-title="DEPORTES",BARĆA TV FHD
 https://streamamg-fcbar01.akamaized.net:443/hls/live/2040129/0_xa4d8syh/1080p/hdntl=exp=1652981525~acl=%2f*~data=hdntl~hmac=69dab5b24488404a4dfade513bf09faf8b10444cc64949bb0fc07f294a22d782/prog_index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e4/de/18/e4de1869c0eba3beab9ffc9d01660e65.jpg"group-title="DEPORTES",REAL MADRID TV
-https://playback2.akamaized.net/streams/23200525_10231355_lsi53gs62wvae2yir31_1/exp=1652997060~acl=%2f*~data=hdntl~hmac=85dc241050bacfd701518496262ca85912cf346f497200f6af9ce7eaad60d52f/media/23200525_10231355_lsi53gs62wvae2yir31_1@5256000p.m3u8?dw=80&ts=1652907600
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?hdnea=exp=1652896475~acl=/*~hmac=2a1d7c9ab129b8e96a5f84a2eeab7f32a78f21c35911832e5f21f7cbdc6e7ab9
 
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/sporttv.png?itok=pMp1-KPe"group-title="DEPORTES",SPORT - TV
