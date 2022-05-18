@@ -1679,32 +1679,16 @@ http://etvhome.com:25461/jose5/jose/24860
 
 
 #EXTINF:-1 tvg-logo="https://cdn.elperiodico.com.gt/wp-content/uploads/2021/04/09163642/PPePF1.jpg"group-title="CINE PREMIUM",PARAMOUNT
-https://cdn.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
-http://45.225.95.170:8000/play/a0pi/index.m3u8
-http://etvhome.com:25461/jose5/jose/34966
+https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
 
-https://cdn.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
-http://etvhome.com:25461/jose5/jose/13352
-http://gratis.shortgod.com/laspe930/tv2.php?c=paramount
-http://etvhome.com:25461/jose5/jose/28827
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
 https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
-https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151752
-https://edge5-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space-avc1_3900000=10002.m3u8
-http://etvhome.com:25461/jose5/jose/27861
-http://gratis.shortgod.com/laspe930/tv2.php?c=
-http://etvhome.com:25461/jose5/jose/27862
 
 
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_spt-renueva-su-marca-insignia-a-sony-channel.jpg"group-title="CINE PREMIUM",SONY HD
 https://edge1.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u8
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151751
-http://etvhome.com:25461/jose5/jose/73576
-http://gratis.shortgod.com/laspe930/tv2.php?c=sony
-http://etvhome.com:25461/jose5/jose/13369
 
 
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png"group-title="CINE PREMIUM",COMEDY CENTRAL FHD
@@ -1716,43 +1700,20 @@ https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/Com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png"group-title="CINE PREMIUM",ESTUDIOS UNIVERSAL
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151753
-https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
-https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
-http://etvhome.com:25461/jose5/jose/13356
-http://gratis.shortgod.com/laspe930/tv2.php?c=studiouniversal
-http://etvhome.com:25461/jose5/jose/13357
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbHqaCKE71WbUOuh2T91kqEor9y2GlWs87C1e_mBjVeYmBtI&s"group-title="CINE PREMIUM",TNT HD
 https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151761
-https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
-http://etvhome.com:25461/jose5/jose/13367
-http://gratis.shortgod.com/laspe930/tv2.php?c=tnt
-http://etvhome.com:25461/jose5/jose/13366
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="CINE PREMIUM", WARNER TV
 https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151770
-https://cdn.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
-https://cdn.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
-http://etvhome.com:25461/jose5/jose/127034
-http://gratis.shortgod.com/laspe930/tv2.php?c=warner
-http://etvhome.com:25461/jose5/jose/36360
 
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/FX_HD_2013.png/revision/latest?cb=20180216195050"group-title="CINE PREMIUM",FX HD
 https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
-https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151731
-https://cdn.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
-http://etvhome.com:25461/jose5/jose/13344
-http://gratis.shortgod.com/laspe930/tv2.php?c=fx
-http://etvhome.com:25461/jose5/jose/13384
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png"group-title="CINE PREMIUM",DHE FHD
 http://etvhome.com:25461/jose5/jose/31814
@@ -1761,42 +1722,22 @@ http://etvhome.com:25461/jose5/jose/31814
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png"group-title="CINE PREMIUM",STAR CHANNEL
 https://cdn.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
-http://etvhome.com:25461/jose5/jose/13344
-http://gratis.shortgod.com/laspe930/tv2.php?c=starch
-http://etvhome.com:25461/jose5/jose/13392
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG"group-title="CINE PREMIUM",AXN
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151711
-https://cdn.prepro.cvattv.com.ar/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
-http://etvhome.com:25461/jose5/jose/13635
-http://gratis.shortgod.com/laspe930/tv2.php?c=axn
-http://etvhome.com:25461/jose5/jose/13388
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="CINE PREMIUM",TBS
 https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151754
-http://gratis.shortgod.com/laspe930/tv2.php?c=tbs
-http://etvhome.com:25461/jose5/jose/32789
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="CINE PREMIUM",UNIVERSAL CHANNEL
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151765
-https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
-http://etvhome.com:25461/jose5/jose/13364
-http://gratis.shortgod.com/laspe930/tv2.php?c=universal
-http://etvhome.com:25461/jose5/jose/13363
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png"group-title="CINE PREMIUM",TNT SERIES
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151762
-http://etvhome.com:25461/jose5/jose/36542
-http://gratis.shortgod.com/laspe930/tv2.php?c=tntseries
-http://etvhome.com:25461/jose5/jose/13362
-
 
 
 
