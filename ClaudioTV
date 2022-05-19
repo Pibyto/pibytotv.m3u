@@ -737,6 +737,9 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jWFndt1lNlg9q7oiwUvUQbvnyCpHGLd4UA&usqp=CAU"group-title="CINE Y SERIES", VIWIX TV FHD
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://newvidatv.com/wp-content/uploads/elementor/thumbs/newtvdigital-pesjbtws8fs1c8ff2e1l7lx63lcuml3wf88utwiups.png"group-title="CINE Y SERIES",NEW VIDA TV FHD
+https://vse2-sa-all8.secdn.net:443/tvstartup17-channel/live/mp4:newvidaedge/chunklist_sess169492334.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD93ehjWavvPTHn9NrOH8ZypBhHAtd-9l7L_t_a1TMg5ZyL2qp&s"group-title="CINE Y SERIES",REC ONLINE TV HD
 https://master.tucableip.com/reconline/live/video.m3u8
