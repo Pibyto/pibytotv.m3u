@@ -795,6 +795,30 @@ https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/puntacanatv.jpg"group-title="CINE Y SERIES", PUNTA CANA TV
 https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZqGpWv7qqmY/maxresdefault.jpg"group-title="CINE Y SERIES",WTV CANAL 20
+https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9buKX_Bk04NMwVg0L90MZrn29ECgoG1KcXg&usqp=CAU"group-title="CINE Y SERIES", CANAL 8
+http://iptv.streamhispanatv.net:25461/playgt/123456/93
+
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/canela-tv.jpg"group-title="CINE Y SERIES",CANELATV
+https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVMAX_logo.png/revision/latest/scale-to-width-down/262?cb=20220208160004&path-prefix=es"group-title="CINE Y SERIES",TVMAX HD
+https://bcovlive-a.akamaihd.net:443/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/Claro-Vision-Dominicana.jpeg"group-title="CINE Y SERIES",CLARO TELEVISIÓN DOMINICANA
+https://cdn2.streamgato.us/%20ctvd/%20ctvd/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64UPlwR4MmmkqjiPYp1h4ry9F45c49kRzNMo4UCb5erbuncY&s"group-title="CINE Y SERIES",CANAL 41
+https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="CINE Y SERIES",WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
@@ -1493,8 +1517,9 @@ http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69250.m3u8
 https://iptv.streamhispanatv.net:2083/live/playgt/123456/87.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/TVMAX_logo.png/revision/latest/scale-to-width-down/262?cb=20220208160004&path-prefix=es"group-title="CINE Y SERIES",TVMAX HD
-https://bcovlive-a.akamaihd.net:443/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-c-WycWEw_H4/XtwM659Hk6I/AAAAAAAAASw/4ftRzkVVr2INhSlklwgV8K4c-FajWgOeQCK4BGAYYCw/s400/PARA%2BLA%2BPAGINA.png"group-title="CINE Y SERIES",CROM TV
 https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
@@ -1506,19 +1531,6 @@ https://srv1.mediastreamperu.com:8081/8004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png"group-title="CINE Y SERIES",ANDES TV
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1695,28 +1707,13 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="CINE Y SERIES",VALLEVISION HD
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
 
-
-
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/Claro-Vision-Dominicana.jpeg"group-title="CINE Y SERIES",CLARO TELEVISIÓN DOMINICANA
-https://cdn2.streamgato.us/%20ctvd/%20ctvd/playlist.m3u8?DVR
-
-
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/canela-tv.jpg"group-title="CINE Y SERIES",CANELATV
-https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64UPlwR4MmmkqjiPYp1h4ry9F45c49kRzNMo4UCb5erbuncY&s"group-title="CINE Y SERIES",CANAL 41
-https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJr7ereT0NYT0sDqDKL43B1UXL0I7OiwgaRA&usqp=CAU"group-title="CINE Y SERIES",  CANAL 57
 https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="CINE Y SERIES",WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+
+
 
 
 
@@ -1810,8 +1807,11 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZqGpWv7qqmY/maxresdefault.jpg"group-title="CINE Y SERIES",WTV CANAL 20
-https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
+
+
+
+
+
 
 
 
@@ -1825,10 +1825,6 @@ https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9buKX_Bk04NMwVg0L90MZrn29ECgoG1KcXg&usqp=CAU"group-title="CINE Y SERIES", CANAL 8
-http://iptv.streamhispanatv.net:25461/playgt/123456/93
 
 
  
