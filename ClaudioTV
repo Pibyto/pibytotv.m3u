@@ -2555,6 +2555,8 @@ https://dip0m6wuccbi7.cloudfront.net:443/dist/samsungtv/193/hls/master/playlist_
 
 
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/c39b90595784200d346b63ced1a978f42ae5269698f303f3aaf363e38424eb58.png"group-title="CRISTIANO",VIDA TV FHD
+https://srv.panelcast.net:443/vidatv/vidatv/chunklist_w735466473.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/815/325/png-clipart-cinema-film-movie-theatre-film-poster-clapperboard.png"group-title="CRISTIANO", MOVIE FE
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
