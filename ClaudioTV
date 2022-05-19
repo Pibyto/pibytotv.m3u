@@ -1569,6 +1569,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png"group-title="NOVELAS",TELEMUNDO
+https://h1.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIyIDI6MjU6MzUgQU0maGFzaF92YWx1ZT0rL2l4MERSMk5wYnRXdHVkQUFXYVVRPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es"group-title="NOVELAS",TVN HD
