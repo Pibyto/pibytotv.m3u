@@ -1185,6 +1185,11 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1358957669.m3u8
 https://120sports-accdn-1-us.samsung.wurl.tv/3000.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="DEPORTES",LIGA DE CAMPEONES
+http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12205
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcpvIGuzAxsfkhkwLoOQVxKGLmSQK48vHkmw&usqp=CAU"group-title="DEPORTES",BARĆA TV FHD
 https://streamamg-fcbar01.akamaized.net:443/hls/live/2040129/0_xa4d8syh/1080p/hdntl=exp=1652981525~acl=%2f*~data=hdntl~hmac=69dab5b24488404a4dfade513bf09faf8b10444cc64949bb0fc07f294a22d782/prog_index.m3u8
 
