@@ -731,27 +731,27 @@ http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45709
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
-
-
-
-#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
-https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/660898970/t192_400x400.jpg"group-title="CINE Y SERIES",CINECLUB FHD
-https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jWFndt1lNlg9q7oiwUvUQbvnyCpHGLd4UA&usqp=CAU"group-title="CINE Y SERIES", VIWIX TV FHD
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD93ehjWavvPTHn9NrOH8ZypBhHAtd-9l7L_t_a1TMg5ZyL2qp&s"group-title="CINE Y SERIES",REC ONLINE TV HD
+https://master.tucableip.com/reconline/live/video.m3u8
 
-#EXTINF:-1 tvg-logo"https://us0-cdn.onlineradiobox.com/img/l/3/93313.v15.png"group-title="CINE Y SERIES",CAMINANDO EN CRISTO TV FHD
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CpsF0TfTA6Qm5ZrVVlbk2gfIwXw4JKS5gJhQLqo7WTx1dHyQQWLBwRJ-Z5uPD4y_joOJvDJeFcJJnXHWaqRSYK9ne9hbMPk4nbB2p7aK-_AbZUOeA73Y847QCkRSROftGII9zBR9_tyqfbnLN-e_JliB-lgFLDGzMeZiUHrYI9a5Fts4-Fm6iTReUpxJ9sqRtzkxWynTr2OT0x2-2f0o5BooWTRHtqWjmh7cbhd2wuS3Cmks4bspCgnVISVmZzSh41RDO6vk5qe2LeezWrGci6mDhxppm7skLDFrzqRruzQaauQ-CkdREA-4-CaQgY5Gl64rFf0uRWZg9K2dqkCA4GfFmob1wVPFWVRuDN3bV4kIuwJMNzp1k9DqK_r917gkUr_IK3To2RyTmv_p_A26Go7kMSOQ05WMuxqS_R9Y9i-Ib5sTrDP8oQUdsSzsGYd2noRQHDWNV_Y1BT5HkoN9jbcgj8rpV6P0UE2u93dWrbBLJtRMGmbbl7aOwJMZEaGHA2esyb1VCFMVEZALeOsJPGMa-dW6evN3-DkkflnXBcUsUhiqUJY9j19N4TsQE5HqRqsBV5HosEOKod_Uo9nMj9FFLyD522CntMyhRiDVcjt0Nx8lW1N7UxgwhhOBKF77FFADPF4c45m25JepgGJt1392UHod7amplbeGkTp1DLUEiOH-A9MBPLmYQhdINsWEgWwuRyL0G7Ong-mJs6SgVa3hbXAYNsK1LBm3QUWEBKGzz1FrVhZb7xut0QyfSHLVo9CYvqywie2UWO11y37jIZc1-cVQSb6I3dwjterALGqAhOEptCTJ8yLaHUwkyQXgRys5-3kVMdNs-MrjAlCSFKl5wP8aatXWtM-qs4p_6erSiI2De817jC24Hl11ihoMIUs_KVddRmil_r9DIAEqCWV1LXdlc3QtMjDeAw.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE Y SERIES", CIUDAD MAGAZINE FHD
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="CINE Y SERIES",CANAL 12 METRO TV HD
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/660898970/t192_400x400.jpg"group-title="CINE Y SERIES",CINECLUB FHD
+https://servilive.com:3176/live/cineclublive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"group-title="CINE Y SERIES",MEGA CINE TV FHD
@@ -759,10 +759,29 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?WebM3UCL
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="CINE Y SERIES",COSMOS TV HD
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmt5wlt_My1P-ME5-We8qIWIvL0jER10UfQ&usqp=CAU"group-title="CINE Y SERIES",NITIDA TV FHD
+https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/pregotvyradio.com/wp-content/uploads/2021/10/LOGO-PREGO-TV.png?fit=897%2C495&ssl=1"group-title="CINE Y SERIES",PREGO TV FHD
+https://cdn2.streamgato.us:443/pregotv/pregotv/chunklist_w1936102864.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
+
 #EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png"group-title="CINE Y SERIES",PLANETA TV FHD
 https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
+https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="CINE Y SERIES", PELÍCULAS MANIAS FHD
@@ -785,6 +804,12 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvcEpRk1aZeDf4uP0LxbDi9lsP8
 https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ32g0YR_QkcRiiyjMK7FlJuT3GnLVh5tXSw&usqp=CAU"group-title="CINE Y SERIES",BLU HD 29.1 TDA HD
+https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg"group-title="CINE Y SERIES",TELEMAX
 https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w693779543.m3u8
 
@@ -796,18 +821,11 @@ https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w185088520
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/movie-central-logo-85DE28681B-seeklogo.com.png"group-title="CINE Y SERIES",MOVIES CENTRAL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/b6541dd8-ae92-4d29-a7fd-ce28aaacd427/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png"group-title="CINE Y SERIES", IMAGEN TELEVISIÓN HD
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLlmcpX5ckhhQRSCOwYmt_wYtYs-mEdEMgb5B0t4Ja9SU)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrY14IzkBHTBEctUYibVwM_yE5Hug6tBtR2QhrWWfUDnqa4ks&s"group-title="CINE Y SERIES",SEOTV HD
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
-https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
 
@@ -819,11 +837,6 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 http://stm.livecastradio.com:7076/;
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImuv086BjtqOXoSsgw7Gmk3i227FQv8Enag&usqp=CAU"group-title="CRISTIANO", CRISTIANA TV (ENLACE) HD
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
@@ -831,16 +844,11 @@ https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmt5wlt_My1P-ME5-We8qIWIvL0jER10UfQ&usqp=CAU"group-title="CINE Y SERIES",NITIDA TV FHD
-https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://lahoratv.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-29-at-11.44.12-AM-300x140.jpeg"group-title="CINE Y SERIES",LA HORA TV FHD
 https://ss5.domint.net:3056/lhtv_str/lahoratv/chunklist_w1271299099.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/pregotvyradio.com/wp-content/uploads/2021/10/LOGO-PREGO-TV.png?fit=897%2C495&ssl=1"group-title="CINE Y SERIES",PREGO TV FHD
-https://cdn2.streamgato.us:443/pregotv/pregotv/chunklist_w1936102864.m3u8
 
 
 
@@ -849,10 +857,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/96d52a_49fe3188a59f416fb5fe5ab6631880f2~mv2.png/v1/crop/x_3,y_147,w_1046,h_770/fill/w_436,h_312,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%202021.png"group-title="CRISTIANO",EXTV HD
 http://iptv.streamhispanatv.net:25461/playgt/123456/88
-
-
-
-
 
 
 
@@ -875,10 +879,6 @@ http://cdn.santiagotv.net:3228/live/santiagotvlive.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="CINE Y SERIES",COSMOS TV HD
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
 
 
 
@@ -906,9 +906,6 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/2
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4s1YE3xLDZnc-2olPgvGD3eMDrX-vGkft7Q2anuiM0-obYpk9&s"group-title="CINE Y SERIES",TELECANAL 12 HD
 https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD93ehjWavvPTHn9NrOH8ZypBhHAtd-9l7L_t_a1TMg5ZyL2qp&s"group-title="CINE Y SERIES",REC ONLINE TV HD
-https://master.tucableip.com/reconline/live/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/deltatv.jpg"group-title="CINE Y SERIES",DELTA TV FHD
@@ -939,8 +936,6 @@ https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w15
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE Y SERIES", CIUDAD MAGAZINE FHD
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Volver95.png/revision/latest?cb=20200515025718"group-title="CINE Y SERIES",VOLVER HD
@@ -961,9 +956,6 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="CINE Y SERIES",CANAL 12 METRO TV HD
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="CINE Y SERIES",GENTV 17.3 TDA FHD
 https://videohd.live:19360/8010/8010.m3u8
@@ -979,10 +971,6 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="CINE Y SERIES",LA VOZ TV
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ32g0YR_QkcRiiyjMK7FlJuT3GnLVh5tXSw&usqp=CAU"group-title="CINE Y SERIES",BLU HD 29.1 TDA HD
-https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="CINE Y SERIES", CANAL 32 SPTV HD
