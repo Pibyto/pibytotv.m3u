@@ -780,6 +780,23 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="CINE Y SERIES", PLANETA TV FHD
+https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
+
+#EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="CINE Y SERIES", GDM
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.feze7-1.fna.fbcdn.net/v/t1.6435-9/125204894_711619822789715_891998583384151828_n.png?stp=dst-png_s851x315&_nc_cat=106&ccb=1-5&_nc_sid=7aed08&efg=eyJpIjoidCJ9&_nc_eui2=AeGkSzOQ3QM2EC69gxr7AB8FwefJe5BCkG7B58l7kEKQbqzrrZxIutD7aegOwR69EHFGDKnc6lD_Fc7SrM2_CZ0b&_nc_ohc=5J8XpXCq8IAAX_GIvG5&_nc_ht=scontent.feze7-1.fna&oh=00_AT_-jdfBqB0UwRZQ8VOkLvcoJKnoarZNTg9Ess3rg65-Iw&oe=6257CC53"group-title="CINE Y SERIES", ATM TELEVISIÓN
+https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="CINE Y SERIES",SAN ISIDRO TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/puntacanatv.jpg"group-title="CINE Y SERIES", PUNTA CANA TV
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
 https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 
@@ -808,11 +825,17 @@ https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png"group-title="CINE Y SERIES",CASCARA TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQSpEdhd8I37WtA6c2K4vuN2vSJKMWPt3oQ&usqp=CAU"group-title="CINE Y SERIES",LATINA TV INTERNACIONAL
+https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w517185414.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg"group-title="CINE Y SERIES",TELEMAX
-https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w693779543.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400"group-title="CINE Y SERIES",BARBE TV
+http://iptv.streamhispanatv.net:25461/playgt/123456/105
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJo0tmmNiBHKf6GXvWrBTrsOsubXGNIPLpg&usqp=CAU"group-title="CINE Y SERIES",BELLA ABANQUINA TV
+https://v4.tustreaming.cl/bellatv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.misionvida.org/wp-content/themes/veraka_mv/mvtv/logos.jpg"group-title="CINE Y SERIES", MISION VIDA TV HD
@@ -917,9 +940,6 @@ https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="CINE Y SERIES", PLANETA TV FHD
-https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/app-telecine-premium-252x252.png"group-title="CINE Y SERIES",TELECINE PREMIUM FHD
 http://xcui.vitvabc.xyz:8880/287994017033/287994017033/16758
@@ -1352,8 +1372,15 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ705eVxKKzcyg5JNP-d81pqZFN0YeZaWXEg&usqp=CAU"group-title="CINE Y SERIES", TV LATINA
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQSpEdhd8I37WtA6c2K4vuN2vSJKMWPt3oQ&usqp=CAU"group-title="CINE Y SERIES",LATINA TV INTERNACIONAL
-https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w517185414.m3u8
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AJk-_2ROoNNy_8gEKHS7flcxdc8VzHHpsg&usqp=CAU"group-title="CINE Y SERIES", TV SUR CANAL 9
@@ -1388,10 +1415,6 @@ https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png"group-title="CINE Y SERIES",CASCARA TV
-https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8
-
-
 
 
 
@@ -1400,13 +1423,6 @@ https://stream.castr.com:443/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f12
 https://cdn1.streamgato.us/sumundotv/sumundotv.myStream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400"group-title="CINE Y SERIES",BARBE TV
-http://iptv.streamhispanatv.net:25461/playgt/123456/105
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJo0tmmNiBHKf6GXvWrBTrsOsubXGNIPLpg&usqp=CAU"group-title="CINE Y SERIES",BELLA ABANQUINA TV
-https://v4.tustreaming.cl/bellatv/index.m3u8
 
 
 
@@ -1436,21 +1452,21 @@ https://stmv.panel.grupolimalive.com:443/planeatv/planeatv/chunklist_w1465381133
 https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="CINE Y SERIES", GDM
-https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4UO6gtj8ezFTYYdYWeixOMTSC81p6NTBYw&usqp=CAU"group-title="CINE Y SERIES",EL SOL
 http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://scontent.feze7-1.fna.fbcdn.net/v/t1.6435-9/125204894_711619822789715_891998583384151828_n.png?stp=dst-png_s851x315&_nc_cat=106&ccb=1-5&_nc_sid=7aed08&efg=eyJpIjoidCJ9&_nc_eui2=AeGkSzOQ3QM2EC69gxr7AB8FwefJe5BCkG7B58l7kEKQbqzrrZxIutD7aegOwR69EHFGDKnc6lD_Fc7SrM2_CZ0b&_nc_ohc=5J8XpXCq8IAAX_GIvG5&_nc_ht=scontent.feze7-1.fna&oh=00_AT_-jdfBqB0UwRZQ8VOkLvcoJKnoarZNTg9Ess3rg65-Iw&oe=6257CC53"group-title="CINE Y SERIES", ATM TELEVISIÓN
-https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://scontent.feze7-2.fna.fbcdn.net/v/t1.6435-9/122793429_978018899374439_442715255917151048_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=111&ccb=1-5&_nc_sid=85a577&_nc_ohc=UY24H0aiAFIAX-jfQZ6&_nc_ht=scontent.feze7-2.fna&oh=00_AT8T0-2-AglZVvNrLKtPXCHMqhIHNTPc1MVSbzYd_hTn9Q&oe=6272060C"group-title="CINE Y SERIES", AURORA FILMS
 http://iptv.streamhispanatv.net:25461/playgt/123456/108
-
 
 #EXTINF:-1 tvg-logo="https://www.retvrd.com/wp-content/uploads/2022/02/cropped-LOGO.png"group-title="CINE Y SERIES",R&E TELEVISIÓN
 https://inliveserver.com:1936/8162/8162/playlist.m3u8
@@ -1462,14 +1478,6 @@ https://inliveserver.com:1936/8162/8162/playlist.m3u8
 https://inliveserver.com:1936/10016/10016/playlist.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="CINE Y SERIES",SAN ISIDRO TV
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/puntacanatv.jpg"group-title="CINE Y SERIES", PUNTA CANA TV
-https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/panamericana-logo-6EB4821309-seeklogo.com.png"group-title="CINE Y SERIES",PANAMERICANA FHD
