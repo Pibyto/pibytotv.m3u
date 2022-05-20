@@ -743,6 +743,9 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="CINE Y SERIES",GENTV FHD
 https://videohd.live:19360/8010/8010.m3u8
 
+#EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.6435-9/72937967_2654438054614469_3410738193811636224_n.png?stp=dst-png_p206x206&_nc_cat=105&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeGC28XviYOMTa2IswxEqiTSFl8Ymv0uXgIWXxia_S5eAt5608Uvb--P4uL59UW4fsUFfrmwWQkxcMvavkH5ENRO&_nc_ohc=0vJPB9ECyt8AX9z44jB&_nc_ht=scontent.feze8-2.fna&oh=00_AT_Um_Nw-eC-0G9AGYkd6s3wBZGs-bz8ru9ugvTc_ClCCQ&oe=62AC2811"group-title="CINE Y SERIES",WTV FHD
+https://emisoras.hn:8081/wtv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jWFndt1lNlg9q7oiwUvUQbvnyCpHGLd4UA&usqp=CAU"group-title="CINE Y SERIES", VIWIX TV FHD
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
