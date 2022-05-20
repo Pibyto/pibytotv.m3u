@@ -752,6 +752,16 @@ https://emisoras.hn:8081/wtv/tracks-v1a1/mono.m3u8
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png"group-title="CINE Y SERIES",LA CALETA
+https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://sidi.tse.org.gt/catalogo/uploads/logos/57.JPG"group-title="CINE Y SERIES",NIM TV FHD
+http://iptv.streamhispanatv.net:25461/playgt/123456/2
+
+
+
+
 #EXTINF:-1 tvg-logo="https://newvidatv.com/wp-content/uploads/elementor/thumbs/newtvdigital-pesjbtws8fs1c8ff2e1l7lx63lcuml3wf88utwiups.png"group-title="CINE Y SERIES",NEW VIDA TV FHD
 https://vse2-sa-all8.secdn.net:443/tvstartup17-channel/live/mp4:newvidaedge/chunklist_sess169492334.m3u8
 
@@ -955,10 +965,6 @@ https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.exprezion.cl/wp-content/uploads/2021/10/cropped-fondo-3.png"group-title="CINE Y SERIES",EXPRECION TV HD
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://sidi.tse.org.gt/catalogo/uploads/logos/57.JPG"group-title="CINE Y SERIES",NIM TV FHD
-http://iptv.streamhispanatv.net:25461/playgt/123456/2
 
 
 
