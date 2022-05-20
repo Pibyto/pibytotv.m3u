@@ -1549,6 +1549,17 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/702px-Radio_m2o_-_Logo_2019.svg.png"group-title="MUSICALES",M2O
+https://streamcdng31-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F727f4de6a319b31e9aa766153c0af631915d2c11557468f8447d81a10c543292.png"group-title="MUSICALES", RCKTV
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w1912863401.m3u8?WebM3UCL
 
