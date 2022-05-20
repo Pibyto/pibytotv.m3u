@@ -734,6 +734,11 @@ http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45709
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
+#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
+https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w308076895.m3u8
+https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jWFndt1lNlg9q7oiwUvUQbvnyCpHGLd4UA&usqp=CAU"group-title="CINE Y SERIES", VIWIX TV FHD
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
