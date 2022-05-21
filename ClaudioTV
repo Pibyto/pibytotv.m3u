@@ -1181,6 +1181,10 @@ http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=936
 http://moontools.me:8080/tv1chago/1p7iYUyvZF/1194936
 
 
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",DIRECTV SPORTS FIGHT
+https://directvsports-live.akamaized.net:443/hls/live/2026679/DTVSFIGHT/stream05/hdntl=exp=1653223075~acl=%2f*~data=hdntl~hmac=27f2c0e87bec6e5c39ff8f12b9e0a2d238cd79dba1b0662726f350b3b71efb40/streamPlaylist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/espn-logo-350x183.png?itok=heHZgbSx"group-title="DEPORTES",ESPN HD
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
