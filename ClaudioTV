@@ -253,8 +253,16 @@ https://vsd101.mycdn.me:443/hls/1698824391191.m3u8/sig/D7mC3UD7Pfg/expires/16529
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/880a23bb-ff0f-431f-a4b3-729db776b35d/5.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png"group-title="ARGENTINA",CANAL DE LA CIUDAD FHD
-https://g3.proy-slo.transport.edge-access.net:443/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png"group-title="ARGENTINA", CANAL 9 MENDOZA HD
+https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w752832264.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tputRy4YD-A/hqdefault.jpg"group-title="ARGENTINA",CANAL 4 HD
+http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA LANUS SD
+https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 
 
@@ -458,17 +466,6 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="ARGENTINA",CANAL 10 MDP. HD
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png"group-title="ARGENTINA", CANAL 9 MENDOZA HD
-https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w752832264.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tputRy4YD-A/hqdefault.jpg"group-title="ARGENTINA",CANAL 4 HD
-http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA LANUS SD
-https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 
 
