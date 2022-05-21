@@ -410,9 +410,6 @@ http://edge5-sl.cvattv.com.ar/live/c6eds/Net_TV/SA_SAGEMCOM/Net_TV.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png"group-title="ARGENTINA", CANAL ENCUENTRO  22.1 FHD
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
 
@@ -765,6 +762,14 @@ https://videohd.live:19360/8010/8010.m3u8
 https://emisoras.hn:8081/wtv/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="CINE Y SERIES",BAYRES TV HD
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0jWFndt1lNlg9q7oiwUvUQbvnyCpHGLd4UA&usqp=CAU"group-title="CINE Y SERIES", VIWIX TV FHD
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
@@ -1076,9 +1081,12 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Stingray_Naturescape.png"group-title="DOCUMENTALES Y CULTURA",NATURESCAPE
 https://stream.ads.ottera.tv/cl/7673288a-381d-469e-bc9e-0c4b26ccce9c/1920x1080_5711200_3_false.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/DOGTV.svg/revision/latest?cb=20210527140057&path-prefix=es"group-title="DOCUMENTALES Y CULTURA",DOG TV
-https://playback2.akamaized.net/streams/29590904_9415369_lsi3s4jd0fse5f7b4fw_1/master.m3u8?dw=80&hdnts=exp=1653091443~acl=/streams/29590904_9415369_lsi3s4jd0fse5f7b4fw_1/master.m3u8*~hmac=37ffa4ae3a6eb7231bd444b3e0399c9a70268b40a32cfbedc3cde72a7b118019
-https://playback2.akamaized.net/streams/29590904_9415369_lsi3s4jd0fse5f7b4fw_1/exp=1653171976~acl=%2f*~data=hdntl~hmac=3106ba526ebe477967ebc8df34bba4d4d2a3dc0f779e8e9ce214b666a2b3036b/media/29590904_9415369_lsi3s4jd0fse5f7b4fw_1@5256000pb.m3u8?dw=80&ts=1653084000
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png"group-title="DOCUMENTALES Y SERIES", CANAL ENCUENTRO HD
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvc06HCIZt4t4UD39FImL8awxQ9vrMOwqzvg&usqp=CAU"group-title="DOCUMENTALES Y CULTURA", HISTORY HD
 https://edge1.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD.m3u8
@@ -1098,6 +1106,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b7
 
 #EXTINF:-1 tvg-logo="https://ideakreativa.net/wp-content/uploads/2019/04/discover-nuevo-logo.jpg"group-title="DOCUMENTALES Y CULTURA", DISCOVERY HD
 https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png"group-title="DOCUMENTALES Y SERIES",TELEMAX HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
 
 
 
