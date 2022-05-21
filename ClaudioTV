@@ -1282,6 +1282,7 @@ http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12205
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcpvIGuzAxsfkhkwLoOQVxKGLmSQK48vHkmw&usqp=CAU"group-title="DEPORTES",BARĆA TV FHD
+https://streamamg-fcbar01.akamaized.net:443/hls/live/2040130/0_fcq6zq7g/1080p/hdntl=exp=1653222347~acl=%2f*~data=hdntl~hmac=499231cd4eb825fc456e3d636981278632b46f3fe2a0b54f3e8d41db358fb178/prog_index.m3u8
 https://streamamg-fcbar01.akamaized.net:443/hls/live/2040129/0_xa4d8syh/1080p/hdntl=exp=1652981525~acl=%2f*~data=hdntl~hmac=69dab5b24488404a4dfade513bf09faf8b10444cc64949bb0fc07f294a22d782/prog_index.m3u8
 
 
@@ -1368,7 +1369,7 @@ https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/in
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTES", TyC SPORT PLAY 4
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_15.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="DEPORTES",ERT SPORTS
