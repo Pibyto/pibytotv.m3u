@@ -252,6 +252,45 @@ https://vsd101.mycdn.me:443/hls/1698824391191.m3u8/sig/D7mC3UD7Pfg/expires/16529
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE FHD 35.1 TDA
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/880a23bb-ff0f-431f-a4b3-729db776b35d/5.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PÚBLICA FHD
+http://edge1-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="ARGENTINA", CANAL 26 FHD
+http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w694673802_b2628000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png"group-title="ARGENTINA",CRONICA FHD
+https://g4.vxral-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1024px-C5N_logo.svg.png"group-title="ARGENTINA",C5N FHD
+http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="ARGENTINA",A24 FHD
+http://edge1-ccast-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="ARGENTINA", AMERICA FHD  36.1
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png"group-title="ARGENTINA",TN FHD
+http://edge7-ccast-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/lanacionar/NXKF436PYFDRLJJB77LJU7JVQA.png"group-title="ARGENTINA",LN+ FHD
+http://edge4-sl.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://arteysociedad.com.ar/wp-content/uploads/2020/10/IP.jpg"group-title="ARGENTINA",IP FHD
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2U_n3VA7ER4qT2FggFEBcCxr3srHZsxVJw&usqp=CAU"group-title="ARGENTINA", UNIFE TV 25.1 FHD
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca3a4ede27
+
+
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png"group-title="ARGENTINA", CANAL 9 MENDOZA HD
 https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w752832264.m3u8
@@ -343,52 +382,6 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="ARGENTINA",LA VOZ TV
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2U_n3VA7ER4qT2FggFEBcCxr3srHZsxVJw&usqp=CAU"group-title="ARGENTINA", UNIFE TV 25.1 FHD
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca3a4ede27
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PÚBLICA FHD
-http://edge1-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
-https://g1.vxral-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="ARGENTINA", CANAL 26 FHD
-http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w694673802_b2628000_sleng.m3u8
-https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w394343762_b2628000_sleng.m3u8
-https://redirector.gvt1.com/api/manifest/hls_playlist/id/89ba11708066401d/itag/211/source/dclk_video_ads/requiressl/yes/ratebypass/yes/pfa/1/goi/160/sgoap/clen%3D481241%3Bdur%3D14.930%3Bgir%3Dyes%3Bitag%3D141%3Blmt%3D1645739012049685/sgovp/clen%3D5775668%3Bdur%3D14.880%3Bgir%3Dyes%3Bitag%3D217%3Blmt%3D1645739020328042/hls_chunk_host/rr8---sn-uxax4vopj55gb-x1xr.googlevideo.com/ei/UFOAYv2bMMOpobIPprChqAI/playlist_type/LIVE/acao/yes/mime/application%2Fx-mpegURL/ctier/L/initcwndbps/8410/mh/Ez/mip/186.132.96.153/mm/31/mn/sn-uxax4vopj55gb-x1xr/ms/au/mv/m/mvi/8/pl/18/dover/6/txp/0000224/mt/1652576699/ip/0.0.0.0/ipbits/0/expire/1684113097/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,pfa,goi,sgoap,sgovp,hls_chunk_host,ei,playlist_type,acao,mime,ctier,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/signature/7E261D48DC18A9EA80120CBF4810B7DF642DAD49.5A7FFCE89403DDD933BF6967C6FE3B3B1E140D29/key/dg_yt0/playlist/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png"group-title="ARGENTINA",CRONICA FHD
-https://g4.vxral-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1024px-C5N_logo.svg.png"group-title="ARGENTINA",C5N FHD
-http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="ARGENTINA",A24 FHD
-http://edge1-ccast-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="ARGENTINA", AMERICA FHD  36.1
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png"group-title="ARGENTINA",TN FHD
-http://edge7-ccast-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/lanacionar/NXKF436PYFDRLJJB77LJU7JVQA.png"group-title="ARGENTINA",LN+ FHD
-http://edge4-sl.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://arteysociedad.com.ar/wp-content/uploads/2020/10/IP.jpg"group-title="ARGENTINA",IP FHD
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRju-GF0KHcg_6bnPfkgii8l_oWRZAS5ondHA&usqp=CAU"group-title="ARGENTINA",KZO FHD
@@ -491,7 +484,7 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w58195212_b692224.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqXtJ_Cj53mpIGlkIhJb_vOFkUdyicSCMXXw&usqp=CAU"group-title="ARGENTINA",TIV CHACO HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqXtJ_Cj53mpIGlkIhJb_vOFkUdyicSCMXXw&usqp=CAU"group-title="ARGENTINA",TIV TELEVISIÓN HD
 https://inliveserver.com:1936/14044/14044/playlist.m3u8?WebM3UCL
 
 
