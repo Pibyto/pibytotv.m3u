@@ -1060,6 +1060,7 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 https://stream.ads.ottera.tv/cl/7673288a-381d-469e-bc9e-0c4b26ccce9c/1920x1080_5711200_3_false.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/DOGTV.svg/revision/latest?cb=20210527140057&path-prefix=es"group-title="DOCUMENTALES Y CULTURA",DOG TV
+https://playback2.akamaized.net/streams/29590904_9415369_lsi3s4jd0fse5f7b4fw_1/master.m3u8?dw=80&hdnts=exp=1653091443~acl=/streams/29590904_9415369_lsi3s4jd0fse5f7b4fw_1/master.m3u8*~hmac=37ffa4ae3a6eb7231bd444b3e0399c9a70268b40a32cfbedc3cde72a7b118019
 https://playback2.akamaized.net/streams/29590904_9415369_lsi3s4jd0fse5f7b4fw_1/exp=1653171976~acl=%2f*~data=hdntl~hmac=3106ba526ebe477967ebc8df34bba4d4d2a3dc0f779e8e9ce214b666a2b3036b/media/29590904_9415369_lsi3s4jd0fse5f7b4fw_1@5256000pb.m3u8?dw=80&ts=1653084000
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvc06HCIZt4t4UD39FImL8awxQ9vrMOwqzvg&usqp=CAU"group-title="DOCUMENTALES Y CULTURA", HISTORY HD
