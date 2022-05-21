@@ -257,6 +257,12 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443
 https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w752832264.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1w7tEcHXoZYs661t48QVRHh-sIaXmB0KsQ&usqp=CAU"group-title="ARGENTINA",MULTIVISION SALTA HD
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tputRy4YD-A/hqdefault.jpg"group-title="ARGENTINA",CANAL 4 HD
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?WebM3UCL
 
@@ -264,6 +270,9 @@ http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA LANUS SD
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1Djy6qdt91q7Nz8IOe0Wmi9E6mRLz59-Lg&usqp=CAU"group-title="ARGENTINA", CTV CORRIENTES
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
 
@@ -278,10 +287,6 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Volver95.png/revision/latest?cb=20200515025718"group-title="ARGENTINA",VOLVER HD
 http://edge3-sl.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8?syo
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1w7tEcHXoZYs661t48QVRHh-sIaXmB0KsQ&usqp=CAU"group-title="ARGENTINA",MULTIVISION SALTA HD
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
@@ -525,9 +530,6 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-logo="https://x24.com.mx/ca3w/assets/img/logos/logo-x24-con-sombra.png"group-title="ARGENTINA", X24 HD
 https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1Djy6qdt91q7Nz8IOe0Wmi9E6mRLz59-Lg&usqp=CAU"group-title="ARGENTINA", CTV CORRIENTES
-https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", TDC TV SANTA FE
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
