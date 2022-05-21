@@ -690,6 +690,19 @@ https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w160616
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/py-canal-8-vision-tv-6069.jpg"group-title="PARAGUAY",CANAL 8 VISIÓN TV
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45709
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lxkdoEt5hBnfsfpfrGQwtSkiHKQwCOHN838ft6p23qBKlWPzO1XPHrw-zcpBf29ENA"group-title="PARAGUAY",DISMAR TV
+https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8?k=fbf4bf3ba2bfb23a7441bceb055bf9475a482db39bb070f87021e809bbacf4a8&exp=1653133239
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gtdrvbD2M2hBo4wV46KRDBbviCvWSIfKBg&usqp=CAU"group-title="PARAGUAY",VILLA ELISA RADIOTV
+https://rds3.desdeparaguay.net:443/villaelisatv/villaelisatv/chunklist_w875500326.m3u8?k=2b89c639d5aee2f504457f5f175db331c20c15b5d5d114e4fc76c4d0ceaa8acf&exp=1653133065
+
+
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3mGnhkccKB8/WW1Aq9WGBLI/AAAAAAAAAcc/wJuDijs2ThsrlNk2BTg6euAavBAflMfUgCK4BGAYYCw/s1600/logo-tvs-encarnacion-televisora-del-sur-en-vivo-online.png"group-title="PARAGUAY",TVS ENCARNACION
+https://rds3.desdeparaguay.net:443/tvs/tvs/chunklist_w399524029.m3u8?k=befebd44d6873fe21b6ef6eb53f0903c8e938c424679f24328509376449f8938&exp=1653132940
 
 
 
