@@ -3223,36 +3223,67 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f800077
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWwtjx5AkvrnOSC5ZPGSyMuzmyM3G9Jnb6pXn37bMNoeAse8Rl&s"group-title="CINE PLUS",ROCK STAR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWwtjx5AkvrnOSC5ZPGSyMuzmyM3G9Jnb6pXn37bMNoeAse8Rl&s"group-title="CINE PREMIER",ROCK STAR
 https://servidor-4.tk/Uploads/Musica/Rock-star-2001-lat.mp4
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Focus-750127329-large.jpg"group-title="CINE PLUS",FOCUS
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Focus-750127329-large.jpg"group-title="CINE PREMIER",FOCUS
 https://servidor-4.tk/Uploads/Crimen/Focus-2015-lat.mp4
 
-#EXTINF:-1 tvg-logo="https://www.elportaldecatalina.com/wp-content/uploads/2019/05/afiche2-4mg.jpg"group-title="CINE PLUS",LA RAZON DE ESTAR CONTIGO
+#EXTINF:-1 tvg-logo="https://www.elportaldecatalina.com/wp-content/uploads/2019/05/afiche2-4mg.jpg"group-title="CINE PREMIER",LA RAZON DE ESTAR CONTIGO
 https://dl.dropboxusercontent.com/s/qga7cwijfr4eua2/SalynPM-SPM7s3g.mp4?dl=0
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_cielo_es_real-377992411-large.jpg"group-title="CINE PLUS",EL CIELO ES REAL
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_cielo_es_real-377992411-large.jpg"group-title="CINE PREMIER",EL CIELO ES REAL
 https://seed-us1.gloria.tv/4xeC19PyKNuaBXe3vxFhAQsmN/tmx7ecdys7cji0m9ecprzkodkv8rj49o4swmr8g.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8Hf9qQUwBssYoVLMUNy0UAkS7m5QOBEOAQ&usqp=CAU"group-title="CINE PLUS",GLADIADOR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8Hf9qQUwBssYoVLMUNy0UAkS7m5QOBEOAQ&usqp=CAU"group-title="CINE PREMIER",GLADIADOR
 https://servidor-4.tk/Uploads/Accion/Gladiador-2000-lat.mp4
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/Y-donde-estan-las-rubias-white-chicks-shawn-wayans-vhs-5439-MLA4389453419_052013-F.jpg/revision/latest/top-crop/width/360/height/450?cb=20161018214826&path-prefix=es"group-title="CINE PLUS",Y DONDE ESTAN LAS RUBIAS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/Y-donde-estan-las-rubias-white-chicks-shawn-wayans-vhs-5439-MLA4389453419_052013-F.jpg/revision/latest/top-crop/width/360/height/450?cb=20161018214826&path-prefix=es"group-title="CINE PREMIER",Y DONDE ESTAN LAS RUBIAS
 https://dl.dropboxusercontent.com/s/aez9sb22f2vuyve/SalynPM-Y-D.E.L.R.mp4?dl=0
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9d/La_Guerra_de_los_Mundos.jpg/revision/latest?cb=20140104125125&path-prefix=es"group-title="CINE PLUS",LA GUERRA DE LOS MUNDOS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9d/La_Guerra_de_los_Mundos.jpg/revision/latest?cb=20140104125125&path-prefix=es"group-title="CINE PREMIER",LA GUERRA DE LOS MUNDOS
 https://dl.dropboxusercontent.com/s/72vv1bdqgqiwlxn/SalynPM-SPM3l6p.mp4?dl=0
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bronx-367615322-large.jpg"group-title="CINE PLUS",BROXN 2020
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bronx-367615322-large.jpg"group-title="CINE PREMIER",BROXN 2020
 http://vod.tuxchannel.tv/peliculas/720/bronx%202020.mkv
 
 
-#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/films/affiches/es/7525.jpg"group-title="CINE PLUS",CUATRO HERMANOS
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/films/affiches/es/7525.jpg"group-title="CINE PREMIER",CUATRO HERMANOS
 http://heinentv.ddns.me:25461/movie/Marzo2020/2020/419.mkv
+
+#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/300/W/Warning.jpg"group-title="CINE PREMIER",WARNING (2021)
+https://servidor-4.tk/Uploads/Ciencia-Ficcion/Warning-2021-lat.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/ht3.jpg?resize=800%2C1186&ssl=1"group-title="CINE PREMIER", HOTEL TRANSILVANIA (2022)
+https://polimor.club/movies/trans.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/31/10/28/0410704.jpg"group-title="CINE PREMIER",LA MASACRE DE TEXAS (2022)
+https://stream.wrench.gq/261/%40cesser16+La+Masacre+de+Texas+%282022%29+1080p.mp4?hash=AgADbQ
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/un_amor_inquebrantable.jpg"group-title="CINE PREMIER",AMOR INQUEBRANTABLE
+http://clubtv.link/2ene/peliculas2.php?c=img20200314122721/4m0r1nu3br4n74bl3.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qMliNvi0Y9yS71NDAFr8lr62W42tAkgKOg&usqp=CAU"group-title="PELICULAS",UNCHARTED 2022
 https://peerlook.ru:443/static/streaming-playlists/hls/d6753f0b-54b6-48f2-8034-2f5fc79984e3/aa947e8f-3bd4-42ed-95e3-4bd2bcb5d63b-804.m3u8
@@ -3297,62 +3328,27 @@ https://server31.pelisloadtop.com/server31/3c1ae18700fb0bc08b83dfd060924525/EP.0
 https://peerlook.ru:443/static/streaming-playlists/hls/d6753f0b-54b6-48f2-8034-2f5fc79984e3-aa947e8f-3bd4-42ed-95e3-4bd2bcb5d63b-804.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRlwMwNbpsCcDpG9B_bRP9GhfSFX2RZFFD9-bEoqCbuJUxEnG2&s"group-title="PELICULAS",EL HOMBRE DEL NORTE 2022
-https://www1088.ff-03.com/token=KjdFKoCnoejQSWoDh6cIlQ/1653239271/186.132.0.0/141/8/af/79201e4273dfd70dbb4e1f902fdb4af8-1080p.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdQunnJ4lYf_AcJ54HqQeOx5SqwOyf4Zvj4A&usqp=CAU"group-title="PELICULAS",LA CIUDAD PERDIDA 2022
-https://www596.ff-02.com/token=zdl-yM6wuM_QiI1B6OkyAw/1653239627/186.132.0.0/131/d/8c/80a4441914d66506f54e5041951c18cd-1080p.mp4
-
-
-#EXTINF:-1 tvg-logo="https://ww3.cinecalidad.do/wp-content/uploads/2022/05/fcMRcTNNnvNRXVgOxEjFssU6QOe.jpg"group-title="PELICULAS",CIBERINFIERNO
-https://www730.ff-02.com/token=XFWHH-70Z7-xagqRcLLgPw/1653239846/186.132.0.0/156/d/ea/29e7f709dd1b53de7f11e88bff476ead-720p.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/dont_breathe_two_ver2.jpg?resize=800%2C1000&ssl=1"group-title="CINE PLUS",NO RESPIRES 2
-http://heinentv.ddns.me:25461/movie/Marzo2020/2020/20714.mkv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/dont_breathe_two_ver2.jpg?resize=800%2C1000&ssl=1"group-title="CINE PREMIER",NO RESPIRES 2
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_ca_da_del_halc_n_negro-847311943-large.jpg"group-title="CINE PREMIER",LA CAIDA DEL HALCON NEGRO
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/02/08/16/01/5070457.jpg"group-title="CINE PREMIER",12 VALIENTES
+#EXTINF:-1 tvg-logo="https://pre.tematika.com/media/catalog/Ilhsa/Imagenes/647936.jpg"group-title="CINE PREMIER",13 HORAS : SOLDADOS DE BANGAZI
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/85/Estaci%C3%B3nZombie-1.jpg/revision/latest?cb=20161211005626&path-prefix=es"group-title="CINE PREMIER", ESTACIÓN ZOMBIE
 
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_ca_da_del_halc_n_negro-847311943-large.jpg"group-title="CINE PLUS",LA CAIDA DEL HALCON NEGRO
-http://heinentv.ddns.me:25461/movie/Marzo2020/2020/398.mkv
-
-
-
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/02/08/16/01/5070457.jpg"group-title="CINE PLUS",12 VALIENTES
-http://heinentv.ddns.me:25461/movie/Marzo2020/2020/343.mkv
-
-
-#EXTINF:-1 tvg-logo="https://pre.tematika.com/media/catalog/Ilhsa/Imagenes/647936.jpg"group-title="CINE PLUS",13 HORAS : SOLDADOS DE BANGAZI
-http://heinentv.ddns.me:25461/movie/Marzo2020/2020/344.mkv
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/85/Estaci%C3%B3nZombie-1.jpg/revision/latest?cb=20161211005626&path-prefix=es"group-title="CINE PLUS", ESTACIÓN ZOMBIE
-http://heinentv.ddns.me:25461/movie/Marzo2020/2020/1087.mp4
-
-
-#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/300/W/Warning.jpg"group-title="CINE PLUS",WARNING (2021)
-https://servidor-4.tk/Uploads/Ciencia-Ficcion/Warning-2021-lat.mp4
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/90/Horas_Contadas_.jpg/revision/latest?cb=20151228234253&path-prefix=es"group-title="PELICULAS", HORAS CONTADAS
 https://goo.gl/SyvNCX
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/ht3.jpg?resize=800%2C1186&ssl=1"group-title="CINE PLUS", HOTEL TRANSILVANIA (2022)
-https://polimor.club/movies/trans.mp4
-
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/31/10/28/0410704.jpg"group-title="CINE PLUS",LA MASACRE DE TEXAS (2022)
-https://stream.wrench.gq/261/%40cesser16+La+Masacre+de+Texas+%282022%29+1080p.mp4?hash=AgADbQ
-
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71A1ST5il9L._AC_SY679_.jpg"group-title="PELICULAS", ANGRY BIRDS
 http://cecegeek@goo.gl/3KGMLf
 
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/un_amor_inquebrantable.jpg"group-title="CINE PLUS",AMOR INQUEBRANTABLE
-http://clubtv.link/2ene/peliculas2.php?c=img20200314122721/4m0r1nu3br4n74bl3.mp4
 
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-9_BNGQwOsH8/V18Z0YDlYZI/AAAAAAAAItc/XWaTP4OKwHIdZ2f8rcx0Dj5GkGepj11ZQCLcB/s1600/dgggg.jpg"group-title="PELICULAS", EL MESIAS
