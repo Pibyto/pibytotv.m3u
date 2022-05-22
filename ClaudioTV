@@ -1017,7 +1017,7 @@ http://edge3-sl.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8?syo
 #EXTINF:-1 tvg-logo="https://nitter.pussthecat.org/pic/profile_images%2F1340488609623912448%2FifJLg-Oy.jpg"group-title="CINE Y SERIES",RETROPLUS HD
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w411956702.m3u8
 
-
+ 
 
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="CINE Y SERIES", CANAL 34 HD 6.11 TDA HD
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
@@ -1068,7 +1068,7 @@ https://stream.ads.ottera.tv/cl/7673288a-381d-469e-bc9e-0c4b26ccce9c/1920x1080_5
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png"group-title="DOCUMENTALES Y SERIES", CANAL ENCUENTRO HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png"group-title="DOCUMENTALES Y CULTURA", CANAL ENCUENTRO HD
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
 
 
@@ -1094,7 +1094,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/Disco
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png"group-title="DOCUMENTALES Y SERIES",TELEMAX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png"group-title="DOCUMENTALES Y CULTURA",TELEMAX HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
 
 
