@@ -3258,6 +3258,35 @@ https://peertube.linuxrocks.online:443/static/streaming-playlists/hls/a93c6b71-8
 https://server31.pelisloadtop.com/server31/3c1ae18700fb0bc08b83dfd060924525/EP.0.2.v0.1645859230.720.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWwtjx5AkvrnOSC5ZPGSyMuzmyM3G9Jnb6pXn37bMNoeAse8Rl&s"group-title="PELICULAS",ROCK STAR
+https://servidor-4.tk/Uploads/Musica/Rock-star-2001-lat.mp4
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Focus-750127329-large.jpg"group-title="PELICULAS",FOCUS
+https://servidor-4.tk/Uploads/Crimen/Focus-2015-lat.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8Hf9qQUwBssYoVLMUNy0UAkS7m5QOBEOAQ&usqp=CAU"group-title="PELICULAS", GLADIADOR
+https://servidor-4.tk/Uploads/Accion/Gladiador-2000-lat.mp4
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/Y-donde-estan-las-rubias-white-chicks-shawn-wayans-vhs-5439-MLA4389453419_052013-F.jpg/revision/latest/top-crop/width/360/height/450?cb=20161018214826&path-prefix=es"group-title="PELICULAS",Y DONDE ESTAN LAS RUBIAS
+https://dl.dropboxusercontent.com/s/aez9sb22f2vuyve/SalynPM-Y-D.E.L.R.mp4?dl=0
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9d/La_Guerra_de_los_Mundos.jpg/revision/latest?cb=20140104125125&path-prefix=es"group-title="PELICULAS",LA GUERRA DE LOS MUNDOS
+https://dl.dropboxusercontent.com/s/72vv1bdqgqiwlxn/SalynPM-SPM3l6p.mp4?dl=0
+
+
+
+#EXTINF:-1 tvg-logo="https://www.elportaldecatalina.com/wp-content/uploads/2019/05/afiche2-4mg.jpg"group-title="PELICULAS",LA RAZON DE ESTAR CONTIGO
+https://dl.dropboxusercontent.com/s/qga7cwijfr4eua2/SalynPM-SPM7s3g.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bronx-367615322-large.jpg"group-title="PELICULAS",BROXN 2020
+http://vod.tuxchannel.tv/peliculas/720/bronx%202020.mkv
+
+
+
 #EXTINF:-1 tvg-logo="https://pictures.betaseries.com/films/affiches/es/7525.jpg"group-title="PELICULAS",CUATRO HERMANOS
 http://heinentv.ddns.me:25461/movie/Marzo2020/2020/419.mkv
 
