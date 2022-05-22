@@ -3223,6 +3223,38 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f800077
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWwtjx5AkvrnOSC5ZPGSyMuzmyM3G9Jnb6pXn37bMNoeAse8Rl&s"group-title="PELICULAS",ROCK STAR
+https://servidor-4.tk/Uploads/Musica/Rock-star-2001-lat.mp4
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Focus-750127329-large.jpg"group-title="PELICULAS",FOCUS
+https://servidor-4.tk/Uploads/Crimen/Focus-2015-lat.mp4
+
+#EXTINF:-1 tvg-logo="https://www.elportaldecatalina.com/wp-content/uploads/2019/05/afiche2-4mg.jpg"group-title="PELICULAS",LA RAZON DE ESTAR CONTIGO
+https://dl.dropboxusercontent.com/s/qga7cwijfr4eua2/SalynPM-SPM7s3g.mp4?dl=0
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_cielo_es_real-377992411-large.jpg"group-title="PELICULAS",EL CIELO ES REAL
+https://seed-us1.gloria.tv/4xeC19PyKNuaBXe3vxFhAQsmN/tmx7ecdys7cji0m9ecprzkodkv8rj49o4swmr8g.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8Hf9qQUwBssYoVLMUNy0UAkS7m5QOBEOAQ&usqp=CAU"group-title="PELICULAS", GLADIADOR
+https://servidor-4.tk/Uploads/Accion/Gladiador-2000-lat.mp4
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/Y-donde-estan-las-rubias-white-chicks-shawn-wayans-vhs-5439-MLA4389453419_052013-F.jpg/revision/latest/top-crop/width/360/height/450?cb=20161018214826&path-prefix=es"group-title="PELICULAS",Y DONDE ESTAN LAS RUBIAS
+https://dl.dropboxusercontent.com/s/aez9sb22f2vuyve/SalynPM-Y-D.E.L.R.mp4?dl=0
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9d/La_Guerra_de_los_Mundos.jpg/revision/latest?cb=20140104125125&path-prefix=es"group-title="PELICULAS",LA GUERRA DE LOS MUNDOS
+https://dl.dropboxusercontent.com/s/72vv1bdqgqiwlxn/SalynPM-SPM3l6p.mp4?dl=0
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bronx-367615322-large.jpg"group-title="PELICULAS",BROXN 2020
+http://vod.tuxchannel.tv/peliculas/720/bronx%202020.mkv
+
+
+
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/films/affiches/es/7525.jpg"group-title="PELICULAS",CUATRO HERMANOS
+http://heinentv.ddns.me:25461/movie/Marzo2020/2020/419.mkv
 
 
 
@@ -3259,36 +3291,10 @@ https://server31.pelisloadtop.com/server31/3c1ae18700fb0bc08b83dfd060924525/EP.0
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWwtjx5AkvrnOSC5ZPGSyMuzmyM3G9Jnb6pXn37bMNoeAse8Rl&s"group-title="PELICULAS",ROCK STAR
-https://servidor-4.tk/Uploads/Musica/Rock-star-2001-lat.mp4
-
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Focus-750127329-large.jpg"group-title="PELICULAS",FOCUS
-https://servidor-4.tk/Uploads/Crimen/Focus-2015-lat.mp4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8Hf9qQUwBssYoVLMUNy0UAkS7m5QOBEOAQ&usqp=CAU"group-title="PELICULAS", GLADIADOR
-https://servidor-4.tk/Uploads/Accion/Gladiador-2000-lat.mp4
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/Y-donde-estan-las-rubias-white-chicks-shawn-wayans-vhs-5439-MLA4389453419_052013-F.jpg/revision/latest/top-crop/width/360/height/450?cb=20161018214826&path-prefix=es"group-title="PELICULAS",Y DONDE ESTAN LAS RUBIAS
-https://dl.dropboxusercontent.com/s/aez9sb22f2vuyve/SalynPM-Y-D.E.L.R.mp4?dl=0
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9d/La_Guerra_de_los_Mundos.jpg/revision/latest?cb=20140104125125&path-prefix=es"group-title="PELICULAS",LA GUERRA DE LOS MUNDOS
-https://dl.dropboxusercontent.com/s/72vv1bdqgqiwlxn/SalynPM-SPM3l6p.mp4?dl=0
 
 
 
-#EXTINF:-1 tvg-logo="https://www.elportaldecatalina.com/wp-content/uploads/2019/05/afiche2-4mg.jpg"group-title="PELICULAS",LA RAZON DE ESTAR CONTIGO
-https://dl.dropboxusercontent.com/s/qga7cwijfr4eua2/SalynPM-SPM7s3g.mp4?dl=0
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bronx-367615322-large.jpg"group-title="PELICULAS",BROXN 2020
-http://vod.tuxchannel.tv/peliculas/720/bronx%202020.mkv
-
-
-
-#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/films/affiches/es/7525.jpg"group-title="PELICULAS",CUATRO HERMANOS
-http://heinentv.ddns.me:25461/movie/Marzo2020/2020/419.mkv
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi0lGcP0hKEbpWtPIHSXQZ8qcAMtREtOrpJg&usqp=CAU"group-title="PELICULAS", KIMI
@@ -3380,11 +3386,6 @@ https://play-akamai.pongalo.com/where-is-good/where-is-good_1-1/play_v1_hls_1080
 #EXTINF:-1 tvg-logo="https://www.bibliatodo.com/PeliculasCristianas/wp-content/uploads/2021/02/el-sonido-del-espiritu.jpg"group-title="PELICULAS",EL SONIDO DEL ESPÍRITU
 https://play-akamai.pongalo.com/sound-spirit/sound-spirit_1-1/play_v1_hls_1080p.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_cielo_es_real-377992411-large.jpg"group-title="PELICULAS",EL CIELO ES REAL
-https://seed-us1.gloria.tv/4xeC19PyKNuaBXe3vxFhAQsmN/tmx7ecdys7cji0m9ecprzkodkv8rj49o4swmr8g.mp4/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://klamicoblog.files.wordpress.com/2014/11/2_el-remanente-1024x970.jpg"group-title="PELICULAS",EL REMANENTE
