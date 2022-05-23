@@ -3309,7 +3309,7 @@ http://cecegeek@goo.gl/3KGMLf
 
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-9_BNGQwOsH8/V18Z0YDlYZI/AAAAAAAAItc/XWaTP4OKwHIdZ2f8rcx0Dj5GkGepj11ZQCLcB/s1600/dgggg.jpg"group-title="PELICULAS", EL MESIAS
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-9_BNGQwOsH8/V18Z0YDlYZI/AAAAAAAAItc/XWaTP4OKwHIdZ2f8rcx0Dj5GkGepj11ZQCLcB/s1600/dgggg.jpg"group-title="PELICULAS",EL MESIAS
 https://play.pongalo.com/christ-lord/christ-lord_1-1/play_v1_hls_1080p.m3u8
 
 
@@ -3319,22 +3319,9 @@ https://play.pongalo.com/christ-lord/christ-lord_1-1/play_v1_hls_1080p.m3u8
 https://gloria.tv/streaming/2un4HSSCCaYjD97Lqh6FYwwsA
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/S-g7kfFzx1E/maxresdefault.jpg"group-title="PELICULAS",CONFECCIONES DE UN HIJO PRODIGO
-https://play-akamai.pongalo.com/confessions-prodigal-son/confessions-prodigal-son_1-1/hls_2500.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/01/10/09/13/325612.jpg"group-title="PELICULAS",EL SALVADOR
-https://play-akamai.pongalo.com/the-savior/the-savior_1-1/hls_2500.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-s01jrzR37cM/WSylxxkbFUI/AAAAAAAAJyQ/Ratsh5oE6rkkWTMs1i8ReUqiojgCFzq6ACLcB/s1600/donde.jpg"group-title="PELICULAS",DONDE ESTA DIOS?
-https://play-akamai.pongalo.com/where-is-good/where-is-good_1-1/play_v1_hls_1080p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.bibliatodo.com/PeliculasCristianas/wp-content/uploads/2021/02/el-sonido-del-espiritu.jpg"group-title="PELICULAS",EL SONIDO DEL ESPÍRITU
-https://play-akamai.pongalo.com/sound-spirit/sound-spirit_1-1/play_v1_hls_1080p.m3u8
 
 
 
@@ -3343,7 +3330,7 @@ https://gloria.tv/streaming/p3W781AKYBni4sssSD3CRVKGp
 
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/94677fc4ceb4d72363b5838aadc0e4b3f7c3cceea2df47ddd954f426b12d22f8._RI_V_TTW_.jpg"group-title="CINE PLUS",HASTA EL ÚLTIMO HOMBRE
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/94677fc4ceb4d72363b5838aadc0e4b3f7c3cceea2df47ddd954f426b12d22f8._RI_V_TTW_.jpg"group-title="CINE PREMIER",HASTA EL ÚLTIMO HOMBRE
 https://eltuboadventista.com/mobile/files/videos/2019/06/09/huh.mp4
 
 
@@ -3369,8 +3356,6 @@ https://art.pongalo.com/feature/logo-vix.mp4
 https://play-akamai.pongalo.com/left-behind/left-behind_1-1/play_v1_hls_1080p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.planetadelibros.com.ar/usuaris/libros/fotos/329/m_libros/328889_portada_la-senal-td_wm-paul-young_202101270039.jpg"group-title="PELICULAS", LA SEÑAL DE DIOS
-https://play.pongalo.com/tribulation/tribulation_1-1/play_v1_hls_1080p.m3u8
 
 
 
@@ -3394,8 +3379,6 @@ https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fsee
 
 
 
-#EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/la-fuerza-de-la-ilusion-14377/la-fuerza-de-la-ilusion-14377-c.jpg"group-title="PELICULAS", La Fuerza De La Ilusion 
-https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
 
 
 #EXTINF:-1 tvg-logo="https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/media/imagenes/recursos/image0013/133958404-1-esl-ES/image001.png?resize=480:*"group-title="PELICULAS",  Colossal (2016)
@@ -3431,65 +3414,65 @@ https://goo.gl/KYCQoX
 
 
 
-#EXTINF:-1 tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/en/c/c7/When_We_First_Met.png"group-title="PELICULAS", Cuando nos Conocimos 
+#EXTINF:-1 tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/en/c/c7/When_We_First_Met.png"group-title="PELICULAS",CUANDO NOS CONOCIMOS 
 https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vJi2ExTcWdJR3150VPKqqtdGxsT.jpg"group-title="PELICULAS",  The Cloverfield Paradox 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vJi2ExTcWdJR3150VPKqqtdGxsT.jpg"group-title="PELICULAS",The Cloverfield Paradox 
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6Si4IpacC2A/VtnjZhEPurI/AAAAAAAAIGw/RmFAzrStg-g/s1600/Terminus-Movie-Poster.jpg"group-title="PELICULAS", Terminus 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-6Si4IpacC2A/VtnjZhEPurI/AAAAAAAAIGw/RmFAzrStg-g/s1600/Terminus-Movie-Poster.jpg"group-title="PELICULAS",TERMINIUS
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/12/04/10/48/099822.jpg"group-title="PELICULAS",   Deadpool
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/12/04/10/48/099822.jpg"group-title="PELICULAS",Deadpool
 https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://blogs.vanguardia.com/el-colombian-dream/files/2015/06/poster-intensamente.jpg"group-title="PELICULAS", Intensamente 
+#EXTINF:-1 tvg-logo="https://blogs.vanguardia.com/el-colombian-dream/files/2015/06/poster-intensamente.jpg"group-title="PELICULAS",Intensamente 
 https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/shang-3.jpg?resize=800%2C1166&ssl=1"group-title="PELICULAS", SHANG-CHI
+#EXTINF:-1 tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/shang-3.jpg?resize=800%2C1166&ssl=1"group-title="PELICULAS",SHANG-CHI
 https://servidor-4.tk/Uploads/Accion/Shang-Chi-2021-lat.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://www.vengadoresmarvel.com/wp-content/uploads/2021/09/Poster-de-personajes-de-Eternals.jpg"group-title="PELICULAS", ETERNALS
+#EXTINF:-1 tvg-logo="https://www.vengadoresmarvel.com/wp-content/uploads/2021/09/Poster-de-personajes-de-Eternals.jpg"group-title="PELICULAS",ETERNALS
 https://servidor-4.tk/Uploads/Fantasia/Eternals-2021-lat.mp4
 
 
 
 
-#EXTINF:-1 tvg-logo="https://spoilertime.com/wp-content/uploads/2021/11/ghostbusters-afterlife-official-soundtrack-scorecd.png"group-title="PELICULAS", CASA FANTASMAS
+#EXTINF:-1 tvg-logo="https://spoilertime.com/wp-content/uploads/2021/11/ghostbusters-afterlife-official-soundtrack-scorecd.png"group-title="PELICULAS",CASA FANTASMAS
 https://servidor-4.tk/Uploads/Fantasia/Cazafantasmas-el-legado-2021-lat.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://www.divxtotal.nl/wp-content/uploads/fly-images/667853/no-mires-arriba13-(poster)-150x222-.jpg"group-title="PELICULAS",  NO MIRES ARRIBA
+#EXTINF:-1 tvg-logo="https://www.divxtotal.nl/wp-content/uploads/fly-images/667853/no-mires-arriba13-(poster)-150x222-.jpg"group-title="PELICULAS",NO MIRES ARRIBA
 https://servidor-4.tk/Uploads/Comedia/No-miren-arriba-2021-lat.mp4
 
 
 
 
-#EXTINF:-1 tvg-logo="https://on.notist.cloud/profile/pr-sing2-canta-2-ver-large-66140b31027edb81.png"group-title="PELICULAS", CANTA! (2021)
+#EXTINF:-1 tvg-logo="https://on.notist.cloud/profile/pr-sing2-canta-2-ver-large-66140b31027edb81.png"group-title="PELICULAS",CANTA! (2021)
 https://servidor-4.tk/Uploads/Familiar/Sing-2-2021-lat.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-3OROQJFp1X0/WLnZXeIdHrI/AAAAAAAAKDY/UV9s8KkY5W8j2d6qSDzu4ANgPaPys-oJACLcB/s1600/singggggg.jpg"group-title="PELICULAS", CANTA! (2016)
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-3OROQJFp1X0/WLnZXeIdHrI/AAAAAAAAKDY/UV9s8KkY5W8j2d6qSDzu4ANgPaPys-oJACLcB/s1600/singggggg.jpg"group-title="PELICULAS",CANTA! (2016)
 https://servidor-4.tk/Uploads/Familiar/Sing-2016-lat.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/06/16/26/1138210.jpg"group-title="PELICULAS", SIN REMORDIMIENTOS
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/06/16/26/1138210.jpg"group-title="PELICULAS",SIN REMORDIMIENTOS
 http://clubtv.link/14mr/ch8/peliculas3.php?c=without%20remorse%20%202021.mkv
 
 
@@ -3497,22 +3480,22 @@ http://clubtv.link/14mr/ch8/peliculas3.php?c=without%20remorse%20%202021.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://cafecomnerd.com.br/wp-content/uploads/2021/09/Finch-Filme-de-ficcao-cientifica-de-Tom-Hanks-para-o-streaming-Apple-TV-Plus-ganha-poster.jpg"group-title="PELICULAS", FINCH
+#EXTINF:-1 tvg-logo="https://cafecomnerd.com.br/wp-content/uploads/2021/09/Finch-Filme-de-ficcao-cientifica-de-Tom-Hanks-para-o-streaming-Apple-TV-Plus-ganha-poster.jpg"group-title="PELICULAS",FINCH
 https://servidor-4.tk/Uploads/Ciencia-Ficcion/Finch-2021-lat.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/11/13/22/5520699.jpg"group-title="PELICULAS", EJÉRCITO DE LOS LADRONES
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/11/13/22/5520699.jpg"group-title="PELICULAS",EJÉRCITO DE LOS LADRONES
 http://clubtv.link/14mr/ch8/peliculas3.php?c=army%20of%20thieves%202021
 
 
 
 
-#EXTINF:-1 tvg-logo="https://static.filmin.es/images/media/35542/1/poster_0_3_338x507.png"group-title="PELICULAS", DESPIERTA LA FURIA
+#EXTINF:-1 tvg-logo="https://static.filmin.es/images/media/35542/1/poster_0_3_338x507.png"group-title="PELICULAS",DESPIERTA LA FURIA
 https://s16.upstreamcdn.co/hls/w47rzp3owjbnx2nrozk26bfejsngmmq5s5vccv66d6bfhbrvbm3axq3mc73a/index-v1-a1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cSWVdjfFK6k/YHtDwFfJjyI/AAAAAAADB-U/c1ZEI70Y3tU37upi1zE3pkTEliS9VWztwCLcBGAsYHQ/s838/el-protector-cine%2B%25281%2529.png"group-title="PELICULAS", EL PROTECTOR
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cSWVdjfFK6k/YHtDwFfJjyI/AAAAAAADB-U/c1ZEI70Y3tU37upi1zE3pkTEliS9VWztwCLcBGAsYHQ/s838/el-protector-cine%2B%25281%2529.png"group-title="PELICULAS",EL PROTECTOR
 http://clubtv.link/14mr/ch8/peliculas2.php?c=angel_erika_92_hotmail_0/AbrahanLinconCazadorDeVampiros.mp4
 
 
@@ -3521,14 +3504,6 @@ https://servidor-4.tk/Uploads/Ciencia-Ficcion/Venom-Habra-Matanza-2021-lat.mp4
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.lamansiondelterror.net/wp-content/uploads/2020/01/Bloodshot-2020.png?ssl=1"group-title="PELICULAS",BLOODSHOT
-http://clubtv.link/14mr/ch8/peliculas2.php?c=6_20200607_20200607_1857/2.mp4
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYCvgGm3l7ijw0ORPXtvI15IOHZCfVEE5Asw&usqp=CAU"group-title="PELICULAS",A CIEGAS
-http://clubtv.link/14mr/ch8/peliculas2.php?c=15901804994373000928996083377015/B.boxxxx.mp4
 
 
 
