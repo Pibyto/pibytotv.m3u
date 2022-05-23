@@ -2,94 +2,135 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__AQjVdVsr-aU-Tnu_s3enzN_5hL3tDo-bg&usqp=CAU"group-title="ARGENTINA", ROCK STAR
+https://servidor-4.tk/Uploads/Musica/Rock-star-2001-lat.mp4
 
 
-#EXTINF:-1  tvg-logo="https://pictures.betaseries.com/films/affiches/es/7525.jpg"group-title="ARGENTINA",CUATRO HERMANOS
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Focus-750127329-large.jpg"group-title="CINE PREMIER", FOCUS
+https://servidor-4.tk/Uploads/Crimen/Focus-2015-lat.mp4
+
+#EXTINF:-1 tvg-logo="https://www.elportaldecatalina.com/wp-content/uploads/2019/05/afiche2-4mg.jpg"group-title="CINE PREMIER", LA RAZON DE ESTAR CONTIGO
+https://dl.dropboxusercontent.com/s/qga7cwijfr4eua2/SalynPM-SPM7s3g.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_cielo_es_real-377992411-large.jpg"group-title="CINE PREMIER",EL CIELO ES REAL
+https://seed-us1.gloria.tv/4xeC19PyKNuaBXe3vxFhAQsmN/tmx7ecdys7cji0m9ecprzkodkv8rj49o4swmr8g.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8Hf9qQUwBssYoVLMUNy0UAkS7m5QOBEOAQ&usqp=CAU"group-title="CINE PREMIER",GLADIADOR
+https://servidor-4.tk/Uploads/Accion/Gladiador-2000-lat.mp4
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/Y-donde-estan-las-rubias-white-chicks-shawn-wayans-vhs-5439-MLA4389453419_052013-F.jpg/revision/latest/top-crop/width/360/height/450?cb=20161018214826&path-prefix=es"group-title="CINE PREMIER",Y DONDE ESTAN LAS RUBIAS
+https://dl.dropboxusercontent.com/s/aez9sb22f2vuyve/SalynPM-Y-D.E.L.R.mp4?dl=0
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9d/La_Guerra_de_los_Mundos.jpg/revision/latest?cb=20140104125125&path-prefix=es"group-title="CINE PREMIER",LA GUERRA DE LOS MUNDOS
+https://dl.dropboxusercontent.com/s/72vv1bdqgqiwlxn/SalynPM-SPM3l6p.mp4?dl=0
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Bronx-367615322-large.jpg"group-title="CINE PREMIER",BROXN 2020
+http://vod.tuxchannel.tv/peliculas/720/bronx%202020.mkv
+
+
+#EXTINF:-1 tvg-logo="https://pictures.betaseries.com/films/affiches/es/7525.jpg"group-title="CINE PREMIER",CUATRO HERMANOS
+http://heinentv.ddns.me:25461/movie/Marzo2020/2020/419.mkv
+
+#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/300/W/Warning.jpg"group-title="CINE PREMIER",WARNING (2021)
+https://servidor-4.tk/Uploads/Ciencia-Ficcion/Warning-2021-lat.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/ht3.jpg?resize=800%2C1186&ssl=1"group-title="CINE PREMIER", HOTEL TRANSILVANIA (2022)
+https://polimor.club/movies/trans.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/31/10/28/0410704.jpg"group-title="CINE PREMIER",LA MASACRE DE TEXAS (2022)
+https://stream.wrench.gq/261/%40cesser16+La+Masacre+de+Texas+%282022%29+1080p.mp4?hash=AgADbQ
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/un_amor_inquebrantable.jpg"group-title="CINE PREMIER",AMOR INQUEBRANTABLE
+http://clubtv.link/2ene/peliculas2.php?c=img20200314122721/4m0r1nu3br4n74bl3.mp4
+
+
+
+#EXTINF:-1  tvg-logo="https://pictures.betaseries.com/films/affiches/es/7525.jpg"group-title="CINE PREMIER",CUATRO HERMANOS
 http://heinentv.ddns.me:25461/movie/Marzo2020/2020/419.mkv
 
 
-#EXTINF:-1  tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/dont_breathe_two_ver2.jpg?resize=800%2C1000&ssl=1"group-title="ARGENTINA",NO RESPIRES 2
+#EXTINF:-1  tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/dont_breathe_two_ver2.jpg?resize=800%2C1000&ssl=1"group-title="CINE PREMIER",NO RESPIRES 2
 http://heinentv.ddns.me:25461/movie/Marzo2020/2020/20714.mkv
 
 
 
-#EXTINF:-1  tvg-logo="https://pics.filmaffinity.com/La_ca_da_del_halc_n_negro-847311943-large.jpg"group-title="ARGENTINA",LA CAIDA DEL HALCON NEGRO
+#EXTINF:-1  tvg-logo="https://pics.filmaffinity.com/La_ca_da_del_halc_n_negro-847311943-large.jpg"group-title="CINE PREMIER",LA CAIDA DEL HALCON NEGRO
 http://heinentv.ddns.me:25461/movie/Marzo2020/2020/398.mkv
 
 
 
-#EXTINF:-1  tvg-logo="https://es.web.img2.acsta.net/pictures/18/02/08/16/01/5070457.jpg"group-title="ARGENTINA",12 VALIENTES
+#EXTINF:-1  tvg-logo="https://es.web.img2.acsta.net/pictures/18/02/08/16/01/5070457.jpg"group-title="CINE PREMIER",12 VALIENTES
 http://heinentv.ddns.me:25461/movie/Marzo2020/2020/343.mkv
 
 
-#EXTINF:-1  tvg-logo="https://pre.tematika.com/media/catalog/Ilhsa/Imagenes/647936.jpg"group-title="ARGENTINA",13 HORAS : SOLDADOS DE BANGAZI
+#EXTINF:-1  tvg-logo="https://pre.tematika.com/media/catalog/Ilhsa/Imagenes/647936.jpg"group-title="CINE PREMIER",13 HORAS : SOLDADOS DE BANGAZI
 http://heinentv.ddns.me:25461/movie/Marzo2020/2020/344.mkv
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/300/W/Warning.jpg"group-title="PELICULAS",  WARNING (2021)
+#EXTINF:-1 tvg-logo="https://www.dvdsreleasedates.com/posters/300/W/Warning.jpg"group-title="CINE PREMIER",WARNING (2021)
 https://servidor-4.tk/Uploads/Ciencia-Ficcion/Warning-2021-lat.mp4
 
 
 
-
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/90/Horas_Contadas_.jpg/revision/latest?cb=20151228234253&path-prefix=es"group-title="PELICULAS", HORAS CONTADAS
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/90/Horas_Contadas_.jpg/revision/latest?cb=20151228234253&path-prefix=es"group-title="CINE PREMIER", HORAS CONTADAS
 https://goo.gl/SyvNCX
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/ht3.jpg?resize=800%2C1186&ssl=1"group-title="PELICULAS", HOTEL TRANSILVANIA (2022)
+#EXTINF:-1 tvg-logo="https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/ht3.jpg?resize=800%2C1186&ssl=1"group-title="CINE PREMIER", HOTEL TRANSILVANIA (2022)
 https://polimor.club/movies/trans.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/31/10/28/0410704.jpg"group-title="PELICULAS",LA MASACRE DE TEXAS (2022)
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/31/10/28/0410704.jpg"group-title="CINE PREMIER",LA MASACRE DE TEXAS (2022)
 https://stream.wrench.gq/261/%40cesser16+La+Masacre+de+Texas+%282022%29+1080p.mp4?hash=AgADbQ
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71A1ST5il9L._AC_SY679_.jpg"group-title="PELICULAS", ANGRY BIRDS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71A1ST5il9L._AC_SY679_.jpg"group-title="CINE PREMIER", ANGRY BIRDS
 http://cecegeek@goo.gl/3KGMLf
 
 
-#EXTINF:-1 tvg-logo="https://www.cineycine.com/archivos/2015/12/en-el-corazon-del-mar-poster.jpg"group-title="PELICULAS",  EN EL CORAZON DEL MAR
+#EXTINF:-1 tvg-logo="https://www.cineycine.com/archivos/2015/12/en-el-corazon-del-mar-poster.jpg"group-title="CINE PREMIER",  EN EL CORAZON DEL MAR
 https://goo.gl/4BqODN
 
 
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PELICULAS", 10 COSAS QUE ODIO DE TI
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIER", 10 COSAS QUE ODIO DE TI
 http://archive.org/download/10_20200818_20200818/10.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PELICULAS", 12 HORAS PARA SOBREVIVIR
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIER", 12 HORAS PARA SOBREVIVIR
 http://archive.org/download/0_20200403/2.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PELICULAS", 12 HORAS PARA SOBREVIVIR  EL AÑO DE LA ELECCION
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIER", 12 HORAS PARA SOBREVIVIR  EL AÑO DE LA ELECCION
 http://ia801205.us.archive.org/4/items/7H3.PU/7H3.PU963.313C7I0N.Y349-ES-360.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PELICULAS", 12 HORAS PARA SOBREVIVIR EL INICIO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIER", 12 HORAS PARA SOBREVIVIR EL INICIO
 http://archive.org/download/0_20200403_202004/1.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PELICULAS", 13 FANTASMAS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIER", 13 FANTASMAS
 http://archive.org/download/img-20200601-105221-hdr/1.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PELICULAS", 16 DESEOS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIER", 16 DESEOS
 http://archive.org/download/15902128715955695074031776787353/1.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PELICULAS", 17 OTRA VEZ
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIER", 17 OTRA VEZ
 http://archive.org/download/PjfxjsfjddbxjJdjdjdxj/pjfxjsfjddbxj%20jdjdjdxj.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PELICULAS", 1917 (AUD)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIER", 1917 (AUD)
 http://archive.org/download/3_20200303/2.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PELICULAS", 1917()
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIER", 1917()
 http://archive.org/download/3_20200303/2.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PELICULAS", 1984 (Subtitulada)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE PREMIER", 1984 (Subtitulada)
 http://archive.org/download/1_20200418_20200418_2015/hk/1.mp4
 
 
@@ -98,52 +139,52 @@ http://archive.org/download/1_20200418_20200418_2015/hk/1.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.cinematerial.com/p/297x/oe3nfpnx/sandy-wexler-movie-poster-md.jpg?v=1492625177"group-title="PELICULAS", Sandy Wexler (2017)
+#EXTINF:-1 tvg-logo="https://cdn.cinematerial.com/p/297x/oe3nfpnx/sandy-wexler-movie-poster-md.jpg?v=1492625177"group-title="CINE PREMIER", Sandy Wexler (2017)
 http://bit.ly/MRAQCSAND
 
 
-#EXTINF:-1 tvg-logo="https://cdn.moviefone.com/admin-uploads/posters/mine2764x4096-poster_1487353313.jpg?d=360x540&q=60"group-title="PELICULAS", THE MINE (2017)
+#EXTINF:-1 tvg-logo="https://cdn.moviefone.com/admin-uploads/posters/mine2764x4096-poster_1487353313.jpg?d=360x540&q=60"group-title="CINE PREMIER", THE MINE (2017)
 http://bit.ly/THEMINE
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/01/30/16/36/003422.jpg"group-title="PELICULAS", SAHARA
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/01/30/16/36/003422.jpg"group-title="CINE PREMIER", SAHARA
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/la-fuerza-de-la-ilusion-14377/la-fuerza-de-la-ilusion-14377-c.jpg"group-title="PELICULAS", La Fuerza De La Ilusion 
+#EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/la-fuerza-de-la-ilusion-14377/la-fuerza-de-la-ilusion-14377-c.jpg"group-title="CINE PREMIER", La Fuerza De La Ilusion 
 https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
 
 
-#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/media/imagenes/recursos/image0013/133958404-1-esl-ES/image001.png?resize=480:*"group-title="PELICULAS",  Colossal (2016)
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/media/imagenes/recursos/image0013/133958404-1-esl-ES/image001.png?resize=480:*"group-title="CINE PREMIER",  Colossal (2016)
 http://ow.ly/FXZ930eWtrs
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9a/Volver_al_Futuro_III_Poster.jpg/revision/latest?cb=20201122065552&path-prefix=es"group-title="PELICULAS", VOLVER AL FUTURO3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9a/Volver_al_Futuro_III_Poster.jpg/revision/latest?cb=20201122065552&path-prefix=es"group-title="CINE PREMIER", VOLVER AL FUTURO3
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/01/09/10/10/3484018.jpg"group-title="PELICULAS", La Forma del Agua SUBTITULADO |
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/18/01/09/10/10/3484018.jpg"group-title="CINE PREMIER", La Forma del Agua SUBTITULADO |
 https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/12/23/32/075544.jpg"group-title="PELICULAS", BLOOD IN BLOOD OUT/ VATOS LACOS
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/17/08/12/23/32/075544.jpg"group-title="CINE PREMIER", BLOOD IN BLOOD OUT/ VATOS LACOS
 http://www.deadlyblogger.com/NewRelease/blood.mp4
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/41/The_edge_of_seventeen_latam_poster.jpg/revision/latest/top-crop/width/360/height/450?cb=20170805050357&path-prefix=es"group-title="PELICULAS",  MI VIDA A LOS 17
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/41/The_edge_of_seventeen_latam_poster.jpg/revision/latest/top-crop/width/360/height/450?cb=20170805050357&path-prefix=es"group-title="CINE PREMIER",  MI VIDA A LOS 17
 http://bit.ly/2v16m9z
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tD92-jOJH3CsZA4GQZUIie10X9nisJMFQTKXn9TmhYYdoJOiJbEy52FRLDunELmi5k_mel4psPcCdFh-43Dc"group-title="PELICULAS", LA MALDICION EL INICIO DEL FIN
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tD92-jOJH3CsZA4GQZUIie10X9nisJMFQTKXn9TmhYYdoJOiJbEy52FRLDunELmi5k_mel4psPcCdFh-43Dc"group-title="CINE PREMIER", LA MALDICION EL INICIO DEL FIN
 https://goo.gl/gWJEZq
 
 
 
-#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/09/04/01/28/2348103.jpg"group-title="PELICULAS", MI ABUELO ES UN PELIGRO
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/19/09/04/01/28/2348103.jpg"group-title="CINE PREMIER", MI ABUELO ES UN PELIGRO
 https://goo.gl/KYCQoX
 
 
@@ -155,201 +196,195 @@ https://goo.gl/KYCQoX
 
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Shang_Chi_y_la_leyenda_de_los_diez_anillos-787159273-large.jpg"group-title="PELICULAS",SHANG-CHI
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Shang_Chi_y_la_leyenda_de_los_diez_anillos-787159273-large.jpg"group-title="CINE PREMIER",SHANG-CHI
 https://servidor-4.tk/Uploads/Accion/Shang-Chi-2021-lat.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://www.vengadoresmarvel.com/wp-content/uploads/2021/09/Poster-de-personajes-de-Eternals.jpg"group-title="PELICULAS",ETERNALS
+#EXTINF:-1 tvg-logo="https://www.vengadoresmarvel.com/wp-content/uploads/2021/09/Poster-de-personajes-de-Eternals.jpg"group-title="CINE PREMIER",ETERNALS
 https://servidor-4.tk/Uploads/Fantasia/Eternals-2021-lat.mp4
 
 
 
 
-#EXTINF:-1 tvg-logo="https://spoilertime.com/wp-content/uploads/2021/11/ghostbusters-afterlife-official-soundtrack-scorecd.png"group-title="PELICULAS",CASA FANTASMAS
+#EXTINF:-1 tvg-logo="https://spoilertime.com/wp-content/uploads/2021/11/ghostbusters-afterlife-official-soundtrack-scorecd.png"group-title="CINE PREMIER",CASA FANTASMAS
 https://servidor-4.tk/Uploads/Fantasia/Cazafantasmas-el-legado-2021-lat.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://www.divxtotal.nl/wp-content/uploads/fly-images/667853/no-mires-arriba13-(poster)-150x222-.jpg"group-title="PELICULAS",NO MIRES ARRIBA
+#EXTINF:-1 tvg-logo="https://www.divxtotal.nl/wp-content/uploads/fly-images/667853/no-mires-arriba13-(poster)-150x222-.jpg"group-title="CINE PREMIER",NO MIRES ARRIBA
 https://servidor-4.tk/Uploads/Comedia/No-miren-arriba-2021-lat.mp4
 
 
 
 
-#EXTINF:-1 tvg-logo="https://on.notist.cloud/profile/pr-sing2-canta-2-ver-large-66140b31027edb81.png"group-title="PELICULAS", CANTA! (2021)
+#EXTINF:-1 tvg-logo="https://on.notist.cloud/profile/pr-sing2-canta-2-ver-large-66140b31027edb81.png"group-title="CINE PREMIER", CANTA! (2021)
 https://servidor-4.tk/Uploads/Familiar/Sing-2-2021-lat.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-3OROQJFp1X0/WLnZXeIdHrI/AAAAAAAAKDY/UV9s8KkY5W8j2d6qSDzu4ANgPaPys-oJACLcB/s1600/singggggg.jpg"group-title="PELICULAS", CANTA! (2016)
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-3OROQJFp1X0/WLnZXeIdHrI/AAAAAAAAKDY/UV9s8KkY5W8j2d6qSDzu4ANgPaPys-oJACLcB/s1600/singggggg.jpg"group-title="CINE PREMIER",CANTA! (2016)
 https://servidor-4.tk/Uploads/Familiar/Sing-2016-lat.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/06/16/26/1138210.jpg"group-title="PELICULAS",SIN REMORDIMIENTOS
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/04/06/16/26/1138210.jpg"group-title="CINE PREMIER",SIN REMORDIMIENTOS
 https://novaweb.xyz/Uploads/Accion/Sin-remordimientos-2021-lat.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://purodiseno.lat/wp-content/uploads/2021/10/KINGS-MAN-POSTER-717x1024.jpg"group-title="PELICULAS",EL KING'S MAN
+#EXTINF:-1 tvg-logo="https://purodiseno.lat/wp-content/uploads/2021/10/KINGS-MAN-POSTER-717x1024.jpg"group-title="CINE PREMIER",EL KING'S MAN
 http://192.168.1.34:30001/file/0LjHrqDZ/video.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://cafecomnerd.com.br/wp-content/uploads/2021/09/Finch-Filme-de-ficcao-cientifica-de-Tom-Hanks-para-o-streaming-Apple-TV-Plus-ganha-poster.jpg"group-title="PELICULAS",FINCH
+#EXTINF:-1 tvg-logo="https://cafecomnerd.com.br/wp-content/uploads/2021/09/Finch-Filme-de-ficcao-cientifica-de-Tom-Hanks-para-o-streaming-Apple-TV-Plus-ganha-poster.jpg"group-title="CINE PREMIER",FINCH
 https://servidor-4.tk/Uploads/Ciencia-Ficcion/Finch-2021-lat.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/11/13/22/5520699.jpg"group-title="PELICULAS",EJÉRCITO DE LOS LADRONES
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/11/13/22/5520699.jpg"group-title="CINE PREMIER",EJÉRCITO DE LOS LADRONES
 https://servidor-4.tk/Uploads/Crimen/Ejercito-de-los-ladrones-2021-lat.mp4
 
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202107/19/00125940367458____2__1200x1200.jpg"group-title="PELICULAS",DESPIERTA LA FURIA
+#EXTINF:-1 tvg-logo="https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202107/19/00125940367458____2__1200x1200.jpg"group-title="CINE PREMIER",DESPIERTA LA FURIA
 https://s16.upstreamcdn.co/hls/w47rzp3owjbnx2nrozk26bfejsngmmq5s5vccv66d6bfhbrvbm3axq3mc73a/index-v1-a1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cSWVdjfFK6k/YHtDwFfJjyI/AAAAAAADB-U/c1ZEI70Y3tU37upi1zE3pkTEliS9VWztwCLcBGAsYHQ/s838/el-protector-cine%2B%25281%2529.png"group-title="PELICULAS",EL PROTECTOR
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cSWVdjfFK6k/YHtDwFfJjyI/AAAAAAADB-U/c1ZEI70Y3tU37upi1zE3pkTEliS9VWztwCLcBGAsYHQ/s838/el-protector-cine%2B%25281%2529.png"group-title="CINE PREMIER",EL PROTECTOR
 http://clubtv.link/2ene/peliculas3.php?c=the%20marksman%202021.mkv
 
-#EXTINF:-1 tvg-logo="https://www.mubis.es/media/articles/29653/282118/trailer-poster-y-fecha-de-estreno-de-venom-habra-matanza-original.jpg"group-title="PELICULAS",VENON - HABRA UNA MATANZA
+#EXTINF:-1 tvg-logo="https://www.mubis.es/media/articles/29653/282118/trailer-poster-y-fecha-de-estreno-de-venom-habra-matanza-original.jpg"group-title="CINE PREMIER",VENON - HABRA UNA MATANZA
 https://servidor-4.tk/Uploads/Ciencia-Ficcion/Venom-Habra-Matanza-2021-lat.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://www.marilumeza.com/wp-content/plugins/posts-slideshow-widget/images/cache/psw_cache_8316_300_250.png"group-title="PELICULAS",GREENLAND
+#EXTINF:-1 tvg-logo="https://www.marilumeza.com/wp-content/plugins/posts-slideshow-widget/images/cache/psw_cache_8316_300_250.png"group-title="CINE PREMIER",GREENLAND
 http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14836.mkv
 
 
-#EXTINF:-1 tvg-logo="https://catalogodepeliculas.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-24-at-11.41.01-AM-e1616604557979-600x833.jpeg"group-title="PELICULAS",MAS LOCO QUE UNA CABRA
+#EXTINF:-1 tvg-logo="https://catalogodepeliculas.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-24-at-11.41.01-AM-e1616604557979-600x833.jpeg"group-title="CINE PREMIER",MAS LOCO QUE UNA CABRA
 http://live.budtvlight.com:25461/movie/JW2WBQRJWWBYMXlZAWQD/MENR32222/14704.mkv
 
 
-#EXTINF:-1 tvg-logo="https://www.designbust.com/download/748/png/free_guy_folder_icon512.png"group-title="PELICULAS",FREE GUY
+#EXTINF:-1 tvg-logo="https://www.designbust.com/download/748/png/free_guy_folder_icon512.png"group-title="CINE PREMIER",FREE GUY
 https://servidor-4.tk/Uploads/Comedia/Free-guy-2021-lat.mp4
 
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PELICULAS", LA GUERRA DEL MAÑANA
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIER", LA GUERRA DEL MAÑANA
 https://servidor-4.tk/Uploads/Ciencia-Ficcion/La-guerra-del-manana-2021-lat.mp4
 
 
 
 
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/compes/hxhkdr/poster-chappie-chappie-2015-hxhkdr.jpg"group-title="PELICULAS", CHAPPIE
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/compes/hxhkdr/poster-chappie-chappie-2015-hxhkdr.jpg"group-title="CINE PREMIER", CHAPPIE
 http://tux-vod.dynu.com:80/peliculas/720/chappie.mkv
 
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E3m3JXJXMAM59bJ.jpg"group-title="PELICULAS", BLACK WIDOW
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E3m3JXJXMAM59bJ.jpg"group-title="CINE PREMIER", BLACK WIDOW
 https://servidor-4.tk/Uploads/Accion/Black-Widow-2021-lat.mp4
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/18/13/48/426895.jpg"group-title="PELICULAS", GUARDIANES DE ALTA MAR
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/14/03/18/13/48/426895.jpg"group-title="CINE PREMIER", GUARDIANES DE ALTA MAR
 https://olympusato-mmd-cust.lldns.net:443/stream.ismd/stream-audio_eng=128000-video_eng=3483000.m3u8?stream=/km/dx3eRRDMCxdT9Vw4vD6z5dGPTJocfBPmBqtCskAaQ/mtguar3%3B/ou/frLMQ4Ude9JBDE1WSBNz0KdO6L57pzhkcPpKlLU1Y/mtguar3%3B/lK/_iEO7-HVXNCYUoHb0nF_ixVXlyg8GO1nnIPOE6_40/mtguar3
 
-#EXTINF:-1 tvg-logo="https://www.cinevistablog.com/wp-content/uploads/2012/07/el-rescate-machine-gun-preacher_opt2_.jpg"group-title="PELICULAS", MACHINE GUN PREDICADOR
+#EXTINF:-1 tvg-logo="https://www.cinevistablog.com/wp-content/uploads/2012/07/el-rescate-machine-gun-preacher_opt2_.jpg"group-title="CINE PREMIER", MACHINE GUN PREDICADOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e7ebe7e53bc0c65d521/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae- 480a-aeae-f805d255de09 & deviceLat = -34.8150 & deviceLon = -58.4693 & deviceMake = Chrome% 2BMobile & deviceModel = web & deviceType = web & deviceVersion = 90.0.4430.210 & includeExtendedEvents = false & marketingRegion = VE & sid2 -b & b222acdsc9 = servidor
 
 
 
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81LIuuULWbL._RI_.jpg"group-title="PELICULAS", EL LIMPIA PICINAS
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81LIuuULWbL._RI_.jpg"group-title="CINE PREMIER", EL LIMPIA PICINAS
 https://play-akamai.pongalo.com/el-limpia-piscinas/el-limpia-piscinas_1-1/hls_2500.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71qARkfrfFL._SL1400_.jpg"group-title="PELICULAS", JUEGO DE PATRIOTAS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71qARkfrfFL._SL1400_.jpg"group-title="CINE PREMIER", JUEGO DE PATRIOTAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e5d43e94698db001ab20de4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2018/05/afichebroken-city.jpg"group-title="PELICULAS", CIUDAD DE SOMBRAS
+#EXTINF:-1 tvg-logo="https://www.bfdistribution.cl/wp-content/uploads/2018/05/afichebroken-city.jpg"group-title="CINE PREMIER", CIUDAD DE SOMBRAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604a4960b2b870001a05d509/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/36079/36079_800x1146.jpg"group-title="PELICULAS", LA TRAMPA
+#EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/36079/36079_800x1146.jpg"group-title="CINE PREMIER", LA TRAMPA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604f873ee7c979001a8a84ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/85/32/99/19783257.jpg"group-title="PELICULAS", CONAN EL BÁRBARO
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/85/32/99/19783257.jpg"group-title="CINE PREMIER", CONAN EL BÁRBARO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e552dc95c1e25001a24f3a0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://www.tematika.com/media/catalog/Ilhsa/Imagenes/599418.jpg"group-title="PELICULAS", CRÍMENES OCULTOS
+#EXTINF:-1 tvg-logo="https://www.tematika.com/media/catalog/Ilhsa/Imagenes/599418.jpg"group-title="CINE PREMIER", CRÍMENES OCULTOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5ed52879af4720001a0217bb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/44/82/51/448251b2634255a7186e7bec45fd2cce.jpg"group-title="PELICULAS", FUEGO CONTRA FUEGO
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/44/82/51/448251b2634255a7186e7bec45fd2cce.jpg"group-title="CINE PREMIER", FUEGO CONTRA FUEGO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e82be7e53bc0c65d59d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/4/40/Blitz.jpg/260px-Blitz.jpg"group-title="PELICULAS", BLITZ
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/4/40/Blitz.jpg/260px-Blitz.jpg"group-title="CINE PREMIER", BLITZ
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5dfd2e74be7e53bc0c65d42d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/9b/65/36/9b6536dafb726196a705c0790d9318b8.jpg"group-title="PELICULAS", EL CODIGO DEL MIEDO
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/9b/65/36/9b6536dafb726196a705c0790d9318b8.jpg"group-title="CINE PREMIER", EL CODIGO DEL MIEDO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604f874be7c979001a8a85e0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://cinergetica.com.mx/wp-content/uploads/2011/04/poster-el-especialista.jpg"group-title="PELICULAS", EL ESPECIALISTA
+#EXTINF:-1 tvg-logo="https://cinergetica.com.mx/wp-content/uploads/2011/04/poster-el-especialista.jpg"group-title="CINE PREMIER", EL ESPECIALISTA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/6018641b00da4e00138bfa4e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-XaNmQ4WRD80/UspBJHl_vxI/AAAAAAAALYs/-Q8wnplpSlI/s1600/el+redentor.jpg"group-title="PELICULAS", EL REDENTOR
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-XaNmQ4WRD80/UspBJHl_vxI/AAAAAAAALYs/-Q8wnplpSlI/s1600/el+redentor.jpg"group-title="CINE PREMIER", EL REDENTOR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5efca13459900d0014d5857e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_804560-MLM42843372527_072020-W.jpg"group-title="PELICULAS", MISIÓN SECRETA
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_804560-MLM42843372527_072020-W.jpg"group-title="CINE PREMIER", MISIÓN SECRETA
 https://play-akamai.pongalo.com/the-double/the-double_1-1/play_v1_hls_1080p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-vVHe7GuMdbg/UP56kGssEbI/AAAAAAAACjE/vzq95C4R18Y/s400/Ara%C3%B1as+asesinas.jpg"group-title="PELICULAS", ARAÑAS ASESINAS
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-vVHe7GuMdbg/UP56kGssEbI/AAAAAAAACjE/vzq95C4R18Y/s400/Ara%C3%B1as+asesinas.jpg"group-title="CINE PREMIER", ARAÑAS ASESINAS
 https://prod.pongalo.com/play.m3u8?access-key=55958921be00f9bf6dc51e43ce0dedd270333cab
 
 
 
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/0/00/Fuerzas-especiales_2011.jpg"group-title="PELICULAS", FUERZAS ESPECIALES
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/0/00/Fuerzas-especiales_2011.jpg"group-title="CINE PREMIER", FUERZAS ESPECIALES
 https://content-asae1-up-2.uplynk.com/edf82040054d4c16947a3071051b1406/e.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://narcolepticos.com/wp-content/uploads/2016/12/bitva_za_sevastopol-497422607-large.jpg"group-title="PELICULAS", LA FRANCOTIRADORA
+#EXTINF:-1 tvg-logo="https://narcolepticos.com/wp-content/uploads/2016/12/bitva_za_sevastopol-497422607-large.jpg"group-title="CINE PREMIER", LA FRANCOTIRADORA
 https://content-asae1-up-2.uplynk.com/3f07d535dfb74f4d87d8ed7231d6c1e9/e.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/19/05/20/23/21/0629806.jpg"group-title="PELICULAS", NUESTRO HERMANO IDIOTA
+#EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/19/05/20/23/21/0629806.jpg"group-title="CINE PREMIER", NUESTRO HERMANO IDIOTA
 https://content-asae1-up-1.uplynk.com/64ed971ded354f588dbec52e01caa195/e.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_949382-MLA29954007394_042019-O.jpg"group-title="PELICULAS", LA TUMBA DEL DIABLO
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_949382-MLA29954007394_042019-O.jpg"group-title="CINE PREMIER", LA TUMBA DEL DIABLO
 https://content-asae1-up-2.uplynk.com/5d7d9ab2473640d08b149e05f59c55ca/e.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.noimg.net/movie/cover/original/040d6bcef6ae5b7ce07da2cab7f73db8.jpg"group-title="PELICULAS", LOTOMAN 003
+#EXTINF:-1 tvg-logo="https://static.noimg.net/movie/cover/original/040d6bcef6ae5b7ce07da2cab7f73db8.jpg"group-title="CINE PREMIER", LOTOMAN 003
 https://content-asae1-up-2.uplynk.com/d076158c73314cd79a51f68e15dc600a/e.m3u8
 
 
