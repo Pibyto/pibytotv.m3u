@@ -3253,6 +3253,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f800077
 https://peerlook.ru:443/static/streaming-playlists/hls/d6753f0b-54b6-48f2-8034-2f5fc79984e3/aa947e8f-3bd4-42ed-95e3-4bd2bcb5d63b-804.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__AQjVdVsr-aU-Tnu_s3enzN_5hL3tDo-bg&usqp=CAU"group-title="PELICULAS", ROCK STAR
+https://servidor-4.tk/Uploads/Musica/Rock-star-2001-lat.mp4
+https://servidor-4.tk/Uploads/Musica/Rock-star-2001-lat.mp4
+
+
 #EXTINF:-1 tvg-logo="https://img.ecartelera.com/noticias/fotos/68300/68317/1.jpg"group-title="PELICULAS",SONY 2 2022
 https://peerlook.ru:443/static/streaming-playlists/hls/82265829-0684-4643-9cf9-91a565fd712b/6c161c33-b00d-4e08-bb0b-6b25af3f9c33-720.m3u8
 
