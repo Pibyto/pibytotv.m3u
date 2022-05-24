@@ -29,14 +29,6 @@ http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151753
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png"group-title="CINE PREMIUM",DHE HD
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11544
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png"group-title="CINE PREMIUM", PÁNICO HD
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11586
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="CINE PREMIUM", WARNER TV
 https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
 http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=40&f=.m3u8
@@ -73,6 +65,12 @@ http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151762
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="CINE PREMIUM",AMC FHD
 https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png"group-title="CINE PREMIUM", DHE HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11544
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png"group-title="CINE PREMIUM",A&E HD
@@ -115,6 +113,10 @@ http://gratis.shortgod.com/lala4q/tv2.php?c=
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png"group-title="CINE PREMIUM",CINEMAX HD
 http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12250
 http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=65
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png"group-title="CINE PREMIUM", PÁNICO HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11586
 
 
 
