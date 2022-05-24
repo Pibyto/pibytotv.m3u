@@ -768,7 +768,32 @@ http://144.126.128.123:25461/manoapoyanos/shortgod.com/11623
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png"group-title="PERÚ",TV PERÚ
 http://144.126.128.123:25461/manoapoyanos/shortgod.com/11640
 
+#EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png"group-title="PERÚ",PLANETA TV HD
+https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
+https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/660898970/t192_400x400.jpg"group-title="PERÚ",CINECLUB HD
+https://servilive.com:3176/live/cineclublive.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64UPlwR4MmmkqjiPYp1h4ry9F45c49kRzNMo4UCb5erbuncY&s"group-title="PERÚ",CANAL 41
+https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400"group-title="PERÚ",BARBE TV
+http://iptv.streamhispanatv.net:25461/playgt/123456/105
+
+
+#EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/04/64/37/77/360_F_464377776_4go2Oxndiken8T1BKA16LKCz4ah4BlX2.jpg"group-title="PERÚ",DMJ
+https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png"group-title="PERÚ",ANTARES TELEVISIÓN HD
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1340479339.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/DA2asU0w91KyOcHQWUFEtBECgv-NG1pUtRrWw78Negq5uH6gEeLaaxTJkxe8f9CNTDHZJHLfpJM=s900-c-k-c0x00ffffff-no-rj"group-title="PERÚ",URANIO TV HD
+https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
 
 
 
@@ -1545,8 +1570,6 @@ https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/04/64/37/77/360_F_464377776_4go2Oxndiken8T1BKA16LKCz4ah4BlX2.jpg"group-title="CINE Y SERIES",DMJ
 https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png"group-title="CINE Y SERIES",ANTARES TELEVISIÓN HD
