@@ -732,6 +732,27 @@ https://rds3.desdeparaguay.net:443/tvs/tvs/chunklist_w399524029.m3u8?k=befebd44d
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg"group-title="PERÚ",LATINA HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11628
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n.svg.png"group-title="PERÚ", AMÉRICA HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11611
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png"group-title="PERÚ",EXITOSA HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11623
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png"group-title="PERÚ",TV PERÚ
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11640
+
+
+
+
+
 
 
 
