@@ -29,6 +29,11 @@ http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151753
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png"group-title="CINE PREMIUM",DHE HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11544
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png"group-title="CINE PREMIUM", PÁNICO HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11586
 
 
 
