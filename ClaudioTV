@@ -694,26 +694,32 @@ http://edge1-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4
 http://45.55.127.106/live/unicanal_mid.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e9/Latele_offline.png/revision/latest?cb=20170112040241&path-prefix=es"group-title="PARAGUAY",LA TELE FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e9/Latele_offline.png/revision/latest?cb=20170112040241&path-prefix=es"group-title="PARAGUAY",LA TELE HD
+http://edge1-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8?syo
 http://edge7-ccast-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8?syo
 
 
-#EXTINF:-1 tvg-logo="https://www.trece.com.py/public/img/Logo-Trece.png"group-title="PARAGUAY",TRECE FHD
+#EXTINF:-1 tvg-logo="https://www.trece.com.py/public/img/Logo-Trece.png"group-title="PARAGUAY",TRECE HD
+http://edge-live14-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
 http://edge4-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Sur_TV_Itapua_2013.png/revision/latest?cb=20171021201738"group-title="PARAGUAY",SUR TV FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Sur_TV_Itapua_2013.png/revision/latest?cb=20171021201738"group-title="PARAGUAY",SUR TV HD
+http://edge-live14-hr.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
 http://edge4-hr.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png"group-title="PARAGUAY",NPY FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png"group-title="PARAGUAY",NPY HD
+http://edge-live14-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
 http://edge8-ccast-hr.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.ip.gov.py/ip/wp-content/uploads/2015/09/photo-1-e1443374657376.png"group-title="PARAGUAY",PY TV FHD
+#EXTINF:-1 tvg-logo="https://www.ip.gov.py/ip/wp-content/uploads/2015/09/photo-1-e1443374657376.png"group-title="PARAGUAY",PY TV HD
+http://edge3-sl.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_SAGEMCOM/Paraguay_TV.m3u8
 http://edge10-sl.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_SAGEMCOM/Paraguay_TV.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2017/10/C9N-VistaPrevia.png?fit=1000%2C1000&ssl=1"group-title="PARAGUAY",C9N FHD
+#EXTINF:-1 tvg-logo="https://i0.wp.com/logoroga.com/wp-content/uploads/2017/10/C9N-VistaPrevia.png?fit=1000%2C1000&ssl=1"group-title="PARAGUAY",C9N HD
+http://edge2-ccast-sl.cvattv.com.ar/live/c5eds/C9N_C4/SA_SAGEMCOM/C9N_C4.m3u8
 http://edge5-hr.cvattv.com.ar/live/c5eds/C9N_C4/SA_SAGEMCOM/C9N_C4.m3u8
 
 
