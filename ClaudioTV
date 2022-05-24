@@ -79,6 +79,13 @@ https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
 http://144.126.128.123:25461/manoapoyanos/shortgod.com/11544
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png"group-title="CINE PREMIUM",MULTIPREMIER HD
+http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=88
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MC_logo_2022.png/640px-MC_logo_2022.png"group-title="CINE PREMIUM",MULTICINEMA HD
+http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=107
+
 
 
 
@@ -121,7 +128,6 @@ http://gratis.shortgod.com/lala4q/tv2.php?c=
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png"group-title="CINE PREMIUM",CINEMAX HD
-https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12250
 http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=65
 
