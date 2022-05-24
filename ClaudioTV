@@ -11,6 +11,8 @@ https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=41&f=.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 
+
+
 EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="CINE PREMIUM",CINECANAL HD
 http://144.126.128.123:25461/manoapoyanos/shortgod.com/11530
 https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
@@ -18,6 +20,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/Cinec
 
 
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_spt-renueva-su-marca-insignia-a-sony-channel.jpg"group-title="CINE PREMIUM",SONY HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11528
 https://edge1.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u8
 
 
