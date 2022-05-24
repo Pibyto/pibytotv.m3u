@@ -763,6 +763,12 @@ http://144.126.128.123:25461/manoapoyanos/shortgod.com/11611
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png"group-title="PERÚ",EXITOSA HD
 http://144.126.128.123:25461/manoapoyanos/shortgod.com/11623
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/panamericana-logo-6EB4821309-seeklogo.com.png"group-title="PERÚ",PANAMERICANA FHD
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png"group-title="PERÚ", ATV
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png"group-title="PERÚ",TV PERÚ
@@ -788,12 +794,34 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/105
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/04/64/37/77/360_F_464377776_4go2Oxndiken8T1BKA16LKCz4ah4BlX2.jpg"group-title="PERÚ",DMJ
 https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLBSSWE48MSMKxLZCNZ0YEYupXxG8TNiK6w&usqp=CAU"group-title="PERÚ",CANAL EVELYN
+https://srv1.mediastreamperu.com:8081/8004/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png"group-title="PERÚ",ANTARES TELEVISIÓN HD
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1340479339.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/DA2asU0w91KyOcHQWUFEtBECgv-NG1pUtRrWw78Negq5uH6gEeLaaxTJkxe8f9CNTDHZJHLfpJM=s900-c-k-c0x00ffffff-no-rj"group-title="PERÚ",URANIO TV HD
 https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9buKX_Bk04NMwVg0L90MZrn29ECgoG1KcXg&usqp=CAU"group-title="PERÚ", CANAL 8
+http://iptv.streamhispanatv.net:25461/playgt/123456/93
+
+#EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.18169-9/29313713_1860551163979687_8526750755828156607_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=101&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeGk4O77DJRq4WdKhqIVusJsmelPMaVjT5aZ6U8xpWNPlpEkXgT2qNDsaD5Qs95_ISLEHboblvcWJgZA4BsLD85f&_nc_ohc=ggPZcXUZVFAAX_B6Dlb&_nc_ht=scontent.feze8-2.fna&oh=00_AT9uFl6e9Zqsz2awbwqwVZaWam2gWQINRaZ896hZcIvj_Q&oe=62655DA4"group-title="PERÚ",LIMALIVE
+https://stmv.panel.grupolimalive.com:443/limalive/limalive/chunklist_w113368657.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_nk61Sz-_hjniOtp6lLrrQJmFdEeWO-pBQ&usqp=CAU"group-title="PERÚ",PLANEA TV
+https://stmv.panel.grupolimalive.com:443/planeatv/planeatv/chunklist_w1465381133.m3u8
+
+
+
+
+
+
+
+
 
 
 
@@ -1604,8 +1632,6 @@ https://video.misistemareseller.com:443/unikatv/unikatv/chunklist_w1798679584.m3
 
 #EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.18169-9/29313713_1860551163979687_8526750755828156607_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=101&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeGk4O77DJRq4WdKhqIVusJsmelPMaVjT5aZ6U8xpWNPlpEkXgT2qNDsaD5Qs95_ISLEHboblvcWJgZA4BsLD85f&_nc_ohc=ggPZcXUZVFAAX_B6Dlb&_nc_ht=scontent.feze8-2.fna&oh=00_AT9uFl6e9Zqsz2awbwqwVZaWam2gWQINRaZ896hZcIvj_Q&oe=62655DA4"group-title="CINE Y SERIES",LIMALIVE
 https://stmv.panel.grupolimalive.com:443/limalive/limalive/chunklist_w113368657.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_nk61Sz-_hjniOtp6lLrrQJmFdEeWO-pBQ&usqp=CAU"group-title="CINE Y SERIES",PLANEA TV
