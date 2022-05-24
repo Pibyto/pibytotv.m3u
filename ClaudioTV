@@ -1264,7 +1264,7 @@ http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12192
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/ioy32l1623579346.png"group-title="DEPORTES",TIGO SPORTS
 http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=201&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png"group-title="DEPORTES",IZZI AFFICIONADOS
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png"group-title="DEPORTES",AFFICIONADOS
 http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=30&f=.m3u8
 
 
@@ -1303,6 +1303,14 @@ https://120sports-accdn-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1200px-kgLiga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="DEPORTES",LIGA DE CAMPEONES
 http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12205
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png"group-title="DEPORTES",LALIGATV
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11699
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png"group-title="DEPORTES",SKY SPORTS
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11708
 
 
 
