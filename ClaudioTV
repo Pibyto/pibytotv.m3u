@@ -869,8 +869,50 @@ https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
 
 
-https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD93ehjWavvPTHn9NrOH8ZypBhHAtd-9l7L_t_a1TMg5ZyL2qp&s"group-title="BOLIVIA",REC ONLINE TV HD
+https://master.tucableip.com/reconline/live/video.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="BOLIVIA",MEGA TV HD
+https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrY14IzkBHTBEctUYibVwM_yE5Hug6tBtR2QhrWWfUDnqa4ks&s"group-title="BOLIVIA",SEOTV HD
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png/v1/fill/w_227,h_227,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%20ZoyTV%203.png"group-title="BOLIVIA",ZOY TV
+https://master.tucableip.com//zoytv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ705eVxKKzcyg5JNP-d81pqZFN0YeZaWXEg&usqp=CAU"group-title="BOLIVIA", TV LATINA
+https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png"group-title="BOLIVIA",ANDES TV
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWZy9dRBCPOtVtidK58Or0CsPdameDq1a2Q&usqp=CAU"group-title="BOLIVIA",ATB
+http://186.121.206.197/live/daniel/index.m3u8
 
 
 
