@@ -1005,6 +1005,10 @@ https://play.amelbasoluciones.co:3546/live/boliviaradiotvlive.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="CINE Y SERIES",EL CHAVO DEL 8 
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
 https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w308076895.m3u8
 https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
