@@ -879,7 +879,7 @@ https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWZy9dRBCPOtVtidK58Or0CsPdameDq1a2Q&usqp=CAU"group-title="BOLIVIA",ATB HD
 http://186.121.206.197/live/daniel/index.m3u8
 
-EXTINF:-1 tvg-logo="https://cdn.evaluar.com/jobboards/prod/wp-content/uploads/jobboards/sites/343/2021/09/03145725/Logo_Red_Uno1.png"group-title="BOLIVIA",UNO HD
+#EXTINF:-1 tvg-logo="https://cdn.evaluar.com/jobboards/prod/wp-content/uploads/jobboards/sites/343/2021/09/03145725/Logo_Red_Uno1.png"group-title="BOLIVIA",UNO HD
 https://www.dailymotion.com/cdn/live/video/x825whp.m3u8?sec=U-f81IyOn8dICD2iC2mUdsjHLxnzN4X4B0XQ6408eTCGCcJ_1x9BaMQZB7pDgq3UzqtP5CjJTItftx8EHj-eoQ&dmTs=946400&dmV1st=40CE09DD7BB277704D206816CAF7CF4C
 
 
