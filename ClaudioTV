@@ -887,6 +887,11 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w904046097.m3u8
 https://servilive.com:3149/live/jn19tvlive.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoVLV3y8tx_6j51mAQMe8LeceblFCseQQk1g&usqp=CAU"group-title="PERÚ", AUTENTICA TV
+https://live.obslivestream.com:443/autenticatvmux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://huachoperutv.com/wp-content/uploads/elementor/thumbs/logo-1-p9jhmvdhk8zb9sh9bguhzvez9j02ffphsqx3erjkuo.png"group-title="PERÚ",HUACHO TV
+https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8?WebM3UCL
 
 
 
@@ -920,6 +925,15 @@ https://servilive.com:3149/live/jn19tvlive.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD93ehjWavvPTHn9NrOH8ZypBhHAtd-9l7L_t_a1TMg5ZyL2qp&s"group-title="BOLIVIA",REC ONLINE TV HD
+https://master.tucableip.com/reconline/live/video.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="BOLIVIA",MEGA TV HD
+https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.eldeber.com.bo/Files/Sizes/2020/12/8/la-nueva-imagen-de-bolivia-tv-i-captura._1038948677_1140x520.jpg"group-title="BOLIVIA",BTV HD
@@ -950,13 +964,6 @@ https://cloud2.streaminglivehd.com:1936/8222/8222/playlist.m3u8?WebM3UCL
 https://614013e273786.streamlock.net/XtoTv/XtoTv/playlist.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD93ehjWavvPTHn9NrOH8ZypBhHAtd-9l7L_t_a1TMg5ZyL2qp&s"group-title="BOLIVIA",REC ONLINE TV HD
-https://master.tucableip.com/reconline/live/video.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="BOLIVIA",MEGA TV HD
-https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrY14IzkBHTBEctUYibVwM_yE5Hug6tBtR2QhrWWfUDnqa4ks&s"group-title="BOLIVIA",SEOTV HD
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 
@@ -967,6 +974,8 @@ https://master.tucableip.com//zoytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ705eVxKKzcyg5JNP-d81pqZFN0YeZaWXEg&usqp=CAU"group-title="BOLIVIA", TV LATINA HD
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Izlr36vLmsz2GO6cE1Ml8JnbXUuQP9D3XDZ19ZmlFK32_K-NMLdEtdCoYA464whXuH4"group-title="BOLIVIA",RTV CANAL 19 HD
+https://play.amelbasoluciones.co:3546/live/boliviaradiotvlive.m3u8
 
 
 
@@ -1317,9 +1326,6 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Stingray_Naturescape.png"group-title="DOCUMENTALES Y CULTURA",NATURESCAPE
-https://stream.ads.ottera.tv/cl/7673288a-381d-469e-bc9e-0c4b26ccce9c/1920x1080_5711200_3_false.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png"group-title="DOCUMENTALES Y CULTURA", CANAL ENCUENTRO HD
@@ -1394,8 +1400,6 @@ https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 https://cdn7.streamgato.us:3654/live/larutatvlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Izlr36vLmsz2GO6cE1Ml8JnbXUuQP9D3XDZ19ZmlFK32_K-NMLdEtdCoYA464whXuH4"group-title="CINE Y SERIES",RTV CANAL 19 HD
-https://play.amelbasoluciones.co:3546/live/boliviaradiotvlive.m3u8
 
 
 
@@ -2163,17 +2167,6 @@ https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
 
 
 
-
-
- 
-
-
-#EXTINF:-1 tvg-logo="https://huachoperutv.com/wp-content/uploads/elementor/thumbs/logo-1-p9jhmvdhk8zb9sh9bguhzvez9j02ffphsqx3erjkuo.png"group-title="CINE Y SERIES",HUACHO TV
-https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8?WebM3UCL
-
-
-
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DocrCiBPYOOoeWmd0MY7yodjmNrC4l0Hg8w_9wuiKb2td4y3rxgpTyzBafTdeB6yhFI"group-title="CINE Y SERIES", VISION TV
 http://iptv.streamhispanatv.net:25461/playgt/123456/7
 
@@ -2202,11 +2195,6 @@ https://5eff35271151c.streamlock.net:1936/8144/8144/chunklist_w1273720400.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAEZbpNJYF8k2IMyU7KIkmPyvfQGOCsewdw&usqp=CAU"group-title="CINE Y SERIES",CREO TV
 https://srv1.mediastreamperu.com:8081/creotv/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoVLV3y8tx_6j51mAQMe8LeceblFCseQQk1g&usqp=CAU"group-title="CINE Y SERIES", AUTENTICA TV
-https://live.obslivestream.com:443/autenticatvmux/tracks-v1a1/mono.m3u8
 
 
 
