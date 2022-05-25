@@ -856,6 +856,30 @@ https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://static.eldeber.com.bo/Files/Sizes/2020/12/8/la-nueva-imagen-de-bolivia-tv-i-captura._1038948677_1140x520.jpg"group-title="BOLIVIA",BTV HD
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://tvmegavision.com/wp-content/uploads/2021/03/Megavision-Bolivia-en-vivo-Online.png"group-title="BOLIVIA", MEGAVISIÓN HD
+https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWZy9dRBCPOtVtidK58Or0CsPdameDq1a2Q&usqp=CAU"group-title="BOLIVIA",ATB HD
+http://186.121.206.197/live/daniel/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Pat-TV-en-vivo-Online.png"group-title="BOLIVIA",PAT HD
+https://master.tucableip.com/pat/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MSjebD6EWgo/Xx-OgxgFL6I/AAAAAAAAKk4/XL-fv6VwmjYzg2MI18SOtIncW3NdAkjFwCLcBGAsYHQ/s1600/rtp.png"group-title="BOLIVIA",RTP HD
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1541203773.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e6UQndvBQ28/maxresdefault.jpg"group-title="BOLIVIA",TV HD TROPICAL
+https://cloud2.streaminglivehd.com:1936/8222/8222/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/XTO_TV_2017.png/revision/latest/scale-to-width-down/300?cb=20200923004941&path-prefix=es"group-title="BOLIVIA",XTO TV HD
+https://614013e273786.streamlock.net/XtoTv/XtoTv/playlist.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD93ehjWavvPTHn9NrOH8ZypBhHAtd-9l7L_t_a1TMg5ZyL2qp&s"group-title="BOLIVIA",REC ONLINE TV HD
@@ -872,16 +896,14 @@ https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 https://master.tucableip.com//zoytv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ705eVxKKzcyg5JNP-d81pqZFN0YeZaWXEg&usqp=CAU"group-title="BOLIVIA", TV LATINA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ705eVxKKzcyg5JNP-d81pqZFN0YeZaWXEg&usqp=CAU"group-title="BOLIVIA", TV LATINA HD
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png"group-title="BOLIVIA",ANDES TV
+#EXTINF:-1 tvg-logo="https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png"group-title="BOLIVIA",ANDES TV HD
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWZy9dRBCPOtVtidK58Or0CsPdameDq1a2Q&usqp=CAU"group-title="BOLIVIA",ATB
-http://186.121.206.197/live/daniel/index.m3u8
 
 
 
