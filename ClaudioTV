@@ -638,8 +638,23 @@ https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_O_yDJ3BrVGVM7SY08qrsHI2FUHZYYqQg&usqp=CAU"group-title="PARAGUAY",E-TV HD
 https://59ce1298bfb98.streamlock.net:443/emprendetv/emprendetv/chunklist_w68446214.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmOXUulC7VQpa-uSA76hcOT7h2ahHO4Oa7IA&usqp=CAU"group-title="PARAGUAY",FARRA PLAY HD
+http://159.203.148.226/live/farra.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://paraguayonline.net/wp-content/uploads/2021/12/02.png"group-title="PARAGUAY",FRUTILLAR TV HD
+https://59ce1298bfb98.streamlock.net:443/frutillarfm/frutillarfm/chunklist_w439127795.m3u8?WebM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="PARAGUAY", BELLA ASUNCIÓN TV HD
 https://tvdatta.com:3602/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png"group-title="PARAGUAY",RCC HD
+https://59ce1298bfb98.streamlock.net:443/rcctv02/rcctv02/chunklist_w367521064.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkhvgQ0_TxTQMnnFSWj-bucHJuQq6Dk41B5A2UVw=s900-c-k-c0x00ffffff-no-rj"group-title="PARAGUAY",UNIRADIO HD
+https://59ce1298bfb98.streamlock.net:443/uniradiotv/uniradiotv/chunklist_w953349584.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="PARAGUAY",MI TV FHD
