@@ -869,6 +869,31 @@ https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png"group-title="PERÚ",ANDES TV HD
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZpumLMXbsTu3AIhGV9cSIkxqZZFNy6fNFEQ&usqp=CAU"group-title="PERÚ",TV PERUANISIMA HD
+http://k4.usastreams.com:80/TVperuanisima/TVperuanisima/chunklist_w684203117.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png"group-title="PERÚ",IPE HD
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkMV1SngR7e7B0fxOza-qwrxAGl3IVeRd3oA&usqp=CAU"group-title="PERÚ",BEST CABLE TV HD
+https://tv.inka.net.pe:443/bestcable/bestcable/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzOf8GDWrw_ugoYdp6CAZSASVT8c_H_W6YuA&usqp=CAU"group-title="PERÚ",BH TV HD
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w904046097.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565018162916114432/7h5k-iqC_400x400.png"group-title="PERÚ",JN19 HD
+https://servilive.com:3149/live/jn19tvlive.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
