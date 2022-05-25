@@ -724,6 +724,19 @@ http://edge2-ccast-sl.cvattv.com.ar/live/c5eds/C9N_C4/SA_SAGEMCOM/C9N_C4.m3u8
 http://edge5-hr.cvattv.com.ar/live/c5eds/C9N_C4/SA_SAGEMCOM/C9N_C4.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png"group-title="PARAGUAY",GEN HD
+http://edge10-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_SAGEMCOM/GEN_TV.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wcyRNZMLhuCQM7AXHvZN_sNW0lHXdVCMyA&usqp=CAU"group-title="PARAGUAY",5DIAS HD
+http://edge5-hr.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_SAGEMCOM/5_Dias_PY.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/TV-Camara-Paraguay-en-vivo-Online.png"group-title="PARAGUAY",TV CAMARA HD
+http://edge1-hr.cvattv.com.ar/live/c4eds/TV_Camara/SA_SAGEMCOM/TV_Camara.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-31-at-12.29.17-300x210.jpeg"group-title="PARAGUAY", CANAL RTV 12 
 https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
 
