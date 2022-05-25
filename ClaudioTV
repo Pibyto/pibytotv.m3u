@@ -57,6 +57,15 @@ http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12140
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151711
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Azteca_7_variante_blanca_2021.png/640px-Azteca_7_variante_blanca_2021.png"group-title="CINE PREMIUM", AZTECA 7 HD
+http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12117
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="CINE PREMIUM", IMAGEN TELEVISIÓN HD
+http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12126
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="CINE PREMIUM",TBS
 https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
