@@ -250,6 +250,9 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sp
 
 
 
+#EXTINF:-1 tvg-logo="https://www.misionvida.org/wp-content/themes/veraka_mv/mvtv/logos.jpg"group-title="ARGENTINA", MISION VIDA TV HD
+https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRqOrGdqRe7DtrRKMH4WKLuO08sLqodSpVA&usqp=CAU"group-title="ARGENTINA",EL TRECE HD
@@ -800,7 +803,7 @@ https://rds3.desdeparaguay.net:443/tvs/tvs/chunklist_w399524029.m3u8?k=befebd44d
 
 
 
-##############################( PERÙ )#################################( PERÙ )####################( PERÚ)###############################################################(PERÚ)###################
+#######################( PERÙ )#################################( PERÙ )####################( PERÚ)###############################################################(PERÚ)##########################
 ##################################################################################################################################################################################################
 
 
@@ -949,8 +952,8 @@ https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8?WebM3UCL
 
 
 
-##############( BOLIVIA )####################( BOLIVIA )############################( BOLIVIA )##########################
-#########################################################################################################################
+#######################( BOLIVIA )####################( BOLIVIA )############################( BOLIVIA )##########################
+##################################################################################################################################
 
 
 
@@ -1033,8 +1036,8 @@ https://play.amelbasoluciones.co:3546/live/boliviaradiotvlive.m3u8
 
 
 
-
-
+####################( CINE Y SERIES )#########################################( CINE Y SERIES )########################################( CINE Y SERIES )#####################################
+#############################################################################################################################################################################################
 
 
 
@@ -1048,18 +1051,33 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 
 
 
+#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
+https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w308076895.m3u8
+https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD93ehjWavvPTHn9NrOH8ZypBhHAtd-9l7L_t_a1TMg5ZyL2qp&s"group-title="CINE Y SERIES",REC ONLINE TV HD
+https://master.tucableip.com/reconline/live/video.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="CINE Y SERIES",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="CINE Y SERIES", GDM
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="CINE Y SERIES",LA VOZ TV
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
-https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w308076895.m3u8
-https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 
 
 
@@ -1089,9 +1107,6 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/2
 #EXTINF:-1 tvg-logo="https://newvidatv.com/wp-content/uploads/elementor/thumbs/newtvdigital-pesjbtws8fs1c8ff2e1l7lx63lcuml3wf88utwiups.png"group-title="CINE Y SERIES",NEW VIDA TV FHD
 https://vse2-sa-all8.secdn.net:443/tvstartup17-channel/live/mp4:newvidaedge/chunklist_sess169492334.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD93ehjWavvPTHn9NrOH8ZypBhHAtd-9l7L_t_a1TMg5ZyL2qp&s"group-title="CINE Y SERIES",REC ONLINE TV HD
-https://master.tucableip.com/reconline/live/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE Y SERIES", CIUDAD MAGAZINE FHD
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
@@ -1136,8 +1151,6 @@ https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="CINE Y SERIES", PLANETA TV FHD
 https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 
-#EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="CINE Y SERIES", GDM
-https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t39.30808-6/272060632_350081793784336_7065644928722778275_n.png?stp=dst-png_p206x206&_nc_cat=106&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeGksMZ6uODvNeHIS7LvysOJsisMLw4eH1iyKwwvDh4fWK5zJgM55oa4JsNf1KqfkfPeHj8DlMjFWISvLPczpJnI&_nc_ohc=5btDEAmGEcMAX-R2ioe&_nc_ht=scontent.feze8-1.fna&oh=00_AT8HBC3mBGvzXMhXWePTrjbqGTtUKbhv2DCgYdeOpl8aYQ&oe=628C2F7F"group-title="CINE Y SERIES", ATM TELEVISIÓN
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
@@ -1210,9 +1223,6 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/105
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJo0tmmNiBHKf6GXvWrBTrsOsubXGNIPLpg&usqp=CAU"group-title="CINE Y SERIES",BELLA ABANQUINA TV
 https://v4.tustreaming.cl/bellatv/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.misionvida.org/wp-content/themes/veraka_mv/mvtv/logos.jpg"group-title="CINE Y SERIES", MISION VIDA TV HD
-https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/movie-central-logo-85DE28681B-seeklogo.com.png"group-title="CINE Y SERIES",MOVIES CENTRAL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/b6541dd8-ae92-4d29-a7fd-ce28aaacd427/3.m3u8
