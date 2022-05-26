@@ -1063,8 +1063,15 @@ https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/660898970/t192_400x400.jpg"group-title="CINE Y SERIES",CINECLUB FHD
+https://servilive.com:3176/live/cineclublive.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
@@ -1134,9 +1141,6 @@ https://vse2-sa-all8.secdn.net:443/tvstartup17-channel/live/mp4:newvidaedge/chun
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdbTN87f7ZwM2s3-4YOBjKba42M1o5xcD4Q&usqp=CAU"group-title="CINE Y SERIES",CANAL 12 METRO TV HD
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/660898970/t192_400x400.jpg"group-title="CINE Y SERIES",CINECLUB FHD
-https://servilive.com:3176/live/cineclublive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"group-title="CINE Y SERIES",MEGA CINE TV FHD
