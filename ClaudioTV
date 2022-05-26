@@ -56,6 +56,12 @@ http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12140
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151711
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png"group-title="CINE PREMIUM",TRU TV HD
+https://edge1.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Azteca_7_variante_blanca_2021.png/640px-Azteca_7_variante_blanca_2021.png"group-title="CINE PREMIUM", AZTECA 7 HD
 http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12117
 
@@ -1846,8 +1852,9 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png"group-title="CINE Y SERIES",UNO HD
-http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69250.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJIGDtxN3fPK6NZBwkD7dl2SZm7kuDFDptw&usqp=CAU"group-title="CINE Y SERIES",PLAY MEDIOS TV
@@ -1935,6 +1942,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png"group-title="NOVELAS",UNO HD
+http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69250.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png"group-title="NOVELAS",CITY TV
+https://citytv.cachefly.net/citytv1/citytv1/playlist.m3u8
 
 
 
