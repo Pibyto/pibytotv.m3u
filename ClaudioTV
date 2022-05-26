@@ -953,6 +953,10 @@ https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="BOLIVIA",MEGA TV HD
 https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20180702212548"group-title="BOLIVIA",BOLIVISION HD
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://static.eldeber.com.bo/Files/Sizes/2020/12/8/la-nueva-imagen-de-bolivia-tv-i-captura._1038948677_1140x520.jpg"group-title="BOLIVIA",BTV HD
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8?WebM3UCL
