@@ -759,6 +759,10 @@ http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45709
 http://159.203.148.226/live/farra.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png"group-title="PARAGUAY",GO HD
+https://rds3.desdeparaguay.net:443/gotv/gotv/chunklist_w1270557878.m3u8?k=439d9c49b004387541ec185240211821282603b7be798bb85be4ee3e4f60c6d5&exp=1653534234
+
+
 #EXTINF:-1 tvg-logo="https://paraguayonline.net/wp-content/uploads/2021/12/02.png"group-title="PARAGUAY",FRUTILLAR TV HD
 https://59ce1298bfb98.streamlock.net:443/frutillarfm/frutillarfm/chunklist_w439127795.m3u8?WebM3UCL
 
