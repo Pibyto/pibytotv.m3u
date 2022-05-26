@@ -1060,6 +1060,9 @@ https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD93ehjWavvPTHn9NrOH8ZypBhHAtd-9l7L_t_a1TMg5ZyL2qp&s"group-title="CINE Y SERIES",REC ONLINE TV HD
@@ -1067,8 +1070,20 @@ https://master.tucableip.com/reconline/live/video.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE Y SERIES", CIUDAD MAGAZINE FHD
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+
+#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="CINE Y SERIES", PLANETA TV FHD
+https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="CINE Y SERIES",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="CINE Y SERIES",NEO TV DIGITAL 16.1 TDA
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="CINE Y SERIES", GDM
@@ -1108,12 +1123,9 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/2
 https://vse2-sa-all8.secdn.net:443/tvstartup17-channel/live/mp4:newvidaedge/chunklist_sess169492334.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE Y SERIES", CIUDAD MAGAZINE FHD
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="CINE Y SERIES",CANAL 12 METRO TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdbTN87f7ZwM2s3-4YOBjKba42M1o5xcD4Q&usqp=CAU"group-title="CINE Y SERIES",CANAL 12 METRO TV HD
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
 
@@ -1140,16 +1152,12 @@ https://live.teledomdr.com:3131/live/nitidatvlive.m3u8?WebM3UCL
 https://cdn2.streamgato.us:443/pregotv/pregotv/chunklist_w1936102864.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png"group-title="CINE Y SERIES",PLANETA TV FHD
 https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="CINE Y SERIES", PLANETA TV FHD
-https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t39.30808-6/272060632_350081793784336_7065644928722778275_n.png?stp=dst-png_p206x206&_nc_cat=106&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeGksMZ6uODvNeHIS7LvysOJsisMLw4eH1iyKwwvDh4fWK5zJgM55oa4JsNf1KqfkfPeHj8DlMjFWISvLPczpJnI&_nc_ohc=5btDEAmGEcMAX-R2ioe&_nc_ht=scontent.feze8-1.fna&oh=00_AT8HBC3mBGvzXMhXWePTrjbqGTtUKbhv2DCgYdeOpl8aYQ&oe=628C2F7F"group-title="CINE Y SERIES", ATM TELEVISIÓN
@@ -1341,8 +1349,6 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="CINE Y SERIES",NEO TV DIGITAL 16.1 TDA
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
