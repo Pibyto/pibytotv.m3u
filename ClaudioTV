@@ -743,6 +743,15 @@ http://edge5-hr.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_SAGEMCOM/5_Dias_PY.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/06/edulogo3-300x204.png"group-title="PARAGUAY",EDUCANAL HD
+https://59ce1298bfb98.streamlock.net:443/educanal/educanal/chunklist_w1429510679.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/tv/images/logo.png"group-title="PARAGUAY",MAS TV HD
+https://59ce1298bfb98.streamlock.net:443/mastv/mastv/chunklist_w1042350252.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/TV-Camara-Paraguay-en-vivo-Online.png"group-title="PARAGUAY",TV CAMARA HD
 http://edge1-hr.cvattv.com.ar/live/c4eds/TV_Camara/SA_SAGEMCOM/TV_Camara.m3u8
 
@@ -758,10 +767,14 @@ https://59ce1298bfb98.streamlock.net:443/emprendetv/emprendetv/chunklist_w684462
 #EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/fb.jpg"group-title="PARAGUAY", BELLA ASUNCIÓN TV HD
 https://tvdatta.com:3602/stream/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://scontent.feze7-1.fna.fbcdn.net/v/t39.30808-1/280517328_4873400396090690_391045035655191960_n.jpg?stp=c234.196.369.369a_cp0_dst-jpg_e15_p960x960_q65&_nc_cat=106&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=cpxjfMzAeYYAX_uOTt8&_nc_ht=scontent.feze7-1.fna&oh=00_AT-lo7F51rNzewLXQc3H2YswZ8-_xy86ppVEmY5zMQVHpw&oe=62959BFE"group-title="PARAGUAY",ALMAYA TV HD
+https://59ce1298bfb98.streamlock.net:443/almayatv/almayatv/chunklist_w1734983753.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/py-canal-8-vision-tv-6069.jpg"group-title="PARAGUAY",CANAL 8 VISIÓN TV
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45709
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmOXUulC7VQpa-uSA76hcOT7h2ahHO4Oa7IA&usqp=CAU"group-title="PARAGUAY",FARRA PLAY HD
@@ -774,6 +787,11 @@ https://rds3.desdeparaguay.net:443/gotv/gotv/chunklist_w1270557878.m3u8?k=439d9c
 
 #EXTINF:-1 tvg-logo="https://paraguayonline.net/wp-content/uploads/2021/12/02.png"group-title="PARAGUAY",FRUTILLAR TV HD
 https://59ce1298bfb98.streamlock.net:443/frutillarfm/frutillarfm/chunklist_w439127795.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://paraguayonline.net/wp-content/uploads/2022/01/cgztvrad.jpg"group-title="PARAGUAY", CAAGUAZÚ TV HD
+https://59ce1298bfb98.streamlock.net:443/caaguazutv/caaguazutv/chunklist_w1791037156.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkhvgQ0_TxTQMnnFSWj-bucHJuQq6Dk41B5A2UVw=s900-c-k-c0x00ffffff-no-rj"group-title="PARAGUAY",UNIRADIO HD
