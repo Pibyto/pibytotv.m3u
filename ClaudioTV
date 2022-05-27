@@ -802,6 +802,15 @@ https://59ce1298bfb98.streamlock.net:443/tvaire/tvaire/chunklist_w2037613355.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd9q31TjVgGPW_t-ST-CdL2TzAw1loeno5Zw&usqp=CAU"group-title="PARAGUAY",OVIEDO TV ONLINE HD
 https://59ce1298bfb98.streamlock.net:443/oviedotv/oviedotv/chunklist_w1808217988.m3u8
 
+#EXTINF:-1 tvg-logo="https://obedira.s3.us-west-2.amazonaws.com/wp-content/uploads/2020/07/02131326/Obedira_RadioTV.jpg"group-title="PARAGUAY",OBEDIRA TV HD
+https://59ce1298bfb98.streamlock.net:443/obediratv/obediratv/chunklist_w931773303.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://scontent.feze7-2.fna.fbcdn.net/v/t1.6435-1/84649324_3437850246285792_7790620072745107456_n.jpg?stp=cp0_dst-jpg_e15_p480x480_q65&_nc_cat=104&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=affTwkh-nnUAX-D3BIW&_nc_ht=scontent.feze7-2.fna&oh=00_AT8wwbTxjiAvys95QpbLccbZlqU6njcmOXnR4Wuwbu-ejQ&oe=62B55FFF"group-title="PARAGUAY", ESTACIÓN CRISTAL HD
+https://59ce1298bfb98.streamlock.net:443/cristaltv/cristaltv/chunklist_w1727884976.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQkhvgQ0_TxTQMnnFSWj-bucHJuQq6Dk41B5A2UVw=s900-c-k-c0x00ffffff-no-rj"group-title="PARAGUAY",UNIRADIO HD
 https://59ce1298bfb98.streamlock.net:443/uniradiotv/uniradiotv/chunklist_w953349584.m3u8?WebM3UCL
