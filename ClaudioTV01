@@ -50,6 +50,28 @@ http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12026
 http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12250
 http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=65
 
+#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png"group-title="CINE PREMIUM",COMEDY CENTRAL HD
+https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png"group-title="CINE PREMIUM",STUDIOS UNIVERSAL
+http://gratis.shortgod.com/nuevaversionenshortgod/tv3.php?c=115
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151753
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="CINE PREMIUM", WARNER TV
+https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
+http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=40&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/FX_HD_2013.png/revision/latest?cb=20180216195050"group-title="CINE PREMIUM",FX HD
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12060
+https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png"group-title="CINE PREMIUM", PÁNICO HD
 http://144.126.128.123:25461/manoapoyanos/shortgod.com/11586
