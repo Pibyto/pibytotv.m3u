@@ -311,7 +311,7 @@ http://edge-live14-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.misionvida.org/wp-content/themes/veraka_mv/mvtv/logos.jpg"group-title="ARGENTINA", MISION VIDA TV HD
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/mision-vida-television.png"group-title="ARGENTINA", MISION VIDA TV HD
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
 
