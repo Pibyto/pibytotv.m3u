@@ -173,6 +173,39 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 
 
 
+###############( BOLIVIA )################################( BOLIVIA )################################################( BOLIVIA )######################################
+######################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20180702212548"group-title="BOLIVIA",BOLIVISION HD
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.eldeber.com.bo/Files/Sizes/2020/12/8/la-nueva-imagen-de-bolivia-tv-i-captura._1038948677_1140x520.jpg"group-title="BOLIVIA",BTV HD
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://tvmegavision.com/wp-content/uploads/2021/03/Megavision-Bolivia-en-vivo-Online.png"group-title="BOLIVIA", MEGAVISIÓN HD
+https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWZy9dRBCPOtVtidK58Or0CsPdameDq1a2Q&usqp=CAU"group-title="BOLIVIA",ATB HD
+http://186.121.206.197/live/daniel/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Pat-TV-en-vivo-Online.png"group-title="BOLIVIA",PAT HD
+https://master.tucableip.com/pat/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MSjebD6EWgo/Xx-OgxgFL6I/AAAAAAAAKk4/XL-fv6VwmjYzg2MI18SOtIncW3NdAkjFwCLcBGAsYHQ/s1600/rtp.png"group-title="BOLIVIA",RTP HD
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1541203773.m3u8?WebM3UCL
+
+
+
 
 
 
