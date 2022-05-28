@@ -1,6 +1,94 @@
 #ClaudioTV01
 
 
+###########################( DEPORTES )################################( DEPORTES )##############################
+###########################( DEPORTES )################################( DEPORTES )##############################
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/espn-logo-350x183.png?itok=heHZgbSx"group-title="DEPORTES",ESPN HD
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+http://tvencasa.fun:2052/4236/4236/174895
+https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?fbclid=I
+http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/22112.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-w0fjD0r_Evs/VmW-VfUpaAI/AAAAAAAAAQ8/XWAfmUm3RUk/s1600/espn2.png"group-title="DEPORTES",ESPN 2 HD
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+http://tvencasa.fun:2052/4236/4236/175659
+http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/59802.m3u8
+
+
+#EXTINF:-1  tvg-logo="http://1.bp.blogspot.com/-TZNQbBgu508/UjtEagBbaMI/AAAAAAAAAH0/8YrDDQ6iA6k/s1600/ESPN3Vivo.png"group-title="DEPORTES",ESPN 3
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8?SBN
+
+
+#EXTINF:-1 tvg-logo="https://sumarium.info/wp-content/uploads/2021/11/ESPN-4.jpg"group-title="DEPORTES",ESPN4
+http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=167&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_05/large_es.png.36ee9377a3b8a9c22b519d73de03d6c9.png"group-title="DEPORTES", ESPN PREMIUM HD
+http://edge7-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+http://tvencasa.fun:2052/4236/4236/173927
+http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151412
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="DEPORTES", TNT SPORTS HD
+http://edge9-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/153801.m3u8
+https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="DEPORTES",FOX SPORTS
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+https://edge-live34-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8?mvk
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png"group-title="DEPORTES",FOX SPORTS
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="DEPORTES",FOX SPORTS
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="DEPORTES",FOX SPORTS 2 FHD
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png"group-title="DEPORTES",FOX SPORTS 3 FHD
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg"group-title="DEPORTES",TyC Sports FHD
+https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###########( ARGENTINA )##########################( ARGENTINA )#######################( ARGENTINA )#####################
 #######################################################################################################################
 
