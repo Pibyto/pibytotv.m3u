@@ -127,6 +127,60 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 
 
 
+##################( PERÚ )##########################( PERÚ )###########################
+#######################################################################################
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg"group-title="PERÚ",LATINA HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11628
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n.svg.png"group-title="PERÚ", AMÉRICA HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11611
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png"group-title="PERÚ",EXITOSA HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11623
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/panamericana-logo-6EB4821309-seeklogo.com.png"group-title="PERÚ",PANAMERICANA FHD
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png"group-title="PERÚ",WILLAX HD
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmM19DL7V41tT15_L1N0CeStbzcd6HMkMuFVYIIDA6ue)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png"group-title="PERÚ", ATV
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg"group-title="PERÚ",ATV+
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
