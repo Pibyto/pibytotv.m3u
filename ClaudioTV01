@@ -1,6 +1,105 @@
 #ClaudioTV01
 
 
+
+#################################( CINE PREMIUM )#############################################( CINE PREMIUM )########################################
+#################################( CINE PREMIUM )#############################################( CINE PREMIUM )########################################
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11593
+https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
+http://gratis.shortgod.com/lala4q/tv2.php?c=
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png"group-title="CINE PREMIUM",CINEMAX HD
+http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12250
+http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=65
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png"group-title="CINE PREMIUM", PÁNICO HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11586
+
+
+
+#EXTINF:-1 tvg-logo="tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png"group-title="CINE PREMIUM",HBO FHD
+http://edge6-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png"group-title="CINE PREMIUM",HBO2 FHD
+http://edge-live14-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="CINE PREMIUM",HBO PLUS FHD
+http://edge10-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8?lang=en
+http://edge-live14-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8?lang=en
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFR9GxjZRONi0PrFshtU4QOAOJPFlDoOM7w&usqp=CAU"group-title="CINE PREMIUM",HBO FAMILY FHD
+http://edge-live14-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="CINE PREMIUM",CINE SONY
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="CINE PREMIUM",HBO MUNDI FHD
+http://edge10-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="CINE PREMIUM",HBO POP FHD
+http://edge1-ccast-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png"group-title="CINE PREMIUM",HBO SIGNATURE FHD
+http://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
+http://tvencasa.fun:2052/FGARCIA/FGARCIA/63427
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSULdmSIL5Mf1psDICdNGc15uCHcaeKw-4JA&usqp=CAU"group-title="CINE PREMIUM",HBO XTREME FHD
+http://edge-live16-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8?lang=en
+http://edge2-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8?lang=en
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="CINE PREMIUM",GOLDEN
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11558
+http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=202&f=.m3u8
+http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=1054
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="CINE PREMIUM",GOLDEN PLUS
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11553
+http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=73&f=.m3u8
+http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=1056
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="CINE PREMIUM",GOLDEN EDGE
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11550
+http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=74&f=.m3u8
+http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=1055
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ###########################( DEPORTES )################################( DEPORTES )##############################
 ###########################( DEPORTES )################################( DEPORTES )##############################
 
