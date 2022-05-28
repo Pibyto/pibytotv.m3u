@@ -81,15 +81,12 @@ http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12126
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="CINE PREMIUM",TBS
 https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="CINE PREMIUM",UNIVERSAL TV
 http://144.126.128.123:25461/manoapoyanos/shortgod.com/11607
-http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=79&f=.m3u8
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151765
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="CINE PREMIUM", CINECANAL HD
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11530
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11530
 https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
 
 
@@ -99,8 +96,12 @@ http://gratis.shortgod.com/nuevaversionenshortgod/tv3.php?c=109
 http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12106
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151762
 
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="CINE PREMIUM",AMC FHD
 https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png"group-title="CINE PREMIUM", DHE HD
 http://gratis.shortgod.com/nuevaversionenshortgod/tv3.php?c=31
@@ -108,6 +109,7 @@ http://144.126.128.123:25461/manoapoyanos/shortgod.com/11544
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png"group-title="CINE PREMIUM",MULTIPREMIER HD
+http://gratis.shortgod.com/nuevaversionenshortgod/tv3.php?c=129
 http://144.126.128.123:25461/manoapoyanos/shortgod.com/11584
 http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=88
 
@@ -120,6 +122,7 @@ http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=107
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png"group-title="CINE PREMIUM",A&E HD
 https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://ipla-e2-18.pluscdn.pl/p/redb/dg/dgnv8d5zzo9qa5jqky17vo26o2z7btuf.jpg"group-title="CINE PREMIUM",SUNDANCE HD
 https://bcovlive-a.akamaihd.net:443/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/profile_0/chunklist.m3u8
@@ -144,17 +147,13 @@ https://cdn.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11593
-https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/master.m3u8?hdnea=st=1652910823~exp=1652911423~acl=/*~hmac=95c5a5c4744db2d06c1d9ca6db3ef91c4bd399450919c0f9f2a0fc14e3945e47
-https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/index_240_av-p.m3u8?sd=10&rebase=on&id=AgC6hCaHsyiDnp9shWLJW4p99lq1pVsOwdzSU70PcP8iisRhdgA0ptFOU874IJioYEwSmOrncsDMiw%3d%3d&hdntl=exp=1652932863~acl=%2f*~data=hdntl~hmac=3182a08878c34011cfaf8b2859bd521ba4677059dbfd7f22cc2719eff62dd9f1
 https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11593
 https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
-http://gratis.shortgod.com/lala4q/tv2.php?c=
+
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png"group-title="CINE PREMIUM",CINEMAX HD
