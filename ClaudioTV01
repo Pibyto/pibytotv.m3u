@@ -296,8 +296,10 @@ http://edge-live14-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE HD
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL HD
-https://vsd61.mycdn.me:443/hls/1698824391191.m3u8/sig/2tp2sbVqE_4/expires/1653670438576/srcIp/186.143.136.206/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1w7tEcHXoZYs661t48QVRHh-sIaXmB0KsQ&usqp=CAU"group-title="ARGENTINA",MULTIVISION SALTA HD
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE 35.1 TDA HD
