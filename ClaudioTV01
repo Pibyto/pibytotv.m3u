@@ -288,6 +288,19 @@ https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV 17.3 TDA HD
+https://videohd.live:19360/8010/8010.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCauDwYbCOLLXbKe3t--wB1eqEYKZLbY8LQ&usqp=CAU"group-title="ARGENTINA",CINCO TV TIGRE  30.1 TDA HD
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRqOrGdqRe7DtrRKMH4WKLuO08sLqodSpVA&usqp=CAU"group-title="ARGENTINA",EL TRECE HD
 http://edge-live14-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 
@@ -300,6 +313,9 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1w7tEcHXoZYs661t48QVRHh-sIaXmB0KsQ&usqp=CAU"group-title="ARGENTINA",MULTIVISION SALTA HD
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="ARGENTINA", CANAL 34 HD 6.11 TDA HD
+http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE 35.1 TDA HD
@@ -342,6 +358,8 @@ http://edge1-ccast-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="ARGENTINA", AMERICA HD  36.1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+
 
 
 
