@@ -48,6 +48,7 @@ http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=40&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/FX_HD_2013.png/revision/latest?cb=20180216195050"group-title="CINE PREMIUM",FX HD
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12060
 https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 
 
@@ -176,8 +177,9 @@ http://edge-live14-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="CINE PREMIUM",HBO PLUS FHD
-http://edge10-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8?lang=en
+http://edge10-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 http://edge-live14-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8?lang=en
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsFR9GxjZRONi0PrFshtU4QOAOJPFlDoOM7w&usqp=CAU"group-title="CINE PREMIUM",HBO FAMILY FHD
@@ -207,21 +209,16 @@ http://edge2-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="CINE PREMIUM",GOLDEN
 http://gratis.shortgod.com/nuevaversionenshortgod/tv4.php?c=73&f=.m3u8
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11558
-http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=202&f=.m3u8
-http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=1054
+
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="CINE PREMIUM",GOLDEN PLUS
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11553
-http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=73&f=.m3u8
-http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=1056
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12066
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="CINE PREMIUM",GOLDEN EDGE
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11550
-http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=74&f=.m3u8
-http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=1055
+http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12065
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="CINE PREMIUM",GOLDEN PREMIER HD
