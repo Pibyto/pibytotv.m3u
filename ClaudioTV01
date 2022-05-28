@@ -9,6 +9,45 @@
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
+https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
+http://gratis.shortgod.com/lala4q/tv2.php?c=
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png"group-title="CINE PREMIUM",CINEMAX HD
+http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12250
+http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=65
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png"group-title="CINE PREMIUM", PÁNICO HD
+http://144.126.128.123:25461/manoapoyanos/shortgod.com/11586
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://carbonmade-media.accelerator.net/17760333;640x367.jpeg"group-title="CINE PREMIUM", CINE PREMIER
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="CINE PREMIUM", CINE ESTELAR 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="CINE PREMIUM", CINE ACCIÓN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png"group-title="CINE PREMIUM", ESTRELLAS DE ACCIÓN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="CINE PREMIUM",TOONCAST
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
@@ -27,23 +66,6 @@ https://cdn.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m
 
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2021/12/logo-cartoonito-black.png"group-title="CINE PREMIUM",CARTOO-NITO
 https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11593
-https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
-http://gratis.shortgod.com/lala4q/tv2.php?c=
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png"group-title="CINE PREMIUM",CINEMAX HD
-http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12250
-http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=65
-
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/348/152/png-transparent-panico-television-channel-mexico-panic-starry-internet-television-text-logo-thumbnail.png"group-title="CINE PREMIUM", PÁNICO HD
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11586
 
 
 
