@@ -302,12 +302,12 @@ https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRqOrGdqRe7DtrRKMH4WKLuO08sLqodSpVA&usqp=CAU"group-title="ARGENTINA",EL TRECE HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGRqOrGdqRe7DtrRKMH4WKLuO08sLqodSpVA&usqp=CAU"group-title="ARGENTINA",EL TRECE 33.1 TDA HD
 http://edge-live14-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE 34.1 TDA HD
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
 
@@ -342,10 +342,10 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PÚBLICA HD
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PÚBLICA 23.2 TDA HD
 http://edge1-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="ARGENTINA", CANAL 26 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="ARGENTINA", CANAL 26 26.1 TDA HD
 https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w2142951114_b2628000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-22-en-vivo-Online.png"group-title="ARGENTINA",CANAL 22 LA MATANZA HD
@@ -354,11 +354,11 @@ https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/chunklist_w2091133983.m
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png"group-title="ARGENTINA",CRONICA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png"group-title="ARGENTINA",CRONICA 24.4 TDA HD
 http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
 https://g4.vxral-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1024px-C5N_logo.svg.png"group-title="ARGENTINA",C5N HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1024px-C5N_logo.svg.png"group-title="ARGENTINA",C5N 25.2 TDA HD
 http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
 
@@ -367,11 +367,11 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_576.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="ARGENTINA",A24 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="ARGENTINA",A24 36.3 TDA HD
 http://edge1-ccast-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="ARGENTINA", AMERICA HD  36.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="ARGENTINA", AMERICA 36.1 TDA HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
