@@ -213,6 +213,88 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1541203773.m3u8?WebM3U
 
 
 
+####################( CINE Y SERIES )#################################( CINE Y SERIES )####################################( CINE Y SERIES )################################ 
+############################################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
+https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w308076895.m3u8
+https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0pDEyWzNUAIBr08So6lvGbPljdelrG7-k7XagfyISG7_59-95cjZX0gbknvSrF3uPA"group-title="CINE Y SERIES",CINECLUB FHD
+https://servilive.com:3176/live/cineclublive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD93ehjWavvPTHn9NrOH8ZypBhHAtd-9l7L_t_a1TMg5ZyL2qp&s"group-title="CINE Y SERIES",REC ONLINE TV HD
+https://master.tucableip.com/reconline/live/video.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE Y SERIES", CIUDAD MAGAZINE FHD
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+
+#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="CINE Y SERIES", PLANETA TV FHD
+https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="CINE Y SERIES",BAYRES TV HD
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="CINE Y SERIES",NEO TV DIGITAL 16.1 TDA
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="CINE Y SERIES", GDM
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="CINE Y SERIES",LA VOZ TV
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="CINE Y SERIES",GENTV FHD
+https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.6435-9/72937967_2654438054614469_3410738193811636224_n.png?stp=dst-png_p206x206&_nc_cat=105&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeGC28XviYOMTa2IswxEqiTSFl8Ymv0uXgIWXxia_S5eAt5608Uvb--P4uL59UW4fsUFfrmwWQkxcMvavkH5ENRO&_nc_ohc=0vJPB9ECyt8AX9z44jB&_nc_ht=scontent.feze8-2.fna&oh=00_AT_Um_Nw-eC-0G9AGYkd6s3wBZGs-bz8ru9ugvTc_ClCCQ&oe=62AC2811"group-title="CINE Y SERIES",WTV FHD
+https://emisoras.hn:8081/wtv/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqlaMkSnaCvIuV1sBleJfciJfET2CZK257sg&usqp=CAU"group-title="CINE Y SERIES", VIWIX TV FHD
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png"group-title="CINE Y SERIES",LA CALETA
+https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://sidi.tse.org.gt/catalogo/uploads/logos/57.JPG"group-title="CINE Y SERIES",NIM TV FHD
+http://iptv.streamhispanatv.net:25461/playgt/123456/2
+
+
+
 
 
 
