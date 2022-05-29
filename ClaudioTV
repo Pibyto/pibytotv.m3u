@@ -1620,17 +1620,6 @@ https://cdn7.streamgato.us:3654/live/larutatvlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/dazn_1.png"group-title="DEPORTES", DAZN 1 HD
-https://spliktv@www.olacast.live/cdn/premium445/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/dazn_2.png"group-title="DEPORTES", DAZN 2 HD
-https://spliktv@www.olacast.live/cdn/premium446/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest?cb=20220119161736"group-title="DEPORTES", DAZN 3 HD
-https://spliktv@www.olacast.live/cdn/premium447/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg"group-title="DEPORTES", CLARO SPORTS HD
 https://claro-jw.cdn.vustreams.com:443/live/channel07/live.isml/keyframes/live-video=6499968.m3u8
@@ -1638,19 +1627,15 @@ https://claro-jw.cdn.vustreams.com:443/live/channel07/live.isml/keyframes/live-v
 
 
 #EXTINF:-1 tvg-logo="https://www.vive-santa-elena.com/wp-content/uploads/2019/08/204-2047658_urmdp-tv-directv-sports-logo-png-transparent-png.jpg"group-title="DEPORTES",DIRECTV SPORTS HD
-http://gratis.shortgod.com/nuevaversionenshortgod/tv3.php?c=187
-http://xgtv.club:8080/play/C8WTaInMKB4E0VfCk2nPyVa0ZhTH40K4QanOYAs3QmAF8yK9pzuaJuoPVKMiH7NA/ts
-http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/59797.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png"group-title="DEPORTES",DIRECTV SPORTS 2 HD
-http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=21&f=.m3u8
-http://tv.thepremiummedia.com:8080/toni1/1toni/32882
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdGiPYs_XWcPTG3I7XRf3M3qTJQMTC19CRA&usqp=CAU"group-title="DEPORTES",DIRECTV SPORTS +
-http://gratis.shortgod.com/tardeotempranocaeras/tv1.php?c=936
-http://moontools.me:8080/tv1chago/1p7iYUyvZF/1194936
+
 
 
 
