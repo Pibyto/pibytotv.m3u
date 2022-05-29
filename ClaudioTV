@@ -1628,6 +1628,10 @@ https://spliktv@www.olacast.live/cdn/premium446/chunks.m3u8
 https://spliktv@www.olacast.live/cdn/premium447/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg"group-title="DEPORTES", CLARO SPORTS HD
+https://claro-jw.cdn.vustreams.com:443/live/channel07/live.isml/keyframes/live-video=6499968.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.vive-santa-elena.com/wp-content/uploads/2019/08/204-2047658_urmdp-tv-directv-sports-logo-png-transparent-png.jpg"group-title="DEPORTES",DIRECTV SPORTS HD
 http://gratis.shortgod.com/nuevaversionenshortgod/tv3.php?c=187
