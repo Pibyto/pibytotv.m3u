@@ -84,6 +84,17 @@ http://gratis.shortgod.com/nuevaversionenshortgod/tv3.php?c=154
 http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12126
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg"group-title="CINE PREMIUM", UNIVISION HD
+https://spliktv@www.olacast.live/cdn/premium132/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOxpEy-Nd6ppZOtkptkZmCsyhLc9B4je2dg&usqp=CAU"group-title="CINE PREMIUM", HOLA TV HD
+http://edge9-sl.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="CINE PREMIUM",TBS
 https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
@@ -1605,7 +1616,16 @@ https://cdn7.streamgato.us:3654/live/larutatvlive.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/dazn_1.png"group-title="DEPORTES", DAZN 1 HD
+https://spliktv@www.olacast.live/cdn/premium445/chunks.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/spain/logo/dazn_2.png"group-title="DEPORTES", DAZN 2 HD
+https://spliktv@www.olacast.live/cdn/premium446/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/DAZN_3.svg/revision/latest?cb=20220119161736"group-title="DEPORTES", DAZN 3 HD
+https://spliktv@www.olacast.live/cdn/premium447/chunks.m3u8
 
 
 
