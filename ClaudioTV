@@ -673,8 +673,18 @@ https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 http://edge-live14-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y2FuYWwubWFzNV9zY3JlZW5fMl8xNTk3ODA4ODAyXzAxMw/screen-2.jpg?fakeurl=1&type=.jpg"group-title="URUGUAY",CANAL+ HD
+https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png"group-title="URUGUAY",4 HD
 http://edge10-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/mision-vida-television.png"group-title="URUGUAY", MISION VIDA TV HD
+https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es"group-title="URUGUAY",5 HD
@@ -1593,9 +1603,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e
 https://master.tucableip.com//zoytv/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y2FuYWwubWFzNV9zY3JlZW5fMl8xNTk3ODA4ODAyXzAxMw/screen-2.jpg?fakeurl=1&type=.jpg"group-title="CINE Y SERIES",CANAL+ HD
-https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296983/images/logod.jpg?t=158076"group-title="CINE Y SERIES",LA RUTA TV
@@ -3062,6 +3069,10 @@ https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tbnenlace.png"group-title="CRISTIANO",ENLACE HD
 https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.redpublicadominicana.com/wp-content/uploads/2017/08/LOGO-SE%C3%B1ALES-01.png"group-title="CRISTIANO", SEÑALES TV HD
+https://live.teledom.info:4000/live/senalestvlive.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://vidanuevatv.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-29-at-11.44.13-AM-1024x490.jpeg"group-title="CRISTIANO",VIDA NUEVA TV
 https://ss9.domint.net:3004/vntv_str/vidanuevatv/chunklist_w503323505.m3u8
 
@@ -3108,11 +3119,8 @@ https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?Playlis
 https://5bff1bf18a887.streamlock.net:443/rtvla/rtvla/chunklist_w681928651.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpBgBqnAcvICV8ua-u_zR-QS6J7NGsYY3DZQ&usqp=CAU"group-title="CRISTIANO", VIENTO RECIO TV
-https://stmvideo3.livecastv.com/gomez/gomez/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/c39b90595784200d346b63ced1a978f42ae5269698f303f3aaf363e38424eb58.png"group-title="CRISTIANO",VIDA TV FHD
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/c39b90595784200d346b63ced1a978f42ae5269698f303f3aaf363e38424eb58.png"group-title="CRISTIANO",VIDA TV HD
 https://srv.panelcast.net:443/vidatv/vidatv/chunklist_w735466473.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/815/325/png-clipart-cinema-film-movie-theatre-film-poster-clapperboard.png"group-title="CRISTIANO", MOVIE FE
@@ -3136,7 +3144,7 @@ https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hZlw7ljt1Vo/YKF7Z2DLItI/AAAAAAAAASk/2R1fkB-MEss0lVZL2Z1aoDmc3Xufw6q8ACK4BGAYYCw/s400/webnata.png"group-title="CRISTIANO", NATANAEL TV
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-hZlw7ljt1Vo/YKF7Z2DLItI/AAAAAAAAASk/2R1fkB-MEss0lVZL2Z1aoDmc3Xufw6q8ACK4BGAYYCw/s400/webnata.png"group-title="CRISTIANO",NATANAEL TV
 https://stmv1.voxhdnet.com:443/ventvpremium/ventvpremium/chunklist_w1458867770.m3u8?WebM3UCL
 
 
@@ -3325,7 +3333,7 @@ https://1206618505.rsc.cdn77.org:443/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Paraguay_TV_logo.png/480px-Paraguay_TV_logo.png"group-title="RADIO",TAPUA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Paraguay_TV_logo.png/480px-Paraguay_TV_logo.png"group-title="PARAGUAY",TAPUA TV
 https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
 
 
