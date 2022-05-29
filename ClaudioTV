@@ -904,6 +904,9 @@ https://rds3.desdeparaguay.net:443/villaelisatv/villaelisatv/chunklist_w87550032
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3mGnhkccKB8/WW1Aq9WGBLI/AAAAAAAAAcc/wJuDijs2ThsrlNk2BTg6euAavBAflMfUgCK4BGAYYCw/s1600/logo-tvs-encarnacion-televisora-del-sur-en-vivo-online.png"group-title="PARAGUAY",TVS ENCARNACION
 https://rds3.desdeparaguay.net:443/tvs/tvs/chunklist_w399524029.m3u8?k=befebd44d6873fe21b6ef6eb53f0903c8e938c424679f24328509376449f8938&exp=1653132940
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jTF17ByU3z8/maxresdefault.jpg"group-title="PARAGUAY",MEGA TV HD
+http://edge-live13-sl.cvattv.com.ar/live/c7eds/Mega_TV/SA_SAGEMCOM/Mega_TV.m3u8
+
 
 
 
@@ -3071,7 +3074,8 @@ https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist
 
 
 
-
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tbnenlace.png"group-title="CRISTIANO",ENLACE HD
+https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vidanuevatv.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-29-at-11.44.13-AM-1024x490.jpeg"group-title="CRISTIANO",VIDA NUEVA TV
 https://ss9.domint.net:3004/vntv_str/vidanuevatv/chunklist_w503323505.m3u8
