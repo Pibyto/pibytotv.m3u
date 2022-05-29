@@ -458,6 +458,58 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
 
 
 
+##############( URUGUAY )###########################( URUGUAY )##########################
+###########( URUGUAY )#################################( URUGUAY )#######################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/12282201072862_%281%29.png/revision/latest?cb=20200331211853"group-title="URUGUAY",TELE HD
+http://edge-live14-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png"group-title="URUGUAY",4 HD
+http://edge10-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es"group-title="URUGUAY",5 HD
+http://edge7-ccast-hr.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_SAGEMCOM/TV_Nacional_Uy.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Canal_10_HD_Uruguay_2009.png/revision/latest?cb=20220206103901&path-prefix=es"group-title="URUGUAY",CANAL 10 HD
+http://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png"group-title="URUGUAY",TV CIUDAD HD
+http://edge-live13-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
