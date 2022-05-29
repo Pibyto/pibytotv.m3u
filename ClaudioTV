@@ -700,6 +700,9 @@ http://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u
 http://edge-live13-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4gBwkZklHX8Hyl2YWYEBduFFK3Au6kl8ugA&usqp=CAU"group-title="URUGUAY",UCL HD
+https://livedelta.cdn.antel.net.uy:443/out/u/url_canalu_4.m3u8?m=1650983053
+
 
 
 
