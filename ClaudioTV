@@ -2993,6 +2993,18 @@ https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptvcristiano.com/uploads/channels/166/logo_thumb.jpg"group-title="CRISTIANO", ALCANCE TV
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/la-wapa-radio-5454.jpg"group-title="CRISTIANO",VIDA NUEVA TV HD
+https://eu1.servers10.com:8081/vidanuevatv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Alsacias-Canal-28-en-vivo-Online.png"group-title="CRISTIANO",ALSACIAS TV HD
+https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.ccichannel.tv/wp-content/uploads/2018/01/CCICHANNELlogo.png"group-title="CRISTIANO",CCI HD
+https://stream-02.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm40XMc5o0XQRSt7Ll8KzzNeP7cWx28nET5UX8HPHj7jWy)/dm/3/x836wjl/s/live-1.m3u8#cell=lnyc
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTIt5Hurz27ES-CuZvEqwGuenc5Y-cSlqew&usqp=CAU"group-title="CRISTIANO", PRESENCIA TELEVISION
 https://sm.redconnections.net:1936/presenciatv/presenciatv/playlist.m3u8?PlaylistM3UCL
