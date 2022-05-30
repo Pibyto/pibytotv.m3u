@@ -1197,6 +1197,89 @@ https://5dcabf026b188.streamlock.net/orbitatv/livestream/.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",T💖 FAMILIA HD
+https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",VIVO PLAY HD
+https://vp01-vivoplayiptv.delivery.fuugo.com:443/ngrp:vp01-VIVOplay_IPTV-aa730fa2_all/chunklist_b2179072.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",CANAL I
+https://vcp.myplaytv.com:443/canali/canali/chunklist_w226245731.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TLT HD
+https://vcp4.myplaytv.com/tlt-2/tlt-28052022/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TELEVEN HD
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+########( COLOMBIA )###############( COLOMBIA)#########
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",RCN HD
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZRvIHw8bJcY87IHS3b6g0UKj3DH_in4gxSJ_gf_vSiMz)/dm/3/x7vyv0z/s/live-3.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",RCN+
+https://rcntv-rcnmas-1-us.roku.wurl.tv:443/4300.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",CALI TV HD
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",TELEPACIFICO HD
+https://stream.logicideas.media/telepacifico-live/live.smil/.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",CNC HD
+http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream/.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",CARACOL HD
+https://vkvsd54.mycdn.me:443/hls/2482060855961.m3u8/sig/-e0I-JgEQ_4/srcIp/186.132.104.227/expires/1654293366434/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3564413332377/id/2482060855961/2482060855961_high/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1280px-Se%C3%B1al_Colombia_logo.svg.png"group-title="COLOMBIA",SEÑAL TV HD
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
