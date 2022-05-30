@@ -1342,6 +1342,18 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u
 https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlhi7flbuPzurdjzk0yblzp4V-h8NLBszbNA&usqp=CAU"group-title="CINE Y SERIES",TELE ARTE
+http://iptv.streamhispanatv.net:25461/playgt/123456/35
+
+
+#EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t1.6435-9/90221063_111244067169336_2591407769747718144_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=106&ccb=1-5&_nc_sid=85a577&_nc_ohc=upnkke_YvoYAX9b-R9Y&_nc_ht=scontent.feze8-1.fna&oh=00_AT-vwlql8CVShvt7pGgaPAAbLV_Y1B4I9B0WchR3GU9adw&oe=626E758E"group-title="CINE Y SERIES",CLAROVISION TV
+https://cdn2.streamgato.us/clarovision/clarovision/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2135-294x165-FFFFFF.jpg"group-title="CINE Y SERIES",AGENDA 56TV
+https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8?DVR
+
+
 
 #EXTINF:-1 tvg-logo="https://carbonmade-media.accelerator.net/17760333;640x367.jpeg"group-title="CINE Y SERIES", CINE PREMIER
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
@@ -2527,10 +2539,6 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/7
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlhi7flbuPzurdjzk0yblzp4V-h8NLBszbNA&usqp=CAU"group-title="CINE Y SERIES",TELE ARTE
-http://iptv.streamhispanatv.net:25461/playgt/123456/35
-
-
 
 
 
@@ -2573,9 +2581,6 @@ https://cdn2.streamgato.us:443/titanicotv/titanicotv/chunklist_w1906236809.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t1.6435-9/90221063_111244067169336_2591407769747718144_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=106&ccb=1-5&_nc_sid=85a577&_nc_ohc=upnkke_YvoYAX9b-R9Y&_nc_ht=scontent.feze8-1.fna&oh=00_AT-vwlql8CVShvt7pGgaPAAbLV_Y1B4I9B0WchR3GU9adw&oe=626E758E"group-title="CINE Y SERIES",CLAROVISION TV
-https://cdn2.streamgato.us/clarovision/clarovision/playlist.m3u8
-
 
 
 
@@ -2609,9 +2614,6 @@ https://cdn4.hostlagarto.com:8081/static/buenatv/playlist.m3u8?DVR
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2135-294x165-FFFFFF.jpg"group-title="CINE Y SERIES",AGENDA 56TV
-https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8?DVR
 
 
 
