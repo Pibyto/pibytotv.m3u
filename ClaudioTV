@@ -1304,6 +1304,12 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/LOGO-TELEXIMA-2-copy.jpg"group-title="CINE Y SERIES", TELEXIMA
+https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
+
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
 https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w308076895.m3u8
@@ -1316,8 +1322,6 @@ https://servilive.com:3176/live/cineclublive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
-https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
 
@@ -2142,13 +2146,6 @@ https://stmv.panel.grupolimalive.com:443/limalive/limalive/chunklist_w113368657.
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_nk61Sz-_hjniOtp6lLrrQJmFdEeWO-pBQ&usqp=CAU"group-title="CINE Y SERIES",PLANEA TV
 https://stmv.panel.grupolimalive.com:443/planeatv/planeatv/chunklist_w1465381133.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/LOGO-TELEXIMA-2-copy.jpg"group-title="CINE Y SERIES", TELEXIMA
-https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
-
 
 
 
