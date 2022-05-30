@@ -71,6 +71,8 @@ http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151711
 https://edge1.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XHGC-TV_2014_HD.png/revision/latest/scale-to-width-down/250?cb=20210515153929&path-prefix=es"group-title="CINE PREMIUM",5 HD
+http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=37794.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Azteca_7_variante_blanca_2021.png/640px-Azteca_7_variante_blanca_2021.png"group-title="CINE PREMIUM", AZTECA 7 HD
