@@ -93,6 +93,39 @@ https://spliktv@www.olacast.live/cdn/premium132/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Azteca_Trece_2016-3.png"group-title="CINE PREMIUM",AZTECA UNO HD
+http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=30310.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png"group-title="CINE Y PREMIUM",PASIONES HD
+http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=1495.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="CINE PREMIUM", TELEMUNDO HD
+http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=16597.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-Logo_tlnovelas_feb2019.png"group-title="CINE PREMIUM",TLNOVELAS HD
+http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=16598.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Unicable2018-2.png/revision/latest/scale-to-width-down/175?cb=20210514025931&path-prefix=es"group-title="CINE PREMIUM",UNICABLE HD
+http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=30385.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"group-title="CINE PREMIUM",LAS ESTRELLAS HD
+http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=37786.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png"group-title="CINE PREMIUM",CARACOL HD
+http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=38549.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/RCN_TV.svg/revision/latest/scale-to-width-down/200?cb=20210307123608&path-prefix=es"group-title="CINE PREMIUM",RCN HD
+http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=38553.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOxpEy-Nd6ppZOtkptkZmCsyhLc9B4je2dg&usqp=CAU"group-title="CINE PREMIUM", HOLA TV HD
 http://edge9-sl.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
 
