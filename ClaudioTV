@@ -67,6 +67,11 @@ http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12140
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151711
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es"group-title="CINE PREMIUM",TVN HD
+https://bcovlive-a.akamaihd.net:443/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png"group-title="CINE PREMIUM",TRU TV HD
 https://edge1.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
 
@@ -108,13 +113,6 @@ http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=1495.m3u8
 http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=16597.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png"group-title="NOVELAS",TELEMUNDO
-https://h1.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIyIDI6MjU6MzUgQU0maGFzaF92YWx1ZT0rL2l4MERSMk5wYnRXdHVkQUFXYVVRPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es"group-title="NOVELAS",TVN HD
-https://bcovlive-a.akamaihd.net:443/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-novelas-bo.png"group-title="CINE PREMIUM",SEOTV NOVELAS HD
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
@@ -149,7 +147,7 @@ https://video.misistemareseller.com:443/atvhonduras/atvhonduras/chunklist_w13115
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canal_6_Nicaraguense.png"group-title="CINE PREMIUM",CANAL 6
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
+
 
 
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180715/hvz/kisspng-kanali-6-television-channel-kanal-6-star-tv-5b4bb95dbf9506.0545444015316893097847.jpg"group-title="CINE PREMIUM",CANAL 6
