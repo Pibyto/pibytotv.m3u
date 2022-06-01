@@ -124,8 +124,44 @@ http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=37786.m3u8
 http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=38549.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/RCN_TV.svg/revision/latest/scale-to-width-down/200?cb=20210307123608&path-prefix=es"group-title="CINE PREMIUM",RCN HD
-http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=38553.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnP2j-x2u4mzkTZ77VbBf8Ey12zEOh2_FUFA&usqp=CAU"group-title="CINE PREMIUM",ATV - AVIVA TV
+https://video.misistemareseller.com:443/atvhonduras/atvhonduras/chunklist_w1311516334.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canal_6_Nicaraguense.png"group-title="CINE PREMIUM",CANAL 6
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
+
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180715/hvz/kisspng-kanali-6-television-channel-kanal-6-star-tv-5b4bb95dbf9506.0545444015316893097847.jpg"group-title="CINE PREMIUM",CANAL 6
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Televisiete.png"group-title="CINE PREMIUM",TELEVISIETE
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png"group-title="CINE PREMIUM", ATV
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYn2FYv-PU-hnPCfQCCIdhJ9AccsqJdczBow&usqp=CAU"group-title="CINE PREMIUM", SONY COMEDIA
+https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uIlMoWnRA7BuTu-qGn_zyDeWdo9vbzNQiw&usqp=CAU"group-title="CINE PREMIUM",PRENDETV - ORO
+https://d1jgsg6cns4jzy.cloudfront.net:443/dist/samsungtv/196/hls/master/playlist_1280x720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYn2FYv-PU-hnPCfQCCIdhJ9AccsqJdczBow&usqp=CAU"group-title="CINE PREMIUM", SONY NOVELAS
+https://spt-novelas-1-us.samsung.wurl.tv:443/3000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYn2FYv-PU-hnPCfQCCIdhJ9AccsqJdczBow&usqp=CAU"group-title="CINE PREMIUM", SONY COMPETENCIA
+https://spt-competencias-1-us.samsung.wurl.tv:443/3000.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmpoigXrd_sQYdXGaa8kMjgkxUYUqmNe5mA&usqp=CAU"group-title="CINE PREMIUM",PRENDETV - ROMANCE
+https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist_1280x720.m3u8
 
 
 
@@ -2691,27 +2727,8 @@ https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
 https://movil.ejeserver.com/live/verteve.m3u8
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWZy9dRBCPOtVtidK58Or0CsPdameDq1a2Q&usqp=CAU"group-title="NOVELAS",ATB
-http://186.121.206.197/live/daniel/index.m3u8
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXgdC5h23zXwbKUBrNP6I5BhzQ2fwvCHNLg&usqp=CAU"group-title="CINE Y SERIES", CARUCOLA TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvANtAyFYs73TtEHCGxJ7W1HUdxFKFNMtHNQ&usqp=CAU"group-title="CINE Y SERIES", ALTERNATIVA TV
@@ -2722,40 +2739,16 @@ https://srv2.zcast.com.br:443/carlos2469/carlos2469/chunklist_w332280446.m3u8
 https://video2.lhdserver.es/asiritv/live.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnP2j-x2u4mzkTZ77VbBf8Ey12zEOh2_FUFA&usqp=CAU"group-title="NOVELAS",ATV - AVIVA TV
-https://video.misistemareseller.com:443/atvhonduras/atvhonduras/chunklist_w1311516334.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canal_6_Nicaraguense.png"group-title="NOVELAS",CANAL 6
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
-
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180715/hvz/kisspng-kanali-6-television-channel-kanal-6-star-tv-5b4bb95dbf9506.0545444015316893097847.jpg"group-title="NOVELAS",CANAL 6
-https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png"group-title="CINE Y SERIES",TVS MARACAY
 http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist_w365987513.m3u8?WebM3UCL
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SeRL2NVnyJS_gGhZ9L6ZuTj9tNJW5iRLwA&usqp=CAU"group-title="CINE Y SERIES", VISIÓN PLUS TV
 https://v2.tustreaming.cl:443/visionplustv/tracks-v1a1/mono.m3u8
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIIyp3MBRITAek3jMYIGj33e6meV5MBoxRA&usqp=CAU"group-title="CINE Y SERIES",DIGITAL VISION
 https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w974060221.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg"group-title="CINE Y SERIES",DANTV
@@ -2769,8 +2762,8 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Televisiete.png"group-title="NOVELAS",TELEVISIETE
-https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8
+
+
 
 
 
@@ -2799,8 +2792,6 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png"group-title="NOVELAS", ATV
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?WebM3UCL
 
 
 
@@ -3146,32 +3137,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b0007
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYn2FYv-PU-hnPCfQCCIdhJ9AccsqJdczBow&usqp=CAU"group-title="NOVELAS", SONY COMEDIA
-https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uIlMoWnRA7BuTu-qGn_zyDeWdo9vbzNQiw&usqp=CAU"group-title="NOVELAS",PRENDETV - ORO
-https://d1jgsg6cns4jzy.cloudfront.net:443/dist/samsungtv/196/hls/master/playlist_1280x720.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYn2FYv-PU-hnPCfQCCIdhJ9AccsqJdczBow&usqp=CAU"group-title="NOVELAS", SONY NOVELAS
-https://spt-novelas-1-us.samsung.wurl.tv:443/3000.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYn2FYv-PU-hnPCfQCCIdhJ9AccsqJdczBow&usqp=CAU"group-title="NOVELAS", SONY COMPETENCIA
-https://spt-competencias-1-us.samsung.wurl.tv:443/3000.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png"group-title="NOVELAS", PASIONES HD
-http://pms-tv.online:25461/pmstv/LD6LU4GZwt/10767
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMmpoigXrd_sQYdXGaa8kMjgkxUYUqmNe5mA&usqp=CAU"group-title="NOVELAS",PRENDETV - ROMANCE
-https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist_1280x720.m3u8
 
 
 
