@@ -108,6 +108,25 @@ http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=1495.m3u8
 http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=16597.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png"group-title="NOVELAS",TELEMUNDO
+https://h1.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIyIDI6MjU6MzUgQU0maGFzaF92YWx1ZT0rL2l4MERSMk5wYnRXdHVkQUFXYVVRPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es"group-title="NOVELAS",TVN HD
+https://bcovlive-a.akamaihd.net:443/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-novelas-bo.png"group-title="CINE PREMIUM",SEOTV NOVELAS HD
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+
+#EXTINF:-1 tvg-logo="https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8"group-title="CINE PREMIUM", TELESERIES
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Alfatv.png"group-title="CINE PREMIUM", ALFA TV
+https://byecableiptv.com:443/alfatv/alfatv.stream/chunklist_w1257975845.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-Logo_tlnovelas_feb2019.png"group-title="CINE PREMIUM",TLNOVELAS HD
 http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=16598.m3u8
 
@@ -1269,8 +1288,8 @@ https://5dcabf026b188.streamlock.net/orbitatv/livestream/.m3u8
 
 
 
-
-
+#########( VENEZUELA )################( VENEZUELA )#########################################################################
+######$#################( VENEZUELA)##############( VENEZUELA )############$$###################( VENEZUELA )###############
 
 
 
@@ -1311,11 +1330,17 @@ https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 
 
 
-########( COLOMBIA )###############( COLOMBIA)#########
+########( COLOMBIA )################( COLOMBIA)####################( COLOMBIA )#################################################$#######################################( COLOMBIA ) ####################################( COLOMBIA )##########################
+######################( COLOMBIA )####################################################################( COLOMBIA )###############################( COLOMBIA )##################################$$$############################################################
 
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png"group-title="COLOMBIA",UNO HD
+http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69250.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png"group-title="COLOMBIA",CITY TV
+https://citytv.cachefly.net/citytv1/citytv1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="COLOMBIA",RCN HD
@@ -2292,6 +2317,9 @@ https://iptv.streamhispanatv.net:2083/live/playgt/123456/87.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEQwp6ojbl2fxqMnO_zq3DkujkMR4VzOWcg&usqp=CAU"group-title="CINE Y SERIES", KBO
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-c-WycWEw_H4/XtwM659Hk6I/AAAAAAAAASw/4ftRzkVVr2INhSlklwgV8K4c-FajWgOeQCK4BGAYYCw/s400/PARA%2BLA%2BPAGINA.png"group-title="CINE Y SERIES",CROM TV
 https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
@@ -2299,6 +2327,7 @@ https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLBSSWE48MSMKxLZCNZ0YEYupXxG8TNiK6w&usqp=CAU"group-title="CINE Y SERIES",CANAL EVELYN
 https://srv1.mediastreamperu.com:8081/8004/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png"group-title="CINE Y SERIES",ANDES TV
@@ -2373,34 +2402,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png"group-title="NOVELAS",UNO HD
-http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69250.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png"group-title="NOVELAS",CITY TV
-https://citytv.cachefly.net/citytv1/citytv1/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png"group-title="NOVELAS",TELEMUNDO
-https://h1.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDIyIDI6MjU6MzUgQU0maGFzaF92YWx1ZT0rL2l4MERSMk5wYnRXdHVkQUFXYVVRPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es"group-title="NOVELAS",TVN HD
-https://bcovlive-a.akamaihd.net:443/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEQwp6ojbl2fxqMnO_zq3DkujkMR4VzOWcg&usqp=CAU"group-title="NOVELAS", KBO
-https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-novelas-bo.png"group-title="NOVELAS",SEOTV NOVELAS HD
-https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
-
-#EXTINF:-1 tvg-logo="https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8"group-title="NOVELAS", TELESERIES
-https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Alfatv.png"group-title="NOVELAS", ALFA TV
-https://byecableiptv.com:443/alfatv/alfatv.stream/chunklist_w1257975845.m3u8
 
 
 
