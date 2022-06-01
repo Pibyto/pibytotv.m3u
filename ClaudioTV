@@ -162,7 +162,7 @@ https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b120000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png"group-title="CINE PREMIUM", ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYn2FYv-PU-hnPCfQCCIdhJ9AccsqJdczBow&usqp=CAU"group-title="CINE PREMIUM", SONY COMEDIA
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412"group-title="CINE PREMIUM", SONY COMEDIA
 https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
 
 
@@ -170,11 +170,11 @@ https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
 https://d1jgsg6cns4jzy.cloudfront.net:443/dist/samsungtv/196/hls/master/playlist_1280x720.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYn2FYv-PU-hnPCfQCCIdhJ9AccsqJdczBow&usqp=CAU"group-title="CINE PREMIUM", SONY NOVELAS
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/sony_novelas_1.jpg"group-title="CINE PREMIUM", SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv:443/3000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYn2FYv-PU-hnPCfQCCIdhJ9AccsqJdczBow&usqp=CAU"group-title="CINE PREMIUM", SONY COMPETENCIA
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991762/300x300.png?type=smartCast_channelTile"group-title="CINE PREMIUM", SONY COMPETENCIA
 https://spt-competencias-1-us.samsung.wurl.tv:443/3000.m3u8
 
 
