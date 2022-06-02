@@ -11,6 +11,15 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://quenoticias.com/wp-content/uploads/2021/08/la-casa.jpg"group-title="CINE PREMIUM",LA CASA DE LOS FAMOSOS - CAMARA 1
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/index_2500_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 tvg-logo="https://quenoticias.com/wp-content/uploads/2021/08/la-casa.jpg"group-title="CINE PREMIUM",LA CASA DE LOS FAMOSOS - CAMARA 2
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/index_2500_av-p.m3u8?sd=10&rebase=on
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"group-title="CINE PREMIUM",TNT HD
 http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=37992.m3u8
