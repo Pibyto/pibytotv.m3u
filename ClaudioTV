@@ -10,6 +10,9 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/index_2500_av-p.m3u8?sd=1
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/index_2500_av-p.m3u8?sd=10&rebase=on
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
+https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgd2IUTmXJWf6CDRV5E1LT3f7Stp3kBMw1Fw&usqp=CAU"group-title="CINE PREMIUM",DC UNIVERSE
 
@@ -225,16 +228,12 @@ http://144.126.128.123:25461/manoapoyanos/shortgod.com/11607
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="CINE PREMIUM", CINECANAL HD
-http://gratis.shortgod.com/nuevaversionenshortgod/tv4.php?c=44&f=.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png"group-title="CINE PREMIUM",TNT SERIES
-http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=3114.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv3.php?c=109
-http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12106
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151762
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=16600.m3u8
 
 
 
@@ -272,19 +271,11 @@ https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramou
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/800px-Logo_Eurochannel.png"group-title="CINE PREMIUM",EURO CHANNEL HD
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=1493.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=52923.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv3.php?c=93
 https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.mercadonegro.pe/wp-content/uploads/2017/07/27012714/syfy_2017_logo.png"group-title="CINE PREMIUM",SYFY FHD
 https://cdn.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
-https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
@@ -348,7 +339,7 @@ http://edge2-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="CINE PREMIUM",GOLDEN
 http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12255
-http://gratis.shortgod.com/nuevaversionenshortgod/tv4.php?c=73&f=.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png"group-title="CINE PREMIUM",GOLDEN PLUS
@@ -357,7 +348,7 @@ http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12066
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="CINE PREMIUM",GOLDEN EDGE
 http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=16555.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12065
+
 
 
 
