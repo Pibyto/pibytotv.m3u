@@ -1,6 +1,14 @@
 #ClaudioTV
 
 
+#EXTINF:-1 tvg-logo="https://quenoticias.com/wp-content/uploads/2021/08/la-casa.jpg"group-title="CINE PREMIUM",LA CASA DE LOS FAMOSOS - CAMARA 1
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/index_2500_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 tvg-logo="https://quenoticias.com/wp-content/uploads/2021/08/la-casa.jpg"group-title="CINE PREMIUM",LA CASA DE LOS FAMOSOS - CAMARA 2
+https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/index_2500_av-p.m3u8?sd=10&rebase=on
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgd2IUTmXJWf6CDRV5E1LT3f7Stp3kBMw1Fw&usqp=CAU"group-title="CINE PREMIUM",DC UNIVERSE
@@ -10,14 +18,6 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXmxjfR-e3_Sky86b4ykYU4ITv7Q8tvsR5Qw&usqp=CAU"group-title="CINE PREMIUM", MARVEL
 
 
-
-#EXTINF:-1 tvg-logo="https://quenoticias.com/wp-content/uploads/2021/08/la-casa.jpg"group-title="CINE PREMIUM",LA CASA DE LOS FAMOSOS - CAMARA 1
-https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/index_2500_av-p.m3u8?sd=10&rebase=on
-
-
-
-#EXTINF:-1 tvg-logo="https://quenoticias.com/wp-content/uploads/2021/08/la-casa.jpg"group-title="CINE PREMIUM",LA CASA DE LOS FAMOSOS - CAMARA 2
-https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/index_2500_av-p.m3u8?sd=10&rebase=on
 
 
 
