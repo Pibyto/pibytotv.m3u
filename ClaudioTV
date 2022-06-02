@@ -153,29 +153,14 @@ http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=37786.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnP2j-x2u4mzkTZ77VbBf8Ey12zEOh2_FUFA&usqp=CAU"group-title="CINE PREMIUM",ATV - AVIVA TV
-
-
-
 https://video.misistemareseller.com:443/atvhonduras/atvhonduras/chunklist_w1311516334.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Canal_6_Nicaraguense.png"group-title="CINE PREMIUM",CANAL 6
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180715/hvz/kisspng-kanali-6-television-channel-kanal-6-star-tv-5b4bb95dbf9506.0545444015316893097847.jpg"group-title="CINE PREMIUM",CANAL 6
-https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Televisiete.png"group-title="CINE PREMIUM",TELEVISIETE
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png"group-title="CINE PREMIUM", ATV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png"group-title="CINE PREMIUM", ATV HD
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412"group-title="CINE PREMIUM", SONY COMEDIA
@@ -212,8 +197,9 @@ https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="CINE PREMIUM",UNIVERSAL TV
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=16605.m3u8
 http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=16605.m3u8
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11607
+
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="CINE PREMIUM", CINECANAL HD
