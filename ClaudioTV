@@ -22,10 +22,6 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/index_2500_av-p.m3u8?sd=1
 https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"group-title="CINE PREMIUM",TNT HD
-https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
-https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png/revision/latest/scale-to-width-down/200?cb=20161218051240"group-title="CINE PREMIUM", PÁNICO HD
 http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=49777.m3u8
@@ -207,6 +203,7 @@ http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=30385.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"group-title="CINE PREMIUM",LAS ESTRELLAS HD
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=25306.m3u8
 http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=37786.m3u8
 
 
