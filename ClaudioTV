@@ -43,11 +43,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/Com
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png"group-title="CINE PREMIUM",STUDIOS UNIVERSAL
-http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=3148.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv1.php?c=1068
-http://gratis.shortgod.com/nuevaversionenshortgod/tv3.php?c=115
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151753
-
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=16591.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="CINE PREMIUM", WARNER TV
@@ -62,9 +58,11 @@ https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg"group-title="CINE PREMIUM",STAR CHANNEL HD
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=16585.m3u8
 https://cdn.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG"group-title="CINE PREMIUM",AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG"group-title="CINE PREMIUM",AXN HD
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=16509.m3u8
 http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=3104.m3u8
 http://gratis.shortgod.com/nuevaversionenshortgod/tv4.php?c=78&f=.m3u8
 http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12140
