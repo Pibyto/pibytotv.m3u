@@ -114,6 +114,10 @@ https://h2.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=16597.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/completos-de-novelas-y-shows-gratis-telemundo-now-398335.png"group-title="CINE PREMIUM"TELEMUNDO NOVELAS HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=e71c&deviceDNT=0&deviceModel=0
+
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-novelas-bo.png"group-title="CINE PREMIUM",SEOTV NOVELAS HD
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
@@ -143,6 +147,9 @@ http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=38549.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnP2j-x2u4mzkTZ77VbBf8Ey12zEOh2_FUFA&usqp=CAU"group-title="CINE PREMIUM",ATV - AVIVA TV
+
+
+
 https://video.misistemareseller.com:443/atvhonduras/atvhonduras/chunklist_w1311516334.m3u8
 
 
@@ -151,8 +158,17 @@ https://video.misistemareseller.com:443/atvhonduras/atvhonduras/chunklist_w13115
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180715/hvz/kisspng-kanali-6-television-channel-kanal-6-star-tv-5b4bb95dbf9506.0545444015316893097847.jpg"group-title="CINE PREMIUM",CANAL 6
+
+
+
+
+
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Televisiete.png"group-title="CINE PREMIUM",TELEVISIETE
