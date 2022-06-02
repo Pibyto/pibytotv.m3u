@@ -15,8 +15,39 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/index_2500_av-p.m3u8?sd=1
 #EXTINF:-1 tvg-logo="https://quenoticias.com/wp-content/uploads/2021/08/la-casa.jpg"group-title="CINE PREMIUM",LA CASA DE LOS FAMOSOS - CAMARA 2
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/index_2500_av-p.m3u8?sd=10&rebase=on
 
+
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
 https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"group-title="CINE PREMIUM",TNT HD
+https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png/revision/latest/scale-to-width-down/200?cb=20161218051240"group-title="CINE PREMIUM", PÁNICO HD
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=49777.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/1200px-Paramount_Pictures_Corporation_logo.svg.png"group-title="CINE PREMIUM",PARAMOUNT
+https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="CINE PREMIUM",AMC FHD
+https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="CINE PREMIUM", CINECANAL HD
+https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png"group-title="CINE PREMIUM",A&E HD
+https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-qa2-ooqGdCI/Vty2aLBSx5I/AAAAAAAAAuI/JpMUqIuqW8c/s1600/cinemax-hd.png"group-title="CINE PREMIUM",CINEMAX HD
@@ -24,9 +55,35 @@ http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=30318.m3u8
 http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=38001.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png/revision/latest/scale-to-width-down/200?cb=20161218051240"group-title="CINE PREMIUM", PÁNICO HD
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=49777.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=11868.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="CINE PREMIUM",TBS
+https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="CINE PREMIUM",UNIVERSAL TV
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=16605.m3u8
+http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=16605.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png"group-title="CINE PREMIUM",TNT SERIES
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=16600.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.mercadonegro.pe/wp-content/uploads/2017/07/27012714/syfy_2017_logo.png"group-title="CINE PREMIUM",SYFY FHD
+https://cdn.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png"group-title="CINE PREMIUM",A&E HD
+https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"group-title="CINE PREMIUM",TCM
+https://edge1.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/800px-Logo_Eurochannel.png"group-title="CINE PREMIUM", EURO CHANNEL HD
+https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"group-title="CINE PREMIUM",TNT HD
@@ -197,66 +254,17 @@ http://edge9-sl.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="CINE PREMIUM",TBS
-https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png"group-title="CINE PREMIUM",UNIVERSAL TV
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=16605.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=16605.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png"group-title="CINE PREMIUM", CINECANAL HD
-https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png"group-title="CINE PREMIUM",TNT SERIES
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=16600.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Amc_hd_2013.png"group-title="CINE PREMIUM",AMC FHD
-https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png"group-title="CINE PREMIUM", DHE HD
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png"group-title="CINE PREMIUM",MULTIPREMIER HD
-http://gratis.shortgod.com/nuevaversionenshortgod/tv4.php?c=81&f=.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv3.php?c=129
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2560px-A%26E-Network-Logo.svg.png"group-title="CINE PREMIUM",A&E HD
-https://edge1.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://ipla-e2-18.pluscdn.pl/p/redb/dg/dgnv8d5zzo9qa5jqky17vo26o2z7btuf.jpg"group-title="CINE PREMIUM",SUNDANCE HD
-https://bcovlive-a.akamaihd.net:443/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"group-title="CINE PREMIUM",TCM
-https://edge1.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/1200px-Paramount_Pictures_Corporation_logo.svg.png"group-title="CINE PREMIUM",PARAMOUNT
-https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Eurochannel.png/800px-Logo_Eurochannel.png"group-title="CINE PREMIUM", EURO CHANNEL HD
-
-https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.mercadonegro.pe/wp-content/uploads/2017/07/27012714/syfy_2017_logo.png"group-title="CINE PREMIUM",SYFY FHD
-https://cdn.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
 
 
 
