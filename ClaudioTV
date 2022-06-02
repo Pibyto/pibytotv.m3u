@@ -22,7 +22,6 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/index_2500_av-p.m3u8?sd=1
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"group-title="CINE PREMIUM",TNT HD
-http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=37992.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 
@@ -38,7 +37,7 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u
 https://edge1.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png"group-title="CINE PREMIUM",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png"group-title="CINE PREMIUM", COMEDY CENTRAL HD
 https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
 
 
@@ -57,16 +56,12 @@ http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=40&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/FX_HD_2013.png/revision/latest?cb=20180216195050"group-title="CINE PREMIUM",FX HD
-http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=3102.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv6.php?c=12060
 https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg"group-title="CINE PREMIUM",STAR CHANNEL HD
-http://gratis.shortgod.com/nuevaversionenshortgod/tv4.php?c=42&f=.m3u8
-http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=42&f=.m3u8
 https://cdn.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG"group-title="CINE PREMIUM",AXN
