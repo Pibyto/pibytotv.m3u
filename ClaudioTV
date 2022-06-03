@@ -114,7 +114,16 @@ https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE PREMIUM", CIUDAD MAGAZINE HD
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png"group-title="CINE PREMIUM",LA SEXTA HD
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tves1.php?c=1129
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Telecinco.svg"group-title="CINE PREMIUM",TELECINCO HD
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tves1.php?c=1136
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"group-title="CINE PREMIUM",CUATRO HD
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tves1.php?c=1120
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Sony_Channel_2019_White.png/revision/latest?cb=20220110031343&path-prefix=es"group-title="CINE PREMIUM", SONY HD
