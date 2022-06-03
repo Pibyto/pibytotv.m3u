@@ -2081,10 +2081,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxszYmOf95LeXQUI28GUcX1cbMK7PM1kZYDA&usqp=CAU"group-title="DEPORTES",BOX NATION
-http://gratis.shortgod.com/tardeotempranocaeras/tv7.php?c=36.m3u8
-
-
 
 
 
@@ -2099,9 +2095,9 @@ https://spliktv@www.olacast.live/cdn/premium435/chunks.m3u8
 http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12205
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png"group-title="DEPORTES",LALIGATV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png"group-title="DEPORTES", LALIGATV
 https://spliktv@www.olacast.live/cdn/premium84/chunks.m3u8
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11699
+
 
 
 
@@ -2408,6 +2404,17 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 
 
 
+
+
+
+
+######$#######¢###( MUSICALES )############################( MUSICALES )#########################( MUSICALES )#########################
+#################$######################( MUSICALES )##################################################################################
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png"group-title="MUSICALES",QELLO
 https://dai.google.com/linear/hls/pa/event/BakMHO8xRSmGKYeiyhsq3A/stream/a6a5d7ca-bbf8-4cf1-be18-ca7fcf7c68a0:SCL/variant/e691f02ab855a7fc9320d213919949c9/bandwidth/5711200.m3u8
 https://dai.google.com/linear/hls/pa/event/BakMHO8xRSmGKYeiyhsq3A/stream/e62ff3b3-5187-4bec-94aa-a8fa273e588c:SCL/variant/e691f02ab855a7fc9320d213919949c9/bandwidth/5711200.m3u8
@@ -2461,8 +2468,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 
 
 
-
-
+##############( INFANTIL )################################( INFANTIL )###########
+#############$#################( INFANTIL )######################$###$$##########
 
 
 
@@ -2556,13 +2563,46 @@ https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
 https://5eff35271151c.streamlock.net:1936/8074/8074/chunklist_w2077431113.m3u8?WebM3UCL
 
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtg6jNP81PbHbLNWw_A6IJNJV-Mh-DtVHUgw&usqp=CAU"group-title="INFANTIL", NARUTO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuPqB2vMjIw76SvLAOSH0DMbXzoMTftarFw&usqp=CAU"group-title="INFANTIL", ONE PIECE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfXn6czYrT7z_8DubKtd29uPxZi3ZtUDoIQ&usqp=CAU" group-title="INFANTIL", ANIME ZONE TV
+http://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="INFANTIL", TV ANIME
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="INFANTIL", TV ANIME ACCIÓN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="INFANTIL", YU-GI-OH!
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/604930bc28b24d0007e0e171/colorLogoPNG.png" group-title="INFANTIL", YU-GI-OH 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604930bc28b24d0007e0e171/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="INFANTIL", NARUTO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/60493045fbb5e50007b36f4d/colorLogoPNG.png" group-title="INFANTIL", NARUTO 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" group-title="INFANTIL", ONE PIECE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c14-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c4c4d3a3-dc88-49b4-9fda-30049d73b3f2&userId=&serverSideAds=true
+
+
+
+
+
+
+
+
 
 
 
@@ -2580,44 +2620,6 @@ http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJr7ereT0NYT0sDqDKL43B1UXL0I7OiwgaRA&usqp=CAU"group-title="CINE Y SERIES",  CANAL 57
 https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Seotvprovincias.jpg"group-title="CINE Y SERIES",SEO TV HD
@@ -2662,141 +2664,64 @@ https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983
 https://cdn2.streamgato.us:443/horaxhoratelevision/horaxhoratelevision/chunklist_w724427598.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg"group-title="CINE Y SERIES", TVS 
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLxkc2GWYAIQOt6.png"group-title="CINE Y SERIES", GUAYMATE HD
 https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?WebM3UCL
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_N9oMWZ_H0A/maxresdefault.jpg"group-title="CINE Y SERIES",DAJA TV
 https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKK77vOrOiKIzB9DjAY_co8pzN9RIiNcnDng&usqp=CAU"group-title="CINE Y SERIES",GTV
 https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DocrCiBPYOOoeWmd0MY7yodjmNrC4l0Hg8w_9wuiKb2td4y3rxgpTyzBafTdeB6yhFI"group-title="CINE Y SERIES", VISION TV
 http://iptv.streamhispanatv.net:25461/playgt/123456/7
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://autonomatv.cl/wp-content/uploads/2021/07/AUTONOMA-tv-1-ok-chico-2-272x147.png"group-title="CINE Y SERIES",AUTONOMA TV
 https://5eff35271151c.streamlock.net:1936/8144/8144/chunklist_w1273720400.m3u8
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAEZbpNJYF8k2IMyU7KIkmPyvfQGOCsewdw&usqp=CAU"group-title="CINE Y SERIES",CREO TV
 https://srv1.mediastreamperu.com:8081/creotv/tracks-v1a1/mono.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ctv.jpg"group-title="CINE Y SERIES",CTV EL CANAL DE TODOS
 https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.6435-9/87045777_108496130742919_4190421276549971968_n.png?stp=cp0_dst-png_p64x64&_nc_cat=105&ccb=1-5&_nc_sid=85a577&_nc_ohc=P8ml6fBzE2IAX-QiGN7&_nc_ht=scontent.feze8-2.fna&oh=00_AT8LCSIGRXohYD-333xTLImrjmK0fXgA73o5HfDfiwwxQQ&oe=626B625C"group-title="CINE Y SERIES",CR TELEVISIÓN
 https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/819297808108974080/fXHeD6eW_400x400.jpg"group-title="CINE Y SERIES",TITANICO TV
 https://cdn2.streamgato.us:443/titanicotv/titanicotv/chunklist_w1906236809.m3u8
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EikIb10XYAIH9L2?format=jpg&name=large"group-title="CINE Y SERIES", ALEGRANDO TV
 https://cdn2.streamgato.us:443/alegrandotv/alegrandotv/chunklist_w1578055650.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F51058f732854cb24408d1c6afce2a5260aaf019cc0f163d31871dca9289f42ca.png"group-title="NOVELAS",ATV
-https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWF87u9p7dYcrU6gyeIiNkLKNS_r_vOmlQA&usqp=CAU"group-title="CINE Y SERIES",VISION NDV
 https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/YnVlbmEudHZfc2NyZWVuXzBfMTU1NTAwOTI2NV8wNDk/screen-0.jpg?fakeurl=1&type=.jpg"group-title="CINE Y SERIES",BUENA TV
 https://cdn4.hostlagarto.com:8081/static/buenatv/playlist.m3u8?DVR
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NmbZAZ4dllR4dWWa8YjJxjCWJxE-o7WcvA&usqp=CAU"group-title="CINE Y SERIES",MEGAVISIÓN 
 http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOwY1A-sA1J8U8Mkjs5sgVh28tkI2ibPDp0aLPO=w1080-h608-p-no-v0"group-title="CINE Y SERIES",TELERADIO NORTE TV
 https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://caimanstereo.com/wp-content/uploads/2021/03/50545.v16.png"group-title="NOVELAS",Atv
-https://movil.ejeserver.com/live/verteve.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXgdC5h23zXwbKUBrNP6I5BhzQ2fwvCHNLg&usqp=CAU"group-title="CINE Y SERIES", CARUCOLA TV
@@ -2825,19 +2750,6 @@ https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w974060221.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg"group-title="CINE Y SERIES",DANTV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr-300x300-1525980274.jpg"group-title="CINE Y SERIES", MICROVISION HD
@@ -3666,27 +3578,12 @@ https://panel.streamingtv-mediacp.online:1936/8182/8182/playlist.m3u8
 https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w1015533371.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/ca2e3293-bb4b-4c20-928a-c9b5e47f0058/TU%20UNIVERSO%20TV%20LOGO%20NUEVO.png"group-title="CRISTIANO", TU UNIVERSO TV
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.canal27.org/wp-content/uploads/2019/01/logo_c27f4.png"group-title="CRISTIANO",CANAL27 EL CANAL DE LA ESPERANZA
-https://dcunilive16-lh.akamaihd.net/i/dclive_1@330503/master.m3u8?hdnea=st=1639097130~exp=1639097250~acl=/i/dclive_1@330503*~hmac=c0e1999487d40202f189dc7eeb5cfed49bf7c296a2b0f03bad56bdbccd66e116
 
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/48d5ff6b293e8629576fdc40275ab59c0cf1d3adb2dba62cab65f313baebbc42.png"group-title="CRISTIANO", COMUNION TV
 http://50.30.37.36:1935/live/stream/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAJXJ4NMb5IGVzO_RL3YF5W7HeInjdLtxfbg&usqp=CAU"group-title="CRISTIANO", RESTAURANDO VIDAS
-https://patagoniaip.trapemn.tv:1936/cristianos/restaurandovidatv1.stream/chunks.m3u8?nimblesessionid=2455031&WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://victoriatvcristoviene.com/wp-content/uploads/2020/06/VictoriaTV.png"group-title="CRISTIANO", VICTORIA TV
@@ -3800,14 +3697,14 @@ https://asomastream.duckdns.org/livestream/stream.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/XTO_TV_2017.png/revision/latest/scale-to-width-down/300?cb=20200923004941&path-prefix=es"group-title="CRISTIANO",  XTO TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/XTO_TV_2017.png/revision/latest/scale-to-width-down/300?cb=20200923004941&path-prefix=es"group-title="CRISTIANO",XTO TV
 https://5f5a73adac4ac.streamlock.net/XtoTv/XtoTv/chunklist_w1492576395.m3u8?WebM3UCL
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/252-2524012_imagenes-de-mision.png"group-title="CRISTIANO",  MISIÓN TIME TV
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/252-2524012_imagenes-de-mision.png"group-title="CRISTIANO", MISIÓN TIME TV
 https://583ed2f226ac2.streamlock.net/1733/stream/chunklist_w913599144.m3u8
 
 
@@ -3823,26 +3720,9 @@ https://4k-server-mia.2cdn.eu:443/NacionTV/myStream/chunklist_w292867127.m3u8
 http://mediaplatform.streamingmediahosting.com/p/10671/sp/1067100/playManifest/entryId/0_97vnjka8/format/applehttp/protocol/http/a.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-spirit-tv.jpg"group-title="CRISTIANO",  SPIRIT TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-
-
-
-
-
-#EXTINF:-1, TELE FAMILIA
-https://cloud2.streaminglivehd.com:1936/8116/8116/chunklist_w292255099.m3u8?WebM3UCL
-
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png"group-title="CRISTIANO", ALIENTO TV HD
 https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/chunklist_w1498398310_b1300000_slen.m3u8
 
-
-
-
-EXTINF:-1 tvg-logo="https://tvcristiana.org/wp-content/uploads/2014/08/TV300X176-spirit-television.jpg"group-title="CRISTIANO", SPIRIT TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2017/10/WhatsApp-Image-2020-05-28-at-10.35.45-PM-1-300x276.jpeg"group-title="CRISTIANO", URBANCRIST WORSHIP 1
@@ -3852,13 +3732,6 @@ https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8?We
 https://5790d294af2dc.streamlock.net:443/8160/8160/chunklist_w1412141262.m3u8?WebM3UCL
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png" group-title="INFANTIL", CHINOLA TV
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
@@ -3866,35 +3739,6 @@ https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/110978_Dios_Te_Ve_Kids.png" group-title="CRISTIANO", DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTIL", LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfXn6czYrT7z_8DubKtd29uPxZi3ZtUDoIQ&usqp=CAU" group-title="INFANTIL", ANIME ZONE TV
-http://azxtv.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="INFANTIL", TV ANIME
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="INFANTIL", TV ANIME ACCIÓN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="INFANTIL", YU-GI-OH!
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/604930bc28b24d0007e0e171/colorLogoPNG.png" group-title="INFANTIL", YU-GI-OH 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604930bc28b24d0007e0e171/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="INFANTIL", NARUTO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/60493045fbb5e50007b36f4d/colorLogoPNG.png" group-title="INFANTIL", NARUTO 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" group-title="INFANTIL", ONE PIECE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c14-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c4c4d3a3-dc88-49b4-9fda-30049d73b3f2&userId=&serverSideAds=true
 
 
 
@@ -4222,7 +4066,7 @@ http://clubtv.link/14mr/ch8/peliculas2.php?c=dovacateg_maillink_1/wiimc/1.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/fa/Atraccion_peligrosa_poster.jpg/revision/latest?cb=20101205190742&path-prefix=es"group-title="PELICULAS",fATRACCIÓN PELIGROSA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/fa/Atraccion_peligrosa_poster.jpg/revision/latest?cb=20101205190742&path-prefix=es"group-title="PELICULAS", ATRACCIÓN PELIGROSA
 http://clubtv.link/14mr/ch8/peliculas2.php?c=kicinigi1/Sub1d0_p4r4_5tr34ming_A85_V4R145_21/3.avi
 
 
@@ -4547,16 +4391,9 @@ https://play-akamai.pongalo.com/rogue-warfare-1/rogue-warfare-1_1-1/play_v1_hls_
 https://play-akamai.pongalo.com/palau/palau_1-1/hls_2500.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://es.web.img3.acsta.net/pictures/17/01/10/09/13/325612.jpg" group-title = "PELICULAS", EL SALVADOR
-https://play-akamai.pongalo.com/the-savior/the-savior_1-1/hls_2500.m3u8
-
-
 #EXTINF: -1 tvg-logo = "https://4.bp.blogspot.com/-s01jrzR37cM/WSylxxkbFUI/AAAAAAAAJyQ/Ratsh5oE6rkkWTMs1i8ReUqiojgCFzq6ACLcB/s1600/donde.jpg"group-title="PELICULAS", DONDE ESTA DIOS?
 https://play-akamai.pongalo.com/where-is-good/where-is-good_1-1/play_v1_hls_1080p.m3u8
 
-
-#EXTINF: -1 tvg-logo = "https://www.bibliatodo.com/PeliculasCristianas/wp-content/uploads/2021/02/el-sonido-del-espiritu.jpg" group-title = "PELICULAS", EL SONIDO DEL ESPÍRITU
-https://play-akamai.pongalo.com/sound-spirit/sound-spirit_1-1/play_v1_hls_1080p.m3u8
 
 #EXTINF:-1 tvg-logo = "https://i.ytimg.com/vi/S-g7kfFzx1E/maxresdefault.jpg"group-title="PELICULAS", CONFECCIONES DE UN HIJO PRODIGO
 https://play-akamai.pongalo.com/confessions-prodigal-son/confessions-prodigal-son_1-1/hls_2500.m3u8
