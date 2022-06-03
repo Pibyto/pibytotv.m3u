@@ -60,14 +60,14 @@ http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=30318.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cine-logo-925661C041-seeklogo.com.gif"group-title="CINE PREMIUM",BCINE HD
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=11801.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaWfRarCEpNX8ONdnn2NKMCe_8IO5m3GYCww&usqp=CAU"group-title="CINE PREMIUM",ZOY TV KIDS HD
 https://master.tucableip.com/zoytvinfantil/index.m3u8
 https://master.tucableip.com:443/zoytvinfantil/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cine-logo-925661C041-seeklogo.com.gif"group-title="CINE PREMIUM", BCINE HD
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=11801.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png"group-title="CINE PREMIUM",TBS
