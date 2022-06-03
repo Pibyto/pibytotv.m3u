@@ -1659,7 +1659,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrY14IzkBHTBEctUYibVwM_yE5Hug6tBtR2QhrWWfUDnqa4ks&s"group-title="CINE Y SERIES",SEOTV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrY14IzkBHTBEctUYibVwM_yE5Hug6tBtR2QhrWWfUDnqa4ks&s"group-title="CINE Y SERIES", SEOTV HD
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 
 
@@ -1681,7 +1681,7 @@ https://ss5.domint.net:3056/lhtv_str/lahoratv/chunklist_w1271299099.m3u8
 #EXTINF:-1 tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="CINE Y SERIES",EXTREMA TV HD
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/96d52a_49fe3188a59f416fb5fe5ab6631880f2~mv2.png/v1/crop/x_3,y_147,w_1046,h_770/fill/w_436,h_312,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%202021.png"group-title="CRISTIANO",EXTV HD
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/96d52a_49fe3188a59f416fb5fe5ab6631880f2~mv2.png/v1/crop/x_3,y_147,w_1046,h_770/fill/w_436,h_312,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%202021.png"group-title="CRISTIANO", EXTV HD
 http://iptv.streamhispanatv.net:25461/playgt/123456/88
 
 
@@ -2057,7 +2057,7 @@ http://144.126.128.123:25461/manoapoyanos/shortgod.com/11699
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png"group-title="DEPORTES",SKY SPORTS liga Inglesa 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png"group-title="DEPORTES", SKY SPORTS liga Inglesa 
 http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=39090.m3u8
 http://144.126.128.123:25461/manoapoyanos/shortgod.com/11708
 
@@ -3225,7 +3225,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b0007
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tbnenlace.png"group-title="CRISTIANO",ENLACE HD
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tbnenlace.png"group-title="CRISTIANO", ENLACE HD
 https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.redpublicadominicana.com/wp-content/uploads/2017/08/LOGO-SE%C3%B1ALES-01.png"group-title="CRISTIANO", SEÑALES TV HD
