@@ -1337,8 +1337,8 @@ https://play.amelbasoluciones.co:3546/live/boliviaradiotvlive.m3u8
 
 
 
-#######( ECUADOR )######( ECUADOR )#############( ECUADOR )#############################################
-#######################################$################################################################
+#######( ECUADOR )######( ECUADOR )#############( ECUADOR )#####################################################################################
+#######################################$########################################################################################################
 
 
 
@@ -1732,18 +1732,11 @@ https://ss5.domint.net:3056/lhtv_str/lahoratv/chunklist_w1271299099.m3u8
 #EXTINF:-1 tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="CINE Y SERIES",EXTREMA TV HD
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/96d52a_49fe3188a59f416fb5fe5ab6631880f2~mv2.png/v1/crop/x_3,y_147,w_1046,h_770/fill/w_436,h_312,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%202021.png"group-title="CRISTIANO", EXTV HD
-http://iptv.streamhispanatv.net:25461/playgt/123456/88
 
 
 
-#EXTINF:-1 tvg-logo="https://www.hn504.net/img/tv/Choluteca-Tv.png"group-title="CRISTIANO", CHOLUTECA TV HD
-https://emisoras.hn:8081/cholutecatv/tracks-v1a1/mono.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-5AzIkjfiv5w/V14lxf-dyaI/AAAAAAAAAMA/m9JhxT5FuJUMsVzuV5-X3yanwISOIbGhACLcB/w260/9260892_logoalfa_omega_vision__1339128512%252C192x192%252Cr-1.jpg"group-title="CRISTIANO", ALFA&OMEGA VISION HD
-https://srv.panelcast.net/aovision/aovision/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNDc4lqZVzIq-auu7syIWEyHU3iW5laIgP6g&usqp=CAU"group-title="CINE Y SERIES",ROMANA TV HD
@@ -3224,6 +3217,13 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w14123194
 
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/la-wapa-radio-5454.jpg"group-title="CRISTIANO",VIDA NUEVA TV HD
 https://eu1.servers10.com:8081/vidanuevatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hn504.net/img/tv/Choluteca-Tv.png"group-title="CRISTIANO", CHOLUTECA TV HD
+https://emisoras.hn:8081/cholutecatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-5AzIkjfiv5w/V14lxf-dyaI/AAAAAAAAAMA/m9JhxT5FuJUMsVzuV5-X3yanwISOIbGhACLcB/w260/9260892_logoalfa_omega_vision__1339128512%252C192x192%252Cr-1.jpg"group-title="CRISTIANO", ALFA&OMEGA VISION HD
+https://srv.panelcast.net/aovision/aovision/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Alsacias-Canal-28-en-vivo-Online.png"group-title="CRISTIANO",ALSACIAS TV HD
