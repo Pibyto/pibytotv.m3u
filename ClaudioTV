@@ -180,6 +180,7 @@ http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=2133.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cloud.operationtulip.com/apps/files_sharing/publicpreview/yiSfg4jRKMwAMm3?file=/LOGO%20ZoyTV%20NOVELAS-min.png&fileId=58317140&x=1080&y=1920&a=true"group-title="CINE PREMIUM",ZOY TV NOVELAS HD
+https://master.tucableip.com/zoytvnovelas/index.m3u8
 https://master.tucableip.com:443/zoytvnovelas/tracks-v1a1/mono.m3u8
 
 
@@ -2460,6 +2461,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaWfRarCEpNX8ONdnn2NKMCe_8IO5m3GYCww&usqp=CAU"group-title="CINE Y PREMIUM",ZOY TV KIDS HD
+https://master.tucableip.com/zoytvinfantil/index.m3u8
+https://master.tucableip.com:443/zoytvinfantil/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="INFANTIL",TOONCAST
@@ -2467,12 +2471,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
 #EXTINF:-1 tvg-logo="https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8"group-title="INFANTIL",CANELA KIDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaWfRarCEpNX8ONdnn2NKMCe_8IO5m3GYCww&usqp=CAU"group-title="CINE Y PREMIUM",ZOY TV KIDS HD
-https://master.tucableip.com:443/zoytvinfantil/tracks-v1a1/mono.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Azteca_7_variante_blanca_2021.png/640px-Azteca_7_variante_blanca_2021.png"group-title="INFANTIL", AZTECA 7 HD
