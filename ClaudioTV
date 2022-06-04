@@ -1512,9 +1512,22 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_yNR7nXg_S4xD8dP_daS3YtgT1PQukGGlbQ&usqp=CAU"group-title="CINE Y SERIES",EL CHAVO DEL 8 
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
+#EXTINF:-1 tvg-logo="https://tufmfavorita.com/wp-content/uploads/2020/06/logo_fmtvmundo_blanco.png"group-title="CINE Y SERIES", FRECUENCIA MUSICAL HD
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=59612.m3u8
+http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=59612.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/LOGO-TELEXIMA-2-copy.jpg"group-title="CINE Y SERIES", TELEXIMA
-https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
+
+#EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="CINE Y SERIES",SAN ISIDRO TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/puntacanatv.jpg"group-title="CINE Y SERIES", PUNTA CANA TV
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZqGpWv7qqmY/maxresdefault.jpg"group-title="CINE Y SERIES",WTV CANAL 20
+https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
@@ -1552,10 +1565,10 @@ http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=42285.m3u8
 https://servilive.com:3176/live/cineclublive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tufmfavorita.com/wp-content/uploads/2020/06/logo_fmtvmundo_blanco.png"group-title="CINE Y SERIES", FRECUENCIA MUSICAL HD
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=59612.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=59612.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/LOGO-TELEXIMA-2-copy.jpg"group-title="CINE Y SERIES", TELEXIMA
+https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
 
 
 
@@ -1697,14 +1710,10 @@ https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t39.30808-6/272060632_350081793784336_7065644928722778275_n.png?stp=dst-png_p206x206&_nc_cat=106&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeGksMZ6uODvNeHIS7LvysOJsisMLw4eH1iyKwwvDh4fWK5zJgM55oa4JsNf1KqfkfPeHj8DlMjFWISvLPczpJnI&_nc_ohc=5btDEAmGEcMAX-R2ioe&_nc_ht=scontent.feze8-1.fna&oh=00_AT8HBC3mBGvzXMhXWePTrjbqGTtUKbhv2DCgYdeOpl8aYQ&oe=628C2F7F"group-title="CINE Y SERIES", ATM TELEVISIÓN
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="CINE Y SERIES",SAN ISIDRO TV
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/puntacanatv.jpg"group-title="CINE Y SERIES", PUNTA CANA TV
-https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZqGpWv7qqmY/maxresdefault.jpg"group-title="CINE Y SERIES",WTV CANAL 20
-https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9buKX_Bk04NMwVg0L90MZrn29ECgoG1KcXg&usqp=CAU"group-title="CINE Y SERIES", CANAL 8
 http://iptv.streamhispanatv.net:25461/playgt/123456/93
