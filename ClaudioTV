@@ -18,6 +18,11 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/index_2500_av-p.m3u8?sd=1
 
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
 https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
 
@@ -136,6 +141,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/Com
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png"group-title="CINE PREMIUM",STUDIOS UNIVERSAL HD
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=30376.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
 http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=30376.m3u8
 http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=16591.m3u8
@@ -153,6 +159,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg"group-title="CINE PREMIUM",STAR CHANNEL HD
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=16585.m3u8
 https://edge-vod01-hr.cvattv.com.ar//live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=16585.m3u8
 https://cdn.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
