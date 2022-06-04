@@ -123,6 +123,18 @@ https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE PREMIUM", CIUDAD MAGAZINE HD
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/272?cb=20220123155340&path-prefix=es"group-title="CINE PREMIUM",CINE Ñ
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tves1.php?c=1096
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="CINE PREMIUM",ACCION + M
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tves1.php?c=1094
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png"group-title="CINE PREMIUM",LA SEXTA HD
 http://gratis.shortgod.com/muchossaposyypocosapoyan/tves1.php?c=1129
 
