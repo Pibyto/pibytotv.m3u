@@ -1139,6 +1139,7 @@ http://edge-live13-sl.cvattv.com.ar/live/c7eds/Mega_TV/SA_SAGEMCOM/Mega_TV.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg"group-title="PERÚ",LATINA HD
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=40375.m3u8
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 https://live-latina-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
 
@@ -1535,6 +1536,8 @@ http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=38685.m3u8
 http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=38689.m3u8
 http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=38687.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/2560px-Amazon_Prime_Video_logo.svg.png"group-title="CINE Y SERIES",CINE PRIME VIDEO FHD
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=42285.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0pDEyWzNUAIBr08So6lvGbPljdelrG7-k7XagfyISG7_59-95cjZX0gbknvSrF3uPA"group-title="CINE Y SERIES",CINECLUB FHD
