@@ -461,8 +461,8 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sp
 
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/mision-vida-television.png"group-title="ARGENTINA", MISION VIDA TV HD
-https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
+#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO-200x200.png"group-title="ARGENTINA", DIOS TE VE HD
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 
 
@@ -475,8 +475,6 @@ http://edge-live14-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL HD
-https://vsd157.mycdn.me:443/hls/1698824391191.m3u8/sig/CwaCm__WiU4/expires/1654431286152/srcIp/186.132.17.64/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd137.mycdn.me:443/hls/1698824391191.m3u8/sig/msKeP2b8Ajw/expires/1654380962377/srcIp/186.132.17.64/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 https://vsd61.mycdn.me:443/hls/1698824391191.m3u8/sig/rhz4BiGv6ko/expires/1654129165526/srcIp/186.132.17.64/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
 
