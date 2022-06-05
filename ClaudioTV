@@ -3256,7 +3256,7 @@ https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="CRISTIANO", EXTREMA TV
+#EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png"group-title="CRISTIANO", EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
