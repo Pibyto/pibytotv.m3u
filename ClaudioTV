@@ -1515,6 +1515,13 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=59612.m3u8
 http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=59612.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="CINE Y SERIES",COSMOS TV HD
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"group-title="CINE Y SERIES",MEGA CINE TV FHD
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?WebM3UCL
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.televida.cl/wp-content/uploads/2020/12/logo-color-ok.png"group-title="CINE Y SERIES", TELEVIDA
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
@@ -1685,13 +1692,8 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 
 
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"group-title="CINE Y SERIES",MEGA CINE TV FHD
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?WebM3UCL
-https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="CINE Y SERIES",COSMOS TV HD
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
 
 
 
