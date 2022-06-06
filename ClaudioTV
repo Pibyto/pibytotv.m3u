@@ -464,25 +464,16 @@ https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sp
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/mision-vida-television.png"group-title="ARGENTINA", MISION VIDA TV HD
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://cristianoreformado7.files.wordpress.com/2014/11/enlace-updated.png"group-title="ARGENTINA", CRISTIANATV (ENLACE) HD
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizurzsFXDo8ia4Ro7sbFCswdtVdvDYDDrhUhEFTsgTCGHcu5PJWkLbqaj7LG11wNpYaWQJULsU6ndhv_PU5BwtDKBkQCM_HcQgxXlYm9Sr0SOH0USuESStjDfkxCfarjuhn_IJROLTUr2b8WzIpw21F_MZ3uHFPsA_Ngq38SCe5iplYuiHmf9CVfAH/s551/Eltrece_(Sol).webp"group-title="ARGENTINA",EL TRECE 33.1 TDA HD
 http://edge-live14-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE 34.1 TDA HD
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://cristianoreformado7.files.wordpress.com/2014/11/enlace-updated.png"group-title="ARGENTINA", CRISTIANATV (ENLACE) HD
-https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE 35.1 TDA HD
