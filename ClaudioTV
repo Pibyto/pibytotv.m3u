@@ -460,9 +460,8 @@ http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/153801.m3u8
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO-200x200.png"group-title="ARGENTINA", DIOS TE VE HD
-https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cristianoreformado7.files.wordpress.com/2014/11/enlace-updated.png"group-title="ARGENTINA", CRISTIANATV (ENLACE) HD
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
 
 
