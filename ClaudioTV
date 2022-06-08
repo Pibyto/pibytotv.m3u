@@ -536,7 +536,7 @@ http://edge9-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD
 http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/153801.m3u8
 https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://brief.promax.org/images/uploads/tyc-sports-1.png"group-title="DEPORTES",TyC Sports HD
+#EXTINF:-1 tvg-logo="https://brief.promax.org/images/uploads/tyc-sports-1.png"group-title="ARGENTINA",TyC Sports HD
 https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
 
