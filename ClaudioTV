@@ -566,8 +566,7 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1558367580.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png"group-title="ARGENTINA", CANAL 4 JUJUY HD
 http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_yNR7nXg_S4xD8dP_daS3YtgT1PQukGGlbQ&usqp=CAU"group-title="ARGENTINA",EL CHAVO DEL 8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_yNR7nXg_S4xD8dP_daS3YtgT1PQukGGlbQ&usqp=CAU"group-title="CINE Y SERIES",EL CHAVO DEL 8 
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
 
@@ -1590,8 +1589,6 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_yNR7nXg_S4xD8dP_daS3YtgT1PQukGGlbQ&usqp=CAU"group-title="CINE Y SERIES",EL CHAVO DEL 8 
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
@@ -1616,6 +1613,30 @@ http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=59612.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="CINE Y SERIES", PELÍCULAS MANIAS FHD
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CooFKfqbn_SLZH44Gzq4GOE_fOEVnEb-0AL-HAtYcs3ueA09PKmUOP0NPoIcwXQF8rwlJ8oUW6hGcZMf3hoQI9ZMc0vSizyCr7BNkrM549NYX14i_KfekDESly50Bsz_g93RoXCu50rO6CU0Ngwu2vAHaqVxpv73W_QurA38p3_tJTKTFKrmVYZCoXb3u75o2KC9tWp9CvtHgwVC-Ok8pdfzqwA6exoyeqkGBmmIcs2pQFTSW-aFnUHAxNQ71Z5T0FABKHfNpvh4U4SXw1UOpsnEpMQef5Cv7bwRnHfY9-7JGzNi6lUIh-oWycWGdt-LaahmcDEouBv0TJvZdrBplTdsSTUw3ST3fzhgCJ0LCAqdDm2Vx9EEW08ph41_yLBINxMJyxDkgh_DLZ-8IXny30C8M8Hgfg-7WPR4kZK5vSuOSPpjmIWIrOd8iet829a2BDkGrv2NEJTBi4KgwFhz8UaPi5c_gXC1bvfVvUbqaWo9FhraknW_fplW3CiQc4RwSQT_dBJ2d3EKzHH7yxFszAo7vpyclZmBiiF72naIVubcBE9m2KV6qFzzI9l0PNjbKhoVJmDx0KgV1GCpYW4WNKUsZQM6feOi9kVp-6KWChPpI9AwufczpTpttqdqHwo3f7H97AxxkIVa4dV-yBfav2JGdZH6BQ3Dpx77xWZkv1D0b2DjRqd8zCNi0t4DLQNOtyTsSudH-2zxfTIzWqayE1RFC1vjmqSp19ws0Zus3hGxbcxCh0pEfXBAchaRqmZm_7Sm5UGztBKK2P14-guVNw81h-84fyv3WKor1gex2Xhouk7scFv_Gno1osneQMY-maKLMntwTbp8VJfWxWa--GR4Jn1J5ZzlhU5B5uoaDCsoWY6K8jqqwR8R2SABKglldS13ZXN0LTIw9gM.m3u8
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CogFra-urJqmz3F-ktlBwVfvoxkHXwEiI6GLg3ZPjLlZ1klePMiRqTMs0R60BpjwCgeuGSX1MEC6Nkv1Wrg_lhE8xhQ_BsGHtm7Dm_tfTtfIc8eEa0rK4YcR06q4b2n6u1ycWcGs9u563Nrnh-acY78lyzCkaybewmF5KaRSFI3iVi5zyd4mx5qZ4GXrD1kvsYuPzDtjZ5NCL_cRQpIKPN4wCDyBtOGMHEFjhVUVHUtitYlYtED9Pv6BN-4QMlZijBx1AyJxaCVQFDRVcv8dD7RegTjA1N-ixoBU0JmZQXdPK5XOVHjMSCoj2-QgVsLCLxDZpxjrB5NwjiFmNK2wykEKmH1_UkfXDCPgW74Y0W-JWNp7TqyCMGrwlm8_wrBkwmHJhtJsY_CYvHKq8Kc9NRPBFquU8NOCzSSJVOsb3c9iPfz8z424qEbFGNGJdrN6d0PmMuwMdEVDeIMqS4cPHPG38AL9Htv85d0WTrZoECrdU9Gs0Pa9PJvTE-1psVDgzW1Uf4vqSPRQqpPvnEkVjxzsPhJl6OEszOV3ZedkYMeNGJ03i6HGc98grp55a_OcBgw8SV7NBVnF8EUq0RzwtDRfiR-8gNfzHleMbqd-elGBybjDuvy3ptHXtpwgyGvJJ-ELlQ0gVRvJBMaRc3WqITaHt16RQPJjQMsHopcI4WsnLSL8_gbo1QnSpJtC93nfqa8sKqJ_8zWBTmO801E55lXE2yaiLyaLiVWS8JOXey83or7aEKDyp3ffN3negr6o62XRMUV-uXSQQvI7pvMn_txh4_9qZkV-3MzJF5p6zv4yV5XSq0XCH_KVBjphPDFUh6CQ6pMrwuD5uDd7xrE_zZtr5CmGwnnRN86KGgxh6dt_kiQ_cpI5tMYgASoJZXUtd2VzdC0yMPAD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0pDEyWzNUAIBr08So6lvGbPljdelrG7-k7XagfyISG7_59-95cjZX0gbknvSrF3uPA"group-title="CINE Y SERIES",CINECLUB FHD
+https://servilive.com:3176/live/cineclublive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/LOGO-TELEXIMA-2-copy.jpg"group-title="CINE Y SERIES", TELEXIMA
+https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0KBKhum_0y4-0yY8YJLqHwIjF3uNDTsFuA&usqp=CAU"group-title="CINE Y SERIES",REC ONLINE TV HD
+https://master.tucableip.com/reconline/live/video.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE Y SERIES", CIUDAD MAGAZINE FHD
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="CINE Y SERIES", PLANETA TV FHD
+https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 
 
 
@@ -1661,32 +1682,12 @@ http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=38687.m3u8
 http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=42285.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0pDEyWzNUAIBr08So6lvGbPljdelrG7-k7XagfyISG7_59-95cjZX0gbknvSrF3uPA"group-title="CINE Y SERIES",CINECLUB FHD
-https://servilive.com:3176/live/cineclublive.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/LOGO-TELEXIMA-2-copy.jpg"group-title="CINE Y SERIES", TELEXIMA
-https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0KBKhum_0y4-0yY8YJLqHwIjF3uNDTsFuA&usqp=CAU"group-title="CINE Y SERIES",REC ONLINE TV HD
-https://master.tucableip.com/reconline/live/video.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE Y SERIES", CIUDAD MAGAZINE FHD
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
-
-#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="CINE Y SERIES", PLANETA TV FHD
-https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlhi7flbuPzurdjzk0yblzp4V-h8NLBszbNA&usqp=CAU"group-title="CINE Y SERIES",TELE ARTE
