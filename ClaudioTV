@@ -1593,6 +1593,22 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_yNR7nXg_S4xD8dP_daS3YtgT1PQukGGlbQ&usqp=CAU"group-title="CINE Y SERIES",EL CHAVO DEL 8 
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrjBBS8fewJNctq04_Xezy1ecqgJNTwUzX0j5x2hodmGlSYA&s"group-title="CINE Y SERIES", ESTRELLA TV HD
+https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
+https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w308076895.m3u8
+https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://tufmfavorita.com/wp-content/uploads/2020/06/logo_fmtvmundo_blanco.png"group-title="CINE Y SERIES", FRECUENCIA MUSICAL HD
 http://gratis.shortgod.com/castcaastshortgodcastcaastshortgod/tv7.php?c=59612.m3u8
 http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=59612.m3u8
@@ -1622,19 +1638,6 @@ https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
-https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrjBBS8fewJNctq04_Xezy1ecqgJNTwUzX0j5x2hodmGlSYA&s"group-title="CINE Y SERIES", ESTRELLA TV HD
-https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
-https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w308076895.m3u8
-https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="CINE Y SERIES", PELÍCULAS MANIAS FHD
