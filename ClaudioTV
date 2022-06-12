@@ -1652,8 +1652,9 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtn_sH71Szo3UAexmNWz9t-OLuBfyW1r_NTA&usqp=CAU"group-title="CINE Y SERIES",TELEMIX!
-https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="ARGENTINA",TV+  HD
+https://streamcasthd.com:19360/tvmas/tvmas.m3u8
+https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
