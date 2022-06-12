@@ -762,7 +762,7 @@ https://streamlov.alsolnet.com:443/misionescuatro/live/chunklist_w417064590.m3u8
 https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1655071008&h=26f726b197d4be657d70af43c71fda57
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg"group-title="ARGENTINA", CIUDAD MÁGICA TV 
-https://srv2.zcast.com.br:443/ciudadm/ciudadm/chunklist_w789627950.m3u8?WebM3UCL
+
 
 
 
@@ -1649,7 +1649,11 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrjBBS8fewJNctq04_Xezy1ecqgJNTwUzX0j5x2hodmGlSYA&s"group-title="CINE Y SERIES", ESTRELLA TV HD
-https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
+https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtn_sH71Szo3UAexmNWz9t-OLuBfyW1r_NTA&usqp=CAU"group-title="CINE Y SERIES",TELEMIX!
+https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
@@ -1658,9 +1662,6 @@ https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tufmfavorita.com/wp-content/uploads/2020/06/logo_fmtvmundo_blanco.png"group-title="CINE Y SERIES", FRECUENCIA MUSICAL HD
-http://gratis.shortgod.com/castcaastshortgodcastcaastshortgod/tv7.php?c=59612.m3u8
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=59612.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=59612.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="CINE Y SERIES", PELÍCULAS MANIAS FHD
