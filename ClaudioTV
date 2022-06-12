@@ -2137,6 +2137,12 @@ http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/59802.m3u8
 #EXTINF:-1  tvg-logo="http://1.bp.blogspot.com/-TZNQbBgu508/UjtEagBbaMI/AAAAAAAAAH0/8YrDDQ6iA6k/s1600/ESPN3Vivo.png"group-title="DEPORTES",ESPN 3
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8?SBN
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png"group-title="DEPORTES",ESPN EXTRA HD
+https://edge1-sl.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://futbolfullenvivo.com/logos/espn4.png"group-title="DEPORTES", ESPN4 HD
 http://edge-live13-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 
@@ -3908,7 +3914,7 @@ http://cecegeek@goo.gl/3KGMLf
 https://play.pongalo.com/christ-lord/christ-lord_1-1/play_v1_hls_1080p.m3u8
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR__AQjVdVsr-aU-Tnu_s3enzN_5hL3tDo-bg&usqp=CAU"group-title="PELICULAS", ROCK STAR
-https://servidor-4.tk/Uploads/Musica/Rock-star-2001-lat.mp4
+https://servidor-4.tk/Uploads/Musica/Rock-star-2001-lat.m3u8
 
 
 
