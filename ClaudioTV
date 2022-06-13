@@ -1663,11 +1663,15 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ32g0YR_QkcRiiyjMK7FlJuT3GnLVh5tXSw&usqp=CAU"group-title="CINE Y SERIES", BLU HD
+https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="CINE Y SERIES",3 PINAMAR FHD
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ32g0YR_QkcRiiyjMK7FlJuT3GnLVh5tXSw&usqp=CAU"group-title="CINE Y SERIES",BLU HD
-https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
 
 
 
