@@ -1663,14 +1663,25 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="CINE Y SERIES",3 PINAMAR FHD
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrjBBS8fewJNctq04_Xezy1ecqgJNTwUzX0j5x2hodmGlSYA&s"group-title="CINE Y SERIES", ESTRELLA TV HD
-https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="CINE Y SERIES",TV+  HD
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCauDwYbCOLLXbKe3t--wB1eqEYKZLbY8LQ&usqp=CAU"group-title="CINE Y SERIES",CINCO TV TIGRE  30.1 TDA HD
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png"group-title="CINE Y SERIES",CASCARA TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
@@ -1915,9 +1926,6 @@ https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png"group-title="CINE Y SERIES",CASCARA TV
-https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQSpEdhd8I37WtA6c2K4vuN2vSJKMWPt3oQ&usqp=CAU"group-title="CINE Y SERIES",LATINA TV INTERNACIONAL
 https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w517185414.m3u8
 
@@ -2032,20 +2040,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="CINE Y SERIES", CANAL 34 HD 6.11 TDA HD
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqCauDwYbCOLLXbKe3t--wB1eqEYKZLbY8LQ&usqp=CAU"group-title="CINE Y SERIES",CINCO TV TIGRE  30.1 TDA HD
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="CINE Y SERIES",3 PINAMAR FHD
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
-
 
 
 
