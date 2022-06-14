@@ -1684,6 +1684,10 @@ https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="CINE Y SERIES",COSMOS TV HD
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="CINE Y SERIES",TVR DIGITAL HD
 https://vsd157.mycdn.me:443/hls/1698824391191.m3u8/sig/5hD8nw42VEU/expires/1655286675713/srcIp/186.132.17.18/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
@@ -1695,6 +1699,10 @@ https://vsd157.mycdn.me:443/hls/1698824391191.m3u8/sig/5hD8nw42VEU/expires/16552
 
 #EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="CINE Y SERIES",TV+ HD
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/LOGO-TELEXIMA-2-copy.jpg"group-title="CINE Y SERIES", TELEXIMA
+https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
 
 
 
@@ -1740,8 +1748,6 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvYEUoIAetqp9AV6PhjlNuUORGS
 https://servilive.com:3176/live/cineclublive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/LOGO-TELEXIMA-2-copy.jpg"group-title="CINE Y SERIES", TELEXIMA
-https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
@@ -1761,8 +1767,7 @@ https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="CINE Y SERIES",COSMOS TV HD
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"group-title="CINE Y SERIES",MEGA CINE TV FHD
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?WebM3UCL
@@ -1792,11 +1797,11 @@ https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"group-title="CINE Y SERIES",CINE NETFLIX FHD
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=38689.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=38687.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/2560px-Amazon_Prime_Video_logo.svg.png"group-title="CINE Y SERIES",CINE PRIME VIDEO FHD
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=42285.m3u8
+
 
 
 
