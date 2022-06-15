@@ -2712,6 +2712,15 @@ https://master.tucableip.com/zoytvinfantil/index.m3u8
 https://master.tucableip.com:443/zoytvinfantil/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png"group-title="INFANTIL", ANIME HEROES
+https://tinyurl.com/3s9mtscy
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png"group-title="INFANTIL", iCarly 
+https://tinyurl.com/y976r32k
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="INFANTIL",TOONCAST
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
