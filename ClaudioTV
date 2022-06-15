@@ -2826,6 +2826,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/h6EiTBshRNRPbNYpCMIoUwmjR8M=/360x222/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/A2FKBEZ4LJEZTPVDQMQSKLG2RQ.jpg"group-title="INFANTIL",EL CHAVO DEL 8 
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_zDOiW5aX6vU6DUYzJd_o2ZD-CG_vKilGA&usqp=CAU"group-title="INFANTIL",LOS SIMPSONS
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png"group-title="INFANTIL",LA CALETA
