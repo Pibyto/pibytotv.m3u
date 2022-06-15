@@ -184,6 +184,9 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/A3_Series/SA_SAGEMCOM/A3_Series.
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Cinema%2B.png/revision/latest?cb=20210502133321&path-prefix=es"group-title="CINE PREMIUM",CINEMA+
+https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/272?cb=20220123155340&path-prefix=es"group-title="CINE PREMIUM",CINE Ñ
 http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/118929
