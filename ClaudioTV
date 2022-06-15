@@ -162,6 +162,29 @@ https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Europaeuropa.png"group-title="CINE PREMIUM",Europa Europa HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Europa_Europa/SA_SAGEMCOM/Europa_Europa.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.eurochannel.com/images/Logo_Eurochannel-Blue.png"group-title="CINE PREMIUM",Euro Channel HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-logo.png"group-title="CINE PREMIUM",ANTENA3 HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Antena_3/SA_SAGEMCOM/Antena_3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png"group-title="CINE PREMIUM", A3Cine HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/A3_Cine/SA_SAGEMCOM/A3_Cine.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png"group-title="CINE PREMIUM", A3S HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/A3_Series/SA_SAGEMCOM/A3_Series.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/272?cb=20220123155340&path-prefix=es"group-title="CINE PREMIUM",CINE Ñ
 http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/118929
 http://gratis.shortgod.com/muchossaposyypocosapoyan/tves1.php?c=1096
