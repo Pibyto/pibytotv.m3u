@@ -1767,6 +1767,11 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/TV-Sur-Canal-9-en-vivo-Online.png"group-title="CINE Y SERIES",TV Sur Canal 9 
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pXz86Nc3w74/YMbvR_-PcQI/AAAAAAAAWLM/5LCc8YB0p98FiHmIa0J30s-VE5glVO1_QCLcBGAsYHQ/s0/blu-radio-99-5.png"group-title="CINE Y SERIES", BLU HD
 https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
 
