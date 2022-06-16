@@ -1381,6 +1381,9 @@ http://edge-live13-sl.cvattv.com.ar/live/c7eds/Mega_TV/SA_SAGEMCOM/Mega_TV.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://imagenestotales.com/wp-content/uploads/2018/04/depositphotos_71252071-stock-photo-peru-flag-map.jpg"group-title="PERÚ", PERÚ CHANNEL HD
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg"group-title="PERÚ",LATINA HD
 http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/78239
@@ -1782,6 +1785,9 @@ https://vsd137.mycdn.me:443/hls/1698824391191.m3u8/sig/DZJQz1YrLqk/expires/16553
 https://vsd157.mycdn.me:443/hls/1698824391191.m3u8/sig/5hD8nw42VEU/expires/1655286675713/srcIp/186.132.17.18/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://imagenestotales.com/wp-content/uploads/2018/04/depositphotos_71252071-stock-photo-peru-flag-map.jpg"group-title="CINE Y SERIES", Peru Channel
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 
 
 
