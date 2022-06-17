@@ -1814,6 +1814,31 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="CINE Y SERIES",COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296983/images/logod.jpg?t=158076"group-title="CINE Y SERIES",LA RUTA TV
+https://cdn7.streamgato.us:3654/live/larutatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EikIb10XYAIH9L2?format=jpg&name=large"group-title="CINE Y SERIES", ALEGRANDO TV
+https://cdn2.streamgato.us:443/alegrandotv/alegrandotv/chunklist_w1578055650.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ctv.jpg"group-title="CINE Y SERIES",CTV EL CANAL DE TODOS
+https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png"group-title="CINE Y SERIES",MULTIVISION
+https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/noticiashoraxhora.com/wp-content/uploads/2021/03/IMG-20211124-WA0128.jpg?resize=250%2C250&ssl=1&is-pending-load=1"group-title="CINE Y SERIES",HORA X HORA TV
+https://cdn2.streamgato.us:443/horaxhoratelevision/horaxhoratelevision/chunklist_w724427598.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png"group-title="CINE Y SERIES",READY
+http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="CINE Y SERIES",VALLEVISION HD
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="CINE Y SERIES",TVR DIGITAL HD
@@ -2127,6 +2152,9 @@ https://ss5.domint.net:3056/lhtv_str/lahoratv/chunklist_w1271299099.m3u8
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="CINE Y SERIES",EXTREMA TV HD
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
@@ -2244,8 +2272,6 @@ https://master.tucableip.com//zoytv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296983/images/logod.jpg?t=158076"group-title="CINE Y SERIES",LA RUTA TV
-https://cdn7.streamgato.us:3654/live/larutatvlive.m3u8
 
 
 
@@ -2958,12 +2984,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f800077
 
 
 
-#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png"group-title="CINE Y SERIES",READY
-http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="CINE Y SERIES",VALLEVISION HD
-http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJr7ereT0NYT0sDqDKL43B1UXL0I7OiwgaRA&usqp=CAU"group-title="CINE Y SERIES",  CANAL 57
 https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
@@ -3000,15 +3024,18 @@ https://s1.tvdatta.com:3707/live/redtvelive.m3u8?WebM3UCL
 
 
 
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2FlH43M3O5ySAzltsmgCiUoVDyzyG79rEA&usqp=CAU"group-title="CINE Y SERIES",CGTN ESPAÑOL
 https://livees.cgtn.com/1000e/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png"group-title="CINE Y SERIES",MULTIVISION
-https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/noticiashoraxhora.com/wp-content/uploads/2021/03/IMG-20211124-WA0128.jpg?resize=250%2C250&ssl=1&is-pending-load=1"group-title="CINE Y SERIES",HORA X HORA TV
-https://cdn2.streamgato.us:443/horaxhoratelevision/horaxhoratelevision/chunklist_w724427598.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg"group-title="CINE Y SERIES", TVS 
@@ -3039,8 +3066,6 @@ https://5eff35271151c.streamlock.net:1936/8144/8144/chunklist_w1273720400.m3u8
 https://srv1.mediastreamperu.com:8081/creotv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ctv.jpg"group-title="CINE Y SERIES",CTV EL CANAL DE TODOS
-https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.6435-9/87045777_108496130742919_4190421276549971968_n.png?stp=cp0_dst-png_p64x64&_nc_cat=105&ccb=1-5&_nc_sid=85a577&_nc_ohc=P8ml6fBzE2IAX-QiGN7&_nc_ht=scontent.feze8-2.fna&oh=00_AT8LCSIGRXohYD-333xTLImrjmK0fXgA73o5HfDfiwwxQQ&oe=626B625C"group-title="CINE Y SERIES",CR TELEVISIÓN
@@ -3051,8 +3076,6 @@ https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
 https://cdn2.streamgato.us:443/titanicotv/titanicotv/chunklist_w1906236809.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EikIb10XYAIH9L2?format=jpg&name=large"group-title="CINE Y SERIES", ALEGRANDO TV
-https://cdn2.streamgato.us:443/alegrandotv/alegrandotv/chunklist_w1578055650.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWF87u9p7dYcrU6gyeIiNkLKNS_r_vOmlQA&usqp=CAU"group-title="CINE Y SERIES",VISION NDV
@@ -3137,12 +3160,6 @@ https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.AnzoateguiTV-logo2020-rec1.png.16954ef50ddeff8f97cce0312f5a0ee3.png"group-title="CINE Y SERIES",ANZOTEGUI TV
-http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/playlist.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fe6ae09b087d724c5c5a5b5524dab2b1f8768cc475966d7ae3896931e7a3114d6.jpg"group-title="CINE Y SERIES",CATAVISION
-https://stmv1.zcastbr.com/catavision/catavision/playlist.m3u8
 
 
 
