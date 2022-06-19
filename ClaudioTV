@@ -1822,6 +1822,8 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/tele-2-logo-png-transparent.png"group-title="CINE Y SERIES",TELE 2 WEB
+https://inliveserver.com:1936/11516/11516/chunklist_w2100780946.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/h5mGowi_1pK7-i-RnjsINVW75HhI4n1lSz9UXDX91UcxlBgN0Skb7yQYAH5FudjnusO2"group-title="CINE Y SERIES",  CANAL 57
