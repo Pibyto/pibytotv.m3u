@@ -728,7 +728,8 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u
 https://videohd.live:19360/8010/8010.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmdlbnR2b2ZpY2lhbF9zY3JlZW5fMF8xNTQ4MDQ4OTUzXzA2MQ/screen-0.jpg?fakeurl=1&type=.webp"group-title="ARGENTINA",GENTV  17.3 TDA HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-San-Juan-en-vivo-Online.png"group-title="ARGENTINA",CANAL 4 SAN JUAN
+http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1276879565.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="ARGENTINA", CANAL 4 JUJUY HD
@@ -926,8 +927,6 @@ https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 http://edge3-sl.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8?syo
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-San-Juan-en-vivo-Online.png"group-title="ARGENTINA",CANAL 4 SAN JUAN
-http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1276879565.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png"group-title="ARGENTINA",DEL SUR TV HD
@@ -973,8 +972,6 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="ARGENTINA", CANAL 34 HD 6.11 TDA HD
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSViZaJBy95ezZm4NAPjhBPIURJPDqPmgsAZQ&usqp=CAU"group-title="ARGENTINA",AVC HD
-https://tna5.bozztv.com/AVCHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://am1020.com.ar/wp-content/uploads/2021/02/logoam1020-1024x790.png"group-title="ARGENTINA",AM1020 HD SAN JUAN 
 http://51.79.83.93:9998/live/am1020/playlist.m3u8
