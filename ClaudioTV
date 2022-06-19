@@ -898,7 +898,7 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png"group-title="ARGENTINA", CANAL 9 MENDOZA HD
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="ARGENTINA", CANAL 9 MENDOZA HD
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w752832264.m3u8
 
