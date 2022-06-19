@@ -1826,6 +1826,26 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 
 
+#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png"group-title="CINE Y SERIES",READY
+http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/LOGO-TELEXIMA-2-copy.jpg"group-title="CINE Y SERIES", TELEXIMA
+https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0pDEyWzNUAIBr08So6lvGbPljdelrG7-k7XagfyISG7_59-95cjZX0gbknvSrF3uPA"group-title="CINE Y SERIES",CINECLUB FHD
+https://servilive.com:3176/live/cineclublive.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0KBKhum_0y4-0yY8YJLqHwIjF3uNDTsFuA&usqp=CAU"group-title="CINE Y SERIES",REC ONLINE TV HD
+https://master.tucableip.com/reconline/live/video.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE Y SERIES", CIUDAD MAGAZINE FHD
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
@@ -1874,9 +1894,6 @@ https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983
 https://cdn2.streamgato.us:443/horaxhoratelevision/horaxhoratelevision/chunklist_w724427598.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png"group-title="CINE Y SERIES",READY
-http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="CINE Y SERIES",VALLEVISION HD
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
@@ -1902,8 +1919,6 @@ https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/LOGO-TELEXIMA-2-copy.jpg"group-title="CINE Y SERIES", TELEXIMA
-https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
 
 
 
@@ -1947,23 +1962,6 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvcE3vkZ9czDQxlNFWOmXEkBKqE
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvYE8sgo7b-RbW-u31_-WdMP2vSx-3pilSfcuovijyng3Mh5igHBREgb2yBffXQ9Ou60G-QgysCqqXZnQ1uCYxICmpZaNwVUmOyPdMPz5P8dUXq5-VB3ykI1-3XpeVveq2X68ur2J2LhPoCyul-f86li361rHMSCSd3_wRqP0uAkocrmSNEwfQ5M2BpMUx3k_4bNCnVCZJ6zsaiEYBLkDvY5xIDAbw8AcpHDDCGC3Po3RziVX2TmgCGdjf1UaNZ3-MZfc9RmxkSVdOyvmHx34dhD3MdicunIRtfT0JdfXBAOn4jFbrNXRkG4Ubew0679coCaH7HaH_Y2tZBqMoRIRsmHLeZASCxC4rVNAlFlKRISj3C_5CbbTTbVQ2PPSTiA0p_vpo20NVOW9Ff2s3vm2dlhaIKvhT4GA6zFJtmMEMEzZHNflwxj1-w53TpsmSq2pNkwfmHZ77s44gTKGwkpHL9grLv4SEPCcg4HpmQm2z-2975moJr4RTkgtqIuXG8bHgBpqHdKkliQwtetdRgzklSCaD28TPDul8MvV7BOCjTPnsgtREEiC640MyJlk6ioZILieoyaqu9JA7hmbiQn80Y2vyH0e2dxZmM5bk-pR5kRTihfJ4sbPz2NgBZXOLjq3L5t0N8F1JMPdDd8i4q9Expf8FsQVZj4W0NngM3svCJZ7xlROVR6NQ7RKgFnz0-u_uYuqlanuwf__X0mr0siOoesbC7U5aFARHK2Eb120IMAhDAN6LCNpx6gJOVpv6rpmLJ0f_6K59nkbZ-6fOj-Mbu4Bz0Vv0avGdvUwq9FW1HROSE3Lwaj6PEw4sZ_i84QfjgHt7KIkxXyGgzv98JlebTMPFie93EgASoJdXMtZWFzdC0yMPsD.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0pDEyWzNUAIBr08So6lvGbPljdelrG7-k7XagfyISG7_59-95cjZX0gbknvSrF3uPA"group-title="CINE Y SERIES",CINECLUB FHD
-https://servilive.com:3176/live/cineclublive.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0KBKhum_0y4-0yY8YJLqHwIjF3uNDTsFuA&usqp=CAU"group-title="CINE Y SERIES",REC ONLINE TV HD
-https://master.tucableip.com/reconline/live/video.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE Y SERIES", CIUDAD MAGAZINE FHD
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="CINE Y SERIES", PLANETA TV FHD
