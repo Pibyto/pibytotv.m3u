@@ -1820,6 +1820,15 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.imgur.com/h7n4RbM?r"group-title="CINE Y SERIES", ZPTV
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"group-title="CINE Y SERIES",CINE NETFLIX FHD 1
 http://soberon.us:25461/live/bulln3w/s0beron/3709.m3u8
 
