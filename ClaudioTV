@@ -1824,6 +1824,8 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/h5mGowi_1pK7-i-RnjsINVW75HhI4n1lSz9UXDX91UcxlBgN0Skb7yQYAH5FudjnusO2"group-title="CINE Y SERIES",  CANAL 57
+https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png"group-title="CINE Y SERIES",READY
@@ -2810,6 +2812,115 @@ https://srv1.mediastreamperu.com:8081/8004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png"group-title="CINE Y SERIES",ANDES TV
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://comoayer.weebly.com/uploads/4/6/7/8/46782355/published/1498d916-1440-4682-a5f0-9cee9d59c09d.png?1628906296"group-title="CINE Y SERIES", RETROPLAY TV
+https://v4.tustreaming.cl:443/retroplaytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/800px-Logo_TVE-Internacional.svg.png"group-title="CINE Y SERIES", RED TVE 
+https://s1.tvdatta.com:3707/live/redtvelive.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2FlH43M3O5ySAzltsmgCiUoVDyzyG79rEA&usqp=CAU"group-title="CINE Y SERIES",CGTN ESPAÑOL
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg"group-title="CINE Y SERIES", TVS 
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLxkc2GWYAIQOt6.png"group-title="CINE Y SERIES", GUAYMATE HD
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_N9oMWZ_H0A/maxresdefault.jpg"group-title="CINE Y SERIES",DAJA TV
+https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKK77vOrOiKIzB9DjAY_co8pzN9RIiNcnDng&usqp=CAU"group-title="CINE Y SERIES",GTV
+https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DocrCiBPYOOoeWmd0MY7yodjmNrC4l0Hg8w_9wuiKb2td4y3rxgpTyzBafTdeB6yhFI"group-title="CINE Y SERIES", VISION TV
+http://iptv.streamhispanatv.net:25461/playgt/123456/7
+
+#EXTINF:-1 tvg-logo="https://autonomatv.cl/wp-content/uploads/2021/07/AUTONOMA-tv-1-ok-chico-2-272x147.png"group-title="CINE Y SERIES",AUTONOMA TV
+https://5eff35271151c.streamlock.net:1936/8144/8144/chunklist_w1273720400.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAEZbpNJYF8k2IMyU7KIkmPyvfQGOCsewdw&usqp=CAU"group-title="CINE Y SERIES",CREO TV
+https://srv1.mediastreamperu.com:8081/creotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.6435-9/87045777_108496130742919_4190421276549971968_n.png?stp=cp0_dst-png_p64x64&_nc_cat=105&ccb=1-5&_nc_sid=85a577&_nc_ohc=P8ml6fBzE2IAX-QiGN7&_nc_ht=scontent.feze8-2.fna&oh=00_AT8LCSIGRXohYD-333xTLImrjmK0fXgA73o5HfDfiwwxQQ&oe=626B625C"group-title="CINE Y SERIES",CR TELEVISIÓN
+https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWF87u9p7dYcrU6gyeIiNkLKNS_r_vOmlQA&usqp=CAU"group-title="CINE Y SERIES",VISION NDV
+https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/YnVlbmEudHZfc2NyZWVuXzBfMTU1NTAwOTI2NV8wNDk/screen-0.jpg?fakeurl=1&type=.jpg"group-title="CINE Y SERIES",BUENA TV
+https://cdn4.hostlagarto.com:8081/static/buenatv/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NmbZAZ4dllR4dWWa8YjJxjCWJxE-o7WcvA&usqp=CAU"group-title="CINE Y SERIES",MEGAVISIÓN 
+http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOwY1A-sA1J8U8Mkjs5sgVh28tkI2ibPDp0aLPO=w1080-h608-p-no-v0"group-title="CINE Y SERIES",TELERADIO NORTE TV
+https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXgdC5h23zXwbKUBrNP6I5BhzQ2fwvCHNLg&usqp=CAU"group-title="CINE Y SERIES", CARUCOLA TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvANtAyFYs73TtEHCGxJ7W1HUdxFKFNMtHNQ&usqp=CAU"group-title="CINE Y SERIES", ALTERNATIVA TV
+https://srv2.zcast.com.br:443/carlos2469/carlos2469/chunklist_w332280446.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV66FkP0sE0y7cgUSsZOj-6xz07SvG3HkRYA&usqp=CAU"group-title="CINE Y SERIES",ASIRITV
+https://video2.lhdserver.es/asiritv/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png"group-title="CINE Y SERIES",TVS MARACAY
+http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist_w365987513.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SeRL2NVnyJS_gGhZ9L6ZuTj9tNJW5iRLwA&usqp=CAU"group-title="CINE Y SERIES", VISIÓN PLUS TV
+https://v2.tustreaming.cl:443/visionplustv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIIyp3MBRITAek3jMYIGj33e6meV5MBoxRA&usqp=CAU"group-title="CINE Y SERIES",DIGITAL VISION
+https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w974060221.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg"group-title="CINE Y SERIES",DANTV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Seotvprovincias.jpg"group-title="CINE Y SERIES",SEO TV HD
+http://etvhome.com:25461/jose5/jose/148322
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK_Cn63dN18vD_g4RVPy_NLCF7j0rRUxZofQ&usqp=CAU"group-title="CINE Y SERIES", CANAL 36
+http://rtmp.info:8081/anexiontv/envivo/chunklist_w1084858600.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr-300x300-1525980274.jpg"group-title="CINE Y SERIES", MICROVISION HD
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://theitseries.com/wp-content/uploads/2020/10/Telenord-Canal-12-Live-TV-Channel-Dom-min.jpg"group-title="CINE Y SERIES", TELENORD 12
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w805979062.m3u8
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/bellavision.jpg"group-title="CINE Y SERIES", BELLAVISION HD
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8W616vsftkbMPWnQACNcjuXX9m95VDlD9mCqo66SZBOBH94e1&s"group-title="CINE Y SERIES", ATACAMATV
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://teleoriental.com.do/wp-content/uploads/2021/03/cropped-teleoriental.jpg"group-title="CINE Y SERIES", TELE ORIENTAL DIGITAL
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/84/d9/5d/84d95d39c4f21d5774383f124b674ab5.jpg"group-title="CINE Y SERIES", MEGAVISIÓN
+https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Canal_3_Guatemala.png/revision/latest/scale-to-width-down/200?cb=20200408010051&path-prefix=es"group-title="CINE Y SERIES",CANAL 3
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3033,15 +3144,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f800077
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJr7ereT0NYT0sDqDKL43B1UXL0I7OiwgaRA&usqp=CAU"group-title="CINE Y SERIES",  CANAL 57
-https://593b04c4c5670.streamlock.net/8148/8148/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Seotvprovincias.jpg"group-title="CINE Y SERIES",SEO TV HD
-http://etvhome.com:25461/jose5/jose/148322
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK_Cn63dN18vD_g4RVPy_NLCF7j0rRUxZofQ&usqp=CAU"group-title="CINE Y SERIES", CANAL 36
-http://rtmp.info:8081/anexiontv/envivo/chunklist_w1084858600.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="CINE",CINE SONY
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
@@ -3058,145 +3165,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091
 
 
 
-#EXTINF:-1 tvg-logo="https://comoayer.weebly.com/uploads/4/6/7/8/46782355/published/1498d916-1440-4682-a5f0-9cee9d59c09d.png?1628906296"group-title="CINE Y SERIES", RETROPLAY TV
-https://v4.tustreaming.cl:443/retroplaytv/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/800px-Logo_TVE-Internacional.svg.png"group-title="CINE Y SERIES", RED TVE 
-https://s1.tvdatta.com:3707/live/redtvelive.m3u8?WebM3UCL
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2FlH43M3O5ySAzltsmgCiUoVDyzyG79rEA&usqp=CAU"group-title="CINE Y SERIES",CGTN ESPAÑOL
-https://livees.cgtn.com/1000e/prog_index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2016/06/tvs.jpg"group-title="CINE Y SERIES", TVS 
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLxkc2GWYAIQOt6.png"group-title="CINE Y SERIES", GUAYMATE HD
-https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_N9oMWZ_H0A/maxresdefault.jpg"group-title="CINE Y SERIES",DAJA TV
-https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKK77vOrOiKIzB9DjAY_co8pzN9RIiNcnDng&usqp=CAU"group-title="CINE Y SERIES",GTV
-https://stream.oursnetworktv.com/latin/gardeniasTv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DocrCiBPYOOoeWmd0MY7yodjmNrC4l0Hg8w_9wuiKb2td4y3rxgpTyzBafTdeB6yhFI"group-title="CINE Y SERIES", VISION TV
-http://iptv.streamhispanatv.net:25461/playgt/123456/7
-
-
-#EXTINF:-1 tvg-logo="https://autonomatv.cl/wp-content/uploads/2021/07/AUTONOMA-tv-1-ok-chico-2-272x147.png"group-title="CINE Y SERIES",AUTONOMA TV
-https://5eff35271151c.streamlock.net:1936/8144/8144/chunklist_w1273720400.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAEZbpNJYF8k2IMyU7KIkmPyvfQGOCsewdw&usqp=CAU"group-title="CINE Y SERIES",CREO TV
-https://srv1.mediastreamperu.com:8081/creotv/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.6435-9/87045777_108496130742919_4190421276549971968_n.png?stp=cp0_dst-png_p64x64&_nc_cat=105&ccb=1-5&_nc_sid=85a577&_nc_ohc=P8ml6fBzE2IAX-QiGN7&_nc_ht=scontent.feze8-2.fna&oh=00_AT8LCSIGRXohYD-333xTLImrjmK0fXgA73o5HfDfiwwxQQ&oe=626B625C"group-title="CINE Y SERIES",CR TELEVISIÓN
-https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWF87u9p7dYcrU6gyeIiNkLKNS_r_vOmlQA&usqp=CAU"group-title="CINE Y SERIES",VISION NDV
-https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/YnVlbmEudHZfc2NyZWVuXzBfMTU1NTAwOTI2NV8wNDk/screen-0.jpg?fakeurl=1&type=.jpg"group-title="CINE Y SERIES",BUENA TV
-https://cdn4.hostlagarto.com:8081/static/buenatv/playlist.m3u8?DVR
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NmbZAZ4dllR4dWWa8YjJxjCWJxE-o7WcvA&usqp=CAU"group-title="CINE Y SERIES",MEGAVISIÓN 
-http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOwY1A-sA1J8U8Mkjs5sgVh28tkI2ibPDp0aLPO=w1080-h608-p-no-v0"group-title="CINE Y SERIES",TELERADIO NORTE TV
-https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXgdC5h23zXwbKUBrNP6I5BhzQ2fwvCHNLg&usqp=CAU"group-title="CINE Y SERIES", CARUCOLA TV
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvANtAyFYs73TtEHCGxJ7W1HUdxFKFNMtHNQ&usqp=CAU"group-title="CINE Y SERIES", ALTERNATIVA TV
-https://srv2.zcast.com.br:443/carlos2469/carlos2469/chunklist_w332280446.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV66FkP0sE0y7cgUSsZOj-6xz07SvG3HkRYA&usqp=CAU"group-title="CINE Y SERIES",ASIRITV
-https://video2.lhdserver.es/asiritv/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TVS_Venezuela.png"group-title="CINE Y SERIES",TVS MARACAY
-http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist_w365987513.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SeRL2NVnyJS_gGhZ9L6ZuTj9tNJW5iRLwA&usqp=CAU"group-title="CINE Y SERIES", VISIÓN PLUS TV
-https://v2.tustreaming.cl:443/visionplustv/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThIIyp3MBRITAek3jMYIGj33e6meV5MBoxRA&usqp=CAU"group-title="CINE Y SERIES",DIGITAL VISION
-https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w974060221.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg"group-title="CINE Y SERIES",DANTV
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.conectate-new.com/wp-content/uploads/2014/05/10192357/microvision_dr-300x300-1525980274.jpg"group-title="CINE Y SERIES", MICROVISION HD
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://theitseries.com/wp-content/uploads/2020/10/Telenord-Canal-12-Live-TV-Channel-Dom-min.jpg"group-title="CINE Y SERIES", TELENORD 12
-http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w805979062.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/bellavision.jpg"group-title="CINE Y SERIES", BELLAVISION HD
-https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8W616vsftkbMPWnQACNcjuXX9m95VDlD9mCqo66SZBOBH94e1&s"group-title="CINE Y SERIES", ATACAMATV
-https://v2.tustreaming.cl/atacamatv/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://teleoriental.com.do/wp-content/uploads/2021/03/cropped-teleoriental.jpg"group-title="CINE Y SERIES", TELE ORIENTAL DIGITAL
-https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?WebM3UCL
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/84/d9/5d/84d95d39c4f21d5774383f124b674ab5.jpg"group-title="CINE Y SERIES", MEGAVISIÓN
-https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Canal_3_Guatemala.png/revision/latest/scale-to-width-down/200?cb=20200408010051&path-prefix=es"group-title="CINE Y SERIES",CANAL 3
-https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/.m3u8
 
 
 
@@ -4097,8 +4065,6 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Ip_Man_Kung_Fu_Master-991726580-large.jpg"group-title="PELICULAS",IP MAN (2022)
-https://00f74ba44bee976f15da6244dbee23d416db97d3a1-apidata.googleusercontent.com/download/storage/v1/b/vvtas/o/tm979163_LAT_HD?jk=AFshE3WXnZGSzxY9m8iogcz3uEAxhHj2YaziHKrLdhM_gLjxl2Ux5AB4MkIAvHmJWTWOtwYkVCdYbfCOad4L3Iq4pUME0zeKNFkvon2ve42QUSsXIJ3Lkbx0VHpwOReO_Co3vd2_OoApNkyV1p4HVgG5wyxaM6VLRDGgPPikdR_ZMkI9HlW7Qa3xpjNwNFiqNI7t6eW_zaecFSzkmUhX0f0fAVZHSCooaiRlG7s6wE99ri-UL5lMmCXYq-Xcp-N9I8UQtfnoFxTET_HqjiBgGUtZiIpVMnCaWw9OqyMf-KmCwOEWHfPrS5AUpFMdrpUG89SknycDfhOwgxt8X6So91oZaWmqBiVJVmYIRfpw9XfsDcHChGoRPtfkm2oKBV2RJAJAtapZE3iKy_wEPF8Eh47f92ygV4kzaeCTP4ykWf48JgJ2Ec7WjaMOUCGI25FOZyz9wxlZ_STGk5C-0Wny_N1tjJcWo4hO1sKyIxkwIUutZISFYlgHFivgjelOiSt1-_JwaxlyMCqxu_cWHhSQ76iCC7DF6yBehrNs4DMvrpkNxCusS5ClqCRdDxwP74-0DM9JEOQc27Q1qyfgFd-EBBIFXELwlJISnf0LjhJba8uDqESMSvtsbZ6sTF1c4uxYBOWU8IHNf9wXJQJ6oVPQGZVxl-zvQLOXAkD4bpjl5-jMJ10KrTZVK93WHm9WJ0O8q3lkDTGPcrTgz18apPtg7URg6nZU-Qw-3VnNletOVz7He7KOz61p_zfNQwBRN8jm2nFnMBxDiH63OIiP6wsrI48JhzNFS076YIQ0HWxutWhxdgymtUQ9gI7z7unBNtUTrmt95k6-uRabJyNQ6LobuwxXGnya_4vkKmY9G08MGdG-U4ETtjVFCb__x9idKY4F4P9kXu9foWSmdCGGzwv9JZMx4iS5EiC4Yt9XgnZ3T8NrDahEPGIHysUcc-dEPrK1WEou0FlvmlqhE9HLAAH9rV9PKyqnT9cgH4r6g3yT7KQtXtGWhJLpmzQSqvIa2qr2Lg&isca=1
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMXh0dlUwHVpNU1A6UEFrOz4WZeQwXxK6RzQ&usqp=CAU"group-title="PELICULAS",MORBIUS
