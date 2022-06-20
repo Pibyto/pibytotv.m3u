@@ -763,6 +763,12 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca3a4ede27
 
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="ARGENTINA", CANAL 9 HD MENDOZA
+https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w392324641.m3u8
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
+https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w752832264.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PÚBLICA 23.2 TDA HD
 https://g5.mc-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 http://edge1-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
@@ -927,9 +933,6 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="ARGENTINA", CANAL 9 HD MENDOZA
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
-https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w752832264.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tputRy4YD-A/hqdefault.jpg"group-title="ARGENTINA",CANAL 4 HD
