@@ -843,6 +843,10 @@ http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/mirador.png"group-title="ARGENTINA",MIRADOR TV HD
 https://5fb24b460df87.streamlock.net:443/live-cont.ar/mirador/chunklist_w1838904242.m3u8
 
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/tec-tv.png"group-title="ARGENTINA",TEC TV TDA HD
+https://tv.initium.net.ar:3167/live/initiumlive.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg"group-title="ARGENTINA",TIERRAMIATV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
@@ -919,6 +923,10 @@ https://streaming.jtamendoza.com/hls/test.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-5-TV-Corrientes-en-vivo-Online.png"group-title="ARGENTINA",5TV HD CHACO
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w522104467.m3u8
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo.png"group-title="ARGENTINA", CANAL 8 HD CATAMARCA 
+https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w978434590.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Rb6DaY2RGFSfmJktLU4Qk1-qcnHjw9Ah6pg94p4v-PH7Em3mZgBww-widRbXeZ7SM1YZu7uS6Q=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",AZM SD
