@@ -724,6 +724,14 @@ http://edge-live14-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE 34.1 TDA HD
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://cristianoreformado7.files.wordpress.com/2014/11/enlace-updated.png"group-title="ARGENTINA", CRISTIANATV (ENLACE) HD
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV 17.3 TDA HD
 https://videohd.live:19360/8010/8010.m3u8
 
@@ -773,6 +781,13 @@ https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w7528
 https://g5.mc-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 http://edge1-hr.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png"group-title="ARGENTINA",CRONICA 24.4 TDA HD
+http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
+https://g4.vxral-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="ARGENTINA", CANAL 26 26.1 TDA HD
 https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w2142951114_b2628000_sleng.m3u8
 
@@ -798,15 +813,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b18
 
 #EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd"group-title="ARGENTINA",IP 24.5 TDA HD
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png"group-title="ARGENTINA",CRONICA 24.4 TDA HD
-http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
-https://g4.vxral-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cristianoreformado7.files.wordpress.com/2014/11/enlace-updated.png"group-title="ARGENTINA", CRISTIANATV (ENLACE) HD
-https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
 
 
@@ -915,11 +921,10 @@ https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="ARGENTINA",TV+  HD
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
-https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2pJfvIMSGtxW32TGywbUxzwBHD4kJ7zmDwA&usqp=CAU"group-title="ARGENTINA",CANAL 9 CHABAS HD
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CpQFZIfz8deNON1VCx-rlBJmBquMkp5PEwjZ9j6AgaBflWEqOSSGIhedP1Og5-zwWQa2RNq_Vi4IrKGxp_5U-y7EPphuFAcx1-NACF1pHL-UUNADMt5E4RRK_F_ceI9PcF0fs3Jt87acZOP_iLVou_rIOd2JwPRUJjV52_16i6qr7P6WizjY_-eA-_bzzYPPXVvJQP3CtUu2zrCNxYFOiaprVx2I1sBEItYYBbef6lQzfedJ7zFABgCmHARmmkg7E_fa_BmfLTkUbn7az1AJlo-vbAlz_jL1L3cD0Tg07bGjFuqJdFYi8p17WY6619GIVaxbIAlrfiDL5Pvye8R6QM_2tdXckjM0DrVZiLZcw_dNGpwzyJZbJ0ELPlcp7mHx26HObl-jlc03f6a0doHaCCIOCxyWeXREtyiDNnM5PkWW4a7qaZ2p0m1t-qjQ-KwRlpAzqQx6_MN8170or5G11aTklTYPYhfsWLPr6UO4aQwaJR4F3sgtfa--gXe4XWkG-VY4pCPpb-V1SAMjl7GOj07CM-r4jx_s4c4MVqwDYq1LnHB1sLwaRQ59HkLEhGDrCe38HHQ2ZQgLiKOC8DOKd2ev_cv5fjAHGZ615z3-Crnvu3wSPccya4qPDCh9WlpajqZWR61fFoiXWJLRLwyIz91VXCOFx2W9UUSrAufniX4ChrRhnBWWvvgRJsCM8ZVNcJIiiRye9i56BoZeuMtaVIohqLGu9jLyxE7Aqd560lEjAY-alEb1e0OtY3DxTHd7V-UMifnoIPfMi6EdsMKCN3Jh8pSoYCacTIsLk5RHZJgt6Rkah9C6go5B_l6PkrLv4y3Ex34L6-JBe2RzXXLBQ6vuy3Wv-WJt3jw6l_WJpTm3tZ2I98w8Ggz9D77SsVXjcL3E8LAgASoJZXUtd2VzdC0yMIAE.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA LANUS SD
 https://panel.dattalive.com/8012/8012/playlist.m3u8
@@ -997,7 +1002,8 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 https://cnnsanjuan.com:9999/zonda/zonda/chunks.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://cvinoticias.com/wp-content/uploads/2022/02/cvi-noticias-peque-no.png"group-title="ARGENTINA",CVI HD MISIONES 
+https://panel.dattalive.com:443/8078/8078/chunklist_w837890566.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ32g0YR_QkcRiiyjMK7FlJuT3GnLVh5tXSw&usqp=CAU"group-title="ARGENTINA",BLU HD 29.1 TDA HD
