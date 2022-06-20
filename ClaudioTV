@@ -900,6 +900,18 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://g2.vxral-slo.transport.edge-access.net:443/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_720p/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://graffica.info/wp-content/uploads/2017/04/MTV_Logo_2010.svg_-e1491986765105-1200x900.png"group-title="ARGENTINA",MTV HD
+http://45.167.250.116:20023/play/a0im/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png"group-title="ARGENTINA",MUSIC TOP HD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/power-tv.png"group-title="ARGENTINA",POWER TV HD
+https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="ARGENTINA",TV+  HD
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
@@ -955,6 +967,8 @@ https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telpin-Canal-2-en-vivo-Online.png"group-title="ARGENTINA",TELPIN TV 2 HD
+https://wowza.telpin.com.ar:1935/telpintv/ttv.stream/playlist.m3u8
 
 
 
