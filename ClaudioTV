@@ -3096,6 +3096,26 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4e/Baby_TV_%282009-.n.v.%29.png/revision/latest/scale-to-width-down/250?cb=20210319144454"group-title="INFANTIL",BABY TV HD
+http://45.167.250.116:20023/play/a0ii/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2021/12/logo-cartoonito-black.png"group-title="INFANTIL",CARTOO-NITO
+https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png"group-title="INFANTIL", DISNEY CHANNEL
+https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/2000?cb=20210617173806&path-prefix=es"group-title="INFANTIL",DIANEY JR
+https://cdn.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180402/hpe/kisspng-cartoon-network-logo-television-show-ben-10-cartoon-network-5ac27ec8cacd51.4124730615226958808307.jpg"group-title="INFANTIL",CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="INFANTIL",TOONCAST
+https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
 
 
@@ -3113,27 +3133,17 @@ https://tinyurl.com/y976r32k
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="INFANTIL",TOONCAST
-https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
 #EXTINF:-1 tvg-logo="https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8"group-title="INFANTIL",CANELA KIDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Azteca_7_variante_blanca_2021.png/640px-Azteca_7_variante_blanca_2021.png"group-title="INFANTIL", AZTECA 7 HD
-http://gratis.shortgod.com/nuevaversionenshortgod/tv4.php?c=1&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png"group-title="INFANTIL", DISNEY CHANNEL
-https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/2000?cb=20210617173806&path-prefix=es"group-title="INFANTIL",DIANEY JR
-https://cdn.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2021/12/logo-cartoonito-black.png"group-title="INFANTIL",CARTOO-NITO
-https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
 
 
 
@@ -3168,19 +3178,17 @@ https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180402/hpe/kisspng-cartoon-network-logo-television-show-ben-10-cartoon-network-5ac27ec8cacd51.4124730615226958808307.jpg"group-title="INFANTIL",CARTOON NETWORK
-https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png"group-title="INFANTIL",ANIPLUS
-https://stmv1.voxhdnet.com:443/aniplus/aniplus/chunklist_w1614070666.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://energeek.cl/wp-content/uploads/2021/12/logo_psd.png"group-title="INFANTIL", ENERGEEK 1
-https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://energeek.cl/wp-content/uploads/2021/12/logo_psd.png"group-title="INFANTIL",ENERGEEK 2
-https://5eff35271151c.streamlock.net:1936/8074/8074/chunklist_w2077431113.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtg6jNP81PbHbLNWw_A6IJNJV-Mh-DtVHUgw&usqp=CAU"group-title="INFANTIL", NARUTO
