@@ -1916,6 +1916,18 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 https://multimedia.tmcreativos.com:1936/edgartv/edgartv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRn7MLspPwiS6I5ZdpxDaLtL4AVOrLMnuKTup-f=s900-c-k-c0x00ffffff-no-rj"group-title="CINE Y SERIES",74 HD
+https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w882023652.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/169-1696229_home-logo-voice-over-radio-hd-png-download.png"group-title="CINE Y SERIES",VOICE OVER HD
+https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://apksos.com/storage/images/com/sacnet/gca/telecom/multizonestelevision/com.sacnet.gca.telecom.multizonestelevision_1.png"group-title="CINE Y SERIES", MULTIZONAS HD
+https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="CINE Y SERIES", SOMOS DEL ESTE FHD
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8
 
