@@ -3111,6 +3111,20 @@ https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/2000?cb=20210617173806&path-prefix=es"group-title="INFANTIL",DIANEY JR
 https://cdn.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png"group-title="INFANTIL", Nick HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png"group-title="INFANTIL", Nick JR HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png"group-title="INFANTIL", Discovery Kids
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180402/hpe/kisspng-cartoon-network-logo-television-show-ben-10-cartoon-network-5ac27ec8cacd51.4124730615226958808307.jpg"group-title="INFANTIL",CARTOON NETWORK
 https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
 
@@ -3184,10 +3198,12 @@ https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://energeek.cl/wp-content/uploads/2021/12/logo_psd.png"group-title="INFANTIL", ENERGEEK 1
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://energeek.cl/wp-content/uploads/2021/12/logo_psd.png"group-title="INFANTIL",ENERGEEK 2
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 
 
