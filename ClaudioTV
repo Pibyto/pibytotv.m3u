@@ -728,11 +728,11 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u
 https://videohd.live:19360/8010/8010.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-San-Juan-en-vivo-Online.png"group-title="ARGENTINA",CANAL 4 SAN JUAN
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-San-Juan-en-vivo-Online.png"group-title="ARGENTINA",CANAL 4 HD SAN JUAN
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1276879565.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="ARGENTINA", CANAL 4 JUJUY HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="ARGENTINA", CANAL 4 HD JUJUY
 http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 
 
@@ -741,7 +741,7 @@ http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="ARGENTINA",MULTIVISION SALTA HD
+#EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="ARGENTINA",MULTIVISION HD SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
@@ -774,7 +774,7 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w21429511
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/chunklist_w2091133983.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://canal6moreno.com/wp-content/uploads/2016/04/header728x457.png"group-title="ARGENTINA",CANAL 6 MORENO
+#EXTINF:-1 tvg-logo="https://canal6moreno.com/wp-content/uploads/2016/04/header728x457.png"group-title="ARGENTINA",CANAL 6 MORENO HD
 https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/.m3u8
 
 
@@ -836,17 +836,17 @@ http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es"group-title="ARGENTINA",CANAL RURAL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es"group-title="ARGENTINA",CANAL RURAL HD
 https://cda2.alsolnet.com:443/elrural/live/chunklist_w1329267524.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_64591.png"group-title="ARGENTINA", ARGENTINISIMA SATELITAL
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_64591.png"group-title="ARGENTINA", ARGENTINISIMA SATELITAL HD
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png"group-title="ARGENTINA", CNN En Español HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png"group-title="ARGENTINA", CNN EN ESPAÑOL HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 
 
@@ -890,14 +890,14 @@ https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2pJfvIMSGtxW32TGywbUxzwBHD4kJ7zmDwA&usqp=CAU"group-title="ARGENTINA",CANAL 9 CHABAS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2pJfvIMSGtxW32TGywbUxzwBHD4kJ7zmDwA&usqp=CAU"group-title="ARGENTINA",CANAL 9 CHABAS HD
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CpQFZIfz8deNON1VCx-rlBJmBquMkp5PEwjZ9j6AgaBflWEqOSSGIhedP1Og5-zwWQa2RNq_Vi4IrKGxp_5U-y7EPphuFAcx1-NACF1pHL-UUNADMt5E4RRK_F_ceI9PcF0fs3Jt87acZOP_iLVou_rIOd2JwPRUJjV52_16i6qr7P6WizjY_-eA-_bzzYPPXVvJQP3CtUu2zrCNxYFOiaprVx2I1sBEItYYBbef6lQzfedJ7zFABgCmHARmmkg7E_fa_BmfLTkUbn7az1AJlo-vbAlz_jL1L3cD0Tg07bGjFuqJdFYi8p17WY6619GIVaxbIAlrfiDL5Pvye8R6QM_2tdXckjM0DrVZiLZcw_dNGpwzyJZbJ0ELPlcp7mHx26HObl-jlc03f6a0doHaCCIOCxyWeXREtyiDNnM5PkWW4a7qaZ2p0m1t-qjQ-KwRlpAzqQx6_MN8170or5G11aTklTYPYhfsWLPr6UO4aQwaJR4F3sgtfa--gXe4XWkG-VY4pCPpb-V1SAMjl7GOj07CM-r4jx_s4c4MVqwDYq1LnHB1sLwaRQ59HkLEhGDrCe38HHQ2ZQgLiKOC8DOKd2ev_cv5fjAHGZ615z3-Crnvu3wSPccya4qPDCh9WlpajqZWR61fFoiXWJLRLwyIz91VXCOFx2W9UUSrAufniX4ChrRhnBWWvvgRJsCM8ZVNcJIiiRye9i56BoZeuMtaVIohqLGu9jLyxE7Aqd560lEjAY-alEb1e0OtY3DxTHd7V-UMifnoIPfMi6EdsMKCN3Jh8pSoYCacTIsLk5RHZJgt6Rkah9C6go5B_l6PkrLv4y3Ex34L6-JBe2RzXXLBQ6vuy3Wv-WJt3jw6l_WJpTm3tZ2I98w8Ggz9D77SsVXjcL3E8LAgASoJZXUtd2VzdC0yMIAE.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA LANUS SD
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",13 JUJUY HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",13 HD JUJUY
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 
@@ -905,11 +905,11 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 https://streaming.jtamendoza.com/hls/test.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-5-TV-Corrientes-en-vivo-Online.png"group-title="ARGENTINA",5TV CHACO
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-5-TV-Corrientes-en-vivo-Online.png"group-title="ARGENTINA",5TV HD CHACO
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w522104467.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Rb6DaY2RGFSfmJktLU4Qk1-qcnHjw9Ah6pg94p4v-PH7Em3mZgBww-widRbXeZ7SM1YZu7uS6Q=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",AZM
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Rb6DaY2RGFSfmJktLU4Qk1-qcnHjw9Ah6pg94p4v-PH7Em3mZgBww-widRbXeZ7SM1YZu7uS6Q=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",AZM SD
 https://live.canalnueve.tv/canal.m3u8
 
 
@@ -921,7 +921,7 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="ARGENTINA", CANAL 9 MENDOZA HD
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="ARGENTINA", CANAL 9 HD MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w752832264.m3u8
 
@@ -953,11 +953,11 @@ http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/vtv-mendoza.png"group-title="ARGENTINA",VTV MENDOZA
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/vtv-mendoza.png"group-title="ARGENTINA",VTV HD MENDOZA
 https://5f700d5b2c46f.streamlock.net/vtvmendoza/vtvmendoza/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-10-san-rafael.png"group-title="ARGENTINA",CANAL 10 SAN RAFAEL HD MENDOZA
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-10-san-rafael.png"group-title="ARGENTINA",CANAL 10 HD MENDOZA
 https://streamcasthd.com:1936/tvdiez/tvdiez/chunklist_w1569906524.m3u8
 
 
@@ -1086,11 +1086,11 @@ https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/chunklis
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tXAlGJ2CGUZa83ai_ZASZrU8wMktFAjTZw&usqp=CAU"group-title="ARGENTINA",CANAL 5 TV COLONIA AVELLANEDA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tXAlGJ2CGUZa83ai_ZASZrU8wMktFAjTZw&usqp=CAU"group-title="ARGENTINA",CANAL 5 TV HD COLONIA AVELLANEDA
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtn_sH71Szo3UAexmNWz9t-OLuBfyW1r_NTA&usqp=CAU"group-title="ARGENTINA",TELEMIX!
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtn_sH71Szo3UAexmNWz9t-OLuBfyW1r_NTA&usqp=CAU"group-title="ARGENTINA",TELEMIX! HD
 https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 
@@ -1107,7 +1107,7 @@ http://66.128.32.245/output/iteltv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal_9_Litoral_logo_2021.png"group-title="ARGENTINA",CANAL 9 LITORAL ENTRE RIOS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal_9_Litoral_logo_2021.png"group-title="ARGENTINA",CANAL 9 LITORAL HD ENTRE RIOS
 https://stream.arcast.live:443/ahora/ahora/chunklist_w66127673.m3u8
 
 
@@ -1116,7 +1116,7 @@ https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
 https://stmvideo1.livecastv.com:443/canal6er/canal6er/chunklist_w1935082922.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://noticiasgualeguay.com/wp-content/uploads/2019/09/logocanal2-x2.png"group-title="ARGENTINA", CANAL 2 GUALEGUAY
+#EXTINF:-1 tvg-logo="https://noticiasgualeguay.com/wp-content/uploads/2019/09/logocanal2-x2.png"group-title="ARGENTINA", CANAL 2 HD GUALEGUAY
 https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/chunklist_w1226376512.m3u8
 
 
@@ -1130,7 +1130,7 @@ https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.6435-1/175906319_1295101140885738_6957459900438270003_n.jpg?stp=cp0_dst-jpg_e15_p480x480_q65&_nc_cat=102&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=d0s40yZ1xt0AX9tY-WK&_nc_ht=scontent.feze8-2.fna&oh=00_AT_-2a9YsabqHtJH7wtqLCIugHJ2tgqfIMYDGtf69ewIwg&oe=62915028"group-title="ARGENTINA",CANAL 5 DEL PUEBLO
 https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="ARGENTINA",RTV CABLE JUJUY HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MIPx_jwl1b8/YIIO2nIZJJI/AAAAAAABB4k/cFlUxyEcnB4HPw1-rjH77cyyscKnWHc3wCK8BGAsYHg/s512/2021-04-22.png" group-title="ARGENTINA",RTV CABLE HD JUJUY
 https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyYlJOaOPx8Hgs_wnk8-D4CEEzymXNtDdVA&usqp=CAU"group-title="ARGENTINA",CANAL 6 PLUS TV HD
