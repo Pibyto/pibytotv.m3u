@@ -892,6 +892,12 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 https://streaming.jtamendoza.com/hls/test.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-5-TV-Corrientes-en-vivo-Online.png"group-title="ARGENTINA",5TV CHACO
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w522104467.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Rb6DaY2RGFSfmJktLU4Qk1-qcnHjw9Ah6pg94p4v-PH7Em3mZgBww-widRbXeZ7SM1YZu7uS6Q=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",AZM
+https://live.canalnueve.tv/canal.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_yNR7nXg_S4xD8dP_daS3YtgT1PQukGGlbQ&usqp=CAU"group-title="ARGENTINA",EL CHAVO DEL 8 
