@@ -1896,8 +1896,19 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 
 
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="CINE Y SERIES",LA VOZ TV
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="CINE Y SERIES",COSMOS TV HD
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0pDEyWzNUAIBr08So6lvGbPljdelrG7-k7XagfyISG7_59-95cjZX0gbknvSrF3uPA"group-title="CINE Y SERIES",CINECLUB FHD
+https://servilive.com:3176/live/cineclublive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://apksos.com/storage/images/com/sacnet/gca/telecom/multizonestelevision/com.sacnet.gca.telecom.multizonestelevision_1.png"group-title="CINE Y SERIES", MULTIZONAS TELEVISIÓN HD
@@ -1932,8 +1943,6 @@ https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0pDEyWzNUAIBr08So6lvGbPljdelrG7-k7XagfyISG7_59-95cjZX0gbknvSrF3uPA"group-title="CINE Y SERIES",CINECLUB FHD
-https://servilive.com:3176/live/cineclublive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
@@ -1950,8 +1959,6 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
-https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.retvrd.com/wp-content/uploads/2022/02/cropped-LOGO.png"group-title="CINE Y SERIES",R&E TELEVISIÓN
@@ -1987,8 +1994,6 @@ https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="CINE Y SERIES",COSMOS TV HD
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s296983/images/logod.jpg?t=158076"group-title="CINE Y SERIES",LA RUTA TV
 https://cdn7.streamgato.us:3654/live/larutatvlive.m3u8
@@ -2183,8 +2188,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="CINE Y SERIES",LA VOZ TV
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
 
 
