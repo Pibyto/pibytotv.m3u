@@ -1900,6 +1900,14 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ctv.jpg"group-title="CINE Y SERIES",CTV EL CANAL DE TODOS
+https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="CINE Y SERIES",TV+ HD
+https://streamcasthd.com:19360/tvmas/tvmas.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="CINE Y SERIES",LA VOZ TV
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
@@ -2001,8 +2009,6 @@ https://cdn7.streamgato.us:3654/live/larutatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EikIb10XYAIH9L2?format=jpg&name=large"group-title="CINE Y SERIES", ALEGRANDO TV
 https://cdn2.streamgato.us:443/alegrandotv/alegrandotv/chunklist_w1578055650.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ctv.jpg"group-title="CINE Y SERIES",CTV EL CANAL DE TODOS
-https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/multivision-300x300-1.png"group-title="CINE Y SERIES",MULTIVISION
 https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
@@ -2021,22 +2027,12 @@ http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3U
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="CINE Y SERIES",TVR DIGITAL HD
 https://vsd69.mycdn.me:443/hls/1698824391191.m3u8/sig/FWNNsGNl9b0/expires/1655910688169/srcIp/186.132.52.186/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd69.mycdn.me:443/hls/1698824391191.m3u8/sig/xSVOtXt5cRo/expires/1655675083525/srcIp/186.132.107.247/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd137.mycdn.me:443/hls/1698824391191.m3u8/sig/DZJQz1YrLqk/expires/1655375531404/srcIp/186.132.54.70/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd157.mycdn.me:443/hls/1698824391191.m3u8/sig/5hD8nw42VEU/expires/1655286675713/srcIp/186.132.17.18/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://imagenestotales.com/wp-content/uploads/2018/04/depositphotos_71252071-stock-photo-peru-flag-map.jpg"group-title="CINE Y SERIES", Peru Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="CINE Y SERIES",TV+ HD
-https://streamcasthd.com:19360/tvmas/tvmas.m3u8
-
-
 
 
 
