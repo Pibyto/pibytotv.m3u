@@ -16,6 +16,15 @@ https://peerlook.ru:443/static/streaming-playlists/hls/0272b11e-5141-4401-8e4f-1
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Incompatibles_2-959742636-mmed.jpg"group-title="PELICULAS", INCOMPATIBLES 2 HD (2022)
 https://hue5e3.cfeucdn.com/silverlight/secip/156028/22927/j891_x4bWHf3fOPrUJ1S7A/MTg2LjEzMi41Mi4xODY=/1655871551/hls-vod-s0013/flv/api/files/videos/2022/05/13/16524284060rn50.mp4.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMXh0dlUwHVpNU1A6UEFrOz4WZeQwXxK6RzQ&usqp=CAU"group-title="PELICULAS",MORBIUS
+http://clubtv.link/movies/morbius
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EVhmSdM0Aom0gL_RrjvknyAP33KPnKb1MA&usqp=CAU"group-title="PELICULAS", DOCTOR STRENGE 2
+https://ia802506.us.archive.org/32/items/indome/indome.mp4
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qMliNvi0Y9yS71NDAFr8lr62W42tAkgKOg&usqp=CAU"group-title="PELICULAS",UNCHARTED 2022
+https://peerlook.ru:443/static/streaming-playlists/hls/d6753f0b-54b6-48f2-8034-2f5fc79984e3/aa947e8f-3bd4-42ed-95e3-4bd2bcb5d63b-804.m3u8
 
 
 
