@@ -2515,21 +2515,19 @@ https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u
 http://edge10-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_SAGEMCOM/TyC_Internacional.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/escudo-canal-premiere.png"group-title="DEPORTES",PREMIERE HD BR
-http://soberon.us:25461/live/bulln3w/s0beron/3519.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png"group-title="DEPORTES", TNT Sports 1 Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="DEPORTES", TNT SPORTS HD 1 BR
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png"group-title="DEPORTES", TNT Sports 2 Brasil
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="DEPORTES", TNT SPORTS HD 2 BR
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png"group-title="DEPORTES", TNT Sports 3 Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="DEPORTES", TNT SPORTS HD 3 BR
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png"group-title="DEPORTES", TNT Sports 4 Brasil
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="DEPORTES", TNT SPORTS HD 4 BR
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
