@@ -720,7 +720,9 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa3u87q3PgwubS88q06a80q0D-l36EegHrSA&usqp=CAU"group-title="ARGENTINA",RAFAEL RAMÍREZ
 
+
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL HD
+https://vsd157.mycdn.me:443/hls/1698824391191.m3u8/sig/I3vTgQygXC0/expires/1655943317633/srcIp/186.132.3.129/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 https://vsd69.mycdn.me:443/hls/1698824391191.m3u8/sig/FWNNsGNl9b0/expires/1655910688169/srcIp/186.132.52.186/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
 
