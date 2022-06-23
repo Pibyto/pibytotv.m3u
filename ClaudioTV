@@ -3691,6 +3691,9 @@ https://www.yupi.live:1936/tvuncion/tvuncion/chunklist_w432622400.m3u8
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/2a78bf08-5b6f-4807-819f-ce394831f87b/VOZ%20DE%20ALERTA%20TV%20LOGO%20NUEVO.jpg"group-title="CRISTIANO",VOZ DE ALERTA TV HD
 https://5bf8041cb3fed.streamlock.net:443/AlertaTV/AlertaTV/chunklist_w999228956.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/bda4dda4f3d61d88354e6d64a8fdbc44.png"group-title="CRISTIANO", RESTAURANDO VIDAS TV HD
+https://patagoniaip.trapemn.tv:1936/cristianos/restaurandovidatv1.stream/chunks.m3u8?nimblesessionid=4936105&WebM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://obedira.s3.us-west-2.amazonaws.com/wp-content/uploads/2020/07/02131326/Obedira_RadioTV.jpg"group-title="CRISTIANO",OBEDIRA TV HD
 https://59ce1298bfb98.streamlock.net:443/obediratv/obediratv/chunklist_w931773303.m3u8
