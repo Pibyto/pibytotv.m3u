@@ -3716,6 +3716,7 @@ https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="CRISTIANO",TVR DIGITAL HD
+https://vsd157.mycdn.me:443/hls/1698824391191.m3u8/sig/nA9RiR7671E/expires/1656109466001/srcIp/186.132.81.230/clientType/0/srcAg/SAFARI_MAC/mid/3131926453783/1698824391191_high/index.m3u8
 https://vsd69.mycdn.me:443/hls/1698824391191.m3u8/sig/FWNNsGNl9b0/expires/1655910688169/srcIp/186.132.52.186/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 https://vsd69.mycdn.me:443/hls/1698824391191.m3u8/sig/xSVOtXt5cRo/expires/1655675083525/srcIp/186.132.107.247/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
@@ -3746,6 +3747,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Logo_Avivamiento_2012_only.png/revision/latest?cb=20170803225737"group-title="CRISTIANO", AVIVAMIENTO HD
+https://s3.abntelevision.com:443/avivamientosd/avivamientosd/chunks.m3u8?nimblesessionid=7037764
 https://s3.abntelevision.com:443/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8?nimblesessionid=6566838
 
 
