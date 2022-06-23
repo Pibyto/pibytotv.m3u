@@ -754,6 +754,11 @@ https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 https://videohd.live:19360/8010/8010.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2017/10/WhatsApp-Image-2020-05-28-at-10.35.45-PM-1-300x276.jpeg"group-title="ARGENTINA", URBANCRIST WORSHIP 1
+https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8?WebM3UCL
+
+
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-San-Juan-en-vivo-Online.png"group-title="ARGENTINA",CANAL 4 HD SAN JUAN
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1276879565.m3u8
 
