@@ -3683,6 +3683,18 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b0007
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s193997/images/logod.jpg?t=154090"group-title="CRISTIANO", UNCIÓN Y PODER TV HD
+https://www.yupi.live:1936/tvuncion/tvuncion/chunklist_w432622400.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/2a78bf08-5b6f-4807-819f-ce394831f87b/VOZ%20DE%20ALERTA%20TV%20LOGO%20NUEVO.jpg"group-title="CRISTIANO",VOZ DE ALERTA TV HD
+https://5bf8041cb3fed.streamlock.net:443/AlertaTV/AlertaTV/chunklist_w999228956.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_11/large.Cristovision2016-1.png.fa59fb4566f22a51745be01ce1aba44d.png"group-title="CRISTIANO",CRISTO VISIÓN TV
+https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://obedira.s3.us-west-2.amazonaws.com/wp-content/uploads/2020/07/02131326/Obedira_RadioTV.jpg"group-title="CRISTIANO",OBEDIRA TV HD
