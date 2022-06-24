@@ -3732,7 +3732,8 @@ https://vsd137.mycdn.me:443/hls/1698824391191.m3u8/sig/Th5QBzvARMU/expires/16561
 #EXTINF:-1 tvg-logo="https://www.televida.cl/wp-content/uploads/2020/12/logo-color-ok.png"group-title="CRISTIANO", TELEVIDA
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/02/Teve-Vida-Logo-nuevo.jpg"group-title="CRISTIANO", TEVE VIDA 
+#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/02/Teve-Vida-Logo-nuevo.jpg"group-title="CRISTIANO", TEVEVIDA NETWORK HD
+https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
 https://5bf8041cb3fed.streamlock.net:443/TeveVida/TeveVida/chunklist_w1065613269.m3u8
 
 
