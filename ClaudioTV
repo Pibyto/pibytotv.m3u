@@ -3690,10 +3690,15 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b0007
 
 
 
+#EXTINF:-1 tvg-logo="http://www.telebendicion.com.do/images/telebendicion_web.png"group-title="CRISTIANO",TELEBENDICION
+https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w198998264.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s193997/images/logod.jpg?t=154090"group-title="CRISTIANO", UNCIÓN Y PODER TV HD
 https://www.yupi.live:1936/tvuncion/tvuncion/chunklist_w432622400.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/23b94258ba98a26b602a2b261b046bd3.webp"group-title="CRISTIANO",ACCE TV HD
+https://5bf8041cb3fed.streamlock.net:443/AVIVAMIENTOCCETV/AVIVAMIENTOCCETV/chunklist_w796679253.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/2a78bf08-5b6f-4807-819f-ce394831f87b/VOZ%20DE%20ALERTA%20TV%20LOGO%20NUEVO.jpg"group-title="CRISTIANO",VOZ DE ALERTA TV HD
@@ -3809,17 +3814,12 @@ https://emisoras.hn:8081/cholutecatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.asomavision.com/wp-content/uploads/elementor/thumbs/logo-plmdacsiyvbjg8u0c09hltx6cm1h0q2unv4vmd17as.png"group-title="CRISTIANO",ASOMAVISION HD
 https://asomatv.duckdns.org/livestream/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.telebendicion.com.do/images/telebendicion_web.png"group-title="CRISTIANO",TELEBENDICION
-https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w198998264.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",VIVA CRISTO TV 
 https://ss5.domint.net:3050/vct_str/vctv/chunklist_w1253815518.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da1ac6a713ea63fa16f8cdf6f0571e4d.webp"group-title="CRISTIANO",AMOR I VIDA TV
 https://5bf8041cb3fed.streamlock.net:443/MiAmoriVidaTV/MiAmoriVidaTV/chunklist_w502915054.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/23b94258ba98a26b602a2b261b046bd3.webp"group-title="CRISTIANO",ACCE TV HD
-https://5bf8041cb3fed.streamlock.net:443/AVIVAMIENTOCCETV/AVIVAMIENTOCCETV/chunklist_w796679253.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkZvStF8kbhheuaSqJ5FPkisxIa_wh_JMoWw&usqp=CAU"group-title="CRISTIANO",FAMILI CHANNEL
 https://tv.caucaserver.com:3422/hybrid/play.m3u8
