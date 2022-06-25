@@ -1932,8 +1932,19 @@ https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w308076895.m3u8
 https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png"group-title="CINE Y SERIES",CTV - CAPRICHO HD
+https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png"group-title="CINE Y SERIES", ESTRELLA TV HD
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/movie-central-logo-85DE28681B-seeklogo.com.png"group-title="CINE Y SERIES",MOVIES CENTRAL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/0b1598dc-858b-45f5-a7a8-7c3ea1236a87/3.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/b6541dd8-ae92-4d29-a7fd-ce28aaacd427/3.m3u8
 
 
 
@@ -1990,8 +2001,6 @@ https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2pJfvIMSGtxW32TGywbUxzwBHD4kJ7zmDwA&usqp=CAU"group-title="CINE Y SERIES",CANAL 9 CHABAS
 
 
-#EXTINF:-1 tvg-logo="http://sitv.com.do/wp-content/uploads/2021/10/logositv.png"group-title="CINE Y SERIES",SITV HD
-http://190.122.104.221/Player/sitv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3T70Qu7i8_GesNwotL6n1ASjhwVRIB16nnQ&usqp=CAU"group-title="CINE Y SERIES",MI TV HD
@@ -2006,12 +2015,6 @@ https://ss9.domint.net:3026/ctv8_str/contanzatv/chunklist_w844120551.m3u8
 https://cm.hostlagarto.com:4445/ESTV/estv.myStream/playlist.m3u8?DVR
 
 
-#EXTINF:-1 tvg-logo=""group-title="CINE Y SERIES",AME47 HD
-https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w1117350028.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1829-294x165-FFFFFF.jpg"group-title="CINE Y SERIES",LUNA TV
-https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/h5mGowi_1pK7-i-RnjsINVW75HhI4n1lSz9UXDX91UcxlBgN0Skb7yQYAH5FudjnusO2"group-title="CINE Y SERIES",  CANAL 57
@@ -2124,14 +2127,6 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png"group-title="CINE Y SERIES",CASCARA TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w711372181.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png"group-title="CINE Y SERIES",CTV - CAPRICHO HD
-https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
-
 
 
 
@@ -2370,9 +2365,6 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/105
 https://v4.tustreaming.cl/bellatv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/movie-central-logo-85DE28681B-seeklogo.com.png"group-title="CINE Y SERIES",MOVIES CENTRAL
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/0b1598dc-858b-45f5-a7a8-7c3ea1236a87/3.m3u8
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/b6541dd8-ae92-4d29-a7fd-ce28aaacd427/3.m3u8
 
 
 
