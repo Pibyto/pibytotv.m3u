@@ -1951,6 +1951,18 @@ https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU"group-title="CINE Y SERIES",IU TV HD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png"group-title="CINE Y SERIES",TIGUERITOS TV HD
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w131595044.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/jimanitv.jpeg"group-title="CINE Y SERIES",JIMANI TV HD
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w37211739.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="CINE Y SERIES",LA VOZ TV
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
@@ -1973,10 +1985,30 @@ https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2pJfvIMSGtxW32TGywbUxzwBHD4kJ7zmDwA&usqp=CAU"group-title="CINE Y SERIES",CANAL 9 CHABAS
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cv0EKtZo5ukkTDKBRkzi62V04Y19Ufd7FsRMlEmIllUjLlSUg99D9s9rxDtuXcc2WlNVAGvmFX9119MTcc2mO5tz-TRGADngt3D_WOQ7ZqJna2qRSTFKEAPPPk-hJJUyOdTrjpoxJpeqVCPI0TnzHOHlsUF3J3X5rvXvhwNtQHalJ0Ol_g1E04InCFo-IwLPRNoOPI6JBCGQNNb7lSWwopNNrHmM0bQhm1b3svQX2r1jISqy2QVUuQbuyeYvjuDiPIhKGAkDXcgnvNVCYj2r7zMGjrubpnjUwBK3hIZVx7ro0BiOxjRQrMecUZcNMXJe_E1Eg_ndOIbmr6qdZtzyAbjJbqb5y3-uOuDK8W5lNNU_6PvVo8dWhobmIQEwI1G_PbVNCi4w0SdSf6TXKuGe4xn2HkggX0TBJ6ofyHAe6eNmTWLRm7hIRkQZNIlbOwBdqOEtVFJ4zyzBRCWZfwM6eW2_EdEpLn2-HxWFwrQGFxu9yPuHHVRF2qBmEOdzw04vzyTqhowqQ7f8_6IGVHA-jFGSiMqohPUcYPUF6gHhkKRUnbnaBdIJ3fwVf5T2pi07nmZYQfvZ7QpaMXQJ96B0lye2liyNXB-MCbyCDePcDc-4I8DPgh1w5GWG9keiHpQXdIOVagyS9-kj5F3XRToMyB9u27Iy99WCV0WrSpN1jrXrvq6Ptq2UqKrk8QewejJBY7FNBp4eCuGPPu4R3jgSxdcgPPnJKN9B3LlodRsEevyRL3rh46Ryk_BB_fJ1ce7XSHl6phV8Ljbjnk9HECCbOra3quQmz_V17ltxVJhJKBKTgsupSruuGgbXUe9g3hi5Yi3AkFqJzjSev1BaXVkCJhoMNgwlX0cx7pf_d0VQIAEqCWV1LXdlc3QtMjCEBA.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cv0EDcvRwDNz0uBQ5zjqpWhsQ42mVP0zI8he3O8pBxkEfGGm4ZVXmsFQYl02FnIA4sDQeVIdpegdPlfWLVCIdJ8uzSKxboxsdvmZEmgMWcLX49w7QZsPpjZcQgtlmXhLpNtHEFn277n76QadtD3F5TwK_XEOMtiQm4DSw2VnaSmxd0D1y-InOONvPB1M6qhIUfptEy4qKFLtg57AxV2TrD8nXYfil1qKh03cwKUPLKxoLuEwDZAKtZu34_iP9wzBNjr9s42PV-yAV5KH9YpRvb_G-Fl0uh6Bi1hI03md786Gg12IV1zDWKx9Y3Aj26JilXUTHW5_-olKs3VKcRYPMmRils3NlSdQ2Vunq8Ci647uDavh1vECd4m5BpCr4mNfLqdePmGL6m_j2dTTG554EZsOB_LsOUCNb6KrrGn4Y5NAJAEjN3R2ur6yGDKw_YCiOmGKHiHQcc7fkMFezcVsc0J-6dZHF-CyNlVPRwnb9SYjctUIxAEUjykn-VWCXkLiRdOVYevaTL9NtLSSpHpVoYEOqZvQxOzvfWgOTvDJ6yUQhLVUO1lXUf0ta0fnRdeOdCvkRm871vsWsrlg5QqKFMJRC9syTEIvgkTO5EshBv-Lj5DX93uuCjKJLOyQHD1H1CsIW2S409ua8pGBd23fpgkpTBJLmB0Piu84hLtoaHtWVtghHYH4sYG8NDAdWtwUGBg1YmFOVIS71DscRoZ7G9ykkQ7C3B5cZ7VMXtL3m2LPWJUi7JgEao0SlQGCPGaEcUmJl6EhGfKbwlMtU1ohGxwGR4jI9djY1pM092bcydz666FMyr8YNzw7szdZDppjwlfqV68wnn9We7UgyCFHdBoMKlbT5hHjpqTjm_1oIAEqCWV1LXdlc3QtMjCBBA.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvwE7RDGrweEVBseSQoFzx6w9QLsDJIbjY1ETZz_QZmkpw-o_L4Wm1rK8OWytQuw78ZTYYBEDR-nbUDf4A8FgqOseOWKmg6kawmGJUQED1BXIyx9OJO0bMl-YFresdjkS-3DRCBFGP0KCYc0PeVNZGdAVJProMSAPzZWWtg5Yi99QM3PBC3RvhJFYjxskoVtjyqKyLo6rQ9pv4uTgHarqIOY7J0HP0JdZ9xxLocm59NcMco-Wjfn-eQ77tX2itGk6mJpysuCkzvrPyKJ8xQ-wiOkc7U2Pm8oH0OG-qdqVjTqHahDNKZspZCXqfgmhgFN3pF4UJdo7EN_L-HLj4PhwGUAJrUmQh-P1RtmdgjUDomlKK3c0RXZFRxvBzQYT8wbuXjacOKZpdWLg-ub_CyHPlt_zXJ0F0IqcZ3kl4CNNDVJk-8Wt3DY3WA3zHa6olhvVGgaomVAB3a8BXOIqkVYngwehRoEt5lzlDFuFy9WQLADJw63GwaTotJNQtB86eEjxrVFH054zPwcZmAUUI2ZSn-IRjDFk3QC7pS4MJ2_scbBI6zjKpiUXkB-yj5nyl0tr3QwJ4Lnnw9JZiBEYoif5hFyQD46up5Rm_c1k2U5k-8JCD8VC9JHEdgpA05uN1x7lftKEUEMnee2ay8S9RSwrusUoE_FWJ86lgoJebxo0e_jNatlDlsLmOLI5_iLh7ymm4gr5Yt4BmW3QJ0CyvFFmE_MDNG2FethrKtSTdkO2s4MCe4jDakg6QktEvVNzHgr7cGSJLShCkfAwPNtW1fHtwP1OaEfhbuzGcY-LmjpXfghSoXbYDj_VoqrpXpnuoKDugbVt25hWe7-dJrBlrlQGgz5HwryABlsu9QI_WYgASoJZXUtd2VzdC0yMIAE.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://sitv.com.do/wp-content/uploads/2021/10/logositv.png"group-title="CINE Y SERIES",SITV HD
+http://190.122.104.221/Player/sitv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3T70Qu7i8_GesNwotL6n1ASjhwVRIB16nnQ&usqp=CAU"group-title="CINE Y SERIES",MI TV HD
+https://ss2.domint.net:3204/mitv_str/mitv/chunklist_w845587358.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRCiKK3RQWJsmqymH672maanaXnh6oywZM2eTKx=s900-c-k-c0x00ffffff-no-rj"group-title="CINE Y SERIES",CONSTANZA TV HD
+https://ss9.domint.net:3026/ctv8_str/contanzatv/chunklist_w844120551.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png?fit=462%2C112&ssl=1"group-title="CINE Y SERIES", TELEVISIÓN DEL ESTE HD
+https://cm.hostlagarto.com:4445/ESTV/estv.myStream/playlist.m3u8?DVR
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE Y SERIES",AME47 HD
+https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w1117350028.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1829-294x165-FFFFFF.jpg"group-title="CINE Y SERIES",LUNA TV
+https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/h5mGowi_1pK7-i-RnjsINVW75HhI4n1lSz9UXDX91UcxlBgN0Skb7yQYAH5FudjnusO2"group-title="CINE Y SERIES",  CANAL 57
