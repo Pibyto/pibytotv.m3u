@@ -1174,7 +1174,11 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtn_sH71Szo3UAexmNWz9t-OLuBfyW1r_NTA&usqp=CAU"group-title="ARGENTINA",TELEMIX! HD
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrjBBS8fewJNctq04_Xezy1ecqgJNTwUzX0j5x2hodmGlSYA&s"group-title="ARGENTINA", ESTRELLA TV HD
+https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtn_sH71Szo3UAexmNWz9t-OLuBfyW1r_NTA&usqp=CAU"group-title="ARGENTINA",TELEMIX! HD
 https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 
@@ -1929,8 +1933,20 @@ https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w308076895.m3u8
 https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYrjBBS8fewJNctq04_Xezy1ecqgJNTwUzX0j5x2hodmGlSYA&s"group-title="CINE Y SERIES", ESTRELLA TV HD
+https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
+
+
+
+
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtn_sH71Szo3UAexmNWz9t-OLuBfyW1r_NTA&usqp=CAU"group-title="CINE Y SERIES",TELEMIX! HD
+https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ctv.jpg"group-title="CINE Y SERIES",CTV EL CANAL DE TODOS
