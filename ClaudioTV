@@ -1559,7 +1559,7 @@ https://live-latina-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u
 
 
 
-No
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n.svg.png"group-title="PERÚ",AMÉRICA HD
 http://45.167.250.116:20023/play/a0d1/index.m3u8
 http://777back.xyz:8080/live/clauDio930/fTPTXdfbLKBe/78237.m3u8
@@ -1611,8 +1611,13 @@ https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO.png"group-title="PERÚ”, CONTACTO DEPORTIVO
+https://live.obslivestream.com:443/cdeportivo/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="CINE Y SERIES”,TELECOLOR TV
+
+
+
+#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="PERÚ”,TELECOLOR TV
 https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
 
