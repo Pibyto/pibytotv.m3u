@@ -1147,7 +1147,7 @@ https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-13-San-Luis-en-vivo-Online.png"group-title="ARGENTINA",13 SAN LUIS HD
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
-https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w58195212_b692224.m3u8
+https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w58195212_b692224.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/L1hl-IYd0fnnimNCYZDKO0hLOZgGPzRSXw29SWvAFk0-DCVMMBgwJ5DNqOLGK_660lty8K9cZA=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",SICARDITV HD
@@ -1612,6 +1612,11 @@ https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="CINE Y SERIES”,TELECOLOR TV
+https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/660898970/t192_400x400.jpg"group-title="PERÚ",CINECLUB HD
 https://servilive.com:3176/live/cineclublive.m3u8
 
@@ -1638,6 +1643,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1
 https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9buKX_Bk04NMwVg0L90MZrn29ECgoG1KcXg&usqp=CAU"group-title="PERÚ", CANAL 8
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8?WebM3UCL
 http://iptv.streamhispanatv.net:25461/playgt/123456/93
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4-Bf6ARPAepAKqGtd8bwxsxg3RoviMp52_5T2A2onbefEu_k&s"group-title="PERÚ",LIMALIVE
