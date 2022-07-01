@@ -1553,10 +1553,7 @@ https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg"group-title="PERÚ",LATINA HD
 http://soberon.us:25461/live/bulln3w/s0beron/461.m3u8
 http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/78239
-http://777back.xyz:8080/live/clauDio930/fTPTXdfbLKBe/78239.m3u8
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=40375.m3u8
-https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
-https://live-latina-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
+
 
 
 
@@ -1565,18 +1562,18 @@ https://live-latina-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n.svg.png"group-title="PERÚ",AMÉRICA HD
 http://45.167.250.116:20023/play/a0d1/index.m3u8
 http://777back.xyz:8080/live/clauDio930/fTPTXdfbLKBe/78237.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv4.php?c=5&f=.m3u8
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11611
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png"group-title="PERÚ",EXITOSA HD
 https://cu.onliv3.com/livevd1/user2_low/index.m3u8
 https://cu.onliv3.com/livevd1/user2.m3u8
 
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11623
+
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/panamericana-logo-6EB4821309-seeklogo.com.png"group-title="PERÚ",PANAMERICANA FHD
 https://cdnh71.iblups.com/hls/ptv2.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png"group-title="PERÚ",WILLAX HD
 http://soberon.us:25461/live/bulln3w/s0beron/473.m3u8
@@ -1594,8 +1591,6 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?WebM3UCL
 http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/129480
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png"group-title="PERÚ", MOVISTAR PLUS HD
-http://144.126.128.123:25461/
 
 
 
@@ -1613,10 +1608,8 @@ https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO.png"group-title="PERÚ”, CONTACTO DEPORTIVO
+#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO.png"group-title="PERÚ”,CONTACTO DEPORTIVO
 https://live.obslivestream.com:443/cdeportivo/tracks-v2a1/mono.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="PERÚ”,TELECOLOR TV
@@ -1635,7 +1628,7 @@ https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
 http://iptv.streamhispanatv.net:25461/playgt/123456/105
 
 
-#EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/04/64/37/77/360_F_464377776_4go2Oxndiken8T1BKA16LKCz4ah4BlX2.jpg"group-title="PERÚ",DMJ
+#EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/04/64/37/77/3 60_F_464377776_4go2Oxndiken8T1BKA16LKCz4ah4BlX2.jpg"group-title="PERÚ",DMJ
 https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLBSSWE48MSMKxLZCNZ0YEYupXxG8TNiK6w&usqp=CAU"group-title="PERÚ",CANAL EVELYN
