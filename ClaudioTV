@@ -63,7 +63,7 @@ http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/197640
 
 
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/335-3358778_starz-encore.png"group-title="CINE PREMIUM", STARZ ENCORE
-http://soberon.us:25461/live/bulln3w/s0beron/146.m3u8
+
 
 
 
@@ -124,9 +124,6 @@ https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaWfRarCEpNX8ONdnn2NKMCe_8IO5m3GYCww&usqp=CAU"group-title="CINE PREMIUM",ZOY TV KIDS HD
-https://master.tucableip.com/zoytvinfantil/index.m3u8
-
 
 
 
@@ -148,19 +145,19 @@ http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=16605.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Universal_Crime_logo.png"group-title="CINE PREMIUM",UNIVERSAL CRIME HD
-http://soberon.us:25461/live/bulln3w/s0beron/98.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Universal_Cinema_2021.png/revision/latest?cb=20220102014101&path-prefix=es"group-title="CINE PREMIUM",UNIVERSAL CINEMA HD
-http://soberon.us:25461/live/bulln3w/s0beron/99.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Universal_Reality_logo.png/640px-Universal_Reality_logo.png"group-title="CINE PREMIUM",UNIVERSAL REALITY HD
-http://soberon.us:25461/live/bulln3w/s0beron/101.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png"group-title="CINE PREMIUM",UNIVERSAL PREMIERE HD
-http://soberon.us:25461/live/bulln3w/s0beron/103.m3u8
+
 
 
 
@@ -381,8 +378,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-novelas-bo.png"group-title="CINE PREMIUM",SEOTV NOVELAS HD
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
-#EXTINF:-1 tvg="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ZB7myBvGpayCLqzGVO7SXlB2YnB8m8TZ_g&usqp=CAU"group-title="CINE PREMIUM",TELESERIES
-https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Alfatv.png"group-title="CINE PREMIUM", ALFA TV
@@ -458,10 +453,6 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SA
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png"group-title="CINE PREMIUM", CANAL ENCUENTRO HD
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png"group-title="CINE PREMIUM",HISTORY HD
