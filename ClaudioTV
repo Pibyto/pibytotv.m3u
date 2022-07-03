@@ -1914,6 +1914,15 @@ https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Teleantillas2004vertical.svg/revision/latest/scale-to-width-down/250?cb=20210516223621&path-prefix=es"group-title="CINE Y SERIES",TELEANTILLAS 2 HD
+https://tunzilla.com/http://51.81.106.157:8084/hls/tantillas.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTUC1Ad24OZ-kMh2iviZ9unb6mIDFkXUamxF7VO=s900-c-k-c0x00ffffff-no-rj"group-title="CINE Y SERIES",TV SAN JUAN HD
+https://5790d294af2dc.streamlock.net/8224/8224/chunklist_w841158749.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_09/large.59b567df3dae4_Telecaribe2017.png.b72e1a981efb12c791b3e69086924395.png"group-title="CINE Y SERIES",TELECARIBE HD
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?DVR
+
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png"group-title="CINE Y SERIES",TIGUERITOS TV HD
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w131595044.m3u8
@@ -2666,19 +2675,19 @@ https://alchimie-mmatv-samsung.amagi.tv:443/playlist1080_p.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="DEPORTES", BELLATOR MMA
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png"group-title="DEPORTES", BELLATOR MMA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
 
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="DEPORTES", TV FIGHT
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png"group-title="DEPORTES", TV FIGHT
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
 
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="DEPORTES", GLORY KICKBOXING TV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png"group-title="DEPORTES", GLORY KICKBOXING TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 
 
@@ -2697,7 +2706,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf
 
 
 
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/7e/7e36e802707b65c2fc16030a923928e5.jpeg"group-title="DEPORTES",TENNIS CHANNEL HD
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logoly jenx/7e/7e36e802707b65c2fc16030a923928e5.jpeg"group-title="DEPORTES",TENNIS CHANNEL HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 
