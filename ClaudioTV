@@ -1885,6 +1885,8 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3T70Qu7i8_GesNwotL6n1ASjhwVRIB16nnQ&usqp=CAU"group-title="CINE Y SERIES",MI TV HD
 https://ss2.domint.net:3204/mitv_str/mitv/chunklist_w845587358.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXA_Pd5RIpBM7WO3DjUiy79igNGj2Ht_IJ8g&usqp=CAU"group-title="CINE Y SERIES",HMTV HD
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8?nimblesessionid=229560635
 
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png"group-title="CINE Y SERIES", ESTRELLA TV HD
