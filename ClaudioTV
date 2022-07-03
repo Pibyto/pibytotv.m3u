@@ -2573,6 +2573,21 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/PX_Sports_-_Logo.png"group-title="DEPORTES",PX Sports
+https://edge-live15-sl.cvattv.com.ar/live/c7eds/PX_Sports/SA_SAGEMCOM/PX_Sports.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free-1200x675.png"group-title="DEPORTES", NBA TV
+http://edge-live15-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://laligapro.live/wp-content/uploads/2021/11/El-canal-del-Futbol-Gratis-Ecuador.png"group-title="DEPORTES",ECDF SD
+http://45.71.185.142:8500/play/a006
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png"group-title="DEPORTES",GOL TV
+http://45.71.185.142:8500/play/a03b
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png"group-title="DEPORTES", VTV HD
 http://edge-live13-sl.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
