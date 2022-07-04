@@ -3782,6 +3782,12 @@ https://vsd69.mycdn.me:443/hls/1698824391191.m3u8/sig/YNi0HUgWLAw/expires/165625
 https://vsd137.mycdn.me:443/hls/1698824391191.m3u8/sig/Th5QBzvARMU/expires/1656109888948/srcIp/186.132.81.230/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.canalisb.cl/imagenes/logo_isb.png"group-title="CRISTIANO",ISB
+https://unlimited1-cl-isp.dps.live/isb/isb.smil/isb/livestream1/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PDG7r6VLBJTS2DfkDuDbtpcGQaurrSJV6Q&usqp=CAU"group-title="CRISTIANO",EL VIVIENTE TV
+https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
 
 
 
