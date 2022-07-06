@@ -1338,6 +1338,8 @@ http://edge1-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4
 
 
 #EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy-290x166.jpg"group-title="PARAGUAY", UNICANAL HD 3.2 AIRE DIGITAL
+http://svtv.xyz:8080/Apoyemos/HVUMW/124574
+http://svtv.xyz:8080/Apoyemos/HVUMW/181906
 http://45.55.127.106/live/unicanal_mid.m3u8
 
 
@@ -1352,6 +1354,7 @@ http://edge-live14-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
 http://edge4-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Sur_TV_Itapua_2013.png/revision/latest?cb=20171021201738"group-title="PARAGUAY",SUR TV HD
+http://svtv.xyz:8080/Apoyemos/HVUMW/181906
 http://edge-live14-hr.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
 http://edge4-hr.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
 
