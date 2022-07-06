@@ -660,6 +660,13 @@ http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1sls8D3cnBZ6bUSRTtPXow-GmtUwkGcl1iw&usqp=CAU"group-title="ARGENTINA",BVC
+https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/462168942698446848/aD89IHFa_400x400.png"group-title="ARGENTINA", CANAL 7 SALTA
+https://panel.dattalive.com:443/8074/8074/playlist.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png"group-title="ARGENTINA",24h HD
