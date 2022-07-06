@@ -655,6 +655,8 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/h2mGMZp1-0Hxn3WMhJCD00GvjaCcwGy2ikTSL4MUcSW1IkV0oKXPxSWXirsuFRa76VQnwDXGxN6BcAHixdWgh8Dbj6SfrJmPLK0"group-title="ARGENTINA",DEL SUR TV HD
+http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
 
 
 
@@ -726,6 +728,14 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",CNR JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tputRy4YD-A/hqdefault.jpg"group-title="ARGENTINA",CANAL 4 HD
+http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7i6BoXpgX3L1cSee8cHM0JzPwZzTWHeo3_g&usqp=CAU"group-title="ARGENTINA", NEUQUÉN TV HD
+https://stmv1.srvstm.com/tv10/tv10/chunklist_w1756704232.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png"group-title="ARGENTINA", ESTRELLA TV HD
@@ -806,23 +816,11 @@ https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tputRy4YD-A/hqdefault.jpg"group-title="ARGENTINA",CANAL 4 HD
-http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7i6BoXpgX3L1cSee8cHM0JzPwZzTWHeo3_g&usqp=CAU"group-title="ARGENTINA", NEUQUÉN TV HD
-https://stmv1.srvstm.com/tv10/tv10/chunklist_w1756704232.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telpin-Canal-2-en-vivo-Online.png"group-title="ARGENTINA",TELPIN TV 2 HD
 https://wowza.telpin.com.ar:1935/telpintv/ttv.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/h2mGMZp1-0Hxn3WMhJCD00GvjaCcwGy2ikTSL4MUcSW1IkV0oKXPxSWXirsuFRa76VQnwDXGxN6BcAHixdWgh8Dbj6SfrJmPLK0"group-title="ARGENTINA",DEL SUR TV HD
-http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
 
 
 
