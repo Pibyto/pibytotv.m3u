@@ -1569,12 +1569,6 @@ https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO.png"group-title="PERÚ”,CONTACTO DEPORTIVO
-https://live.obslivestream.com:443/cdeportivo/tracks-v2a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="PERÚ”,TELECOLOR TV
-https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
 
 
@@ -1583,6 +1577,14 @@ https://servilive.com:3176/live/cineclublive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64UPlwR4MmmkqjiPYp1h4ry9F45c49kRzNMo4UCb5erbuncY&s"group-title="PERÚ",CANAL 41
 https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO.png"group-title="PERÚ”,CONTACTO DEPORTIVO
+https://live.obslivestream.com:443/cdeportivo/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="PERÚ”,TELECOLOR TV
+https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400"group-title="PERÚ",BARBE TV
@@ -1940,6 +1942,26 @@ https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w37211739.
 https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png"group-title="CINE Y SERIES",LA CALETA
+https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t39.30808-6/272060632_350081793784336_7065644928722778275_n.png?stp=dst-png_p206x206&_nc_cat=106&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeGksMZ6uODvNeHIS7LvysOJsisMLw4eH1iyKwwvDh4fWK5zJgM55oa4JsNf1KqfkfPeHj8DlMjFWISvLPczpJnI&_nc_ohc=5btDEAmGEcMAX-R2ioe&_nc_ht=scontent.feze8-1.fna&oh=00_AT8HBC3mBGvzXMhXWePTrjbqGTtUKbhv2DCgYdeOpl8aYQ&oe=628C2F7F"group-title="CINE Y SERIES", ATM TELEVISIÓN
+https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrY14IzkBHTBEctUYibVwM_yE5Hug6tBtR2QhrWWfUDnqa4ks&s"group-title="CINE Y SERIES", SEOTV HD
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
 https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w308076895.m3u8
 https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
@@ -2190,10 +2212,6 @@ https://ss3.domint.net:3102/v3_str/v3000/chunklist_w818897905.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlhi7flbuPzurdjzk0yblzp4V-h8NLBszbNA&usqp=CAU"group-title="CINE Y SERIES",TELE ARTE
-http://iptv.streamhispanatv.net:25461/playgt/123456/35
-
-
 #EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t1.6435-9/90221063_111244067169336_2591407769747718144_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=106&ccb=1-5&_nc_sid=85a577&_nc_ohc=upnkke_YvoYAX9b-R9Y&_nc_ht=scontent.feze8-1.fna&oh=00_AT-vwlql8CVShvt7pGgaPAAbLV_Y1B4I9B0WchR3GU9adw&oe=626E758E"group-title="CINE Y SERIES",CLAROVISION TV
 https://cdn2.streamgato.us/clarovision/clarovision/playlist.m3u8
 
@@ -2226,12 +2244,6 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.feze8-2.fna.fbcdn.net/v/t1.6435-9/72937967_2654438054614469_3410738193811636224_n.png?stp=dst-png_p206x206&_nc_cat=105&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeGC28XviYOMTa2IswxEqiTSFl8Ymv0uXgIWXxia_S5eAt5608Uvb--P4uL59UW4fsUFfrmwWQkxcMvavkH5ENRO&_nc_ohc=0vJPB9ECyt8AX9z44jB&_nc_ht=scontent.feze8-2.fna&oh=00_AT_Um_Nw-eC-0G9AGYkd6s3wBZGs-bz8ru9ugvTc_ClCCQ&oe=62AC2811"group-title="CINE Y SERIES",WTV FHD
 https://emisoras.hn:8081/wtv/tracks-v1a1/mono.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png"group-title="CINE Y SERIES",LA CALETA
-https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://sidi.tse.org.gt/catalogo/uploads/logos/57.JPG"group-title="CINE Y SERIES",NIM TV FHD
@@ -2271,10 +2283,6 @@ https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t39.30808-6/272060632_350081793784336_7065644928722778275_n.png?stp=dst-png_p206x206&_nc_cat=106&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeGksMZ6uODvNeHIS7LvysOJsisMLw4eH1iyKwwvDh4fWK5zJgM55oa4JsNf1KqfkfPeHj8DlMjFWISvLPczpJnI&_nc_ohc=5btDEAmGEcMAX-R2ioe&_nc_ht=scontent.feze8-1.fna&oh=00_AT8HBC3mBGvzXMhXWePTrjbqGTtUKbhv2DCgYdeOpl8aYQ&oe=628C2F7F"group-title="CINE Y SERIES", ATM TELEVISIÓN
-https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 
 
 
@@ -2321,27 +2329,8 @@ https://v4.tustreaming.cl/bellatv/index.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrY14IzkBHTBEctUYibVwM_yE5Hug6tBtR2QhrWWfUDnqa4ks&s"group-title="CINE Y SERIES", SEOTV HD
-https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://lahoratv.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-29-at-11.44.12-AM-300x140.jpeg"group-title="CINE Y SERIES",LA HORA TV FHD
 https://ss5.domint.net:3056/lhtv_str/lahoratv/chunklist_w1271299099.m3u8
-
-
-
-
 
 
 
