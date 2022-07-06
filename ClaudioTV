@@ -327,40 +327,48 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png"group-title="CINE PREMIUM",HBO FHD
+#EXTINF:-1 tvg-logo="tvg-logo="http://2.bp.blogspot.com/-BdSbCcDwO6A/VaKuKp1MdaI/AAAAAAAAAIA/kPmDeiMOGB0/s1600/HBO.png"group-title="CINE PREMIUM",HBO
+http://svtv.xyz:8080/Apoyemos/HVUMW/109
 http://edge6-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png"group-title="CINE PREMIUM",HBO2 FHD
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1265609.png"group-title="CINE PREMIUM",HBO2
+http://svtv.xyz:8080/Apoyemos/HVUMW/5514
 http://edge-live14-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="CINE PREMIUM",HBO PLUS FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png"group-title="CINE PREMIUM",HBO PLUS
+http://svtv.xyz:8080/Apoyemos/HVUMW/30969
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 http://edge10-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 http://edge-live14-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8?lang=en
 http://777back.xyz:8080/live/clauDio930/fTPTXdfbLKBe/73964.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.masmovilpanama.com/filemanager/photos/shares/2021/Otros/hbo/1.png"group-title="CINE PREMIUM",HBO FAMILY FHD
+#EXTINF:-1 tvg-logo="https://www.masmovilpanama.com/filemanager/photos/shares/2021/Otros/hbo/1.png"group-title="CINE PREMIUM",HBO FAMILY
+http://svtv.xyz:8080/Apoyemos/HVUMW/30984
 http://edge-live14-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="CINE PREMIUM",HBO MUNDI FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="CINE PREMIUM",HBO MUNDI
+http://svtv.xyz:8080/Apoyemos/HVUMW/30971
 http://edge10-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="CINE PREMIUM",HBO POP FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="CINE PREMIUM",HBO POP
+http://svtv.xyz:8080/Apoyemos/HVUMW/30982
 http://edge1-ccast-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.directvgo.com/content/dam/ott/web/public-landers/add-ons/HBO-signature-Logo.png"group-title="CINE PREMIUM",HBO SIGNATURE FHD
+#EXTINF:-1 tvg-logo="https://www.directvgo.com/content/dam/ott/web/public-landers/add-ons/HBO-signature-Logo.png"group-title="CINE PREMIUM",HBO SIGNATURE
+http://svtv.xyz:8080/Apoyemos/HVUMW/30975
 http://edge-live14-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
 http://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
 http://tvencasa.fun:2052/FGARCIA/FGARCIA/63427
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSULdmSIL5Mf1psDICdNGc15uCHcaeKw-4JA&usqp=CAU"group-title="CINE PREMIUM",HBO XTREME FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSULdmSIL5Mf1psDICdNGc15uCHcaeKw-4JA&usqp=CAU"group-title="CINE PREMIUM",HBO XTREME
+http://svtv.xyz:8080/Apoyemos/HVUMW/157728
 http://edge-live16-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8?lang=en
 http://edge2-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8?lang=en
 
