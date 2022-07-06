@@ -268,27 +268,6 @@ https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiOxpEy-Nd6ppZOtkptkZmCsyhLc9B4je2dg&usqp=CAU"group-title="CINE PREMIUM", HOLA TV HD
-http://edge9-sl.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/El_Gourmet_2015.png/revision/latest/scale-to-width-down/220?cb=20220118203151&path-prefix=es"group-title="CINE PREMIUM",EL GOURMET HD
-https://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png"group-title="CINE PREMIUM",FOOD NETWORK HD
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png"group-title="CINE PREMIUM",HGTV Latino
-https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png"group-title="CINE PREMIUM", E!
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png"group-title="CINE PREMIUM", Glitz
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8
-
 
 
 
@@ -299,32 +278,14 @@ http://777back.xyz:8080/live/clauDio930/fTPTXdfbLKBe/73966.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png"group-title="CINE PREMIUM", HISTORY 2
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/1200px-Sun_Channel_logo.svg.png"group-title="CINE PREMIUM",SUN CHANNEL 
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Sun_Channel/SA_SAGEMCOM/Sun_Channel
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png"group-title="CINE PREMIUM",ANIMAL PLANET HD
-https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
-http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/28560
-http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=94&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png"group-title="CINE PREMIUM",NAT GEO HD
 https://edge1.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png"group-title="CINE PREMIUM",NAT GEO WILD
-http://soberon.us:25461/live/bulln3w/s0beron/134.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.disneyadsales.com/wp-content/uploads/2019/11/das_nat-geo_nat-geo-mundo_logo-blk.png"group-title="CINE PREMIUM",NAT GEO MUNDO
-http://soberon.us:25461/live/bulln3w/s0beron/133.m3u8
 
 
 
@@ -332,33 +293,11 @@ http://soberon.us:25461/live/bulln3w/s0beron/133.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Discovery_ID_2020.svg/revision/latest/scale-to-width-down/225?cb=20201110132225&path-prefix=es"group-title="CINE PREMIUM",ID DISCOVERY HD
-https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1256266003_DiscoveryScience.png.e138efa601a4a48f46f4c00916294aa8.png"group-title="CINE PREMIUM",Discovery Science
 http://45.167.250.116:20023/play/a0fp/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png"group-title="CINE PREMIUM",Discovery Turbo
-https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/800px-TLC_Logo_Germany.svg.png"group-title="CINE PREMIUM",TLC
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png"group-title="CINE PREMIUM",Discovery World
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png"group-title="CINE PREMIUM",Discovery Theater
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png"group-title="CINE PREMIUM",Discovery H&H
-https://edge1-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 
 
 
@@ -372,7 +311,6 @@ https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png"group-title="CINE PREMIUM", DHE HD
 
 
 
