@@ -523,6 +523,7 @@ https://g4.vxral-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="ARGENTINA", AMERICA 36.1 TDA HD
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/4ec026bd-4b62-4074-adf0-a0bd23786b05:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 
