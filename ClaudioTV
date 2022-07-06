@@ -716,6 +716,73 @@ http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m
 https://g4.vxral-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="ARGENTINA", AMERICA 36.1 TDA HD
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="ARGENTINA",A24 36.3 TDA HD
+https://g1.proy-hor.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+http://edge1-ccast-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es"group-title="ARGENTINA",NET TV 27.2 TDA HD
+https://unlimited1-us.dps.live:443/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=1805814
+http://edge5-sl.cvattv.com.ar/live/c6eds/Net_TV/SA_SAGEMCOM/Net_TV.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png"group-title="ARGENTINA",TELEMAX 26.3 TDA HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd"group-title="ARGENTINA",IP 24.5 TDA HD
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/mirador.png"group-title="ARGENTINA",MIRADOR TV HD
+https://5fb24b460df87.streamlock.net:443/live-cont.ar/mirador/chunklist_w1838904242.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/tec-tv.png"group-title="ARGENTINA",TEC TV TDA HD
+https://tv.initium.net.ar:3167/live/initiumlive.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg"group-title="ARGENTINA",TIERRAMIATV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es"group-title="ARGENTINA",CANAL RURAL HD
+https://cda2.alsolnet.com:443/elrural/live/chunklist_w1329267524.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_64591.png"group-title="ARGENTINA", ARGENTINISIMA SATELITAL HD
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png"group-title="ARGENTINA", CNN EN ESPAÑOL HD
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png"group-title="ARGENTINA", CN 24/7 NEUQUÉN HD
+https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/1200px-Logo_del_canal_Encuentro.svg.png"group-title="ARGENTINA", CANAL ENCUENTRO  22.1 TDA HD
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKN8N8fNFYmsYDIK2BG_N8eAJlABse6uCdsA&usqp=CAU"group-title="ARGENTINA",RT ESPAÑOL 25.5 TDA HD
+https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg"group-title="ARGENTINA", TELESUR HD
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQqrep_bDZCcIMtK1h6HOVyp4eN7jM0_Q0A&usqp=CAU"group-title="ARGENTINA",DW ESPAÑOL HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="ARGENTINA",MULTIVISION HD SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
@@ -766,10 +833,6 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w752832264.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png"group-titl
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2017/10/WhatsApp-Image-2020-05-28-at-10.35.45-PM-1-300x276.jpeg"group-title="ARGENTINA", URBANCRIST WORSHIP 1
-https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8?WebM3UCL
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png"group-title="ARGENTINA",EL CANAL DE LA CIUDAD HD
 http://g5.mc-hor.transport.edge-access.net:80/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
 
@@ -795,71 +858,7 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png"group-title="ARGENTINA",TELEMAX 26.3 TDA HD
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd"group-title="ARGENTINA",IP 24.5 TDA HD
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="ARGENTINA", AMERICA 36.1 TDA HD
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="ARGENTINA",A24 36.3 TDA HD
-https://g1.proy-hor.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
-http://edge1-ccast-sl.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png"group-title="ARGENTINA", CN 24/7 NEUQUÉN HD
-https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es"group-title="ARGENTINA",NET TV 27.2 TDA HD
-https://unlimited1-us.dps.live:443/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=1805814
-http://edge5-sl.cvattv.com.ar/live/c6eds/Net_TV/SA_SAGEMCOM/Net_TV.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png"group-title="ARGENTINA",TN HD
-http://edge7-ccast-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/lanacionar/NXKF436PYFDRLJJB77LJU7JVQA.png"group-title="ARGENTINA",LN+ 25.3 TDA HD
-http://edge4-sl.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1024px-C5N_logo.svg.png"group-title="ARGENTINA",C5N 25.2 TDA HD
-http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/mirador.png"group-title="ARGENTINA",MIRADOR TV HD
-https://5fb24b460df87.streamlock.net:443/live-cont.ar/mirador/chunklist_w1838904242.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/tec-tv.png"group-title="ARGENTINA",TEC TV TDA HD
-https://tv.initium.net.ar:3167/live/initiumlive.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg"group-title="ARGENTINA",TIERRAMIATV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es"group-title="ARGENTINA",CANAL RURAL HD
-https://cda2.alsolnet.com:443/elrural/live/chunklist_w1329267524.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_64591.png"group-title="ARGENTINA", ARGENTINISIMA SATELITAL HD
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png"group-title="ARGENTINA", CNN EN ESPAÑOL HD
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 
 
 
@@ -867,29 +866,8 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png"group-title="ARGENTINA",24h HD
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_576.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png"group-title="ARGENTINA",KINGDOM TV 19.1 TDA HD
 https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/1200px-Logo_del_canal_Encuentro.svg.png"group-title="ARGENTINA", CANAL ENCUENTRO  22.1 TDA HD
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKN8N8fNFYmsYDIK2BG_N8eAJlABse6uCdsA&usqp=CAU"group-title="ARGENTINA",RT ESPAÑOL 25.5 TDA HD
-https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg"group-title="ARGENTINA", TELESUR HD
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQqrep_bDZCcIMtK1h6HOVyp4eN7jM0_Q0A&usqp=CAU"group-title="ARGENTINA",DW ESPAÑOL HD
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRju-GF0KHcg_6bnPfkgii8l_oWRZAS5ondHA&usqp=CAU"group-title="ARGENTINA",KZO HD
