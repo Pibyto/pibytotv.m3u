@@ -1911,8 +1911,20 @@ https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqlaMkSnaCvIuV1sBleJfciJfET2CZK257sg&usqp=CAU"group-title="CINE Y SERIES", VIWIX TV FHD
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_09/large.59b567df3dae4_Telecaribe2017.png.b72e1a981efb12c791b3e69086924395.png"group-title="CINE Y SERIES",TELECARIBE HD
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?DVR
 
 
 #EXTINF:-1 tvg-logo="http://www.telemixtelefonia.com.br/static/media/logotipo.8c86e3f5.png"group-title="CINE Y SERIES",TELEMIX! HD
@@ -1953,17 +1965,6 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w284230221.m3u8
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Moviecentral.svg/1200px-Moviecentral.svg.png"group-title="CINE Y SERIES",MOVIES CENTRAL
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/0b1598dc-858b-45f5-a7a8-7c3ea1236a87/3.m3u8
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/b6541dd8-ae92-4d29-a7fd-ce28aaacd427/3.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ctv.jpg"group-title="CINE Y SERIES",CTV EL CANAL DE TODOS
 https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 
@@ -1971,9 +1972,6 @@ https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 #EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="CINE Y SERIES",TV+ HD
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_09/large.59b567df3dae4_Telecaribe2017.png.b72e1a981efb12c791b3e69086924395.png"group-title="CINE Y SERIES",TELECARIBE HD
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?DVR
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png"group-title="CINE Y SERIES",TIGUERITOS TV HD
@@ -2030,15 +2028,6 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/LOGO-TELEXIMA-2-copy.jpg"group-title="CINE Y SERIES", TELEXIMA
 https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0KBKhum_0y4-0yY8YJLqHwIjF3uNDTsFuA&usqp=CAU"group-title="CINE Y SERIES",REC ONLINE TV HD
@@ -2201,21 +2190,6 @@ https://ss3.domint.net:3102/v3_str/v3000/chunklist_w818897905.m3u8
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/2560px-Amazon_Prime_Video_logo.svg.png"group-title="CINE Y SERIES",CINE PRIME VIDEO FHD
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlhi7flbuPzurdjzk0yblzp4V-h8NLBszbNA&usqp=CAU"group-title="CINE Y SERIES",TELE ARTE
 http://iptv.streamhispanatv.net:25461/playgt/123456/35
 
@@ -2229,33 +2203,8 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8?DVR
 
 
 
-#EXTINF:-1 tvg-logo="https://carbonmade-media.accelerator.net/17760333;640x367.jpeg"group-title="CINE Y SERIES", CINE PREMIER
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
-
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="CINE Y SERIES", CINE ESTELAR 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true
-
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="CINE Y SERIES", CINE ACCIÓN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
-
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png"group-title="CINE Y SERIES", ESTRELLAS DE ACCIÓN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="CINE Y SERIES",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
-
-
 
 
 
@@ -2279,9 +2228,6 @@ https://emisoras.hn:8081/wtv/tracks-v1a1/mono.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqlaMkSnaCvIuV1sBleJfciJfET2CZK257sg&usqp=CAU"group-title="CINE Y SERIES", VIWIX TV FHD
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png"group-title="CINE Y SERIES",LA CALETA
