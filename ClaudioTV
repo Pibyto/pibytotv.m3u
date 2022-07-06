@@ -811,6 +811,7 @@ https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es"group-title="ARGENTINA",NET TV 27.2 TDA HD
+https://unlimited1-us.dps.live:443/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=1805814
 http://edge5-sl.cvattv.com.ar/live/c6eds/Net_TV/SA_SAGEMCOM/Net_TV.m3u8
 
 
