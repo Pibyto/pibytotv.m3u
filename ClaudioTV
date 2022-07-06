@@ -1896,6 +1896,38 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="CINE Y SERIES",TELEMAX RD
+https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png"group-title="CINE Y SERIES", ESTRELLA TV HD
+https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.telemixtelefonia.com.br/static/media/logotipo.8c86e3f5.png"group-title="CINE Y SERIES",TELEMIX! HD
+https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/jimanitv.jpeg"group-title="CINE Y SERIES",JIMANI TV HD
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w37211739.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://apksos.com/storage/images/com/sacnet/gca/telecom/multizonestelevision/com.sacnet.gca.telecom.multizonestelevision_1.png"group-title="CINE Y SERIES", MULTIZONAS TELEVISIÓN HD
+https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="CINE Y SERIES", VIDA Y BENDICION TV FHD
 https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w308076895.m3u8
 https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
@@ -1911,9 +1943,6 @@ https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3T70Qu7i8_GesNwotL6n1ASjhwVRIB16nnQ&usqp=CAU"group-title="CINE Y SERIES",MI TV HD
-https://ss2.domint.net:3204/mitv_str/mitv/chunklist_w845587358.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/production-bluehost-v1-0-9/259/1391259/xHp3qXyI/97176633b3ec4905a10750185f52914d"group-title="CINE Y SERIES",XTREMO CHANNEL HD
@@ -1924,12 +1953,7 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w284230221.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXA_Pd5RIpBM7WO3DjUiy79igNGj2Ht_IJ8g&usqp=CAU"group-title="CINE Y SERIES",HMTV HD
-https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8?nimblesessionid=229560635
 
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png"group-title="CINE Y SERIES", ESTRELLA TV HD
-https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Moviecentral.svg/1200px-Moviecentral.svg.png"group-title="CINE Y SERIES",MOVIES CENTRAL
@@ -1937,16 +1961,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/b6541dd8-ae92-4d29-a7fd-ce28aaacd427/3.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="CINE Y SERIES",TELEMAX RD
-https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
-https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.telemixtelefonia.com.br/static/media/logotipo.8c86e3f5.png"group-title="CINE Y SERIES",TELEMIX! HD
-https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 
 
@@ -1958,12 +1972,6 @@ https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Teleantillas2004vertical.svg/revision/latest/scale-to-width-down/250?cb=20210516223621&path-prefix=es"group-title="CINE Y SERIES",TELEANTILLAS 2 HD
-https://tunzilla.com/http://51.81.106.157:8084/hls/tantillas.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTUC1Ad24OZ-kMh2iviZ9unb6mIDFkXUamxF7VO=s900-c-k-c0x00ffffff-no-rj"group-title="CINE Y SERIES",TV SAN JUAN HD
-https://5790d294af2dc.streamlock.net/8224/8224/chunklist_w841158749.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_09/large.59b567df3dae4_Telecaribe2017.png.b72e1a981efb12c791b3e69086924395.png"group-title="CINE Y SERIES",TELECARIBE HD
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?DVR
 
@@ -1971,9 +1979,6 @@ https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png"group-title="CINE Y SERIES",TIGUERITOS TV HD
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist_w131595044.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/jimanitv.jpeg"group-title="CINE Y SERIES",JIMANI TV HD
-https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w37211739.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="CINE Y SERIES",LA VOZ TV
@@ -1986,9 +1991,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0pDEyWzNUAIBr08So6lvGbPljdelrG7-k7XagfyISG7_59-95cjZX0gbknvSrF3uPA"group-title="CINE Y SERIES",CINECLUB FHD
 https://servilive.com:3176/live/cineclublive.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://apksos.com/storage/images/com/sacnet/gca/telecom/multizonestelevision/com.sacnet.gca.telecom.multizonestelevision_1.png"group-title="CINE Y SERIES", MULTIZONAS TELEVISIÓN HD
-https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
 
 
 
