@@ -106,6 +106,7 @@ http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=16605.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png"group-title="CINE PREMIUM",TNT SERIES
+http://45.167.250.116:20023/play/a0iz/index.m3u8
 http://svtv.xyz:8080/Apoyemos/HVUMW/164032
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 
@@ -159,6 +160,7 @@ https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/Com
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png"group-title="CINE PREMIUM", STUDIOS UNIVERSAL HD
+http://45.167.250.116:20023/play/a0i4/index.m3u8
 http://svtv.xyz:8080/Apoyemos/HVUMW/31029
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
 
@@ -166,6 +168,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Stu
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="CINE PREMIUM", WARNER TV
+http://45.167.250.116:20023/play/a0dh/index.m3u8
 http://svtv.xyz:8080/Apoyemos/HVUMW/31026
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
@@ -173,12 +176,14 @@ http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=40&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/FX_HD_2013.png/revision/latest?cb=20180216195050"group-title="CINE PREMIUM",FX HD
+http://45.167.250.116:20023/play/a0eh/index.m3u8
 https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg"group-title="CINE PREMIUM", STAR CHANNEL HD
+http://45.167.250.116:20023/play/a0hd/index.m3u8
 http://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 https://edge-vod01-hr.cvattv.com.ar//live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 https://cdn.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
