@@ -1705,6 +1705,16 @@ http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3U
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQSpEdhd8I37WtA6c2K4vuN2vSJKMWPt3oQ&usqp=CAU"group-title="CINE Y SERIES",LATINA TV INTERNACIONAL
+https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w517185414.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="CINE Y SERIES",WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png"group-title="CINE Y SERIES", ESTRELLA TV HD
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
@@ -2005,9 +2015,6 @@ https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZqGpWv7qqmY/maxresdefault.jpg"group-title="CINE Y SERIES",WTV CANAL 20
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/819297808108974080/fXHeD6eW_400x400.jpg"group-title="CINE Y SERIES",TITANICO TV
-https://cdn2.streamgato.us:443/titanicotv/titanicotv/chunklist_w1906236809.m3u8
-
 
 
 
@@ -2105,19 +2112,11 @@ https://cdn2.streamgato.us/%20ctvd/%20ctvd/playlist.m3u8?DVR
 https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="CINE Y SERIES",WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ32g0YR_QkcRiiyjMK7FlJuT3GnLVh5tXSw&usqp=CAU"group-title="CINE Y SERIES",BLU HD 29.1 TDA HD
 https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQSpEdhd8I37WtA6c2K4vuN2vSJKMWPt3oQ&usqp=CAU"group-title="CINE Y SERIES",LATINA TV INTERNACIONAL
-https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w517185414.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400"group-title="CINE Y SERIES",BARBE TV
 http://iptv.streamhispanatv.net:25461/playgt/123456/105
