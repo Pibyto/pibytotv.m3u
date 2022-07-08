@@ -1301,7 +1301,8 @@ https://cu.onliv3.com/livevd1/user2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/panamericana-logo-6EB4821309-seeklogo.com.png"group-title="PERÚ",PANAMERICANA FHD
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/panamericana-logo-6EB4821309-seeklogo.com.png"group-title="PERÚ",PANAMERICANA HD
+http://45.167.250.116:20023/play/a0d2/index.m3u8
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 
