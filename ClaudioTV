@@ -315,6 +315,17 @@ https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/Disco
 http://45.167.250.116:20023/play/a0fp/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png"group-title="CINE T",Discovery Turbo
+http://45.167.250.116:20023/play/a0hu/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1845px-Investigation_Discovery_Logo_2018.svg.png"group-title="CINE PREMIUM",ID - Investigation Discovery
+http://45.167.250.116:20023/play/a0e3/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3c/e6/43/3ce643b45d4fdc71a162e215f4617321.png"group-title="CINE PREMIUM",TLC
+http://45.167.250.116:20023/play/a0ik/index.m3u8
+
+
 
 
 
