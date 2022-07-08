@@ -289,15 +289,14 @@ https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png"group-title="CINE PREMIUM",HISTORY HD
 http://45.167.250.116:20023/play/a0e1/index.m3u8
-https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
-http://777back.xyz:8080/live/clauDio930/fTPTXdfbLKBe/73966.m3u8
 
 
 
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png"group-title="CINE PREMIUM",ANIMAL PLANET 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png"group-title="CINE PREMIUM",ANIMAL PLANET 
 http://45.167.250.116:20023/play/a0h0/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png"group-title="CINE PREMIUM", HISTORY 2
+http://45.167.250.116:20023/play/a0g4/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png"group-title="CINE PREMIUM",NAT GEO HD
