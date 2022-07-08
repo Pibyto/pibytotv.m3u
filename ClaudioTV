@@ -1714,6 +1714,17 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://lahoratv.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-29-at-11.44.12-AM-300x140.jpeg"group-title="CINE Y SERIES",LA HORA TV HD
+https://ss5.domint.net:3056/lhtv_str/lahoratv/chunklist_w1271299099.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.exprezion.cl/wp-content/uploads/2021/10/cropped-fondo-3.png"group-title="CINE Y SERIES",EXPRECION TV HD
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4s1YE3xLDZnc-2olPgvGD3eMDrX-vGkft7Q2anuiM0-obYpk9&s"group-title="CINE Y SERIES",TELECANAL 12 HD
+https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png"group-title="CINE Y SERIES", ESTRELLA TV HD
@@ -2126,19 +2137,9 @@ https://v4.tustreaming.cl/bellatv/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lahoratv.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-29-at-11.44.12-AM-300x140.jpeg"group-title="CINE Y SERIES",LA HORA TV FHD
-https://ss5.domint.net:3056/lhtv_str/lahoratv/chunklist_w1271299099.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://channels.roku.com/images/cdbaac3e9cc54968969a44132b9a5992-hd.png"group-title="CINE Y SERIES",EXTREMA TV HD
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNDc4lqZVzIq-auu7syIWEyHU3iW5laIgP6g&usqp=CAU"group-title="CINE Y SERIES",ROMANA TV HD
@@ -2156,25 +2157,6 @@ http://cdn.santiagotv.net:3228/live/santiagotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/b0564acdb9c67295acae4e5cf3978ed35795180f9728f21080885a8733d124cd.png"group-title="CINE Y SERIES",DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.exprezion.cl/wp-content/uploads/2021/10/cropped-fondo-3.png"group-title="CINE Y SERIES",EXPRECION TV HD
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4s1YE3xLDZnc-2olPgvGD3eMDrX-vGkft7Q2anuiM0-obYpk9&s"group-title="CINE Y SERIES",TELECANAL 12 HD
-https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="CINE Y SERIES",MI TV FHD
