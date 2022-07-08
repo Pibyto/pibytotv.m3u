@@ -2901,6 +2901,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png"group-title="INFANTIL", DISNEY CHANNEL
+http://45.167.250.116:20023/play/a0hq/index.m3u8
 https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 
 
@@ -2908,15 +2909,18 @@ https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD
 https://cdn.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png"group-title="INFANTIL", Nick HD
+http://45.167.250.116:20023/play/a0fn/index.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png"group-title="INFANTIL", Nick JR HD
+http://45.167.250.116:20023/play/a0d8/index.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png"group-title="INFANTIL", Discovery Kids
+http://45.167.250.116:20023/play/a0gz/index.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 
 
@@ -2925,6 +2929,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Disco
 https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="INFANTIL",TOONCAST
+http://45.167.250.116:20023/play/a0ij/index.m3u8
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
 
@@ -3527,6 +3532,7 @@ https://5bf8041cb3fed.streamlock.net:443/TeveVida/TeveVida/chunklist_w1065613269
 
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tbnenlace.png"group-title="CRISTIANO", ENLACE HD
+http://45.167.250.116:20023/play/a0h7/index.m3u8
 https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
 http://45.167.250.116:20023/play/a0h7/index.m3u8
 http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=32145.m3u8
