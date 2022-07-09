@@ -2062,7 +2062,7 @@ https://ss3.domint.net:3102/v3_str/v3000/chunklist_w818897905.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t1.6435-9/90221063_111244067169336_2591407769747718144_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=106&ccb=1-5&_nc_sid=85a577&_nc_ohc=upnkke_YvoYAX9b-R9Y&_nc_ht=scontent.feze8-1.fna&oh=00_AT-vwlql8CVShvt7pGgaPAAbLV_Y1B4I9B0WchR3GU9adw&oe=626E758E"group-title="CINE Y SERIES",CLAROVISION TV
+#EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t1.6435-9/90221063_111244067169336_2591407769747718144_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=106&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeFHdo-ZrWXraSmFgDNlwA2oiju4HkK8tB6KO7geQry0HrIr4_x-JH0hKokLr_ggb3r4ZZFMbtqwl2gOtmlMRnvO&_nc_ohc=mk5lQOlmZXcAX_K2Iw_&_nc_ht=scontent.feze8-1.fna&oh=00_AT_DVoU2RtJD8zspph0YzwHjC_Gb4wo8-LV7sAJA2FICiw&oe=62F0FA0E"group-title="CINE Y SERIES",CLAROVISION TV
 https://cdn2.streamgato.us/clarovision/clarovision/playlist.m3u8
 
 
@@ -3494,6 +3494,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b0007
 
 #EXTINF:-1 tvg-logo="http://www.telebendicion.com.do/images/telebendicion_web.png"group-title="CRISTIANO",TELEBENDICION
 https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w198998264.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t1.6435-9/90221063_111244067169336_2591407769747718144_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=106&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeFHdo-ZrWXraSmFgDNlwA2oiju4HkK8tB6KO7geQry0HrIr4_x-JH0hKokLr_ggb3r4ZZFMbtqwl2gOtmlMRnvO&_nc_ohc=mk5lQOlmZXcAX_K2Iw_&_nc_ht=scontent.feze8-1.fna&oh=00_AT_DVoU2RtJD8zspph0YzwHjC_Gb4wo8-LV7sAJA2FICiw&oe=62F0FA0E"group-title="CRISTIANO",CLAROVISION TV
+https://cdn2.streamgato.us/clarovision/clarovision/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s193997/images/logod.jpg?t=154090"group-title="CRISTIANO", UNCIÓN Y PODER TV HD
