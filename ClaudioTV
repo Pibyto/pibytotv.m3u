@@ -1704,6 +1704,10 @@ https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv-_rrZK6bmcQ_3bEQEfNwGU3FlnZXj7_TOA&usqp=CAU"group-title="CINE Y SERIES", GLOBAL TV HD
+https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FLxkc2GWYAIQOt6.png"group-title="CINE Y SERIES", GUAYMATE HD
 https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?WebM3UCL
 
