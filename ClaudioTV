@@ -1687,7 +1687,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EWTIboCXkAA2w4K.jpg"group-title="CINE Y SERIES”,ROX CINEMA HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EWTIboCXkAA2w4K.jpg"group-title="CINE Y SERIES”, ROX CINEMA HD
 https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/contentserver/v2/distributions/19194559/content/../../../../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/35f300c4-ca4b-4958-b08d-429278bdf233/2.m3u8
 
 
@@ -1717,6 +1717,11 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CusEb-fJL5SwaaAGm5shlEqfio6
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pTdJRVDDV8jmJV-Nu-Ci9MCJOjsJOyE4QTNwOf_hLyqdRCi0qmUkDNElQ0hUD9qPGD1z"group-title="CINE Y SERIES”, NICOYA TV HD
+https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w368794946.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://apksos.com/storage/images/com/sacnet/gca/telecom/multizonestelevision/com.sacnet.gca.telecom.multizonestelevision_1.png"group-title="CINE Y SERIES", MULTIZONAS TELEVISIÓN HD
