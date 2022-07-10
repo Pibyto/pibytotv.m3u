@@ -153,6 +153,9 @@ https://edge-vod02-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://www.movilinvasion.es/wp-content/uploads/2011/11/COSMO-HD.jpg"group-title="CINE PREMIUM",COSMO
+http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1106389745_b1928000_sleng.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png"group-title="CINE PREMIUM", COMEDY CENTRAL HD
@@ -3236,6 +3239,7 @@ https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
 
 
 #EXTINF:-1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png"group-title="CINE", RAKUTEN COMEDIA
+https://rakuten-comedymovies-2-es.samsung.wurl.tv:443/3000.m3u8
 https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/ad5084bd-3203-489a-aece-16592f9e4c6e/2.m3u8
 
 
@@ -3251,6 +3255,7 @@ http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1106389745_b1928000_sleng.
 
 
 #EXTINF:-1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png"group-title="CINE", RAKUTEN TV DRAMA
+https://rakuten-tvshows-2-es.samsung.wurl.tv:443/3000.m3u8
 https://3de281cc31cf4835a3769dd13743f40c.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/6b220a9a-ecae-4afe-8fd6-61bb18ec599e/2.m3u8
 
 
