@@ -1348,6 +1348,14 @@ https://5790d294af2dc.streamlock.net:443/8134/8134/chunklist_w1526130657.m3u8
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO.png"group-title="PERÚ”,CONTACTO DEPORTIVO
+https://live.obslivestream.com:443/cdeportivo/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="PERÚ”,TELECOLOR TV
+https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png"group-title="PERÚ",PLANETA TV HD
 https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
@@ -1363,13 +1371,6 @@ https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64UPlwR4MmmkqjiPYp1h4ry9F45c49kRzNMo4UCb5erbuncY&s"group-title="PERÚ",CANAL 41
 https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO.png"group-title="PERÚ”,CONTACTO DEPORTIVO
-https://live.obslivestream.com:443/cdeportivo/tracks-v2a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="PERÚ”,TELECOLOR TV
-https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400"group-title="PERÚ",BARBE TV
@@ -1688,6 +1689,10 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 
 
+#EXTINF:-1 tvg-logo="https://i49.vbox7.com/o/26b/26b814099f0.jpg"group-title="CINE Y SERIES", PLANTA TV HD
+https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
+https://stmv.panel.grupolimalive.com:443/planeatv/planeatv/chunklist_w1465381133.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="CINE Y SERIES",TELEMAX RD
 https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
@@ -1850,9 +1855,6 @@ https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w37211739.
 #EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png"group-title="CINE Y SERIES",LA CALETA
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i49.vbox7.com/o/26b/26b814099f0.jpg"group-title="CINE Y SERIES", PLANTA TV HD
-https://stmv.panel.grupolimalive.com:443/planeatv/planeatv/chunklist_w1465381133.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="CINE Y SERIES",MEGA TV
