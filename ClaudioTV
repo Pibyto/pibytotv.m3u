@@ -519,7 +519,8 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/880a23bb-ff0f-431f-a4b3-729db776b35d/5.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="ARGENTINA",CINCO TV TIGRE  30.1 TDA HD
+
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1 TDA HD
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
@@ -664,17 +665,11 @@ http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1sls8D3cnBZ6bUSRTtPXow-GmtUwkGcl1iw&usqp=CAU"group-title="ARGENTINA",BVC
-https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8?PlaylistM3UCL
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/462168942698446848/aD89IHFa_400x400.png"group-title="ARGENTINA", CANAL 7 SALTA
 https://panel.dattalive.com:443/8074/8074/playlist.m3u8?PlaylistM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png"group-title="ARGENTINA",24h HD
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr_576.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png"group-title="ARGENTINA",KINGDOM TV 19.1 TDA HD
 https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
@@ -867,14 +862,6 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 #EXTINF:-1 tvg-logo="https://cvinoticias.com/wp-content/uploads/2022/02/cvi-noticias-peque-no.png"group-title="ARGENTINA",CVI HD MISIONES 
 https://panel.dattalive.com:443/8078/8078/chunklist_w837890566.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="http://am1020.com.ar/wp-content/uploads/2021/02/logoam1020-1024x790.png"group-title="ARGENTINA",AM1020 HD SAN JUAN 
-http://51.79.83.93:9998/live/am1020/playlist.m3u8
-
-
 
 
 
