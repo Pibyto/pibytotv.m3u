@@ -510,6 +510,11 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",13 HD JUJUY
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="ARGENTINA",MULTIVISION HD SALTA
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
@@ -790,9 +795,6 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cv0Ed4yWZB3mjW-5TV_0WG04nMo
 #EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA LANUS SD
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",13 HD JUJUY
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t1.6435-9/122463886_3672741929425145_7323186475742822284_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=103&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeEIQ9SZVU7y00ZVSDlxNUcl9Q7X5b_iM6j1Dtflv-IzqJEh3Bk1dgfKbNFyBkhAVhPO4Ji2j8ommbw-R3Ab8YkU&_nc_ohc=uBb9Iq2VGCQAX-ULUgi&_nc_ht=scontent.feze8-1.fna&oh=00_AT_TAT96qeQ_nsk27L8b2PLacTgK_tdbgeB8c6GRW1NjWw&oe=62CF1794"group-title="ARGENTINA",JTA HD MENDOZA
@@ -3452,6 +3454,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b0007
 
 
 
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png"group-title="CRISTIANO",13 HD JUJUY
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.telebendicion.com.do/images/telebendicion_web.png"group-title="CRISTIANO",TELEBENDICION
