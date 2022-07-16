@@ -24,6 +24,7 @@ https://i.getspace.us/cloud/s/HC3WEG9asb2Yoe3/download
 http://192.168.1.36:30001/file/VP8s425g/video.mp4
 
 
+
 #EXTINF:-1 tvg-logo="https://quenoticias.com/wp-content/uploads/2021/08/la-casa.jpg"group-title="CINE PREMIUM",LA CASA DE LOS FAMOSOS - CAMARA 1
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/index_2500_av-p.m3u8?sd=10&rebase=on
 
@@ -32,6 +33,10 @@ https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/index_2500_av-p.m3u8?sd=1
 #EXTINF:-1 tvg-logo="https://quenoticias.com/wp-content/uploads/2021/08/la-casa.jpg"group-title="CINE PREMIUM",LA CASA DE LOS FAMOSOS - CAMARA 2
 https://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/index_2500_av-p.m3u8?sd=10&rebase=on
 
+
+
+#EXTINF:-1 tvg-logo="https://m.imgur.com/mtLI08o?r"group-title="CINE PREMIUM”,MyTime Movie network
+https://b43186-p2-had-afghmojx.3.cdn.telefonica.com/_43186/sdash/LIVE$DHEHD/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DPMuE_6s-Dashavc-HighDefinition
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png"group-title="CINE PREMIUM",SPACE HD
 https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
