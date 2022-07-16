@@ -36,8 +36,11 @@ http://192.168.1.36:30001/file/VP8s425g/video.mp4
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.imgur.com/mtLI08o?r"group-title="CINE PREMIUM”,MyTime Movie network
+
+
+#EXTINF:-1 tvg-logo="https://cinedigm.com/wp-content/uploads/2021/08/MyTime.png"group-title="CINE PREMIUM”,MyTime Movie network
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Cinema%2B.png/revision/latest?cb=20210502133321&path-prefix=es"group-title="CINE PREMIUM",CINEMA+
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
