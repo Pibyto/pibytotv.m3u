@@ -50,6 +50,8 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1106389745_b1928000_sleng.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM”,MOVIES
+https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/contentserver/v2/distributions/18677257/content/../../../../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/4225f2fe-a231-4f08-a72f-6ebb4806e1c8/2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"group-title="CINE PREMIUM", LAS ESTRELLAS 
