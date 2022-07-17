@@ -2,6 +2,17 @@
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png",BENDICION TV HD
+https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1,tvg-logo="https://support.google.com/legal/answer/3463239?hl=es-419", NATANAEL TV
 https://cloud2.streaminglivehd.com:1936/natanaeltv/natanaeltv/chunklist_w845398431.m3u8?WebM3UCL
 
