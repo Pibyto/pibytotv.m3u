@@ -3483,8 +3483,9 @@ https://1206618505.rsc.cdn77.org:443/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Paraguay_TV_logo.png/480px-Paraguay_TV_logo.png"group-title="PARAGUAY",TAPUA TV
-https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6e/12/6e128de68db13591a0bf6daa8f78b043.jpg"group-title="RADIO”,RADIO BENDICION PENTECOSTAL
+https://stream2.305stream.com/proxy/client020?mp=/stream
 
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25893/images/logog.png"group-title="RADIO",RADIO POP 101.5
