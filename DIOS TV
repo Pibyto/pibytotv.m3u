@@ -9,14 +9,14 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png",BENDICION TV HD
+#EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png"group-title="CRISTIANO",BENDICION TV HD
 https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1,tvg-logo="https://support.google.com/legal/answer/3463239?hl=es-419", NATANAEL TV
+#EXTINF:-1,tvg-logo="https://support.google.com/legal/answer/3463239?hl=es-419"group-title="CRISTIANO", NATANAEL TV
 https://cloud2.streaminglivehd.com:1936/natanaeltv/natanaeltv/chunklist_w845398431.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg" group-title="RELIGION", SOLIDARIA TV
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg"group-title="CRISTIANO",SOLIDARIA TV
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 
@@ -24,7 +24,7 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 http://stream2.livestreamingservices.com:1935/alertatv/alertatv/chunklist_w852405639.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_OgkXZYSihlqwaB2Uehl4D6lip7dp1nF6Ew&usqp=CAU" group-title="RELIGION", TV MANA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_OgkXZYSihlqwaB2Uehl4D6lip7dp1nF6Ew&usqp=CAU"group-title="CRISTIANO", TV MANA
 http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
 
 #EXTINF:-1, LA SAGRADA FAMILIA TV
