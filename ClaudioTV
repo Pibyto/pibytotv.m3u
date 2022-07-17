@@ -182,8 +182,9 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
 
 
 
