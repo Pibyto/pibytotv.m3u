@@ -271,6 +271,7 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w21429511
 https://g5.mc-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="ARGENTINA", AMERICA 36.1 TDA HD
+https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/7044b8e7-6470-40a0-bf4d-39e96f8debab:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
 
 
