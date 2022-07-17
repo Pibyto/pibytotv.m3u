@@ -1365,6 +1365,8 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 
 
+#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="CINE Y SERIES”,TELECOLOR TV
+https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i49.vbox7.com/o/26b/26b814099f0.jpg"group-title="CINE Y SERIES", PLANTA TV HD
