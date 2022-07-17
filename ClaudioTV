@@ -38,9 +38,6 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://cinedigm.com/wp-content/uploads/2021/08/MyTime.png"group-title="CINE PREMIUM”,MyTime Movie network
-https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Cinema%2B.png/revision/latest?cb=20210502133321&path-prefix=es"group-title="CINE PREMIUM",CINEMA+
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
@@ -1004,17 +1001,15 @@ https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png"group-title="PERÚ",WILLAX HD
 http://soberon.us:25461/live/bulln3w/s0beron/473.m3u8
 https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmuPgaTGCMxIqzT6nPVcqh2kyfTZh1h_UqPtytGHJuUdu)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmM19DL7V41tT15_L1N0CeStbzcd6HMkMuFVYIIDA6ue)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/ATV_%28Peru%29_-_2018_logo.png"group-title="PERÚ", ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/78238
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg"group-title="PERÚ",ATV+
-http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/129480
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 
 
@@ -1038,8 +1033,7 @@ https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png"group-title="PERÚ",PLANETA TV HD
 https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
-https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
-https://live.obslivestream.com:443/planetatvmux/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -1907,111 +1901,41 @@ https://claro-jw.cdn.vustreams.com:443/live/channel07/live.isml/keyframes/live-v
 
 
 
-#EXTINF:-1 tvg-logo="https://www.vive-santa-elena.com/wp-content/uploads/2019/08/204-2047658_urmdp-tv-directv-sports-logo-png-transparent-png.jpg"group-title="DEPORTES",DIRECTV SPORTS HD
-http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUIHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhNSKMddd900000999999999999999999999999ddeddddddddddDJDJDJdddUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHB/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/934
-http://soberon.us:25461/live/bulln3w/s0beron/3219.m3u8
-http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/145190
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=37837.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=37843.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/379-3795145_directv-sports-2-latin-america-directv-sports-2.png"group-title="DEPORTES",DIRECTV SPORTS 2 HD
-http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUIHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhNSKMddd900000999999999999999999999999ddeddddddddddDJDJDJdddUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHB/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/935
-http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/145191
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=37838.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=37838.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdGiPYs_XWcPTG3I7XRf3M3qTJQMTC19CRA&usqp=CAU"group-title="DEPORTES",DIRECTV SPORTS +
-http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUIHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhNSKMddd900000999999999999999999999999ddeddddddddddDJDJDJdddUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHB/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/936
-http://soberon.us:25461/live/bulln3w/s0beron/1046.m3u8
-http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/145192
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=37839.m3u8
-http://gratis.shortgod.com/nuevaversionenshortgod/tv7.php?c=37837.m3u8
-
-
 
 
 
 #EXTINF:-1 tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/espn-logo-350x183.png?itok=heHZgbSx"group-title="DEPORTES",ESPN HD
-http://svtv.xyz:8080/Apoyemos/HVUMW/164986
-http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUIHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhNSKMddd900000999999999999999999999999ddeddddddddddDJDJDJdddUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHB/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/924
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-http://tvencasa.fun:2052/4236/4236/174895
-https://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8?fbclid=I
-http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/22112.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-w0fjD0r_Evs/VmW-VfUpaAI/AAAAAAAAAQ8/XWAfmUm3RUk/s1600/espn2.png"group-title="DEPORTES",ESPN 2 HD
-http://45.167.250.116:20023/play/a0gc/index.m3u8
-http://svtv.xyz:8080/Apoyemos/HVUMW/164989
-http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUIHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhNSKMddd900000999999999999999999999999ddeddddddddddDJDJDJdddUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHB/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/925
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 
-http://tvencasa.fun:2052/4236/4236/175659
-http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/59802.m3u8
 
 
 #EXTINF:-1  tvg-logo="http://1.bp.blogspot.com/-TZNQbBgu508/UjtEagBbaMI/AAAAAAAAAH0/8YrDDQ6iA6k/s1600/ESPN3Vivo.png"group-title="DEPORTES",ESPN 3
-http://45.167.250.116:20023/play/a0ed/index.m3u8
-http://svtv.xyz:8080/Apoyemos/HVUMW/30956
-http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUIHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhNSKMddd900000999999999999999999999999ddeddddddddddDJDJDJdddUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHB/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/926
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8?SBN
-
 
 
 
 #EXTINF:-1 tvg-logo="https://futbolfullenvivo.com/logos/espn4.png"group-title="DEPORTES", ESPN4 HD
-http://45.167.250.116:20023/play/a0fr/index.m3u8
-http://svtv.xyz:8080/Apoyemos/HVUMW/166722
-http://edge-live13-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_05/large_es.png.36ee9377a3b8a9c22b519d73de03d6c9.png"group-title="DEPORTES", ESPN PREMIUM HD
-http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUIHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhNSKMddd900000999999999999999999999999ddeddddddddddDJDJDJdddUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHB/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/930
-https://peertube.linuxrocks.online:443/static/streaming-playlists/hls/79550942-03d2-440e-b294-a60c2cf23e56/baf508df-4f24-41ff-a95e-5d03c7441abf-1080.m3u8
-http://edge7-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
-http://tvencasa.fun:2052/4236/4236/173927
-http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/151412
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="DEPORTES", TNT SPORTS HD
-http://gratuita.mrzutv.net:25461/FJFJHJHUIHUIHUIHUIHhdhhdhdhdioioihdUIWsssssJKNchampionsnsnsnnsSgggggKJBJyueuyHBhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhNSKMddd900000999999999999999999999999ddeddddddddddDJDJDJdddUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHB/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/931
-http://edge9-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
-http://tv.plusk.xyz:28000/live/jpapeleto/tz5Xjj59W2/153801.m3u8
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="DEPORTES",FOX SPORTS
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-https://edge-live34-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8?mvk
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png"group-title="DEPORTES",FOX SPORTS
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png"group-title="DEPORTES",FOX SPORTS
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="DEPORTES",FOX SPORTS 2 FHD
-http://45.167.250.116:20023/play/a0fq/index.m3u8
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png"group-title="DEPORTES",FOX SPORTS 3 FHD
-http://45.167.250.116:20023/play/a0iv/index.m3u8
-https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
 
 
@@ -2019,12 +1943,11 @@ https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSpor
 https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 http://svtv.xyz:8080/Apoyemos/HVUMW/30963
 
-https://edge-vod04-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg"group-title="DEPORTES",TyC Sports internacional FHD
-http://svtv.xyz:8080/Apoyemos/HVUMW/110880
-http://edge10-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_SAGEMCOM/TyC_Internacional.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="DEPORTES", TNT SPORTS HD 1 BR
@@ -2350,21 +2273,11 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/108
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSANZQuqh7i1yg0iYUL13DQH06fO-_EUVXihg&usqp=CAU"group-title="CINE Y SERIES", ALTAGRACIA TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/panamericana-logo-6EB4821309-seeklogo.com.png"group-title="CINE Y SERIES",PANAMERICANA FHD
-https://cdnh71.iblups.com/hls/ptv2.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJIGDtxN3fPK6NZBwkD7dl2SZm7kuDFDptw&usqp=CAU"group-title="CINE Y SERIES",PLAY MEDIOS TV
-https://iptv.streamhispanatv.net:2083/live/playgt/123456/87.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-c-WycWEw_H4/XtwM659Hk6I/AAAAAAAAASw/4ftRzkVVr2INhSlklwgV8K4c-FajWgOeQCK4BGAYYCw/s400/PARA%2BLA%2BPAGINA.png"group-title="CINE Y SERIES",CROM TV
 https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLBSSWE48MSMKxLZCNZ0YEYupXxG8TNiK6w&usqp=CAU"group-title="CINE Y SERIES",CANAL EVELYN
-https://srv1.mediastreamperu.com:8081/8004/tracks-v1a1/mono.m3u8
 
 
 
@@ -2761,67 +2674,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f800077
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="CINE",CINE SONY
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://carbonmade-media.accelerator.net/17760333;640x367.jpeg"group-title="CINE", CINE PREMIER
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
-
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="CINE", CINE ESTELAR 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u
 
 
 
@@ -3472,7 +3325,7 @@ https://stmv1.voxtvhd.com.br:443/escuchame/escuchame/chunklist_w1449652967.m3u8
 https://stream.eleden.com:443/livesalvatv/ngrp:livesalvatv_all/chunklist_w2142339777_b700000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image44323995057.jpg"group-title="CRISTIANO", HOSANNAVISION
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image44323995057.jpg"group-title="CRISTIANO",HOSANNAVISION
 https://1206618505.rsc.cdn77.org:443/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
 
@@ -3488,7 +3341,7 @@ https://1206618505.rsc.cdn77.org:443/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6e/12/6e128de68db13591a0bf6daa8f78b043.jpg"group-title="RADIO”,RADIO BENDICION PENTECOSTAL
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/6e/12/6e128de68db13591a0bf6daa8f78b043.jpg"group-title="RADIO”,FM BENDICION PENTECOSTAL
 https://stream2.305stream.com/proxy/client020?mp=/stream
 
 
@@ -3530,9 +3383,6 @@ http://server.laradio.online:8068/live?1639913424164
 #EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/10accc67-2149-4619-8a36-c8aec8f5b2e3.png"group-title="RADIO", SUPER CADENA CRISTINA
 https://ice.adonainy.com/stream.aac
 
-
-#EXTINF:-1, RADIO BAUTISTA "RADIO"
-https://ar.cienradios.com:443/player/Bautista/data:video/mp4;base64,AAAAIGZ0eXBpc29tAAACAGlzb21pc28yYXZjMW1wNDEAAAAIZnJlZQAAAs1tZGF0AAACrgYF//+q3EXpvebZSLeWLNgg2SPu73gyNjQgLSBjb3JlIDE0OCByMjYwMSBhMGNkN2QzIC0gSC4yNjQvTVBFRy00IEFWQyBjb2RlYyAtIENvcHlsZWZ0IDIwMDMtMjAxNSAtIGh0dHA6Ly93d3cudmlkZW9sYW4ub3JnL3gyNjQuaHRtbCAtIG9wdGlvbnM6IGNhYmFjPTEgcmVmPTMgZGVibG9jaz0xOjA6MCBhbmFseXNlPTB4MzoweDExMyBtZT1oZXggc3VibWU9NyBwc3k9MSBwc3lfcmQ9MS4wMDowLjAwIG1peGVkX3JlZj0xIG1lX3JhbmdlPTE2IGNocm9tYV9tZT0xIHRyZWxsaXM9MSA4eDhkY3Q9MSBjcW09MCBkZWFkem9uZT0yMSwxMSBmYXN0X3Bza2lwPTEgY2hyb21hX3FwX29mZnNldD0tMiB0aHJlYWRzPTEgbG9va2FoZWFkX3RocmVhZHM9MSBzbGljZWRfdGhyZWFkcz0wIG5yPTAgZGVjaW1hdGU9MSBpbnRlcmxhY2VkPTAgYmx1cmF5X2NvbXBhdD0wIGNvbnN0cmFpbmVkX2ludHJhPTAgYmZyYW1lcz0zIGJfcHlyYW1pZD0yIGJfYWRhcHQ9MSBiX2JpYXM9MCBkaXJlY3Q9MSB3ZWlnaHRiPTEgb3Blbl9nb3A9MCB3ZWlnaHRwPTIga2V5aW50PTI1MCBrZXlpbnRfbWluPTEwIHNjZW5lY3V0PTQwIGludHJhX3JlZnJlc2g9MCByY19sb29rYWhlYWQ9NDAgcmM9Y3JmIG1idHJlZT0xIGNyZj0yMy4wIHFjb21wPTAuNjAgcXBtaW49MCBxcG1heD02OSBxcHN0ZXA9NCBpcF9yYXRpbz0xLjQwIGFxPTE6MS4wMACAAAAAD2WIhAA3//728P4FNjuZQQAAAu5tb292AAAAbG12aGQAAAAAAAAAAAAAAAAAAAPoAAAAZAABAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAACGHRyYWsAAABcdGtoZAAAAAMAAAAAAAAAAAAAAAEAAAAAAAAAZAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAEAAAAAAAgAAAAIAAAAAACRlZHRzAAAAHGVsc3QAAAAAAAAAAQAAAGQAAAAAAAEAAAAAAZBtZGlhAAAAIG1kaGQAAAAAAAAAAAAAAAAAACgAAAAEAFXEAAAAAAAtaGRscgAAAAAAAAAAdmlkZQAAAAAAAAAAAAAAAFZpZGVvSGFuZGxlcgAAAAE7bWluZgAAABR2bWhkAAAAAQAAAAAAAAAAAAAAJGRpbmYAAAAcZHJlZgAAAAAAAAABAAAADHVybCAAAAABAAAA+3N0YmwAAACXc3RzZAAAAAAAAAABAAAAh2F2YzEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAgACAEgAAABIAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAY//8AAAAxYXZjQwFkAAr/4QAYZ2QACqzZX4iIhAAAAwAEAAADAFA8SJZYAQAGaOvjyyLAAAAAGHN0dHMAAAAAAAAAAQAAAAEAAAQAAAAAHHN0c2MAAAAAAAAAAQAAAAEAAAABAAAAAQAAABRzdHN6AAAAAAAAAsUAAAABAAAAFHN0Y28AAAAAAAAAAQAAADAAAABidWR0YQAAAFptZXRhAAAAAAAAACFoZGxyAAAAAAAAAABtZGlyYXBwbAAAAAAAAAAAAAAAAC1pbHN0AAAAJal0b28AAAAdZGF0YQAAAAEAAAAATGF2ZjU2LjQwLjEwMQ==
 
 #EXTINF:-1 tvg-logo="https://www.lavozdeldesierto.com.ar/images/design/isologo.png" group-title="RADIO", FM LA VOZ DEL DESIERTO NEUQUEN
 https://stmv1.srvstm.com/vozdesierto/vozdesierto/playlist.m3u8
