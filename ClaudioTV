@@ -260,6 +260,14 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO.png"group-title="ARGENTINA”,CONTACTO DEPORTIVO
+https://live.obslivestream.com:443/cdeportivo/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="ARGENTINA”,TELECOLOR TV
+https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PÚBLICA 23.2 TDA HD
 https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
@@ -1031,13 +1039,6 @@ https://5790d294af2dc.streamlock.net:443/8134/8134/chunklist_w1526130657.m3u8
 https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO.png"group-title="PERÚ”,CONTACTO DEPORTIVO
-https://live.obslivestream.com:443/cdeportivo/tracks-v2a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="PERÚ”,TELECOLOR TV
-https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png"group-title="PERÚ",PLANETA TV HD
 https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
@@ -1383,6 +1384,7 @@ https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="CINE Y SERIES",COSMOS TV HD
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?WebM3UCL
