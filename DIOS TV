@@ -74,6 +74,9 @@ https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png"group-title="CRISTIANO",CANAL LUZ
 https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/2022-03/radio_vision_c_0.png"group-title="CRISTIANO”,RADIO VISIÓN CRISTIANA
+http://livestreamcdn.net:1935/RadioVisionCristiana/RadioVisionCristiana/chunklist_w1432387201.m3u8
+
 
 
 
