@@ -14,133 +14,6 @@
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/ec1cef5d369181c22dbf897410ae2436/resize/1320/f/jpg/assets/multimedia/imagenes/2021/12/29/16407885708351.jpg"group-title="PELICULAS",NO MIRES ARRIBA
-https://i.getspace.us/cloud/s/HC3WEG9asb2Yoe3/download
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwj7KdPii0aWVvpNp4foLwayjWjxd3JQoyeJ6ynfEFYvLSEYZ5&s"group-title="PELICULAS",GREYHOUND
-http://192.168.1.36:30001/file/VP8s425g/video.mp4
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE PREMIUM", CIUDAD MAGAZINE HD
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Cinema%2B.png/revision/latest?cb=20210502133321&path-prefix=es"group-title="CINE PREMIUM",CINEMA+
-https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.movilinvasion.es/wp-content/uploads/2011/11/COSMO-HD.jpg"group-title="CINE PREMIUM",COSMO
-http://154.62.74.12:1935/live/smil:cosmoHD/chunklist_w1106389745_b1928000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"group-title="CINE PREMIUM", LAS ESTRELLAS 
-http://45.167.250.116:20023/play/a0hj/index.m3u
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="CINE PREMIUM”, IMAGEN TELEVISIÓN HD
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLiykSk4RqDD5ytQdes31XNI9yp7O4nZeIHTwmNIf4PRw)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png"group-title="CINE PREMIUM",CARACOL HD
-http://45.167.250.116:20023/play/a0gu/index.m3u8
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=38549.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="CINE PREMIUM",TELEMUNDO NOVELAS HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=e71c&deviceDNT=0&deviceModel=0
-
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-novelas-bo.png"group-title="CINE PREMIUM",SEOTV NOVELAS HD
-https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Alfatv.png"group-title="CINE PREMIUM", ALFA TV
-https://byecableiptv.com:443/alfatv/alfatv.stream/chunklist_w1257975845.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412"group-title="CINE PREMIUM", SONY COMEDIA
-https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/sony_novelas_1.jpg"group-title="CINE PREMIUM", SONY NOVELAS
-https://spt-novelas-1-us.samsung.wurl.tv:443/3000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991762/300x300.png?type=smartCast_channelTile"group-title="CINE PREMIUM", SONY COMPETENCIA
-https://spt-competencias-1-us.samsung.wurl.tv:443/3000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7d0042n36chiBfvqX_ooWAeFmbLK1RodNQ&usqp=CAU"group-title="CINE PREMIUM",PRENDETV - NOVELAS DE ORO
-https://d1jgsg6cns4jzy.cloudfront.net:443/dist/samsungtv/196/hls/master/playlist_1280x720.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1477331/PRENDETV_Logo.jpg?p=facebook"group-title="CINE PREMIUM",PRENDETV - ROMANCE
-https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist_1280x720.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="CINE PREMIUM",LOVE NATURE 4K
-https://bamus-spa-roku.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpxahvxoW5ryJTCqoltWFB0CSmJ38PRvAaA&usqp=CAU"group-title="CINE PREMIUM",MOUNTAIN LIVE 4K
-https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397357/chunklist_w842084170.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn01.cimediacloud.com/cifiles/394108df03034cc18cac1005bce6d321/renditions/thumbnail.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NkbjAxLmNpbWVkaWFjbG91ZC5jb20vY2lmaWxlcy8zOTQxMDhkZjAzMDM0Y2MxOGNhYzEwMDViY2U2ZDMyMS9yZW5kaXRpb25zL3RodW1ibmFpbC5qcGciLCJDb25kaXRpb24iOnsiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NTgzMDQwMH19fV19&Signature=P2jK44Uvj-7gBwtqOR1Wo71bWL-YGjuh6VPaJ4y61VoF4GTKSDyA79~346Ag-ijc59Z98eZr~zDSPypeMTjLGLu3cp~lfxP92PCVACM0SuMMW~EoXz8E6LQUhsVsp~MYs17c1e05DtKnjr90Godz5daQPjGYfhVDjF7iFvRkOlY_&Key-Pair-Id=APKAJNUSFH4IKQRZ44WA"group-title="CINE PREMIUM",CINE SONY
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #######################( ARGENTINA )###############################( ARGENTINA)##############################################################( ARGENTINA )###################################
 #############################################################################################################################################################################################
 
@@ -2914,6 +2787,70 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf07
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="CINE", RUN:TIME MX
 https://ammo-espanol-plex.amagi.tv:443/playlistR1080p.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/ec1cef5d369181c22dbf897410ae2436/resize/1320/f/jpg/assets/multimedia/imagenes/2021/12/29/16407885708351.jpg"group-title="PELICULAS",NO MIRES ARRIBA
+https://i.getspace.us/cloud/s/HC3WEG9asb2Yoe3/download
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwj7KdPii0aWVvpNp4foLwayjWjxd3JQoyeJ6ynfEFYvLSEYZ5&s"group-title="PELICULAS",GREYHOUND
+http://192.168.1.36:30001/file/VP8s425g/video.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE", CIUDAD MAGAZINE HD
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"group-title="CINE", LAS ESTRELLAS 
+http://45.167.250.116:20023/play/a0hj/index.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="CINE”, IMAGEN TELEVISIÓN HD
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLiykSk4RqDD5ytQdes31XNI9yp7O4nZeIHTwmNIf4PRw)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png"group-title="CINE",CARACOL HD
+http://45.167.250.116:20023/play/a0gu/index.m3u8
+http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=38549.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="CINE",TELEMUNDO NOVELAS HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=e71c&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-novelas-bo.png"group-title="CINE",SEOTV NOVELAS HD
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Alfatv.png"group-title="CINE", ALFA TV
+https://byecableiptv.com:443/alfatv/alfatv.stream/chunklist_w1257975845.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412"group-title="CINE", SONY COMEDIA
+https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/sony_novelas_1.jpg"group-title="CINE", SONY NOVELAS
+https://spt-novelas-1-us.samsung.wurl.tv:443/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991762/300x300.png?type=smartCast_channelTile"group-title="CINE", SONY COMPETENCIA
+https://spt-competencias-1-us.samsung.wurl.tv:443/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7d0042n36chiBfvqX_ooWAeFmbLK1RodNQ&usqp=CAU"group-title="CINE",PRENDETV - NOVELAS DE ORO
+https://d1jgsg6cns4jzy.cloudfront.net:443/dist/samsungtv/196/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1477331/PRENDETV_Logo.jpg?p=facebook"group-title="CINE",PRENDETV - ROMANCE
+https://d10xax7cor3zsm.cloudfront.net:443/dist/samsungtv/194/hls/master/playlist_1280x720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="CINE",LOVE NATURE 4K
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpxahvxoW5ryJTCqoltWFB0CSmJ38PRvAaA&usqp=CAU"group-title="CINE",MOUNTAIN LIVE 4K
+https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397357/chunklist_w842084170.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn01.cimediacloud.com/cifiles/394108df03034cc18cac1005bce6d321/renditions/thumbnail.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NkbjAxLmNpbWVkaWFjbG91ZC5jb20vY2lmaWxlcy8zOTQxMDhkZjAzMDM0Y2MxOGNhYzEwMDViY2U2ZDMyMS9yZW5kaXRpb25zL3RodW1ibmFpbC5qcGciLCJDb25kaXRpb24iOnsiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NTgzMDQwMH19fV19&Signature=P2jK44Uvj-7gBwtqOR1Wo71bWL-YGjuh6VPaJ4y61VoF4GTKSDyA79~346Ag-ijc59Z98eZr~zDSPypeMTjLGLu3cp~lfxP92PCVACM0SuMMW~EoXz8E6LQUhsVsp~MYs17c1e05DtKnjr90Godz5daQPjGYfhVDjF7iFvRkOlY_&Key-Pair-Id=APKAJNUSFH4IKQRZ44WA"group-title="CINE",CINE SONY
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
+
+
+
+
+
 
 
 
