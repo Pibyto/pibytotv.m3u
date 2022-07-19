@@ -33,8 +33,18 @@ https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/master.m3u8
 https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0KBKhum_0y4-0yY8YJLqHwIjF3uNDTsFuA&usqp=CAU"group-title="ARGENTINA",REC ONLINE TV HD
+https://master.tucableip.com/reconline/live/video.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="ARGENTINA", PELÍCULAS MANIAS
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CocFP2YrSd0JblWYVvbEOco4ivOV73zM_FodmgzaViT2r-7Ac3N5SE528UsiwLP2pfK18u78VgCp3iMi7rOwnyFUKkdKaFA5qQgc3Ob4HIUXUwhMFXprM4LOCBwhjdN9C6jz2rmWeoWXfhLxEA89AnO-AIFSJDfOQ2rpDdeu11XZfF7c9Il3hqnHiEFLasytqdmlQ9SCNp1hPJ1x39-6mlmHdD5DlrxR3BpRCOJ6Ycl0ekTz50Ele4i7or77j8m_hzOMhJd0rv44xtXFxyfP3wd3C6iJMeWKK9_CTUTPNw3IghT_pe4DBZe9DJpLTPEECQaCkyJ8YUl-dOlmLgiDq_s49jC9wA3WQ-nSRlRHbDXiVdh9e48SqEyuaZcbkTt81iN3aba93shtUh1qraH7HUT4MVBCLA5cyRl-mR9NRggWiK2dOGJIogdl1Z2nxfbO27OfCrV8Fyb03TDEYo92PZHIZ6GUW9aSz3ZOF56pgrJ-c3UNimH8orSRQKy9lbCPKx3NrUvTo-bW-I_bqAjnsZVBDEQuhB5-LSuEEFmFo0JLJ-9y3SuLdWhr7y3HHINZqcEWpMUMnCa1BYEx75a2Cacgo0DZI7GJgMaGuc4cvtBQHEOcOLSDokBRqHQqX9WUJYajYa6OwDyHtv-gsDlYRBd4On-uBv6PshWKZ-x9SypAsuE9xkNF7A1M00egkkUo4mOyfKrBc4k2P3lc3Bv1meBW7b-dMJ5DEZklWV2Njpq035HseHj8ivLqwEPJshlHVHOihHZnDqSVm5luTXlmhp91X_Sd1jk6X1weS2LqMMk3aLMqCJCN1H0a-VdDoYeLdxD73xq9gU1YPC4ULz4dDM3acVQAxGednpsaDDV-WRg6Ue9bVMZzByABKglldS13ZXN0LTIwnQQ.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/660898970/t192_400x400.jpg"group-title="ARGENTINA",CINECLUB HD
+https://servilive.com:3176/live/cineclublive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA HD
