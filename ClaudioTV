@@ -111,6 +111,10 @@ http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="ARGENTINA",13 MAX 31.1 TDA HD
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1558367580.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",13 HD JUJUY
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
@@ -235,10 +239,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="ARGENTINA",13 MAX 31.1 TDA HD
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1558367580.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png"group-title="ARGENTINA", UNIFE TV 25.1 TDA HD
