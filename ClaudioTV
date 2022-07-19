@@ -1072,6 +1072,7 @@ https://srv1.mediastreamperu.com:8081/8004/tracks-v1a1/mono.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1340479339.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/DA2asU0w91KyOcHQWUFEtBECgv-NG1pUtRrWw78Negq5uH6gEeLaaxTJkxe8f9CNTDHZJHLfpJM=s900-c-k-c0x00ffffff-no-rj"group-title="PERÚ",URANIO TV HD
+https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9buKX_Bk04NMwVg0L90MZrn29ECgoG1KcXg&usqp=CAU"group-title="PERÚ", CANAL 8
@@ -2261,6 +2262,7 @@ https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1340479339.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/DA2asU0w91KyOcHQWUFEtBECgv-NG1pUtRrWw78Negq5uH6gEeLaaxTJkxe8f9CNTDHZJHLfpJM=s900-c-k-c0x00ffffff-no-rj"group-title="CINE Y SERIES",URANIO TV HD
+https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
 
 
