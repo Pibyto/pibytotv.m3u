@@ -41,10 +41,8 @@ https://master.tucableip.com/reconline/live/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="ARGENTINA", PELÍCULAS MANIAS
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CocFBVCgtOp3pP69DgoTbJYaDhDoeYF9dHFcgeojAnaCT4eA2uo-tcpEzhgp9wRSggGur2ohnCV2DuOTzo92M_2rlDuqOrF0HxCxCAzTkQc8H4SVBE4EW8Iao8ma8wSW4SSI43z4ChdLUVuAVvz2dYpj78h2CRqJ6t91lZa8MUNIPTtI_y31JAKfmi5G-k94GmruqRvmLhRAJ9vhw_eRsEsu-rca13sJOeUF7plUeIZIjR7uw8IJYHpTrM9foBUEzcRj8oK2d3-LSfG_hiAgVYGP75OIpMfhQKEX0ylJuzgqpULvcWyT2ITxUhzCo7V0A_ntbNsYe1YMLmR48A9gg6xNSUzjOErxjvIkwiK6aK9m9J5KIxf93N4KDWc2VbUiKq8q8s0LGRvl7UtJ_iabiYcrtrtPd-QWXTWocWtX7WXWF4GE7Ahxtjdbn1CqTZHrtQrUGpmFt6NtMi-9jLoATZU_0oJGmSUiDtaDlkrjyvvlf3kz5p-kmoAkwALAYIOmBf29lA6YR8thnvwOLv18VTJDdmDZjt-9aNGYtYmKw7oSpDIRQ2ylrQ4jjnhTTA44sL-0SmLtsW9slCuOsO9KBQa9F4F0MQQhbo0Mf7owBtRNDkkK-oTQarLQHgvhjtnUyoYVObQtIu53LdItqmBF-NiWsNFCu8ugogVmZzCd4i9THA-_9nAGqr5uz5Y6dd6TGFY-40rZC8_tmcGpovmBFpmelu_vvR2g4TGa4Fh2RGhv20YmHKEVumH18SD9HD92bCfjTt0GMcabvdXJAK4so2qiQvl2yoWQM-5tFB5CcSpL2KMsVN3_mONNJzfGH_CuEYE9Dzf7zts76MEIkIIQ_IAU2C5Y_umxFDUaDAwrFaJmxi5eRIopOiABKglldS13ZXN0LTIwnQQ.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CocFP2YrSd0JblWYVvbEOco4ivOV73zM_FodmgzaViT2r-7Ac3N5SE528UsiwLP2pfK18u78VgCp3iMi7rOwnyFUKkdKaFA5qQgc3Ob4HIUXUwhMFXprM4LOCBwhjdN9C6jz2rmWeoWXfhLxEA89AnO-AIFSJDfOQ2rpDdeu11XZfF7c9Il3hqnHiEFLasytqdmlQ9SCNp1hPJ1x39-6mlmHdD5DlrxR3BpRCOJ6Ycl0ekTz50Ele4i7or77j8m_hzOMhJd0rv44xtXFxyfP3wd3C6iJMeWKK9_CTUTPNw3IghT_pe4DBZe9DJpLTPEECQaCkyJ8YUl-dOlmLgiDq_s49jC9wA3WQ-nSRlRHbDXiVdh9e48SqEyuaZcbkTt81iN3aba93shtUh1qraH7HUT4MVBCLA5cyRl-mR9NRggWiK2dOGJIogdl1Z2nxfbO27OfCrV8Fyb03TDEYo92PZHIZ6GUW9aSz3ZOF56pgrJ-c3UNimH8orSRQKy9lbCPKx3NrUvTo-bW-I_bqAjnsZVBDEQuhB5-LSuEEFmFo0JLJ-9y3SuLdWhr7y3HHINZqcEWpMUMnCa1BYEx75a2Cacgo0DZI7GJgMaGuc4cvtBQHEOcOLSDokBRqHQqX9WUJYajYa6OwDyHtv-gsDlYRBd4On-uBv6PshWKZ-x9SypAsuE9xkNF7A1M00egkkUo4mOyfKrBc4k2P3lc3Bv1meBW7b-dMJ5DEZklWV2Njpq035HseHj8ivLqwEPJshlHVHOihHZnDqSVm5luTXlmhp91X_Sd1jk6X1weS2LqMMk3aLMqCJCN1H0a-VdDoYeLdxD73xq9gU1YPC4ULz4dDM3acVQAxGednpsaDDV-WRg6Ue9bVMZzByABKglldS13ZXN0LTIwnQQ.m3u8
 
-
-#EXTINF:-1, tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="ARGENTINA”,TELECOLOR TV
+#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="ARGENTINA”,TELECOLOR HD
 https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
 
@@ -458,11 +456,8 @@ https://5f700d5b2c46f.streamlock.net/vtvmendoza/vtvmendoza/playlist.m3u8
 https://streamcasthd.com:1936/tvdiez/tvdiez/chunklist_w1569906524.m3u8
 
 
-#EXTINF:-1, tvg-logo="https://www.diarioelzondasj.com.ar/wp-content/uploads/2021/11/zondalogonuevo.webp"group-title="ARGENTINA",ZONDA TV 35.1 TDA HD
+#EXTINF:-1, tvg-logo=""group-title="ARGENTINA",ZONDA TV 35.1 TDA HD
 https://cnnsanjuan.com:9999/zonda/zonda/chunks.m3u8
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 https://cnnsanjuan.com:9999/zonda/zonda/chunks.m3u8
 
 
