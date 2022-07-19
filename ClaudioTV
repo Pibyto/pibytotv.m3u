@@ -1054,6 +1054,15 @@ https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/660898970/t192_400x400.jpg"group-title="PERÚ",CINECLUB HD
 https://servilive.com:3176/live/cineclublive.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Unitel_logo_HD.png/640px-Unitel_logo_HD.png"group-title="PERÚ”,UNITEL HD
+https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/02/vz-nuevo.png"group-title="PERÚ”,VZ TELEVISIÓN
+https://live.obslivestream.com:443/vztv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64UPlwR4MmmkqjiPYp1h4ry9F45c49kRzNMo4UCb5erbuncY&s"group-title="PERÚ",CANAL 41
 https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
 
