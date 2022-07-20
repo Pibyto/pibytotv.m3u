@@ -3101,6 +3101,7 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Logo_Avivamiento_2012_only.png/revision/latest?cb=20170803225737"group-title="CRISTIANO", AVIVAMIENTO HD
+https://s3.abntelevision.com:443/avivamientoabr/stream/avivamientosd/avivamientosd/chunks.m3u8?nimblesessionid=7623487
 https://s3.abntelevision.com:443/avivamientosd/avivamientosd/chunks.m3u8?nimblesessionid=7037764
 https://s3.abntelevision.com:443/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8?nimblesessionid=6566838
 
