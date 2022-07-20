@@ -34,6 +34,15 @@ https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd
 
 
 
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA",ORBIT TV FHD
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0KBKhum_0y4-0yY8YJLqHwIjF3uNDTsFuA&usqp=CAU"group-title="ARGENTINA",REC ONLINE TV HD
 https://master.tucableip.com/reconline/live/video.m3u8
 
@@ -43,7 +52,7 @@ https://master.tucableip.com/reconline/live/video.m3u8
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CocFBVCgtOp3pP69DgoTbJYaDhDoeYF9dHFcgeojAnaCT4eA2uo-tcpEzhgp9wRSggGur2ohnCV2DuOTzo92M_2rlDuqOrF0HxCxCAzTkQc8H4SVBE4EW8Iao8ma8wSW4SSI43z4ChdLUVuAVvz2dYpj78h2CRqJ6t91lZa8MUNIPTtI_y31JAKfmi5G-k94GmruqRvmLhRAJ9vhw_eRsEsu-rca13sJOeUF7plUeIZIjR7uw8IJYHpTrM9foBUEzcRj8oK2d3-LSfG_hiAgVYGP75OIpMfhQKEX0ylJuzgqpULvcWyT2ITxUhzCo7V0A_ntbNsYe1YMLmR48A9gg6xNSUzjOErxjvIkwiK6aK9m9J5KIxf93N4KDWc2VbUiKq8q8s0LGRvl7UtJ_iabiYcrtrtPd-QWXTWocWtX7WXWF4GE7Ahxtjdbn1CqTZHrtQrUGpmFt6NtMi-9jLoATZU_0oJGmSUiDtaDlkrjyvvlf3kz5p-kmoAkwALAYIOmBf29lA6YR8thnvwOLv18VTJDdmDZjt-9aNGYtYmKw7oSpDIRQ2ylrQ4jjnhTTA44sL-0SmLtsW9slCuOsO9KBQa9F4F0MQQhbo0Mf7owBtRNDkkK-oTQarLQHgvhjtnUyoYVObQtIu53LdItqmBF-NiWsNFCu8ugogVmZzCd4i9THA-_9nAGqr5uz5Y6dd6TGFY-40rZC8_tmcGpovmBFpmelu_vvR2g4TGa4Fh2RGhv20YmHKEVumH18SD9HD92bCfjTt0GMcabvdXJAK4so2qiQvl2yoWQM-5tFB5CcSpL2KMsVN3_mONNJzfGH_CuEYE9Dzf7zts76MEIkIIQ_IAU2C5Y_umxFDUaDAwrFaJmxi5eRIopOiABKglldS13ZXN0LTIwnQQ.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA”,TELECOLOR HD
+#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="ARGENTINA”,TELECOLOR HD
 https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
 
@@ -75,11 +84,6 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 
 
 
@@ -941,14 +945,6 @@ https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/660898970/t192_400x400.jpg"group-title="PERÚ",CINECLUB HD
 https://servilive.com:3176/live/cineclublive.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Unitel_logo_HD.png/640px-Unitel_logo_HD.png"group-title="PERÚ”,UNITEL HD
-https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/02/vz-nuevo.png"group-title="PERÚ”,VZ TELEVISIÓN
-https://live.obslivestream.com:443/vztv/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR64UPlwR4MmmkqjiPYp1h4ry9F45c49kRzNMo4UCb5erbuncY&s"group-title="PERÚ",CANAL 41
 https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
@@ -1021,6 +1017,13 @@ https://live.obslivestream.com:443/autenticatvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://huachoperutv.com/wp-content/uploads/elementor/thumbs/logo-1-p9jhmvdhk8zb9sh9bguhzvez9j02ffphsqx3erjkuo.png"group-title="PERÚ",HUACHO TV
 https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8?WebM3UCL
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Unitel_logo_HD.png/640px-Unitel_logo_HD.png"group-title="PERÚ”,UNITEL HD
+https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/02/vz-nuevo.png"group-title="PERÚ”,VZ TELEVISIÓN
+https://live.obslivestream.com:443/vztv/tracks-v1a1/mono.m3u8
 
 
 
@@ -1362,11 +1365,6 @@ https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w517185414.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EWTIboCXkAA2w4K.jpg"group-title="CINE Y SERIES”, ROX CINEMA HD
-https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/contentserver/v2/distributions/19194559/content/../../../../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/65b0a5c8-6b4c-48e0-9ca6-19558ef83bba/2.m3u8
-https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/contentserver/v2/distributions/19194559/content/../../../../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/35f300c4-ca4b-4958-b08d-429278bdf233/2.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="CINE Y SERIES",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
@@ -1391,8 +1389,6 @@ https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproduccion
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqlaMkSnaCvIuV1sBleJfciJfET2CZK257sg&usqp=CAU"group-title="CINE Y SERIES", VIWIX TV FHD
-https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE Y SERIES",ORBIT TV FHD
