@@ -3215,6 +3215,7 @@ https://videohd.live:19360/8062/8062.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Hillsong_Channel_2016.svg/revision/latest/scale-to-width-down/250?cb=20191113124426"group-title="CRISTIANO", HILLSONG CHANNEL
+https://playback.akamaized.net/streams/27460990_8266909_lsipnwlwkkrlm11hlx6_1/media/27460990_8266909_lsipnwlwkkrlm11hlx6_1@2756000pb.m3u8?dw=80&ts=1658329200&hdnts=exp=1658504401~acl=/streams/27460990_8266909_lsipnwlwkkrlm11hlx6_1/media*~hmac=e6ea8f0fcae87fcb64dccad39b2e50e91df8ad0b31e2c55d3b9f5acd01e7f9b7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d486b87428fe37d8cadba44&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=898&terminate=false&userId=
 
 
