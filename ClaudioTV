@@ -34,6 +34,9 @@ https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd
 
 
 
+#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
@@ -74,6 +77,10 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-6-mar-del-plata.png"group-title="ARGENTINA",CANAL 6 MAR DEL PLATA
 https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/playlist.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://vidatvhn.com/wp-content/uploads/2016/08/LOGO-DE-VIDA-TV.jpg"group-title="ARGENTINA", VIDA Y BENDICION TV FHD
+https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w308076895.m3u8
+https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w800220523.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png"group-title="ARGENTINA",BENDICION TV HD
 https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
@@ -89,14 +96,6 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizurzsFXDo8ia4Ro7sbFCswdtVdvDYDDrhUhEFTsgTCGHcu5PJWkLbqaj7LG11wNpYaWQJULsU6ndhv_PU5BwtDKBkQCM_HcQgxXlYm9Sr0SOH0USuESStjDfkxCfarjuhn_IJROLTUr2b8WzIpw21F_MZ3uHFPsA_Ngq38SCe5iplYuiHmf9CVfAH/s551/Eltrece_(Sol).webp"group-title="ARGENTINA",EL TRECE 33.1 TDA HD
