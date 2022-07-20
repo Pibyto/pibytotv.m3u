@@ -40,6 +40,10 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="ARGENTINA",MEGA TV
+https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA",ORBIT TV FHD
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
