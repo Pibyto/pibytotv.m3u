@@ -57,6 +57,10 @@ https://vsd64.mycdn.me:443/hls/1698824391191.m3u8/sig/MP8HADlUUxI/expires/165849
 https://vsd98.mycdn.me:443/hls/1698824391191.m3u8/sig/gNcnO1MOJWI/expires/1658424029528/srcIp/186.132.6.98/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO.png"group-title="ARGENTINA”,CONTACTO DEPORTIVO
+https://live.obslivestream.com:443/cdeportivo/tracks-v2a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="ARGENTINA", PELÍCULAS MANIAS
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoYFGdsEg6J9aMPrOaegx57hutEa0pFhRBzTDkUVcwnMhopvU9cWPJS_ujLcXfbJ3hPdvGTo7jeYYDxbVrdIL084wFcfDWhwVK653RxfD_Y2xjRGqgf9OIGEKEbYsNp9boOVQuVXPr9GV2nbjdk78Co9sPp6fLCIfn-j8wiiuPgCk_urhJKTOd4KqGWEBqdjbgOkMZGB2lP-sy8w_hDX06J9fSqthHA_bZk-t4InbsJRum4-lsl-WD9R3JSX5YnME4yMG5yLAwKeBelRRPlVt7dlUf5wuZOgDAMnQhdKJj1xk-CxkFv93MfwSY6Rg6EaTLDpSwPvhE5ba6-701GcaLJxrtlLcCvYETjKA_l8ChEQJLcqyZ7KtX-YpcptbnuTla3Uym_llwOXEg543SeKDeOeVeXwr2xBCgiI9V6msyL-BzUHRv4Oxxfos1zBdqrw1zh0moMwhel3xwiDpviHQbMBVTgVr30BA-3TEll0R0811zgbKxm5ABoSgRNT5ZwT5-mZAWWbK4tfgtAhm2flFfjOwj5tSBnvZwDhE7Oq6Sx0qFtKb0_UycGwmdj3eO85psL5BCLjiswqXZkbGytq_y03-Hz2qaRpP7sbeVxk6jPjCSz91-sTYwqoFeuKy3A1-kOhjvZqJm-_bum9I7yIytUu_cUkA7LADjzVgHVv6NtTfUX6JaVTKD2Xw0hBg8bsLUvJtMBgLxK02B6YjmRHal46sO78ObLsjWcA4_BoVa8HMCcl4GS6z6oBUMUXDrs-4DsLo2zLO3yVrFcGMSYaHwj6IKOEENkXUt2TksD1V60QfQYsJyiL-aolD86U7Qa6br7ZTt_rSMPfL7XgVQ4OEtwgNJ4gA1mUVRoMTT31XHA630QsUEmtIAEqCWV1LXdlc3QtMjCfBA.m3u8
@@ -172,12 +176,6 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO.png"group-title="ARGENTINA”,CONTACTO DEPORTIVO
-https://live.obslivestream.com:443/cdeportivo/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="ARGENTINA”,TELECOLOR TV
-https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PÚBLICA 23.2 TDA HD
@@ -377,8 +375,9 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tputRy4YD-A/hqdefault.jpg"group-title="ARGENTINA",CANAL 4 HD
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7i6BoXpgX3L1cSee8cHM0JzPwZzTWHeo3_g&usqp=CAU"group-title="ARGENTINA", NEUQUÉN TV HD
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-10-neuquen-tv.png"group-title="ARGENTINA",10 NEUQUÉN
 https://stmv1.srvstm.com/tv10/tv10/chunklist_w1756704232.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png"group-title="ARGENTINA", ESTRELLA TV HD
