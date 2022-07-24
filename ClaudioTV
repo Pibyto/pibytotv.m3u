@@ -40,7 +40,7 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t1.6435-9/82536410_1298596117000777_4339975353511444480_n.png?stp=cp0_dst-png_p64x64&_nc_cat=110&ccb=1-7&_nc_sid=85a577&_nc_aid=0&efg=eyJpIjoidCJ9&_nc_eui2=AeGDKrvLw8FpOnB6o_U95dL6mBnBPxONlN-YGcE_E42U39bwJJtV8f1lYXwvFwm9u7WDQehRHoAnkYwqGdHks3_q&_nc_ohc=jNn4XnH9c9YAX9eFtJY&_nc_ht=scontent.feze8-1.fna&oh=00_AT_dD61huVwyRmE8mVM663rYxScVEtQtBDtcdgcv7GgsMw&oe=62FE3DBD"group-title="ARGENTINA",LTV
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CooF9kFKyef8lDim3hoX2g-_AhG-GdxwUK0Np5CAgzCgq0R0IJQ9FefQ6w7sYvYHkz8fvcFWmYN5Qkkvdx6dy4Y9OsaO44wZFe1RcVlja9wzQlANpY-eSl6O4X5i8gJ5aCbUtd5tucfPsIdb3XITg6BAbTru2K9h9ZSpxuocRwVuXD59mhH2CgceoUXfSPL9DeLlB2G5too4rpg06OuY1tEi8zpTfsWri0W-f5JW9njF0m7Ge6KULbDNWG1L9Rmx3kSQe_RnK8lcbers2b57QtWdNM-3-GXFBkl9cfFH1Kai6509-FwaEXrxUqNqPu9uaYoU4l7ry4u3MpmnGrkTTbqI4yikrbPFw_sdK6j5Bb5L7X4u3WBui0LFIwQsvLIqnRnOquCBFucaeApnFgkPbdbVdRpWEjAuTQ_Fo8AbSgiGDUG5L1Wc42_VA4lPR1wqXZ-qzbRacHUeelMu3baRppMBzZ8xCxoD4O6m96rTpI5OqQ-wwIP8D_EdxOu6-4078IkOxWHkXE1Y5ZTHKkIeMYrBuefUWcE78K-LozujPv33NJODoR0ab6jd-BKUFfH5_54zu6U_itb5cE2_cC4ul3kVc8qg2BBpKK7Q770SSTiAxzBF1mvSC_QrqMslr9TgClDxT2SQOmPPA1sV4GKmDVE7M_lN-XhSzSrFg13ufuSVJBUMP6D0A6jxUkOhn5-X9jw24EivF1atDPBGldI5TxcqjK0PkXnriWHKQm4KXKv9aT1ipFiRnJ_wxTlt-nxDtVYScmvFFaQV4IYED3uILbrA2_xALxZ9sBeuQ4CQZQrWPdqRHQj9ENd5Qm6qdHqBw6gZPI972iueNkQ_2lcKeHH8gYTnJt7mjPjbKH4aDH9qgHo99VO6uykIlyABKgl1cy1lYXN0LTEw1QI.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD
@@ -57,6 +57,7 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvYEkyr7UFAkKaZzcGPBv_MmNkS
 
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL HD
+https://vsd98.mycdn.me:443/hls/1698824391191.m3u8/sig/HNbxEnM4TPk/expires/1658766808603/srcIp/186.132.95.173/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 https://vsd64.mycdn.me:443/hls/1698824391191.m3u8/sig/MP8HADlUUxI/expires/1658499658198/srcIp/186.132.6.98/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 https://vsd98.mycdn.me:443/hls/1698824391191.m3u8/sig/gNcnO1MOJWI/expires/1658424029528/srcIp/186.132.6.98/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
@@ -3115,6 +3116,7 @@ https://mediacp.hostradios.com.ar:19360/8092/8092.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="CRISTIANO",TVR DIGITAL HD
+https://vsd98.mycdn.me:443/hls/1698824391191.m3u8/sig/HNbxEnM4TPk/expires/1658766808603/srcIp/186.132.95.173/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 https://vsd64.mycdn.me:443/hls/1698824391191.m3u8/sig/MP8HADlUUxI/expires/1658499658198/srcIp/186.132.6.98/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 https://vsd98.mycdn.me:443/hls/1698824391191.m3u8/sig/gNcnO1MOJWI/expires/1658424029528/srcIp/186.132.6.98/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 https://vsd137.mycdn.me:443/hls/1698824391191.m3u8/sig/haWZ_f89B7E/expires/1656717935217/srcIp/186.141.134.88/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
