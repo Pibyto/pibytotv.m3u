@@ -193,6 +193,15 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://www.telemixtelefonia.com.br/static/media/logotipo.8c86e3f5.png"group-title="ARGENTINA",TELEMIX GLEW HD
+https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tXAlGJ2CGUZa83ai_ZASZrU8wMktFAjTZw&usqp=CAU"group-title="ARGENTINA",CANAL 5 TV HD COLONIA AVELLANEDA
+https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA", CANAL 32 SPTV HD
 https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
 https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
@@ -402,13 +411,6 @@ https://stmv1.srvstm.com/tv10/tv10/chunklist_w1756704232.m3u8
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="http://www.telemixtelefonia.com.br/static/media/logotipo.8c86e3f5.png"group-title="ARGENTINA",TELEMIX GLEW HD
-https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tXAlGJ2CGUZa83ai_ZASZrU8wMktFAjTZw&usqp=CAU"group-title="ARGENTINA",CANAL 5 TV HD COLONIA AVELLANEDA
-https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazU3ezIujT_Tk3lKBHC8mxbAM1ZoFQGwjPg&usqp=CAU"group-title="ARGENTINA",TELEFUSION HD
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CqgF4vnG7KuFV3qk1_OqxAtguWZ1hnsm22M_o40PICqglvyL3SxxTGm7Y12S6ueYeN2Qx1OcByrYwjCr0KqYQC1VCc-o-Vl51li4pNtnPzadr5xSWcWO0dP4lyaWiPubFCCKkTcF1hqe246jJsnhyYi4BKGP2yAAE2PTlLBf9DEjPl1MqT01yHAX0zawYMQu1pxQm4OxjxppMeZ6iruPk_YfvmfUS2jRQud6txiJm6wxXMQf-TDPtKBA6q-gC7KVOzpH56_bONu60Z88fQ284B8W5PQ23uDfAI47mMWeZ4B4sC0ps_zpDhPOouRxwySWsHtlc8BAHTqAXJNFDTmYS7bp-tGi5K0WvQc9f1JF0d2Hfj_6VfDGGomG--a7FXMBPLf6EVWJqIIcI_vRpy9s4MqPPMkHknU1kemzlUGGqcTIWuu08fEwcoAUuUlhZXLVR7q9Jt-cSMaNATaJYl5IiSJMtyqOuHmxqiIRxB1yCc4dd5BnsCAiUbahX0UkNuRUw1kQlhpO_klTWAIzEK5D-l0KRja72JWxagVianKlk-mEr8hE4Qw9J3V2-_-5pEaQf5hAe9MQliXUqUc9ixCRVvs1skQeK7a4ZUyQe0tU7pEltIGd-7Fd-Umwi-hwklJsaE4FqgLQGgFeTKgHU0-Kx_HR58eCn6F2pjglMJy0c7o02g4iDl8xtdGTqs01TcO2qCVbBpJgTNQYsZmyxTY7tzDdfJBhVqZogHxx0hpS_odhNeeo1_2S81OQQpEbYp8aQ1uYVWa4ttUSB0TzJikTWpJ8HVIdMLrw_kK4mr_4oJiZEIfQb-rLCtBuyI_ZAbO7g6InqeP27WGKsvSGFChR6umNeyb21h5tKDxrO65vqInEVjz6-K2tb7p2bxoFCsRpURKm0CknHobpU-IaDGzHZmO6T8oc2EvhECABKgl1cy1lYXN0LTEw1wI.m3u8
@@ -419,8 +421,6 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoEFJzFsTktCg3L-cgIMlhQuri7
 http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw"group-title="ARGENTINA”,12 TARTAGAL
-https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w440800729.m3u8
 
 
 
