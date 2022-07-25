@@ -1912,14 +1912,6 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/PX_Sports_-_Logo.png"group-title="DEPORTES",PX Sports
-https://edge-live15-sl.cvattv.com.ar/live/c7eds/PX_Sports/SA_SAGEMCOM/PX_Sports.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free-1200x675.png"group-title="DEPORTES", NBA TV
-http://edge-live15-sl.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://laligapro.live/wp-content/uploads/2021/11/El-canal-del-Futbol-Gratis-Ecuador.png"group-title="DEPORTES",ECDF SD
 http://45.71.185.142:8500/play/a006
@@ -1927,42 +1919,6 @@ http://45.71.185.142:8500/play/a006
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png"group-title="DEPORTES",GOL TV
 http://45.71.185.142:8500/play/a03b
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png"group-title="DEPORTES", VTV HD
-http://edge-live13-sl.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png"group-title="DEPORTES",VTV PLUS HD
-http://edge3-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
-http://edge-live13-sl.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png"group-title="DEPORTES",WIN SPORTS HD
-http://45.167.250.116:20023/play/a0hb/index.m3u8
-https://d21gtq1mno4siw.cloudfront.net:443/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index_9.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png"group-title="DEPORTES",WIN SPORTS + HD
-http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/145274
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-positivo-logo-F60FDA68AF-seeklogo.com.png"group-title="DEPORTES",TUDN MX
-http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/145210
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=50394.m3u8
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=16592.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/ioy32l1623579346.png"group-title="DEPORTES",TIGO SPORTS
-http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/145270
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=37854.m3u8
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=37854.m3u8
-http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=201&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-911014374.png"group-title="DEPORTES",AFFICIONADOS
-http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/145267
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=10734.m3u8
-http://gratis.shortgod.com/tardeotempranocaeras/tv4.php?c=30&f=.m3u8
 
 
 
@@ -1984,27 +1940,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f9
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd5VJBMxmgfymotXmRPiD6lBwx7Y-bykmGDw&usqp=CAU"group-title="DEPORTES",ALLSPORTS HD
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1358957669.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1200px-kgLiga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="DEPORTES",LIGA DE CAMPEONES
-http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/145198
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=38569.m3u8
-https://spliktv@www.olacast.live/cdn/premium435/chunks.m3u8
-http://gratis.shortgod.com/tardeotempranocaeras/tv6.php?c=12205
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png"group-title="DEPORTES", LALIGATV
-http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/145204
-https://spliktv@www.olacast.live/cdn/premium84/chunks.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1280px-Sky_Sport_-_Logo_2020.svg.png"group-title="DEPORTES", SKY SPORTS liga Inglesa
-http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/145254
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=39090.m3u8
-http://144.126.128.123:25461/manoapoyanos/shortgod.com/11708
 
 
 
