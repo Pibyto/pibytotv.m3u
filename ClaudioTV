@@ -62,6 +62,7 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvYEkyr7UFAkKaZzcGPBv_MmNkS
 
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL HD
+https://vsd64.mycdn.me:443/hls/1698824391191.m3u8/sig/0uE-guP_TMc/expires/1658879659883/srcIp/186.132.24.57/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 https://vsd98.mycdn.me:443/hls/1698824391191.m3u8/sig/HNbxEnM4TPk/expires/1658766808603/srcIp/186.132.95.173/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
 
@@ -3045,10 +3046,10 @@ https://mediacp.hostradios.com.ar:19360/8092/8092.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="CRISTIANO",TVR DIGITAL HD
-https://vsd98.mycdn.me:443/hls/1698824391191.m3u8/sig/HNbxEnM4TPk/expires/1658766808603/srcIp/186.132.95.173/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd64.mycdn.me:443/hls/1698824391191.m3u8/sig/MP8HADlUUxI/expires/1658499658198/srcIp/186.132.6.98/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd98.mycdn.me:443/hls/1698824391191.m3u8/sig/gNcnO1MOJWI/expires/1658424029528/srcIp/186.132.6.98/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd137.mycdn.me:443/hls/1698824391191.m3u8/sig/haWZ_f89B7E/expires/1656717935217/srcIp/186.141.134.88/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+https://vsd64.mycdn.me:443/hls/1698824391191.m3u8/sig/0uE-guP_TMc/expires/1658879659883/srcIp/186.132.24.57/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/02/Teve-Vida-Logo-nuevo.jpg"group-title="CRISTIANO",TEVE VIDA HD
