@@ -349,6 +349,9 @@ https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chu
 https://g2.vxral-slo.transport.edge-access.net:443/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_720p/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.barricadatv.org/wp-content/uploads/2018/11/logo-2018-negro.png"group-title="ARGENTINA",BTV
+https://live-ak.vimeocdn.com:443/exp=1658760201~acl=%2F83731d92-0b5d-4cc9-8252-3ad1edbdceab%2F%2A~hmac=48bd3f6e0b026459a922d233ee9f61851b7584fffce66f7e24883165f2d8cd39/83731d92-0b5d-4cc9-8252-3ad1edbdceab/chunklist_b3256000.m3u8?max_segments=10
+
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7GzAhPIJ7stO3deYfYGxQnCB3Hywpxygs_Go-GYJh8iaP4cD3SGzgLkoGSNvyq85v7DK=w1024-h500"group-title="ARGENTINA",TIV TELEVISIÓN HD
 https://inliveserver.com:1936/14044/14044/playlist.m3u8?WebM3UCL
