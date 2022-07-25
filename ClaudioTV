@@ -33,6 +33,9 @@ https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/master.m3u8
 https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="ARGENTINA”,TELECOLOR HD
+https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
@@ -47,6 +50,11 @@ https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU"group-title="ARGENTINA",IU TV HD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="ARGENTINA",MEGA TV
@@ -75,13 +83,6 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CokFXCIerKtGDsds2LKZYhXV-Zg
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzOf8GDWrw_ugoYdp6CAZSASVT8c_H_W6YuA&usqp=CAU"group-title="ARGENTINA",BH TV HD
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w904046097.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="ARGENTINA”,TELECOLOR HD
-https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3RYMnmTIyV5g_qhqVhS61zpIb0aOu7nyTKjscOe6JHXeEDgJ&s"group-title="ARGENTINA",CINECLUB HD
