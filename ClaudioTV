@@ -39,9 +39,11 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://planetatv.online/intro/wp-content/uploads/2022/04/cropped-planetatvlogo.png"group-title="ARGENTINA",PLANETA TV
+#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png"group-title="ARGENTINA",PLANETA TV
 https://tls-cl.cdnz.cl:443/planetatv2/ngrp:live_all/chunklist_w469323088_b2628000.m3u8
 
+#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png"group-title="ARGENTINA", PLANETA TV KIDS
+https://mediacpstreamchile.com:1936/8152/8152/chunklist_w7563904.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD
