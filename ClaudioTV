@@ -39,6 +39,9 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="ARGENTINA",PLANETA TV
+https://tls-cl.cdnz.cl:443/planetatv2/ngrp:live_all/chunklist_w469323088_b2628000.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD
@@ -1348,7 +1351,8 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Co4FQ2uhG6YbrdiKXY8gLv5oFxJ
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?WebM3UCL
+https://tls-cl.cdnz.cl:443/planetatv2/ngrp:live_all/chunklist_w469323088_b2628000.m3u8
+
 
 
 
