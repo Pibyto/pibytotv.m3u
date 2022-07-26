@@ -39,7 +39,7 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="ARGENTINA",PLANETA TV
+#EXTINF:-1 tvg-logo="https://planetatv.online/intro/wp-content/uploads/2022/04/cropped-planetatvlogo.png"group-title="ARGENTINA",PLANETA TV
 https://tls-cl.cdnz.cl:443/planetatv2/ngrp:live_all/chunklist_w469323088_b2628000.m3u8
 
 
