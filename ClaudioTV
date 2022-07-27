@@ -797,15 +797,10 @@ https://59ce1298bfb98.streamlock.net:443/rcctv02/rcctv02/chunklist_w367521064.m3
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png"group-title="PARAGUAY",GEN HD
 https://rds3gen.desdeparaguay.net:443/gentv/gentv_int_alta/chunklist_w1726674394.m3u8?k=3b9bf8cbc53d3800853e5ae0becdca865541cf0b767ff58248333138738b8497&exp=1658330411
-http://svtv.xyz:8080/Apoyemos/HVUMW/124582
-http://edge10-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_SAGEMCOM/GEN_TV.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wcyRNZMLhuCQM7AXHvZN_sNW0lHXdVCMyA&usqp=CAU"group-title="PARAGUAY",5DIAS HD
-http://edge5-hr.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_SAGEMCOM/5_Dias_PY.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3fae4e_bf58b7726a1e4f4992cb3fe7a0bd7e50~mv2.png/v1/fill/w_2500,h_1148,al_c/3fae4e_bf58b7726a1e4f4992cb3fe7a0bd7e50~mv2.png"group-title="PARAGUAY",CANAL PRO hD
-http://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Canal_PRO/SA_SAGEMCOM/Canal_PRO.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/06/edulogo3-300x204.png"group-title="PARAGUAY",EDUCANAL HD
 https://59ce1298bfb98.streamlock.net:443/educanal/educanal/chunklist_w1429510679.m3u8
@@ -815,10 +810,6 @@ https://59ce1298bfb98.streamlock.net:443/educanal/educanal/chunklist_w1429510679
 https://59ce1298bfb98.streamlock.net:443/mastv/mastv/chunklist_w1042350252.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/TV-Camara-Paraguay-en-vivo-Online.png"group-title="PARAGUAY",TV CAMARA HD
-http://edge5-sl.cvattv.com.ar/live/c4eds/TV_Camara/SA_SAGEMCOM/TV_Camara.m3u8
-http://edge1-hr.cvattv.com.ar/live/c4eds/TV_Camara/SA_SAGEMCOM/TV_Camara.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-31-at-12.29.17-300x210.jpeg"group-title="PARAGUAY", CANAL RTV 12 
@@ -848,7 +839,8 @@ http://159.203.148.226/live/farra.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png"group-title="PARAGUAY",GO HD
-https://rds3.desdeparaguay.net:443/gotv/gotv/chunklist_w1270557878.m3u8?k=439d9c49b004387541ec185240211821282603b7be798bb85be4ee3e4f60c6d5&exp=1653534234
+https://rds3.desdeparaguay.net:443/gotv/gotv/chunklist_w915671998.m3u8?k=cf6f747a06ff0819d6e281ed8d80280ebc39afb937b41fbee931d86554794036&exp=1658944881
+
 
 
 #EXTINF:-1 tvg-logo="https://paraguayonline.net/wp-content/uploads/2021/12/02.png"group-title="PARAGUAY",FRUTILLAR TV HD
