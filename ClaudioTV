@@ -920,9 +920,6 @@ https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg"group-title="PERÚ",LATINA HD
-http://45.167.250.116:20023/play/a0cz/index.m3u8
-http://soberon.us:25461/live/bulln3w/s0beron/461.m3u8
-http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/78239
 
 
 
@@ -930,28 +927,17 @@ http://777back.xyz:8080/clauDio930/fTPTXdfbLKBe/78239
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n.svg.png"group-title="PERÚ",AMÉRICA HD
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=OCJTyBZFwMnwC01tnIXJiG9zbSL5NEx7&sid=VmCEy6yEs2pJYwFdUmfHKhW93fjMfUnw&pid=pLbnCggDlis27b0nJUiqWKgsfZ3nug2C&c=12810385&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=EDGlUNH5cdm01kPSXQfaSsuUGl2kPgDhHrM8dAcmHA8LXW1zGB4ACtrujqYo3mvZrRfSCEuwSo1&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1657761568475&ot=1GK8xkbB811iLuCdeDM-iA&proto=https&pz=us
-http://45.167.250.116:20023/play/a0d1/index.m3u8
-http://45.167.250.116:20023/play/a0d1/index.m3u8
-http://777back.xyz:8080/live/clauDio930/fTPTXdfbLKBe/78237.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png"group-title="PERÚ",EXITOSA HD
-https://cu.onliv3.com/livevd1/user2_low/index.m3u8
-https://cu.onliv3.com/livevd1/user2.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/panamericana-logo-6EB4821309-seeklogo.com.png"group-title="PERÚ",PANAMERICANA HD
-http://45.167.250.116:20023/play/a0d2/index.m3u8
-https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png"group-title="PERÚ",WILLAX HD
-http://soberon.us:25461/live/bulln3w/s0beron/473.m3u8
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmuPgaTGCMxIqzT6nPVcqh2kyfTZh1h_UqPtytGHJuUdu)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
-
 
 
 
@@ -960,7 +946,7 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034455064633647104/SD5M8e12_400x400.jpg"group-title="PERÚ",ATV+
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+
 
 
 
@@ -992,6 +978,7 @@ https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400"group-title="PERÚ",BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 http://iptv.streamhispanatv.net:25461/playgt/123456/105
 
 
