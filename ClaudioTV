@@ -1270,6 +1270,21 @@ https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_2_logo.svg/1200px-Canal_2_logo.svg.png"group-title="COLOMBIA",CANAL 2
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png"group-title="COLOMBIA",UNO HD
 http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69250.m3u8
 
