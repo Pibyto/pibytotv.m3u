@@ -85,6 +85,17 @@ http://190.83.119.67:8000/play/a0qa/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA",DHE HD
+http://190.83.119.67:8000/play/a0qd/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA",AMC HD
+http://190.83.119.67:8000/play/a0q8/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA",CINECANAL HD
+http://190.83.119.67:8000/play/a0sl/index.m3u8
+
 
 
 
