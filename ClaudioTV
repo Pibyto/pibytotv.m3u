@@ -21,6 +21,73 @@
 
 
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA", STUDIO UNIVERSAL HD
+http://190.83.119.67:8000/play/a0q2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA", WARNER HD
+http://190.83.119.67:8000/play/a0tk/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA",TNT HD
+http://190.83.119.67:8000/play/a0sq/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA",TNT SERIES HD
+http://190.83.119.67:8000/play/a0ta/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA",TBS HD
+http://190.83.119.67:8000/play/a0pj/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA",SONY HD
+http://190.83.119.67:8000/play/a0sk/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA",SPACE HD
+http://190.83.119.67:8000/play/a0ph/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA",STAR CHANNEL HD
+http://190.83.119.67:8000/play/a0si/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA",HBO HD
+http://190.83.119.67:8000/play/a0or/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA",HBO 2 HD
+http://190.83.119.67:8000/play/a0os/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA",HBO+ HD
+http://190.83.119.67:8000/play/a0ot/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA",HBO FAMILY HD
+http://190.83.119.67:8000/play/a0ou/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA",HBO EXTREME HD
+http://190.83.119.67:8000/play/a0ov/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="group-title="ARGENTINA",FX HD
+http://190.83.119.67:8000/play/a0qa/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_05/large_es.png.36ee9377a3b8a9c22b519d73de03d6c9.png"group-title="ARGENTINA", ESPN PREMIUM HD
 
 
