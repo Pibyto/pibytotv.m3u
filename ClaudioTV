@@ -37,7 +37,7 @@ http://190.83.119.67:8000/play/a0tk/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="group-title="ARGENTINA",TNT HD
-https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/master.m3u8?hdnea=st=1659501748~exp=1659502348~acl=/*~hmac=83310a96c2b833fc77f86012f983d578530dcb33eda0a6ed7c2da0568638cae4
+https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/master.m3u8
 http://190.83.119.67:8000/play/a0sq/index.m3u8
 
 
@@ -54,7 +54,7 @@ http://190.83.119.67:8000/play/a0sk/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="group-title="ARGENTINA",SPACE HD
-https://latamlive.warnermediacdn.com/hls/live/2042050/arg_spa_sur/master.m3u8?hdnea=st=1659501598~exp=1659502198~acl=/*~hmac=10fff25ef2276cead08b62a1fb8363a687cf135c2938681c835dcb15ee3f9d8b
+https://latamlive.warnermediacdn.com/hls/live/2042050/arg_spa_sur/master.m3u8
 http://190.83.119.67:8000/play/a0ph/index.m3u8
 
 
