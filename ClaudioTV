@@ -44,7 +44,7 @@ https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/master.m3u8
 http://190.83.119.67:8000/play/a0ta/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="group-title="ARGENTINA",TBS HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c4/0c/55/c40c55e69052d230974ec9295a8121d2.png"group-title="ARGENTINA",TBS HD
 http://190.83.119.67:8000/play/a0pj/index.m3u8
 
 
