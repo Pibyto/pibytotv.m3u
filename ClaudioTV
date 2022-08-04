@@ -40,7 +40,7 @@ https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="group-title="ARGENTINA",TNT SERIES HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"group-title="ARGENTINA",TNT SERIES HD
 http://190.83.119.67:8000/play/a0ta/index.m3u8
 
 
