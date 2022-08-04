@@ -66,11 +66,11 @@ http://190.83.119.67:8000/play/a0si/index.m3u8
 http://190.83.119.67:8000/play/a0or/index.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",HBO 2 HD
+#EXTINF:-1 tvg-logo="http://www.skypetv.live/uploads/png/6141709c4705888d77281b1cc77ea184.png"group-title="ARGENTINA",HBO 2 HD
 http://190.83.119.67:8000/play/a0os/index.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",HBO+ HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg"group-title="ARGENTINA",HBO+ HD
 http://190.83.119.67:8000/play/a0ot/index.m3u8
 
 
