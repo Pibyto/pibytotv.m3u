@@ -5,107 +5,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
 #######################( ARGENTINA )###############################( ARGENTINA)##############################################################( ARGENTINA )###################################
 #############################################################################################################################################################################################
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="CINE PREMIUM", IMAGEN TELEVISIÓN
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLiXVbmOwww3B8-LMDmhv8PS3g9yl7CbmyPuoXDHTyRfU)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoG33WQTdGwOe1F6ce4ilO6P8OGxVZQO3a20hvq4cWVi)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://rethinkresearch.biz/wp-content/uploads/2016/08/Rakuten-TV.png"group-title="CINE PREMIUM", RAKUTEN TV - ACCIÓN 
-https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/09/studio-universal.png"group-title="CINE PREMIUM", STUDIO UNIVERSAL HD
-http://190.83.119.67:8000/play/a0q2/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/200?cb=20190208204234&path-prefix=es"group-title="CINE PREMIUM", WARNER HD
-http://190.83.119.67:8000/play/a0tk/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"group-title="CINE PREMIUM",TNT HD
-http://190.83.119.67:8000/play/a0sq/index.m3u8
-https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/master.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"group-title="CINE PREMIUM",TNT SERIES HD
-http://190.83.119.67:8000/play/a0ta/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c4/0c/55/c40c55e69052d230974ec9295a8121d2.png"group-title="CINE PREMIUM",TBS HD
-http://190.83.119.67:8000/play/a0pj/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sony_Channel_latam_logo.svg/1200px-Sony_Channel_latam_logo.svg.png"group-title="CINE PREMIUM",SONY HD
-http://190.83.119.67:8000/play/a0sk/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/b055cde36c68c140ed0655591aa6b50d/section/591c5a3dbbd82d28b90fb3c2/b7e8791cae315d2462a92bb7f26d4d4b/img.png?_v=1.5.70"group-title="CINE PREMIUM",SPACE HD
-http://190.83.119.67:8000/play/a0ph/index.m3u8
-https://latamlive.warnermediacdn.com/hls/live/2042050/arg_spa_sur/master.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg"group-title="CINE PREMIUM",STAR CHANNEL HD
-http://190.83.119.67:8000/play/a0si/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/ac/0e/80ac0e5a909f75ef1adb25bc74e8b8af.jpg"group-title="CINE PREMIUM",HBO HD
-http://190.83.119.67:8000/play/a0or/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.skypetv.live/uploads/png/6141709c4705888d77281b1cc77ea184.png"group-title="CINE PREMIUM",HBO 2 HD
-http://190.83.119.67:8000/play/a0os/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg"group-title="CINE PREMIUM",HBO+ HD
-http://190.83.119.67:8000/play/a0ot/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s34879_ld_h15_ac.png"group-title="CINE PREMIUM",HBO FAMILY HD
-http://190.83.119.67:8000/play/a0ou/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRmqDy7FW_17wPh_evq-wDRiQSfBn8pvAgA&usqp=CAU"group-title="CINE PREMIUM",HBO EXTREME HD
-http://190.83.119.67:8000/play/a0ov/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_YkZZPo1aKZU/SSoJH1nL8EI/AAAAAAAAGs4/eBScbxlNG54/s400/fx.gif"group-title="CINE PREMIUM",FX HD
-http://190.83.119.67:8000/play/a0qa/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png"group-title="CINE PREMIUM",DHE HD
-http://190.83.119.67:8000/play/a0qd/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large_AMC.png.c1008a9acad4a136c43f64eacf3ac461.png"group-title="CINE PREMIUM",AMC HD
-http://190.83.119.67:8000/play/a0q8/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"group-title="CINE PREMIUM",CINECANAL HD
-http://190.83.119.67:8000/play/a0sl/index.m3u8
 
 
 
@@ -736,6 +640,103 @@ https://5975e06a1f292.streamlock.net:4443/somosnoticias/somosnoticias/chunklist_
 
 
 
+
+
+
+
+
+
+
+
+##############$######################################################№############################################################################################################
+###########$$$$$$$$$#########( PREMIUM )################################( PREMIUM )#############################( PREMIUM )###############################( PREMIUM )#############
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="CINE PREMIUM", IMAGEN TELEVISIÓN
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLiXVbmOwww3B8-LMDmhv8PS3g9yl7CbmyPuoXDHTyRfU)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoG33WQTdGwOe1F6ce4ilO6P8OGxVZQO3a20hvq4cWVi)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
+
+
+#EXTINF:-1 tvg-logo="https://rethinkresearch.biz/wp-content/uploads/2016/08/Rakuten-TV.png"group-title="CINE PREMIUM", RAKUTEN TV - ACCIÓN 
+https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/09/studio-universal.png"group-title="CINE PREMIUM", STUDIO UNIVERSAL HD
+http://190.83.119.67:8000/play/a0q2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/200?cb=20190208204234&path-prefix=es"group-title="CINE PREMIUM", WARNER HD
+http://190.83.119.67:8000/play/a0tk/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"group-title="CINE PREMIUM",TNT HD
+http://190.83.119.67:8000/play/a0sq/index.m3u8
+https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"group-title="CINE PREMIUM",TNT SERIES HD
+http://190.83.119.67:8000/play/a0ta/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c4/0c/55/c40c55e69052d230974ec9295a8121d2.png"group-title="CINE PREMIUM",TBS HD
+http://190.83.119.67:8000/play/a0pj/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sony_Channel_latam_logo.svg/1200px-Sony_Channel_latam_logo.svg.png"group-title="CINE PREMIUM",SONY HD
+http://190.83.119.67:8000/play/a0sk/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/b055cde36c68c140ed0655591aa6b50d/section/591c5a3dbbd82d28b90fb3c2/b7e8791cae315d2462a92bb7f26d4d4b/img.png?_v=1.5.70"group-title="CINE PREMIUM",SPACE HD
+http://190.83.119.67:8000/play/a0ph/index.m3u8
+https://latamlive.warnermediacdn.com/hls/live/2042050/arg_spa_sur/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg"group-title="CINE PREMIUM",STAR CHANNEL HD
+http://190.83.119.67:8000/play/a0si/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/ac/0e/80ac0e5a909f75ef1adb25bc74e8b8af.jpg"group-title="CINE PREMIUM",HBO HD
+http://190.83.119.67:8000/play/a0or/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.skypetv.live/uploads/png/6141709c4705888d77281b1cc77ea184.png"group-title="CINE PREMIUM",HBO 2 HD
+http://190.83.119.67:8000/play/a0os/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg"group-title="CINE PREMIUM",HBO+ HD
+http://190.83.119.67:8000/play/a0ot/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s34879_ld_h15_ac.png"group-title="CINE PREMIUM",HBO FAMILY HD
+http://190.83.119.67:8000/play/a0ou/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRmqDy7FW_17wPh_evq-wDRiQSfBn8pvAgA&usqp=CAU"group-title="CINE PREMIUM",HBO EXTREME HD
+http://190.83.119.67:8000/play/a0ov/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_YkZZPo1aKZU/SSoJH1nL8EI/AAAAAAAAGs4/eBScbxlNG54/s400/fx.gif"group-title="CINE PREMIUM",FX HD
+http://190.83.119.67:8000/play/a0qa/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png"group-title="CINE PREMIUM",DHE HD
+http://190.83.119.67:8000/play/a0qd/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large_AMC.png.c1008a9acad4a136c43f64eacf3ac461.png"group-title="CINE PREMIUM",AMC HD
+http://190.83.119.67:8000/play/a0q8/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"group-title="CINE PREMIUM",CINECANAL HD
+http://190.83.119.67:8000/play/a0sl/index.m3u8
 
 
 
