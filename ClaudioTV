@@ -28,14 +28,10 @@ http://fortv.cc:8080/Ronnie/Ronnie/158417
 https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA",ORBIT TV HD
-https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w"group-title="ARGENTINA",VIWIX TV ESTRENOS HD
-https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV 17.3 TDA HD
@@ -49,14 +45,6 @@ https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w15
 
 
 
-#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png"group-title="ARGENTINA",PLANETA TV
-https://tls-cl.cdnz.cl:443/planetatvmovie/live/chunklist_w527307905.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png"group-title="ARGENTINA", PLANETA TV KIDS
 https://mediacpstreamchile.com:1936/8152/8152/chunklist_w7563904.m3u8
@@ -66,14 +54,6 @@ https://mediacpstreamchile.com:1936/8152/8152/chunklist_w7563904.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU"group-title="ARGENTINA",IU TV HD
-https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="ARGENTINA",MEGA TV
-https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://26television.com/wp-content/uploads/2020/09/cropped-LOGO-NUEVO-GT.png"group-title="ARGENTINA",26 TELEVISIÓN
@@ -660,6 +640,14 @@ https://5975e06a1f292.streamlock.net:4443/somosnoticias/somosnoticias/chunklist_
 
 
 
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE PREMIUM",ORBIT TV HD
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w"group-title="CINE PREMIUM",VIWIX TV ESTRENOS HD
+https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="CINE PREMIUM", IMAGEN TELEVISIÓN
 https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLiXVbmOwww3B8-LMDmhv8PS3g9yl7CbmyPuoXDHTyRfU)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
@@ -674,6 +662,12 @@ http://190.83.119.67:8000/play/a0q2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/200?cb=20190208204234&path-prefix=es"group-title="CINE PREMIUM", WARNER HD
 http://190.83.119.67:8000/play/a0tk/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png"group-title="CINE PREMIUM",PLANETA TV
+https://tls-cl.cdnz.cl:443/planetatvmovie/live/chunklist_w527307905.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"group-title="CINE PREMIUM",TNT HD
@@ -700,6 +694,16 @@ https://latamlive.warnermediacdn.com/hls/live/2042050/arg_spa_sur/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg"group-title="CINE PREMIUM",STAR CHANNEL HD
 http://190.83.119.67:8000/play/a0si/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU"group-title="CINE PREMIUM",IU TV HD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="CINE PREMIUM",MEGA TV
+https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/ac/0e/80ac0e5a909f75ef1adb25bc74e8b8af.jpg"group-title="CINE PREMIUM",HBO HD
