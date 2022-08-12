@@ -152,13 +152,14 @@ https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com:443
 
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES HD
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES HD reproducir con MX Pro
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE 34.1 TDA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE 34.1 TDA HD reproducir con MX Pro
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1660357422~acl=%2f*~data=hdntl~hmac=ba9196da07a3098353530c44ab3c13c852fd44bda912d432d60b88c28252718a/master-mtlf.m3u8
 https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
 
