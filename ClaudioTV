@@ -417,12 +417,7 @@ https://panel.dattalive.com:443/8074/8074/playlist.m3u8?PlaylistM3UCL
 https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRju-GF0KHcg_6bnPfkgii8l_oWRZAS5ondHA&usqp=CAU"group-title="ARGENTINA",KZO HD
-https://g2.vxral-slo.transport.edge-access.net:443/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_720p/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.barricadatv.org/wp-content/uploads/2018/11/logo-2018-negro.png"group-title="ARGENTINA",BTV
-https://live-ak.vimeocdn.com:443/exp=1658760201~acl=%2F83731d92-0b5d-4cc9-8252-3ad1edbdceab%2F%2A~hmac=48bd3f6e0b026459a922d233ee9f61851b7584fffce66f7e24883165f2d8cd39/83731d92-0b5d-4cc9-8252-3ad1edbdceab/chunklist_b3256000.m3u8?max_segments=10
 
 
 #EXTINF:-1 tvg-logo="https://tvn.com.ar/wp-content/uploads/2021/05/cropped-TVN_2-copia-300x300.png"group-title="ARGENTINA",TVN HD TUCUMÁN
@@ -480,23 +475,11 @@ https://panel.dattalive.com/8012/8012/playlist.m3u8
 https://streaming.jtamendoza.com/hls/test.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-5-TV-Corrientes-en-vivo-Online.png"group-title="ARGENTINA",5TV HD CHACO
-http://www.coninfo.net:1935/tvcinco/live1/chunklist_w522104467.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo.png"group-title="ARGENTINA", CANAL 8 HD CATAMARCA 
-https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w978434590.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png"group-title="ARGENTINA",EL CANAL DE LA CIUDAD HD
-http://g5.mc-hor.transport.edge-access.net:80/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_720p.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-22-en-vivo-Online.png"group-title="ARGENTINA",CANAL 22 LA MATANZA HD
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/chunklist_w2091133983.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://canal6moreno.com/wp-content/uploads/2016/04/header728x457.png"group-title="ARGENTINA",CANAL 6 MORENO HD
-https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://canalnueve.tv/wp-content/uploads/2019/06/logo_azm_tv_9-2.png"group-title="ARGENTINA",AZM SD
@@ -566,20 +549,6 @@ https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.canal4eldorado.com/wp-content/uploads/2016/10/cropped-canal4-120.png?fit=512%2C512&ssl=1"group-title="ARGENTINA",CANAL 4 EL DORADO
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="ARGENTINA",CANAL 10 MDP. HD
-https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://x24.com.mx/ca3w/assets/img/logos/logo-x24-con-sombra.png"group-title="ARGENTINA", X24 HD
 https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
@@ -608,13 +577,6 @@ https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/chunklist_w1226376
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyYlJOaOPx8Hgs_wnk8-D4CEEzymXNtDdVA&usqp=CAU"group-title="ARGENTINA",CANAL 6 PLUS TV HD
 http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyYlJOaOPx8Hgs_wnk8-D4CEEzymXNtDdVA&usqp=CAU"group-title="ARGENTINA",CANAL 3 PLUS TV HD
-https://videohd.live:19360/8050/8050.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxd_f1YXd6T1HVT2VMPSFYmKsQJpT4q64f1Q&usqp=CAU"group-title="ARGENTINA",SOMOS LA PAMPA HD
-https://5975e06a1f292.streamlock.net:4443/somosnoticias/somosnoticias/chunklist_w423164225.m3u8?WebM3UCL
 
 
 
@@ -653,6 +615,7 @@ https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="CINE PREMIUM", IMAGEN TELEVISIÓN
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrKAZOXg15XHNwtGgmTDOXPcx15ZWQRHP07UFF-r_zIj)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
 https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLiXVbmOwww3B8-LMDmhv8PS3g9yl7CbmyPuoXDHTyRfU)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
 https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoG33WQTdGwOe1F6ce4ilO6P8OGxVZQO3a20hvq4cWVi)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
 
