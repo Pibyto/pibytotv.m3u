@@ -48,6 +48,12 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvoEFhOKb6uVbgsIZd_yPOD6mzQ
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/netflix-logo-editorial-word-vector-online-movies-netflix-logo-illustration-black-background-streaming-service-app-netflix-logo-158825252.jpg"group-title="ARGENTINA",CINEMA NETFLIX 4
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cv0EzydPp2bGChCDy6KxDFdC3ZtGV5bxQWRWRa4ysivJ3PNTEeLznItySAAKU_2kX9uBvEVxkMMyB4LSECl5iRbXe9mY9UqsUUQWZ8EnW88jPuJyVwEU8D_bdzD-nldVIeeb7OlnFtiSjJePzppGm3mx2J-2Y76Yd5AmCmdMJ0BqIrvE_QdaoHJuh10gX5i9FM0PI6OdRrUR2RsPgvWlXoAqXbYc6ws4HvxnJV_eVAan1ppGtBrLiz2K3FJNW3eB7hJJspK30w7EFJ_ocphIe9f5PEbs5m5_FJBGRZ6avYo3WkJFFhhnXvDmxCsTGfByRSf9k2TOawjqvVXT-Mo2vY9oDKJGTZKxsXjwFsFhUr-jGuRMwRUWuN3CR5QuNBg5ZL607fJeZLQ_AdwE1xlXEOOCis7Pi9luoSJATaQuOjPPnwa-HP366hdhUyIef3pWDQKWG4Lq0Gri9O-INkhOh-6o8_RHMBtZBCWoYWej_sSYAeTlh1NeIlL1Bq-DlrTUf0edmkcOE3feDZ2fVTN1C_NvUZcLlkXvUuKtu3iqTxAgoF0CmG8XPoLHlMtPkbVfcLi98ppDzSiubIqr2j9k5yb-sVHmPmgXbIrspArCwHkaW4ZE7XOyBIFyB-GqV8px3w5iHiuq2u6AjIycnOKzmV3wW77-g5_0PbQVYmqCx7oiHqykv73lSC20Y7UKz8v1wqFSXUBrS_ygoleYg0907d5H3sQAXfQJFEVTNPr7MQdtGh4BevXcVnxmiUDcWYbRCTVxCYHOrM9dT_BjNtOMciZ2A31n4thatcn1b62-vdP427T1v7YuQlGZ-f4TUBCWfJijlT8t3wVNdWWS0nDeCBoMiwER3nFrTmIAidzwIAEqCXVzLWVhc3QtMTDvAg.m3u8
 
+#EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="ARGENTINA",TELEMAX RD
+https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0KBKhum_0y4-0yY8YJLqHwIjF3uNDTsFuA&usqp=CAU"group-title="ARGENTINA",REC ONLINE TV HD
+https://master.tucableip.com/reconline/live/video.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="ARGENTINA", PELÍCULAS MANIAS 1
