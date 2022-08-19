@@ -667,6 +667,19 @@ https://cloudvideo.servers10.com:8081/8206/tracks-v1a1/mono.m3u8
 https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png"group-title="CINE PREMIUM", GOLDEN HD
+http://1tv1.net:8080/bensalem/123456/107252
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"group-title="CINE PREMIUM", CANAL 5 HD
+http://1tv1.net:8080/bensalem/123456/107244
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/800px-Logo_Azteca_7_2011.svg.png"group-title="CINE PREMIUM", AZTECA 7 HD
+http://1tv1.net:8080/bensalem/123456/107272
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="CINE PREMIUM", IMAGEN TELEVISIÓN
 https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrKAZOXg15XHNwtGgmTDOXPcx15ZWQRHP07UFF-r_zIj)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
 https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLiXVbmOwww3B8-LMDmhv8PS3g9yl7CbmyPuoXDHTyRfU)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
