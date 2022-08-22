@@ -677,23 +677,15 @@ https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png"group-title="CINE PREMIUM", GOLDEN HD
-http://1tv1.net:8080/bensalem/123456/107252
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3i6opxmOsNIKE_pL9gOj1RQhbTiioU0q63w&usqp=CAU"group-title="CINE PREMIUM", TVSUR 16
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CokF3shgmylSSfgDGLKqM9fKclMFVnxm-l93fP6Hx_RxSrf1sRnojlxNnENaLRmX3vtI6ICFHpgEG7iHVKO0WMgHdC66Hxt7f4abFEbTBrzINkGuWmEVfEdJ0cU16Qui53Xwjixgn4SEgOcA7fgipXurQEvlZRYzBT7HIc_biQTKjjnEe3hNNNE1V0krzdEnVyUqktKse9l3LN3kB2FUF1_j3uB-HYt90Wuvfw5U1XEaQYof05dDikfrUh8HDNmWAYc1oMPNZ4G-XHDOWQ0CmquajVuV4wXyhE0bg5KFWBw8QQ_MKg-4OLpRydZcP0wz1d06JCSaDaABjt6PegQxEwG5IJvtPtn9-4L8RjFEMQLMJtlgpfB8zy4yEuo9v9_F063rkFTVOgki4PcUyg1YD8v9Z5g5zoIvPYDv1Y6Tiebcg3WSEKpXPirsg_NtARrlQutxwlq8vW8cSmy1QOufus3W7iYUVuomSbM9EYyUIasLOrkbDIu_YSzcYdouFTll80BnQZ9XHjC8I0JOcshtnQGYo4ZyVyjCF3dlum2ysyUuLiJ9kU8pbxr2UGy0euIno1g8rW5SufUil0EZXSyTS2rxeZ0kwKHxaZUq0bGewALdR7m2jnmC-f3vFFFRsMpHj1pNdC97eoW2Sis5-_YF1lHwV3XzXwz2IB0e-GJFdOWRBB5XfGxnMdCnRfSs5hag3XxTVWrSQKIRhl26Fi5QHqQVQVRB_RzK-MEg6oKhp6O8Az7Jymt3NVOMNaBLyCI-BG9qxvtehKYtQzzPX6B4HGUI9hc6kwXfkzbY44lzmN9hrYRZWp121bgPP2DLs7wpC98KJUDFZPY5Dm46x2UA8VolX-sOGRW6EPhc0RoMDrGDBx5kv0si3k0dIAEqCXVzLWVhc3QtMjC9BA.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"group-title="CINE PREMIUM", CANAL 5 HD
-http://1tv1.net:8080/bensalem/123456/107244
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/800px-Logo_Azteca_7_2011.svg.png"group-title="CINE PREMIUM", AZTECA 7 HD
-http://1tv1.net:8080/bensalem/123456/107272
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="CINE PREMIUM", IMAGEN TELEVISIÓN
-https://www.dailymotion.com/cdn/live/video/x82z4if.m3u8?sec=PABVrdRuhB99y_VYT7kr-1h219kgh6PgOMVeJRPdfI8hRVdviXy7JyWw26_kX6ttbySXqVfZm0bWxfsDRMziXg&dmTs=946400&dmV1st=40CE09DD7BB277704D206816CAF7CF4C
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrKAZOXg15XHNwtGgmTDOXPcx15ZWQRHP07UFF-r_zIj)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLiXVbmOwww3B8-LMDmhv8PS3g9yl7CbmyPuoXDHTyRfU)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLoG33WQTdGwOe1F6ce4ilO6P8OGxVZQO3a20hvq4cWVi)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
 
 
 #EXTINF:-1 tvg-logo="https://rethinkresearch.biz/wp-content/uploads/2016/08/Rakuten-TV.png"group-title="CINE PREMIUM", RAKUTEN TV - ACCIÓN 
