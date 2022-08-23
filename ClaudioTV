@@ -104,6 +104,15 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoMFYYWbfTevmCj_TMAV6XShOIY
 
 
 
+
+#EXTINF:-1 tvg-logo="https://cristianoreformado7.files.wordpress.com/2014/11/enlace-updated.png"group-title="ARGENTINA", CRISTIANATV (ENLACE) HD
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Luz-Rosario-en-vivo-Online.png"group-title="ARGENTINA",CANAL LUZ
+https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizurzsFXDo8ia4Ro7sbFCswdtVdvDYDDrhUhEFTsgTCGHcu5PJWkLbqaj7LG11wNpYaWQJULsU6ndhv_PU5BwtDKBkQCM_HcQgxXlYm9Sr0SOH0USuESStjDfkxCfarjuhn_IJROLTUr2b8WzIpw21F_MZ3uHFPsA_Ngq38SCe5iplYuiHmf9CVfAH/s551/Eltrece_(Sol).webp"group-title="ARGENTINA",EL TRECE 33.1 TDA HD
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
@@ -153,6 +162,12 @@ https://panel.dattalive.com/8012/8012/playlist.m3u8
 https://live-edge01.telecentro.net.ar:443/live/c26.smil/chunklist_w1030577466_b2628000_sleng.m3u8
 https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w787596591_b2628000_sleng.m3u8
 https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w1782144884_b2628000_sleng.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_yNR7nXg_S4xD8dP_daS3YtgT1PQukGGlbQ&usqp=CAU"group-title="ARGENTINA",EL CHAVO DEL 8 
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+
 
 
 
@@ -279,9 +294,6 @@ https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w7528
 
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Luz-Rosario-en-vivo-Online.png"group-title="ARGENTINA",CANAL LUZ
-https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL HD
@@ -365,17 +377,6 @@ http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-13-San-Luis-en-vivo-Online.png"group-title="ARGENTINA",13 SAN LUIS HD
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w58195212_b692224.m3u8 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://cristianoreformado7.files.wordpress.com/2014/11/enlace-updated.png"group-title="ARGENTINA", CRISTIANATV (ENLACE) HD
-https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
-
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="ARGENTINA",13 HD
@@ -480,10 +481,6 @@ https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/chunklist_w2091133983.m
 
 #EXTINF:-1 tvg-logo="https://canalnueve.tv/wp-content/uploads/2019/06/logo_azm_tv_9-2.png"group-title="ARGENTINA",AZM SD
 https://live.canalnueve.tv/canal.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_yNR7nXg_S4xD8dP_daS3YtgT1PQukGGlbQ&usqp=CAU"group-title="ARGENTINA",EL CHAVO DEL 8 
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
 
 
