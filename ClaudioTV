@@ -109,6 +109,7 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE 34.1 TDA HD
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1661365781~acl=%2f*~data=hdntl~hmac=31a8b3f7c7f4e637e650b03c17c6436d1d0010fbcca10491f88fc4611e8b5345/master-mtlf1.m3u8
 https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1661365177~acl=%2f*~data=hdntl~hmac=db35eafbc1ed3cea9c97ab08e62da3c1d0dbe5b80d0b52933030b148bdadbce8/master-mtlf.m3u8
 https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
