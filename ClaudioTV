@@ -785,6 +785,10 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/fosil.dev/wp-content/uploads/2015/07/WhatsApp-Image-2022-03-14-at-5.39.30-PM-1.jpeg?resize=500%2C500&ssl=1"group-title="ANIMÉ",ENERGEEK 3
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtg6jNP81PbHbLNWw_A6IJNJV-Mh-DtVHUgw&usqp=CAU"group-title="ANIMÉ", NARUTO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
