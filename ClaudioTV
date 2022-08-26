@@ -544,6 +544,9 @@ http://190.83.119.67:8000/play/a0os/index.m3u8
 http://190.83.119.67:8000/play/a0ot/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1024px-Cinemax.svg.png"group-title="CINE PREMIUM",CINEMAX
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/35.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png"group-title="CINE PREMIUM",RAKUTEN TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
