@@ -510,6 +510,9 @@ http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
 ###########$$$$$$$$$#########( PREMIUM )################################( PREMIUM )#############################( PREMIUM )###############################( PREMIUM )#############
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PDG7r6VLBJTS2DfkDuDbtpcGQaurrSJV6Q&usqp=CAU"group-title="CRISTIANO",EL VIVIENTE TV
+https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
+
 
 
 
@@ -3105,9 +3108,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b0007
 
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PDG7r6VLBJTS2DfkDuDbtpcGQaurrSJV6Q&usqp=CAU"group-title="CRISTIANO",EL VIVIENTE TV
-https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://sublimegraciatv.com/gallery_gen/c49b986afb751882bcbee57f9c9b20d7_350x246.75.png"group-title="CRISTIANO", SUBLIME GRACIA TV HD
