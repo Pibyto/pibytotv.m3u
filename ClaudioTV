@@ -552,7 +552,8 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rethinkresearch.biz/wp-content/uploads/2016/08/Rakuten-TV.png"group-title="CINE PREMIUM", RAKUTEN TV - ACCIÓN 
 https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToEpbnar1syeKHauV3lFRfwhy_k7sLbVPPyw&usqp=CAU"group-title="CINE PREMIUM", ORIGEN TV
+https://tv.streaming-chile.com:1936/origenradio/origenradio/chunklist_w1949438254.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/b055cde36c68c140ed0655591aa6b50d/section/591c5a3dbbd82d28b90fb3c2/b7e8791cae315d2462a92bb7f26d4d4b/img.png?_v=1.5.70"group-title="CINE PREMIUM",SPACE HD
 http://1tv1.net:8080/bensalem/123456/107256
