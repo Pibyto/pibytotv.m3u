@@ -2799,6 +2799,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e10
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-Sbo4eA6EFNzCr2GP3AS-LZCBkFXTMZcNA&usqp=CAU"group-title="CINE", DARKMATTER TV
+https://d2gjhy8g9ziabr.cloudfront.net:443/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/../../../manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/eb9580f4-8acd-459e-8e5a-f0a923bbaa5e/5.m3u8
 https://darkmatter-spanish-rakuten.amagi.tv:443/playlist720p.m3u8
 
 
