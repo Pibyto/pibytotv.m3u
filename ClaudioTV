@@ -1021,27 +1021,17 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e9/Latele_offline.png/revision/latest?cb=20170112040241&path-prefix=es"group-title="PARAGUAY",LA TELE HD
-http://svtv.xyz:8080/Apoyemos/HVUMW/124572
-http://edge-live14-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8?syo
-http://edge1-hr.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8?syo
-http://edge7-ccast-sl.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8?syo
+https://rds3tf.desdeparaguay.net:443/latele/latele_int_baja/chunklist_w1278278687.m3u8?k=f279be5a59e0ea3a16819e28ed402d02b48edc342e4f633aaae78d17830f55e5&exp=1661565201
 
 
 #EXTINF:-1 tvg-logo="https://www.trece.com.py/public/img/Logo-Trece.png"group-title="PARAGUAY",TRECE HD
 https://streaming.trece.com.py/live/trece_src.m3u8
-https://stream.rpc.com.py/live/trece.m3u8
-http://edge-live14-sl.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
-http://edge4-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Sur_TV_Itapua_2013.png/revision/latest?cb=20171021201738"group-title="PARAGUAY",SUR TV HD
-http://svtv.xyz:8080/Apoyemos/HVUMW/181906
-http://edge-live14-hr.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
 http://edge4-hr.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png"group-title="PARAGUAY",NPY HD
 https://rds3tf.desdeparaguay.net/npy/npy_int_baja/playlist.m3u8?k=734dd8e1f2ec000a0fe685976b7ca9570e97ee91364e3d4ba540c5f38d63447b&exp=1658330501
-http://edge-live14-sl.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
-http://edge8-ccast-hr.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Paraguay_TV_2020.png/revision/latest/scale-to-width-down/200?cb=20210512141427&path-prefix=es"group-title="PARAGUAY",PY TV HD
