@@ -84,6 +84,11 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg"group-title="ARGENTINA", ANTENA3
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/67.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png"group-title="ARGENTINA",CINEAR HD 22.4 TDA
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
 
@@ -104,6 +109,17 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA HD
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.frentecreativo.com/wp-content/uploads/2019/05/canal-tlnovelas-mas-importante-region.png?fit=1280%2C801&ssl=1"group-title="ARGENTINA",TLNOVELAS
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/393.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-f2Bs9iD3FqE/Vr_1tv9AjYI/AAAAAAAAzjw/uqjSpCsbbfg/w1200-h630-p-k-no-nu/univision-tlnovelas-logo.jpg"group-title="ARGENTINA", UNIVISIÓN TLNOVELAS
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/37.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/mega-tv-puerto-rico-en-vivo-Online.png"group-title="ARGENTINA",MEGA TV HD
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/25.m3u8
 
 
 
