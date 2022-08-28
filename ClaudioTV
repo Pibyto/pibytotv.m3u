@@ -48,6 +48,11 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg"group-title="ARGENTINA",CANAL 10 RIO NEGRO
+https://panel.dattalive.com/8204/8204/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES HD 
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
@@ -60,6 +65,7 @@ https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",CANAL 7 JUJUY HD
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
+
 
 
 
@@ -456,13 +462,6 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 #EXTINF:-1 tvg-logo="https://cvinoticias.com/wp-content/uploads/2022/02/cvi-noticias-peque-no.png"group-title="ARGENTINA",CVI HD MISIONES 
 https://panel.dattalive.com:443/8078/8078/chunklist_w837890566.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg"group-title="ARGENTINA",CANAL 10 RIO NEGRO
-https://panel.dattalive.com/8204/8204/playlist.m3u8
-
 
 
 
