@@ -42,6 +42,9 @@ https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",TVMAX
+https://streaming.ath.cx:1936/tvmax/tvmax/chunklist_w1307673413.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
 #EXTINF:-1 tvg-logo="http://www.canaldahd.com/archivos/2022/02/cropped-canaldahdlogo.png"group-title="ARGENTINA",CANALDA HD
 https://canaldahd.hostlagarto.com:3546/live/canaldahdlive.m3u8
 
