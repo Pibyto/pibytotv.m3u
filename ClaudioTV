@@ -55,9 +55,6 @@ https://streaming.ath.cx:1936/nextv/nextv/chunklist_w1899809986.m3u8?ads.content
 https://canaldahd.hostlagarto.com:3546/live/canaldahdlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizurzsFXDo8ia4Ro7sbFCswdtVdvDYDDrhUhEFTsgTCGHcu5PJWkLbqaj7LG11wNpYaWQJULsU6ndhv_PU5BwtDKBkQCM_HcQgxXlYm9Sr0SOH0USuESStjDfkxCfarjuhn_IJROLTUr2b8WzIpw21F_MZ3uHFPsA_Ngq38SCe5iplYuiHmf9CVfAH/s551/Eltrece_(Sol).webp"group-title="ARGENTINA",EL TRECE 33.1 TDA HD
@@ -129,8 +126,6 @@ https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1 TDA HD
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="ARGENTINA",CANAL 12 METRO TV HD
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA HD
@@ -169,6 +164,9 @@ https://g5.mc-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 
@@ -317,6 +315,8 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="ARGENTINA",CANAL 12 METRO TV HD
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
 
 
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="ARGENTINA", CANAL 34 HD 6.11 TDA HD
@@ -563,30 +563,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2900-960x540-000000.jpg"group-title="CINE PREMIUM",TVMAX
-https://streaming.ath.cx:1936/tvmax/tvmax/chunklist_w1307673413.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
-
-
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2899-960x540-000000.jpg"group-title="CINE PREMIUM",NEXT TV
-https://streaming.ath.cx:1936/nextv/nextv/chunklist_w1899809986.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU"group-title="CINE PREMIUM",IU TV HD
-https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
-
-
-
-#EXTINF:-1 tvg-logo="http://www.canaldahd.com/archivos/2022/02/cropped-canaldahdlogo.png"group-title="CINE PREMIUM",CANALDA HD
-https://canaldahd.hostlagarto.com:3546/live/canaldahdlive.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/ac/0e/80ac0e5a909f75ef1adb25bc74e8b8af.jpg"group-title="CINE PREMIUM",HBO HD
 http://190.83.119.67:8000/play/a0or/index.m3u8
 
@@ -597,15 +573,6 @@ http://190.83.119.67:8000/play/a0os/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg"group-title="CINE PREMIUM",HBO+ HD
 http://190.83.119.67:8000/play/a0ot/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s34879_ld_h15_ac.png"group-title="CINE PREMIUM",HBO FAMILY HD
-http://190.83.119.67:8000/play/a0ou/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRmqDy7FW_17wPh_evq-wDRiQSfBn8pvAgA&usqp=CAU"group-title="CINE PREMIUM",HBO EXTREME HD
-http://190.83.119.67:8000/play/a0ov/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1024px-Cinemax.svg.png"group-title="CINE PREMIUM",CINEMAX
@@ -654,6 +621,12 @@ http://190.83.119.67:8000/play/a0q8/index.m3u8
 http://190.83.119.67:8000/play/a0sl/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s34879_ld_h15_ac.png"group-title="CINE PREMIUM",HBO FAMILY HD
+http://190.83.119.67:8000/play/a0ou/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRmqDy7FW_17wPh_evq-wDRiQSfBn8pvAgA&usqp=CAU"group-title="CINE PREMIUM",HBO EXTREME HD
+http://190.83.119.67:8000/play/a0ov/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_YkZZPo1aKZU/SSoJH1nL8EI/AAAAAAAAGs4/eBScbxlNG54/s400/fx.gif"group-title="CINE PREMIUM",FX HD
@@ -776,6 +749,9 @@ https://cloudvideo.servers10.com:8081/8208/tracks-v1a1/mono.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU"group-title="CINE PREMIUM",IU TV HD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="CINE PREMIUM",MEGA TV
@@ -3241,7 +3217,7 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w198998264.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t1.6435-9/90221063_111244067169336_2591407769747718144_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=106&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeFHdo-ZrWXraSmFgDNlwA2oiju4HkK8tB6KO7geQry0HrIr4_x-JH0hKokLr_ggb3r4ZZFMbtqwl2gOtmlMRnvO&_nc_ohc=mk5lQOlmZXcAX_K2Iw_&_nc_ht=scontent.feze8-1.fna&oh=00_AT_DVoU2RtJD8zspph0YzwHjC_Gb4wo8-LV7sAJA2FICiw&oe=62F0FA0E"group-title="CRISTIANO",CLAROVISION TV
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2853-960x540-000000.jpg"group-title="CRISTIANO",CLAROVISION TV
 https://cdn2.streamgato.us/clarovision/clarovision/playlist.m3u8
 
 
