@@ -42,7 +42,7 @@ https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w185088520
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png"group-title="ARGENTINA",TVMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png"group-title="ARGENTINA",TVMAX HD
 https://bcovlive-a.akamaihd.net:443/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
 
@@ -60,6 +60,7 @@ https://streaming.ath.cx:1936/nextv/nextv/chunklist_w1899809986.m3u8?ads.content
 
 #EXTINF:-1 tvg-logo="http://www.canaldahd.com/archivos/2022/02/cropped-canaldahdlogo.png"group-title="ARGENTINA",CANALDA HD
 https://canaldahd.hostlagarto.com:3546/live/canaldahdlive.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2858-960x540-000000.jpg"group-title="ARGENTINA",YSMAVISION TV
 https://5790d294af2dc.streamlock.net:443/8056/8056/chunklist_w1466229081.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
