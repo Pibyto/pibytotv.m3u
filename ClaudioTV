@@ -3225,6 +3225,21 @@ https://vdohd.cl:1936/8080/8080/playlist.m3u8?PlaylistM3UCL
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2910-960x540-000000.jpg"group-title="CRISTIANO",PRESENCIA ALTÍSIMO
+https://tv.tvcontrolcp.com:1936/presencia/presencia/chunklist_w284148316.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2007-960x540-000000.jpg"group-title="CRISTIANO",H2O TV HD
+https://stream-us-east-1.getpublica.com/cl/5588f1c3-cfe4-445c-a03c-3b3dde75abee/720x1280_5283760_0_f.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/ca2e3293-bb4b-4c20-928a-c9b5e47f0058/TU%20UNIVERSO%20TV%20LOGO%20NUEVO.png"group-title="CRISTIANO",TU UNIVERSO TV
+https://5bf8041cb3fed.streamlock.net:443/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w545620712.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTIt5Hurz27ES-CuZvEqwGuenc5Y-cSlqew&usqp=CAU"group-title="CRISTIANO", PRESENCIA TELEVISION
 http://184.173.181.2:1935/8070/8070/chunklist_w515703358.m3u8
