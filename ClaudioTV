@@ -631,6 +631,10 @@ https://streaming.ath.cx:1936/nextv/nextv/playlist.m3u8?ads.content_page_url=htt
 https://streaming.ath.cx:1936/nextv/nextv/chunklist_w1899809986.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU"group-title="CINE PREMIUM",IU TV HD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="CINE PREMIUM",CINE SONY
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u
@@ -726,6 +730,7 @@ https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"group-title="CINE PREMIUM",TNT HD
+https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/VIDEO_0_8128000.m3u8
 http://190.83.119.67:8000/play/a0sq/index.m3u8
 https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/master.m3u8
 
@@ -830,8 +835,6 @@ https://cloudvideo.servers10.com:8081/8208/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU"group-title="CINE PREMIUM",IU TV HD
-https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="CINE PREMIUM",MEGA TV
