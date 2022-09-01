@@ -92,6 +92,7 @@ https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",CANAL 7 JUJUY HD
+https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1443260804_b917504.m3u8
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 
 
