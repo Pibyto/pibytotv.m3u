@@ -85,18 +85,8 @@ https://5790d294af2dc.streamlock.net:443/8056/8056/chunklist_w1466229081.m3u8?ad
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizurzsFXDo8ia4Ro7sbFCswdtVdvDYDDrhUhEFTsgTCGHcu5PJWkLbqaj7LG11wNpYaWQJULsU6ndhv_PU5BwtDKBkQCM_HcQgxXlYm9Sr0SOH0USuESStjDfkxCfarjuhn_IJROLTUr2b8WzIpw21F_MZ3uHFPsA_Ngq38SCe5iplYuiHmf9CVfAH/s551/Eltrece_(Sol).webp"group-title="ARGENTINA",EL TRECE 33.1 TDA HD
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v1a1/mono.m3u8
-https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="ARGENTINA",10 MDP HD
 https://g4.mc-hor.transport.edge-access.net:443/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg"group-title="ARGENTINA",CANAL 10 RIO NEGRO
-https://panel.dattalive.com/8204/8204/playlist.m3u8
-
+https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES HD 
@@ -201,9 +191,6 @@ https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="ARGENTINA", CANAL 26 26.1 TDA HD
 http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w1521368896_b2628000_sleng.m3u8
-https://live-edge01.telecentro.net.ar:443/live/c26.smil/chunklist_w1030577466_b2628000_sleng.m3u8
-https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w787596591_b2628000_sleng.m3u8
-https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w1782144884_b2628000_sleng.m3u8
 
 
 
@@ -300,6 +287,8 @@ https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA", ALTAR TV HD
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="ARGENTINA",10 MDP HD
+https://g4.mc-hor.transport.edge-access.net:443/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="ARGENTINA",9 HD MENDOZA
@@ -308,6 +297,9 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w752832264.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg"group-title="ARGENTINA",CANAL 10 RIO NEGRO
+https://panel.dattalive.com/8204/8204/playlist.m3u8
 
 
 
