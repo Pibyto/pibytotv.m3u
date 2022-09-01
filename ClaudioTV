@@ -658,8 +658,33 @@ http://190.83.119.67:8000/play/a0os/index.m3u8
 http://190.83.119.67:8000/play/a0ot/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/b055cde36c68c140ed0655591aa6b50d/section/591c5a3dbbd82d28b90fb3c2/b7e8791cae315d2462a92bb7f26d4d4b/img.png?_v=1.5.70"group-title="CINE PREMIUM",SPACE HD
+https://latamlive.warnermediacdn.com/hls/live/2042050-b/arg_spa_sur/VIDEO_0_8128000.m3u8
+http://1tv1.net:8080/bensalem/123456/107256
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"group-title="CINE PREMIUM",TNT HD
+https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/VIDEO_0_8128000.m3u8
+http://190.83.119.67:8000/play/a0sq/index.m3u8
+https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"group-title="CINE PREMIUM",TNT SERIES HD
+https://latamlive.warnermediacdn.com/hls/live/2042054/arg_tns_pnr2/VIDEO_0_8128000.m3u8
+http://190.83.119.67:8000/play/a0ta/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1024px-Cinemax.svg.png"group-title="CINE PREMIUM",CINEMAX
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/35.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png"group-title="CINE PREMIUM",RAKUTEN TOP FREE
@@ -672,8 +697,6 @@ https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToEpbnar1syeKHauV3lFRfwhy_k7sLbVPPyw&usqp=CAU"group-title="CINE PREMIUM", ORIGEN TV
 https://tv.streaming-chile.com:1936/origenradio/origenradio/chunklist_w1949438254.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/b055cde36c68c140ed0655591aa6b50d/section/591c5a3dbbd82d28b90fb3c2/b7e8791cae315d2462a92bb7f26d4d4b/img.png?_v=1.5.70"group-title="CINE PREMIUM",SPACE HD
-http://1tv1.net:8080/bensalem/123456/107256
 
 
 #EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/09/studio-universal.png"group-title="CINE PREMIUM", STUDIO UNIVERSAL HD
@@ -722,29 +745,12 @@ http://190.83.119.67:8000/play/a0qa/index.m3u8
 http://190.83.119.67:8000/play/a0pj/index.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w"group-title="CINE PREMIUM",VIWIX TV ESTRENOS HD
 https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"group-title="CINE PREMIUM",TNT HD
-https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/VIDEO_0_8128000.m3u8
-http://190.83.119.67:8000/play/a0sq/index.m3u8
-https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/master.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"group-title="CINE PREMIUM",TNT SERIES HD
-https://latamlive.warnermediacdn.com/hls/live/2042054/arg_tns_pnr2/VIDEO_0_8128000.m3u8
-http://190.83.119.67:8000/play/a0ta/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w"group-title="CINE PREMIUM",VIWIX TV ACCIÓN HD
 https://cloudvideo.servers10.com:8081/8128/tracks-v1a1/mono.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/11/17/16056274528794.png"group-title="CINE PREMIUM",CINEMA DISNEY+
