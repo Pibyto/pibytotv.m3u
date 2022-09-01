@@ -48,6 +48,9 @@ https://stmv.panel.grupolimalive.com:443/limalive/limalive/chunklist_w113368657.
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400"group-title="ARGENTINA",BARBE TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.losandes.com.ar/resizer/wMSeoP10KRbfkeLsH9PvqyA-zPI=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/WQ6WWJA7XJAZBKHZEOZVFHZNFA.png"group-title="ARGENTINA",TIERRA DE AMOR Y VENGANZA
+https://stream.ads.ottera.tv/cl/07d16f62-30a7-4003-bae6-02818d8bfb91/1280x720_1400000_1_f.m3u8
+https://stream.ads.ottera.tv/cl/a8d76bdc-3bba-4a4d-8c5c-e6db564cb3ee/1280x720_1400000_1_f.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOdtLognMpoWeKK-rB0hQvdh9gHvHIW6Ijw&usqp=CAU"group-title="ARGENTINA",ATM HD
