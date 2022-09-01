@@ -84,6 +84,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE 34.1 TDA HD
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1662079577~acl=%2f*~data=hdntl~hmac=ab5e4e65630a8880cfbe0c14deb742a38d905fe87e850f999b6d5e392b31d7bd/master-mtlf.m3u8
 https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1661995299~acl=%2f*~data=hdntl~hmac=a2b8523a9c99c34d4e63c8781c5d49ee07c882d1b39041669d9d55cbdefff2ee/master-mtlf.m3u8
 https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1661648486~acl=%2f*~data=hdntl~hmac=6a1a0625780023524031a81fa335def55d18f6d4760373c5cf235d70c3bc9ad5/master-mtlf.m3u8
 https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
