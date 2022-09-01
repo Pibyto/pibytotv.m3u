@@ -899,18 +899,8 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_zDOiW5aX6vU6DUYzJd_o2ZD-CG_vKilGA&usqp=CAU"group-title="ANIMÉ",LOS SIMPSONS
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aY0FTsLntu4/maxresdefault.jpg"group-title="ANIMÉ", SUPER CAMPEONES 
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/419.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tierragamer.com/wp-content/uploads/2018/05/dbs-la-historia-completa-de-dragon-ball-super-806819-jpg_604x0.jpg"group-title="ANIMÉ", DRAGÓN BALL 1 
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/62.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://tierragamer.com/wp-content/uploads/2018/05/dbs-la-historia-completa-de-dragon-ball-super-806819-jpg_604x0.jpg"group-title="ANIMÉ", DRAGÓN BALL 2
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/413.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/300?cb=20200125124642&path-prefix=es"group-title="ANIMÉ",LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/09/mejores-animes-netflix_37.jpg?itok=vzuQEGGx"group-title="ANIMÉ",ANIME+ 1
