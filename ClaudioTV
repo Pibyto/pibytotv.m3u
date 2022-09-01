@@ -28,7 +28,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/tv/tyc-sports-3004.png"group-title="ARGENTINA",TyC SPORTS HD
-https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u
 
 
@@ -63,6 +62,10 @@ https://streaming.ath.cx:1936/nextv/nextv/chunklist_w1899809986.m3u8?ads.content
 
 #EXTINF:-1 tvg-logo="http://www.canaldahd.com/archivos/2022/02/cropped-canaldahdlogo.png"group-title="ARGENTINA",CANALDA HD
 https://canaldahd.hostlagarto.com:3546/live/canaldahdlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.tiroriro.com/wp-content/uploads/2020/02/Ver-canal-cero-en-abierto-gratis.jpg"group-title="ARGENTINA",#0 HD
+http://kkm66s.top:8000/8e73/32d6f5gg/1670
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2858-960x540-000000.jpg"group-title="ARGENTINA",YSMAVISION TV
@@ -602,8 +605,41 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2900-960x540-000000.jpg"group-title="CINE PREMIUM",TVMAX
+https://streaming.ath.cx:1936/tvmax/tvmax/chunklist_w213329187.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive.m3u
+https://streaming.ath.cx:1936/tvmax/tvmax/chunklist_w1307673413.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2899-960x540-000000.jpg"group-title="CINE PREMIUM",NEXT TV
+https://streaming.ath.cx:1936/nextv/nextv/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch
+https://streaming.ath.cx:1936/nextv/nextv/chunklist_w1899809986.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="CINE PREMIUM",CINE SONY
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u
+
+
+#EXTINF:-1 tvg-logo="https://www.tiroriro.com/wp-content/uploads/2020/02/Ver-canal-cero-en-abierto-gratis.jpg"group-title="CINE PREMIUM",#0 HD
+http://kkm66s.top:8000/8e73/32d6f5gg/1670
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/ac/0e/80ac0e5a909f75ef1adb25bc74e8b8af.jpg"group-title="CINE PREMIUM",HBO HD
@@ -782,6 +818,7 @@ https://cloudvideo.servers10.com:8081/8206/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png"group-title="CINE PREMIUM",PLANETA TV
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 https://tls-cl.cdnz.cl:443/planetatvmovie/live/chunklist_w527307905.m3u8
 
 
