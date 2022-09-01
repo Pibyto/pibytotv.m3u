@@ -43,8 +43,11 @@ https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w185088520
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2019/05/LOGO-DE-OXIGENO-TV-PNG.png"group-title="ARGENTINA",OXTV HD
 https://tv.oxtvrd.net:3012/live/oxtv36live.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png"group-title="ARGENTINA",TVMAX HD
-https://bcovlive-a.akamaihd.net:443/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOdtLognMpoWeKK-rB0hQvdh9gHvHIW6Ijw&usqp=CAU"group-title="ARGENTINA",ATM HD
+https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="ARGENTINA",VIDATV HD
 https://tv.streaming-chile.com:1936/vidatv/vidatv.stream/chunklist_w372068826.m3u8
@@ -669,6 +672,11 @@ https://latamlive.warnermediacdn.com/hls/live/2042050-b/arg_spa_sur/VIDEO_0_8128
 http://190.83.119.67:8000/play/a0sq/index.m3u8
 https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/master.m3u8
 https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/VIDEO_0_8128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png"group-title="CINE PREMIUM",TVMAX HD
+https://bcovlive-a.akamaihd.net:443/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"group-title="CINE PREMIUM",TNT SERIES HD
 http://190.83.119.67:8000/play/a0ta/index.m3u8
