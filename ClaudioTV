@@ -111,6 +111,10 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="ARGENTINA", CANAL 4 HD JUJUY
+http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE 35.1 TDA HD
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/880a23bb-ff0f-431f-a4b3-729db776b35d/5.m3u8
@@ -176,14 +180,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://bcovlive-a.akamaihd.net:443/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.frentecreativo.com/wp-content/uploads/2019/05/canal-tlnovelas-mas-importante-region.png?fit=1280%2C801&ssl=1"group-title="ARGENTINA",TLNOVELAS
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/393.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-f2Bs9iD3FqE/Vr_1tv9AjYI/AAAAAAAAzjw/uqjSpCsbbfg/w1200-h630-p-k-no-nu/univision-tlnovelas-logo.jpg"group-title="ARGENTINA", UNIVISIÓN TLNOVELAS
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/37.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/mega-tv-puerto-rico-en-vivo-Online.png"group-title="ARGENTINA",MEGA TV HD
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/25.m3u8
 
 
 
@@ -369,10 +365,6 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/L1hl-IYd0fnnimNCYZDKO0hLOZgGPzRSXw29SWvAFk0-DCVMMBgwJ5DNqOLGK_660lty8K9cZA=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",SICARDITV HD
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="ARGENTINA", CANAL 4 HD JUJUY
-http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 
 
 
@@ -3049,11 +3041,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab52300099
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="CINE", RUN: TIME
-https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/2021/07/bannerJUL.png"group-title="CINE", MY TIME 
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
@@ -3078,6 +3065,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf07
 
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="CINE", RUN:TIME MX
+https://stream.ads.ottera.tv/cl/200ced43-d7e0-4652-aa98-5e3d74ecd60f/1280x720_3071200_0_f.m3u8
 https://ammo-espanol-plex.amagi.tv:443/playlistR1080p.m3u8
 
 
@@ -3090,7 +3078,7 @@ https://i.getspace.us/cloud/s/HC3WEG9asb2Yoe3/download
 http://192.168.1.36:30001/file/VP8s425g/video.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE", CIUDAD MAGAZINE HD
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"group-title="CINE", LAS ESTRELLAS 
