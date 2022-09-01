@@ -88,6 +88,10 @@ https://panel.dattalive.com/8204/8204/playlist.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="ARGENTINA", CANAL 9
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE 34.1 TDA HD
 https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w1533782191_b1662976.m3u8
 https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1662079577~acl=%2f*~data=hdntl~hmac=ab5e4e65630a8880cfbe0c14deb742a38d905fe87e850f999b6d5e392b31d7bd/master-mtlf.m3u8
