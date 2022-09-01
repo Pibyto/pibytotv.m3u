@@ -45,6 +45,11 @@ https://tv.oxtvrd.net:3012/live/oxtv36live.m3u8?DVR
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4-Bf6ARPAepAKqGtd8bwxsxg3RoviMp52_5T2A2onbefEu_k&s"group-title="ARGENTINA",LIMALIVE
+https://stmv.panel.grupolimalive.com:443/limalive/limalive/chunklist_w113368657.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOdtLognMpoWeKK-rB0hQvdh9gHvHIW6Ijw&usqp=CAU"group-title="ARGENTINA",ATM HD
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 
