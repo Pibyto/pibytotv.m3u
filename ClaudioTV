@@ -41,9 +41,6 @@ https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.losandes.com.ar/resizer/wMSeoP10KRbfkeLsH9PvqyA-zPI=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/WQ6WWJA7XJAZBKHZEOZVFHZNFA.png"group-title="ARGENTINA",TIERRA DE AMOR Y VENGANZA
-https://stream.ads.ottera.tv/cl/07d16f62-30a7-4003-bae6-02818d8bfb91/1280x720_1400000_1_f.m3u8
-https://stream.ads.ottera.tv/cl/a8d76bdc-3bba-4a4d-8c5c-e6db564cb3ee/1280x720_1400000_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4-Bf6ARPAepAKqGtd8bwxsxg3RoviMp52_5T2A2onbefEu_k&s"group-title="ARGENTINA",LIMALIVE
 https://stmv.panel.grupolimalive.com:443/limalive/limalive/chunklist_w113368657.m3u8
@@ -705,6 +702,9 @@ https://latamlive.warnermediacdn.com/hls/live/2042054/arg_tns_pnr2/VIDEO_0_81280
 
 
 
+#EXTINF:-1 tvg-logo="https://www.losandes.com.ar/resizer/wMSeoP10KRbfkeLsH9PvqyA-zPI=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/WQ6WWJA7XJAZBKHZEOZVFHZNFA.png"group-title="CINE PREMIUM",TIERRA DE AMOR Y VENGANZA
+https://stream.ads.ottera.tv/cl/07d16f62-30a7-4003-bae6-02818d8bfb91/1280x720_1400000_1_f.m3u8
+https://stream.ads.ottera.tv/cl/a8d76bdc-3bba-4a4d-8c5c-e6db564cb3ee/1280x720_1400000_1_f.m3u8
 
 
 
