@@ -3069,7 +3069,8 @@ https://stream.ads.ottera.tv/cl/200ced43-d7e0-4652-aa98-5e3d74ecd60f/1280x720_30
 https://ammo-espanol-plex.amagi.tv:443/playlistR1080p.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="CINE", RUN:TIME ESPAÑA
+https://stream.ads.ottera.tv/cl/4d893500-a8fc-4fec-8cc4-35c0d721c2a7/1280x720_3071200_0_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/ec1cef5d369181c22dbf897410ae2436/resize/1320/f/jpg/assets/multimedia/imagenes/2021/12/29/16407885708351.jpg"group-title="PELICULAS",NO MIRES ARRIBA
 https://i.getspace.us/cloud/s/HC3WEG9asb2Yoe3/download
