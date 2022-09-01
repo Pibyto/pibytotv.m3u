@@ -678,6 +678,7 @@ https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"group-title="CINE PREMIUM",TNT HD
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/198
 http://190.83.119.67:8000/play/a0sq/index.m3u8
 https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/master.m3u8
 https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/VIDEO_0_8128000.m3u8
@@ -688,6 +689,7 @@ https://bcovlive-a.akamaihd.net:443/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"group-title="CINE PREMIUM",TNT SERIES HD
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/197
 http://190.83.119.67:8000/play/a0ta/index.m3u8
 https://latamlive.warnermediacdn.com/hls/live/2042054/arg_tns_pnr2/VIDEO_0_8128000.m3u8
 
@@ -695,7 +697,6 @@ https://latamlive.warnermediacdn.com/hls/live/2042054/arg_tns_pnr2/VIDEO_0_81280
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1024px-Cinemax.svg.png"group-title="CINE PREMIUM",CINEMAX
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/209
 
 
 
