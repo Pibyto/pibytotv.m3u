@@ -130,6 +130,17 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgR15JAVnvTOXJk66MhlyFXqh0icNZCjtC5yJBJVQ&s"group-title="ARGENTINA",CANAL 8 VALLE DE UCO
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ngfederal.ar/imgs/image.png"group-title="ARGENTINA",NG FEDERAL 
+http://www.coninfo.net:1935/tvlink/live/chunklist_w1830023976.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0pZAW7nECHMmBrvKvKLCIhuXR_UY8nCurIA&usqp=CAU"group-title="ARGENTINA",CANAL 6
+https://www.dailymotion.com/cdn/live/video/x7nngbi.m3u8?sec=WVn4cNJlvHIjHOHh2t1zjdmlWUbnWYgVwAaPk188vRnFYOLCB965DO44tdiJhcKpCC8QncE3_Lc0ym3E3JL62Q&dmTs=946400&dmV1st=40CE09DD7BB277704D206816CAF7CF4C
+
+
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg"group-title="ARGENTINA", ANTENA3
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/67.m3u8
 
