@@ -59,6 +59,7 @@ https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="ARGENTINA",VIDATV HD
+https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
 https://tv.streaming-chile.com:1936/vidatv/vidatv.stream/chunklist_w372068826.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2900-960x540-000000.jpg"group-title="ARGENTINA",TVMAX
