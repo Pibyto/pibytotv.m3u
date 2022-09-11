@@ -701,6 +701,7 @@ https://tv.streaming-chile.com:1936/origenradio/origenradio/chunklist_w194943825
 
 
 #EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/09/studio-universal.png"group-title="CINE PREMIUM", STUDIO UNIVERSAL HD
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/54
 http://190.83.119.67:8000/play/a0q2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/200?cb=20190208204234&path-prefix=es"group-title="CINE PREMIUM", WARNER HD
@@ -823,6 +824,7 @@ https://cloudvideo.servers10.com:8081/8206/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="CINE PREMIUM", IMAGEN TELEVISIÓN
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/109
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/109
 
 
