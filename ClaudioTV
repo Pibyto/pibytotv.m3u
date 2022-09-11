@@ -641,6 +641,7 @@ http://190.83.119.67:8000/play/a0ou/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRmqDy7FW_17wPh_evq-wDRiQSfBn8pvAgA&usqp=CAU"group-title="CINE PREMIUM",HBO EXTREME HD
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/219
 http://190.83.119.67:8000/play/a0ov/index.m3u8
 
 
@@ -722,6 +723,7 @@ http://190.83.119.67:8000/play/a0qd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large_AMC.png.c1008a9acad4a136c43f64eacf3ac461.png"group-title="CINE PREMIUM",AMC HD
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/211
 http://190.83.119.67:8000/play/a0q8/index.m3u8
 
 
