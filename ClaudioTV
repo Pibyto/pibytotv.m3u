@@ -645,6 +645,7 @@ http://190.83.119.67:8000/play/a0ov/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/b055cde36c68c140ed0655591aa6b50d/section/591c5a3dbbd82d28b90fb3c2/b7e8791cae315d2462a92bb7f26d4d4b/img.png?_v=1.5.70"group-title="CINE PREMIUM",SPACE HD
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/207
 http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/208
 http://1tv1.net:8080/bensalem/123456/107256
 https://latamlive.warnermediacdn.com/hls/live/2042050-b/arg_spa_sur/VIDEO_0_8128000.m3u8
@@ -682,10 +683,6 @@ https://latamlive.warnermediacdn.com/hls/live/2042054/arg_tns_pnr2/VIDEO_0_81280
 
 
 
-#EXTINF:-1 tvg-logo="https://www.losandes.com.ar/resizer/wMSeoP10KRbfkeLsH9PvqyA-zPI=/1023x682/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/WQ6WWJA7XJAZBKHZEOZVFHZNFA.png"group-title="CINE PREMIUM",TIERRA DE AMOR Y VENGANZA
-https://stream.ads.ottera.tv/cl/07d16f62-30a7-4003-bae6-02818d8bfb91/1280x720_1400000_1_f.m3u8
-https://stream.ads.ottera.tv/cl/a8d76bdc-3bba-4a4d-8c5c-e6db564cb3ee/1280x720_1400000_1_f.m3u8
-
 
 
 
@@ -705,6 +702,7 @@ https://tv.streaming-chile.com:1936/origenradio/origenradio/chunklist_w194943825
 http://190.83.119.67:8000/play/a0q2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/200?cb=20190208204234&path-prefix=es"group-title="CINE PREMIUM", WARNER HD
+http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/185
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 
 
