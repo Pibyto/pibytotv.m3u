@@ -43,6 +43,8 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA HD
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png"group-title="ARGENTINA", CIUDAD MAGICA TV
+https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV 17.3 TDA HD
