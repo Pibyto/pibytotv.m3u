@@ -83,6 +83,26 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png"group-title="ARGENTINA",LA VOZ TV HD
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA", CANAL 32 SPTV HD
+https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
+https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/corrientes-tv.png"group-title="ARGENTINA", CTV CORRIENTES HD
+https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="ARGENTINA",CANAL 12 METRO TV HD
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
+
+
+#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="ARGENTINA", CANAL 34 HD 6.11 TDA HD
+http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://alpavision.com.co/wp-content/uploads/2020/11/baner-canal2-01-300x300-2.png"group-title="ARGENTINA",ALPAVISION
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 
@@ -360,21 +380,6 @@ https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Telediez-en-vivo-Online.png"group-title="ARGENTINA",TELEDIEZ
 https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA", CANAL 32 SPTV HD
-https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
-https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/corrientes-tv.png"group-title="ARGENTINA", CTV CORRIENTES HD
-https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb_wDvV2F8KN-8TzdwH5JE44ty3SsSipnJQ&usqp=CAU"group-title="ARGENTINA",CANAL 12 METRO TV HD
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
-
-
-#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="ARGENTINA", CANAL 34 HD 6.11 TDA HD
-http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/L1hl-IYd0fnnimNCYZDKO0hLOZgGPzRSXw29SWvAFk0-DCVMMBgwJ5DNqOLGK_660lty8K9cZA=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",SICARDITV HD
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
