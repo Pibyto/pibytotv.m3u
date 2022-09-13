@@ -100,21 +100,54 @@ https://g4.mc-hor.transport.edge-access.net:443/a15/ngrp:canal10mdq-100044_all/c
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES HD 
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE 34.1 TDA HD
 https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w1533782191_b1662976.m3u8
 https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="ARGENTINA",MULTIVISION HD SALTA
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",CANAL 7 JUJUY HD
-https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1443260804_b917504.m3u8
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE 35.1 TDA HD
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/880a23bb-ff0f-431f-a4b3-729db776b35d/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PÚBLICA 23.2 TDA HD
+https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="ARGENTINA", CANAL 26 26.1 TDA HD
+http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w1521368896_b2628000_sleng.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png"group-title="ARGENTINA",CRONICA 24.4 TDA HD
+https://g5.mc-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd"group-title="ARGENTINA",IP 24.5 TDA HD
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="ARGENTINA", AMERICA 36.1 TDA HD
+https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="ARGENTINA",A24 36.3 TDA HD
+https://g1.proy-hor.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es"group-title="ARGENTINA",NET TV 27.2 TDA HD
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png"group-title="ARGENTINA", CN 24/7 NEUQUÉN HD
+https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png"group-title="ARGENTINA",TELEMAX 26.3 TDA HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
+
 
 
 
@@ -123,18 +156,11 @@ http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE 35.1 TDA HD
-https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/880a23bb-ff0f-431f-a4b3-729db776b35d/5.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="ARGENTINA",MULTIVISION HD SALTA
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PÚBLICA 23.2 TDA HD
-https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgR15JAVnvTOXJk66MhlyFXqh0icNZCjtC5yJBJVQ&s"group-title="ARGENTINA",CANAL 8 VALLE DE UCO
@@ -172,14 +198,6 @@ https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="ARGENTINA", CANAL 26 26.1 TDA HD
-http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w1521368896_b2628000_sleng.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png"group-title="ARGENTINA",CRONICA 24.4 TDA HD
-https://g5.mc-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
-
 
 
 
@@ -192,29 +210,6 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="ARGENTINA",13 MAX 31.1 TDA HD
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd"group-title="ARGENTINA",IP 24.5 TDA HD
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png"group-title="ARGENTINA", AMERICA 36.1 TDA HD
-https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="ARGENTINA",A24 36.3 TDA HD
-https://g1.proy-hor.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es"group-title="ARGENTINA",NET TV 27.2 TDA HD
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png"group-title="ARGENTINA", CN 24/7 NEUQUÉN HD
-https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png"group-title="ARGENTINA",TELEMAX 26.3 TDA HD
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
 
 
 
@@ -265,6 +260,15 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="ARGENTINA",10 MDP HD
 https://g4.mc-hor.transport.edge-access.net:443/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",CANAL 7 JUJUY HD
+https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1443260804_b917504.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES HD 
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="ARGENTINA",9 HD MENDOZA
