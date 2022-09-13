@@ -30,6 +30,30 @@
 https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1 TDA HD
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA HD
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV 17.3 TDA HD
+https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="ARGENTINA",3 PINAMAR HD
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://cristianoreformado7.files.wordpress.com/2014/11/enlace-updated.png"group-title="ARGENTINA", CRISTIANATV (ENLACE) HD
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
@@ -108,14 +132,6 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV 17.3 TDA HD
-https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="ARGENTINA",3 PINAMAR HD
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PÚBLICA 23.2 TDA HD
 https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
@@ -142,13 +158,6 @@ https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1 TDA HD
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA HD
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/TVN_Panam%C3%A1_%282000-2005%29.png/revision/latest?cb=20200108123758&path-prefix=es"group-title="ARGENTINA",TVN
@@ -172,13 +181,6 @@ http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w1521368896
 https://g5.mc-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 
