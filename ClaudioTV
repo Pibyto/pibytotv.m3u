@@ -697,6 +697,16 @@ http://cdn88.telerium.fun:2052/live-2/140/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/HBO_Signature_2014_%28Stacked%29.svg/revision/latest?cb=20210113020108"group-title="CINE PREMIUM",HBO SIGNATURE
 http://cdn88.telerium.fun:2052/live-2/117/chunks.m3u8?nimblesessionid=20211925&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDM6NDE6NDkgUE0maGFzaF92YWx1ZT1NL0xWQ29RREJGMmExZEFydlZhSHBBPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png"group-title="CINE PREMIUM", AZTECA 7 
+http://cdn88.telerium.fun:2052/live-2/015/chunks.m3u8?nimblesessionid=20212894&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDQ6MTU6MjMgUE0maGFzaF92YWx1ZT10R3dJUTQ5RHZMalRYcHZnSGlVRVFnPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png"group-title="CINE PREMIUM",BITME
+http://cdn88.telerium.fun:2052/live-2/481/chunks.m3u8?nimblesessionid=20213031&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDQ6MjA6MDAgUE0maGFzaF92YWx1ZT1FN2tWR1lRUFZTYkxJSU41YmVEeWFBPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png"group-title="CINE PREMIUM",5 MX
+https://linear-351.frequency.stream/351/hls/master/playlist_1024x576.m3u8
 
 
 
@@ -714,9 +724,6 @@ https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"group-title="CINE PREMIUM",TNT HD
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/198
-http://190.83.119.67:8000/play/a0sq/index.m3u8
-https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/master.m3u8
 https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/VIDEO_0_8128000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png"group-title="CINE PREMIUM",TVMAX HD
@@ -743,6 +750,8 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://rethinkresearch.biz/wp-content/uploads/2016/08/Rakuten-TV.png"group-title="CINE PREMIUM", RAKUTEN TV - ACCIÓN 
 https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToEpbnar1syeKHauV3lFRfwhy_k7sLbVPPyw&usqp=CAU"group-title="CINE PREMIUM", ORIGEN TV
 
