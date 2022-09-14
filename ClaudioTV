@@ -660,42 +660,34 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u
 
 
-#EXTINF:-1 tvg-logo="https://www.tiroriro.com/wp-content/uploads/2020/02/Ver-canal-cero-en-abierto-gratis.jpg"group-title="CINE PREMIUM",#0 HD
-http://kkm66s.top:8000/8e73/32d6f5gg/1670
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/ac/0e/80ac0e5a909f75ef1adb25bc74e8b8af.jpg"group-title="CINE PREMIUM",HBO HD
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/196
 http://190.83.119.67:8000/play/a0or/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.skypetv.live/uploads/png/6141709c4705888d77281b1cc77ea184.png"group-title="CINE PREMIUM",HBO 2 HD
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/195
 http://190.83.119.67:8000/play/a0os/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hbb2olvPtcs/YavslEKEx0I/AAAAAAAA-E4/gt3ERt1ckLkKpPke8_6dixkVqwg_yXXLACNcBGAsYHQ/s1141/HBO-plus-2019.png"group-title="CINE PREMIUM",HBO+ HD
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/193
 http://190.83.119.67:8000/play/a0ot/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s34879_ld_h15_ac.png"group-title="CINE PREMIUM",HBO FAMILY HD
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/194
 http://190.83.119.67:8000/play/a0ou/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRmqDy7FW_17wPh_evq-wDRiQSfBn8pvAgA&usqp=CAU"group-title="CINE PREMIUM",HBO EXTREME HD
 http://cdn88.telerium.fun:2052/live-2/140/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDM6Mzg6NDUgUE0maGFzaF92YWx1ZT1mTVhXeXVZUzFaZVFjVHlUSC9yRlNnPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/219
-http://190.83.119.67:8000/play/a0ov/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/HBO_Signature_2014_%28Stacked%29.svg/revision/latest?cb=20210113020108"group-title="CINE PREMIUM",HBO SIGNATURE
+http://cdn88.telerium.fun:2052/live-2/117/chunks.m3u8?nimblesessionid=20211925&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDM6NDE6NDkgUE0maGFzaF92YWx1ZT1NL0xWQ29RREJGMmExZEFydlZhSHBBPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
+
+
 
 
 #EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/b055cde36c68c140ed0655591aa6b50d/section/591c5a3dbbd82d28b90fb3c2/b7e8791cae315d2462a92bb7f26d4d4b/img.png?_v=1.5.70"group-title="CINE PREMIUM",SPACE HD
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/207
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/208
-http://1tv1.net:8080/bensalem/123456/107256
 https://latamlive.warnermediacdn.com/hls/live/2042050-b/arg_spa_sur/VIDEO_0_8128000.m3u8
 
 
