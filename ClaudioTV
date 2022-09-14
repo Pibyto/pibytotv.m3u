@@ -626,6 +626,16 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es"group-title="CINE PREMIUM",GOLDEN PLUS
+http://cdn88.telerium.fun:2052/live-2/113/chunks.m3u8?nimblesessionid=20211262&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDM6MDM6MzcgUE0maGFzaF92YWx1ZT0zL1Z3Z1IxUFloWlFBQllOd2JodXlBPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="CINE PREMIUM",GOLDEN EDGE
+http://cdn88.telerium.fun:2052/live-2/112/chunks.m3u8?nimblesessionid=20211382&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDM6MDc6NDEgUE0maGFzaF92YWx1ZT1TbSs0eGVvclBqTnlQeDVaNThQUUFRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest?cb=20201202010915&path-prefix=es"group-title="CINE PREMIUM",GOLDEN PREMIER
+http://cdn88.telerium.fun:2052/live-2/111/chunks.m3u8?nimblesessionid=20211483&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDM6MTI6MTUgUE0maGFzaF92YWx1ZT1OZGlabm5jTUxQcHJRenRQWnA2KzJRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
 
 
 
