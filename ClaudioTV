@@ -161,6 +161,7 @@ https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE 34.1 TDA HD
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1663337272~acl=%2f*~data=hdntl~hmac=20546158c08ab60c35d58909677f6e7982899ba71ea0506b9ba2702208c27648/master-mtlf.m3u8
 https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w1533782191_b1662976.m3u8
 https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
