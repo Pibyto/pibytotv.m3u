@@ -34,6 +34,11 @@ https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd
 https://g1.mc-hor.transport.edge-access.net:443/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png"group-title="ARGENTINA", PLANETA TV HD
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1708131059.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
@@ -637,6 +642,10 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
 https://g1.mc-hor.transport.edge-access.net:443/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png"group-title="CINE PREMIUM", PLANETA TV HD
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1708131059.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es"group-title="CINE PREMIUM",GOLDEN PLUS
 
 
@@ -672,57 +681,57 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/ac/0e/80ac0e5a909f75ef1adb25bc74e8b8af.jpg"group-title="CINE PREMIUM",HBO HD
-http://190.83.119.67:8000/play/a0or/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.skypetv.live/uploads/png/6141709c4705888d77281b1cc77ea184.png"group-title="CINE PREMIUM",HBO 2 HD
-http://190.83.119.67:8000/play/a0os/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hbb2olvPtcs/YavslEKEx0I/AAAAAAAA-E4/gt3ERt1ckLkKpPke8_6dixkVqwg_yXXLACNcBGAsYHQ/s1141/HBO-plus-2019.png"group-title="CINE PREMIUM",HBO+ HD
-http://190.83.119.67:8000/play/a0ot/index.m3u8
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="CINE PREMIUM",HBO MUNDI
-http://cdn88.telerium.fun:2052/live-2/139/chunks.m3u8?nimblesessionid=20212474&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDQ6MDE6NTEgUE0maGFzaF92YWx1ZT1TaGtkUk9VVXAwRDNrbGRNeTh5TVpRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
+
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.1255015607_HBOPOP(varianteamarilla).png.4b3f07d4fbded45afce0d3d94f0c3c0e.png"group-title="CINE PREMIUM",HBO POP
-http://cdn88.telerium.fun:2052/live-2/142/chunks.m3u8?nimblesessionid=20212570&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDQ6MDM6NDkgUE0maGFzaF92YWx1ZT1NdVdtSXBFOVNDVXRvZjJDSyt2MCt3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
+
 
 
 
 
 #EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s34879_ld_h15_ac.png"group-title="CINE PREMIUM",HBO FAMILY HD
-http://cdn88.telerium.fun:2052/live-2/115/chunks.m3u8?nimblesessionid=20212137&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDM6NTQ6MDQgUE0maGFzaF92YWx1ZT1uOUtnMzBkRm1WeWJzQjlvR1NxdTNnPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
+tX2xlbj0xMA==&1
 http://190.83.119.67:8000/play/a0ou/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRmqDy7FW_17wPh_evq-wDRiQSfBn8pvAgA&usqp=CAU"group-title="CINE PREMIUM",HBO EXTREME HD
-http://cdn88.telerium.fun:2052/live-2/140/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDM6Mzg6NDUgUE0maGFzaF92YWx1ZT1mTVhXeXVZUzFaZVFjVHlUSC9yRlNnPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
+
 
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/HBO_Signature_2014_%28Stacked%29.svg/revision/latest?cb=20210113020108"group-title="CINE PREMIUM",HBO SIGNATURE
-http://cdn88.telerium.fun:2052/live-2/117/chunks.m3u8?nimblesessionid=20211925&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDM6NDE6NDkgUE0maGFzaF92YWx1ZT1NL0xWQ29RREJGMmExZEFydlZhSHBBPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/965px-Logo_Azteca_7_2011.svg.png"group-title="CINE PREMIUM", AZTECA 7 
-http://cdn88.telerium.fun:2052/live-2/015/chunks.m3u8?nimblesessionid=20212894&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDQ6MTU6MjMgUE0maGFzaF92YWx1ZT10R3dJUTQ5RHZMalRYcHZnSGlVRVFnPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png"group-title="CINE PREMIUM",BITME
-http://cdn88.telerium.fun:2052/live-2/481/chunks.m3u8?nimblesessionid=20213031&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDQ6MjA6MDAgUE0maGFzaF92YWx1ZT1FN2tWR1lRUFZTYkxJSU41YmVEeWFBPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png"group-title="CINE PREMIUM",5 MX
-https://linear-351.frequency.stream/351/hls/master/playlist_1024x576.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/b055cde36c68c140ed0655591aa6b50d/section/591c5a3dbbd82d28b90fb3c2/b7e8791cae315d2462a92bb7f26d4d4b/img.png?_v=1.5.70"group-title="CINE PREMIUM",SPACE HD
-https://latamlive.warnermediacdn.com/hls/live/2042050-b/arg_spa_sur/VIDEO_0_8128000.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png"group-title="CINE PREMIUM",CASCARA TV
@@ -735,7 +744,7 @@ https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"group-title="CINE PREMIUM",TNT HD
-https://latamlive.warnermediacdn.com/hls/live/2042055/arg_tnt_arg/VIDEO_0_8128000.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png"group-title="CINE PREMIUM",TVMAX HD
 https://bcovlive-a.akamaihd.net:443/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
@@ -795,9 +804,8 @@ https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"group-title="CINE PREMIUM",CINECANAL HD
-http://cdn88.telerium.fun:2052/live-2/043/chunks.m3u8?nimblesessionid=20217279&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDQ6NDk6MzQgUE0maGFzaF92YWx1ZT1VYWlqdTB6bGlvanA0SjFvaVJLdFd3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
-http://cdn88.telerium.fun:2052/live-2/115/chunks.m3u8?nimblesessionid=20212239&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDM6NTQ6MDQgUE0maGFzaF92YWx1ZT1uOUtnMzBkRm1WeWJzQjlvR1NxdTNnPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
-http://190.83.119.67:8000/play/a0sl/index.m3u8
+
+
 
 
 
@@ -812,7 +820,6 @@ http://190.83.119.67:8000/play/a0sl/index.m3u8
 
 
 
-#EXT
 
 #EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="CINE PREMIUM",TELEMAX RD
 https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
@@ -854,8 +861,6 @@ https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w15
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="CINE PREMIUM",ORBIT TV HD
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w"group-title="CINE PREMIUM",VIWIX TV TERROR HD
-https://cloudvideo.servers10.com:8081/8206/tracks-v1a1/mono.m3u8
 
 
 
@@ -864,8 +869,6 @@ https://cloudvideo.servers10.com:8081/8206/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="CINE PREMIUM", IMAGEN TELEVISIÓN
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/109
-http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/109
 
 
 
@@ -873,14 +876,6 @@ http://vlmain.hopto.org:25461/TuxChannel/9ee9g38Dj5ApATuypXTWJfBS/109
 
 
 
-
-#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png"group-title="CINE PREMIUM",PLANETA TV
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
-https://tls-cl.cdnz.cl:443/planetatvmovie/live/chunklist_w527307905.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w"group-title="CINE PREMIUM",VIWIX TV SERIES HD
-https://cloudvideo.servers10.com:8081/8208/tracks-v1a1/mono.m3u8
 
 
 
