@@ -30,6 +30,10 @@
 https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es"group-title="ARGENTINA", CIUDAD MAGAZINE
+https://g1.mc-hor.transport.edge-access.net:443/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
@@ -629,18 +633,20 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es"group-title="CINE PREMIUM",CIUDAD MAGAZINE
+https://g1.mc-hor.transport.edge-access.net:443/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es"group-title="CINE PREMIUM",GOLDEN PLUS
-http://cdn88.telerium.fun:2052/live-2/113/chunks.m3u8?nimblesessionid=20211262&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDM6MDM6MzcgUE0maGFzaF92YWx1ZT0zL1Z3Z1IxUFloWlFBQllOd2JodXlBPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="CINE PREMIUM",GOLDEN EDGE
-http://cdn88.telerium.fun:2052/live-2/112/chunks.m3u8?nimblesessionid=20211382&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDM6MDc6NDEgUE0maGFzaF92YWx1ZT1TbSs0eGVvclBqTnlQeDVaNThQUUFRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest?cb=20201202010915&path-prefix=es"group-title="CINE PREMIUM",GOLDEN PREMIER
-http://cdn88.telerium.fun:2052/live-2/111/chunks.m3u8?nimblesessionid=20211483&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDM6MTI6MTUgUE0maGFzaF92YWx1ZT1OZGlabm5jTUxQcHJRenRQWnA2KzJRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1
+
 
 
 
