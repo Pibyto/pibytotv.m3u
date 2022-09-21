@@ -59,9 +59,6 @@ https://streaming.ath.cx:1936/tvmax/tvmax/chunklist_w1307673413.m3u8?ads.content
 https://streaming.ath.cx:1936/nextv/nextv/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch
 https://streaming.ath.cx:1936/nextv/nextv/chunklist_w1899809986.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
-#EXTINF:-1 tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png"group-title="ARGENTINA",PLANETA:TV
-https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1708131059.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1 TDA HD
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
@@ -117,6 +114,9 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png"group-title="ARGENTINA",PLANETA:TV
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1708131059.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://alpavision.com.co/wp-content/uploads/2020/11/baner-canal2-01-300x300-2.png"group-title="ARGENTINA",ALPAVISION
