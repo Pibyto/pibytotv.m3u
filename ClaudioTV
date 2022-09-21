@@ -227,6 +227,9 @@ https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_Canal_12_-_Misiones.png"group-title="ARGENTINA",EL DOCE HD
+https://g5.mc-hor.transport.edge-access.net:443/a05/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="ARGENTINA", CANAL 4 HD JUJUY
@@ -491,9 +494,6 @@ https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_Canal_12_-_Misiones.png"group-title="ARGENTINA",EL DOCE HD
-https://g5.mc-hor.transport.edge-access.net:443/a05/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t1.6435-9/122463886_3672741929425145_7323186475742822284_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=103&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeEIQ9SZVU7y00ZVSDlxNUcl9Q7X5b_iM6j1Dtflv-IzqJEh3Bk1dgfKbNFyBkhAVhPO4Ji2j8ommbw-R3Ab8YkU&_nc_ohc=uBb9Iq2VGCQAX-ULUgi&_nc_ht=scontent.feze8-1.fna&oh=00_AT_TAT96qeQ_nsk27L8b2PLacTgK_tdbgeB8c6GRW1NjWw&oe=62CF1794"group-title="ARGENTINA",JTA HD MENDOZA
@@ -526,7 +526,7 @@ https://5f700d5b2c46f.streamlock.net/vtvmendoza/vtvmendoza/playlist.m3u8
 https://streamcasthd.com:1936/tvdiez/tvdiez/chunklist_w1569906524.m3u8
 
 
-#EXTINF:-1, tvg-logo=""group-title="ARGENTINA",ZONDA TV 35.1 TDA HD
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ZONDA TV 35.1 TDA HD
 https://cnnsanjuan.com:9999/zonda/zonda/chunks.m3u8
 https://cnnsanjuan.com:9999/zonda/zonda/chunks.m3u8
 
