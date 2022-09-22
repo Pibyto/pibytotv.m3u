@@ -126,6 +126,10 @@ https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1708131059.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZRxjGW5OWCdnHAxe-yHpHZlOn0CxjdS8Gw&usqp=CAU"group-title="ARGENTINA",NIM TV
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://alpavision.com.co/wp-content/uploads/2020/11/baner-canal2-01-300x300-2.png"group-title="ARGENTINA",ALPAVISION
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 
