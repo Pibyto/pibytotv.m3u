@@ -59,9 +59,12 @@ https://streaming.ath.cx:1936/tvmax/tvmax/chunklist_w1307673413.m3u8?ads.content
 https://streaming.ath.cx:1936/nextv/nextv/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch
 https://streaming.ath.cx:1936/nextv/nextv/chunklist_w1899809986.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg"group-title="ARGENTINA",CANAL 9 GT
 https://cdn.streamhispanatv.net:3113/live/canal9tvgtlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1708131059.m3u8
 
 
 
@@ -1727,8 +1730,6 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i49.vbox7.com/o/26b/26b814099f0.jpg"group-title="CINE Y SERIES", PLANTA TV HD
-https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
-https://stmv.panel.grupolimalive.com:443/planeatv/planeatv/chunklist_w1465381133.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="CINE Y SERIES",TELEMAX RD
@@ -1741,9 +1742,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="CINE Y SERIES",PLANETA TV MOVIE FHD
-https://tls-cl.cdnz.cl:443/movie/live/chunklist_w810568192.m3u8
-https://tls-cl.cdnz.cl:443/planetatv2/ngrp:live_all/chunklist_w469323088_b2628000.m3u8
-https://tls-cl.cdnz.cl:443/planetatv2/ngrp:live_all/chunklist_w469323088_b2628000.m3u8
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1708131059.m3u8
 
 
 
