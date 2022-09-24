@@ -60,7 +60,7 @@ https://streaming.ath.cx:1936/nextv/nextv/playlist.m3u8?ads.content_page_url=htt
 https://streaming.ath.cx:1936/nextv/nextv/chunklist_w1899809986.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg"group-title="ARGENTINA",CANAL 9 GT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg"group-title="ARGENTINA",9 GT
 https://cdn.streamhispanatv.net:3113/live/canal9tvgtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="ARGENTINA",PLANETA TV MOVIE FHD
@@ -95,7 +95,6 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/916429064512069632/tECOTlg5_400x400.jpg"group-title="ARGENTINA",MAQUINA TV
-https://scl.edge.grupoz.cl:443/movie/live/chunklist_w428430236.m3u8
 https://cdn5.streamgato.us:3059/live/maquinatvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
@@ -142,6 +141,7 @@ https://cdn2.streamgato.us:443/xtratatv/xtratatv/chunklist_w1357440882.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://puertotvrd.com/wp-content/uploads/2021/06/cropped-cropped-cropped-logo-23.png"group-title="ARGENTINA",PUERTO TV
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w428430236.m3u8
 https://cloudflare.streamgato.us:3176/live/puertotvlive.m3u8
 
 
