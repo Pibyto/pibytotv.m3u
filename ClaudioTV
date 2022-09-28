@@ -60,6 +60,12 @@ https://streaming.ath.cx:1936/nextv/nextv/playlist.m3u8?ads.content_page_url=htt
 https://streaming.ath.cx:1936/nextv/nextv/chunklist_w1899809986.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
+
+#EXTINF:-1 tvg-logo="https://apksos.com/storage/images/com/sacnet/gca/telecom/multizonestelevision/com.sacnet.gca.telecom.multizonestelevision_1.png"group-title="ARGENTINA",MULTIZONAS TELEVISIÓN HD
+https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg"group-title="ARGENTINA",9 GT
 https://cdn.streamhispanatv.net:3113/live/canal9tvgtlive.m3u8
 
