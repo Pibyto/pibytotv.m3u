@@ -220,6 +220,14 @@ http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w1521368896
 https://g4.proy-slo.transport.edge-access.net:443/b16/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 https://g5.mc-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png"group-title="ARGENTINA",C5N
+http://gameplay.p2sweb.me:80/3091894/4952970/251420
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"group-title="ARGENTINA",TN
+http://gameplay.p2sweb.me:80/live/3091894/4952970/251505.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd"group-title="ARGENTINA",IP 24.5 TDA HD
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
