@@ -56,6 +56,9 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 https://streaming.jtamendoza.com/hls/test.m3u8
 https://streaming.jtamendoza.com/hls/test.m3u8
 
+#EXTINF:-1 tvg-logo="https://8digital.com.ar/wp-content/uploads/2022/01/logo8dig2.png"group-title="ARGENTINA",8 DIGITAL MENDOZA 
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PÚBLICA 23.2 TDA HD
 https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
