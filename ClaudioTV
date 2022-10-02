@@ -186,7 +186,7 @@ https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1708131059.m3u8
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1 TDA HD
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://planetatv.online/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png"group-title="ARGENTINA",PLANETA TV KIDS
+#EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/378800000434082297/25d4f35a417c1d203876858175f18d09_400x400.jpeg"group-title="ARGENTINA",PLANETA TV KIDS
 https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 
 
