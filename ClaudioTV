@@ -52,6 +52,11 @@ https://g1.mc-hor.transport.edge-access.net:443/a09/ngrp:magazine_live01-100083_
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png"group-title="ARGENTINA",CINEAR HD 22.4 TDA
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCQTe3BmwB-_e9Pie8e_hNPefbsjk1gp5hXw&usqp=CAU"group-title="ARGENTINA",JTA 21.1 TDA MENDOZA
 https://streaming.jtamendoza.com/hls/test.m3u8
 https://streaming.jtamendoza.com/hls/test.m3u8
@@ -213,6 +218,11 @@ https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
 https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tXAlGJ2CGUZa83ai_ZASZrU8wMktFAjTZw&usqp=CAU"group-title="ARGENTINA",CANAL 5 TV HD COLONIA AVELLANEDA
+https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEx5VnjJek-wAwJKo7CtK_b7GRpPBY19J3w&usqp=CAU"group-title="ARGENTINA",CANAL 11 MACHAGAI
 http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
@@ -316,9 +326,6 @@ https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 http://www.coninfo.net:1935/tvlink/live/chunklist_w1830023976.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png"group-title="ARGENTINA",CINEAR HD 22.4 TDA
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/1200px-Logo_del_canal_Encuentro.svg.png"group-title="ARGENTINA", CANAL ENCUENTRO  22.1 TDA HD
@@ -447,10 +454,6 @@ https://inliveserver.com:1936/14044/14044/playlist.m3u8?WebM3UCL
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
 https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tXAlGJ2CGUZa83ai_ZASZrU8wMktFAjTZw&usqp=CAU"group-title="ARGENTINA",CANAL 5 TV HD COLONIA AVELLANEDA
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cu4E9GlgTEl-pNzwlUHj18ZT4k7rWEaOiPQ0DFXzJYtsPglNgQuXtHrucX4u9E4gMtM0RGyLT1lzyHEUoGQwmh7Z1OEELxty3qvmnjPC8-7pShnazrG1NyxkIpcWjcjocOB_mWUebP7DDAK4NIRCtbIbWnlhbfcCbSDojzNh76j78r_hW_UR5ZdhVeyWbgQrtYbCHrQpEWU844WIfoPT7sN8WXAetUscLYwlLDV2lAWja_SbDFkWzLUtSH3lHiZPyoBsj8K5CSYSFGJ0m72rJHWZkHk1BqPohYYuJir0tL4nbowODoV-FALm_IY5r5jUcsGE_bomQS33zR8F9EHDFsT-o6qniNY-roC2_UOVYR3cky7UYljame4PHAQoE0bIbwSmh_Ts7_BYeUnftIRjIcSWleq5k98-j-PKQuAPXla156djpsiqYuCKSrJxdMVpvrxsrxGmK2IAJyzcDGD7yzBstUZ0WTMtOAGXpGUuiGbQ87x-lQMfZRTqpw0Nrip3GTZAADAP-XKWLxChDZi0tRdSIjIhrd6GDcBxGOYsFAP6UtGiFENP__QFcWI4a4I2g-3mfxPefBlr0LQGz6LVklTOEFuMw0l58yBZLKSnLT-ZN4YDxNoFMfAS9JvtZWj_5Qqn39qbb3lMKBYLha34Hj-mM3j31G6vEo_b42XSs1jKba3T7k4EGvVzjLRB2Dk9IxF0YHETQvbAz8C1owxD4GKcW1De7yTeqthEY4FuC4zWXeeSDRQaM_3hwb8p7M6st4gkimuBklCUwVovBBek2IbjMCSA_JKBPIXGL632BkBWr1blmOWCbrYjTnrY4xabJBoMt9UTks8Bprew23UAIAEqCWV1LXdlc3QtMjC4BA.m3u8
-https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Telediez-en-vivo-Online.png"group-title="ARGENTINA",TELEDIEZ
