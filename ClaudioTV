@@ -74,12 +74,18 @@ https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="ARGENTINA", CANAL 26 26.1 TDA HD
 http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w1521368896_b2628000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL HD
+https://vsd98.mycdn.me:443/hls/1698824391191.m3u8/sig/sFTFqOte_Ao/expires/1664803983570/srcIp/186.132.25.35/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png"group-title="ARGENTINA",CRONICA 24.4 TDA HD
 https://g4.proy-slo.transport.edge-access.net:443/b16/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8 no
 https://g5.mc-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA", ALTAR TV HD
+https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
+https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 
 
@@ -146,18 +152,6 @@ https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA", ALTAR TV HD
-https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
-https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL HD
-https://vsd150.mycdn.me:443/hls/1698824391191.m3u8/sig/nAzWHZZOvqg/expires/1664455646811/srcIp/186.132.65.130/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd98.mycdn.me:443/hls/1698824391191.m3u8/sig/VP4eVxH4A14/expires/1663890249494/srcIp/186.132.102.39/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2900-960x540-000000.jpg"group-title="ARGENTINA",TVMAX
 https://streaming.ath.cx:1936/tvmax/tvmax/chunklist_w213329187.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 https://streaming.ath.cx:1936/tvmax/tvmax/chunklist_w1307673413.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
@@ -178,7 +172,7 @@ https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg"group-title="ARGENTINA",9 GT
 https://cdn.streamhispanatv.net:3113/live/canal9tvgtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="ARGENTINA",PLANETA TV MOVIE FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="ARGENTINA",PLANETATV MOVIE
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1708131059.m3u8
 
 
