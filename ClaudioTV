@@ -45,6 +45,12 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443
 https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="ARGENTINA",VIDATV HD
+https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
+https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es"group-title="ARGENTINA", CIUDAD MAGAZINE
 https://g1.mc-hor.transport.edge-access.net:443/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 
@@ -289,17 +295,6 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoOdtLognMpoWeKK-rB0hQvdh9gHvHIW6Ijw&usqp=CAU"group-title="ARGENTINA",ATM HD
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="ARGENTINA",VIDATV HD
-https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
-https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_Canal_12_-_Misiones.png"group-title="ARGENTINA",EL DOCE HD
