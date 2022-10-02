@@ -190,6 +190,9 @@ https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m
 
 
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/L1hl-IYd0fnnimNCYZDKO0hLOZgGPzRSXw29SWvAFk0-DCVMMBgwJ5DNqOLGK_660lty8K9cZA=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",SICARDITV HD
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.telemixtelefonia.com.br/static/media/logotipo.8c86e3f5.png"group-title="ARGENTINA",TELEMIX GLEW HD
 https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
@@ -453,9 +456,6 @@ https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Telediez-en-vivo-Online.png"group-title="ARGENTINA",TELEDIEZ
 https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/L1hl-IYd0fnnimNCYZDKO0hLOZgGPzRSXw29SWvAFk0-DCVMMBgwJ5DNqOLGK_660lty8K9cZA=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",SICARDITV HD
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 
 
