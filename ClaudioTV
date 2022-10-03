@@ -1096,6 +1096,7 @@ https://vd413.mycdn.me/expires/1660570622154/srcIp/186.132.47.255/srcAg/CHROME_A
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/12282201072862_%281%29.png/revision/latest?cb=20200331211853"group-title="URUGUAY",TELE HD
+http://streamgo.vip:8008/cristian2022/cristian2022/148204
 https://stream-01.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW_D1bf10eEQLFzro2R-QUj7d-YlKP_Hagj3GSZYDQm5j)/dm/3/x7zjvi4/s/live-4.m3u8
 http://edge-live14-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
 
@@ -1106,6 +1107,7 @@ https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png"group-title="URUGUAY",4 HD
+http://streamgo.vip:8008/cristian2022/cristian2022/148206
 http://edge10-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
 
 
@@ -1119,6 +1121,7 @@ http://edge7-ccast-hr.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_SAGEMCOM/TV_Nac
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Canal_10_HD_Uruguay_2009.png/revision/latest?cb=20220206103901&path-prefix=es"group-title="URUGUAY",CANAL 10 HD
+http://streamgo.vip:8008/cristian2022/cristian2022/148207
 http://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
 
 
@@ -1200,6 +1203,7 @@ https://d2e809bgs49c6y.cloudfront.net:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png"group-title="PARAGUAY",SNT HD
+http://streamgo.vip:8008/cristian2022/cristian2022/148160
 https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 https://d4xunn272arip.cloudfront.net:443/hls/snt_360.m3u8
 http://svtv.xyz:8080/Apoyemos/HVUMW/124562
@@ -1210,13 +1214,10 @@ http://edge3-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/bd/Telefuturo_2014.png/revision/latest?cb=20190814183457&path-prefix=es"group-title="PARAGUAY", TELEFUTURO HD
-https://rds3tf.desdeparaguay.net:443/telefuturo/telefuturo_int_alta/chunklist_w1147373983.m3u8?k=31e2391cf34f78bb3911bb977dc37a6e2c0ecba0ccfb583bd8694b401b48af01&exp=1663251596
-https://rds3tf.desdeparaguay.net:443/telefuturo/telefuturo_int_baja/chunklist_w1558052972.m3u8?k=33e436c74dbb4bbda7f65641e74f1e4e7eef2066433e1465909efbced582b9c6&exp=1661564920
-https://rds3tf.desdeparaguay.net:443/telefuturo/telefuturo_int_baja/chunklist_w1164894366.m3u8?k=b16b437a9d481ebccc64b4093989585ab4d38a9abfa9dd238520fb7545d86be6&exp=1660563761
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=826ba9b523488e2afbd1435c97adaca86d94496c0e68b0a123a77b9e0728eb24&exp=1658330117
-http://svtv.xyz:8080/Apoyemos/HVUMW/124560
-http://edge-live15-hr.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
-http://edge1-sl.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
+http://streamgo.vip:8008/cristian2022/cristian2022/148181
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy-290x166.jpg"group-title="PARAGUAY", UNICANAL HD 3.2 AIRE DIGITAL
@@ -1227,6 +1228,7 @@ http://45.55.127.106/live/unicanal_mid.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e9/Latele_offline.png/revision/latest?cb=20170112040241&path-prefix=es"group-title="PARAGUAY",LA TELE HD
+http://streamgo.vip:8008/cristian2022/cristian2022/148169
 https://rds3tf.desdeparaguay.net:443/latele/latele_int_baja/chunklist_w1278278687.m3u8?k=f279be5a59e0ea3a16819e28ed402d02b48edc342e4f633aaae78d17830f55e5&exp=1661565201
 
 
