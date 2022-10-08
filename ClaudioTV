@@ -118,7 +118,7 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA HD
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA HD
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
