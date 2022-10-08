@@ -3479,7 +3479,12 @@ https://v4.tustreaming.cl/restaurandovida/index.m3u8?ads.content_page_url=https%
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2882-960x540-000000.jpg"group-title="CRISTIANO",FRANCHS TV
 https://stream.oursnetworktv.com:443/latin/franchstv/chunklist_w1498532898.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/k7K-F_j5_0mtcPE430-u-xk_hgY0jMdwdrk24tgSupYmkfK5HIcxWaLxrGoB5Ck7s63C"group-title="CRISTIANO",PENIEL TV HD
+http://45.5.117.138:25461/playgt/123456/53 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-v6VZ0Bufd2-cVIM0mb3fBFVGRyY-2J9Fw&usqp=CAU"group-title="CRISTIANO",PENIEL MUSICAL HD
+http://45.5.117.138:25461/playgt/123456/55
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/3h0z4D1bWI__KncOyLytL7AN1Vsp4qkOVrJSxa1ABqTK38tMSrPQ_XNV55vrGTtObsm-_XV0vg=s900-c-k-c0x00ffffff-no-rj"group-title="CRISTIANO",CASA SOBRE LA ROCA TV HD
