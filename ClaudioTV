@@ -1079,14 +1079,11 @@ https://vd413.mycdn.me/expires/1660570622154/srcIp/186.132.47.255/srcAg/CHROME_A
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg"group-title="GUATEMALA",9 
-http://45.5.117.138:25461/playgt/123456/193
-https://cdn.streamhispanatv.net:3113/live/canal9tvgtlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400"group-title="GUATEMALA",BARBE TV
-https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZRxjGW5OWCdnHAxe-yHpHZlOn0CxjdS8Gw&usqp=CAU"group-title="GUATEMALA",NIM TV
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_E0X0YBdwdrVidUS6mDmZoGM8gBj2RRZVkPc4WYQ=s900-c-k-c0x00ffffff-no-rj"group-title="GUATEMALA",25 REGIONAL HD
@@ -1101,8 +1098,6 @@ http://45.5.117.138:25461/playgt/123456/44
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZRxjGW5OWCdnHAxe-yHpHZlOn0CxjdS8Gw&usqp=CAU"group-title="GUATEMALA",NIM TV
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://alpavision.com.co/wp-content/uploads/2020/11/baner-canal2-01-300x300-2.png"group-title="GUATEMALA",ALPAVISION
@@ -1120,6 +1115,15 @@ http://45.5.117.138:25461/playgt/123456/42
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_5aed9b64a4f74269a39c3f697a0b4e06~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/telearte.png"group-title="GUATEMALA",TELE ARTE HD
 http://45.5.117.138:25461/playgt/123456/45
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg"group-title="GUATEMALA",9 
+http://45.5.117.138:25461/playgt/123456/193
+https://cdn.streamhispanatv.net:3113/live/canal9tvgtlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400"group-title="GUATEMALA",BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://izabaltv.com/wp-content/uploads/2021/04/cropped-logo-izabal-tv-2011-.png"group-title="GUATEMALA",IZABAL TV HD
