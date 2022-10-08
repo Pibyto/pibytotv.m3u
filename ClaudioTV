@@ -1102,12 +1102,12 @@ https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 http://45.5.117.138:25461/playgt/123456/39
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1045e40ee9f9492ea5f0fbac4ae32d7d~mv2.png/v1/fill/w_480,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tvs.png"group-title="GUATEMALA",TVS RETRO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1045e40ee9f9492ea5f0fbac4ae32d7d~mv2.png/v1/fill/w_480,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tvs.png"group-title="GUATEMALA", TVS RETRO
 http://45.5.117.138:25461/playgt/123456/128
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_8cf9f5fa2991439b88ea3847bd682565~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PlayMedios.png"group-title="GUATEMALA",PLAY MEDIOS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_8cf9f5fa2991439b88ea3847bd682565~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PlayMedios.png"group-title="GUATEMALA", PLAY MEDIOS
 http://45.5.117.138:25461/playgt/123456/51
 
 
