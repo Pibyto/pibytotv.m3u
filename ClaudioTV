@@ -59,6 +59,10 @@ https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es"group-title="ARGENTINA", CIUDAD MAGAZINE
 https://g1.mc-hor.transport.edge-access.net:443/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png"group-title="ARGENTINA",CINEAR HD 22.4 TDA
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/07/Ultra-Cine-Logo.png"group-title="ARGENTINA",A ESTRENAR
 http://mon-key.us:25461/franco1/franco1/64800
 
@@ -79,14 +83,20 @@ https://5b3050bb1b2d8.streamlock.net:443/viviloendirecto2/canal9/chunklist_w7528
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png"group-title="ARGENTINA",KINGDOM TV 19.1 TDA HD
+https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png"group-title="ARGENTINA",CINEAR HD 22.4 TDA
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCQTe3BmwB-_e9Pie8e_hNPefbsjk1gp5hXw&usqp=CAU"group-title="ARGENTINA",JTA 21.1 TDA MENDOZA
 https://streaming.jtamendoza.com/hls/test.m3u8
 https://streaming.jtamendoza.com/hls/test.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-10-san-rafael.png"group-title="ARGENTINA",CANAL 10 HD MENDOZA
+https://streamcasthd.com:1936/tvdiez/tvdiez/chunklist_w1569906524.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PÚBLICA 23.2 TDA HD
@@ -134,8 +144,6 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png"group-title="ARGENTINA",KINGDOM TV 19.1 TDA HD
-https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
 
 
 
@@ -569,10 +577,6 @@ https://wowza.telpin.com.ar:1935/telpintv/ttv.stream/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-10-san-rafael.png"group-title="ARGENTINA",CANAL 10 HD MENDOZA
-https://streamcasthd.com:1936/tvdiez/tvdiez/chunklist_w1569906524.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ZONDA TV 35.1 TDA HD
