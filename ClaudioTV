@@ -1106,7 +1106,8 @@ http://45.5.117.138:25461/playgt/123456/157
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaz6s3Fu2gjivQzgrZ9Hnz6nUeJb_C5JTHIlwld0&s"group-title="GUATEMALA",GUATV HD
 http://45.5.117.138:25461/playgt/123456/44 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG"group-title="GUATEMALA",GUATEVISION
+https://prensalibre-live.cdn.vustreams.com:443/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/live-audio_track_0_0_und=64000-video_track=6500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7gIaaw5IFInpiDqCoyXsCP52GlrLEql9QQ&usqp=CAU"group-title="GUATEMALA",CANAL 100
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
