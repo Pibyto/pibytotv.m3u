@@ -119,7 +119,8 @@ http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w1521368896
 #EXTINF:-1 tvg-logo="https://streaming.telered.com.ar/provincial/2A.jpg"group-title="ARGENTINA",CANAL PROVINCIAL
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzn3Ay8ky09vbRTyc04HxWc2-3Ly4MB6EDY6saXy3Av4DkFGg_vfC_fAhWDdoG5eBwuj0BfLR5IR4frNY0TjeW85B5Ez0xNeZts0Sx--oK9O7qvjq5H1-_ryQGGgFIvS98FyaYEGgQ882BV4k_eKeVCgaGDwihjTY9HvsPR3Zrhu3lTcN3ajh_nMcD/s902/TVUNLP-2022.png"group-title="ARGENTINA",TVUNLP
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA LANUS HD
 https://panel.dattalive.com/8012/8012/playlist.m3u8
