@@ -161,6 +161,11 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV 17.3 TDA HD
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/L1hl-IYd0fnnimNCYZDKO0hLOZgGPzRSXw29SWvAFk0-DCVMMBgwJ5DNqOLGK_660lty8K9cZA=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",SICARDITV HD
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
@@ -287,16 +292,12 @@ https://streaming.ath.cx:1936/nextv/nextv/playlist.m3u8?ads.content_page_url=htt
 https://streaming.ath.cx:1936/nextv/nextv/chunklist_w1899809986.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
-
 #EXTINF:-1 tvg-logo="https://apksos.com/storage/images/com/sacnet/gca/telecom/multizonestelevision/com.sacnet.gca.telecom.multizonestelevision_1.png"group-title="ARGENTINA",MULTIZONAS TELEVISIÓN HD
 https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="ARGENTINA", MOVIE
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1708131059.m3u8
-
 
 
 #EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/378800000434082297/25d4f35a417c1d203876858175f18d09_400x400.jpeg"group-title="ARGENTINA",PLANETA TV KIDS
@@ -304,20 +305,8 @@ https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/L1hl-IYd0fnnimNCYZDKO0hLOZgGPzRSXw29SWvAFk0-DCVMMBgwJ5DNqOLGK_660lty8K9cZA=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",SICARDITV HD
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/916429064512069632/tECOTlg5_400x400.jpg"group-title="ARGENTINA",MAQUINA TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/916429064512069632/tECOTlg5_400x400.jpg"group-title="ARGENTINA",MAKINA TV
 https://cdn5.streamgato.us:3059/live/maquinatvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7GzAhPIJ7stO3deYfYGxQnCB3Hywpxygs_Go-GYJh8iaP4cD3SGzgLkoGSNvyq85v7DK=w1024-h500"group-title="ARGENTINA",TIV TELEVISIÓN HD CHACO
