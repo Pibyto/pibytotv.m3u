@@ -271,7 +271,12 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEx5VnjJek-wAwJKo7CtK_b7GRpPBY19J3w&usqp=CAU"group-title="ARGENTINA",CANAL 11 MACHAGAI
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7GzAhPIJ7stO3deYfYGxQnCB3Hywpxygs_Go-GYJh8iaP4cD3SGzgLkoGSNvyq85v7DK=w1024-h500"group-title="ARGENTINA",TIV TELEVISIÓN HD CHACO
+https://inliveserver.com:1936/14044/14044/playlist.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEx5VnjJek-wAwJKo7CtK_b7GRpPBY19J3w&usqp=CAU"group-title="ARGENTINA",11 MACHAGAI CHACO
 http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw2qe2LKnaZtg3D5M6rs9WwR9ji0xgRhfapA&usqp=CAU"group-title="ARGENTINA",CHACO TV
@@ -463,9 +468,6 @@ https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",CNR JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7GzAhPIJ7stO3deYfYGxQnCB3Hywpxygs_Go-GYJh8iaP4cD3SGzgLkoGSNvyq85v7DK=w1024-h500"group-title="ARGENTINA",TIV TELEVISIÓN HD
-https://inliveserver.com:1936/14044/14044/playlist.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/213/923/png-transparent-milenio-television-television-high-definition-video-magazine-watch-tv-television-text-logo.png"group-title="ARGENTINA", MILENIUM TV HD
