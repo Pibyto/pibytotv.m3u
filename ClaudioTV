@@ -155,6 +155,11 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipPPwLRCUqmksxklW-sVfUvxk0u5ADKsYRj9WBn0=w1080-h608-p-no-v0"group-title="ARGENTINA",TVMAXCBA
+https://panel.dattalive.com/8106/8106/playlist.m3u8?PlaylistM3UCL
+
+
+
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1 TDA HD
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
