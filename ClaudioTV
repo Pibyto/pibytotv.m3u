@@ -80,6 +80,9 @@ http://streamgo.vip:8008/cristian2022/cristian2022/158990
 http://gameplay.p2sweb.me:80/3091894/4952970/251420
 
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1019/693/png-transparent-euronews-television-channel-logo-streaming-media-euronews-television-blue-text.png"group-title="ARGENTINA",EURONEWS
+https://rakuten-euronews-4-es.samsung.wurl.com:443/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKN8N8fNFYmsYDIK2BG_N8eAJlABse6uCdsA&usqp=CAU"group-title="ARGENTINA",RT ESPAÑOL 25.5 TDA HD
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
