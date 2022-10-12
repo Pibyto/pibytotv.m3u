@@ -1537,8 +1537,6 @@ https://cdn2.streamgato.us:443/horaxhoratelevision/horaxhoratelevision/chunklist
 #EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/10/logovalle200.png"group-title="CINE Y SERIES",VALLEVISION HD
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pTdJRVDDV8jmJV-Nu-Ci9MCJOjsJOyE4QTNwOf_hLyqdRCi0qmUkDNElQ0hUD9qPGD1z"group-title="CINE Y SERIES”, NICOYA TV HD
-https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w368794946.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQSpEdhd8I37WtA6c2K4vuN2vSJKMWPt3oQ&usqp=CAU"group-title="CINE Y SERIES",LATINA TV INTERNACIONAL
@@ -1562,11 +1560,6 @@ https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4s1YE3xLDZnc-2olPgvGD3eMDrX-vGkft7Q2anuiM0-obYpk9&s"group-title="CINE Y SERIES",TELECANAL 12 HD
 https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/bf2b48cb38ba0877190e4d3228c8cb64.png"group-title="CINE Y SERIES", ESTRELLA TV HD
-https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/chunklist_w1306638482.m3u8?WebM3UCL
 
 
 
@@ -1766,11 +1759,6 @@ https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983
 
 
 
-#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="CINE Y SERIES",TVR DIGITAL HD
-https://vsd98.mycdn.me:443/hls/1698824391191.m3u8/sig/gNcnO1MOJWI/expires/1658424029528/srcIp/186.132.6.98/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://imagenestotales.com/wp-content/uploads/2018/04/depositphotos_71252071-stock-photo-peru-flag-map.jpg"group-title="CINE Y SERIES", Peru Channel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 
@@ -1837,22 +1825,6 @@ https://emisoras.hn:8081/wtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://sidi.tse.org.gt/catalogo/uploads/logos/57.JPG"group-title="CINE Y SERIES",NIM TV FHD
 http://iptv.streamhispanatv.net:25461/playgt/123456/2
-
-
-
-
-#EXTINF:-1 tvg-logo="https://newvidatv.com/wp-content/uploads/elementor/thumbs/newtvdigital-pesjbtws8fs1c8ff2e1l7lx63lcuml3wf88utwiups.png"group-title="CINE Y SERIES",NEW VIDA TV FHD
-https://vse2-sa-all8.secdn.net:443/tvstartup17-channel/live/mp4:newvidaedge/chunklist_sess169492334.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdbTN87f7ZwM2s3-4YOBjKba42M1o5xcD4Q&usqp=CAU"group-title="CINE Y SERIES",CANAL 12 METRO TV HD
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
-
-
-
-
 
 
 
