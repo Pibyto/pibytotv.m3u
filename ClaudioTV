@@ -115,20 +115,6 @@ https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/chunklist_w2091133983.m
 https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FdDVTZDWQAMYksj.jpg"group-title="ARGENTINA",AUNAR TV HD
-https://5fb24b460df87.streamlock.net:443/live-cont.ar/mirador/chunklist_w1838904242.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es"group-title="ARGENTINA",CANAL RURAL HD
-https://cda2.alsolnet.com:443/elrural/live/chunklist_w1329267524.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_64591.png"group-title="ARGENTINA", ARGENTINISIMA SATELITAL HD
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg"group-title="ARGENTINA",TIERRAMIATV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png"group-title="ARGENTINA",TELEMAX 26.3 TDA HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
@@ -136,6 +122,8 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b18
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/1200px-Logo_del_canal_Encuentro.svg.png"group-title="ARGENTINA", CANAL ENCUENTRO  22.1 TDA HD
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png"group-title="ARGENTINA",CINEAR HD 22.4 TDA
@@ -342,20 +330,6 @@ https://wowzasrv.chaco.gov.ar:443/Streamtv/chacotv/chunklist_w1867064858.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIGtEBS8weKHEB3uSKaL1oGNOK1cSIS54aqQ&usqp=CAU"group-title="ARGENTINA",GUACARA TV
-https://cloudflare.streamgato.us:3180/live/guacaratvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeXINPllcboQhyvUQS2lj5VR-1iA4WCeQSdg&usqp=CAU"group-title="ARGENTINA",XTRA TV
-https://cdn2.streamgato.us:443/xtratatv/xtratatv/chunklist_w1357440882.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://puertotvrd.com/wp-content/uploads/2021/06/cropped-cropped-cropped-logo-23.png"group-title="ARGENTINA",PUERTO TV
-https://scl.edge.grupoz.cl:443/movie/live/chunklist_w428430236.m3u8
-https://cloudflare.streamgato.us:3176/live/puertotvlive.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2387-320x180-000000.jpg"group-title="ARGENTINA",TELEXIMA LIVE
-https://vdo2.streamgato.us:3324/live/teleximalive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
 
@@ -367,8 +341,6 @@ https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4-Bf6ARPAepAKqGtd8bwxsxg3RoviMp52_5T2A2onbefEu_k&s"group-title="ARGENTINA",LIMALIVE
-https://stmv.panel.grupolimalive.com:443/limalive/limalive/chunklist_w113368657.m3u8
 
 
 
@@ -381,8 +353,6 @@ https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 https://g5.mc-hor.transport.edge-access.net:443/a05/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgR15JAVnvTOXJk66MhlyFXqh0icNZCjtC5yJBJVQ&s"group-title="ARGENTINA",CANAL 8 VALLE DE UCO
-https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ngfederal.ar/imgs/image.png"group-title="ARGENTINA",NG FEDERAL 
 http://www.coninfo.net:1935/tvlink/live/chunklist_w1830023976.m3u8
@@ -390,8 +360,6 @@ http://www.coninfo.net:1935/tvlink/live/chunklist_w1830023976.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/1200px-Logo_del_canal_Encuentro.svg.png"group-title="ARGENTINA", CANAL ENCUENTRO  22.1 TDA HD
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
 
 
 
