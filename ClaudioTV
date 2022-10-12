@@ -926,8 +926,6 @@ https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_yNR7nXg_S4xD8dP_daS3YtgT1PQukGGlbQ&usqp=CAU"group-title="ANIMÉ",EL CHAVO DEL 8 
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_zDOiW5aX6vU6DUYzJd_o2ZD-CG_vKilGA&usqp=CAU"group-title="ANIMÉ",LOS SIMPSONS
@@ -2215,8 +2213,6 @@ https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQ5uO_nEoNUuo_B0JWyWrSxYTIPaI0LAHOw&usqp=CAU"group-title="CINE Y SERIES",TOTOVISION
-http://iptv.streamhispanatv.net:25461/playgt/123456/13
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQbt1Xd2aSbuAk6GV8_q5YRSRZ5yYAvqWsOQ&usqp=CAU"group-title="CINE Y SERIES",GENIOS TV
 https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
@@ -2240,9 +2236,6 @@ https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.sumundotv.com/wp-content/uploads/2021/12/logosumundo2-1.png"group-title="CINE Y SERIES",SU MUNDO TV HD
-https://stream.castr.com:443/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/tracks-v1a1/mono.m3u8
-https://cdn1.streamgato.us/sumundotv/sumundotv.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRxYYfJ6z0RKXUD0yMjmNjsg0WKHKOGNtK1xVg8BA=s900-c-k-c0x00ffffff-no-rj"group-title="CINE Y SERIES",UNIKA TV
 https://video.misistemareseller.com:443/unikatv/unikatv/chunklist_w1798679584.m3u8
@@ -2257,9 +2250,6 @@ https://stmv.panel.grupolimalive.com:443/planeatv/planeatv/chunklist_w1465381133
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4UO6gtj8ezFTYYdYWeixOMTSC81p6NTBYw&usqp=CAU"group-title="CINE Y SERIES",EL SOL
 http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://scontent.feze7-2.fna.fbcdn.net/v/t1.6435-9/122793429_978018899374439_442715255917151048_n.jpg?stp=cp0_dst-jpg_e15_p206x206_q65&_nc_cat=111&ccb=1-5&_nc_sid=85a577&_nc_ohc=UY24H0aiAFIAX-jfQZ6&_nc_ht=scontent.feze7-2.fna&oh=00_AT8T0-2-AglZVvNrLKtPXCHMqhIHNTPc1MVSbzYd_hTn9Q&oe=6272060C"group-title="CINE Y SERIES", AURORA FILMS
-http://iptv.streamhispanatv.net:25461/playgt/123456/108
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSANZQuqh7i1yg0iYUL13DQH06fO-_EUVXihg&usqp=CAU"group-title="CINE Y SERIES", ALTAGRACIA TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8 
