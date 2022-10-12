@@ -1135,16 +1135,15 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=251bd493cc44ccfb1bf2d34
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=278f424ae1d8fd1af0a6785558eb310b3f24f5fe4cad421079c510156b260500&exp=1649376050
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
 
+#EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-31-at-12.29.17-300x210.jpeg"group-title="PARAGUAY", CANAL RTV 12 
+https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="PARAGUAY",SOMOS DEL ESTE HD
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest?cb=20201020230413&path-prefix=es"group-title="PARAGUAY",PARAVISION HD
-https://edge-live15-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
-http://edge3-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4.m3u8
-http://edge2-ccast-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2A7grjXN0ADAN92wuJRt2UIdCaA7ZJgJHw&usqp=CAU"group-title="PARAGUAY",ABC HD
@@ -1154,51 +1153,13 @@ https://d2e809bgs49c6y.cloudfront.net:443/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7
 
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png"group-title="PARAGUAY",SNT HD
-http://streamgo.vip:8008/cristian2022/cristian2022/148160
-https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
-https://d4xunn272arip.cloudfront.net:443/hls/snt_360.m3u8
-http://svtv.xyz:8080/Apoyemos/HVUMW/124562
-http://edge-live14-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
-http://edge3-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/bd/Telefuturo_2014.png/revision/latest?cb=20190814183457&path-prefix=es"group-title="PARAGUAY", TELEFUTURO HD
-http://streamgo.vip:8008/cristian2022/cristian2022/148181
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy-290x166.jpg"group-title="PARAGUAY", UNICANAL HD 3.2 AIRE DIGITAL
+#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy-290x166.jpg"group-title="PARAGUAY",UNICANAL HD 3.2 AIRE DIGITAL
 http://45.55.127.106/live/unicanal.m3u8
-http://svtv.xyz:8080/Apoyemos/HVUMW/124574
-http://svtv.xyz:8080/Apoyemos/HVUMW/181906
-http://45.55.127.106/live/unicanal_mid.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e9/Latele_offline.png/revision/latest?cb=20170112040241&path-prefix=es"group-title="PARAGUAY",LA TELE HD
-http://streamgo.vip:8008/cristian2022/cristian2022/148169
-https://rds3tf.desdeparaguay.net:443/latele/latele_int_baja/chunklist_w1278278687.m3u8?k=f279be5a59e0ea3a16819e28ed402d02b48edc342e4f633aaae78d17830f55e5&exp=1661565201
 
 
 #EXTINF:-1 tvg-logo="https://www.trece.com.py/public/img/Logo-Trece.png"group-title="PARAGUAY",TRECE HD
 https://streaming.trece.com.py/live/trece_src.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Sur_TV_Itapua_2013.png/revision/latest?cb=20171021201738"group-title="PARAGUAY",SUR TV HD
-http://edge4-hr.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png"group-title="PARAGUAY",NPY HD
-https://rds3tf.desdeparaguay.net/npy/npy_int_baja/playlist.m3u8?k=734dd8e1f2ec000a0fe685976b7ca9570e97ee91364e3d4ba540c5f38d63447b&exp=1658330501
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Paraguay_TV_2020.png/revision/latest/scale-to-width-down/200?cb=20210512141427&path-prefix=es"group-title="PARAGUAY",PY TV HD
-https://live-ak.vimeocdn.com:443/exp=1661569307~acl=%2F0a258776-2fe6-4bb0-9730-902bb3a56a7e%2F%2A~hmac=18e90e7684b03cdf0a3fa1a0964f1820179f113fbbd694d1abc9c4b1cfa51c51/0a258776-2fe6-4bb0-9730-902bb3a56a7e/chunklist_b6256000.m3u8?max_segments=10
-https://live-ak.vimeocdn.com:443/exp=1658334786~acl=%2Fb9a6d568-79ae-4b58-b667-728d9d44f707%2F%2A~hmac=fd93c7d86806565749d51e585ee4784f2f62f4d0e5aea1b7f1bc3f3ec5e77f9d/b9a6d568-79ae-4b58-b667-728d9d44f707/chunklist_b3256000.m3u8?max_segments=10
-http://edge3-sl.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_SAGEMCOM/Paraguay_TV.m3u8
-http://edge10-sl.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_SAGEMCOM/Paraguay_TV.m3u8
 
 
 
@@ -1212,15 +1173,6 @@ https://59ce1298bfb98.streamlock.net:443/rcctv02/rcctv02/chunklist_w367521064.m3
 
 
 
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png"group-title="PARAGUAY",GEN HD
-https://rds3gen.desdeparaguay.net:443/gentv/gentv_int_baja/chunklist_w689426723.m3u8?k=a361e9c2fbfa60c4c2aeaabc2ee14f33bcd7c7ccfd44bd0e405d56e78670b802&exp=1661565441
-https://rds3gen.desdeparaguay.net:443/gentv/gentv_int_alta/chunklist_w1726674394.m3u8?k=3b9bf8cbc53d3800853e5ae0becdca865541cf0b767ff58248333138738b8497&exp=1658330411
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/06/edulogo3-300x204.png"group-title="PARAGUAY",EDUCANAL HD
 https://59ce1298bfb98.streamlock.net:443/educanal/educanal/chunklist_w1429510679.m3u8
 
@@ -1231,8 +1183,6 @@ https://59ce1298bfb98.streamlock.net:443/mastv/mastv/chunklist_w1042350252.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://iptv.com.py/wp-content/uploads/2021/12/WhatsApp-Image-2021-12-31-at-12.29.17-300x210.jpeg"group-title="PARAGUAY", CANAL RTV 12 
-https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_O_yDJ3BrVGVM7SY08qrsHI2FUHZYYqQg&usqp=CAU"group-title="PARAGUAY",E-TV HD
@@ -1267,8 +1217,6 @@ https://rds3.desdeparaguay.net:443/gotv/gotv/chunklist_w915671998.m3u8?k=cf6f747
 https://59ce1298bfb98.streamlock.net:443/frutillarfm/frutillarfm/chunklist_w439127795.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://paraguayonline.net/wp-content/uploads/2022/01/cgztvrad.jpg"group-title="PARAGUAY", CAAGUAZÚ TV HD
-https://59ce1298bfb98.streamlock.net:443/caaguazutv/caaguazutv/chunklist_w1791037156.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJQg-0Q6MNJHBc94GFCjMPqy6qdFDYefns0Q&usqp=CAU"group-title="PARAGUAY", CORONEL OVIEDO TV HD
@@ -1299,17 +1247,7 @@ https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8?k=fbf4bf3ba2bfb23
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gtdrvbD2M2hBo4wV46KRDBbviCvWSIfKBg&usqp=CAU"group-title="PARAGUAY",VILLA ELISA RADIOTV
-https://rds3.desdeparaguay.net:443/villaelisatv/villaelisatv/chunklist_w875500326.m3u8?k=2b89c639d5aee2f504457f5f175db331c20c15b5d5d114e4fc76c4d0ceaa8acf&exp=1653133065
 
-
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3mGnhkccKB8/WW1Aq9WGBLI/AAAAAAAAAcc/wJuDijs2ThsrlNk2BTg6euAavBAflMfUgCK4BGAYYCw/s1600/logo-tvs-encarnacion-televisora-del-sur-en-vivo-online.png"group-title="PARAGUAY",TVS ENCARNACION
-https://rds3.desdeparaguay.net:443/tvs/tvs/chunklist_w399524029.m3u8?k=befebd44d6873fe21b6ef6eb53f0903c8e938c424679f24328509376449f8938&exp=1653132940
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jTF17ByU3z8/maxresdefault.jpg"group-title="PARAGUAY",MEGA TV HD
-http://edge-live13-sl.cvattv.com.ar/live/c7eds/Mega_TV/SA_SAGEMCOM/Mega_TV.m3u8
 
 
 
@@ -1339,23 +1277,10 @@ http://edge-live13-sl.cvattv.com.ar/live/c7eds/Mega_TV/SA_SAGEMCOM/Mega_TV.m3u8
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg"group-title="PERÚ",LATINA HD
-http://streamgo.vip:8008/cristian2022/cristian2022/148683
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n.svg.png"group-title="PERÚ",AMÉRICA HD
 http://streamgo.vip:8008/cristian2022/cristian2022/148685
 http://fortv.cc:8080/Ronnie/Ronnie/110637
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png"group-title="PERÚ",EXITOSA HD
-http://streamgo.vip:8008/cristian2022/cristian2022/148694
-
-https://cu.onliv3.com/livevd1/user2.m3u8
 
 
 
@@ -1366,10 +1291,6 @@ https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFhSMp9cjjm-HLr4eTL
 
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.Willax.png.10a816e591db2a325c72ef626dc96495.png"group-title="PERÚ",WILLAX HD
-http://streamgo.vip:8008/cristian2022/cristian2022/148691
-http://fortv.cc:8080/Ronnie/Ronnie/110644
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmRwcU7dkDLYwY9LRPRU0S4qLv7MF7yFddkWp2z2My0N)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
 
 
@@ -1394,14 +1315,6 @@ https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png"group-title="PERÚ",PLANETA TV HD
-https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/660898970/t192_400x400.jpg"group-title="PERÚ",CINECLUB HD
 https://servilive.com:3176/live/cineclublive.m3u8
 
@@ -1419,8 +1332,6 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/105
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/cd42f39664a8407ac5071d2ef6842c9e.png"group-title="PERÚ",DMJ
 https://v4.tustreaming.cl:443/s1tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLBSSWE48MSMKxLZCNZ0YEYupXxG8TNiK6w&usqp=CAU"group-title="PERÚ",CANAL EVELYN
-https://srv1.mediastreamperu.com:8081/8004/tracks-v1a1/mono.m3u8
 
 
 
@@ -1474,18 +1385,6 @@ https://servilive.com:3149/live/jn19tvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoVLV3y8tx_6j51mAQMe8LeceblFCseQQk1g&usqp=CAU"group-title="PERÚ", AUTENTICA TV
 https://live.obslivestream.com:443/autenticatvmux/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://huachoperutv.com/wp-content/uploads/elementor/thumbs/logo-1-p9jhmvdhk8zb9sh9bguhzvez9j02ffphsqx3erjkuo.png"group-title="PERÚ",HUACHO TV
-https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Unitel_logo_HD.png/640px-Unitel_logo_HD.png"group-title="PERÚ”,UNITEL HD
-https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/02/vz-nuevo.png"group-title="PERÚ”,VZ TELEVISIÓN
-https://live.obslivestream.com:443/vztv/tracks-v1a1/mono.m3u8
-
 
 
 
