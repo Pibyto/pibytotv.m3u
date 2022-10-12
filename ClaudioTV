@@ -89,6 +89,15 @@ https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg"group-title="ARGENTINA", TELESUR HD
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png"group-title="ARGENTINA",FORO
+https://channel02dai-notusa.akamaized.net:443/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/95637384-1f31-4166-b93b-c8ae57e5222b:SCL/variant/16ff5da0deceef4dd50fdae46cc4cb81/bandwidth/11542961.m3u8?hdntl=exp=1665684777~acl=/*~id=4a7a6f79-7d2c-4b0f-b7e4-770e8723243a~data=hdntl~hmac=56d4cfadac8872b1fc433d078f2fb1dcddd0b20e6213ef6f6c1f1574081c751e&
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_18728.png"group-title="ARGENTINA", NTN24
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl88HYWUjrg23UMNwhOKUolqjBQXUG0aR-Mnk0D4XZGjn)/dm/3/x7w4okl/s/live-1.m3u8#cell=lnyc
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQqrep_bDZCcIMtK1h6HOVyp4eN7jM0_Q0A&usqp=CAU"group-title="ARGENTINA",DW ESPAÑOL HD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
