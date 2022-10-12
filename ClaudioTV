@@ -215,6 +215,9 @@ https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/
 https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://zoe.com.uy/wp-content/uploads/2020/09/mvtv-banner.png"group-title="ARGENTINA", MISION VIDA TV HD
+https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",13 HD JUJUY
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
@@ -248,6 +251,10 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV 17.3 TDA HD
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="ARGENTINA",CANAL+ HD
+https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/L1hl-IYd0fnnimNCYZDKO0hLOZgGPzRSXw29SWvAFk0-DCVMMBgwJ5DNqOLGK_660lty8K9cZA=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",SICARDITV HD
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
@@ -1080,68 +1087,6 @@ http://45.5.117.138:25461/playgt/123456/119
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cJibduwasn792CrcDpJvAVoTBQBDj2jgquK_H-xMTVy8BJlgJYqVBHeW5Mxen3x9cYA"group-title="GUATEMALA",CANAL 5 HD
 http://45.5.117.138:25461/playgt/123456/198
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##############( URUGUAY )###########################( URUGUAY )##########################
-###########( URUGUAY )#################################( URUGUAY )##################ññ
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/12282201072862_%281%29.png/revision/latest?cb=20200331211853"group-title="URUGUAY",TELE HD
-http://streamgo.vip:8008/cristian2022/cristian2022/148204
-https://stream-01.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW_D1bf10eEQLFzro2R-QUj7d-YlKP_Hagj3GSZYDQm5j)/dm/3/x7zjvi4/s/live-4.m3u8
-http://edge-live14-sl.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="URUGUAY",CANAL+ HD
-https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png"group-title="URUGUAY",4 HD
-http://streamgo.vip:8008/cristian2022/cristian2022/148206
-http://edge10-sl.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://zoe.com.uy/wp-content/uploads/2020/09/mvtv-banner.png"group-title="URUGUAY", MISION VIDA TV HD
-https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es"group-title="URUGUAY",5 HD
-http://edge7-ccast-hr.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_SAGEMCOM/TV_Nacional_Uy.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Canal_10_HD_Uruguay_2009.png/revision/latest?cb=20220206103901&path-prefix=es"group-title="URUGUAY",CANAL 10 HD
-http://streamgo.vip:8008/cristian2022/cristian2022/148207
-http://edge5-sl.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png"group-title="URUGUAY",TV CIUDAD HD
-http://s846397078.mialojamiento.es:80/w8jy/mp.php/https:/vxlive.cdn.antel.net.uy/auth_livesignal_474,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDc0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2NTgzNTEzNTYmcmFuZG9tPWY4b25senB6bWwmYy1pcD04Mi4xNjUuODEuOTgsOWVlYTJlMGIwYmQyMWJmZmYyM2FmNTc1MmZiNWMyYzkzNTI3YWY5ZjY3MWI5ODc5YjJjNzJlNjY2OTNmNDEwZg==/vxfmt=hls/h_4e87ba91e00e1eff7a40be8574baa630/var3000000/playlist.m3u8
-http://edge-live13-hr.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4gBwkZklHX8Hyl2YWYEBduFFK3Au6kl8ugA&usqp=CAU"group-title="URUGUAY",UCL HD
-https://livedelta.cdn.antel.net.uy:443/out/u/url_canalu_4.m3u8?m=1650983053
-
-
 
 
 
