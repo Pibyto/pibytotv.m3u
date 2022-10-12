@@ -96,6 +96,32 @@ https://g1.proy-hor.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-10
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es"group-title="ARGENTINA",NET TV 27.2 TDA HD
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-22-en-vivo-Online.png"group-title="ARGENTINA",CANAL 22 LA MATANZA HD
+https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/chunklist_w2091133983.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png"group-title="ARGENTINA", CN 24/7 NEUQUÉN HD
+https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FdDVTZDWQAMYksj.jpg"group-title="ARGENTINA",AUNAR TV HD
+https://5fb24b460df87.streamlock.net:443/live-cont.ar/mirador/chunklist_w1838904242.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es"group-title="ARGENTINA",CANAL RURAL HD
+https://cda2.alsolnet.com:443/elrural/live/chunklist_w1329267524.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_64591.png"group-title="ARGENTINA", ARGENTINISIMA SATELITAL HD
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg"group-title="ARGENTINA",TIERRAMIATV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png"group-title="ARGENTINA",TELEMAX 26.3 TDA HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
+
 
 
 
@@ -106,21 +132,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FdDVTZDWQAMYksj.jpg"group-title="ARGENTINA",AUNAR TV HD
-https://5fb24b460df87.streamlock.net:443/live-cont.ar/mirador/chunklist_w1838904242.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg"group-title="ARGENTINA",TIERRAMIATV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Canal_Rural_2016.png/revision/latest?cb=20200921033638&path-prefix=es"group-title="ARGENTINA",CANAL RURAL HD
-https://cda2.alsolnet.com:443/elrural/live/chunklist_w1329267524.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_64591.png"group-title="ARGENTINA", ARGENTINISIMA SATELITAL HD
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
 
 
@@ -297,17 +309,6 @@ https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-22-en-vivo-Online.png"group-title="ARGENTINA",CANAL 22 LA MATANZA HD
-https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/chunklist_w2091133983.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png"group-title="ARGENTINA", CN 24/7 NEUQUÉN HD
-https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png"group-title="ARGENTINA",TELEMAX 26.3 TDA HD
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2900-960x540-000000.jpg"group-title="ARGENTINA",TVMAX
 https://streaming.ath.cx:1936/tvmax/tvmax/chunklist_w213329187.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
@@ -322,10 +323,6 @@ https://streaming.ath.cx:1936/nextv/nextv/chunklist_w1899809986.m3u8?ads.content
 
 #EXTINF:-1 tvg-logo="https://apksos.com/storage/images/com/sacnet/gca/telecom/multizonestelevision/com.sacnet.gca.telecom.multizonestelevision_1.png"group-title="ARGENTINA",MULTIZONAS TELEVISIÓN HD
 https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMvk1IQ1DJnRsKcZH07vSHyBY7Mk8LgX3qQ&usqp=CAU"group-title="ARGENTINA", MOVIE
-https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1708131059.m3u8
 
 
 #EXTINF:-1tvg-logo="https://pbs.twimg.com/profile_images/378800000434082297/25d4f35a417c1d203876858175f18d09_400x400.jpeg"group-title="ARGENTINA",PLANETA TV KIDS
