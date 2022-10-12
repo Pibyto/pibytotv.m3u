@@ -207,8 +207,20 @@ https://vsd98.mycdn.me:443/hls/1698824391191.m3u8/sig/KnzLR7LMrDI/expires/166534
 
 
 
+#EXTINF:-1 tvg-logo="https://cristianoreformado7.files.wordpress.com/2014/11/enlace-updated.png"group-title="ARGENTINA", CRISTIANATV (ENLACE) HD
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/08/CanalLuz-Logo.jpg"group-title="ARGENTINA",CANAL LUZ
+https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png"group-title="ARGENTINA",BENDICION TV HD
+https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",13 HD JUJUY
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA", ALTAR TV HD
@@ -245,8 +257,8 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Ob2qAy4_BnP38nhRstDX6Js1yGIC6d7qHK4T6dWlCiN577QmDQz8RI2R6suRWMWGRVsihLEs=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",PANC TV
-https://video.streamtvradio.com:8443/uv096/uv096/chunks.m3u8?nimblesessionid=2134257&WebM3UCL
-https://video.streamtvradio.com:8443/uv096/uv096/chunks.m3u8?nimblesessionid=2129914&PlaylistM3UCL
+https://video.streamtvradio.com:8443/uv096/uv096/chunks.m3u8?nimblesessionid=2134257.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
@@ -334,13 +346,6 @@ https://wowzasrv.chaco.gov.ar:443/Streamtv/chacotv/chunklist_w1867064858.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cristianoreformado7.files.wordpress.com/2014/11/enlace-updated.png"group-title="ARGENTINA", CRISTIANATV (ENLACE) HD
-https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/08/CanalLuz-Logo.jpg"group-title="ARGENTINA",CANAL LUZ
-https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_Canal_12_-_Misiones.png"group-title="ARGENTINA",EL DOCE HD
@@ -375,9 +380,6 @@ https://live.enhdtv.com:19360/tvplaydigital/tvplaydigital.m3u8
 https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/playlist.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png"group-title="ARGENTINA",BENDICION TV HD
-https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="ARGENTINA",10 MDP HD
@@ -404,19 +406,8 @@ http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 https://panel.dattalive.com/8204/8204/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",13 HD JUJUY
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="ARGENTINA",TV+  HD
-https://streamcasthd.com:19360/tvmas/tvmas.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJN2qdPKORwnIGvNsDLnX4E--yiHODVC4bvEqo=s900-c-k-c0x00ffffff-no-rj" group-title="ARGENTINA",CNR JUJUY
-https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 
 
