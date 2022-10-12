@@ -1424,7 +1424,7 @@ https://master.tucableip.com:443/zoytv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0KBKhum_0y4-0yY8YJLqHwIjF3uNDTsFuA&usqp=CAU"group-title="BOLIVIA",REC ONLINE TV HD
-https://master.tucableip.com/reconline/live/video.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="BOLIVIA",MEGA TV HD
@@ -1433,10 +1433,6 @@ https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20180702212548"group-title="BOLIVIA",BOLIVISION HD
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Unitel_logo_HD.png/1200px-Unitel_logo_HD.png"group-title="BOLIVIA",UNITEL HD
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZcIYZfUrsBjZJ2fFIZzeuKKGtH2wIM2z5bXHzp86uN7r)/dm/3/x7vsezg/d/live-3.m3u8#cell=lnyc
-http://777back.xyz:8080/live/clauDio930/fTPTXdfbLKBe/118678.m3u8
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=2194.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.eldeber.com.bo/Files/Sizes/2020/12/8/la-nueva-imagen-de-bolivia-tv-i-captura._1038948677_1140x520.jpg"group-title="BOLIVIA",BTV HD
@@ -1449,10 +1445,6 @@ https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzWZy9dRBCPOtVtidK58Or0CsPdameDq1a2Q&usqp=CAU"group-title="BOLIVIA",ATB HD
 http://186.121.206.197/live/daniel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.evaluar.com/jobboards/prod/wp-content/uploads/jobboards/sites/343/2021/09/03145725/Logo_Red_Uno1.png"group-title="BOLIVIA",UNO HD
-http://777back.xyz:8080/live/clauDio930/fTPTXdfbLKBe/68501.m3u8
-http://gratis.shortgod.com/muchossaposyypocosapoyan/tv7.php?c=2191.m3u8
-https://www.dailymotion.com/cdn/live/video/x825whp.m3u8?sec=U-f81IyOn8dICD2iC2mUdsjHLxnzN4X4B0XQ6408eTCGCcJ_1x9BaMQZB7pDgq3UzqtP5CjJTItftx8EHj-eoQ&dmTs=946400&dmV1st=40CE09DD7BB277704D206816CAF7CF4C
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Pat-TV-en-vivo-Online.png"group-title="BOLIVIA",PAT HD
@@ -1478,10 +1470,6 @@ https://master.tucableip.com//zoytv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ705eVxKKzcyg5JNP-d81pqZFN0YeZaWXEg&usqp=CAU"group-title="BOLIVIA", TV LATINA HD
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Izlr36vLmsz2GO6cE1Ml8JnbXUuQP9D3XDZ19ZmlFK32_K-NMLdEtdCoYA464whXuH4"group-title="BOLIVIA",RTV CANAL 19 HD
-https://play.amelbasoluciones.co:3546/live/boliviaradiotvlive.m3u8
-
 
 
 
@@ -1581,50 +1569,6 @@ http://daleplay.club:8080/live/Pepe_Luis1/pepe5050/69250.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png"group-title="COLOMBIA",CITY TV
 https://citytv.cachefly.net/citytv1/citytv1/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",RCN HD
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZRvIHw8bJcY87IHS3b6g0UKj3DH_in4gxSJ_gf_vSiMz)/dm/3/x7vyv0z/s/live-3.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",RCN+
-https://rcntv-rcnmas-1-us.roku.wurl.tv:443/4300.m3u8
-
-
-#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",CALI TV HD
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/.m3u8
-
-
-#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",TELEPACIFICO HD
-https://stream.logicideas.media/telepacifico-live/live.smil/.m3u8
-
-
-#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",CNC HD
-http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream/.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",CARACOL HD
-https://vkvsd54.mycdn.me:443/hls/2482060855961.m3u8/sig/-e0I-JgEQ_4/srcIp/186.132.104.227/expires/1654293366434/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3564413332377/id/2482060855961/2482060855961_high/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1280px-Se%C3%B1al_Colombia_logo.svg.png"group-title="COLOMBIA",SEÑAL TV HD
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
