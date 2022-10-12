@@ -58,6 +58,11 @@ https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE 35.1 TDA HD
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/880a23bb-ff0f-431f-a4b3-729db776b35d/5.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.am1080.com.ar/radio/wp-content/uploads/nav-paka-paka.jpg"group-title="ARGENTINA", PAKA PAKA  22.2
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PÚBLICA 23.2 TDA HD
 https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
@@ -813,6 +818,14 @@ https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToEpbnar1syeKHauV3lFRfwhy_k7sLbVPPyw&usqp=CAU"group-title="CINE PREMIUM", ORIGEN TV
 
 
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png"group-title="CINE PREMIUM", iCarly 
+https://tinyurl.com/y976r32k
+
+
+#EXTINF:-1 tvg-logo="https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8"group-title="CINE PREMIUM",CANELA KIDS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
 
 
@@ -2392,234 +2405,6 @@ https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Canal_3_Guatemala.png/revision/latest/scale-to-width-down/200?cb=20200408010051&path-prefix=es"group-title="CINE Y SERIES",CANAL 3
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-######$#######¢###( MUSICALES )############################( MUSICALES )#########################( MUSICALES )#########################
-#################$######################( MUSICALES )##################################################################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://graffica.info/wp-content/uploads/2017/04/MTV_Logo_2010.svg_-e1491986765105-1200x900.png"group-title="MUSICALES",MTV HD
-http://45.167.250.116:20023/play/a0im/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png"group-title="MUSICALES",MUSIC TOP HD
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/power-tv.png"group-title="MUSICALES",POWER TV HD
-https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png"group-title="MUSICALES",QELLO
-https://tinyurl.com/4h66jbbj
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/702px-Radio_m2o_-_Logo_2019.svg.png"group-title="MUSICALES",M2O
-https://streamcdng31-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F727f4de6a319b31e9aa766153c0af631915d2c11557468f8447d81a10c543292.png"group-title="MUSICALES", RCKTV
-https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w1912863401.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiob8azTJJPN3ab8FVqQ3ZA1Wnr1NUItky7g&usqp=CAU"group-title="MUSICALES",VEVO 2K
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeO6nrQIKVr-zZUr7lpNhzQ9chNQ1mljS03A&usqp=CAU"group-title="MUSICALES", PLANETA TV MUSIC
-https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w837482329_b2628000.m3u8?WebM3UCL
-https://tls-cl.cdnz.cl:443/planetatv1/ngrp:live_all/chunklist_w1779226923_b2820000.m3u8?WebM3UCL
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMDUfmdrSfpM7clCTGUfh580H5P3nrkdWyOg&usqp=CAU"group-title="MUSICALES",SPIRIT TV
-https://cdnlive.myspirit.tv:443/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/862/837/png-clipart-vevo-light-signage-vevo-logo-black-icons-logos-emojis-iconic-brands.png"group-title="MUSICALES", VEVO R&B
-http://service-stitcher.clusters.pluto.tv:80/proxy/6bc0815e-fe9a-464b-9d20-af824e8dcdc5/5da0d83f66c9700009b96d0e/5449180/playlist.m3u8?deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT60KgOjnmnZ2_5Y6LTs4qze-IKZwzpK3pMVA&usqp=CAU"group-title="MUSICALES",VEVO COUNTRY
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com:443/out/v1/f66d9d3fb088443baf9abae38ae01fef/live_8.m3u8
-http://service-stitcher.clusters.pluto.tv:80/proxy/a7f46d76-39c5-4794-883c-4d22a9c41fde/5da0d75e84830900098a1ea0/5449197/playlist.m3u8?deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbwx8v5jJOEwvgnbPMm0fX_GXE1qtMiilJ0Q&usqp=CAU"group-title="MUSICALES", VEVO REAGETON Y TRAP
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
-
-
-
-
-
-
-
-
-
-##############( INFANTIL )################################( INFANTIL )###########
-#############$#################( INFANTIL )######################$###$$##########
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4e/Baby_TV_%282009-.n.v.%29.png/revision/latest/scale-to-width-down/250?cb=20210319144454"group-title="INFANTIL",BABY TV HD
-http://streamgo.vip:8008/cristian2022/cristian2022/147192
-http://45.167.250.116:20023/play/a0ii/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2021/12/logo-cartoonito-black.png"group-title="INFANTIL",CARTOO-NITO
-http://streamgo.vip:8008/cristian2022/cristian2022/147195
-http://45.167.250.116:20023/play/a0fo/index.m3u8
-https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png"group-title="INFANTIL", DISNEY CHANNEL
-http://streamgo.vip:8008/cristian2022/cristian2022/147202
-http://45.167.250.116:20023/play/a0hq/index.m3u8
-https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Disney_Junior_2020.png/revision/latest/scale-to-width-down/2000?cb=20210617173806&path-prefix=es"group-title="INFANTIL",DIANEY JR
-http://streamgo.vip:8008/cristian2022/cristian2022/147204
-https://cdn.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png"group-title="INFANTIL", Nick HD
-http://streamgo.vip:8008/cristian2022/cristian2022/147211
-http://45.167.250.116:20023/play/a0fn/index.m3u8
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png"group-title="INFANTIL", Nick JR HD
-http://streamgo.vip:8008/cristian2022/cristian2022/147189
-http://streamgo.vip:8008/cristian2022/cristian2022/147209
-http://45.167.250.116:20023/play/a0d8/index.m3u8
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png"group-title="INFANTIL", Discovery Kids
-http://streamgo.vip:8008/cristian2022/cristian2022/147200
-http://45.167.250.116:20023/play/a0gz/index.m3u8
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180402/hpe/kisspng-cartoon-network-logo-television-show-ben-10-cartoon-network-5ac27ec8cacd51.4124730615226958808307.jpg"group-title="INFANTIL",CARTOON NETWORK
-http://streamgo.vip:8008/cristian2022/cristian2022/147197
-https://playout.cdn.cartoonnetwork.com.br:443/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="INFANTIL",TOONCAST
-http://streamgo.vip:8008/cristian2022/cristian2022/147187
-http://45.167.250.116:20023/play/a0ij/index.m3u8
-https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaWfRarCEpNX8ONdnn2NKMCe_8IO5m3GYCww&usqp=CAU"group-title="INFANTIL",ZOY TV KIDS HD
-https://master.tucableip.com/zoytvinfantil/index.m3u8
-https://master.tucableip.com:443/zoytvinfantil/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png"group-title="INFANTIL", iCarly 
-https://tinyurl.com/y976r32k
-
-
-
-
-#EXTINF:-1 tvg-logo="https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8"group-title="INFANTIL",CANELA KIDS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/chinola-tv.png"group-title="INFANTIL",CHINOLA TV
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://planetatv.cl/wp-content/uploads/2021/10/planetatv-logo_.png"group-title="INFANTIL",PLANETA TV KIDS
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
-https://mediacpstreamchile.com:1936/8152/8152/chunklist_w1521480640.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaRd-u_wISYDTGZImCyWmN_JMZLjb7y-X7Ag&usqp=CAU"group-title="INFANTIL",DIOS TEVE KIDS
-https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.am1080.com.ar/radio/wp-content/uploads/nav-paka-paka.jpg"group-title="INFANTIL", PAKA PAKA  22.2
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/h6EiTBshRNRPbNYpCMIoUwmjR8M=/360x222/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/A2FKBEZ4LJEZTPVDQMQSKLG2RQ.jpg"group-title="INFANTIL",EL CHAVO DEL 8 
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx_zDOiW5aX6vU6DUYzJd_o2ZD-CG_vKilGA&usqp=CAU"group-title="INFANTIL",LOS SIMPSONS
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png"group-title="INFANTIL",LA CALETA
-https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
 
 
 
