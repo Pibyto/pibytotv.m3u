@@ -80,7 +80,7 @@ http://streamgo.vip:8008/cristian2022/cristian2022/158990
 http://gameplay.p2sweb.me:80/3091894/4952970/251420
 
 
-#EXTINF:-1 tvg-logo="https://www.bcl.com/wp-content/uploads/2019/09/logo-euronews-1.jpg"group-title="ARGENTINA",EURONEWS
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1168825051153670144/xyICO9lK_400x400.jpg"group-title="ARGENTINA",EURONEWS
 https://rakuten-euronews-4-es.samsung.wurl.com:443/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKN8N8fNFYmsYDIK2BG_N8eAJlABse6uCdsA&usqp=CAU"group-title="ARGENTINA",RT ESPAÑOL 25.5 TDA HD
@@ -88,9 +88,6 @@ https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg"group-title="ARGENTINA", TELESUR HD
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png"group-title="ARGENTINA",FORO
-https://channel02dai-notusa.akamaized.net:443/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/95637384-1f31-4166-b93b-c8ae57e5222b:SCL/variant/16ff5da0deceef4dd50fdae46cc4cb81/bandwidth/11542961.m3u8?hdntl=exp=1665684777~acl=/*~id=4a7a6f79-7d2c-4b0f-b7e4-770e8723243a~data=hdntl~hmac=56d4cfadac8872b1fc433d078f2fb1dcddd0b20e6213ef6f6c1f1574081c751e&
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_18728.png"group-title="ARGENTINA", NTN24
