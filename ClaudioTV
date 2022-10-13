@@ -292,6 +292,9 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Ob2qAy4_BnP38nhRstDX6Js1yGIC6d7qHK4T6dWlCiN577QmDQz8RI2R6suRWMWGRVsihLEs=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",PANC TV 15.1 TDA TUCUMÁN
 https://video.streamtvradio.com:8443/uv096/uv096/chunks.m3u8?nimblesessionid=2170812
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="ARGENTINA", METRO TV TUCUMÁN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
@@ -352,7 +355,6 @@ https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-10-neuquen-tv.png"group-title="ARGENTINA",10 NEUQUÉN
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 https://stmv1.srvstm.com/tv10/tv10/chunklist_w1756704232.m3u8
 https://stmv1.srvstm.com/tv10/tv10/chunklist_w1756704232.m3u8
 
