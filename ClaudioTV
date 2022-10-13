@@ -293,10 +293,6 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://video.streamtvradio.com:8443/uv096/uv096/chunks.m3u8?nimblesessionid=2170812
 
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/el-zonda.png"group-title="ARGENTINA",EL ZOND TV
-https://cnnsanjuan.com:9999/zonda/zonda/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
@@ -326,7 +322,6 @@ http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1451307711472230404/2_kj_t1w_400x400.jpg"group-title="ARGENTINA",EL PALOMAR TV HD
 https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?WebM3UCL
 
@@ -338,6 +333,14 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA", CANAL 32 SPTV HD
 https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
 https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="ARGENTINA",13 HD LA RIOJA
+http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
+https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w349212570.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/AR9nyvG5pV3jYk7fHMlUI4JQnC9rUH6ryOmmDC5n-wTEQ1_oEhdVVdYJjqpRyHO3YY8EVYKzBv3m7j4scgIdyWJe-m8yVOCReWhHwAKu"group-title="ARGENTINA",CANAL 10 SENILLOSA HD NEUQUÉN 
+https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w559086041.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="ARGENTINA", CANAL 34 HD 6.11 TDA HD
@@ -352,7 +355,6 @@ https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w113909129.m3u8
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 https://stmv1.srvstm.com/tv10/tv10/chunklist_w1756704232.m3u8
 https://stmv1.srvstm.com/tv10/tv10/chunklist_w1756704232.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpunrmBRPR3OZG2iJo6bhk8kZHKHAB9L4afw0so7ED&s"group-title="ARGENTINA",TELEMIX GLEW HD
@@ -371,7 +373,6 @@ https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UC
 https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7GzAhPIJ7stO3deYfYGxQnCB3Hywpxygs_Go-GYJh8iaP4cD3SGzgLkoGSNvyq85v7DK=w1024-h500"group-title="ARGENTINA",TIV TELEVISIÓN HD CHACO
 https://inliveserver.com:1936/14044/14044/playlist.m3u8?WebM3UCL
 
@@ -383,29 +384,16 @@ http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 https://wowzasrv.chaco.gov.ar:443/Streamtv/chacotv/chunklist_w1867064858.m3u8
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_Canal_12_-_Misiones.png"group-title="ARGENTINA",EL DOCE HD
 https://g5.mc-hor.transport.edge-access.net:443/a05/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="http://www.ngfederal.ar/imgs/image.png"group-title="ARGENTINA",NG FEDERAL 
 http://www.coninfo.net:1935/tvlink/live/chunklist_w1830023976.m3u8
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png"group-title="ARGENTINA",BRAGADO TV
 https://live.enhdtv.com:19360/tvplaydigital/tvplaydigital.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="ARGENTINA",10 MDP HD
@@ -420,29 +408,16 @@ https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w14432
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="ARGENTINA", CANAL 9
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg"group-title="ARGENTINA",CANAL 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/playlist.m3u8
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Telediez-en-vivo-Online.png"group-title="ARGENTINA",TELEDIEZ
 https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/h2mGMZp1-0Hxn3WMhJCD00GvjaCcwGy2ikTSL4MUcSW1IkV0oKXPxSWXirsuFRa76VQnwDXGxN6BcAHixdWgh8Dbj6SfrJmPLK0"group-title="ARGENTINA",DEL SUR TV HD
@@ -454,26 +429,8 @@ https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 https://stream.arcast.live:443/sanluistv/ngrp:sanluistv_all/chunklist_w58195212_b692224.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="ARGENTINA",13 HD
-http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
-https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w349212570.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-San-Juan-en-vivo-Online.png"group-title="ARGENTINA",CANAL 4 HD SAN JUAN
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1276879565.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/AR9nyvG5pV3jYk7fHMlUI4JQnC9rUH6ryOmmDC5n-wTEQ1_oEhdVVdYJjqpRyHO3YY8EVYKzBv3m7j4scgIdyWJe-m8yVOCReWhHwAKu"group-title="ARGENTINA",CANAL 10 SENILLOSA HD
-https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w559086041.m3u8 
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="ARGENTINA",SANTA FE CANAL HD
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
@@ -482,28 +439,16 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/462168942698446848/aD89IHFa_400x400.png"group-title="ARGENTINA", CANAL 7 SALTA
 https://panel.dattalive.com:443/8074/8074/playlist.m3u8?PlaylistM3UCL
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://tvn.com.ar/wp-content/uploads/2021/05/cropped-TVN_2-copia-300x300.png"group-title="ARGENTINA",TVN HD TUCUMÁN
 https://videostream.shockmedia.com.ar:19360/tvnoficial/tvnoficial.m3u8?WebM3UCL
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tputRy4YD-A/hqdefault.jpg"group-title="ARGENTINA",CANAL 4 HD
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?WebM3UCL
-
-
 
 
 #EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png"group-title="ARGENTINA",CANAL 21 MISIONES HD
@@ -518,26 +463,16 @@ https://live.canalnueve.tv/canal.m3u8
 https://wowza.telpin.com.ar:1935/telpintv/ttv.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",ZONDA TV 35.1 TDA HD
-https://cnnsanjuan.com:9999/zonda/zonda/chunks.m3u8
-https://cnnsanjuan.com:9999/zonda/zonda/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWdgK_MeG39TYzbwCFABSkTBpSPqFfyfJyng&usqp=CAU"group-title="ARGENTINA",UNI TV HD
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://cvinoticias.com/wp-content/uploads/2022/02/cvi-noticias-peque-no.png"group-title="ARGENTINA",CVI HD MISIONES 
 https://panel.dattalive.com:443/8078/8078/chunklist_w837890566.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyelG7pryS22W9ratSxePux4GiD194yRyvwQ&usqp=CAU"group-title="ARGENTINA",CANAL 11 DE LA COSTA
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/cropped-atvargentina-favicon.png"group-title="ARGENTINA",ATV AR
@@ -545,12 +480,8 @@ https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/chunklist_w1
 https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?WebM3UCL
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2308bf_f2bb176b7bbe454989b6fb3eb9cb6e45~mv2.png"group-title="ARGENTINA",CANAL 10 NORTEVISION
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?WebM3UCL
-
 
 
 #EXTINF:-1 tvg-logo="https://x24.com.mx/ca3w/assets/img/logos/logo-x24-con-sombra.png"group-title="ARGENTINA", X24 HD
@@ -559,7 +490,6 @@ https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrKqoaQHNHMhXkCJfT8rsm3_fgtM3IvOOnRQ&usqp=CAU"group-title="ARGENTINA",ITEL TV HD ENTRE RIOS
 http://66.128.32.245/output/iteltv/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal_9_Litoral_logo_2021.png"group-title="ARGENTINA",CANAL 9 LITORAL HD ENTRE RIOS
