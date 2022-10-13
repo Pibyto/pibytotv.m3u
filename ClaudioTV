@@ -69,8 +69,16 @@ https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source
 http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w1521368896_b2628000_sleng.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="ARGENTINA", TELEMUNDO INTERNATIONAL
 http://mon-key.us:25461/franco1/franco1/567
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png"group-title="ARGENTINA",UNIMAS HOUSTON
+http://streamgo.vip:8008/cristian2022/cristian2022/148101
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png"group-title="ARGENTINA",CRONICA 24.4 TDA HD
@@ -83,12 +91,20 @@ https://g5.mc-hor.transport.edge-access.net:443/b10/ngrp:cronicatv_video1-100044
 http://streamgo.vip:8008/cristian2022/cristian2022/158990
 http://gameplay.p2sweb.me:80/3091894/4952970/251420
 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png"group-title="ARGENTINA",CNN SPAIN 
+http://streamgo.vip:8008/cristian2022/cristian2022/121107
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1168825051153670144/xyICO9lK_400x400.jpg"group-title="ARGENTINA",EURONEWS
 https://rakuten-euronews-4-es.samsung.wurl.com:443/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKN8N8fNFYmsYDIK2BG_N8eAJlABse6uCdsA&usqp=CAU"group-title="ARGENTINA",RT ESPAÑOL 25.5 TDA HD
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/640px-France24.png"group-title="ARGENTINA",FRANCE 24
+http://streamgo.vip:8008/cristian2022/cristian2022/121102
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg"group-title="ARGENTINA", TELESUR HD
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
