@@ -370,6 +370,10 @@ https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://x24.com.mx/ca3w/assets/img/logos/logo-x24-con-sombra.png"group-title="ARGENTINA", X24 HD
+https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="ARGENTINA", MILENIUM TV HD
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
 https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
@@ -414,7 +418,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg"group-title="ARGENTINA",CANAL 10 RIO NEGRO
+#EXTINF:-1 tvg-logo="https://diario10.com.ar/wp-content/uploads/2020/04/logo_footer_retina.png"group-title="ARGENTINA",CANAL 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/playlist.m3u8
 
 
@@ -449,7 +453,7 @@ https://panel.dattalive.com:443/8074/8074/playlist.m3u8?PlaylistM3UCL
 https://videostream.shockmedia.com.ar:19360/tvnoficial/tvnoficial.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tputRy4YD-A/hqdefault.jpg"group-title="ARGENTINA",CANAL 4 HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tputRy4YD-A/hqdefault.jpg"group-title="ARGENTINA",CANAL 4 HD MISIONES 
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?WebM3UCL
 
 
@@ -487,8 +491,6 @@ https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://x24.com.mx/ca3w/assets/img/logos/logo-x24-con-sombra.png"group-title="ARGENTINA", X24 HD
-https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrKqoaQHNHMhXkCJfT8rsm3_fgtM3IvOOnRQ&usqp=CAU"group-title="ARGENTINA",ITEL TV HD ENTRE RIOS
