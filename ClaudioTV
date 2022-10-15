@@ -615,6 +615,17 @@ http://streamgo.vip:8008/cristian2022/cristian2022/147308
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"group-title="CINE PREMIUM",CINECANAL HD
 http://streamgo.vip:8008/cristian2022/cristian2022/147283
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png"group-title="CINE PREMIUM",M+ ACCION
+http://mon-key.us:25461/franco1/franco1/251
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/Series_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/250?cb=20220127150544"group-title="CINE PREMIUM",M+ SERIEMANÍA
+http://mon-key.us:25461/franco1/franco1/64793
+
+
+
 #EXTINF:-1 tvg-logo="https://assets.cdn.blog.olympusat.com/wp-content/uploads/2020/07/Ultra-Cine-Logo.png"group-title="CINE PREMIUM",A ESTRENAR
 http://mon-key.us:25461/franco1/franco1/64800
 
@@ -697,6 +708,15 @@ http://streamgo.vip:8008/cristian2022/cristian2022/147301
 http://streamgo.vip:8008/cristian2022/cristian2022/147289
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png"group-title="CINE PREMIUM",A&E
+http://mon-key.us:25461/franco1/franco1/32734
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png"group-title="CINE PREMIUM",AXN
+http://mon-key.us:25461/franco1/franco1/19
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg"group-title="CINE PREMIUM",STAR CHANNEL HD
 http://streamgo.vip:8008/cristian2022/cristian2022/147256
@@ -707,6 +727,8 @@ http://streamgo.vip:8008/cristian2022/cristian2022/147256
 http://mon-key.us:25461/franco1/franco1/112
 http://streamgo.vip:8008/cristian2022/cristian2022/147292
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg"group-title="CINE PREMIUM",LIFETIME
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
 
 
 
