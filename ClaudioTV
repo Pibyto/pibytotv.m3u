@@ -612,6 +612,11 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://streamgo.vip:8008/cristian2022/cristian2022/147308
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paramount%2B_logo.png/2560px-Paramount%2B_logo.png"group-title="CINE PREMIUM", PARAMOUNT
+http://mon-key.us:25461/franco1/franco1/251
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"group-title="CINE PREMIUM",CINECANAL HD
 http://streamgo.vip:8008/cristian2022/cristian2022/147283
 
@@ -685,6 +690,12 @@ tX2xlbj0xMA==&1
 http://190.83.119.67:8000/play/a0ou/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png"group-title="CINE PREMIUM",HBO XTREME
+http://mon-key.us:25461/franco1/franco1/97
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRmqDy7FW_17wPh_evq-wDRiQSfBn8pvAgA&usqp=CAU"group-title="CINE PREMIUM",HBO EXTREME HD
 
 
@@ -702,6 +713,14 @@ http://streamgo.vip:8008/cristian2022/cristian2022/147280
 
 #EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/09/studio-universal.png"group-title="CINE PREMIUM", STUDIO UNIVERSAL HD
 http://streamgo.vip:8008/cristian2022/cristian2022/147301
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.945333694_UniversalCinema-Oscuro.png.0c63ffe5cc2ea7868f7d08da0de7c7d4.png"group-title="CINE PREMIUM", UNIVERSAL CINEMA
+http://mon-key.us:25461/franco1/franco1/71
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.836711264_UniversalPremiere-Oscuro.png.3fcb8ac483349f48f39dd341a025e363.png"group-title="CINE PREMIUM", UNIVERSAL PREMIERE
+http://mon-key.us:25461/franco1/franco1/75
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/200?cb=20190208204234&path-prefix=es"group-title="CINE PREMIUM", WARNER HD
@@ -756,6 +775,8 @@ http://streamgo.vip:8008/cristian2022/cristian2022/147304
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c4/0c/55/c40c55e69052d230974ec9295a8121d2.png"group-title="CINE PREMIUM",TBS HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tcm_logo_red.png"group-title="CINE PREMIUM",TCM
+http://mon-key.us:25461/franco1/franco1/120
 
 
 
