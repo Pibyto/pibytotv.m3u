@@ -298,6 +298,12 @@ https://video.streamtvradio.com:8443/uv096/uv096/chunks.m3u8?nimblesessionid=223
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcxHhYsDGtDvvSTZXNXyAaCCxnTeYfa93beQ&usqp=CAU"group-title="ARGENTINA",YV LATINA CORDOBA
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CuwEAlB2gFpRJILqrqjawEzJRk8-eJZuhrVmCo7vYU0RPcVSc7O5THdk1y9_iAfM56ifeSAzn9us9HiNZdRbB0zfdYWCdOef3OzsRfg511c9mN_-xuHRLYYrpKEje7G_C7IAdeiH9zWbFCe13l-KYWONauBMvxUh4LmHXjBM91nDUN1_N5d8-an0H-isnSTuQbRdA6zBbV4sUx-XrN2JLVm1xa6vxt6f__odmhGGTpAOLbvM_Ll-md4QUY_evoFGD9UH7n_HrLCv7tMSjwRYbOhmlHz2Vx6K1xDMuIkzbwfx0CAUxwf2SD-PeAyOMda9V3gnbDWmQevvdeX-_UKNhWoIDupoPJ56G9SM2f2kqBQz5gumN3KDZuoRJmfXHu7ZaOubD0PTsUkxGJ_qf5TGuXjtqGcCv3DGBkE-FWIRHQR4LMJX0rktcD308q4EkjdhYWa-UPVdpZb5mzahmwua9sURQvGvuefFpxWCl7AJHpdSaQWj3mCfoyz_P1iKSC7sExvbWsspFGUqqtiqDU6znVexezo0eHYQG_TmNu1sC3SpYyShbPuOZFKz7W71R6_FFta2yO1XjKfov9IHcIvwjmc555iBNmC4cR0t6DS4upNOSDbCbOh4h4UX67zjiOV3YmODpE5QnM9I_PtA7IXQhqayQgtSchMa5ObV5Lh4dbFCbSfyuMzaUEcZb8HQuDpVy_E50Nr0OYwi-JMlZDdBxLjwQ3B8sr6gXgPmlKHKn16T-aBaMVxvIB5vJXQZ4pGOh827yRUTkXxU2179uCGH-cgFPS23Ncssi8MWEaVA8b41mvxPHemKhKnKFDKwlpUaDDS2R6NSxYSUneT7FSABKgl1cy1lYXN0LTEwqgM.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
