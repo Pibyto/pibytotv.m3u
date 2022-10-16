@@ -69,6 +69,10 @@ https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source
 http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w1521368896_b2628000_sleng.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png"group-title="ARGENTINA", TDC ONLINE HD SANTA FE
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="ARGENTINA", TELEMUNDO INTERNATIONAL
 http://mon-key.us:25461/franco1/franco1/567
@@ -109,9 +113,6 @@ http://streamgo.vip:8008/cristian2022/cristian2022/121102
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg"group-title="ARGENTINA", TELESUR HD
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_18728.png"group-title="ARGENTINA", NTN24
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl88HYWUjrg23UMNwhOKUolqjBQXUG0aR-Mnk0D4XZGjn)/dm/3/x7w4okl/s/live-1.m3u8#cell=lnyc
 
 
 
@@ -468,9 +469,6 @@ http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1276879565.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="ARGENTINA",SANTA FE CANAL HD
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png"group-title="ARGENTINA", TDC ONLINE HD SANTA FE
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/462168942698446848/aD89IHFa_400x400.png"group-title="ARGENTINA", CANAL 7 SALTA
