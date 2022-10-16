@@ -302,6 +302,8 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://video.streamtvradio.com:8443/uv096/uv096/chunks.m3u8?nimblesessionid=2238074
 
 
+#EXTINF:-1 tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png"group-title="ARGENTINA",RETRO PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="ARGENTINA", METRO TV TUCUMÁN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
