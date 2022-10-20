@@ -437,7 +437,8 @@ https://g4.mc-hor.transport.edge-access.net:443/a15/ngrp:canal10mdq-100044_all/c
 https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1443260804_b917504.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES HD 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES HD ROSARIO
+http://streamgo.vip:8008/cristian2022/cristian2022/159018
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
 
