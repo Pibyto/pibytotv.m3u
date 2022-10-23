@@ -275,6 +275,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA",ORBIT TV HD
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w157743991.m3u8https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w157743991.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
