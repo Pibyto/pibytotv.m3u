@@ -81,6 +81,11 @@ https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source
 http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w1521368896_b2628000_sleng.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/S9GdlP4ADlI/AAAAAAAAMiA/ctF_CkuUn8w/s1600/canal-luz.png"group-title="ARGENTINA",CANAL LUZ
+https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png"group-title="ARGENTINA", TDC ONLINE HD SANTA FE
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
@@ -233,9 +238,6 @@ https://vsd143.mycdn.me:443/hls/1698824391191.m3u8/sig/Mtm4zdUjrsg/expires/16659
 #EXTINF:-1 tvg-logo="https://cristianoreformado7.files.wordpress.com/2014/11/enlace-updated.png"group-title="ARGENTINA", CRISTIANATV (ENLACE) HD
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/08/CanalLuz-Logo.jpg"group-title="ARGENTINA",CANAL LUZ
-https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png"group-title="ARGENTINA",BENDICION TV HD
 https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
@@ -279,6 +281,9 @@ https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png"group-title="ARGENTINA",RETRO PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="ARGENTINA", PELÍCULAS MANIAS
@@ -313,18 +318,16 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png"group-title="ARGENTINA",RETRO PLUS
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="ARGENTINA", METRO TV TUCUMÁN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://41c72d7c6574d4226719-789dafa851faf0d92781a99acb7de78a.ssl.cf2.rackcdn.com/canal_9_tv_abierta_i5_6deb933e626f615ebabf070a57de8dc4.jpg"group-title="ARGENTINA",9 CHABAS SANTA FE
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtYEywW9QktFwH2uUS8-k3AbbESqj7vuEYoU5SxgIfTgKCemlYvIyl4NvVI_IhQVHFv16fPcJBce2MYMDItQTRH-BzpHeMtFTjn4DJ0ESIAHLFMw88IyuTys_ls-w5VgOffaBxS1_gVyzMNbJtJGEZXkfo8Yy8XXky52lDJuN-UtF1wT-p2DSYHeXCGqdim7DLEL0XTBoscMEx2CaLIuBadDdJGFZSidqGg87GNvD1sGg_x2K9sdbcXSV6_qKZ0_9qIi91wkTCGsioExQRHC9Dw-bn0cjOf00kre9vKp-qxjDV1Q5aSgWAI9SF4YEftmgoGZFKvmfossEOO0f_bElpSfQy3zx4jVNdnjqhMjt0PLUV9aFj4VqPxFqVcNRz94tBRKjBdKE0oFEsWWX5-hfz10uoaAvZ946pqcP_heD6iNfdcfUGQBGgHM5HtlCGimLDtDG-fvmE9bzamVe7qE8R2QGtSei0wa-O2KglkNMsnDSVn2jXv8CLY55acHr9eLddXlMmPgAZjJP1zyKkDlggqSp9-Df7rubKjiCKNuvi-Qy5YQTykziZ17JTTVjD50C-rOdsqAc-PBUMD7hnQfEQ6N1fJUs32CTyK_9heo_voNwTVkAEIgR5C09A_5zMS1Hmnkd_oxompqNfH5RV-fTiX2ay579hXx8Vz94xN-vpTwfvhLfQYXr4GdQip4e9qa5-JTpMJa9Xu43wGkHMceTAQ88aRCXVydKnzDOXxqwORowg7EGAqc6s3KbsLwa_c6gmfgUfj_IJq0__dSriTx1nNANKRULRMF7xoM9onQFS4R3xsokdJ1IAEqCXVzLWVhc3QtMTCyAw.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcxHhYsDGtDvvSTZXNXyAaCCxnTeYfa93beQ&usqp=CAU"group-title="ARGENTINA",LATINA TV CORDOBA
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cs0ET6UEGGhJH6rTdjG86VaO30PRasGOdNAzbZCJe6L6_6v7wMI2nAoAUyiyv0lg0deDJH_AXwpooH75LaGUnWw-wolW1r0oUPE9I7CYvv8-Y6pE5x8SkB4kz5Vk6YsS5jSiRmgvhKhazrgeI_TkcTHJXZFqEFQIA9UistueBz_nQ4zyFci9UOjUwzimgSNtJN2VfrAhcC2JsUHyfQeO05PrFhsIKhwJXZDa6gUr6RZ9rZox8GY7c_icKlCFd4kdhDLtIU95CtV4NKFpFE0oSa-GJBCbOB8-Q4eH6Oo3LXjYGUC_f_hf_9ObeMbLRkLY_Savuu0h--3ygW6UtC8m5b3tGwiX9_GSGN7fDiewOfmT3WSzvnoNDNjEEGnUwR19ke6sT1_xziDNGAG5VWoZWP0CuZPj_Xw8l1t4tGhH9rnjgs4W1Gy3Dm_LUrwAc2pPg9aXBhoZnH0f6zdIyDXTL_mCKR55SpChT5MDKHVWKJV3Eyaq2TsAHGE8roRMhWhNoWzXCBTkO7lJzh9dGapsKYHnt-pByoWYY5qkv4ozU8oUYsHnvZo8M2YzynPMhE0Z4IVHxVXGo2GwqCPa19ezR80wMQZImVARUmQbkE0Ex6nSUiHrLwgbkPioiv-NKmVJU76FrcCN7_WTcnDqqzdkt3mBIBNvovvdo88xItZv98G0iLeFKo4fwoG9F4zwboyIp0eiDIU7nNOafLLhHYR_S39tL6nIYtLpepbw3bx0pzCXoMBXxNjOdJ0azjSfgfR7rWR1vvXrcQtCfoumGJjjiRoMMJ1A4dKOtLdi4ULdIAEqCXVzLWVhc3QtMTCyAw.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipPPwLRCUqmksxklW-sVfUvxk0u5ADKsYRj9WBn0=w1080-h608-p-no-v0"group-title="ARGENTINA",TV MAX CORDOBA
