@@ -20,6 +20,9 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="ARGENTINA", TNT SPORTS HD
 
 
+#EXTINF:-1 tvg-logo="https://www.pronto.com.ar/u/fotografias/m/2022/9/28/f850x638-70722_148211_5050.jpg"group-title="ARGENTINA",GRAN HERMANO
+https://siloh-latam-aka.plutotv.net:443/lilo/production/MaradonaSinCortes/LATAM/master_1.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/tv/tyc-sports-3004.png"group-title="ARGENTINA",TyC SPORTS HD
@@ -51,8 +54,6 @@ http://streamgo.vip:8008/cristian2022/cristian2022/158968
 https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w1533782191_b1662976.m3u8
 https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cronista.com/files/image/482/482890/6349a78ae0791_700_343!.png?s=04fe2b16182c395c2516719903000dd1&d=1666119341"group-title="ARGENTINA",GRAN HERMANO
-https://siloh-latam-aka.plutotv.net:443/lilo/production/MaradonaSinCortes/LATAM/master_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE 35.1 TDA HD
