@@ -1058,6 +1058,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f800077
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZRxjGW5OWCdnHAxe-yHpHZlOn0CxjdS8Gw&usqp=CAU"group-title="GUATEMALA",NIM TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_5aed9b64a4f74269a39c3f697a0b4e06~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/telearte.png"group-title="GUATEMALA",TELE ARTE HD
+http://45.5.117.138:25461/playgt/123456/45
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_E0X0YBdwdrVidUS6mDmZoGM8gBj2RRZVkPc4WYQ=s900-c-k-c0x00ffffff-no-rj"group-title="GUATEMALA",25 REGIONAL HD
 http://45.5.117.138:25461/playgt/123456/157
