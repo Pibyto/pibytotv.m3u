@@ -1062,22 +1062,12 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 http://45.5.117.138:25461/playgt/123456/45
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_4f77437ba53c4b898edfddd58c96faa4~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Tv%20Florencia.png"group-title="GUATEMALA", FLORENCIA HD
-https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_5246a327848d4e0f8c39011dd09f0324~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telemax.png"group-title="GUATEMALA",TELEMAX-EX HD
-http://45.5.117.138:25461/playgt/123456/144
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_E0X0YBdwdrVidUS6mDmZoGM8gBj2RRZVkPc4WYQ=s900-c-k-c0x00ffffff-no-rj"group-title="GUATEMALA",25 REGIONAL HD
 http://45.5.117.138:25461/playgt/123456/157
 
 
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png/v1/fill/w_1280,h_720,al_c/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png"group-title="GUATEMALA", FULL CHANNEL HD
-http://45.5.117.138:25461/playgt/123456/42
-http://45.5.117.138:25461/playgt/123456/42
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaz6s3Fu2gjivQzgrZ9Hnz6nUeJb_C5JTHIlwld0&s"group-title="GUATEMALA",GUATV HD
@@ -1123,6 +1113,20 @@ http://45.5.117.138:25461/playgt/123456/43
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_5aed9b64a4f74269a39c3f697a0b4e06~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/telearte.png"group-title="GUATEMALA",TELE ARTE HD
 http://45.5.117.138:25461/playgt/123456/45
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_4f77437ba53c4b898edfddd58c96faa4~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Tv%20Florencia.png"group-title="GUATEMALA", FLORENCIA HD
+https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png/v1/fill/w_1280,h_720,al_c/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png"group-title="GUATEMALA", FULL CHANNEL HD
+http://45.5.117.138:25461/playgt/123456/42
+http://45.5.117.138:25461/playgt/123456/42
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_5246a327848d4e0f8c39011dd09f0324~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telemax.png"group-title="GUATEMALA",TELEMAX-EX HD
+http://45.5.117.138:25461/playgt/123456/144
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_e6d676e74fb845f1adcd91627513af74~mv2.jpg"group-title="GUATEMALA",9 
 http://45.5.117.138:25461/playgt/123456/193
@@ -1138,6 +1142,7 @@ http://45.5.117.138:25461/playgt/123456/61
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1GLbSxRAzmgWCTFa7IyLGPwjWyUl12ItlQ&usqp=CAU"group-title="GUATEMALA",AURORA TV HD
+http://45.5.117.138:25461/playgt/123456/62
 http://45.5.117.138:25461/playgt/123456/62
 
 
