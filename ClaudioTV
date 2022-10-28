@@ -1331,6 +1331,11 @@ https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8?k=fbf4bf3ba2bfb23
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Latina_TV_2014.svg/revision/latest/scale-to-width-down/150?cb=20210524150237&path-prefix=es"group-title="PERÚ", LATINA HD
+http://streamgo.vip:8008/cristian2022/cristian2022/148683
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n.svg.png"group-title="PERÚ",AMÉRICA HD
 http://streamgo.vip:8008/cristian2022/cristian2022/148685
 http://fortv.cc:8080/Ronnie/Ronnie/110637
