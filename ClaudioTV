@@ -741,8 +741,6 @@ http://streamgo.vip:8008/cristian2022/cristian2022/147280
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png"group-title="CINE PREMIUM",UNIMAS HOUSTON
-http://streamgo.vip:8008/cristian2022/cristian2022/148101
 
 
 #EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/09/studio-universal.png"group-title="CINE PREMIUM", STUDIO UNIVERSAL HD
@@ -919,12 +917,27 @@ https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png"group-title="CINE PREMIUM",UNIMAS HOUSTON
+http://streamgo.vip:8008/cristian2022/cristian2022/148101
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="CINE PREMIUM", IMAGEN TELEVISIÓN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/5169px-Univision_tlnovelas_%282019%29.svg.png"group-title="CINE PREMIUM", UNIVISIÓN TLN NOVELAS
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/667.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png"group-title="CINE PREMIUM",EL CANAL DE LAS ESTRELLAS
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png"group-title="CINE PREMIUM",RCN NOVELAS
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/721.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telenovelas/images/3/39/Site-community-image/revision/latest?cb=20220313193931&path-prefix=es"group-title="CINE PREMIUM",TLN TELENOVELAS
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/723.m3u8
 
 
 
