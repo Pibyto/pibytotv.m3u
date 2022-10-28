@@ -1076,9 +1076,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f800077
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGZRxjGW5OWCdnHAxe-yHpHZlOn0CxjdS8Gw&usqp=CAU"group-title="GUATEMALA",NIM TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_5aed9b64a4f74269a39c3f697a0b4e06~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/telearte.png"group-title="GUATEMALA",TELE ARTE HD
-http://45.5.117.138:25461/playgt/123456/45
-
 
 
 
@@ -1128,21 +1125,7 @@ http://45.5.117.138:25461/playgt/123456/43
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_5aed9b64a4f74269a39c3f697a0b4e06~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/telearte.png"group-title="GUATEMALA",TELE ARTE HD
-http://45.5.117.138:25461/playgt/123456/45
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_4f77437ba53c4b898edfddd58c96faa4~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Tv%20Florencia.png"group-title="GUATEMALA", FLORENCIA HD
-https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png/v1/fill/w_1280,h_720,al_c/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png"group-title="GUATEMALA", FULL CHANNEL HD
-http://45.5.117.138:25461/playgt/123456/42
-http://45.5.117.138:25461/playgt/123456/42
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_5246a327848d4e0f8c39011dd09f0324~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telemax.png"group-title="GUATEMALA",TELEMAX-EX HD
-http://45.5.117.138:25461/playgt/123456/144
 
 
 
@@ -1411,6 +1394,22 @@ https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u
 #EXTINF:-1 tvg-logo="https://grupopalmerastv.com/portal/wp-content/uploads/2021/06/logo-dark-palmeras.png"group-title="PERÚ",PALMERAS TV HD
 https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_5aed9b64a4f74269a39c3f697a0b4e06~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/telearte.png"group-title="PERÚ",TELE ARTE HD
+http://45.5.117.138:25461/playgt/123456/45
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_4f77437ba53c4b898edfddd58c96faa4~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Tv%20Florencia.png"group-title="PERÚ", FLORENCIA HD
+https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png/v1/fill/w_1280,h_720,al_c/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png"group-title="PERÚ", FULL CHANNEL HD
+http://45.5.117.138:25461/playgt/123456/42
+http://45.5.117.138:25461/playgt/123456/42
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_5246a327848d4e0f8c39011dd09f0324~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telemax.png"group-title="PERÚ",TELEMAX-EX HD
+http://45.5.117.138:25461/playgt/123456/144
 
 
 
