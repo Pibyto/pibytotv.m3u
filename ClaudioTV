@@ -1374,6 +1374,10 @@ https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
 #EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="PERÚ",TELECOLOR HD
 https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/keXCBR4NTnaPZcz0KKLDd-HYwLy4rj7fSUwCgJ8tAs7JSe27EmCZNeIQnxceyvNx7hSH5w3R=s900-c-k-c0x00ffffff-no-rj"group-title="PERÚ", CONTACTO TV
+https://live.obslivestream.com:443/cdeportivo/tracks-v1a1/mono.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400"group-title="PERÚ",BARBE TV
