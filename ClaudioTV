@@ -1111,7 +1111,7 @@ http://45.5.117.138:25461/playgt/123456/128
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_8cf9f5fa2991439b88ea3847bd682565~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PlayMedios.png"group-title="GUATEMALA", PLAY MEDIOS
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_8cf9f5fa2991439b88ea3847bd682565~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/PlayMedios.png"group-title="GUATEMALA",PLAY MEDIOS
 http://45.5.117.138:25461/playgt/123456/51
 
 
@@ -1124,6 +1124,13 @@ https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 http://45.5.117.138:25461/playgt/123456/43
 
 
+
+#EXTINF:-1 tvg-logo=""group-title="GUATEMALA",TELE ARTE HD
+http://45.5.117.138:25461/playgt/123456/45
+
+
+#EXTINF:-1 tvg-logo=""group-title="GUATEMALA",FLORENCIA TV HD
+https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
 
 
 
