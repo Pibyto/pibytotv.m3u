@@ -1397,6 +1397,12 @@ https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/0ac03650f0084a61e8e53d149310ac99.png"group-title="PERÚ",DOBLE C TELEVISIÓN
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPDAFGFLDUuoOwg8tF4UporGpSKf_5B2aHA&usqp=CAU"group-title="PERÚ",VZ TELEVISIÓN HD
+https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://tumpistv.pe/wp-content/uploads/2022/06/TUMPI-TV-LOGO-PNG-2.png"group-title="PERÚ",TUMPIS TV HD
+https://servilive.com:3531/live/tumpistvlive.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400"group-title="PERÚ",BARBE TV
