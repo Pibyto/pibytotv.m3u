@@ -32,12 +32,6 @@ https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd
 https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="ARGENTINA",ENLACE 
-https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="ARGENTINA",VIDATV HD
-https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
-https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizurzsFXDo8ia4Ro7sbFCswdtVdvDYDDrhUhEFTsgTCGHcu5PJWkLbqaj7LG11wNpYaWQJULsU6ndhv_PU5BwtDKBkQCM_HcQgxXlYm9Sr0SOH0USuESStjDfkxCfarjuhn_IJROLTUr2b8WzIpw21F_MZ3uHFPsA_Ngq38SCe5iplYuiHmf9CVfAH/s551/Eltrece_(Sol).webp"group-title="ARGENTINA",EL TRECE 33.1 TDA HD
@@ -47,6 +41,10 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v4a1/mono.m3u8
 https://g4.mc-hor.transport.edge-access.net:443/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="ARGENTINA",VIDATV HD
+https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
+https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png"group-title="ARGENTINA",TELEFE 34.1 TDA HD
@@ -67,6 +65,10 @@ https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
 https://panel.dattalive.com/8250/8250/.m3u8
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 http://mon-key.us:25461/franco1/franco1/55944
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="ARGENTINA",ENLACE 
+https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png"group-title="ARGENTINA",CRONICA 24.4 TDA HD
