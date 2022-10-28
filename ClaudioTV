@@ -273,10 +273,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtPeRFSQ7mYrHKBVgAT5eiQwtxsgAc4x1SSA&usqp=CAU"group-title="ARGENTINA",GENIOS TV
-https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
-https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://26television.com/wp-content/uploads/2020/09/cropped-LOGO-NUEVO-GT.png"group-title="ARGENTINA",26 TELEVISIÓN HD
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtUEjuX0erB5u0kligKpIJ1nOomzveIRSSvaPhNtvB-u4PxjDKShCxu_Bv-lf1Mp_6GpeXUAYV71lmRVSYOcxAeDfPH0-kRZ3pEm1IMQOkM1uw4ApL5vFJPJo34wuMhfIo_u6ukO-_mpW0b2DbtvAHGFTxi44K4HV6aEOmuHTxuQ-LupnGorkZ6D3j_Ooy4GpgKE6qzF0JGDPsF0jLEaa_wQG4ldKU04DlFlKINUyrfgcExJMRSVqqGOVjGCNYuZHzJOZMyYLyx99rbSBGTVaXMfwSjrEzMCdQX1jkWBcM2zGYTzpoVEM1uEVzkVGPvfkHLvCYMDSDNRRbDq3IG4xPLDuhxaQh0tkpbihGtTdNFYyz_DGTqzX81LwAxR77HgzscNbrgRfPzm8uagxL8t5z_Ak9Ypw6FpufP4Zt1t385FeWL2AqpZO_V0CKrDG4XqAnWIsqHBrwCCe0sFZDYJx9oG7v8O_Sl_V_4orPz-93GQsJuIYFjE3aFMlxB1mSQLhvW04hP9UYj8twvpR6djrPcF0auc1w1kFuIBZbGTMqdfoKk8VpLfnELdkHsppkieAKgbEmdFA_zURWFJy57k8_Xt1wuLW8Uk96pbsQ_Ot7hFzWVPIGYTC9_Udb36uGZ8f0q2RWNWENgMzLW-6hmLr8846AkxlHPKBQX7HA987Ny_IAYQojoWMsPw8-utbaNV1hy77E_3SPZpjTZ4h5TeG_nvFrFrCtsEXf30FFw8HT7V1dUo-8g_WpiWCWyVMFsJ4fr2slBGtheYkGzQnyM0bU0UFauVMPpyGgwXLnKi2eKb9-t62s8gASoJdXMtZWFzdC0xMLcD.m3u8
@@ -349,6 +345,12 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipPPwLRCUqmksxklW-sVfUvxk0u5ADKsYRj9WBn0=w1080-h608-p-no-v0"group-title="ARGENTINA",TV MAX CORDOBA
 https://panel.dattalive.com/8106/8106/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtPeRFSQ7mYrHKBVgAT5eiQwtxsgAc4x1SSA&usqp=CAU"group-title="ARGENTINA",GENIOS TV
+https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
+https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
