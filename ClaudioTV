@@ -304,6 +304,11 @@ https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Ob2qAy4_BnP38nhRstDX6Js1yGIC6d7qHK4T6dWlCiN577QmDQz8RI2R6suRWMWGRVsihLEs=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",PANC TV 15.1 TDA TUCUMÁN
+https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
+
+
+
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA HD
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -320,9 +325,6 @@ https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Ob2qAy4_BnP38nhRstDX6Js1yGIC6d7qHK4T6dWlCiN577QmDQz8RI2R6suRWMWGRVsihLEs=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",PANC TV 15.1 TDA TUCUMÁN
-https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
-
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="ARGENTINA", METRO TV TUCUMÁN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
@@ -338,8 +340,6 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipPPwLRCUqmksxklW-sVfUvxk0u5ADKsYRj9WBn0=w1080-h608-p-no-v0"group-title="ARGENTINA",TV MAX CORDOBA
 https://panel.dattalive.com/8106/8106/playlist.m3u8?PlaylistM3UCL
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtcEwNyvOZjFnMZn9WyZ2uW5JiqxHchqLFq1kMZEQVpKPC-4Y-2IrCiGCJfNMrskwUMidbs80hYryG8MxYExLCLfWugxFDYak34NHw6vjDBGv_pNWH00xoP1DU2eHGxHRldO5A7CtDP1fWqdZEMwQJXxIAFGKntB0auQJDCfMYrOhXYf_a8DMHqIZUpJnDKXwYDqcTfjHVzUxjtcgTL2nGWD0y9FOBTDuz4ZHkZTZPC1bXl8h3UPyDiMuWPFz23dkvnH1vSeorSZWaNZammf8in_ommOni_I5oPsYnADfofGw2eGsqnqppR4adh2nQFefZ1GtvF-C1W6ajscEmNE83TLLy3w-A1fflhMVQd70EVcTXGbT0gDiUqv0kQgqN1Tot7o9ByrwBQUvlpLNHdbelg7Fdv-hOODybivMzRE1zYcr7VwxJIINwWtjTnsnqgiG_cGYtORAG_NuTIy1jII5cl3htcaLsTBeTx_EKCKm5seNVDGjer73NA2TJC8XKjcDskF4gALZLnO9wOuDD1o4Vu_10cb1fvL5UEbHXz9UtKJgHjqasPZCpCZptHH61X1M-C_NbMW93dvpBMjsiCx2Y6A1f4yPDGjZqt4BEenGpGXICKhkB5BAwRxRfQtcpJreGo1Gl8Jnyepicf9884dh1e5QmA_7hGYrsCDwbMF3XUmj-wkXq9LtyT7TFaT3uwJXxP68oec_lBk4zsg6GriCadcSPSr3PB46raT2tJ3XQlXOsCc2AZ1trM4TztF8huEOPfx2zSTiY9kkfE5aS71XHatH2_e1k8rFaYaDB2j1rNHb9j67spaEiABKgl1cy1lYXN0LTEwsQM.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
@@ -369,7 +369,12 @@ http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
 https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1451307711472230404/2_kj_t1w_400x400.jpg"group-title="ARGENTINA",EL PALOMAR TV HD
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8GS7oizS8CoaEWUJh6Xp3X1cBZ9swAj4rag&usqp=CAU"group-title="ARGENTINA",7 NORTE TV
+http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1451307711472230404/2_kj_t1w_400x400.jpg"group-title="ARGENTINA",EL PALOMAR TV HD TUCUMÁN 
 https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?WebM3UCL
 
 
@@ -406,9 +411,6 @@ https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png"group-title="ARGENTINA", CANAL 9 NORTE MISIONERO HD
 https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8GS7oizS8CoaEWUJh6Xp3X1cBZ9swAj4rag&usqp=CAU"group-title="ARGENTINA",7 NORTE TV
-http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://x24.com.mx/ca3w/assets/img/logos/logo-x24-con-sombra.png"group-title="ARGENTINA", X24 HD TUCUMÁN 
@@ -534,7 +536,7 @@ https://stream.arcast.live:443/ahora/ahora/chunklist_w66127673.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2014/04/Al-Filo-De-Ma%C3%B1ana-e1464530985280.jpg"group-title="ARGENTINA", AL FILO DEL MAÑANA 3D
+#EXTINF:-1 tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2014/04/Al-Filo-De-Ma%C3%B1ana-e1464530985280.jpg"group-title="ARGENTINA",AL FILO DEL MAÑANA 3D
 http://streamgo.vip:8008/movie/cristian2022/cristian2022/159133.mkv
 
 
@@ -1402,12 +1404,6 @@ https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u
 https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo=""group-title="PERÚ",TELE ARTE HD
-http://45.5.117.138:25461/playgt/123456/45
-
-
-#EXTINF:-1 tvg-logo=""group-title="PERÚ",FLORENCIA TV HD
-https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png/v1/fill/w_1280,h_720,al_c/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png"group-title="PERÚ",FULL CHANNEL HD
