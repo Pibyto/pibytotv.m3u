@@ -1379,6 +1379,21 @@ https://live.obslivestream.com:443/cdeportivo/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1515427312128438278/QEo8eb3f_400x400.jpg"group-title="PERÚ",VIA ALTO MAYO HD
+https://live.obslivestream.com:443/viaaltomayomux/tracks-v1a1/mono.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi0rUPTYMSH5w5ODYRWlPRS_AW3AJVxSvA0w&usqp=CAU"group-title="PERÚ",OKTEVE HD
+https://stream.plixitv.live:443/oktv/oktv/chunklist_w1413554739.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-mega-tv-en-vivo.jpg"group-title="PERÚ",MEGA TV
+https://hls.servidor.stream/storage/megatv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s305740/images/logog.png?t=154529"group-title="PERÚ",TELESUR HD
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400"group-title="PERÚ",BARBE TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
