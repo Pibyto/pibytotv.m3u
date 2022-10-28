@@ -278,6 +278,9 @@ https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://26television.com/wp-content/uploads/2020/09/cropped-LOGO-NUEVO-GT.png"group-title="ARGENTINA",26 TELEVISIÓN HD
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtUEjuX0erB5u0kligKpIJ1nOomzveIRSSvaPhNtvB-u4PxjDKShCxu_Bv-lf1Mp_6GpeXUAYV71lmRVSYOcxAeDfPH0-kRZ3pEm1IMQOkM1uw4ApL5vFJPJo34wuMhfIo_u6ukO-_mpW0b2DbtvAHGFTxi44K4HV6aEOmuHTxuQ-LupnGorkZ6D3j_Ooy4GpgKE6qzF0JGDPsF0jLEaa_wQG4ldKU04DlFlKINUyrfgcExJMRSVqqGOVjGCNYuZHzJOZMyYLyx99rbSBGTVaXMfwSjrEzMCdQX1jkWBcM2zGYTzpoVEM1uEVzkVGPvfkHLvCYMDSDNRRbDq3IG4xPLDuhxaQh0tkpbihGtTdNFYyz_DGTqzX81LwAxR77HgzscNbrgRfPzm8uagxL8t5z_Ak9Ypw6FpufP4Zt1t385FeWL2AqpZO_V0CKrDG4XqAnWIsqHBrwCCe0sFZDYJx9oG7v8O_Sl_V_4orPz-93GQsJuIYFjE3aFMlxB1mSQLhvW04hP9UYj8twvpR6djrPcF0auc1w1kFuIBZbGTMqdfoKk8VpLfnELdkHsppkieAKgbEmdFA_zURWFJy57k8_Xt1wuLW8Uk96pbsQ_Ot7hFzWVPIGYTC9_Udb36uGZ8f0q2RWNWENgMzLW-6hmLr8846AkxlHPKBQX7HA987Ny_IAYQojoWMsPw8-utbaNV1hy77E_3SPZpjTZ4h5TeG_nvFrFrCtsEXf30FFw8HT7V1dUo-8g_WpiWCWyVMFsJ4fr2slBGtheYkGzQnyM0bU0UFauVMPpyGgwXLnKi2eKb9-t62s8gASoJdXMtZWFzdC0xMLcD.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA",ORBIT TV HD
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
@@ -824,6 +827,9 @@ https://streaming.ath.cx:1936/tvmax/tvmax/chunklist_w213329187.m3u8?ads.content_
 https://streaming.ath.cx:1936/tvmax/tvmax/chunklist_w1307673413.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
+#EXTINF:-1 tvg-logo="https://26television.com/wp-content/uploads/2020/09/cropped-LOGO-NUEVO-GT.png"group-title="CINE PREMIUM",26 TELEVISIÓN
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtUEjuX0erB5u0kligKpIJ1nOomzveIRSSvaPhNtvB-u4PxjDKShCxu_Bv-lf1Mp_6GpeXUAYV71lmRVSYOcxAeDfPH0-kRZ3pEm1IMQOkM1uw4ApL5vFJPJo34wuMhfIo_u6ukO-_mpW0b2DbtvAHGFTxi44K4HV6aEOmuHTxuQ-LupnGorkZ6D3j_Ooy4GpgKE6qzF0JGDPsF0jLEaa_wQG4ldKU04DlFlKINUyrfgcExJMRSVqqGOVjGCNYuZHzJOZMyYLyx99rbSBGTVaXMfwSjrEzMCdQX1jkWBcM2zGYTzpoVEM1uEVzkVGPvfkHLvCYMDSDNRRbDq3IG4xPLDuhxaQh0tkpbihGtTdNFYyz_DGTqzX81LwAxR77HgzscNbrgRfPzm8uagxL8t5z_Ak9Ypw6FpufP4Zt1t385FeWL2AqpZO_V0CKrDG4XqAnWIsqHBrwCCe0sFZDYJx9oG7v8O_Sl_V_4orPz-93GQsJuIYFjE3aFMlxB1mSQLhvW04hP9UYj8twvpR6djrPcF0auc1w1kFuIBZbGTMqdfoKk8VpLfnELdkHsppkieAKgbEmdFA_zURWFJy57k8_Xt1wuLW8Uk96pbsQ_Ot7hFzWVPIGYTC9_Udb36uGZ8f0q2RWNWENgMzLW-6hmLr8846AkxlHPKBQX7HA987Ny_IAYQojoWMsPw8-utbaNV1hy77E_3SPZpjTZ4h5TeG_nvFrFrCtsEXf30FFw8HT7V1dUo-8g_WpiWCWyVMFsJ4fr2slBGtheYkGzQnyM0bU0UFauVMPpyGgwXLnKi2eKb9-t62s8gASoJdXMtZWFzdC0xMLcD.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2899-960x540-000000.jpg"group-title="CINE PREMIUM",NEXT TV
 https://streaming.ath.cx:1936/nextv/nextv/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch
@@ -917,7 +923,6 @@ https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="CINE PREMIUM", PELÍCULAS TERROR MANIA
 
 
-#EXTINF:-1 tvg-logo="https://26television.com/wp-content/uploads/2020/09/cropped-LOGO-NUEVO-GT.png"group-title="CINE PREMIUM",26 TELEVISIÓN
 
 
 #EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="CINE PREMIUM",SOMOS DEL ESTE HD
