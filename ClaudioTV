@@ -1404,6 +1404,15 @@ https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://tumpistv.pe/wp-content/uploads/2022/06/TUMPI-TV-LOGO-PNG-2.png"group-title="PERÚ",TUMPIS TV HD
 https://servilive.com:3531/live/tumpistvlive.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_6zFK5B3GZB5OUkkbo4CUdtCQnx0RZIBA3ojdL=s900-c-k-c0x00ffffff-no-rj"group-title="PERÚ",HECHIZERA TV
+https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://grupopalmerastv.com/portal/wp-content/uploads/2021/06/logo-dark-palmeras.png"group-title="PERÚ",PALMERAS TV HD
+https://srv.panelcast.net/palmerastv/palmerastv/playlist.m3u8?PlaylistM3UCL
+
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipM7M7ghUx1KhfT2R5R9FsYEw8NeNDyZOZZmYCbM=s1600-w400"group-title="PERÚ",BARBE TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
@@ -1469,6 +1478,8 @@ https://servilive.com:3149/live/jn19tvlive.m3u8
 https://live.obslivestream.com:443/autenticatvmux/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhEu4EhcMPuYjXnFB_uZF3C2dvFDvkyvSSZw&usqp=CAU"group-title="PERÚ",GORESAM TV
+https://stream.plixitv.live:443/goresamtv/goresamtv/playlist.m3u8?PlaylistM3UCL
 
 
 
