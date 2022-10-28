@@ -122,11 +122,6 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="ARGENTINA", TELEMUNDO INTERNATIONAL
-http://mon-key.us:25461/franco1/franco1/567
-
-
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1168825051153670144/xyICO9lK_400x400.jpg"group-title="ARGENTINA",EURONEWS
 https://rakuten-euronews-4-es.samsung.wurl.com:443/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
@@ -917,6 +912,12 @@ https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="CINE PREMIUM",TELEMUNDO INTERNATIONAL
+http://mon-key.us:25461/franco1/franco1/567
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png"group-title="CINE PREMIUM",UNIMAS HOUSTON
 http://streamgo.vip:8008/cristian2022/cristian2022/148101
 
@@ -924,6 +925,7 @@ http://streamgo.vip:8008/cristian2022/cristian2022/148101
 http://streamgo.vip:8008/cristian2022/cristian2022/148101
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="CINE PREMIUM", IMAGEN TELEVISIÓN
+http://streamgo.vip:8008/cristian2022/cristian2022/140419
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/5169px-Univision_tlnovelas_%282019%29.svg.png"group-title="CINE PREMIUM", UNIVISIÓN TLN NOVELAS
