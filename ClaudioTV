@@ -387,7 +387,7 @@ https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?WebM3UCL
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA", CANAL 32 SPTV HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA",CANAL 32 SPTV HD
 https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
 https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
