@@ -57,6 +57,10 @@ https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w1533782191_b166
 https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",CANAL 7 JUJUY HD
+https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1443260804_b917504.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE 35.1 TDA HD
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/880a23bb-ff0f-431f-a4b3-729db776b35d/5.m3u8
@@ -464,9 +468,6 @@ https://live.enhdtv.com:19360/tvplaydigital/tvplaydigital.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="ARGENTINA",10 MDP HD
 https://g4.mc-hor.transport.edge-access.net:443/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",CANAL 7 JUJUY HD
-https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1443260804_b917504.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online-1.png"group-title="ARGENTINA", EL TRES HD ROSARIO
