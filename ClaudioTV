@@ -75,6 +75,13 @@ https://panel.dattalive.com/8250/8250/.m3u8
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 http://mon-key.us:25461/franco1/franco1/55944
 
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="ARGENTINA",9 TELEVIDA HD MENDOZA
+https://unlimited1-us.dps.live:443/televidaar/televidaar.smil/nimble-absolute-url-chunks.m3u8?nimblesessionid=39032318&nimbleabsoluteurl=3rlMp8Y%2FL6JZYOB%2FuyplOqwuIGm5gB1oVBIaeN5E71F1KLE2oDxFCqZiB2F2fwSTVed3hCgL%2F91kod2Cmebu6G0x3JtQAgUzdLujjU%2FvkCA3OhminWxXTFefW192uSXqGbL1xP%2F2Z2DOSyipBheJjt46LZQZZShws1%2FAvD2mcKw=&nimbleurlhash=0pkrjtnMBddlLV0d+4uMJQ==&nimbleurliv=aYO0vj8mz72+pB+62azdVg==
+
+
+
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="ARGENTINA",ENLACE 
 https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
@@ -198,9 +205,6 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png"group-title="ARGENTINA", UNIFE TV 25.1 TDA HD
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca3a4ede27
 
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="ARGENTINA",9 TELEVIDA HD MENDOZA
-https://unlimited1-us.dps.live:443/televidaar/televidaar.smil/nimble-absolute-url-chunks.m3u8?nimblesessionid=39032318&nimbleabsoluteurl=3rlMp8Y%2FL6JZYOB%2FuyplOqwuIGm5gB1oVBIaeN5E71F1KLE2oDxFCqZiB2F2fwSTVed3hCgL%2F91kod2Cmebu6G0x3JtQAgUzdLujjU%2FvkCA3OhminWxXTFefW192uSXqGbL1xP%2F2Z2DOSyipBheJjt46LZQZZShws1%2FAvD2mcKw=&nimbleurlhash=0pkrjtnMBddlLV0d+4uMJQ==&nimbleurliv=aYO0vj8mz72+pB+62azdVg==
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-8-Tunuyan-Mendoza-en-vivo-Online.png?fit=1920%2C1080&ssl=1"group-title="ARGENTINA",8 VALLE DE UCO MENDOZA
