@@ -82,6 +82,15 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="ARGENTINA",3 PINAMAR HD
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA HD
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -221,7 +230,6 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/c
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-8-Tunuyan-Mendoza-en-vivo-Online.png?fit=1920%2C1080&ssl=1"group-title="ARGENTINA",8 VALLE DE UCO MENDOZA
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtUEuNkBzJJxWHF7CdXF3zoPtpRxT4KCUh2dvo0oYVuu2lUedCLtwUhBMw5CdUeB7Fs1465olj67CoT3DB_VBd5yN55hM6voJ2ba42MhU9zRVExXblWQKTyCO96EtEaJfDvc1ygrguObyplFpzpwdLHPqALID8ETSnPj0VkxXeukDpbZvZyJmKN7bg6SpuiLD8jVErEQEqpWbQitqHUV5D0TtBmo0vhEvgmfMPdxMbhblxHMBX_KZmT5AyLPjzIK9KgdKbXDIJ3x8h2xctX5QJIKWRhAL-jzivaJxqPtp4GTtfuv8mEZak3t7A5lkuT6zJkaW4IOqUiCp2RP8h1rJOXpR24GSWtTSGzlBYnZ3eM-TwoTZlDFm_QmTTsTiFTsvCvR6r2ogi6pQ0GFrBx3VlqzPGFQuEE2cgKHqNx_8JYmshAjlyGFqkCq1ItjDGRy3Rvt1gzCRdPZWYAoRDCaJbCfFehyPL7Nl7avegjKdWjo3BRl2Y-iKjgBqRFWoW2MWdxRmNXn4taiPEve3UnNoceNBvfMf01Xxg2jwD8sEg0iHNiOJwRU_EJtGZO2Hb04a4x2ZqSVOwczgPsYVhwlOFsbZ-e91fmQ_iThd9DEO73-ftHnMdF81JoCqo5nbOEkTwnFhV6T1iya_McdGZ4vlLzFrrSpZ2erEiIn8FW7GVq6pctXsCMWLVvp9SQL5_Rvpq3D7XWLxYOLCtOghbVJFpo6Zq5wCJM95Hlq9vzFawviNURdlHLT3S02TiYRcBGrnPRyIsbtePP1BWuYwLj8WKngrazZFi0HGgwZbGq7fdN_av3XbMYgASoJdXMtZWFzdC0xMMED.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png"group-title="ARGENTINA",KINGDOM TV 19.1 TDA MENDOZA 
@@ -271,9 +279,7 @@ https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL HD
-https://vsd64.mycdn.me/hls/1698824391191.m3u8/sig/rHdx6uPe4Hw/expires/1667823529132/srcIp/186.132.101.8/clientType/0/srcAg/GECKO/mid/3131926453783/video.m3u8?p
-https://vsd98.mycdn.me:443/hls/1698824391191.m3u8/sig/jAkV5kdB1MM/expires/1666974678252/srcIp/186.132.108.52/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd143.mycdn.me:443/hls/1698824391191.m3u8/sig/Mtm4zdUjrsg/expires/1665937256000/srcIp/186.132.118.35/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://cristianoreformado7.files.wordpress.com/2014/11/enlace-updated.png"group-title="ARGENTINA", CRISTIANATV (ENLACE) HD
@@ -372,9 +378,6 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipPPwLRCUqmksxklW-sVfUvxk0u5ADKsYRj9WBn0=w1080-h608-p-no-v0"group-title="ARGENTINA",TV MAX CORDOBA
-https://panel.dattalive.com/8106/8106/playlist.m3u8?PlaylistM3UCL
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDS0KGbr3Q57BfWgRRjWF-_DWs5vYAvMuCA&usqp=CAU"group-title="ARGENTINA",GENIOS TV
@@ -382,8 +385,6 @@ https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/geniostvmux/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png"group-title="ARGENTINA", CIUDAD MAGICA TV
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8?PlaylistM3UCL
@@ -393,8 +394,6 @@ https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/playlist.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="ARGENTINA",3 PINAMAR HD
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 
 
