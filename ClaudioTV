@@ -70,6 +70,7 @@ https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",CANAL 7 JUJUY HD
+https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1079304926_b1327104.m3u8
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtQEMaRppnsM_OF-ir_sdalJvQWYak4nZqEllrK-0XzDGouV5swHfvl4kVFWpU7ugNE2tlakkL8jGuwPjw8nelEpfu4tpWQXRTfoTfArAmhxnt6omPTKUCTTRdYc1Lmw91aUM8QBKfbKmSnR3xpi42CPSX7k2JWY8dwErRQYQ5mp7g6nSvbLlaAllPK3ZUUKYT0-coiGUx8RBKittNOAXzFiLNtSPcCo0gPTGA3jGKtq72q0pPfVDm5rCma9G4mIgWv2gAO5yHlShDEmBVmaNG-_wRcLML8C9hYoxc5bxPGpzY762F2QyxAX7AjjNhJLdQpfjNloqEd2MU8MZLsZnk5gwGItvIRfKYxiBcUwcBOGoyU31zpJ6yQfR7Qr0g0mkvNik2PUHBWlIKTk-t1KoEyr0Lz7QA3HBYb7wQU-Y2g4iBp31NL6OeuV1Nvchfy2uLblLoq3KaFUtLD_yogacEHZxaz8Y7d_mIGwB7pXZ6H_sGnB3-gdFE-Y1LkdljEMsRRreAyhyyLpKFwYoMlzcBCj3v6KNWUYkoGqeEzvQVptNv7GTLXQFAv15yIrvkwh9Qkkv7lM0wDpJUgWCo7-b14PRvcOGwi3s0GyspjLE3MLCN-tUbkIPtcmvISV4ORMsu3Cj-KNM39nP6qAUI0qWVwFwxGAeqibHgNyV7fJ9e2WpYTS4uJgcLm5UgdVpj66t5zM1DeKqKSMERx77qw6uhoko5gm-odpUZsMJ1MQPMF8O_dR8tCLqclsc2j68tU6Lm9gEJVFlGfU9YlBQC5k0aUug1HVuasaDBORfx93BRevW1lilyABKgl1cy1lYXN0LTEwzgM.m3u8
 
 
@@ -77,6 +78,9 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtQEMaRppnsM_OF-ir_sdalJvQW
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE 35.1 TDA HD
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/880a23bb-ff0f-431f-a4b3-729db776b35d/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es"group-title="ARGENTINA",NET TV 27.2 TDA HD
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
 
@@ -256,8 +260,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es"group-title="ARGENTINA",NET TV 27.2 TDA HD
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-22-en-vivo-Online.png"group-title="ARGENTINA",CANAL 22 LA MATANZA HD
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/chunklist_w2091133983.m3u8
