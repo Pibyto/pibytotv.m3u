@@ -109,6 +109,16 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Ct0Eo9-iVyQGTMjZHo9vv_WtLmv
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtsEYmyBe6wMt7dvwrolpudag5G6STu5ibH6JK2l9-x7wlxI8-7ew2KegbIt6YtYpg-vKhfdr3kNd3euxZLdRhrJxl0CDXHlhXdv7GOUriCp2CP3wq5si9f5ls-o4YepxV11Eck4OvTZfuW3TFZEgUFBJzuo4TLvPrrlF5Ma2U0aumBBWezvvuPWTxwah6BXjQfn4014HaJHTrdEcm7fDVYCOYUoAgmtRYJ8HQpiuKblAjvNqjvXeSOOfrOfYS0KyasgZ-5-GRGVzX4ozIlod5dV443DUCv7JQtim-sz3myipoiGLxeMoeg2lRO3XvrfBuiVf4rjfJgryLCV8iuqPt7Bwk2K9EOuWZ49sL8EUANKrr27Il73p1Hdrp7dKbAc0IxCSDq-cZvlqZBHJZIZtIJ01LSsf39fi8IDaqoIbwGMIjcxA67z3svOsmkqEPNh69sR3ODedSfXYfKjw-BAdRXUnZC9Es8sO2QMSz2r1M20hkvyxXtBxvMLsJl0U6ErQA7WVGW8UDCeczos23gjjD5GtYAP9lTgrdXB3VI3iZZMYbv7K0AxmMopIMuRRtFD9mTDS_r3s_vR-WQ0hyJVFTFnY2PgpreZaln0efiDzXvJlRqtfy3ZwdI50d3j2TUXtgFM5grq3ncAhhjJ7oYwOeVwr0rcZYIN5B20tK0bV_y4dSWgH1f5TSa98AKsRAS5lweooUP3J3AYXNVXal9L-o05vSjM5P1UdT4M0ZSUHHBoflUYWGJ9HOfV-_KDf-0Yd3ylrWpL3_Z6ogTDmhIemz25jr7l2Vs2JkD08hhHGgxmma0MtSuM1rZgbQ8gASoJdXMtZWFzdC0yMJYF.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="ARGENTINA",13 HD LA RIOJA
+http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
+https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w349212570.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7GzAhPIJ7stO3deYfYGxQnCB3Hywpxygs_Go-GYJh8iaP4cD3SGzgLkoGSNvyq85v7DK=w1024-h500"group-title="ARGENTINA",TIV TELEVISIÓN HD CHACO
+https://inliveserver.com:1936/14044/14044/playlist.m3u8?WebM3UCL
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
@@ -457,9 +467,7 @@ https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
 https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="ARGENTINA",13 HD LA RIOJA
-http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
-https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w349212570.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/AR9nyvG5pV3jYk7fHMlUI4JQnC9rUH6ryOmmDC5n-wTEQ1_oEhdVVdYJjqpRyHO3YY8EVYKzBv3m7j4scgIdyWJe-m8yVOCReWhHwAKu"group-title="ARGENTINA",CANAL 10 SENILLOSA HD NEUQUÉN 
 https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w559086041.m3u8 
@@ -483,9 +491,6 @@ https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
 https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/7GzAhPIJ7stO3deYfYGxQnCB3Hywpxygs_Go-GYJh8iaP4cD3SGzgLkoGSNvyq85v7DK=w1024-h500"group-title="ARGENTINA",TIV TELEVISIÓN HD CHACO
-https://inliveserver.com:1936/14044/14044/playlist.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEx5VnjJek-wAwJKo7CtK_b7GRpPBY19J3w&usqp=CAU"group-title="ARGENTINA",11 MACHAGAI CHACO
