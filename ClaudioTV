@@ -74,6 +74,9 @@ https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w10793
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtQEMaRppnsM_OF-ir_sdalJvQWYak4nZqEllrK-0XzDGouV5swHfvl4kVFWpU7ugNE2tlakkL8jGuwPjw8nelEpfu4tpWQXRTfoTfArAmhxnt6omPTKUCTTRdYc1Lmw91aUM8QBKfbKmSnR3xpi42CPSX7k2JWY8dwErRQYQ5mp7g6nSvbLlaAllPK3ZUUKYT0-coiGUx8RBKittNOAXzFiLNtSPcCo0gPTGA3jGKtq72q0pPfVDm5rCma9G4mIgWv2gAO5yHlShDEmBVmaNG-_wRcLML8C9hYoxc5bxPGpzY762F2QyxAX7AjjNhJLdQpfjNloqEd2MU8MZLsZnk5gwGItvIRfKYxiBcUwcBOGoyU31zpJ6yQfR7Qr0g0mkvNik2PUHBWlIKTk-t1KoEyr0Lz7QA3HBYb7wQU-Y2g4iBp31NL6OeuV1Nvchfy2uLblLoq3KaFUtLD_yogacEHZxaz8Y7d_mIGwB7pXZ6H_sGnB3-gdFE-Y1LkdljEMsRRreAyhyyLpKFwYoMlzcBCj3v6KNWUYkoGqeEzvQVptNv7GTLXQFAv15yIrvkwh9Qkkv7lM0wDpJUgWCo7-b14PRvcOGwi3s0GyspjLE3MLCN-tUbkIPtcmvISV4ORMsu3Cj-KNM39nP6qAUI0qWVwFwxGAeqibHgNyV7fJ9e2WpYTS4uJgcLm5UgdVpj66t5zM1DeKqKSMERx77qw6uhoko5gm-odpUZsMJ1MQPMF8O_dR8tCLqclsc2j68tU6Lm9gEJVFlGfU9YlBQC5k0aUug1HVuasaDBORfx93BRevW1lilyABKgl1cy1lYXN0LTEwzgM.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="ARGENTINA", CANAL 4 HD JUJUY
+http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE 35.1 TDA HD
@@ -328,9 +331,6 @@ https://cda2.alsolnet.com:443/elrural/live/chunklist_w1329267524.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_64591.png"group-title="ARGENTINA", ARGENTINISIMA SATELITAL HD
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="ARGENTINA", CANAL 4 HD JUJUY
-http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 
 
 
