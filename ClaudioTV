@@ -132,6 +132,8 @@ https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w349212570.m3u8
 https://inliveserver.com:1936/14044/14044/playlist.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEx5VnjJek-wAwJKo7CtK_b7GRpPBY19J3w&usqp=CAU"group-title="ARGENTINA",11 MACHAGAI CHACO
+http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
 
 
@@ -498,8 +500,6 @@ https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEx5VnjJek-wAwJKo7CtK_b7GRpPBY19J3w&usqp=CAU"group-title="ARGENTINA",11 MACHAGAI CHACO
-http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw2qe2LKnaZtg3D5M6rs9WwR9ji0xgRhfapA&usqp=CAU"group-title="ARGENTINA",CHACO TV
 https://wowzasrv.chaco.gov.ar:443/Streamtv/chacotv/chunklist_w1867064858.m3u8
