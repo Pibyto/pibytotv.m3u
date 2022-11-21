@@ -69,6 +69,8 @@ https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w1367978533_b166
 https://g5.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
 
 
+
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",CANAL 7 JUJUY HD
 https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1079304926_b1327104.m3u8
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtQEMaRppnsM_OF-ir_sdalJvQWYak4nZqEllrK-0XzDGouV5swHfvl4kVFWpU7ugNE2tlakkL8jGuwPjw8nelEpfu4tpWQXRTfoTfArAmhxnt6omPTKUCTTRdYc1Lmw91aUM8QBKfbKmSnR3xpi42CPSX7k2JWY8dwErRQYQ5mp7g6nSvbLlaAllPK3ZUUKYT0-coiGUx8RBKittNOAXzFiLNtSPcCo0gPTGA3jGKtq72q0pPfVDm5rCma9G4mIgWv2gAO5yHlShDEmBVmaNG-_wRcLML8C9hYoxc5bxPGpzY762F2QyxAX7AjjNhJLdQpfjNloqEd2MU8MZLsZnk5gwGItvIRfKYxiBcUwcBOGoyU31zpJ6yQfR7Qr0g0mkvNik2PUHBWlIKTk-t1KoEyr0Lz7QA3HBYb7wQU-Y2g4iBp31NL6OeuV1Nvchfy2uLblLoq3KaFUtLD_yogacEHZxaz8Y7d_mIGwB7pXZ6H_sGnB3-gdFE-Y1LkdljEMsRRreAyhyyLpKFwYoMlzcBCj3v6KNWUYkoGqeEzvQVptNv7GTLXQFAv15yIrvkwh9Qkkv7lM0wDpJUgWCo7-b14PRvcOGwi3s0GyspjLE3MLCN-tUbkIPtcmvISV4ORMsu3Cj-KNM39nP6qAUI0qWVwFwxGAeqibHgNyV7fJ9e2WpYTS4uJgcLm5UgdVpj66t5zM1DeKqKSMERx77qw6uhoko5gm-odpUZsMJ1MQPMF8O_dR8tCLqclsc2j68tU6Lm9gEJVFlGfU9YlBQC5k0aUug1HVuasaDBORfx93BRevW1lilyABKgl1cy1lYXN0LTEwzgM.m3u8
@@ -89,12 +91,19 @@ https://octubre-live.cdn.vustreams.com:443/live/ip/live.isml/live-audio_1=128000
 
 
 
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es"group-title="ARGENTINA",NET TV 27.2 TDA HD
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Alfatv.png"group-title="ARGENTINA", ALFA TV TDA HD
 https://byecableiptv.com:443/alfatv/alfatv.stream/chunklist_w1257975845.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="ARGENTINA",LOVE NATURE 4K
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpxahvxoW5ryJTCqoltWFB0CSmJ38PRvAaA&usqp=CAU"group-title="ARGENTINA",MOUNTAIN LIVE 4K
+https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397357/chunklist_w842084170.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA HD
@@ -2829,6 +2838,8 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpxahvxoW5ryJTCqoltWFB0CSmJ38PRvAaA&usqp=CAU"group-title="CINE",MOUNTAIN LIVE 4K
 https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397357/chunklist_w842084170.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://cdn01.cimediacloud.com/cifiles/394108df03034cc18cac1005bce6d321/renditions/thumbnail.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NkbjAxLmNpbWVkaWFjbG91ZC5jb20vY2lmaWxlcy8zOTQxMDhkZjAzMDM0Y2MxOGNhYzEwMDViY2U2ZDMyMS9yZW5kaXRpb25zL3RodW1ibmFpbC5qcGciLCJDb25kaXRpb24iOnsiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NTgzMDQwMH19fV19&Signature=P2jK44Uvj-7gBwtqOR1Wo71bWL-YGjuh6VPaJ4y61VoF4GTKSDyA79~346Ag-ijc59Z98eZr~zDSPypeMTjLGLu3cp~lfxP92PCVACM0SuMMW~EoXz8E6LQUhsVsp~MYs17c1e05DtKnjr90Godz5daQPjGYfhVDjF7iFvRkOlY_&Key-Pair-Id=APKAJNUSFH4IKQRZ44WA"group-title="CINE",CINE SONY
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
