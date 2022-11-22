@@ -20,6 +20,10 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="ARGENTINA", TNT SPORTS HD
 
 
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",TUDN US HD
+https://dcs-live-ue1.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-5&anvsid=m177618712-nc42612e169f7ac7a5a3937da9b037375&ts=1669080335&anvtrid=59dfdc411b46828eff8c731a279c318b
+
+
 
 #EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/tv/tyc-sports-3004.png"group-title="ARGENTINA",TyC SPORTS HD
 http://streamgo.vip:8008/cristian2022/cristian2022/167747
