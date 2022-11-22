@@ -31,6 +31,11 @@ http://streamgo.vip:8008/cristian2022/cristian2022/167747
 https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png"group-title="ARGENTINA",BEIN SPORTS EXTRA Ñ
+https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png"group-title="ARGENTINA",CITY SPORTS TV
 https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
 
