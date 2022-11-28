@@ -36,6 +36,10 @@ http://streamgo.vip:8008/cristian2022/cristian2022/167281
 http://daleplay.club:8080/eduardo2022/eduardo2022/130420
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="ARGENTINA",TELEMUNDO 44
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
+http://mon-key.us:25461/franco1/franco1/567
+
 
 
 #EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/tv/tyc-sports-3004.png"group-title="ARGENTINA",TyC SPORTS HD
@@ -1053,6 +1057,7 @@ https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w15
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="CINE PREMIUM",TELEMUNDO INTERNATIONAL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
 http://mon-key.us:25461/franco1/franco1/567
 
 
