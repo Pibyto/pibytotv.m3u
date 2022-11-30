@@ -3,6 +3,39 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_761010-MLA51327067555_082022-O.webp"group-title="COPA DEL MUNDO",QATAR 2022
+https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_761010-MLA51327067555_082022-O.webp"group-title="COPA DEL MUNDO",QATAR 2022
+https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_761010-MLA51327067555_082022-O.webp"group-title="COPA DEL MUNDO",QATAR 2022
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
+
+
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_761010-MLA51327067555_082022-O.webp"group-title="COPA DEL MUNDO",QATAR 2022
+http://streamgo.vip:8008/cristian2022/cristian2022/167281
+
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_761010-MLA51327067555_082022-O.webp"group-title="COPA DEL MUNDO",QATAR 2022
+http://daleplay.club:8080/eduardo2022/eduardo2022/50492
+
+
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_761010-MLA51327067555_082022-O.webp"group-title="COPA DEL MUNDO",QATAR 2022
+http://daleplay.club:8080/eduardo2022/eduardo2022/81252
+
+
+
+
+
+
+
+
+
 
 
 #######################( ARGENTINA )###############################( ARGENTINA)##############################################################( ARGENTINA )###################################
@@ -23,29 +56,8 @@ http://daleplay.club:8080/eduardo2022/eduardo2022/1312
 
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/large.large.logo_DTVSports2018.png.e81f8dc38ed8ebadbbb6518e40f4ac4e.png.578b14e21d8782bf7b5f915b778bcb1b.png"group-title="ARGENTINA",DIRECTV SPORTS HD
-http://daleplay.club:8080/eduardo2022/eduardo2022/50492
-http://streamgo.vip:8008/cristian2022/cristian2022/167276
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-positivo-logo-F60FDA68AF-seeklogo.com.png"group-title="ARGENTINA",TUDN US HD
-http://streamgo.vip:8008/cristian2022/cristian2022/167281
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/2560px-Winsports.svg.png"group-title="ARGENTINA",WIN SPORTS HD
-http://daleplay.club:8080/eduardo2022/eduardo2022/130420
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="ARGENTINA",TELEMUNDO 44
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
-http://mon-key.us:25461/franco1/franco1/567
-
-
-
-#EXTINF:-1 tvg-logo="https://www.fulltv.com.ar/images/tv/tyc-sports-3004.png"group-title="ARGENTINA",TyC SPORTS HD
-http://daleplay.club:8080/eduardo2022/eduardo2022/81252
-http://streamgo.vip:8008/cristian2022/cristian2022/167747
-https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
 
 
@@ -54,9 +66,6 @@ https://d3055hobuue3je.cloudfront.net:443/out/v1/188a8f3baf914a35868453bd5d0b0fd
 https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8?PlaylistM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/espn-logo-350x183.png?itok=heHZgbSx"group-title="ARGENTINA",ESPN HD
-http://streamgo.vip:8008/cristian2022/cristian2022/158976
 
 
 
