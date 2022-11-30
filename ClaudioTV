@@ -2259,6 +2259,37 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/large.large.logo_DTVSports2018.png.e81f8dc38ed8ebadbbb6518e40f4ac4e.png.578b14e21d8782bf7b5f915b778bcb1b.png"group-title="DEPORTES",DIRECTV SPORTS HD
+http://daleplay.club:8080/eduardo2022/eduardo2022/50492
+http://streamgo.vip:8008/cristian2022/cristian2022/167276
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-positivo-logo-F60FDA68AF-seeklogo.com.png"group-title="DEPORTES",TUDN US HD
+http://streamgo.vip:8008/cristian2022/cristian2022/167281
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/2560px-Winsports.svg.png"group-title="DEPORTES",WIN SPORTS HD
+http://daleplay.club:8080/eduardo2022/eduardo2022/130420
+
+#EXTINF:-1 tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/espn-logo-350x183.png?itok=heHZgbSx"group-title="DEPORTES",ESPN HD
+http://streamgo.vip:8008/cristian2022/cristian2022/158976
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/large.large.logo_DTVSports2018.png.e81f8dc38ed8ebadbbb6518e40f4ac4e.png.578b14e21d8782bf7b5f915b778bcb1b.png"group-title="DEPORTES",DIRECTV SPORTS HD
+http://daleplay.club:8080/eduardo2022/eduardo2022/50492
+http://streamgo.vip:8008/cristian2022/cristian2022/167276
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-positivo-logo-F60FDA68AF-seeklogo.com.png"group-title="DEPORTES",TUDN US HD
+http://streamgo.vip:8008/cristian2022/cristian2022/167281
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Winsports.svg/2560px-Winsports.svg.png"group-title="DEPORTES",WIN SPORTS HD
+http://daleplay.club:8080/eduardo2022/eduardo2022/130420
+
+#EXTINF:-1 tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/espn-logo-350x183.png?itok=heHZgbSx"group-title="DEPORTES",ESPN HD
+http://streamgo.vip:8008/cristian2022/cristian2022/158976
+
+
 
 #EXTINF:-1 tvg-logo="https://laligapro.live/wp-content/uploads/2021/11/El-canal-del-Futbol-Gratis-Ecuador.png"group-title="DEPORTES",ECDF SD
 http://streamgo.vip:8008/cristian2022/cristian2022/104110
