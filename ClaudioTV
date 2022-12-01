@@ -100,7 +100,9 @@ https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w1367978533_b166
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png"group-title="ARGENTINA",EL NUEVE 35.1 TDA HD
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/880a23bb-ff0f-431f-a4b3-729db776b35d/5.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png"group-title="ARGENTINA",CRONICA 24.4 TDA HD
+http://daleplay.club:8080/eduardo2022/eduardo2022/81300
 https://g2.mc-hor.transport.edge-access.net:443/b16/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
 
