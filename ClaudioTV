@@ -117,11 +117,28 @@ https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="ARGENTINA",A24 36.3 TDA HD
 https://g1.proy-hor.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"group-title="ARGENTINA",TN
+http://streamgo.vip:8008/cristian2022/cristian2022/159010
+http://gameplay.p2sweb.me:80/live/3091894/4952970/251505.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png"group-title="ARGENTINA",C5N
 http://streamgo.vip:8008/cristian2022/cristian2022/158990
 http://gameplay.p2sweb.me:80/3091894/4952970/251420
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV 17.3 TDA HD
+https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
+
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1 TDA HD
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Ob2qAy4_BnP38nhRstDX6Js1yGIC6d7qHK4T6dWlCiN577QmDQz8RI2R6suRWMWGRVsihLEs=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",PANC TV 15.1 TDA TUCUMÁN
+https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png"group-title="ARGENTINA", UNIFE TV 25.1 TDA HD
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca3a4ede27
 
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/S9GdlP4ADlI/AAAAAAAAMiA/ctF_CkuUn8w/s1600/canal-luz.png"group-title="ARGENTINA",CANAL LUZ
@@ -251,12 +268,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="ARGENTINA",CANAL+ HD
 https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV 17.3 TDA HD
-https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
-
-#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1 TDA HD
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
 
 
 
@@ -296,10 +307,6 @@ https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"group-title="ARGENTINA",TN
-http://streamgo.vip:8008/cristian2022/cristian2022/159010
-http://gameplay.p2sweb.me:80/live/3091894/4952970/251505.m3u8
 
 
 
@@ -366,9 +373,6 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="ARGENTINA",13 MAX 31.1 TDA HD
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png"group-title="ARGENTINA", UNIFE TV 25.1 TDA HD
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca3a4ede27
 
 
 
@@ -475,8 +479,6 @@ https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Ob2qAy4_BnP38nhRstDX6Js1yGIC6d7qHK4T6dWlCiN577QmDQz8RI2R6suRWMWGRVsihLEs=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",PANC TV 15.1 TDA TUCUMÁN
-https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 
 
 
