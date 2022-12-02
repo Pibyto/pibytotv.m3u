@@ -103,6 +103,9 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443
 #EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="ARGENTINA",MULTIVISION HD SALTA
 https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="ARGENTINA",9 TELEVIDA HD MENDOZA
+https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtkE5UchiE_Ehi7j-YB809WTHUMWo6WKds1DQ6Ggx4Erp4rgMVu-rs05ezqBa5PzuELco8krr2Pi0eUK7DNuVH3F7WILOQvmdTJPhlieKZRQSIyBcW-tPJfLMfVr_PLM2binGqL5QYzXc5vk8obmoUkt09OivX-FYox72JaI8DpzXIwm2NqF0-aUSsseue1YU3rtKOnyOUs9rV--XFiB_QNh6tON2yTcLzDYsLrq7hy_NjwjHrTVY3c3XR7v70A_0_G7nCwoVAfYAW6GiMxom4fXkMu0sud2V3D04rOJBU7uTMc_8kXJSndvCe1EAf8G6VtMIWvqmOPcfWrSQliNCHg39TlgxJ7HE-XRqAS4ES8rX_QnAgzW4I2mDlAwJuJxNUvNzdPKA85-kFuky1rvoeY6sgHFC3tJj_MxtXDSyS7wCnDUajsQ31MUYYLZi-2FSXHutMX3cRXPRhh-n44IbWyq5VD7YT62kRJ-ubdXo-KzlckbuLfMKuOH7KyZ81A9BaUGkCnwlEEcMF56M3feVoX8z1D4zpjFcH8PaZ_V9Qj6_bFH-TGERN7pRedM91mDiX-6kf1sxnA64LgzFDWxTmx2VrTWrXgsZYxR2CYbmDpRN1RDa0MmN1CBFHtq9s2903Fut6wcaKs34MAf0gHrkLOmYL7WWruroit1P7F0IgCXrAPytpIWA8ekO8KbCvt7DpPCwAsO2fEpqgumV1A6aG3--wi-dTmQtnMyTGsf9tYB7vPHgXLX3IW-nTZTIq0OoJlxHJnYeuIgYvjlSFN5Qof1izVJpX6oB0bOxhoMGyVoJ7zi72mFjLuQIAEqCXVzLWVhc3QtMTDOAw.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd"group-title="ARGENTINA",IP 24.5 TDA HD
@@ -144,6 +147,12 @@ http://gameplay.p2sweb.me:80/3091894/4952970/251420
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV 17.3 TDA HD
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD SAN JUAN 
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1 TDA HD
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
@@ -189,13 +198,6 @@ https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA HD
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="ARGENTINA",9 TELEVIDA HD MENDOZA
-https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtkE5UchiE_Ehi7j-YB809WTHUMWo6WKds1DQ6Ggx4Erp4rgMVu-rs05ezqBa5PzuELco8krr2Pi0eUK7DNuVH3F7WILOQvmdTJPhlieKZRQSIyBcW-tPJfLMfVr_PLM2binGqL5QYzXc5vk8obmoUkt09OivX-FYox72JaI8DpzXIwm2NqF0-aUSsseue1YU3rtKOnyOUs9rV--XFiB_QNh6tON2yTcLzDYsLrq7hy_NjwjHrTVY3c3XR7v70A_0_G7nCwoVAfYAW6GiMxom4fXkMu0sud2V3D04rOJBU7uTMc_8kXJSndvCe1EAf8G6VtMIWvqmOPcfWrSQliNCHg39TlgxJ7HE-XRqAS4ES8rX_QnAgzW4I2mDlAwJuJxNUvNzdPKA85-kFuky1rvoeY6sgHFC3tJj_MxtXDSyS7wCnDUajsQ31MUYYLZi-2FSXHutMX3cRXPRhh-n44IbWyq5VD7YT62kRJ-ubdXo-KzlckbuLfMKuOH7KyZ81A9BaUGkCnwlEEcMF56M3feVoX8z1D4zpjFcH8PaZ_V9Qj6_bFH-TGERN7pRedM91mDiX-6kf1sxnA64LgzFDWxTmx2VrTWrXgsZYxR2CYbmDpRN1RDa0MmN1CBFHtq9s2903Fut6wcaKs34MAf0gHrkLOmYL7WWruroit1P7F0IgCXrAPytpIWA8ekO8KbCvt7DpPCwAsO2fEpqgumV1A6aG3--wi-dTmQtnMyTGsf9tYB7vPHgXLX3IW-nTZTIq0OoJlxHJnYeuIgYvjlSFN5Qof1izVJpX6oB0bOxhoMGyVoJ7zi72mFjLuQIAEqCXVzLWVhc3QtMTDOAw.m3u8
 
 
 
@@ -265,9 +267,6 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8?PlaylistM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD SAN JUAN 
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="ARGENTINA",CANAL+ HD
