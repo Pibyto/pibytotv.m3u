@@ -208,9 +208,6 @@ http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Alfatv.png"group-title="ARGENTINA", ALFA TV TDA HD
-https://byecableiptv.com:443/alfatv/alfatv.stream/chunklist_w1257975845.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2020/09/g.gif"group-title="ARGENTINA",LOVE NATURE 4K
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
