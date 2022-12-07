@@ -158,6 +158,12 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png"group-title="ARGENTINA",TELEMAX 26.3 TDA HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png"group-title="ARGENTINA",CINEAR HD 22.4 TDA
+https://538d0bde28ccf.streamlock.net:443/live-cont.ar/cinear/chunklist_w1793158574.m3u8
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg"group-title="ARGENTINA",TIERRAMIATV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
@@ -232,6 +238,13 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtQEMaRppnsM_OF-ir_sdalJvQW
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="ARGENTINA", CANAL 4 HD JUJUY
 http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/AR9nyvG5pV3jYk7fHMlUI4JQnC9rUH6ryOmmDC5n-wTEQ1_oEhdVVdYJjqpRyHO3YY8EVYKzBv3m7j4scgIdyWJe-m8yVOCReWhHwAKu"group-title="ARGENTINA",CANAL 10 SENILLOSA HD NEUQUÉN 
+https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w559086041.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png"group-title="ARGENTINA", CANAL 9 NORTE MISIONERO HD
+https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2020/09/g.gif"group-title="ARGENTINA",LOVE NATURE 4K
@@ -367,8 +380,6 @@ https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png"group-title="ARGENTINA",CINEAR HD 22.4 TDA
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
 
 
 
@@ -437,13 +448,6 @@ https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png"group-title="ARGENTINA",13 HD JUJUY
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2899-960x540-000000.jpg"group-title="ARGENTINA",NEXT TV
-https://streaming.ath.cx:1936/nextv/nextv/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch
-https://streaming.ath.cx:1936/nextv/nextv/chunklist_w1899809986.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
-
 
 
 
@@ -523,18 +527,6 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/AR9nyvG5pV3jYk7fHMlUI4JQnC9rUH6ryOmmDC5n-wTEQ1_oEhdVVdYJjqpRyHO3YY8EVYKzBv3m7j4scgIdyWJe-m8yVOCReWhHwAKu"group-title="ARGENTINA",CANAL 10 SENILLOSA HD NEUQUÉN 
-https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w559086041.m3u8 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png"group-title="ARGENTINA", CANAL 9 NORTE MISIONERO HD
-https://panel.dattalive.com:443/8076/8076/chunklist_w1433327328.m3u8
 
 
 
