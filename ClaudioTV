@@ -119,6 +119,11 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443
 https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="ARGENTINA",ENLACE 
+https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png"group-title="ARGENTINA", PAKA PAKA  22.2
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/pakapaka/chunklist_w1118988583.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
@@ -130,6 +135,9 @@ https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="ARGENTINA",9 TELEVIDA HD MENDOZA
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtkE5UchiE_Ehi7j-YB809WTHUMWo6WKds1DQ6Ggx4Erp4rgMVu-rs05ezqBa5PzuELco8krr2Pi0eUK7DNuVH3F7WILOQvmdTJPhlieKZRQSIyBcW-tPJfLMfVr_PLM2binGqL5QYzXc5vk8obmoUkt09OivX-FYox72JaI8DpzXIwm2NqF0-aUSsseue1YU3rtKOnyOUs9rV--XFiB_QNh6tON2yTcLzDYsLrq7hy_NjwjHrTVY3c3XR7v70A_0_G7nCwoVAfYAW6GiMxom4fXkMu0sud2V3D04rOJBU7uTMc_8kXJSndvCe1EAf8G6VtMIWvqmOPcfWrSQliNCHg39TlgxJ7HE-XRqAS4ES8rX_QnAgzW4I2mDlAwJuJxNUvNzdPKA85-kFuky1rvoeY6sgHFC3tJj_MxtXDSyS7wCnDUajsQ31MUYYLZi-2FSXHutMX3cRXPRhh-n44IbWyq5VD7YT62kRJ-ubdXo-KzlckbuLfMKuOH7KyZ81A9BaUGkCnwlEEcMF56M3feVoX8z1D4zpjFcH8PaZ_V9Qj6_bFH-TGERN7pRedM91mDiX-6kf1sxnA64LgzFDWxTmx2VrTWrXgsZYxR2CYbmDpRN1RDa0MmN1CBFHtq9s2903Fut6wcaKs34MAf0gHrkLOmYL7WWruroit1P7F0IgCXrAPytpIWA8ekO8KbCvt7DpPCwAsO2fEpqgumV1A6aG3--wi-dTmQtnMyTGsf9tYB7vPHgXLX3IW-nTZTIq0OoJlxHJnYeuIgYvjlSFN5Qof1izVJpX6oB0bOxhoMGyVoJ7zi72mFjLuQIAEqCXVzLWVhc3QtMTDOAw.m3u8
+
+#EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png"group-title="ARGENTINA",BENDICION TV HD
+https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd"group-title="ARGENTINA",IP 24.5 TDA HD
@@ -313,23 +321,8 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="ARGENTINA",ENLACE 
-https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png"group-title="ARGENTINA", TDC ONLINE HD SANTA FE
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1168825051153670144/xyICO9lK_400x400.jpg"group-title="ARGENTINA",EURONEWS
@@ -360,7 +353,7 @@ https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/1200px-Logo_del_canal_Encuentro.svg.png"group-title="ARGENTINA", CANAL ENCUENTRO  22.1 TDA HD
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8       
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8     
 
 
 
@@ -418,8 +411,6 @@ https://cda2.alsolnet.com:443/elrural/live/chunklist_w1329267524.m3u8
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png"group-title="ARGENTINA",BENDICION TV HD
-https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
 
 
 
