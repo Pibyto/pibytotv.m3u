@@ -119,6 +119,9 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443
 https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png"group-title="ARGENTINA", PAKA PAKA  22.2
+https://538d0bde28ccf.streamlock.net:443/live-cont.ar/pakapaka/chunklist_w1118988583.m3u8
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="ARGENTINA",MULTIVISION HD SALTA
@@ -185,6 +188,11 @@ http://gameplay.p2sweb.me:80/live/3091894/4952970/251505.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png"group-title="ARGENTINA",C5N
 http://streamgo.vip:8008/cristian2022/cristian2022/158990
 http://gameplay.p2sweb.me:80/3091894/4952970/251420
+
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA HD
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV 17.3 TDA HD
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
@@ -255,9 +263,6 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397357/chunklist_w842084170.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA HD
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
@@ -282,25 +287,6 @@ https://s2.tvdatta.com:3172/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima35918408679.jpg"group-title="ARGENTINA",VIWIX TV - TERROR 4K
 https://s2.tvdatta.com:3849/hybrid/play.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3inn4MLtdKaIusM_jrSAWXiqDnAkkqiKQJjWbJZ1AvPX4ct6KBMVVPbE&usqp=CAE&s"group-title="ARGENTINA",TERROR MANIA
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CpsFIjS9yx4jpGjVLzps7tnkkd8FY5jtHIs9RPihJA0zf2EwcAbHVabCS76r7jX7IVXBo_CB6P78OrXFdzI9YFhopBRZnOw2bNKQk_k0e_8EKOkVzYoSzc90ru3u0Vv9i54V1zVbl9RV5OGmPKBjEGzEOBzjQJRaplvuyRgZOp1QW7NH4PTmKpqZuq_TbpKQ8b5KONzHLRI0RYzs2PoW_ItT0bn3aLWnnF0KQaBFhdih7oBZlmF_zMzuqjcTT_I5NHuwm63oXTzNrEXGOaWiOHt0Cmr9rMBwqjanAzhEClPsD7cF3pGWH7IhV0ijRuVFO-wwfAdifnVewEWrz0_DBnbODiYF5YSgBJb4_qztV2gyN-W9wBrBNctgEqhAlKIj_Czg0xUd8GcVc5n4V6gEUnhCKshCi1dOrtwpz-9216UBjnpgv7zTKenCPwEHQUwgIWsVahHTX7GtuTcf7CYSEb_Xx2_ivcXk92GwgVeq9A8oNwdNNM9Jd3TjUiH9A8xa9GW_qtSS4JE_NyHXShQw_4gl8-iteLtgdVlM_dfIwzE3jKFl1VHCPboxr6UGg0gLnqDAFRXN5DNEhgpDCfo6anAHBwnQORC54FEbrljSSI_eZAXFLerDUqRjJI49OubhAa6XWFrw3h7V6k-519feLfnY-3Sr7zEG9J1ZosmvJhJ5q9pB2_fae74zhEjLuP3owcv3mKhqqFjCRqxr_hgGrX3FYqKP_U8zg63kVo2CiUYyk5APKirTdpZ6PbLH4mdBruuqGOg3Dqv4TQKj7CpdyFSRQLoN-RCj104pCB-A0ka9YOKwYQfgUHmZbIhTtaSg3xrZD6Pec-zQ4OD3UgZ_5jCeJgvSJT-xYPy3CalvbckupMg9FjDOT5chJsO1rBoM9Z8IvRxvu5TuNAkfIAEqCWV1LXdlc3QtMjClBQ.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b373f6e1-55d0-4538-ba8b-9058da43ad20-profile_banner-480.png"group-title="ARGENTINA", PELÍCULAS MANIAS
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CogFBsf_gETMBZ6omXAnWNlYCpNVnKLzUbnu3hSIFgX9jtzDpnBse72cpbp5ihkhTX-e8RynXso6DpnS615UBQdrdmrm0vNonn3VHGvkkifqDOk6JQow3T7Z0j6AI7H4_6172LXA6v2Nofz8-otdZht_7kABbVaB8h7a2cOryArOQR3zZQfY9QUS63xnZNE-D1knIilANjgu2kMq3DHOQz4JZQi6Utdx8xvmAQ6opvMwxvc6cwWrzWwWqbeoszhN3xtZ2cGZ-ZrckakBwJREvx3wK6377gZK0U4wV1RgqtKdksj2WtjD7GBm1aw8Pbcxf1NTZI2hnNLE96P_ku0RPzEf6abU8WpXTat3qEtZ9Q-pUkq58plHf39rXBXxZgl6AnXQutK0do0uJF5ga0rmwgtUrw7pCTiQDVuQPttHfK2ylrlIDaTatDzy8tfTmNoY2JvrVY7PM5p-UOVhwUfkZD3D12n8Qa3ykGi_VmSi0ormLOk5Xt5UblFS2YE0xBHe8Nf2_x1ItMjTc6nt0QuHXn42HLMzn9DR3WkpqPBxcT5TBrrvPzC-GgX4sxmpoq57ZzIEcwiJHvvzrKNakRfQM3-Fn3SuOSb9h7zslnBbTIfFSHgheBLFaOS7vp-jtR3zbxnM4o1WOKfSRfABS6wvsEZJ3JXiWeUls9lv6MVSZYpnA4yBrgwgGFqWdXXhzQnYAH3MtKoELRXz7zNBrxMfLcrpvXYBIcO4k3NG281epS_c8MTNDZddj5kLO8cPuGBWSXGzCKHyn8b608MumE0l-EV03OfxguSTz3Ldb7dqxaj6-oSvdJ21-Vq_DeFqTmpBM2mesy0zP39pFwIbIbkSS9kyE00iMre9moXCGgxS_l0FzVj_wb_jv2kgASoJZXUtd2VzdC0yMKUF.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2c46359a-9e12-42ea-ae4b-96a78220fc0c-profile_image-150x150.png"group-title="ARGENTINA",CINEMUNDO PLUS
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoEFsfJsPQnBPhU_8RP2W5uEzlfl03UOI_3v6wgOjNg6fiJnsLk9VHW87yrhbnAeHi-SrMkYuJPR1fvDzS5S3tT92dKfCqt05S2VF4i67Dfk1nNTFldcafR1ioWKMJ9BtIOljy7j0Z4oL0WHW-rh8l92wuMdJd3TKcNWsBbOBNaM1sR9bp3WAFSyh-ifJc3JSa3goYVI5iET-SZoMLD__5eb1KQ7EbouEf8YmiKBFpNQVgxIG3qBsjCiaixslxb0GHS-KCjvsNw83XirXwv-MAsEN5nRokfunaS8xqD1ykMODY3SXk8mH2vgegHcatOSc4ibugQIEYtT4jfswPCdvl949ep1x98zJ4LIUOoWT0BE2Z5F60jFE9XUCpcvlr2EmOQ1M58tndit5z6cNLsgeYe8kGmqt1qXv5fVNFIa7nWhQQcMbBUsoUWcVG_dxzjlr0d7-BpQEoFukgMhcx155EwD_VoQGQiBFQhFGToMYlmqnPGEmqVz8-l-idl995TG-pAOYt6QnCCBSJf2oxaysICoyrH0OhALEILxfLCuU_-Me12UTtm6wOGvvp3KP22WHplYvZp8pBtoTnzSh-agady3Afz-tLCb3k4l_3O058OnLF5JLnE-NOPnfLvg7QzbJBsLs62DmzMy8S85xU1gnlj7a1R1pb6GFxJez16dgWatDamjo8ABHop1reLRMOqyyksLioUlxPwYFdbtwXpE-4BDeuNQIsWQOzl3b9ziPDzqbIbIz45cF7uLLiuVM14o9I1Unt2uTuYjQlM6VBKZK8NIL_e7kM-tf37U_GuDFgn_jrMRq56_W2zgBSssNrYNnwiL0y9cNcwZjrkAr1mjoeA7wc0aDHFhCHrxrdPoYquNnCABKgl1cy1lYXN0LTIwowU.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoIFF1qnwDUkjy3GLL4CoIpCGKlLlM1EGC9gXgRZMromT-6Nv0zd_h6ftU15H4W6rpSDCyIkgd8HuMyFrCjVJ-XCZsCv0e7YYuOZl9my8ZkhygzvPsoXXVFRZzLO05zfZGC-NxxJjos1ehsMD8cOhb7mSDMW7FDrpBAms8hP1D9WmMOjNPspWTcVPm6jUZJYcQbCE2U11nKhu4dM7x3fnwubSWw4ZyZ84nYBeH_n5feN5SuVWw1NqZertoBpFKKgxKWRBbruJ-Z0lcWHFkyd6DQHcqruWFMZk2pJuWLJCIDFPIkcxj2tMe8tFUR58txR26qpUY6f7H_83dA-W7rDmRDTLdLtr2ueqW_VZMJQZxQNMm5Phgn1gGkyWYZUGEQDOyvwZzWYMT1AxY0uiWI7-urK-fcAm9P8SGdP7YKOx9yUbk7MTb_zhYcci0-TAv1D15_zGEuiOZSY4OQXOLQ7N-ryHz8nFM-OStzM_Xa8LmkgzGDlu3fcqrIJIzAMK5MnUN3WzdYWNVBjY70dCcqEcvctlj-A5-ZgUySEZ5tas8RA1iAM9mWvwzy5NwonC611gbnqRqOiLL9P8ufscBlilz93M4YfNxpY7Jpell1VpepVpvPUXPavw4KcYPeBktrQSXYAYybBOwVWQH0INaDEE0TOEWAxAX9qIL3UgCEACbXxiQnKzUmjKR9SqSXTPBFQFEM4hhz2-hFBS4Yyd2pSQ5QHJ8aaUbAV1aJszQJzZHCjTbmYfSJHVKXUu1AJuqFx3eaVD9tMJ0zT-ExyiH9HCdr2-QlZGFNmMBQCX3QsmZGiA0j7Dy55_kWuS02Ph3hQL3b3o1wVmc-eshwmTrai5D1Gwk0dGgwVCNb-qK5-ue0DWEUgASoJdXMtZWFzdC0yMJkF.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoIFvORCjFEcS0CqgZJoUVCbLC_E3HsiK28b23Bj8Hv3Rf8tP3SK8dlt91X6JlS-jOpBAfOYBp6nX9YF_2_k5kYRAD8PNQxvrnyijFQDP9K3wst1XOL1SYLaLJ74R_X2JV2Ib9aa29-LAB3pbde1dpDvzug8lGnXOKYpaHWP6FumBRmpjaWWbu6d8BMr4Ex9TfkMED5ezRQM0fjbv8Lws1IJVixJwLIavIpTEbijqKjgEfjV9Z9Y4flRQd0zGS69dmz6Nw4cUmZ1Yc0MQrYrZOqbHvHyq94sJNfEKwnGaQvcmvUq-S-n-Y7wKSxqOm3R05f9e2nPW0oYvq_-m1x9yOm9mw7GHie-fCpCTV-Xvn0q1EdgWWMMGs5XnTYMLZ9bcCWqi7ld_dh63cESAXE7N3RGF9ZZLqcKbsa6AROWGufrEpBcqVdVOs2XrnMh1XQqqYPYYb_XDdCmVADTitNxEsQc0WZpX-JQCgNqojUBbILkps42m3k3It0Mbdg29Ph8Cn75SKuTMEOkPER_HPUuI4spe41kM8LU8oHM9Cm1yQSlMJQOdUyRF9rzrUjV-mn6Uuno1Pc-A7EoKEViepbyCmhU4GZFZjmorNH8NdHLFYT8nSKDNiDw47-NLMdEE5URul1uda7smgJmhYlAVWoKsUk880HN7tS3N9vHr_gyzFL4Yx0vpA60KEU2ejINbjqkmAghkdR9FsnbFW-qnHwCMw1EqwMPk5hl8KJZb5ZT-C4UI8y7cMi1nk6BIOHqyr3hss1c3m6oIX8SYsRQsi9b_YinuROY50YDADWD4mZN02HHxTO3vGAdl4pVFlVufVY3JwajMCB0ce8oloO8ivQU5DDonw0pGgw2W9YYkMPUGJ1P03ggASoJdXMtZWFzdC0yMJgF.m3u8
 
 
 
@@ -338,9 +324,6 @@ https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png"group-title="ARGENTINA", PAKA PAKA  22.2
-https://538d0bde28ccf.streamlock.net:443/live-cont.ar/pakapaka/chunklist_w1118988583.m3u8
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png"group-title="ARGENTINA", TDC ONLINE HD SANTA FE
@@ -389,8 +372,6 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-8-Tunuyan-Mendoza-en-vivo-Online.png?fit=1920%2C1080&ssl=1"group-title="ARGENTINA",8 VALLE DE UCO MENDOZA
-
 
 
 #EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png"group-title="ARGENTINA",KINGDOM TV 19.1 TDA MENDOZA 
@@ -430,10 +411,7 @@ https://cda2.alsolnet.com:443/elrural/live/chunklist_w1329267524.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="ARGENTINA",TVR DIGITAL HD
-https://vsd98.mycdn.me:443/hls/1698824391191.m3u8/sig/jqljos-HglM/expires/1668892509961/srcIp/186.132.1.147/urls/185.226.52.48/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd64.mycdn.me/hls/1698824391191.m3u8/sig/rHdx6uPe4Hw/expires/1667823529132/srcIp/186.132.101.8/clientType/0/srcAg/GECKO/mid/3131926453783/video.m3u8?p
-https://vsd98.mycdn.me:443/hls/1698824391191.m3u8/sig/jAkV5kdB1MM/expires/1666974678252/srcIp/186.132.108.52/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd143.mycdn.me:443/hls/1698824391191.m3u8/sig/Mtm4zdUjrsg/expires/1665937256000/srcIp/186.132.118.35/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://cristianoreformado7.files.wordpress.com/2014/11/enlace-updated.png"group-title="ARGENTINA", CRISTIANATV (ENLACE) HD
@@ -504,11 +482,9 @@ https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/playlist.m3u8?WebM3UCL
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGyYlJOaOPx8Hgs_wnk8-D4CEEzymXNtDdVA&usqp=CAU"group-title="ARGENTINA",CANAL 6 PLUS TV HD
-http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/corrientes-tv.png"group-title="ARGENTINA", CTV CORRIENTES HD
-https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
+
 
 
 
@@ -530,8 +506,6 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://x24.com.mx/ca3w/assets/img/logos/logo-x24-con-sombra.png"group-title="ARGENTINA", X24 HD TUCUMÁN 
-https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="ARGENTINA",MILENIUM TV HD
@@ -541,18 +515,10 @@ https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw2qe2LKnaZtg3D5M6rs9WwR9ji0xgRhfapA&usqp=CAU"group-title="ARGENTINA",CHACO TV
-https://wowzasrv.chaco.gov.ar:443/Streamtv/chacotv/chunklist_w1867064858.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_Canal_12_-_Misiones.png"group-title="ARGENTINA",EL DOCE HD
-https://g5.mc-hor.transport.edge-access.net:443/a05/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png"group-title="ARGENTINA",BRAGADO TV
-https://live.enhdtv.com:19360/tvplaydigital/tvplaydigital.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="ARGENTINA",10 MDP HD
@@ -566,7 +532,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="ARGENTINA",CANAL 9 HD CORRIENTES
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://diario10.com.ar/wp-content/uploads/2020/04/logo_footer_retina.png"group-title="ARGENTINA",CANAL 10 RIO NEGRO
@@ -597,9 +563,6 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 https://panel.dattalive.com:443/8074/8074/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://tvn.com.ar/wp-content/uploads/2021/05/cropped-TVN_2-copia-300x300.png"group-title="ARGENTINA",TVN HD TUCUMÁN
-https://videostream.shockmedia.com.ar:19360/tvnoficial/tvnoficial.m3u8?WebM3UCL
-
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tputRy4YD-A/hqdefault.jpg"group-title="ARGENTINA",CANAL 4 HD MISIONES 
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?WebM3UCL
@@ -609,7 +572,7 @@ http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?WebM3UCL
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://canalnueve.tv/wp-content/uploads/2019/06/logo_azm_tv_9-2.png"group-title="ARGENTINA",AZM SD
+#EXTINF:-1 tvg-logo="https://canalnueve.tv/wp-content/uploads/2019/06/logo_azm_tv_9-2.png"group-title="ARGENTINA",AZM 
 https://live.canalnueve.tv/canal.m3u8
 
 
