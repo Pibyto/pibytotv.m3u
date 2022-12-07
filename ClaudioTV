@@ -134,6 +134,11 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/ip_hls/playlist.m3u8
 https://octubre-live.cdn.vustreams.com:443/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-22-en-vivo-Online.png"group-title="ARGENTINA",CANAL 22 LA MATANZA HD
+https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/chunklist_w2091133983.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest?cb=20210315130131&path-prefix=es"group-title="ARGENTINA",NET TV 27.2 TDA HD
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -344,9 +349,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 
 
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-22-en-vivo-Online.png"group-title="ARGENTINA",CANAL 22 LA MATANZA HD
-https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/chunklist_w2091133983.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png"group-title="ARGENTINA", CN 24/7 NEUQUÉN HD
