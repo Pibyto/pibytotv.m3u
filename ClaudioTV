@@ -217,6 +217,10 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA LANUS HD
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFTTBpdBJ7tzJ9cZONTqBJfkjwoHKgoTsQiQ&usqp=CAU"group-title="ARGENTINA",ENSENADA TV
+https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1 TDA HD
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
