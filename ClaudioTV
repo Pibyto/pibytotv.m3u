@@ -131,6 +131,10 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png"group-title="ARGENTINA", UNIFE TV 25.1 TDA HD
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca3a4ede27
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/2560px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png"group-title="ARGENTINA",MAS CHIC HD
 http://daleplay.club:8080/eduardo2022/eduardo2022/130420
 
@@ -195,6 +199,12 @@ https://g1.proy-hor.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-10
 http://streamgo.vip:8008/cristian2022/cristian2022/159010
 http://gameplay.p2sweb.me:80/live/3091894/4952970/251505.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKN8N8fNFYmsYDIK2BG_N8eAJlABse6uCdsA&usqp=CAU"group-title="ARGENTINA",RT ESPAÑOL 25.5 TDA HD
+https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg"group-title="ARGENTINA", TELESUR HD
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png"group-title="ARGENTINA",C5N
@@ -242,8 +252,6 @@ https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png"group-title="ARGENTINA", UNIFE TV 25.1 TDA HD
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca3a4ede27
 
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/S9GdlP4ADlI/AAAAAAAAMiA/ctF_CkuUn8w/s1600/canal-luz.png"group-title="ARGENTINA",CANAL LUZ
@@ -335,24 +343,6 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1168825051153670144/xyICO9lK_400x400.jpg"group-title="ARGENTINA",EURONEWS
 https://rakuten-euronews-4-es.samsung.wurl.com:443/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKN8N8fNFYmsYDIK2BG_N8eAJlABse6uCdsA&usqp=CAU"group-title="ARGENTINA",RT ESPAÑOL 25.5 TDA HD
-https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg"group-title="ARGENTINA", TELESUR HD
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/24-7-Canal-de-Noticias-Neuquen-en-vivo-Online.png"group-title="ARGENTINA", CN 24/7 NEUQUÉN HD
