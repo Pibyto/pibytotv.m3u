@@ -253,7 +253,7 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 #EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA LANUS HD
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFTTBpdBJ7tzJ9cZONTqBJfkjwoHKgoTsQiQ&usqp=CAU"group-title="ARGENTINA",ENSENADA TV
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-29-ensenada.png"group-title="ARGENTINA",ENSENADA TV
 https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
 
 
