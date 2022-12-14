@@ -17,6 +17,10 @@ https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_da
 https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"group-title="COPA DEL MUNDO", TELEFUTURO HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/7529
+
+
 #EXTINF:-1 tvg-logo="https://www.saltacomparativa.com.ar/public/images/noticias/47795-la-fifa-oficializo-el-logo-de-la-copa-del-mundo-de-qatar-2022.jpg"group-title="COPA DEL MUNDO", TUDN HD
 http://speedwk.site:80/richie1234/richie1234/228843.ts
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
@@ -34,8 +38,7 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3794
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
 
 
-#EXTINF:-1 tvg-logo="https://www.saltacomparativa.com.ar/public/images/noticias/47795-la-fifa-oficializo-el-logo-de-la-copa-del-mundo-de-qatar-2022.jpg"group-title="COPA DEL MUNDO",D SPORTS HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/33512
+#EXTINF:-1 tvg-logo="https://www.saltacomparativa.com.ar/public/images/noticias/47795-la-fifa-oficializo-el-logo-de-la-copa-del-mundo-de-qatar-2022.jpg"group-title="COPA DEL MUNDO",LATINA HD
 http://speedwk.site:80/richie1234/richie1234/211295.ts
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
 
@@ -1262,9 +1265,9 @@ http://45.5.117.138:25461/playgt/123456/198
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJUjEQrGJamACwEG5V93RcRjCnlXtLzmrzg&usqp=CAU"group-title="PARAGUAY",TIGO SPORTS HD
-http://speedwk.site:80/richie1234/richie1234/270168.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg"group-title="PARAGUAY", TELEFUTURO HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/7529
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="PARAGUAY",MI TV HD
