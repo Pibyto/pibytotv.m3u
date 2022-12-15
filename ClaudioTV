@@ -291,6 +291,10 @@ https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8?PlaylistM3UC
 https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/h2mGMZp1-0Hxn3WMhJCD00GvjaCcwGy2ikTSL4MUcSW1IkV0oKXPxSWXirsuFRa76VQnwDXGxN6BcAHixdWgh8Dbj6SfrJmPLK0"group-title="ARGENTINA",DEL SUR TV HD
+http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Ob2qAy4_BnP38nhRstDX6Js1yGIC6d7qHK4T6dWlCiN577QmDQz8RI2R6suRWMWGRVsihLEs=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",PANC TV 15.1 TDA TUCUMÁN
 https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
@@ -524,10 +528,6 @@ https://panel.dattalive.com/8204/8204/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Telediez-en-vivo-Online.png"group-title="ARGENTINA",TELEDIEZ
 https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/h2mGMZp1-0Hxn3WMhJCD00GvjaCcwGy2ikTSL4MUcSW1IkV0oKXPxSWXirsuFRa76VQnwDXGxN6BcAHixdWgh8Dbj6SfrJmPLK0"group-title="ARGENTINA",DEL SUR TV HD
-http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-13-San-Luis-en-vivo-Online.png"group-title="ARGENTINA",13 SAN LUIS HD
