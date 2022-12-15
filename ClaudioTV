@@ -267,6 +267,11 @@ https://s2.tvdatta.com:3172/hybrid/play.m3u8
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="ARGENTINA", METRO TV TUCUMÁN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s257053g.png"group-title="ARGENTINA",BLU HD 29.1 TDA HD SAN JUAN
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
@@ -295,6 +300,8 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1 TDA HD
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png"group-title="ARGENTINA", CIUDAD MAGICA TV
@@ -458,9 +465,6 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="ARGENTINA", METRO TV TUCUMÁN
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
 
