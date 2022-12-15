@@ -39,12 +39,6 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3794
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
 
 
-#EXTINF:-1 tvg-logo="https://www.saltacomparativa.com.ar/public/images/noticias/47795-la-fifa-oficializo-el-logo-de-la-copa-del-mundo-de-qatar-2022.jpg"group-title="COPA DEL MUNDO",LATINA HD
-http://speedwk.site:80/richie1234/richie1234/211295.ts
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
-
-
-
 
 
 
@@ -237,6 +231,15 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima71101379954.jpg"group-title="ARGENTINA",VIWIX TV - ACCION 
+https://s2.tvdatta.com:3457/hybrid/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXhgF3Lfq7a-PmxDeF7m8c1k8qw68i_xOY1Q&usqp=CAU"group-title="ARGENTINA",VIWIX TV - ESTRENOS
+https://s2.tvdatta.com:3172/hybrid/play.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV 17.3 TDA HD
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
@@ -319,13 +322,6 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima71101379954.jpg"group-title="ARGENTINA",VIWIX TV - ACCION 4K
-https://s2.tvdatta.com:3457/hybrid/play.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXhgF3Lfq7a-PmxDeF7m8c1k8qw68i_xOY1Q&usqp=CAU"group-title="ARGENTINA",VIWIX TV - ESTRENOS 4K
-https://s2.tvdatta.com:3172/hybrid/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima35918408679.jpg"group-title="ARGENTINA",VIWIX TV - TERROR 4K
