@@ -111,9 +111,12 @@ https://siloh-latam-aka.plutotv.net:443/lilo/production/GranHermano/J8473924d9c8
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/880a23bb-ff0f-431f-a4b3-729db776b35d/5.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PÚBLICA 23.2 TDA HD
 https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 https://g2.vxral-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png"group-title="ARGENTINA",CRONICA 24.4 TDA HD
 http://daleplay.club:8080/eduardo2022/eduardo2022/81300
@@ -148,6 +151,11 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="ARGENTINA",MULTIVISION HD SALTA
 https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png"group-title="ARGENTINA", BRAVO TV HD
@@ -274,17 +282,11 @@ https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 #EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA LANUS HD
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFTTBpdBJ7tzJ9cZONTqBJfkjwoHKgoTsQiQ&usqp=CAU"group-title="ARGENTINA",ENSENADA TV
-https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="ARGENTINA", CINCO TV TIGRE  30.1 TDA HD
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png"group-title="ARGENTINA", CIUDAD MAGICA TV
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8?PlaylistM3UCL
