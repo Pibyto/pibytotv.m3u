@@ -236,6 +236,13 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA",ORBIT TV HD
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png"group-title="ARGENTINA",RETRO PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima71101379954.jpg"group-title="ARGENTINA",VIWIX TV - ACCION 
 https://s2.tvdatta.com:3457/hybrid/play.m3u8
@@ -254,6 +261,11 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="ARGENTINA",3 PINAMAR HD
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA",CANAL 32 SPTV HD
+https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
+https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="ARGENTINA", TELECREATIVA LANUS HD
@@ -428,13 +440,6 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 #EXTINF:-1 tvg-logo="https://26television.com/wp-content/uploads/2020/09/cropped-LOGO-NUEVO-GT.png"group-title="ARGENTINA",26 TELEVISIÓN HD
 
 
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="ARGENTINA",ORBIT TV HD
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png"group-title="ARGENTINA",RETRO PLUS
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-
 
 
 
@@ -484,22 +489,6 @@ https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8GS7oizS8CoaEWUJh6Xp3X1cBZ9swAj4rag&usqp=CAU"group-title="ARGENTINA",7 NORTE TV
 http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA",CANAL 32 SPTV HD
-https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
-https://srv6.zcast.com.br:443/sptv/sptv/chunklist_w359719791.m3u8
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="ARGENTINA",MILENIUM TV HD
