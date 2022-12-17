@@ -210,7 +210,8 @@ https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all
 https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1079304926_b1327104.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShZZdout6Srlg7i6lBe8Tvt6C61iODFaB_xg&usqp=CAU"group-title="TDA DIGITAL",TLS HD.  36.2  SAN JUAN 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShZZdout6Srlg7i6lBe8Tvt6C61iODFaB_xg&usqp=CAU"group-title="TDA DIGITAL",TLS HD.  36.2  SAN JUAN
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8?PlaylistM3UCL
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
