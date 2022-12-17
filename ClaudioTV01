@@ -144,7 +144,14 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="TDA DIGITAL",9 TELEVIDA HD. 28.0  MENDOZA
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtkE5UchiE_Ehi7j-YB809WTHUMWo6WKds1DQ6Ggx4Erp4rgMVu-rs05ezqBa5PzuELco8krr2Pi0eUK7DNuVH3F7WILOQvmdTJPhlieKZRQSIyBcW-tPJfLMfVr_PLM2binGqL5QYzXc5vk8obmoUkt09OivX-FYox72JaI8DpzXIwm2NqF0-aUSsseue1YU3rtKOnyOUs9rV--XFiB_QNh6tON2yTcLzDYsLrq7hy_NjwjHrTVY3c3XR7v70A_0_G7nCwoVAfYAW6GiMxom4fXkMu0sud2V3D04rOJBU7uTMc_8kXJSndvCe1EAf8G6VtMIWvqmOPcfWrSQliNCHg39TlgxJ7HE-XRqAS4ES8rX_QnAgzW4I2mDlAwJuJxNUvNzdPKA85-kFuky1rvoeY6sgHFC3tJj_MxtXDSyS7wCnDUajsQ31MUYYLZi-2FSXHutMX3cRXPRhh-n44IbWyq5VD7YT62kRJ-ubdXo-KzlckbuLfMKuOH7KyZ81A9BaUGkCnwlEEcMF56M3feVoX8z1D4zpjFcH8PaZ_V9Qj6_bFH-TGERN7pRedM91mDiX-6kf1sxnA64LgzFDWxTmx2VrTWrXgsZYxR2CYbmDpRN1RDa0MmN1CBFHtq9s2903Fut6wcaKs34MAf0gHrkLOmYL7WWruroit1P7F0IgCXrAPytpIWA8ekO8KbCvt7DpPCwAsO2fEpqgumV1A6aG3--wi-dTmQtnMyTGsf9tYB7vPHgXLX3IW-nTZTIq0OoJlxHJnYeuIgYvjlSFN5Qof1izVJpX6oB0bOxhoMGyVoJ7zi72mFjLuQIAEqCXVzLWVhc3QtMTDOAw.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s257053g.png"group-title="TDA DIGITAL",BLU HD. 29.1  SAN JUAN
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA DIGITAL",13 MAX HD.  31.1 
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA DIGITAL",EL TRECE HD.  33.1
