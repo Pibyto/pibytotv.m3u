@@ -123,7 +123,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png"group-title="TDA DIGITAL",TELEMAX HD.  26.3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png"group-title="TDA DIGITAL",TELEMAX HD. 26.3
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
 https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 
 
