@@ -168,6 +168,12 @@ https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="TDA DIGITAL",SANTA FE CANAL HD.  29.2
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA DIGITAL",13 MAX HD.  31.1 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 
