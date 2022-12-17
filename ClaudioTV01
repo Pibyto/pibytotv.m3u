@@ -241,6 +241,55 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1024px-Cinemax.svg.png"group-title="TDA DIGITAL",CINEMAX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
+
+#EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/b055cde36c68c140ed0655591aa6b50d/section/591c5a3dbbd82d28b90fb3c2/b7e8791cae315d2462a92bb7f26d4d4b/img.png?_v=1.5.70"group-title="TDA DIGITAL",SPACE HD
+http://streamgo.vip:8008/cristian2022/cristian2022/147308
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paramount%2B_logo.png/2560px-Paramount%2B_logo.png"group-title="TDA DIGITAL", PARAMOUNT
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/2952
+http://mon-key.us:25461/franco1/franco1/251
+
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/ac/0e/80ac0e5a909f75ef1adb25bc74e8b8af.jpg"group-title="TDA DIGITAL",HBO HD
+http://streamgo.vip:8008/cristian2022/cristian2022/147271
+
+
+#EXTINF:-1 tvg-logo="http://www.skypetv.live/uploads/png/6141709c4705888d77281b1cc77ea184.png"group-title="TDA DIGITAL",HBO 2 HD
+http://streamgo.vip:8008/cristian2022/cristian2022/147259
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/710
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hbb2olvPtcs/YavslEKEx0I/AAAAAAAA-E4/gt3ERt1ckLkKpPke8_6dixkVqwg_yXXLACNcBGAsYHQ/s1141/HBO-plus-2019.png"group-title="TDA DIGITAL",HBO+ HD
+http://streamgo.vip:8008/cristian2022/cristian2022/147265
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="TDA DIGITAL",HBO MUNDI
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.1255015607_HBOPOP(varianteamarilla).png.4b3f07d4fbded45afce0d3d94f0c3c0e.png"group-title="TDA DIGITAL",HBO POP
+http://streamgo.vip:8008/cristian2022/cristian2022/147274
+
+
+#EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s34879_ld_h15_ac.png"group-title="TDA DIGITAL",HBO FAMILY HD
+http://streamgo.vip:8008/cristian2022/cristian2022/147268
+tX2xlbj0xMA==&1
+http://190.83.119.67:8000/play/a0ou/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png"group-title="TDA DIGITAL",HBO XTREME
+http://mon-key.us:25461/franco1/franco1/97
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_YkZZPo1aKZU/SSoJH1nL8EI/AAAAAAAAGs4/eBScbxlNG54/s400/fx.gif"group-title="TDA DIGITAL",FX HD
+http://streamgo.vip:8008/cristian2022/cristian2022/147304
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c4/0c/55/c40c55e69052d230974ec9295a8121d2.png"group-title="TDA DIGITAL",TBS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
+
 
 
 
