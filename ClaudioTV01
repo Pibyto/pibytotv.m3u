@@ -153,6 +153,9 @@ https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA DIGITAL",13 MAX HD.  31.1 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-San-Juan-en-vivo-Online.png"group-title="TDA DIGITAL",CANAL 4 HD. 32.1  SAN JUAN
+http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1276879565.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA DIGITAL",EL TRECE HD.  33.1
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
@@ -179,8 +182,31 @@ https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
 https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="TDA DIGITAL",CANAL 7 HD.  36.1. JUJUY 
+https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1079304926_b1327104.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png"group-title="TDA DIGITAL",A24 HD.  36.3
 https://g1.proy-hor.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/h2mGMZp1-0Hxn3WMhJCD00GvjaCcwGy2ikTSL4MUcSW1IkV0oKXPxSWXirsuFRa76VQnwDXGxN6BcAHixdWgh8Dbj6SfrJmPLK0"group-title="TDA DIGITAL",DEL SUR TV HD.  36.4  SAN JUAN 
+http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="TDA DIGITAL",BAYRES TV HD.  41.1
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDA DIGITAL",
