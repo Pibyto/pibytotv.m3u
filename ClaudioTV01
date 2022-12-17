@@ -247,6 +247,15 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/b055cde36c68c140ed0655591aa6b50d/section/591c5a3dbbd82d28b90fb3c2/b7e8791cae315d2462a92bb7f26d4d4b/img.png?_v=1.5.70"group-title="TDA DIGITAL",SPACE HD
 http://streamgo.vip:8008/cristian2022/cristian2022/147308
 
+
+#EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="TDA DIGITAL",TELEMAX RD
+https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3RYMnmTIyV5g_qhqVhS61zpIb0aOu7nyTKjscOe6JHXeEDgJ&s"group-title="TDA DIGITAL",CINECLUB HD
+https://servilive.com:3176/live/cineclublive.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paramount%2B_logo.png/2560px-Paramount%2B_logo.png"group-title="TDA DIGITAL", PARAMOUNT
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/2952
 http://mon-key.us:25461/franco1/franco1/251
