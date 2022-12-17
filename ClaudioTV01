@@ -34,6 +34,12 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRB7O8gdyLmIzhEkeZbnkwSHNtVVOl4RM5uXZJ4EcBx1GFAZmW&s"group-title="TDA DIGITAL",SOLIDARIA TV HD. 19.1
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png"group-title="TDA DIGITAL", ENCUENTRO HD.  22.1
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/encuentro/chunklist_w1399350081.m3u8
 
