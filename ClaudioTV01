@@ -13,22 +13,22 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Ob2qAy4_BnP38nhRstDX6Js1yGIC6d7qHK4T6dWlCiN577QmDQz8RI2R6suRWMWGRVsihLEs=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",PANC TV 15.1 TDA TUCUMÁN
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Ob2qAy4_BnP38nhRstDX6Js1yGIC6d7qHK4T6dWlCiN577QmDQz8RI2R6suRWMWGRVsihLEs=s900-c-k-c0x00ffffff-no-rj"group-title="TDA DIGITAL",PANC TV HD.  15.1 TUCUMÁN
 https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="ARGENTINA",NEO TV DIGITAL 16.1 TDA HD
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA DIGITAL",NEO TV DIGITAL HD. 16.1 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV 17.3 TDA HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA DIGITAL",GENTV HD. 17.3 
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="ARGENTINA",MULTIVISION HD SALTA
+#EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="TDA DIGITAL",MULTIVISION HD SALTA
 https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
 
 
