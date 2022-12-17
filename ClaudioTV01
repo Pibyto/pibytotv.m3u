@@ -56,6 +56,10 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/S9GdlP4ADlI/AAAAAAAAMiA/ctF_CkuUn8w/s1600/canal-luz.png"group-title="TDA DIGITAL",CANAL LUZ HD. 18.2
+https://g3.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRB7O8gdyLmIzhEkeZbnkwSHNtVVOl4RM5uXZJ4EcBx1GFAZmW&s"group-title="TDA DIGITAL",SOLIDARIA TV HD. 19.0
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
