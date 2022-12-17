@@ -20,10 +20,10 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="ARGENTINA",CANAL 3 HD. 3.0  PINAMAR 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="TDA DIGITAL",CANAL 3 HD. 3.0  PINAMAR 
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="ARGENTINA", CANAL 4 HD.  4.1  JUJUY
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA DIGITAL", CANAL 4 HD.  4.1  JUJUY
 http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="TDA DIGITAL",TELECREATIVA LANUS HD. 5.1
@@ -52,7 +52,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="ARGENTINA", METRO TV HD.  18.1 TUCUMÁN
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="TDA DIGITAL", METRO TV HD.  18.1 TUCUMÁN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
@@ -128,7 +128,7 @@ http://speedwk.site:80/richie1234/richie1234/124621.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"group-title="ARGENTINA",TN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"group-title="TDA DIGITAL",TN
 https://live-01-01-tn.vodgc.net:443/TN24/tracks-v1a1/mono.m3u8
 http://streamgo.vip:8008/cristian2022/cristian2022/159010
 http://gameplay.p2sweb.me:80/live/3091894/4952970/251505.m3u8
@@ -170,7 +170,7 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1276879565.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA",CANAL 32 SPTV HD.  32.1
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="TDA DIGITAL",CANAL 32 SPTV HD.  32.1
 https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA DIGITAL",EL TRECE HD.  33.1
@@ -217,7 +217,7 @@ https://g1.proy-hor.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-10
 http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="ARGENTINA",COSMOS TV HD. 36.5 SAN JUAN 
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA DIGITAL",COSMOS TV HD. 36.5 SAN JUAN 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
