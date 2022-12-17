@@ -174,6 +174,9 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com:443
 https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/el-zonda.png"group-title="TDA DIGITAL",ZTV HD.  35.2  SAN JUAN 
+https://cnnsanjuan.com:9999/zonda/zonda/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/60ba654d0cf443090aa41804.png"group-title="TDA DIGITAL",ASPEN HD.  35.3
 https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
@@ -185,6 +188,9 @@ https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="TDA DIGITAL",CANAL 7 HD.  36.1. JUJUY 
 https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1079304926_b1327104.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShZZdout6Srlg7i6lBe8Tvt6C61iODFaB_xg&usqp=CAU"group-title="TDA DIGITAL",TLS HD.  36.2  SAN JUAN 
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png"group-title="TDA DIGITAL",A24 HD.  36.3
