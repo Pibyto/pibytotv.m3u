@@ -26,7 +26,11 @@ https://panel.dattalive.com/8012/8012/playlist.m3u8
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Ob2qAy4_BnP38nhRstDX6Js1yGIC6d7qHK4T6dWlCiN577QmDQz8RI2R6suRWMWGRVsihLEs=s900-c-k-c0x00ffffff-no-rj"group-title="TDA DIGITAL",PANC TV HD.  15.1 TUCUMÁN
+#EXTINF:-1 tvg-logo="https://canalnueve.tv/wp-content/uploads/2019/06/logo_azm_tv_9-2.png"group-title="TDA DIGITAL",AZM tv HD.  9.0
+https://live.canalnueve.tv/canal.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Ob2qAy4_BnP38nhRstDX6Js1yGIC6d7qHK4T6dWlCiN577QmDQz8RI2R6suRWMWGRVsihLEs=s900-c-k-c0x00ffffff-no-rj"group-title="TDA DIGITAL",PANC TV HD. 15.1 TUCUMÁN
 https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 
 
@@ -40,8 +44,17 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRB7O8gdyLmIzhEkeZbnkwSHNtVVOl4RM5uXZJ4EcBx1GFAZmW&s"group-title="TDA DIGITAL",SOLIDARIA TV HD. 19.1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRB7O8gdyLmIzhEkeZbnkwSHNtVVOl4RM5uXZJ4EcBx1GFAZmW&s"group-title="TDA DIGITAL",SOLIDARIA TV HD. 19.0
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png"group-title="TDA DIGITAL", KINGDOM TV HD.  19.1  MENDOZA 
+https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCQTe3BmwB-_e9Pie8e_hNPefbsjk1gp5hXw&usqp=CAU"group-title="TDA DIGITAL",JTA TV HD.  21.1  MENDOZA
+https://streaming.jtamendoza.com/hls/test.m3u8
+https://streaming.jtamendoza.com/hls/test.m3u8
 
 
 
@@ -128,6 +141,10 @@ http://speedwk.site:80/richie1234/richie1234/99761.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/800px-Net_TV_logo.png"group-title="TDA DIGITAL", NET TV HD.  27.2
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="TDA DIGITAL",9 TELEVIDA HD. 28.0  MENDOZA
+https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtkE5UchiE_Ehi7j-YB809WTHUMWo6WKds1DQ6Ggx4Erp4rgMVu-rs05ezqBa5PzuELco8krr2Pi0eUK7DNuVH3F7WILOQvmdTJPhlieKZRQSIyBcW-tPJfLMfVr_PLM2binGqL5QYzXc5vk8obmoUkt09OivX-FYox72JaI8DpzXIwm2NqF0-aUSsseue1YU3rtKOnyOUs9rV--XFiB_QNh6tON2yTcLzDYsLrq7hy_NjwjHrTVY3c3XR7v70A_0_G7nCwoVAfYAW6GiMxom4fXkMu0sud2V3D04rOJBU7uTMc_8kXJSndvCe1EAf8G6VtMIWvqmOPcfWrSQliNCHg39TlgxJ7HE-XRqAS4ES8rX_QnAgzW4I2mDlAwJuJxNUvNzdPKA85-kFuky1rvoeY6sgHFC3tJj_MxtXDSyS7wCnDUajsQ31MUYYLZi-2FSXHutMX3cRXPRhh-n44IbWyq5VD7YT62kRJ-ubdXo-KzlckbuLfMKuOH7KyZ81A9BaUGkCnwlEEcMF56M3feVoX8z1D4zpjFcH8PaZ_V9Qj6_bFH-TGERN7pRedM91mDiX-6kf1sxnA64LgzFDWxTmx2VrTWrXgsZYxR2CYbmDpRN1RDa0MmN1CBFHtq9s2903Fut6wcaKs34MAf0gHrkLOmYL7WWruroit1P7F0IgCXrAPytpIWA8ekO8KbCvt7DpPCwAsO2fEpqgumV1A6aG3--wi-dTmQtnMyTGsf9tYB7vPHgXLX3IW-nTZTIq0OoJlxHJnYeuIgYvjlSFN5Qof1izVJpX6oB0bOxhoMGyVoJ7zi72mFjLuQIAEqCXVzLWVhc3QtMTDOAw.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA DIGITAL",EL TRECE HD.  33.1
