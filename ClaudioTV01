@@ -195,7 +195,8 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com:443
 https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/el-zonda.png"group-title="TDA DIGITAL",ZTV HD.  35.2  SAN JUAN 
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/el-zonda.png"group-title="TDA DIGITAL",ZTV HD.  35.2  SAN JUAN
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
 https://cnnsanjuan.com:9999/zonda/zonda/chunks.m3u8
 
 
