@@ -19,6 +19,10 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://www.pronto.com.ar/u/fotografias/m/2022/9/28/f850x638-70722_148211_5050.jpg"group-title="",GRAN HERMANO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=53897abc-0677-5541-266e-e083e9bf9aa8&deviceDNT=0&deviceModel=0
+https://siloh-latam-aka.plutotv.net:443/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="TDA DIGITAL",CANAL 3 HD. 3.0  PINAMAR 
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
@@ -266,6 +270,19 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="TDA DIGITAL",BAYRES TV HD.  41.1
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_05/large_es.png.36ee9377a3b8a9c22b519d73de03d6c9.png"group-title="TDA DIGITAL", ESPN PREMIUM HD
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="TDA DIGITAL", TNT SPORTS HD
+
 
 
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg"group-title="TDA DIGITAL", TyC SPORTS HD
