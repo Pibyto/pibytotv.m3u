@@ -155,6 +155,11 @@ http://speedwk.site:80/richie1234/richie1234/99761.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/800px-Net_TV_logo.png"group-title="TDA DIGITAL", NET TV HD.  27.2
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="TDA DIGITAL",CANAL+ HD. 27.5
+https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="TDA DIGITAL",9 TELEVIDA HD. 28.0  MENDOZA
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
