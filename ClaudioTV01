@@ -170,6 +170,9 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1276879565.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9XvT58-NUKM/maxresdefault.jpg"group-title="ARGENTINA",CANAL 32 SPTV HD.  32.1
+https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA DIGITAL",EL TRECE HD.  33.1
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
