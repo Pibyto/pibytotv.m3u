@@ -65,6 +65,14 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/98adedd6dec04a2d8663899b927f9383/m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png"group-title="TDA DIGITAL",LN+ HD.  25.3
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"group-title="ARGENTINA",TN
+https://live-01-01-tn.vodgc.net:443/TN24/tracks-v1a1/mono.m3u8
+http://streamgo.vip:8008/cristian2022/cristian2022/159010
+http://gameplay.p2sweb.me:80/live/3091894/4952970/251505.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Telesur_HD_%282017%29.png/revision/latest/scale-to-width-down/250?cb=20220719221045"group-title="TDA DIGITAL",TELESUR HD.  25.4
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
