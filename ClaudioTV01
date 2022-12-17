@@ -264,11 +264,39 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="TDA DIGITAL",BAYRES TV HD.  41.1
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg"group-title="TDA DIGITAL", TyC SPORTS HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/8247
+
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1610.png"group-title="TDA DIGITAL", DIRECTV SPORTS HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/33512
+
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="TDA DIGITAL", ESPN HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/1090737
+
+
+
+#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png"group-title="TDA DIGITAL", ESPN 2 HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/1089694
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es"group-title="TDA DIGITAL", ESPN 3 HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3260
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png"group-title="TDA DIGITAL", FOX SPORTS HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/1090739
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="TDA DIGITAL", FOX SPORTS 2 HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3268
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1024px-Cinemax.svg.png"group-title="TDA DIGITAL",CINEMAX
@@ -277,6 +305,11 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/b055cde36c68c140ed0655591aa6b50d/section/591c5a3dbbd82d28b90fb3c2/b7e8791cae315d2462a92bb7f26d4d4b/img.png?_v=1.5.70"group-title="TDA DIGITAL",SPACE HD
 http://streamgo.vip:8008/cristian2022/cristian2022/147308
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4PYiyJq4Q9tzWJXRh9XHNc1qKIK8lWuVDRg&usqp=CAU"group-title="TDA DIGITAL", AZTECA 7 HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4027
+
 
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="TDA DIGITAL",ORBIT TV HD
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
