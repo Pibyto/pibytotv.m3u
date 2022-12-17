@@ -65,6 +65,7 @@ http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w1094300820
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Telesur_HD_%282017%29.png/revision/latest/scale-to-width-down/250?cb=20220719221045"group-title="TDA DIGITAL",TELESUR HD.  25.4
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/644px-RT_America_Logo.png"group-title="TDA DIGITAL",RT HD.  25.5
