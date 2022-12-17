@@ -40,12 +40,6 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="TDA DIGITAL",MULTIVISION HD SALTA
-https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRB7O8gdyLmIzhEkeZbnkwSHNtVVOl4RM5uXZJ4EcBx1GFAZmW&s"group-title="TDA DIGITAL",SOLIDARIA TV HD. 19.1
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
@@ -146,6 +140,11 @@ https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA DIGITAL",EL NUEVE HD. 35.1
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/2e0f8ee3-a3ce-4d28-8fd2-1e9b35ffaa47/5.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="TDA DIGITAL",MULTIVISION FEDERAL HD. 35.1  SALTA
+https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
 
 
 
