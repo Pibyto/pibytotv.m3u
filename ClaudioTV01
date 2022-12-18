@@ -106,8 +106,11 @@ https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chu
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCQTe3BmwB-_e9Pie8e_hNPefbsjk1gp5hXw&usqp=CAU"group-title="TDA DIGITAL",JTA TV HD.  21.1  MENDOZA
-https://streaming.jtamendoza.com/hls/test.m3u8
-https://streaming.jtamendoza.com/hls/test.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2017/10/WhatsApp-Image-2020-05-28-at-10.35.45-PM-1-300x276.jpeg"group-title="TDA DIGITAL", URBANCRIST WORSHIP HD.  19.2
+https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://mpng.subpng.com/20180704/vbv/kisspng-art-film-cinema-fx-movie-channel-television-movie-poster-5b3c6f2e4a4653.2243007915306872783042.jpg"group-title="TDA DIGITAL", MOVIES DOCU HD.  21.7
