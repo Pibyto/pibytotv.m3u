@@ -317,7 +317,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA DIGITAL",VIX - CINECLUB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vix_Logotype.svg/1200px-Vix_Logotype.svg.png"group-title="TDA DIGITAL",VIX - CINECLUB
 https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
 
 
