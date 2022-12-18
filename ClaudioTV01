@@ -76,7 +76,11 @@ https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
 https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png?format=1000w&content-type=image%2Fpng"group-title="TDA DIGITAL", ALIENTO VISION HD.  18.4
+#EXTINF:-1 tvg-logo="https://www.televida.cl/wp-content/uploads/2020/12/logo-color-ok.png"group-title="TDA DIGITAL", TELEVIDA HD.  18.4.1
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png?format=1000w&content-type=image%2Fpng"group-title="TDA DIGITAL", ALIENTO VISION HD.  18.4.2
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo.smil/.m3u8
 
 
