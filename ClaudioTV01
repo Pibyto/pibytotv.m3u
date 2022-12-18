@@ -71,7 +71,7 @@ https://g3.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/
 https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fd4a5ef5a8d84c265b5fd26c8caae47f.webp"group-title="TDA DIGITAL",TELEBENDICION HD.  18.3.2
+#EXTINF:-1 tvg-logo="https://telebendicion.com.do/static/media/logo512.0e95deb7482e649c6465.png"group-title="TDA DIGITAL",TELEBENDICION HD.  18.3.2
 https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w198998264.m3u8
 
 
