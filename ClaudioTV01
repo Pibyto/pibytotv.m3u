@@ -180,8 +180,10 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b18
 https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDdtD4RxmYa_YCtkFBakfUXcI_g0Z0N6snWw&usqp=CAU"group-title="TDA DIGITAL", BRAVO TV HD.  27.1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png"group-title="TDA DIGITAL", BRAVO TV HD.  27.1
 http://speedwk.site:80/richie1234/richie1234/99761.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/800px-Net_TV_logo.png"group-title="TDA DIGITAL", NET TV HD.  27.2
@@ -192,11 +194,11 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="TDA DIGITAL",9 TELEVIDA HD. 28.0  MENDOZA
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="TDA DIGITAL",9 TELEVIDA HD.  28.0  MENDOZA
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s257053g.png"group-title="TDA DIGITAL",BLU HD. 29.1  SAN JUAN
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s257053g.png"group-title="TDA DIGITAL",BLU HD.  29.1  SAN JUAN
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
 
@@ -209,7 +211,7 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA DIGITAL",13 MAX HD.  31.1 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-San-Juan-en-vivo-Online.png"group-title="TDA DIGITAL",CANAL 4 HD. 32.1  SAN JUAN
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-San-Juan-en-vivo-Online.png"group-title="TDA DIGITAL",CANAL 4 HD.  32.1  SAN JUAN
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1276879565.m3u8
 
 
