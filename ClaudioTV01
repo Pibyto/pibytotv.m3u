@@ -278,7 +278,8 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="TDA DIGITAL", CIUDAD MAGAZINE HD
+http://streamgo.vip:8008/cristian2022/cristian2022/159014
 
 
 
@@ -474,6 +475,33 @@ http://streamgo.vip:8008/cristian2022/cristian2022/147304
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c4/0c/55/c40c55e69052d230974ec9295a8121d2.png"group-title="TDA DIGITAL",TBS HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png"group-title="TDA DIGITAL", UNIVERSAL CHANNEL HD
+http://speedwk.site:80/richie1234/richie1234/103943.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2014/10/Studio-Universal-HD.jpg"group-title="TDA DIGITAL", STUDIO UNIVERSAL HD
+http://speedwk.site:80/richie1234/richie1234/49798.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgsGvvXqIiLX1i-Mml8--SgMoq1k_2jgYCmA&usqp=CAU"group-title="TDA DIGITAL",SYFY HD
+http://speedwk.site:80/richie1234/richie1234/94133.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/500px-DPel%C3%ADcula_2021.svg.png"group-title="TDA DIGITAL",DE PELÍCULAS HD
+http://speedwk.site:80/richie1234/richie1234/103952.ts
+
+
+#EXTEXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/LOGO-MASCHIC-TXT-VIOLETA-copia.png"group-title="TDA DIGITAL", MAS CHIC HD
+http://streamgo.vip:8008/cristian2022/cristian2022/159012
+
+
+
+
+
 
 
 
