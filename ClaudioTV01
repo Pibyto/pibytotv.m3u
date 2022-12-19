@@ -90,8 +90,12 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo.smil/.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4VEwQWMsFTU/X6WUazGQV8I/AAAAAAAAAwU/3tkNlT-QTZUMQpo8Ex0j6C5nsPfcd-04wCK4BGAYYCw/s1600/Urbancrist2-logo.png"group-title="TDA DIGITAL",URBANCRIST TV 1 HD.  18.4.3
+https://5790d294af2dc.streamlock.net:443/8160/8160/chunklist_w1412141262.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="TDA DIGITAL",ALTAR TV HD.  18.4.3
+
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="TDA DIGITAL",ALTAR TV HD.  18.4.4
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 
