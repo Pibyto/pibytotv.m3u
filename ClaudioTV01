@@ -88,6 +88,11 @@ https://g3.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/
 https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom.png"group-title="TDA DIGITAL", DIOS TV KIDS HD.  18.3.1
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://telebendicion.com.do/static/media/logo512.0e95deb7482e649c6465.png"group-title="TDA DIGITAL",TELEBENDICION HD.  18.3.2
 https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
 https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w198998264.m3u8
@@ -101,6 +106,7 @@ https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.televida.cl/wp-content/uploads/2020/12/logo-color-ok.png"group-title="TDA DIGITAL", TELEVIDA HD.  18.4.1
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png?format=1000w&content-type=image%2Fpng"group-title="TDA DIGITAL", ALIENTO VISION HD.  18.4.2
