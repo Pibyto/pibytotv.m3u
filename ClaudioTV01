@@ -22,6 +22,9 @@
 https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png"group-title="TDA DIGITAL",CITY SPORTS HD.  2.10  CABA
+https://citysports.grupocity.net.ar:3469/live/citysportslive.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Box_Cinema.jpg/revision/latest?cb=20191224174158"group-title="TDA DIGITAL", BOX CINEMA HD. 2.11
@@ -38,14 +41,14 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA DIGITAL", CANAL 4 HD.  4.1  JUJUY
 http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="TDA DIGITAL",TELECREATIVA LANUS HD. 5.1
+#EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="TDA DIGITAL",TELECREATIVA HD. 5.1. LANUS 
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpunrmBRPR3OZG2iJo6bhk8kZHKHAB9L4afw0so7ED&s"group-title="TDA DIGITAL",CANAL 50 HD.  5.2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpunrmBRPR3OZG2iJo6bhk8kZHKHAB9L4afw0so7ED&s"group-title="TDA DIGITAL",CANAL 50 HD.  5.2  GLEW
 https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA DIGITAL",MILENIUM TV HD.  5.3
+#EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA DIGITAL",MILENIUM TV HD.  5.3.  SALTA
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
 https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 
@@ -56,7 +59,7 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://canalnueve.tv/wp-content/uploads/2019/06/logo_azm_tv_9-2.png"group-title="TDA DIGITAL",AZM tv HD.  9.0
+#EXTINF:-1 tvg-logo="https://canalnueve.tv/wp-content/uploads/2019/06/logo_azm_tv_9-2.png"group-title="TDA DIGITAL",AZM tv HD.  9.1  RIO NEGRO 
 https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA DIGITAL",10 HD.  10.1 MDP
@@ -68,12 +71,12 @@ http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/
 https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA DIGITAL",NEO TV DIGITAL HD. 16.1 
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA DIGITAL",NEO TV DIGITAL HD. 16.1  CABA
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA DIGITAL",GENTV HD. 17.3 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA DIGITAL",GENTV HD. 17.3  CABA
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
 
@@ -81,7 +84,7 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/S9GdlP4ADlI/AAAAAAAAMiA/ctF_CkuUn8w/s1600/canal-luz.png"group-title="TDA DIGITAL",CANAL LUZ HD. 18.2
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/S9GdlP4ADlI/AAAAAAAAMiA/ctF_CkuUn8w/s1600/canal-luz.png"group-title="TDA DIGITAL",CANAL LUZ HD. 18.2. ROSARIO 
 https://g3.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="TDA DIGITAL",ENLACE HD.  18.3
@@ -126,7 +129,7 @@ https://cdnlive.myspirit.tv:443/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://sublimegraciatv.com/gallery_gen/c49b986afb751882bcbee57f9c9b20d7_350x246.75.png"group-title="TDA DIGITAL", SUBLIME GRACIA TV HD.  18.5
+#EXTINF:-1 tvg-logo="https://sublimegraciatv.com/gallery_gen/c49b986afb751882bcbee57f9c9b20d7_350x246.75.png"group-title="TDA DIGITAL", SUBLIME GRACIA TV HD.  18.5. ROSARIO 
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/chunklist_w4996659.m3u8
 
 
@@ -145,7 +148,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w30918240
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l5sTJ9QgBPk/Xugu93BVTJI/AAAAAAAAJvY/vccxI1AeFqAhmJfDVQl5DxYIFi2orfWJQCLcBGAsYHQ/s1600/solidaria-tv.png"group-title="TDA DIGITAL",SOLIDARIA TV HD. 19.0
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l5sTJ9QgBPk/Xugu93BVTJI/AAAAAAAAJvY/vccxI1AeFqAhmJfDVQl5DxYIFi2orfWJQCLcBGAsYHQ/s1600/solidaria-tv.png"group-title="TDA DIGITAL",SOLIDARIA TV HD. 19.0. CABA
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 
@@ -226,7 +229,7 @@ http://speedwk.site:80/richie1234/richie1234/124621.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"group-title="TDA DIGITAL",TN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"group-title="TDA DIGITAL",TN HD 25.3.4
 http://streamgo.vip:8008/cristian2022/cristian2022/159010
 http://gameplay.p2sweb.me:80/live/3091894/4952970/251505.m3u8
 
@@ -255,7 +258,7 @@ http://speedwk.site:80/richie1234/richie1234/99761.ts
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="TDA DIGITAL",CANAL+ HD. 27.5
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="TDA DIGITAL",CANAL+ HD. 27.5. CABA
 https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 
 
