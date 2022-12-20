@@ -360,7 +360,8 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="TDA DIGITAL", CIUDAD MAGAZINE HD
 http://streamgo.vip:8008/cristian2022/cristian2022/159014
 
-
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_761010-MLA51327067555_082022-O.webp"group-title="TDA DIGITAL",TELEMUNDO HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3794
 
 #EXTINF:-1 tvg-logo="https://carbonmade-media.accelerator.net/17760333;640x367.jpeg"group-title="TDA DIGITAL", CINE PREMIER
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
