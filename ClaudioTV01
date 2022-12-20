@@ -30,6 +30,7 @@ https://citysports.grupocity.net.ar:3469/live/citysportslive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Box_Cinema.jpg/revision/latest?cb=20191224174158"group-title="TDA DIGITAL", BOX CINEMA HD. 2.11
 https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/94368c32-7230-4ac2-9a50-6adc946e66e4/2.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="TDA DIGITAL",TV+ HD.  2.12 ROSARIO 
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
@@ -38,11 +39,14 @@ https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="TDA DIGITAL",CANAL 3 HD. 3.0  PINAMAR 
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA DIGITAL", CANAL 4 HD.  4.1  JUJUY
 http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="TDA DIGITAL",TELECREATIVA HD. 5.1. LANUS 
 https://panel.dattalive.com/8012/8012/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpunrmBRPR3OZG2iJo6bhk8kZHKHAB9L4afw0so7ED&s"group-title="TDA DIGITAL",CANAL 50 HD.  5.2  GLEW
 https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
@@ -52,8 +56,10 @@ https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
 https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="TDA DIGITAL", CANAL 34 HD.  6.11 SAN JUAN 
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png"group-title="TDA DIGITAL",CANAL 8 HD.  8.1 MDP
 https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
@@ -61,6 +67,7 @@ https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b166
 
 #EXTINF:-1 tvg-logo="https://canalnueve.tv/wp-content/uploads/2019/06/logo_azm_tv_9-2.png"group-title="TDA DIGITAL",AZM tv HD.  9.1  RIO NEGRO 
 https://live.canalnueve.tv/canal.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA DIGITAL",10 HD.  10.1 MDP
 http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
@@ -226,7 +233,7 @@ http://streamgo.vip:8008/cristian2022/cristian2022/158990
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png"group-title="TDA DIGITAL",LN+ HD.  25.3
-http://speedwk.site:80/richie1234/richie1234/124621.ts
+
 
 
 
@@ -251,7 +258,7 @@ https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png"group-title="TDA DIGITAL", BRAVO TV HD.  27.1
-http://speedwk.site:80/richie1234/richie1234/99761.ts
+
 
 
 
@@ -268,8 +275,8 @@ https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s257053g.png"group-title="TDA DIGITAL",BLU HD.  29.1  SAN JUAN
-https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
-https://59537faa0729a.streamlock.net:443/radioblu/radioblu/chunklist_w12552475.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="TDA DIGITAL",SANTA FE CANAL HD.  29.2
@@ -277,7 +284,7 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA DIGITAL",13 MAX HD.  31.1 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA DIGITAL",13 MAX DIGITAL HD.  31.1 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-San-Juan-en-vivo-Online.png"group-title="TDA DIGITAL",CANAL 4 HD.  32.1  SAN JUAN
