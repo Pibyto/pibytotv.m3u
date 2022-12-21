@@ -439,6 +439,13 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/1090739
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="TDA DIGITAL", FOX SPORTS 2 HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3268
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Tdp_HD.png"group-title="TDA DIGITAL",TELEDEPORTE HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3173
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Fox_Soccer_Plus_%28Flat%29.svg/revision/latest?cb=20210112104241"group-title="TDA DIGITAL",FOX SOCCER PLUS HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3754
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1024px-Cinemax.svg.png"group-title="TDA DIGITAL",CINEMAX HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
@@ -618,50 +625,15 @@ http://speedwk.site:80/richie1234/richie1234/103952.ts
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/LOGO-MASCHIC-TXT-VIOLETA-copia.png"group-title="TDA DIGITAL", MAS CHIC HD
 http://streamgo.vip:8008/cristian2022/cristian2022/159012
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2560px-History_HD_Logo.svg.png"group-title="TDA DIGITAL",HISTORY HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3234
+
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png"group-title="TDA DIGITAL",ANIMAL PLANET HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3247
 
 
 
-
-
-###############################( MOVIE )#############################( MOVIE )###########################################################################( MOVIE )#########################################################( MOVIE )
-################################( MOVIE )##############################( MOVIE )###########################################################################( MOVIE )#########################################################( MOVIE )
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Tyler_Rake-870564487-large.jpg"group-title="PELICULAS", EXTRACTION  (TYLER RAKE)
-http://199.188.103.26/rombwgshgfhgdsjr/Peliculas/Leomal%201/Tyler%20Rake%20(2020).mp4
-
-#EXTINF:-1 tvg-logo="https://www.elportaldecatalina.com/wp-content/uploads/2019/05/afiche2-4mg.jpg"group-title="PELICULAS", LA RAZON DE ESTAR CONTIGO
-https://dl.dropboxusercontent.com/s/qga7cwijfr4eua2/SalynPM-SPM7s3g.mp4?dl=0
-
-
-#EXTINF:-1 tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/en/c/c7/When_We_First_Met.png"group-title="PELICULAS",CUANDO NOS CONOCIMOS 
-https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Moonfall-138176660-large.jpg"group-title="PELICULAS", MOONFALL (2022)
-http://streamgo.vip:8008/movie/cristian2022/cristian2022/130324.mkv
-
-
-
-
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/85/32/99/19783257.jpg"group-title="PELICULAS",CONAN EL BÁRBARO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e552dc95c1e25001a24f3a0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&architecture=&buildVersion=&deviceDNT=false&deviceId=3b2d2ff2-2dae-480a-aeae-f805d255de09&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Chrome%2BMobile&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.210&includeExtendedEvents=false&marketingRegion=VE&sid=4eac0ada-b57e-11eb-aece-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/ca/e4/dc/cae4dc01c461e769a213c396fd83bda3.jpg"group-title="PELICULAS",LA GUERRA DEL MAÑANA 4K
-http://streamgo.vip:8008/movie/cristian2022/cristian2022/131512.mp4
 
 
 
