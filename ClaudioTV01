@@ -439,8 +439,14 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/1090739
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="TDA DIGITAL", FOX SPORTS 2 HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3268
 
+#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png"group-title="TDA DIGITAL",BEIN SPORTS EXTRA Ñ
+https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Tdp_HD.png"group-title="TDA DIGITAL",TELEDEPORTE HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3173
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Fox_Soccer_Plus_%28Flat%29.svg/revision/latest?cb=20210112104241"group-title="TDA DIGITAL",FOX SOCCER PLUS HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3754
