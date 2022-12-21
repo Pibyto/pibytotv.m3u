@@ -632,6 +632,21 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3234
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png"group-title="TDA DIGITAL",ANIMAL PLANET HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3247
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png"group-title="TDA DIGITAL",ID DISCOVERY HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4123
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png"group-title="TDA DIGITAL",NAT GEO HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4126
+
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/360-3607895_discovery-world-channel-logo.png"group-title="TDA DIGITAL", DISCOVERY WORD HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3081
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Discovery_Science_LA_2011.png/revision/latest?cb=20190925153556&path-prefix=es"group-title="TDA DIGITAL", DISCOVERY SCIENCE HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3082
+
 
 
 
