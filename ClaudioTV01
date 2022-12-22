@@ -365,6 +365,39 @@ http://streamgo.vip:8008/cristian2022/cristian2022/159014
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="TDA DIGITAL",TELEMUNDO HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3794
 
+#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/LOGO-MASCHIC-TXT-VIOLETA-copia.png"group-title="TDA DIGITAL", MAS CHIC HD
+http://streamgo.vip:8008/cristian2022/cristian2022/159012
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png"group-title="TDA DIGITAL",CARTOON NETWORK HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3249
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png"group-title="TDA DIGITAL", DISNEY CHANNEL HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4004
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png"group-title="TDA DIGITAL",CARTOONITO HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3085
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="TDA DIGITAL",TOONCAST HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3242
+
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png"group-title="TDA DIGITAL",NIK JUNIOR HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4194
+
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png"group-title="TDA DIGITAL",NIKELODEON HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3071
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"group-title="TDA DIGITAL", DISCOVERY KIDS HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3254
+
+
 
 #EXTINF:-1 tvg-logo="https://carbonmade-media.accelerator.net/17760333;640x367.jpeg"group-title="TDA DIGITAL", CINE PREMIER
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
@@ -628,8 +661,6 @@ http://speedwk.site:80/richie1234/richie1234/94133.ts
 http://speedwk.site:80/richie1234/richie1234/103952.ts
 
 
-#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/LOGO-MASCHIC-TXT-VIOLETA-copia.png"group-title="TDA DIGITAL", MAS CHIC HD
-http://streamgo.vip:8008/cristian2022/cristian2022/159012
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2560px-History_HD_Logo.svg.png"group-title="TDA DIGITAL",HISTORY HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3234
