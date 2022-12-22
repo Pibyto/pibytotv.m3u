@@ -358,6 +358,21 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="TDA DIGITAL",ORBIT TV HD
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="TDA DIGITAL",TELEMAX RD
+https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3RYMnmTIyV5g_qhqVhS61zpIb0aOu7nyTKjscOe6JHXeEDgJ&s"group-title="TDA DIGITAL",CINECLUB HD
+https://servilive.com:3176/live/cineclublive.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="TDA DIGITAL", CIUDAD MAGAZINE HD
 http://streamgo.vip:8008/cristian2022/cristian2022/159014
 
@@ -565,17 +580,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4PYiyJq4Q9tzWJXRh9XHNc1qKIK8lWuVDRg&usqp=CAU"group-title="TDA DIGITAL", AZTECA 7 HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4027
 
-
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="TDA DIGITAL",ORBIT TV HD
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="TDA DIGITAL",TELEMAX RD
-https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs3RYMnmTIyV5g_qhqVhS61zpIb0aOu7nyTKjscOe6JHXeEDgJ&s"group-title="TDA DIGITAL",CINECLUB HD
-https://servilive.com:3176/live/cineclublive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png"group-title="TDA DIGITAL", PARAMOUNT NETWORK HD
