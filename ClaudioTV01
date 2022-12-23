@@ -471,6 +471,32 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3254
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="CINE", RUN:TIME 
+https://stream.ads.ottera.tv/cl/KnXBZNA1deolaxbkHtn60/1280x720_3071200_0_f.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="CINE", RUN:TIME ACCION
+https://stream.ads.ottera.tv/cl/CsuTz8Y9Q0xuSvUdMSCwL/1280x720_3071200_0_f.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="CINE", RUN:TIME COMEDOA
+https://stream.ads.ottera.tv/cl/lFDjAk1OozyR5YMoHIWnJ/1280x720_3071200_0_f.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="CINE", RUN:TIME CRIMEN
+https://stream.ads.ottera.tv/cl/0djr8_B3nfG0XCthBDAwi/1920x1080_2900000_5_f.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="CINE", RUN:TIME FAMILIA
+https://stream.ads.ottera.tv/cl/4SJGXSbgbw6leQSp3_5hy/1280x720_3071200_0_f.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://carbonmade-media.accelerator.net/17760333;640x367.jpeg"group-title="TDA DIGITAL", CINE PREMIER
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
 
