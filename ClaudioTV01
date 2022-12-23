@@ -87,7 +87,8 @@ https://live.canalnueve.tv/canal.m3u8
 http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR527sDpz8TP024YfpyFqyHZDhlwGsx8ri2Mw&usqp=CAU"group-title="TDA DIGITAL",CANAL 12 HD.  12.1  SALTA 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR527sDpz8TP024YfpyFqyHZDhlwGsx8ri2Mw&usqp=CAU"group-title="TDA DIGITAL",CANAL 12 HD.  12.1  TARTAGAL
+https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m3u8
 
 
