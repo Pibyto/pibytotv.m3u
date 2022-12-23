@@ -495,6 +495,12 @@ https://stream.ads.ottera.tv/cl/0djr8_B3nfG0XCthBDAwi/1920x1080_2900000_5_f.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME FAMILIA
 https://stream.ads.ottera.tv/cl/4SJGXSbgbw6leQSp3_5hy/1280x720_3071200_0_f.m3u8
 
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/logo-white.png"group-title="TDA DIGITAL", MYTIME 1
+https://appletree-mytimespain-rakuten.amagi.tv:443/playlist1080p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/logo-white.png"group-title="TDA DIGITAL", MYTIME 2
+https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://carbonmade-media.accelerator.net/17760333;640x367.jpeg"group-title="TDA DIGITAL", CINE PREMIER
