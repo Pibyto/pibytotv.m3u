@@ -67,8 +67,6 @@ https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgvi3gHqWAGJzePokwV7lECGBr9bwpyBdyOQ&usqp=CAU"group-title="TDA DIGITAL",EL PALOMAR TV HD.  6.12  TUCUMÁN 
-https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/4fgp_qrpmJ3XL59ddvZNRui_EpPCXoh-6Gt6fgdYAk9HdcVzNN1i3BFZiGD4il1EVF0"group-title="TDA DIGITAL",CANAL 7 HD.  7.1  SALTA
@@ -92,6 +90,12 @@ https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="TDA DIGITAL",ENLACE HD.  15.1
+https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA DIGITAL",PANC TV HD. 15.1 TUCUMÁN
 https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 
@@ -111,9 +115,6 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/S9GdlP4ADlI/AAAAAAAAMiA/ctF_CkuUn8w/s1600/canal-luz.png"group-title="TDA DIGITAL",CANAL LUZ HD. 18.2. ROSARIO 
 https://g3.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="TDA DIGITAL",ENLACE HD.  18.3
-https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom.png"group-title="TDA DIGITAL", DIOS TV KIDS HD.  18.3.1
@@ -184,6 +185,8 @@ https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chu
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCQTe3BmwB-_e9Pie8e_hNPefbsjk1gp5hXw&usqp=CAU"group-title="TDA DIGITAL",JTA TV HD.  21.1  MENDOZA
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgvi3gHqWAGJzePokwV7lECGBr9bwpyBdyOQ&usqp=CAU"group-title="TDA DIGITAL",EL PALOMAR TV HD.  21.1  TUCUMÁN 
+https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8
 
 
 
