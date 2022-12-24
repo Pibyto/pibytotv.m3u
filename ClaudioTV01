@@ -38,9 +38,6 @@ https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tvdos-canal-2-de-salta-en-vivo-2322.png"group-title="TDA DIGITAL",CANAL 2 HD.  2.12   SALTA
-https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-P9WDWNCA2TY/XCZZFyC-TMI/AAAAAAAACEw/_eUKx7AkscglagyI2aaKlvhC9ueGw-D6gCLcBGAs/w1200-h630-p-k-no-nu/canal-3-pinamar.jpg"group-title="TDA DIGITAL",CANAL 3 HD. 3.0  PINAMAR 
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
@@ -53,14 +50,6 @@ http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.telecreativa.com/logos/telecreativa_black_256.gif"group-title="TDA DIGITAL",TELECREATIVA HD. 5.1. LANUS 
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpunrmBRPR3OZG2iJo6bhk8kZHKHAB9L4afw0so7ED&s"group-title="TDA DIGITAL",CANAL 50 HD.  5.2  GLEW
-https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA DIGITAL",MILENIUM TV HD.  5.3.  SALTA
-https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
-https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png"group-title="TDA DIGITAL", CANAL 34 HD.  6.11 SAN JUAN 
@@ -77,17 +66,12 @@ https://panel.dattalive.com:443/8074/8074/playlist.m3u8
 https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://canalnueve.tv/wp-content/uploads/2019/06/logo_azm_tv_9-2.png"group-title="TDA DIGITAL",AZM TV HD.  9.0  CHUBUT 
-https://live.canalnueve.tv/canal.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA DIGITAL",10 HD.  10.1 MDP
 http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR527sDpz8TP024YfpyFqyHZDhlwGsx8ri2Mw&usqp=CAU"group-title="TDA DIGITAL",CANAL 12 HD.  12.1  TARTAGAL
-https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m3u8
-https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="TDA DIGITAL",ENLACE HD.  15.1
@@ -296,8 +280,6 @@ https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="TDA DIGITAL",CANAL+ HD. 27.5. CABA
-https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="TDA DIGITAL",9 TELEVIDA HD.  28.0  MENDOZA
@@ -474,6 +456,8 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3254
 
 
 
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="TDA DIGITAL",CANAL+ HD
+https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 
 
 
