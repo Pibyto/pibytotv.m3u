@@ -420,6 +420,9 @@ http://170.83.242.152:5350/play/a021
 https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/10/Paraguay-Flag-Transparent-Free-PNG.png"group-title="TDA DIGITAL",CANAL 8 HD
+https://59ce1298bfb98.streamlock.net:443/canal8tv/canal8tv/chunklist_w235082304.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="TDA DIGITAL", GDM HD
