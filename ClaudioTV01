@@ -326,6 +326,9 @@ https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Uniriotv.png"group-title="TDA DIGITAL",UNIRIO HD  31.1
+https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/chunklist_w1695943361.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA DIGITAL",13 MAX DIGITAL HD  31.1 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
