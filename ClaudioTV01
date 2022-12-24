@@ -560,11 +560,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b78
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoSVG.svg?auto=&fit=min&fill=blur&ixlib=react-9.1.5&w=68&h=48&dpr=3&q=35"group-title="TDA DIGITAL", TERROR HD 1
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png"group-title="TDA DIGITAL", TERROR HD 1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b524&deviceDNT=0&deviceModel=0
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoSVG.svg?auto=&fit=min&fill=blur&ixlib=react-9.1.5&w=68&h=48&dpr=3&q=35"group-title="TDA DIGITAL", TERROR HD 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png"group-title="TDA DIGITAL", TERROR HD 2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
 
 
