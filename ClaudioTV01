@@ -174,6 +174,8 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png"group-title="TDA DIGITAL", KINGDOM TV HD  19.1  MENDOZA 
 https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png"group-title="TDA DIGITAL",EL VIVIENTE TV HD  19.2
 https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
 
@@ -181,8 +183,9 @@ https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCQTe3BmwB-_e9Pie8e_hNPefbsjk1gp5hXw&usqp=CAU"group-title="TDA DIGITAL",JTA TV HD.  21.1  MENDOZA
+https://streaming.jtamendoza.com/hls/test.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL",EL PALOMAR TV HD   21.1  TUCUMÁN 
