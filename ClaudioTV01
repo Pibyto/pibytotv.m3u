@@ -39,7 +39,7 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CqIFJ5obCghJQIo4GBLdzyEawAG
 
 
 
-#EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="TDA DIGITAL",TV+ HD  2.12 ROSARIO 
+#EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="TDA DIGITAL",TV+ HD  2.12  ROSARIO 
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
 
@@ -60,6 +60,11 @@ https://stmvideo2.livecastv.com:443/agenfor/agenfor/chunklist_w1316691733.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA DIGITAL", CANAL 4 HD  4.1  JUJUY
 http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL", CANAL 4 HD  4.2  POSADAS
+http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA DIGITAL",TELECREATIVA HD  5.1. LANUS 
