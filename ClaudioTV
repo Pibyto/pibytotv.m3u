@@ -1283,6 +1283,9 @@ https://video.radiosenpy.net:19360/canal8vision/canal8vision.m3u8
 http://iptv.fronteratvonline.com:8080/wilfrido/wilfrido/45709
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsWZrydSqFOWneDekG1xZnQZ-rvpWriti6A&usqp=CAU"group-title="PARAGUAY", CANAL 8 CTS HD
+https://59ce1298bfb98.streamlock.net:443/canal8tv/canal8tv/chunklist_w1592248731.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmOXUulC7VQpa-uSA76hcOT7h2ahHO4Oa7IA&usqp=CAU"group-title="PARAGUAY",FARRA PLAY HD
