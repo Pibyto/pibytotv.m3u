@@ -52,7 +52,8 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/1_0/index.m3u8?sessI
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/chunklist_w1293152295.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL", CANAL 3 HD  3.1   FORMOSA  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL", CANAL 3 HD  3.1   FORMOSA
+https://stmvideo2.livecastv.com:443/agenfor/agenfor/chunklist_w1316691733.m3u8  
 https://stmvideo2.livecastv.com:443/agenfor/agenfor/chunklist_w1316691733.m3u8
 
 
