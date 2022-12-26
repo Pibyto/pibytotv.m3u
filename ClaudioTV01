@@ -487,7 +487,7 @@ https://servilive.com:3531/live/tumpistvlive.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2FlH43M3O5ySAzltsmgCiUoVDyzyG79rEA&usqp=CAU"group-title="TDA DIGITAL",CGTN ESPAÑOL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png"group-title="TDA DIGITAL",CGTN ESPAÑOL
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="TDA DIGITAL", CIUDAD MAGAZINE HD
