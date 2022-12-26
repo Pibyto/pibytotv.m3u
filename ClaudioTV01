@@ -596,6 +596,15 @@ https://stream.ads.ottera.tv/cl/lWqJFByMTt-HJNMBgwZOn/1920x1080_2900000_5_f.m3u8
 https://stream.ads.ottera.tv/cl/2B3B7gYCM-E95uhjmAbEg/1280x720_3071200_0_f.m3u8
 https://stream.ads.ottera.tv/cl/4SJGXSbgbw6leQSp3_5hy/1280x720_3071200_0_f.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-canela-cinema-16x9_0.png"group-title="TDA DIGITAL",CANELA CINEMA 1
+https://stream.ads.ottera.tv/cl/UVXRB8qa1EkgrbhOlQvkB/1280x720_2300000_0_f.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-canela-cinema-16x9_0.png"group-title="TDA DIGITAL",CANELA CINEMA 2
+https://stream.ads.ottera.tv/cl/tN0wPxwth9ihoGMB_danI/1280x720_3071200_0_f.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/logo-white.png"group-title="TDA DIGITAL", MYTIME 1
 https://appletree-mytimespain-rakuten.amagi.tv:443/playlist1080p.m3u8
 
