@@ -785,9 +785,10 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/1090739
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="TDA DIGITAL", FOX SPORTS 2 HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3268
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/08b300/paramount-1-/1366_2000.jpeg"group-title="TDA DIGITAL",PREMIER LIGUE 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-http://stitcher-ipv4.pluto.tv:80/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9livestitch/2977158/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-e0837bcc-2631-40f7-ae08-375ea81e85ee&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
+#EXTINF:-1 tvg-logo="https://i.blogs.es/08b300/paramount-1-/1366_2000.jpeg"group-title="TDA DIGITAL",PREMIER LIGUE
+http://stitcher-ipv4.pluto.tv:80/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9livestitch/2977158/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-cc833cff-df44-4c48-8f56-d4e625d7f2b0&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
+
+
 
 
 
