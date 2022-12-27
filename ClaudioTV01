@@ -487,6 +487,8 @@ https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",TUMPIS TV HD
 https://servilive.com:3531/live/tumpistvlive.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",CR TV HD
+https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png"group-title="TDA DIGITAL",CGTN ESPAÑOL
