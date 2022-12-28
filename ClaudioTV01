@@ -99,7 +99,8 @@ https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f1589be8f15b2dbbb4673d6d053099ce60224c396311dd99c982f9fce47d8693.png"group-title="TDA DIGITAL",PENIEL TV HD  15.1.1
-http://45.5.117.138:25461/playgt/123456/91
+https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://lafemuevemontanas.net/wp-content/uploads/2019/08/F8.png"group-title="TDA DIGITAL", LA FE MUEVE MONTAÑAS HD  15.1.2
