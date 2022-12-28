@@ -102,6 +102,11 @@ https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 http://45.5.117.138:25461/playgt/123456/91
 
 
+#EXTINF:-1 tvg-logo="https://lafemuevemontanas.net/wp-content/uploads/2019/08/F8.png"group-title="TDA DIGITAL", LA FE MUEVE MONTAÑAS HD  15.1.2
+https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
+
+
+
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA DIGITAL",PANC TV HD 15.1 TUCUMÁN
 https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 
