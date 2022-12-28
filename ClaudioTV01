@@ -439,7 +439,8 @@ https://59ce1298bfb98.streamlock.net:443/canal8tv/canal8tv/chunklist_w235082304.
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_948f2439d9bb40129b35483e0bc39ead~mv2.png/v1/fill/w_544,h_544,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/nimtv.png"group-title="TDA DIGITAL",NIM TV HD
-http://45.5.117.138:25461/playgt/123456/80
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="TDA DIGITAL", GDM HD
