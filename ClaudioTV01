@@ -446,6 +446,10 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="TDA DIGITAL",SAN ISIDRO TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="TDA DIGITAL",TELEMAX RD
 https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
 
@@ -503,6 +507,15 @@ http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="TDA DIGITAL",TELEMUNDO HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3794
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="TDA DIGITAL", IMAGEN TELEVISIÓN
+http://streamgo.vip:8008/cristian2022/cristian2022/140419
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png"group-title="TDA DIGITAL",EL CANAL DE LAS ESTRELLAS
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/LOGO-MASCHIC-TXT-VIOLETA-copia.png"group-title="TDA DIGITAL", MAS CHIC HD
 
