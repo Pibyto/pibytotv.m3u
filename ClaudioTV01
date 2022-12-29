@@ -608,11 +608,13 @@ https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME LATINO
+https://stream.ads.ottera.tv/cl/5C3LY1QJwrv7K_Luczhd7/1280x720_3071200_0_f.m3u8
 https://stream.ads.ottera.tv/cl/KnXBZNA1deolaxbkHtn60/1280x720_3071200_0_f.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME ACCION
+https://stream.ads.ottera.tv/cl/qFBvuBlCRmwewSjTlrdDd/1280x720_3071200_0_f.m3u8
 https://stream.ads.ottera.tv/cl/CsuTz8Y9Q0xuSvUdMSCwL/1280x720_3071200_0_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME COMEDIA
@@ -620,25 +622,13 @@ https://stream.ads.ottera.tv/cl/lFDjAk1OozyR5YMoHIWnJ/1280x720_3071200_0_f.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME CRIMEN
-https://stream.ads.ottera.tv/cl/o6oR1TMeoTl857TOEX-YP/1920x1080_2900000_5_f.m3u8
-https://stream.ads.ottera.tv/cl/0djr8_B3nfG0XCthBDAwi/1920x1080_2900000_5_f.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME ROMANCE
-https://stream.ads.ottera.tv/cl/lWqJFByMTt-HJNMBgwZOn/1920x1080_2900000_5_f.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME FAMILIA
-https://stream.ads.ottera.tv/cl/2B3B7gYCM-E95uhjmAbEg/1280x720_3071200_0_f.m3u8
-https://stream.ads.ottera.tv/cl/4SJGXSbgbw6leQSp3_5hy/1280x720_3071200_0_f.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-canela-cinema-16x9_0.png"group-title="TDA DIGITAL",CANELA CINEMA 1
-https://stream.ads.ottera.tv/cl/UVXRB8qa1EkgrbhOlQvkB/1280x720_2300000_0_f.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-canela-cinema-16x9_0.png"group-title="TDA DIGITAL",CANELA CINEMA 2
-https://stream.ads.ottera.tv/cl/tN0wPxwth9ihoGMB_danI/1280x720_3071200_0_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png"group-title="TDA DIGITAL",FREE TV
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
