@@ -860,12 +860,16 @@ http://speedwk.site:80/richie1234/richie1234/94127.ts
 http://streamgo.vip:8008/cristian2022/cristian2022/147308
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png"group-title="TDA DIGITAL",GOLDEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png"group-title="TDA DIGITAL",GOLDEN 1
 http://linear-409.frequency.stream:80/dist/vix/409/hls/master/playlist_1920x1080.m3u8
 http://streamgo.vip:8008/cristian2022/cristian2022/147315
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png"group-title="TDA DIGITAL",GOLDEN 2
+http://iptvcanales.xyz/canales/vix/406/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es"group-title="TDA DIGITAL",GOLDEN PLUS
+http://linear-410.frequency.stream:80/dist/vix/410/hls/master/playlist_1920x1080.m3u8
 http://streamgo.vip:8008/cristian2022/cristian2022/147327
 http://speedwk.site:80/richie1234/richie1234/94122.ts
 http://daleplay.club:8080/eduardo2022/eduardo2022/156155
