@@ -64,6 +64,7 @@ http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
 https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA DIGITAL",TELECREATIVA HD  5.1. LANUS 
 https://panel.dattalive.com/8012/8012/playlist.m3u8
 
@@ -352,6 +353,12 @@ https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="TDA DIGITAL",SANTA FE CANAL HD  29.2
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="TDA DIGITAL", CINCO TV HD  30.1 TIGRE
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Uniriotv.png"group-title="TDA DIGITAL",UNIRIO HD  31.1
