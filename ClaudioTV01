@@ -44,7 +44,11 @@ https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dto7y5p0mql2j.cloudfront.net/1660769433762.logoc2.png"group-title="TDA DIGITAL", CANAL 2 HD  2.13  MISIONES
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/72ca7f65-5ff8-468a-b8f1-3ad9120e5cb8-profile_image-70x70.png"group-title="TDA DIGITAL",EL URBANO TV HD   2.13
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CpoFUzmM8jVctncUmPII6pVOhZ2v0Pkgyx6_2fdPvN2g7E4c-7OcgThOEThgHDytthbcekVbw0dVmKP4HQDvx6LM1RuBnGR-SBZI26Tc5PRDHh6TYj3u_jR9BAQJcG7-n4vDLxKoUp9TxURIjA7lMOJhwk6Vg6ezGRRfMgRaNJbtE1-DFJodXOOvbWvQ2VmDfMG1xOdMXx9Ti9k08_FytfX0GMpMNHcz1PsELwYHEhYu0u2KWlQ_8a3X296ZKa6raJK1h8ESZ1SfPkOIv10napZRIZ4JiiMRN1188VFwFW0_MQ-bXOXH5OYHmyHPj1RfoJ6mgQpTs0vsUQHwn43GZQxCjBgBQdUQCqCM4XGjd6-fBCm7FBu9j1GtF-vqhuIG2Jpg31hp0j26_T-0lAxVoMqicbBx01fmZyMgf62Iohju0Na9qCqMTRFilVPc9QG4II641Vt-73-RwTrcjzNLSg7lrXmo-Og4QxV2frUFACpa89Dcp-Ti3YumUuKYBB5M281xtIY1kYLPsehPxNqHNGNIyT4yAD138PewSxZhWicLGDBpSG9Us9UCEO7nUqeIYWPjGqM2Jthil4XCkOsyd2MV5Riljz-lj7cPI0Vf_VA0uoJHxWDzoLObtwRdezQ9hsRHjBaqVEeGn24bsHXHoZI85OzFhyJOXEBmqEzpauq_9agsolDgh6-p9-ekO_93Ptc6tyItu6szaffCXh9IEOlougEaYRzScX_fFRDqSZOaxvCkXnPUH25rMXm29TrOb3fChaFK6bGy8xmzErDL2l73PQxUTfyIv9Iv-PfHsPocyPyFZDW1tRLtzUZcuzaMLgB_Am6KbndDvDEbL-MgtolGeXE57RFNVeaNk158HWmYKjhG55iquLVMyKtAGgzRzL-r7hSw7tHwe40gASoJdXMtZWFzdC0xMPcD.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dto7y5p0mql2j.cloudfront.net/1660769433762.logoc2.png"group-title="TDA DIGITAL", CANAL 2 HD  2.15 MISIONES
 https://nd106.republicaservers.com:4433/hls/canal2misioness/1_0/index.m3u8?sessId=3855010
 
 
