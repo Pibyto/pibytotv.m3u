@@ -408,6 +408,7 @@ https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL", CANAL 11 HD   34.1
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1672544288~acl=%2f*~data=hdntl~hmac=4f86d6e9427e7e0e15ce454e8247198ae09fca9670be527882e63cb1f654c9fc/master-mtlf.m3u8
 https://telefecanal1.akamaized.net:443/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1672442225~acl=%2f*~data=hdntl~hmac=5d842b32d420cc81ae191fd92667fd2b2e22f26045d4709cf244aee9c07b074b/canal5rosario0.m3u8
 
 
