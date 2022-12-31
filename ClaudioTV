@@ -210,12 +210,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima71101379954.jpg"group-title="ARGENTINA",VIWIX TV - ACCION 
-https://s2.tvdatta.com:3457/hybrid/play.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXhgF3Lfq7a-PmxDeF7m8c1k8qw68i_xOY1Q&usqp=CAU"group-title="ARGENTINA",VIWIX TV - ESTRENOS
-https://s2.tvdatta.com:3172/hybrid/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="ARGENTINA",GENTV 17.3 TDA HD
@@ -315,12 +309,6 @@ https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA",ALTAR TV HD
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima35918408679.jpg"group-title="ARGENTINA",VIWIX TV - TERROR 4K
-https://s2.tvdatta.com:3849/hybrid/play.m3u8
 
 
 
