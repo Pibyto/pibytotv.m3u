@@ -421,11 +421,12 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA DIGITAL", TELEFE HD  34.1
 http://streamgo.vip:8008/cristian2022/cristian2022/158969
 http://streamgo.vip:8008/cristian2022/cristian2022/158968
-https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1671333910~acl=%2f*~data=hdntl~hmac=dab274134e496457eb10ba33b3d746182334b881cb78a8e421ab6f3783d71e0d/master-mtlf.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL", CANAL 11 HD
-https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1672679113~acl=%2f*~data=hdntl~hmac=f0cbafdef18827c774a269cf83b161eb1723b3bb378e035ba9fc7a458d5bfc98/master-mtlf.m3u8   34.1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL", CANAL 11 HD  34.1
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1672679383~acl=%2f*~data=hdntl~hmac=02af21f2e2d0e8b4bc34b1fcc1928323ed56511770393e3194c211acd9df5a2a/master-mtlf.m3u8
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1672679113~acl=%2f*~data=hdntl~hmac=f0cbafdef18827c774a269cf83b161eb1723b3bb378e035ba9fc7a458d5bfc98/master-mtlf.m3u8   
 
 
 
