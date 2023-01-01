@@ -211,7 +211,7 @@ https://5790d294af2dc.streamlock.net:443/8160/8160/chunklist_w1412141262.m3u8?We
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="TDA DIGITAL",ALTAR TV HD  18.4.4
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/g7Ul8xOO2Dqxe9Ycc02FVYxaHQweh_bV0Eov9eIEa7_6Y30P20dWTzYGBXG9eUjAfq8=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",SPIRIT TV HD  18.4.5
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/logo-spirit-tv.png"group-title="TDA DIGITAL",SPIRIT TV HD  18.4.5
 https://cdnlive.myspirit.tv:443/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 
