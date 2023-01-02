@@ -1498,9 +1498,6 @@ https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0KBKhum_0y4-0yY8YJLqHwIjF3uNDTsFuA&usqp=CAU"group-title="CINE Y SERIES",REC ONLINE TV HD
-https://master.tucableip.com/reconline/live/video.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE Y SERIES", CIUDAD MAGAZINE FHD
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
