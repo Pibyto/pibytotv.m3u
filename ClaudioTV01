@@ -185,6 +185,12 @@ https://ss2.domint.net:3206/rv_str/rvida/chunklist_w2041658667.m3u8
 https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png"group-title="TDA DIGITAL",BENDICION TV HD
+https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJXvjsVqWXPf1rfZ845B8DGyWBm3CwzXJDHg&usqp=CAU"group-title="TDA DIGITAL", CRISTIANA TV HD
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png?format=1000w&content-type=image%2Fpng"group-title="TDA DIGITAL", ALIENTO VISION HD
