@@ -99,21 +99,6 @@ http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/
 
 
 
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="TDA DIGITAL",ENLACE HD  15.1
-https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvr4MR4agUkhkE9HSwtDmI6hk4Xlcudl4D9zVlOExyxxExNhlk8Bmau12nBpjQfhrbFRD-jGPmfCx6tcCaWpIPyGs7pLJq_Fcqn8IX7iQQXrl2FLGwteRzZvq6yVp-Ta4cUbxo3gh-JwjHLvNnGTDaBb5KazI4mGFsO3scl3Vm8Z4zjO9u1xJU-lWq/w640-h480/canal-peniel-guatemala-logroku.png"group-title="TDA DIGITAL",PENIEL TV HD  15.1.1
-https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://lafemuevemontanas.net/wp-content/uploads/2019/08/F8.png"group-title="TDA DIGITAL", LA FE MUEVE MONTAÑAS HD  15.1.2
-https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
-
-
-
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA DIGITAL",PANC TV HD 15.1 TUCUMÁN
 https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 
@@ -142,91 +127,104 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL", METRO TV HD  18.1 TUCUMÁN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvadoraadios.tv/wp-content/uploads/2022/07/ADORA-A-DIOS-1024x501.jpg"group-title="TDA DIGITAL",ADORA A DIOS TV HD  18.2.1
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="TDA DIGITAL",ENLACE HD
+https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvr4MR4agUkhkE9HSwtDmI6hk4Xlcudl4D9zVlOExyxxExNhlk8Bmau12nBpjQfhrbFRD-jGPmfCx6tcCaWpIPyGs7pLJq_Fcqn8IX7iQQXrl2FLGwteRzZvq6yVp-Ta4cUbxo3gh-JwjHLvNnGTDaBb5KazI4mGFsO3scl3Vm8Z4zjO9u1xJU-lWq/w640-h480/canal-peniel-guatemala-logroku.png"group-title="TDA DIGITAL",PENIEL TV HD
+https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lafemuevemontanas.net/wp-content/uploads/2019/08/F8.png"group-title="TDA DIGITAL", LA FE MUEVE MONTAÑAS HD
+https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://tvadoraadios.tv/wp-content/uploads/2022/07/ADORA-A-DIOS-1024x501.jpg"group-title="TDA DIGITAL",ADORA A DIOS TV HD
 https://castlive.pro:3060/stream/play.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/S9GdlP4ADlI/AAAAAAAAMiA/ctF_CkuUn8w/s1600/canal-luz.png"group-title="TDA DIGITAL",CANAL LUZ HD  18.2  ROSARIO 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/S9GdlP4ADlI/AAAAAAAAMiA/ctF_CkuUn8w/s1600/canal-luz.png"group-title="TDA DIGITAL",CANAL LUZ HD ROSARIO 
 https://g3.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://zoe.com.uy/wp-content/uploads/2020/09/mvtv-banner.png"group-title="TDA DIGITAL", MISION VIDA TV HD   18.2.1
+#EXTINF:-1 tvg-logo="https://zoe.com.uy/wp-content/uploads/2020/09/mvtv-banner.png"group-title="TDA DIGITAL", MISION VIDA TV HD
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom.png"group-title="TDA DIGITAL", DIOS TV KIDS HD  18.3.1
+#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom.png"group-title="TDA DIGITAL", DIOS TV KIDS HD
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://telebendicion.com.do/static/media/logo512.0e95deb7482e649c6465.png"group-title="TDA DIGITAL",TELEBENDICION HD  18.3.2
+#EXTINF:-1 tvg-logo="https://telebendicion.com.do/static/media/logo512.0e95deb7482e649c6465.png"group-title="TDA DIGITAL",TELEBENDICION HD
 https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
 https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w198998264.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="TDA DIGITAL",VIDATV HD  18.4
+#EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="TDA DIGITAL",VIDATV HD
 https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
 https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
 
-#EXTINF:-1 tvg-logo="https://tevevida.com/images/logo_01.png"group-title="TDA DIGITAL",TEVE VIDA HD.  18.4
+#EXTINF:-1 tvg-logo="https://tevevida.com/images/logo_01.png"group-title="TDA DIGITAL",TEVE VIDA HD
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.televida.cl/wp-content/uploads/2020/12/logo-color-ok.png"group-title="TDA DIGITAL", TELEVIDA HD  18.4.1
+#EXTINF:-1 tvg-logo="https://www.televida.cl/wp-content/uploads/2020/12/logo-color-ok.png"group-title="TDA DIGITAL", TELEVIDA HD
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.net/wp-content/uploads/2015/03/rvida.png"group-title="TDA DIGITAL",RVIDA TV HD  18.4
+#EXTINF:-1 tvg-logo="https://dominicanchannels.net/wp-content/uploads/2015/03/rvida.png"group-title="TDA DIGITAL",RVIDA TV HD
 https://ss2.domint.net:3206/rv_str/rvida/chunklist_w2041658667.m3u8
 https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?WebM3UCL
 
 
 
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png?format=1000w&content-type=image%2Fpng"group-title="TDA DIGITAL", ALIENTO VISION HD  18.4.2
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png?format=1000w&content-type=image%2Fpng"group-title="TDA DIGITAL", ALIENTO VISION HD
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo.smil/.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4UNQ-eaQbUk/YE1UUzjDO3I/AAAAAAABAn8/QbEyp6jNP7MsJ90tDqBUMDyGXQVlXxkBgCK8BGAsYHg/s512/2021-03-13.png"group-title="TDA DIGITAL",URBANCRIST 1 HD  18.4.3
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4UNQ-eaQbUk/YE1UUzjDO3I/AAAAAAABAn8/QbEyp6jNP7MsJ90tDqBUMDyGXQVlXxkBgCK8BGAsYHg/s512/2021-03-13.png"group-title="TDA DIGITAL",URBANCRIST HD
 https://5790d294af2dc.streamlock.net:443/8160/8160/chunklist_w1412141262.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="TDA DIGITAL",ALTAR TV HD  18.4.4
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="TDA DIGITAL",ALTAR TV HD
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
-#EXTINF:-1 tvg-logo="https://smotret.tv/images/logo-spirit-tv.png"group-title="TDA DIGITAL",SPIRIT TV HD  18.4.5
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/logo-spirit-tv.png"group-title="TDA DIGITAL",SPIRIT TV HD
 https://cdnlive.myspirit.tv:443/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://sublimegraciatv.com/gallery_gen/c49b986afb751882bcbee57f9c9b20d7_350x246.75.png"group-title="TDA DIGITAL", SUBLIME GRACIA TV HD   18.5. ROSARIO 
+#EXTINF:-1 tvg-logo="https://sublimegraciatv.com/gallery_gen/c49b986afb751882bcbee57f9c9b20d7_350x246.75.png"group-title="TDA DIGITAL", SUBLIME GRACIA TV HD ROSARIO 
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/chunklist_w4996659.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4VEwQWMsFTU/X6WUazGQV8I/AAAAAAAAAwU/3tkNlT-QTZUMQpo8Ex0j6C5nsPfcd-04wCK4BGAYYCw/s1600/Urbancrist2-logo.png"group-title="TDA DIGITAL", URBANCRIST WORSHIP HD  18.5.1
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4VEwQWMsFTU/X6WUazGQV8I/AAAAAAAAAwU/3tkNlT-QTZUMQpo8Ex0j6C5nsPfcd-04wCK4BGAYYCw/s1600/Urbancrist2-logo.png"group-title="TDA DIGITAL", URBANCRIST WORSHIP HD
 https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-960x540-000000.jpg"group-title="TDA DIGITAL",RESTAURANDO VIDAS TV HD   18.6
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-960x540-000000.jpg"group-title="TDA DIGITAL",RESTAURANDO VIDAS TV HD
 https://v4.tustreaming.cl/restaurandovida/index.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM"group-title="TDA DIGITAL",EXTREMA TV HD  18.7
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM"group-title="TDA DIGITAL",EXTREMA TV HD
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
 
-#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/06/alcancetv_logo-3d.png"group-title="TDA DIGITAL",ALCANCE TV HD  18.8
+#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/06/alcancetv_logo-3d.png"group-title="TDA DIGITAL",ALCANCE TV HD
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png?w=276"group-title="TDA DIGITAL",SOLIDARIA TV HD  19.0. CABA
+#EXTINF:-1 tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png?w=276"group-title="TDA DIGITAL",SOLIDARIA TV HD CABA
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvmana-argentina.ar/wp-content/uploads/2020/06/LOGO_TV_MANA_ARGENTINA_V1.png"group-title="TDA DIGITAL",TV MANA HD  19.1.1
+#EXTINF:-1 tvg-logo="https://tvmana-argentina.ar/wp-content/uploads/2020/06/LOGO_TV_MANA_ARGENTINA_V1.png"group-title="TDA DIGITAL",TV MANA HD
 https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/chunklist_w1414594741_b30048000_sleng.m3u8
 
 
@@ -235,10 +233,10 @@ https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chu
 
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png"group-title="TDA DIGITAL",EL VIVIENTE TV HD  19.2
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png"group-title="TDA DIGITAL",EL VIVIENTE TV HD
 https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO-200x200.png"group-title="TDA DIGITAL", DIOS TE VE HD  19.3
+#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO-200x200.png"group-title="TDA DIGITAL", DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 
@@ -246,7 +244,7 @@ https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 https://streaming.jtamendoza.com/hls/test.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2849-294x165-FFFFFF.jpg"group-title="TDA DIGITAL", ALELUYA TV HD  21.1.1
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2849-294x165-FFFFFF.jpg"group-title="TDA DIGITAL", ALELUYA TV HD
 https://vsrv2.az-streamingserver.com:3408/live/aleluyatvlive.m3u8
 
 
