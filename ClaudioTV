@@ -59,6 +59,10 @@ https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w1367978533_b166
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/880a23bb-ff0f-431f-a4b3-729db776b35d/5.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="ARGENTINA",MULTIVISION HD SALTA
+https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png"group-title="ARGENTINA",TV PÚBLICA 23.2 TDA HD
 https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
@@ -117,8 +121,6 @@ https://538d0bde28ccf.streamlock.net:443/live-cont.ar/pakapaka/chunklist_w111898
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="ARGENTINA",MULTIVISION HD SALTA
-https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="ARGENTINA",BAYRES TV HD
