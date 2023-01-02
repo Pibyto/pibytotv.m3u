@@ -427,10 +427,9 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com:443
 https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL",ZONDA TV HD  35.2  SAN JUAN
-https://cnnsanjuan.com:9999/zonda/zonda/chunks.m3u8
-https://cnnsanjuan.com:9999/zonda/zonda/chunks.m3u8
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA DIGITAL",MILENIUM TV HD  35.2  SALTA
+https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
+
 
 
 
@@ -451,8 +450,6 @@ https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w10793
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.Imagen1.png.65193b1d926dd70eb7e9975506c76f0a.png"group-title="TDA DIGITAL",TLS HD  36.2  SAN JUAN
-https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
-https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8?PlaylistM3UCL
 
 
 
