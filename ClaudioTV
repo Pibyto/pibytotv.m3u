@@ -2524,23 +2524,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf07
 
 
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="CINE", RUN:TIME MX
-https://stream.ads.ottera.tv/cl/200ced43-d7e0-4652-aa98-5e3d74ecd60f/1280x720_3071200_0_f.m3u8
-https://ammo-espanol-plex.amagi.tv:443/playlistR1080p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="CINE", RUN:TIME ESPAÑA
-https://stream.ads.ottera.tv/cl/4d893500-a8fc-4fec-8cc4-35c0d721c2a7/1280x720_3071200_0_f.m3u8
-
-#EXTINF:-1 tvg-logo="https://phantom-marca.unidadeditorial.es/ec1cef5d369181c22dbf897410ae2436/resize/1320/f/jpg/assets/multimedia/imagenes/2021/12/29/16407885708351.jpg"group-title="PELICULAS",NO MIRES ARRIBA
-https://i.getspace.us/cloud/s/HC3WEG9asb2Yoe3/download
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwj7KdPii0aWVvpNp4foLwayjWjxd3JQoyeJ6ynfEFYvLSEYZ5&s"group-title="PELICULAS",GREYHOUND
-http://192.168.1.36:30001/file/VP8s425g/video.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CINE", CIUDAD MAGAZINE HD
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"group-title="CINE", LAS ESTRELLAS 
 http://45.167.250.116:20023/play/a0hj/index.m3u
@@ -2557,8 +2540,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/seo-tv-novelas-bo.png"group-title="CINE",SEOTV NOVELAS HD
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Alfatv.png"group-title="CINE", ALFA TV
-https://byecableiptv.com:443/alfatv/alfatv.stream/chunklist_w1257975845.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412"group-title="CINE", SONY COMEDIA
 https://spt-comedias-1-us.samsung.wurl.tv:443/3000.m3u8
