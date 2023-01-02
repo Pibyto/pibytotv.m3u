@@ -106,8 +106,6 @@ https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2022/11/LOGOPERIODICO-600x329-1-300x165.png"group-title="TDA DIGITAL",LA VOZ TV HD  15.2  TUCUMÁN 
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nH8aHR7CsWn1Q890ZiFHA41XanzdUyHIdw&usqp=CAU"group-title="TDA DIGITAL",CORRIENTES TV HD  15.3
-https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA DIGITAL",NEO TV DIGITAL HD. 16.1  CABA
@@ -126,6 +124,11 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL", METRO TV HD  18.1 TUCUMÁN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nH8aHR7CsWn1Q890ZiFHA41XanzdUyHIdw&usqp=CAU"group-title="TDA DIGITAL",CORRIENTES TV HD
+https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="TDA DIGITAL",ENLACE HD
 https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
