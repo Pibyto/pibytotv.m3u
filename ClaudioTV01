@@ -65,7 +65,8 @@ http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA DIGITAL",TELECREATIVA HD  5.1. LANUS 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA DIGITAL",TELECREATIVA HD  5.1. LANUS
+https://panel.dattalive.com:443/8012/8012/chunklist_w1610740184.m3u8
 
 
 
