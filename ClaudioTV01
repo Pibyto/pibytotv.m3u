@@ -495,9 +495,13 @@ https://unlimited1-cl-isp.dps.live/13e/13e.smil/nimble-absolute-url-livestream1-
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",PLANETA TV HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",PLANETV HD
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w749591048.m3u8?PlaylistM3UCL
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",QUINTA REGION HD
+https://mediacpstreamchile.com:1936/8002/8002/chunklist_w1843836869.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",TV MONI HD
