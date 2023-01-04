@@ -483,6 +483,14 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL",CANAL 50 HD.  50.1  GLEW
 https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL", ENTRETENCION HD
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/nimble-absolute-url-livestream1-edge.m3u8?nimblesessionid=419169068&PlaylistM3UCL&nimbleabsoluteurl=MOlIYTshxY9HsNuJ916rtN7LhUve2ov5yxz+noj87VQfIe8Mh6qzQ%2Fvbd3Mpk24TSKcA4ognu5Ahq0N6pD39HJqB4RDWdinGcZxe9AxmFyiiSgrrlxKZTpv552TsbdeR%2FlE8I7zZKmt3mHKxiqv%2FTA==&nimbleurlhash=N1wHV9ZveqmYUL6b7G+LNA==&nimbleurliv=zNGGSIEpI0pw18t6PWneTg==
+
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL", ORIGEN TV HD
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8?PlaylistM3UCL
 
