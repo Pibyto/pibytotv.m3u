@@ -34,8 +34,6 @@ https://citysports.grupocity.net.ar:3469/live/citysportslive.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="TDA DIGITAL",TV+ HD  2.12  ROSARIO
-https://streamcasthd.com:19360/tvmas/tvmas.m3u8
-https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/72ca7f65-5ff8-468a-b8f1-3ad9120e5cb8-profile_image-70x70.png"group-title="TDA DIGITAL",EL URBANO TV HD   2.13
@@ -68,7 +66,7 @@ http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA DIGITAL",TELECREATIVA HD  5.1. LANUS 
-https://panel.dattalive.com/8012/8012/playlist.m3u8
+
 
 
 
@@ -197,7 +195,7 @@ https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo.smil/.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4UNQ-eaQbUk/YE1UUzjDO3I/AAAAAAABAn8/QbEyp6jNP7MsJ90tDqBUMDyGXQVlXxkBgCK8BGAsYHg/s512/2021-03-13.png"group-title="TDA DIGITAL",URBANCRIST HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4UNQ-eaQbUk/YE1UUzjDO3I/AAAAAAABAn8/QbEyp6jNP7MsJ90tDqBUMDyGXQVlXxkBgCK8BGAsYHg/s512/2021-03-13.png"group-title="TDA DIGITAL",UrbancrisTV HD
 https://5790d294af2dc.streamlock.net:443/8160/8160/chunklist_w1412141262.m3u8?WebM3UCL
 
 
