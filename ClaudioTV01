@@ -265,10 +265,11 @@ https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png"group-title="TDA DIGITAL", TDC ONLINE HD  21.9  SANTA FE
+#EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png"group-title="TDA DIGITAL", TDC ONLINE HD  21.7 SANTA FE
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://www.rtnweb.gob.ar/tv/img/logo.png"group-title="TDA DIGITAL", RTN HD   21.9  NEUQUÉN 
+http://media.neuquen.gov.ar:80/rtn/television/chunklist_w1507615126.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png"group-title="TDA DIGITAL", ENCUENTRO HD  22.1
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/encuentro/chunklist_w1399350081.m3u8
