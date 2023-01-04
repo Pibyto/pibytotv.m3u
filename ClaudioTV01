@@ -485,6 +485,18 @@ https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",TV MONI HD
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w859990179.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",PLANETA TV KIDS
+https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TDA DIGITAL", TELEFUTURO HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/7529
 
