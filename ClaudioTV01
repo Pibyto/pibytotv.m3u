@@ -492,12 +492,17 @@ https://unlimited1-cl-isp.dps.live/13e/13e.smil/nimble-absolute-url-livestream1-
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL", ORIGEN TV HD
+https://tv.streaming-chile.com:1936/origentv/origentv/chunklist_w1639405968.m3u8?PlaylistM3UCL
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",PLANETV HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",MOVIE HD
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w749591048.m3u8?PlaylistM3UCL
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",SAN PEDRO HD
+https://stmv2.zcasthn.com.br:443/marcosvillegas/marcosvillegas/chunklist_w1557704139.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",QUINTA REGION HD
