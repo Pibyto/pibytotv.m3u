@@ -65,6 +65,10 @@ http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.canal4eldorado.com/wp-content/uploads/2016/10/canal4-head400.png?resize=400%2C400"group-title="TDA DIGITAL",EL DORADO TV HD    MISIONES
+https://stream.arcast.com.ar:443/canal4eldorado/canal4eldorado/chunklist_w1079865425.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA DIGITAL",TELECREATIVA HD  5.1. LANUS
 https://panel.dattalive.com:443/8012/8012/chunklist_w1610740184.m3u8
