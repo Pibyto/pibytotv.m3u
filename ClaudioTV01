@@ -66,6 +66,7 @@ http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.canal4eldorado.com/wp-content/uploads/2016/10/canal4-head400.png?resize=400%2C400"group-title="TDA DIGITAL",EL DORADO TV HD  4.3   MISIONES
+https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
 https://stream.arcast.com.ar:443/canal4eldorado/canal4eldorado/chunklist_w1079865425.m3u8
 
 
@@ -444,7 +445,8 @@ https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA DIGITAL",MILENIUM TV HD  35.3 SALTA
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
 
-
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3tmBSbJxRC4/X60f9a3rIGI/AAAAAAAAAQc/fF8IH8yVOA4RzCac-jUKBR7-BFVdjiTOwCK4BGAYYCw/s400/Sin%2Bt%25C3%25ADtulo-logo%2Bnuevo%2Btl%2B2%2Bestrella.png"group-title="TDA DIGITAL",TL ESTRELLA HD   35.3
+https://stmvideo2.livecastv.com:443/telestrella/telestrella/chunklist_w1206591778.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/60ba654d0cf443090aa41804.png"group-title="TDA DIGITAL",ASPEN HD  35.3
