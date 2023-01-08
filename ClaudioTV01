@@ -592,22 +592,27 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 #EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="TDA DIGITAL", GDM HD
 https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5S4e_jY1cJrTk2wt1hpUbCuRxwOo2pe0jUQ&usqp=CAU"group-title="TDA DIGITAL",CINECLUB HD
+https://servilive.com:3176/live/cineclublive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="TDA DIGITAL",ORBIT TV HD
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="TDA DIGITAL",SAN ISIDRO TV
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="TDA DIGITAL",TELEMAX RD
 https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5S4e_jY1cJrTk2wt1hpUbCuRxwOo2pe0jUQ&usqp=CAU"group-title="TDA DIGITAL",CINECLUB HD
-https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_eKpsDywpXZrjVPQ9rBTiJ13uIXh6yFL73Q&usqp=CAU"group-title="TDA DIGITAL", TELEXIMA HD
+https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
+
+#EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png"group-title="TDA DIGITAL",SAN ISIDRO TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2022/03/Logo-imagen-Universal-TV-Horizontal-512-x-99.png"group-title="TDA DIGITAL",IU TV HD
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
