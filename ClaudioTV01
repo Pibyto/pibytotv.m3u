@@ -158,6 +158,10 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/94368c32-7230-4ac2-9a50-6adc946e66e4/2.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/Claro-Vision-Dominicana.jpeg"group-title="TDA DIGITAL",CLARO TELEVISIÓN
+https://cdn2.streamgato.us/%20ctvd/%20ctvd/playlist.m3u8?DVR
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nH8aHR7CsWn1Q890ZiFHA41XanzdUyHIdw&usqp=CAU"group-title="TDA DIGITAL",CORRIENTES TV HD
 https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
@@ -560,6 +564,13 @@ https://stmv2.zcasthn.com.br:443/marcosvillegas/marcosvillegas/chunklist_w155770
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",EGM HD
 https://paneltv.online:1936/8186/8186/chunklist_w1950321636.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="TDA DIGITAL",MI TV HD
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=278f424ae1d8fd1af0a6785558eb310b3f24f5fe4cad421079c510156b260500&exp=1649376050
+https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
+
+
+#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="TDA DIGITAL",SOMOS DEL ESTE HD
+https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 
 
@@ -611,6 +622,9 @@ https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/DA2asU0w91KyOcHQWUFEtBECgv-NG1pUtRrWw78Negq5uH6gEeLaaxTJkxe8f9CNTDHZJHLfpJM=s900-c-k-c0x00ffffff-no-rj"group-title="TDA DIGITAL",URANIO TV HD
+https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
+https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
 
 
 
