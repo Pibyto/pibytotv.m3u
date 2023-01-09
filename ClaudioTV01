@@ -41,6 +41,9 @@ https://citysports.grupocity.net.ar:3469/live/citysportslive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/72ca7f65-5ff8-468a-b8f1-3ad9120e5cb8-profile_image-70x70.png"group-title="TDA DIGITAL",EL URBANO TV HD
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/REShnQtzUX_bicawR4XV5xL7e4GU7PnRAWroxGAgCX-bwdHnmDnZsX-dxIZPmdMCzNI"group-title="TDA DIGITAL", SANAGASTA TV HD  2.13
+https://stmvideo1.livecastv.com:443/canal2/canal2/chunklist_w867034431.m3u8?PlaylistM3UCL
+
 
 
 
