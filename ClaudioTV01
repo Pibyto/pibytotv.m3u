@@ -53,7 +53,8 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtEEuBTm8Q3PeB6BIajp34T7HZZ
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8?PlaylistM3UCL
 
 
-
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/2308bf_055b498a56444a978cf2caae74dd25f3~mv2.png/v1/fill/w_258,h_410,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/tv%20dos%20azul%20(1).png"group-title="TDA DIGITAL", CANAL 2 SD 2.14  SALTA
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dto7y5p0mql2j.cloudfront.net/1660769433762.logoc2.png"group-title="TDA DIGITAL", CANAL 2 HD  2.15 MISIONES
