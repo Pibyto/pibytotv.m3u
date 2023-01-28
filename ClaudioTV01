@@ -95,6 +95,11 @@ https://stream.arcast.com.ar:443/canal4eldorado/canal4eldorado/chunklist_w107986
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://canal5delpueblo.com.ar/wp-content/uploads/2022/06/cincodelpueblo_logo.png"group-title="TDA DIGITAL",CANAL 5  DEL PUEBLO TV  5.3  Rosario 
+https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU"group-title="TDA DIGITAL", CANAL 34 HD  6.11 SAN JUAN 
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
@@ -120,6 +125,12 @@ https://stream.arcast.live:443/ahora/ahora/chunklist_w1967933953.m3u8?PlaylistM3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA DIGITAL",10 HD  10.1  MDP
 http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png"group-title="TDA DIGITAL",EL 10 TV   10.2   SALTA
+https://restreamer.el10tv.com:443/memfs/725003c4-79c2-4565-8311-f429db4f7777_var0.m3u8?session=3znEcinJ3HUUYaGPJX99dd
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL", CANAL  12 HD  12.1  SALTA
