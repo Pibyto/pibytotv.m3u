@@ -493,8 +493,9 @@ http://streamgo.vip:8008/cristian2022/cristian2022/158968
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL", CANAL 11 HD  34.1
-https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1672679383~acl=%2f*~data=hdntl~hmac=02af21f2e2d0e8b4bc34b1fcc1928323ed56511770393e3194c211acd9df5a2a/master-mtlf.m3u8
-https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1672679113~acl=%2f*~data=hdntl~hmac=f0cbafdef18827c774a269cf83b161eb1723b3bb378e035ba9fc7a458d5bfc98/master-mtlf.m3u8   
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1674906650~exp=1674913850~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=a3aece9f30bb1e6b19b9619391525fb37386dd406b6264975a9d05c5a11d25b8
+
+
 
 
 
