@@ -226,6 +226,9 @@ https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
 https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w198998264.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2853-960x540-000000.jpg"group-title="TDA DIGITAL",CLAROVISION TV
+https://cdn2.streamgato.us/clarovision/clarovision/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="TDA DIGITAL",VIDATV HD
 https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
@@ -245,9 +248,16 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 https://ss2.domint.net:3206/rv_str/rvida/chunklist_w2041658667.m3u8
 https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/ca2e3293-bb4b-4c20-928a-c9b5e47f0058/TU%20UNIVERSO%20TV%20LOGO%20NUEVO.png"group-title="TDA DIGITAL",TU UNIVERSO TV
+https://5bf8041cb3fed.streamlock.net:443/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w545620712.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
 
 #EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png"group-title="TDA DIGITAL",BENDICION TV HD
 https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://canaltelefamilia.com/wp-content/uploads/2021/02/Logo-Blanco.png"group-title="TDA DIGITAL", TELEFAMILIA HD
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJXvjsVqWXPf1rfZ845B8DGyWBm3CwzXJDHg&usqp=CAU"group-title="TDA DIGITAL", CRISTIANA TV HD
