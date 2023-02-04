@@ -1159,6 +1159,10 @@ tX2xlbj0xMA==&1
 http://190.83.119.67:8000/play/a0ou/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/HBO_Signature_2014_%28Stacked%29.svg/revision/latest?cb=20210113151115&path-prefix=es"group-title="TDA DIGITAL",HBO SIGNATURE HD
+http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3197
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png"group-title="TDA DIGITAL",HBO XTREME
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/44341
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/44341
