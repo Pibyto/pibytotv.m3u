@@ -103,6 +103,11 @@ https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/canal6mardelplata.com.ar/wp-content/uploads/2022/12/Logo-TRANSPARENTE.png?fit=1042%2C1103"group-title="TDA DIGITAL",CANAL 6 HD  6.1  MAR DEL PLATA
+https://panel.dattalive.com:443/8166/8166/playlist.m3u8?PlaylistM3UCL
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU"group-title="TDA DIGITAL", CANAL 34 HD  6.11 SAN JUAN 
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
