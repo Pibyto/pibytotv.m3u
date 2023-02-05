@@ -983,13 +983,13 @@ https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_05/large_es.png.36ee9377a3b8a9c22b519d73de03d6c9.png"group-title="TDA DIGITAL", ESPN PREMIUM HD
-http://streamgo.vip:8008/cristian2022/cristian2022/158974
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="TDA DIGITAL", TNT SPORTS HD
-http://streamgo.vip:8008/cristian2022/cristian2022/158970
+
 
 
 
@@ -1024,7 +1024,6 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/1090739
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3268
 
 #EXTINF:-1 tvg-logo="https://i.blogs.es/08b300/paramount-1-/1366_2000.jpeg"group-title="TDA DIGITAL",PREMIER LIGUE
-http://stitcher-ipv4.pluto.tv:80/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9livestitch/2977158/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-cc833cff-df44-4c48-8f56-d4e625d7f2b0&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
 
 
 
@@ -1063,7 +1062,6 @@ http://linear-409.frequency.stream:80/dist/vix/409/hls/master/playlist_1920x1080
 http://streamgo.vip:8008/cristian2022/cristian2022/147315
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png"group-title="TDA DIGITAL",GOLDEN 2
-http://iptvcanales.xyz/canales/vix/406/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es"group-title="TDA DIGITAL",GOLDEN PLUS
@@ -1073,16 +1071,17 @@ http://speedwk.site:80/richie1234/richie1234/94122.ts
 http://daleplay.club:8080/eduardo2022/eduardo2022/156155
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="TDA DIGITAL",GOLDEN EDGE
-http://iptvcanales.xyz/canales/vix/407/playlist.m3u8
-http://speedwk.site:80/richie1234/richie1234/103947.ts
-http://streamgo.vip:8008/cristian2022/cristian2022/147318
-http://streamgo.vip:8008/cristian2022/cristian2022/147317
+
+
+
+
 
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest?cb=20201202010915&path-prefix=es"group-title="TDA DIGITAL",GOLDEN PREMIER
-http://streamgo.vip:8008/cristian2022/cristian2022/147320
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/709
+
+
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png"group-title="TDA DIGITAL", AZTECA UNO HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3216
@@ -1091,7 +1090,6 @@ http://iptvcanales.xyz/canales/live/219/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png"group-title="TDA DIGITAL",BITME HD
-http://iptvcanales.xyz/canales/vix/401/playlist.m3u8
 http://streamgo.vip:8008/cristian2022/cristian2022/147186
 
 
