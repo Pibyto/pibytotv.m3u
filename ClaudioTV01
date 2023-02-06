@@ -219,6 +219,32 @@ https://live.seo.tv.bo/live/5SEO.m3u8
 https://live.seo.tv.bo/live/6SEO.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.cinerama.png.e684b73e1d9dfde36bb4d99782c4eade.png"group-title="TDA DIGITAL",CINERAMA HD
+https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAMu-FFZ8m8xPmmKt4CFB-DiIbFMHuELmOTQ&usqp=CAU"group-title="TDA DIGITAL",RETROXTV
+https://5bf8041cb3fed.streamlock.net:443/retroxtv/retroxtv/chunklist_w1004812173.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4Zte-xcsHgxhr5L3FIM603RaWUu1_DwZyQ&usqp=CAU"group-title="TDA DIGITAL",VIWIX 1
+https://s1.tvdatta.com:3457/hybrid/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4Zte-xcsHgxhr5L3FIM603RaWUu1_DwZyQ&usqp=CAU"group-title="TDA DIGITAL", VIWIX 2
+https://s1.tvdatta.com:3172/hybrid/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4Zte-xcsHgxhr5L3FIM603RaWUu1_DwZyQ&usqp=CAU"group-title="TDA DIGITAL", VIWIX 3
+https://s1.tvdatta.com:3402/hybrid/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4Zte-xcsHgxhr5L3FIM603RaWUu1_DwZyQ&usqp=CAU"group-title="TDA DIGITAL", VIWIX 4
+https://s1.tvdatta.com:3849/hybrid/play.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nH8aHR7CsWn1Q890ZiFHA41XanzdUyHIdw&usqp=CAU"group-title="TDA DIGITAL",CORRIENTES TV HD
 https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
 
