@@ -263,11 +263,6 @@ https://5e85d90130e77.streamlock.net:443/6020/6020/chunklist_w1538041154.m3u8
 https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/chunklist_w322392269.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2966-294x165-FFFFFF.jpg"group-title="TDA DIGITAL", CELESTIAL TV
-https://grupocibermedios.com:3870/live/celestialtvlive.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="TDA DIGITAL",ENLACE HD
 https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
@@ -1388,6 +1383,9 @@ https://servidor2.hostradios.com/proxy/radiojerusalen?mp=/stream&1623615876184
 
 #EXTINF:-1 tvg-logo="https://reydereyes.com.ar/wp-content/uploads/2020/10/rdr_512.png"group-title="RADIO",FM GOSPEL  88.1
 https://server.ohradio.com.ar/8092/stream
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DKBmV_Il7KnMbCalyCInYP_PLcd7_Cj2EkM6EfUaSLE02ZyzXKZqdmPXYDiwYe2wSkc"group-title="RADIO", FM VISION 92.1
+https://ssl.radiosnethosting.com/index.php?port=9850
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1X6RxPx3Sl7WR8GzI2_Bc169uRbXT0AsnaQ&usqp=CAU"group-title="RADIO",AMA 92.3 FM
