@@ -1404,10 +1404,6 @@ http://server.laradio.online:8068/live?1639913424164
 https://genexservicios.com:2000/stream/mision2000web?1640115825712
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewuT7c34WnY2CrTaoyPMf6QT0icLGgBVrag&usqp=CAU"group-title="RADIO", VISION DE FUTURO
-https://panel.nexolife.ar/stream/RadioVDF
-
-
 #EXTINF:-1 tvg-logo="https://cvclavoz.com/wp-content/uploads/2019/11/LogoLion4-1.png"group-title="RADIO", CVCLAVOZ
 https://ic.streann.com/cvaudio128
 
@@ -1420,6 +1416,48 @@ https://supresenciaradio.out.airtime.pro/supresenciaradio_a
 
 #EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/2021-12/radiopeniel-c.png"group-title="RADIO", RADIO PENIEL 98.3 FM
 http://69.175.88.11:8045/stream
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSClZtWFcpoGLfmMnRUNSJ0Gd8eu67zKQSPOw&usqp=CAU"group-title="RADIO", FM SHALOM 107.1 MENDOZA
+https://panel.nexolife.ar/stream/Shalom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
