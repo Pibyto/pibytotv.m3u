@@ -1421,6 +1421,13 @@ http://69.175.88.11:8045/stream
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSClZtWFcpoGLfmMnRUNSJ0Gd8eu67zKQSPOw&usqp=CAU"group-title="RADIO", FM SHALOM 107.1 MENDOZA
 https://panel.nexolife.ar/stream/Shalom
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1v1Q6MZW12RUQwABVvilMYH2iAOzByjcVfF4Wobqh3863XPgVfRcoTAny_DqZ72haZM"group-title="RADIO", FM CONECTA2
+https://server6.hostradios.com:8146/;
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1DL_SWXd4XQdVpm7NLIUUaspBJphYMFu_g9xOfGUD&s"group-title="RADIO",FM VISION DE FUTURO
+https://panel.nexolife.ar/stream/RadioVDF
+
 
 
 
