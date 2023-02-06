@@ -255,7 +255,12 @@ https://vsd62.mycdn.me:443/hls/1698824391191.m3u8/sig/LgUprBpJj5U/expires/167365
 https://vsd62.mycdn.me:443/hls/1698824391191.m3u8/sig/DpVjJZk9gW0/expires/1673390191755/srcIp/186.132.115.9/urls/45.136.22.51/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.io/GrAoiKg_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TDA DIGITAL",OASIS CHANNEL
+https://5e85d90130e77.streamlock.net:443/6020/6020/chunklist_w1538041154.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a82c91d81f626cc0d417d5bd50250a7a.webp"group-title="TDA DIGITAL", JEHOVÁ TV
+https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/chunklist_w322392269.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="TDA DIGITAL",ENLACE HD
