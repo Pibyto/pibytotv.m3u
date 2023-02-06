@@ -1445,6 +1445,20 @@ https://panel.nexolife.ar/stream/RadioVDF
 
 
 
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/bit-photos/large/9963004.jpeg"group-title="MP3 MUSIC",BARAK - CON PODER
+https://mismp3cristianos.net/wp-content/uploads/2019/11/Con-Poder.mp3
+
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/bit-photos/large/9963004.jpeg"group-title="MP3 MUSIC",BARAK - VEN ESPÍRITU SANTO
+https://mismp3cristianos.net/wp-content/uploads/2019/11/Ven-Espiritu-Santo.mp3
+
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/bit-photos/large/9963004.jpeg"group-title="MP3 MUSIC",BARAK - TU ERES REY
+https://mismp3cristianos.net/wp-content/uploads/2019/11/Tu-eres-Rey.mp3
+
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/bit-photos/large/9963004.jpeg"group-title="MP3 MUSIC",BARAK - TRAE EL CIELO AQUÍ
+https://mismp3cristianos.net/wp-content/uploads/2019/11/Trae-el-Cielo-Aqui.mp3
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mRf2vIlmdqc/maxresdefault.jpg"group-title="MP3 MUSIC", HILLSONG - ABRE MIS OJOS MP3
@@ -1549,14 +1563,14 @@ https://musicacristiana.com.ar/musica/cristiana/julio%20melgar/Julio%20Melgar%20
 https://musicacristiana.com.ar/musica/cristiana/julio%20melgar/Julio%20Melgar%20-%20En%20Tu%20Presencia.mp3
 
 
-#EXTINF:-1 tvg-logo="https://lacatapulta.net/wp-content/uploads/2011/06/Abel-Zavala.jpg"group-title="MP3 MUSIC",ABEL ZAVALA - JESÚS MI FIEL AMIGO 
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/fmc/image/upload/c_scale,w_200/v1569265058/abel-zavala/guardame-en-tu-presencia.jpg"group-title="MP3 MUSIC",ABEL ZAVALA - JESÚS MI FIEL AMIGO 
 https://musicacristiana.com.ar/musica/cristiana/abel%20zavala/Abel%20Zavala%20-%20Jesus%20mi%20fiel%20Amigo.mp3
 
-#EXTINF:-1 tvg-logo="https://lacatapulta.net/wp-content/uploads/2011/06/Abel-Zavala.jpg"group-title="MP3 MUSIC",ABEL ZAVALA - A TI SEA LA GLORIA
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/fmc/image/upload/c_scale,w_200/v1569265058/abel-zavala/guardame-en-tu-presencia.jpg"group-title="MP3 MUSIC",ABEL ZAVALA - A TI SEA LA GLORIA
 https://musicacristiana.com.ar/musica/cristiana/abel%20zavala/Abel%20Zavala%20-%20A%20Ti%20Sea%20La%20Gloria%20Dueto%20Marcela%20Gandara.mp3
 
 
-#EXTINF:-1 tvg-logo="https://lacatapulta.net/wp-content/uploads/2011/06/Abel-Zavala.jpg"group-title="MP3 MUSIC",ABEL ZAVALA - ENAMORAME
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/fmc/image/upload/c_scale,w_200/v1569265058/abel-zavala/guardame-en-tu-presencia.jpg"group-title="MP3 MUSIC",ABEL ZAVALA - ENAMORAME
 https://musicacristiana.com.ar/musica/cristiana/mp3%20cristiano/Abel%20Zavala%20-%20Enamorame.mp3
 
 
