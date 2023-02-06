@@ -1435,6 +1435,8 @@ https://panel.nexolife.ar/stream/RadioVDF
 
 
 
+#######################################( MP3 )#######################################################( MP3 )#############################################
+########################################################################################################################################################$
 
 
 
@@ -1445,7 +1447,27 @@ https://panel.nexolife.ar/stream/RadioVDF
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mRf2vIlmdqc/maxresdefault.jpg"group-title="MP3 MUSIC", HILLSONG - ABRE MIS OJOS MP3
+https://musicacristiana.com.ar/musica/cristiana/hillsong/Hillsong%20-%20Abre%20Mis%20Ojos%20(Open%20My%20Eyes).mp3
 
+
+#EXTINF:-1 tvg-logo="https://reydereyes.com.ar/wp-content/uploads/2020/03/corona_512.jpg"group-title="MP3 MUSIC",REY DE REYES - A EL SEA LA GLORIA MP3
+https://musicacristiana.com.ar/musica/cristiana/grupo%20rey%20de%20reyes/Grupo%20Rey%20De%20Reyes%20-%20A%20Dios%20Dale%20Gloria.mp3
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1cZwqWoGyBU/mqdefault.jpg"group-title="MP3 MUSIC",COALO ZAMORANO MP3
+https://musicacristiana.com.ar/musica/cristiana/coalo%20zamorano/Coalo%20Zamorano%20-%20A%20ti%20Sea%20La%20Gloria.mp3
+
+
+
+#EXTINF:-1 tvg-logo="https://www.ceenaija.com/wp-content/uploads/2022/05/Christine-DClario-Rey.jpeg"group-title="MP3 MUSIC",CHRISTINE D CLARIO MP3
+https://musicacristiana.com.ar/musica/cristiana/christine%20d%20clario/Christine%20D%20Clario%20-%207mo%20Sentido.mp3
+
+
+
+#EXTINF:-1 tvg-logo="https://akamai.sscdn.co/uploadfile/letras/fotos/e/d/0/2/ed02a014edf522d02838aba24d519ba7.jpg"group-title="MP3 MUSIC", MARCOS BRUNET - LO MEJOR MP3
+https://musicacristiana.com.ar/musica/cristiana/marcos%20brunet/Marcos%20Brunet%20-%20Atrae%20Mi%20Corazon.mp3
 
 
 
