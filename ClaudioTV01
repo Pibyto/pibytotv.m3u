@@ -1360,8 +1360,53 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3082
 
 
 
+######################################( RADIO )###############################################( RADIO )#################################################
+#######################################################№##########################################################$$$###################################
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio16869_1536324670.png"group-title="RADIO", AM 1460 JERUSALEN  MONTE GRANDE
+https://servidor2.hostradios.com/proxy/radiojerusalen?mp=/stream&1623615876184
+
+
+
+#EXTINF:-1 tvg-logo="https://reydereyes.com.ar/wp-content/uploads/2020/10/rdr_512.png"group-title="RADIO",FM GOSPEL  88.1
+https://server.ohradio.com.ar/8092/stream
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1X6RxPx3Sl7WR8GzI2_Bc169uRbXT0AsnaQ&usqp=CAU"group-title="RADIO",AMA 92.3 FM
+https://panel.nexolife.ar/stream/laradio923?1623598756622
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FZJCpy3KFKg/Xbd_U7HKzhI/AAAAAAAAJDI/TX8hlbZixYkgNytLKg0nis3uGOmHQj3MgCLcBGAsYHQ/s1600/estacion-luz-103-5.png"group-title="RADIO"FM ESTACIÓN LUZ 103.5 SAN RAFAEL MZA
+https://sonic.dattalive.com:10890/stream
+
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnBvdGVuY2lhd2ViLmFwcGZtbWlyb2NhX3NjcmVlbl8wXzE1NjcwMzI4NDlfMDUz/screen-0.jpg?fakeurl=1&type=.jpg"group-title="RADIO", FM MI ROCA
+http://server.laradio.online:8068/live?1639913424164
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCdjk6iGSpo4etDU90YoBrF0sqFVjRTjla8Q&usqp=CAU"group-title="RADIO",VISÍON2000
+https://genexservicios.com:2000/stream/mision2000web?1640115825712
+
+
+#EXTINF:-1 tvg-logo="https://cvclavoz.com/wp-content/uploads/2019/11/LogoLion4-1.png"group-title="RADIO", CVCLAVOZ
+https://ic.streann.com/cvaudio128
+
+
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000314606907-84duua-original.jpg"group-title="RADIO", RADIO EL LUGAR DE SU PRESENCIA
+https://supresenciaradio.out.airtime.pro/supresenciaradio_a
+
+
+
+#EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/2021-12/radiopeniel-c.png"group-title="RADIO", RADIO PENIEL 98.3 FM
+http://69.175.88.11:8045/stream
 
 
 
