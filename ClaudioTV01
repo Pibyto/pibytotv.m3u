@@ -671,6 +671,16 @@ https://stmv2.zcasthn.com.br:443/marcosvillegas/marcosvillegas/chunklist_w155770
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",EGM HD
 https://paneltv.online:1936/8186/8186/chunklist_w1950321636.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png"group-title="TDA DIGITAL",OROMAR TV
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png"group-title="TDA DIGITAL",ECUAVISA
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream/6089d0a7f61e11081f8c832a/publish/media_500.m3u8?aid=60214bbd7267582b2467eff9&pid=0atdIJs72MZwOXwZLKVxwhWpQyzHI3Cj&sid=CUji7b4Nncc0TBY9N4EHRWyfXlB3BWQO&uid=JAt0u3W3pSbTsLeMmoftrDcK9yhszYaZ&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1675826747788&ot=npZJW8Hc5xpg123vjx8nLg&proto=https&pz=us
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="TDA DIGITAL",MI TV HD
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=278f424ae1d8fd1af0a6785558eb310b3f24f5fe4cad421079c510156b260500&exp=1649376050
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
