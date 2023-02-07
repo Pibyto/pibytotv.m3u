@@ -1429,6 +1429,24 @@ https://server6.hostradios.com:8146/;
 https://panel.nexolife.ar/stream/RadioVDF
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXux2BMsrlfJmWSH6CB6JOAtgy8nc0e2kaQw&usqp=CAU"group-title="RADIO",FM SION 103.1
+https://player.livecastradio.com/proxy/7076/stream/1/
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ea_7GV-QDlTqwU05AgVlu2-TCnqKG889Zw&usqp=CAU"group-title="RADIO", FM VIDA 105.1 MENDOZA
+http://genexservicios.com:8006/;stream/1
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1461,7 +1479,7 @@ https://mismp3cristianos.net/wp-content/uploads/2019/11/Tu-eres-Rey.mp3
 https://mismp3cristianos.net/wp-content/uploads/2019/11/Trae-el-Cielo-Aqui.mp3
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mRf2vIlmdqc/maxresdefault.jpg"group-title="MP3 MUSIC", HILLSONG - ABRE MIS OJOS MP3
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mRf2vIlmdqc/maxresdefault.jpg"group-title="MP3 MUSIC", HILLSONG - ABRE MIS OJOS
 https://musicacristiana.com.ar/musica/cristiana/hillsong/Hillsong%20-%20Abre%20Mis%20Ojos%20(Open%20My%20Eyes).mp3
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mRf2vIlmdqc/maxresdefault.jpg"group-title="MP3 MUSIC", HILLSONG - TU AMOR ES COMO UN FUEGO 
@@ -1482,13 +1500,6 @@ https://musicacristiana.com.ar/musica/cristiana/hillsong/Hillsong%20-%20Vida%20T
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mRf2vIlmdqc/maxresdefault.jpg"group-title="MP3 MUSIC", HILLSONG - VIVO ESTAS
 https://musicacristiana.com.ar/musica/cristiana/hillsong/Hillsong%20-%20Vivo%20Estas%20(Live).mp3
-
-
-
-
-#EXTINF:-1 tvg-logo="https://reydereyes.com.ar/wp-content/uploads/2020/03/corona_512.jpg"group-title="MP3 MUSIC",REY DE REYES - A EL SEA LA GLORIA MP3
-https://musicacristiana.com.ar/musica/cristiana/grupo%20rey%20de%20reyes/Grupo%20Rey%20De%20Reyes%20-%20A%20Dios%20Dale%20Gloria.mp3
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1cZwqWoGyBU/mqdefault.jpg"group-title="MP3 MUSIC",COALO ZAMORANO - A TI SEA LA GLORIA 
