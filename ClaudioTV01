@@ -571,8 +571,7 @@ http://streamgo.vip:8008/cristian2022/cristian2022/158968
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL", CANAL 11 HD  34.1
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1675758649~exp=1675765849~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=85d50ca6af4f1737247dc3441d445b9f2d0f1bf91afee9f9a1a7b160f4d99eae
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1674906650~exp=1674913850~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=a3aece9f30bb1e6b19b9619391525fb37386dd406b6264975a9d05c5a11d25b8
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1676205846~acl=%2f*~data=hdntl~hmac=1a6fbd8d43a44bf83eac696677614f7f631b71d72b03b9f3951412a40d633cb6/master-mtlf.m3u8
 
 
 
@@ -580,16 +579,11 @@ https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA DIGITAL",EL NUEVE HD  35.1
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/7f380d3b-1315-4bfa-9979-9b2bdf5ed3a7/5.m3u8
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com:443/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/../../../../../../manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/2e0f8ee3-a3ce-4d28-8fd2-1e9b35ffaa47/5.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="TDA DIGITAL",MULTIVISION HD  SALTA
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
-https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
-https://panel.dattalive.com:443/8250/8250/playlist.m3u8?PlaylistM3UCL
-https://panel.dattalive.com:443/8250/8250/chunklist_w942791591.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA DIGITAL",MILENIUM TV HD  35.3 SALTA
