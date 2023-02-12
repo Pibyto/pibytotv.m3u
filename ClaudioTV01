@@ -279,6 +279,10 @@ https://v4.tustreaming.cl/restaurandovida/index.m3u8?ads.content_page_url=https%
 https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
 https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w198998264.m3u8
 
+#EXTINF:-1 tvg-logo="https://hosannavision.com/site/assets/files/1/hosanna-logo.png"group-title="TDA DIGITAL",HOSANNAVISION
+https://1206618505.rsc.cdn77.org:443/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png"group-title="TDA DIGITAL",BENDICION TV HD
 https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
