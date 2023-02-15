@@ -207,6 +207,8 @@ https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1780444006.m3u8?PlaylistM3U
 https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmd4KWnH6lig0C_XZNQpM6jVCt5fIfD-zQUg&usqp=CAU"group-title="TDA DIGITAL",TV NOVA PLAY
+https://srv4.zcast.com.br:443/tvnovaplay/tvnovaplay/chunklist_w1790577192.m3u8
 
 
 
