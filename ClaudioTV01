@@ -734,6 +734,16 @@ https://paneltv.online:1936/8186/8186/chunklist_w1950321636.m3u8?PlaylistM3UCL
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/diseno_sin_titulo_17.png"group-title="TDA DIGITAL",FLOU CINE HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStJqu8Ovyv-2CWDJZX8yMCuEl60W0hBIEWZA&usqp=CAU"group-title="TDA DIGITAL",CINEPIX
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg--w8W05h6FHNCXXlUWhnqfTv2EFdt_z580BIcoY9gRO2uAQcl4olRVW86dWK8hEotMqgRxPpCvyMJP4PyZS4ocS2zgDO1XVOWGJCCnGJoHypOP182WAt5mPf3ZLaLurwWXJfqO2DSXsw0Tg0sU5-s_QTe9YPbOjx7HIg33og1uJsahn21rqLLTrn_/w1200-h630-p-k-no-nu/CLASSIQUE%20TV.webp"group-title="TDA DIGITAL",CLASSIQUE TV
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 
 
 
