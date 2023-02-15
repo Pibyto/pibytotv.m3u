@@ -248,6 +248,9 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 https://5bf8041cb3fed.streamlock.net:443/retroxtv/retroxtv/chunklist_w1004812173.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png"group-title="TDA DIGITAL",UCV TV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1863098553/45171_400x400.jpg"group-title="TDA DIGITAL",SOMOS CINE
 https://rtvelivestream.akamaized.net:443/hls/nxrtgolumi/music/stream1_1054_1850.m3u8
