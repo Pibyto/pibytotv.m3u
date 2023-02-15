@@ -316,6 +316,9 @@ http://185.36.211.142:8080/tmp_hls/betsaida/index.m3u8
 https://tv.clientetvstudio.net:3158/hybrid/play.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/7ea06393d56d6c5dee7664a46ae15c29.png"group-title="TDA DIGITAL",VIDA NUEVA TV
+https://mediacpstreamchile.com:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="TDA DIGITAL",VIDATV HD
 https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
