@@ -128,6 +128,10 @@ https://panel.dattalive.com:443/8076/8076/chunklist_w931708659.m3u8
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://bolivartv.com.ar/wp-content/uploads/2022/03/logo2.png"group-title="TDA DIGITAL",BOLIVAR TV
+https://stmvideo3.livecastv.com/bolivartelevision/bolivartelevision/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyJVKGWk0vHNvIEhxrvdteHT1LsKMdFrizb9J_zuVItmyaeei-QbzqE0XKfZXEZjAyoLweXecjnSu6eYtEwuI5W_S-MKyxDGFnfXT1gxPM3thM7W9krwJLUro07Rj3NR9hjHBKtjHW5ajR4I7npNYTyTvPYrnATMgagbbGFL3Qc9_LNPfmGJhzwgt9/s200/canal9-litoral.png"group-title="TDA DIGITAL", CANAL 9 HD  9.3   LITORAL
 https://stream.arcast.live:443/ahora/ahora/chunklist_w1967933953.m3u8?PlaylistM3UCL
@@ -263,6 +267,11 @@ https://583ed2f226ac2.streamlock.net/49/stream/chunklist_w1954002463.m3u8
 https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c32e4c6d73b63dd532a48dd4e17f634.webp"group-title="TDA DIGITAL", PRESENCIA TV HD
+https://tv.clientetvstudio.net:3158/hybrid/play.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="TDA DIGITAL",VIDATV HD
 https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
 https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
@@ -290,6 +299,9 @@ https://5bf8041cb3fed.streamlock.net:443/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w54
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM"group-title="TDA DIGITAL",EXTREMA TV HD
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkrg6Wn3410_6jvyy7Kd4d2wk6YEUDJKGBTDZhbY&s"group-title="TDA DIGITAL",TELEZION HD
+https://paneltv.net:3751/hybrid/play.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO-200x200.png"group-title="TDA DIGITAL", DIOS TE VE HD
@@ -470,6 +482,11 @@ http://streamgo.vip:8008/cristian2022/cristian2022/158981
 http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w196303941_b2628000_sleng.m3u8?PlaylistM3UCL
 http://streamgo.vip:8008/cristian2022/cristian2022/159002
 http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w1094300820_b2628000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_MpyM0DWj1s/hqdefault.jpg"group-title="TDA DIGITAL",LATINA
+https://live-edge01.telecentro.net.ar/live/smil:rltn.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/fr1183h5ce-france-24-logo-home-page--media.png"group-title="TDA DIGITAL",FRANCE 24 HD   24.3
@@ -684,9 +701,6 @@ https://unlimited2-cl-isp.dps.live/cm/cm.smil/cm/livestream1/chunks.m3u8?nimbles
 https://stmv2.zcasthn.com.br:443/marcosvillegas/marcosvillegas/chunklist_w1557704139.m3u8?PlaylistM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",ENFOQUE DIGITAL TV
-https://5eaccbab48461.streamlock.net:1936/8074/8074/chunklist_w1182341502.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",T2 HD
