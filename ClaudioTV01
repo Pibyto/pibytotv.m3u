@@ -152,6 +152,8 @@ https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8?PlaylistM3UCL
 https://stream.arcast.net:4443/munitar/munitar/chunklist_w1103753322.m3u8
 https://stream.arcast.net:4443/munitar/munitar/chunklist_w1231902099.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="TDA DIGITAL",CANAL 13 HD  13.1  LA RIOJA
+http://arcast.net:1935/mp/mp/chunklist_w25245074.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA DIGITAL",PANC TV HD 15.1 TUCUMÁN
