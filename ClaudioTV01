@@ -252,7 +252,8 @@ https://5bf8041cb3fed.streamlock.net:443/retroxtv/retroxtv/chunklist_w1004812173
 https://rtvelivestream.akamaized.net:443/hls/nxrtgolumi/music/stream1_1054_1850.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1592590004861091840/y_o0OYR-_400x400.jpg"group-title="TDA DIGITAL",TELECLASICA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1592590004861091840/y_o0OYR-_400x400.jpg"group-title="TDA DIGITAL",TELECLASICA HD
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 https://ssh101.bozztv.com:443/ssh101/teleclasik/chunks.m3u8?nimblesessionid=399665
 
 
