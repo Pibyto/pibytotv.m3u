@@ -289,6 +289,10 @@ https://583ed2f226ac2.streamlock.net/49/stream/chunklist_w1954002463.m3u8
 https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1322872584107663360/O2M3mDlr_400x400.jpg"group-title="TDA DIGITAL", VIENTO RECIO TV
+http://185.36.211.142:8080/tmp_hls/betsaida/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c32e4c6d73b63dd532a48dd4e17f634.webp"group-title="TDA DIGITAL", PRESENCIA TV HD
 https://tv.clientetvstudio.net:3158/hybrid/play.m3u8
 
