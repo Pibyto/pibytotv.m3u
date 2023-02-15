@@ -247,6 +247,20 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 https://5bf8041cb3fed.streamlock.net:443/retroxtv/retroxtv/chunklist_w1004812173.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1863098553/45171_400x400.jpg"group-title="TDA DIGITAL",SOMOS CINE
+https://rtvelivestream.akamaized.net:443/hls/nxrtgolumi/music/stream1_1054_1850.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1592590004861091840/y_o0OYR-_400x400.jpg"group-title="TDA DIGITAL",TELECLASICA
+https://ssh101.bozztv.com:443/ssh101/teleclasik/chunks.m3u8?nimblesessionid=399665
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ec305f194d2f6d721af7718c76e6ce97347ab5acb315d31dbc1da494800b9817.png"group-title="TDA DIGITAL",ACS NETWORK
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4Zte-xcsHgxhr5L3FIM603RaWUu1_DwZyQ&usqp=CAU"group-title="TDA DIGITAL",VIWIX 1
 https://s1.tvdatta.com:3457/hybrid/play.m3u8
 
@@ -311,8 +325,13 @@ https://v4.tustreaming.cl/restaurandovida/index.m3u8?ads.content_page_url=https%
 https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
 https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w198998264.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://hosannavision.com/site/assets/files/1/hosanna-logo.png"group-title="TDA DIGITAL",HOSANNAVISION
 https://1206618505.rsc.cdn77.org:443/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvr4MR4agUkhkE9HSwtDmI6hk4Xlcudl4D9zVlOExyxxExNhlk8Bmau12nBpjQfhrbFRD-jGPmfCx6tcCaWpIPyGs7pLJq_Fcqn8IX7iQQXrl2FLGwteRzZvq6yVp-Ta4cUbxo3gh-JwjHLvNnGTDaBb5KazI4mGFsO3scl3Vm8Z4zjO9u1xJU-lWq/w640-h480/canal-peniel-guatemala-logroku.png"group-title="TDA DIGITAL",PENIEL TV HD
+https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
 
 
 
@@ -352,12 +371,17 @@ https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/chunkl
 https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvr4MR4agUkhkE9HSwtDmI6hk4Xlcudl4D9zVlOExyxxExNhlk8Bmau12nBpjQfhrbFRD-jGPmfCx6tcCaWpIPyGs7pLJq_Fcqn8IX7iQQXrl2FLGwteRzZvq6yVp-Ta4cUbxo3gh-JwjHLvNnGTDaBb5KazI4mGFsO3scl3Vm8Z4zjO9u1xJU-lWq/w640-h480/canal-peniel-guatemala-logroku.png"group-title="TDA DIGITAL",PENIEL TV HD
-https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://lafemuevemontanas.net/wp-content/uploads/2019/08/F8.png"group-title="TDA DIGITAL", LA FE MUEVE MONTAÑAS HD
 https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://xn--tbnespaa-j3a.es/wp-content/uploads/2022/09/Logo-rojo-1024x576-1.jpg"group-title="TDA DIGITAL",TBN ESPAÑOL
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1322872584107663360/O2M3mDlr_400x400.jpg"group-title="TDA DIGITAL", VIENTO RECIO TV
+http://185.36.211.142:8080/tmp_hls/betsaida/index.m3u8
 
 
 
