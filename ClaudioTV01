@@ -200,6 +200,13 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/94368c32-7230-4ac2-9a50-6adc946e66e4/2.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="TDA DIGITAL", PLANETA TV HD
+https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png"group-title="TDA DIGITAL",CTV - CAPRICHO HD
+https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="TDA DIGITAL",PLANETATV
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
@@ -263,6 +270,31 @@ https://ssh101.bozztv.com:443/ssh101/teleclasik/chunks.m3u8?nimblesessionid=3996
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ec305f194d2f6d721af7718c76e6ce97347ab5acb315d31dbc1da494800b9817.png"group-title="TDA DIGITAL",ACS NETWORK
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHdiDshlHGNqRKNn1T19KUfhKigTEGM3yelw&usqp=CAU"group-title="TDA DIGITAL", CARACOLA TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png?fit=462%2C112&ssl=1"group-title="TDA DIGITAL", TELEVISIÓN DEL ESTE HD
+https://cm.hostlagarto.com:4445/ESTV/estv.myStream/playlist.m3u8?DVR
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_09/large.59b567df3dae4_Telecaribe2017.png.b72e1a981efb12c791b3e69086924395.png"group-title="TDA DIGITAL",TELECARIBE HD
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?DVR
+
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/jimanitv.jpeg"group-title="TDA DIGITAL",JIMANI TV HD
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w37211739.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDm45aQWDzwBt-muuNBt8MKXt8s-ginSSqBA&usqp=CAU"group-title="TDA DIGITAL",MEGA TV HD
+https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZqGpWv7qqmY/maxresdefault.jpg"group-title="TDA DIGITAL",WTV CANAL 20
+https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
 
 
