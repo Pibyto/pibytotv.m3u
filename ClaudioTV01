@@ -21,6 +21,9 @@
 https://servidor2.hostradios.com/proxy/radiojerusalen?mp=/stream&1623615876184
 
 
+#EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/47520976-bd36-49b7-aea2-74a83aadda48_16-9-aspect-ratio_default_0.jpg"group-title="TDA DIGITAL",GRAN HERMANO
+https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png"group-title="TDA DIGITAL",CITY SPORTS HD  2.10  CABA
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM3UCL
@@ -67,8 +70,6 @@ https://intelincloud.com.ar/canales/canal3pinamar/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/47520976-bd36-49b7-aea2-74a83aadda48_16-9-aspect-ratio_default_0.jpg"group-title="TDA DIGITAL",GRAN HERMANO
-https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
 
 
 
