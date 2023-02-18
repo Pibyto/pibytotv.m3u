@@ -865,6 +865,21 @@ https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w160616
 https://59ce1298bfb98.streamlock.net:443/canal8tv/canal8tv/chunklist_w235082304.m3u8
 
 
+
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TDA DIGITAL",UNIRADIO TV
+https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TDA DIGITAL",
+
+
+
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TDA DIGITAL",
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSti91UEN03dupfRWQXxuk0hmauvS0cqOMZ_A&usqp=CAU"group-title="TDA DIGITAL",NIM TV HD
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
