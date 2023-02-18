@@ -684,6 +684,7 @@ http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1276879565.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/sptv.png"group-title="TDA DIGITAL",CANAL 32 SPTV HD  32.1
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1065140217.m3u8
 https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA DIGITAL",EL TRECE HD   33.1
