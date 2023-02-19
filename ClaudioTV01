@@ -93,6 +93,9 @@ https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
 https://stream.arcast.com.ar:443/canal4eldorado/canal4eldorado/chunklist_w1079865425.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.canal4teleaire.com.ar/wp-content/uploads/2022/07/logo-canal-4.png"group-title="TDA DIGITAL",  TELEAIRE CANAL 4  4.4   SAN MARTIN 
+https://stmvideo2.livecastv.com:443/canal4/canal4/chunklist_w500044248.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA DIGITAL",TELECREATIVA HD  5.1. LANUS
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
