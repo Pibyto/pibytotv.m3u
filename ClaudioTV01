@@ -148,6 +148,11 @@ https://stmvideo3.livecastv.com/bolivartelevision/bolivartelevision/playlist.m3u
 https://stream.arcast.live:443/ahora/ahora/chunklist_w1967933953.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Be1L4qE40b5aSBT-267cTyjmGTZBBIFptrz2kYLAw5K4Z_oIIFuynO-y2JUCd1XF1fuu=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",TIV CHACO 
+https://inliveserver.com:1936/14044/14044/chunklist_w543609963.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/2560px-Mega_TV_logo_2016.svg.png"group-title="TDA DIGITAL",MEGA TV CHACO
 
 
