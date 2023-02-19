@@ -167,6 +167,10 @@ http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/
 https://restreamer.el10tv.com:443/memfs/725003c4-79c2-4565-8311-f429db4f7777_var0.m3u8?session=3znEcinJ3HUUYaGPJX99dd
 
 
+#EXTINF:-1 tvg-logo="https://www.cable10.com/imagenes/logo.png"group-title="TDA DIGITAL",CABLE 10 RIO GALLEGOS 
+https://inliveserver.com:1936/8292/8292/chunklist_w158646387.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/79e23fd722a391e2aaa15255f0c598bf.png"group-title="TDA DIGITAL", AVC HD  12.1  
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8?PlaylistM3UCL
@@ -700,6 +704,10 @@ https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA DIGITAL",EL TRECE HD   33.1
 http://streamgo.vip:8008/cristian2022/cristian2022/158985
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Xama-Senal-UNSJ-en-vivo-Online.png?resize=218%2C150&ssl=1"group-title="TDA DIGITAL",XAMATV  33.1  SAN JUAN 
+https://srs.unsj.edu.ar/live/xama.flv
 
 
 
