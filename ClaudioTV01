@@ -46,6 +46,17 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CogFeuh5pKh978V0Uu3dVulkwYh
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CogFVB9zONGmQSoGbw9zm7Jbe3g6WlbzneCKjkSe-ggbcR9FzLEcuwGXIBzvgR62cAor0eXC-DmOLYmeO1NdiJ-KXXPoH_ZI5ZLslgHY-hqJznF7Ed-523e1S8UnBNtruUCXHeZEw8nUvFhIt-bfwUOjdy-nkNxze3ru85FuJnUXvOaq1p2_VpGsGB6wNHz0xENbqxO_8RcoewJ1jXUg-2C0Hef6evS8PpvHivzLZH-NeNqnDwPcvm4d81njpBvlZ6mMZ1TLCbXYHrfJSDmk0LCEdDuVT5mkAasAMsvlWaZzFxC55_nUQc6CSYFS_MJoFZSuVt130cYLhzxF4gYWfrB5M9HSTvrXJKn0EOBvMFk1ggYxRgHivwFD4xuYBDdIJ09ujtM-FAPDXThdqAtV7plJU0ivL6ye4i3jl1ckORE9lGh28qCG7YNwyBiPT-dEedD72-nfN5ZFXSjZWJ24CDmNrOD56GS602d_HzcBI739l4oBDtc0vskhTF3y45ZPH-GpUM8KBsW6g_rsTa_9qWS_nEOQOKjWQQaD0TOmTf91Wa7gLH_cDQxqslIguGpXDhLWtzrta3SsjKzjIEymaF877XQ4S1dFUEMQwHVM0MWfX_RLFgtTwXdVi7ZIMWoODqSgFCKuLlMGg06uib64khXEHDLndPThlxnEK4Geg1NyzN3lRyq4ZWJN0vGyvecFGbgfOSD806pDTTIT_A-u0h-iLfG90n9wJAKZ6tIhkixJUyP5dph6nUe60hnRJ3RMatkDq_OqNg4gw3wfgUhJ8C6pMYkTTFVfCcMvCli8EMh3b4RagjT31XKuX0fPJpRELGZmJ7YhkBZa6rOJh2VDBt8BPLDqa-wBk9HjGgy3uMtE_xpP4pmgDoIgASoJZXUtd2VzdC0yMPIF.m3u8
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoYFVpBOPnMzLqUu-gN45WhhDDz5REnpZtNFpF4cDJA3sYFIR7JGsreio8FFSA2dFJyX7l-cnZ4A0FA9q61NCooA9r5OvEszEDL8oD__DkiaSvS1c5Nyq5E78UVaLsyaLYl73bGnYIDnIiLEQFHfqhAnGZ14BK_Cxf_fvMEJ2VSsiEM-1jFWlPIl8H6FbhP0WRfed8ZGQckhkfHM4U1DuprmXQsOZDp1L73YXUPyITCxiHTkDFd6C9roRckNSwq35_qNL08_qCuZYhlGvq5055p5LyXtKgOi6eHGL-_HYuC4Y8yY1XfV04U-zPT--AFWcIBJRwlxbtr9Qvm8jBNU7RNinYWab2co2goMjB8iuwDs6vPwEfSUZYv5VD5VR5K4vFUtpRJYHUAKEdbtMj45FT_r9bpffeRDpFO9MmD7oQxgKVLQDQ8O3SBIE91C_-657JgEoCNGop3c_2lHEpHI5BUjz670X8tdb3AHL50pqPdBqZiLFaoXefFztf6DtjYLZT264z80GpprOcSAWuAVepiNIvfRt2PQHB78nFXM5ZE3Mzl0mjU8D5g-kGUg1nmuKMtTITp2GexPefCvEA6hH7Q0bRGQ-2TX41khUI-9CgHnCykPc9LR7_50krL27bIhnKsMnQL5h8_ExdHOyPwflxv6cmTI-gPFj58oM5PEKC6ZAw_CfpCbA3y70rQsRlJA371yM5-IiN08r8_NDjUL_lFsHt7Ja5RELo5-Vea2JE7RZ_sKTqdm7NzhY0Km2AmBgnOdwDCD5vD1vUBOImu0N-HZewC_7L8YM0k-kqxzFcaAkOnTO_hFXEbnDzo5jekVM9jC7X4Owip-OMk8aD8ctn8wURsvVFn2XBoM4HAk78ax2Tg28vLLIAEqCWV1LXdlc3QtMjDxBQ.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA DIGITAL",COSMOS TV HD  SAN JUAN 
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="TDA DIGITAL",BAYRES TV HD 
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA DIGITAL",TELEMIX! HD  GLEW
+https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="TDA DIGITAL",TV+ HD  2.12  SANTA FE
@@ -775,20 +786,9 @@ https://g1.proy-hor.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-10
 http://51.79.83.93:9998/live/delsurtv/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA DIGITAL",COSMOS TV HD  36.5 SAN JUAN 
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://www.bayrestv.com.ar/assets/logo-bayres-tv.png"group-title="TDA DIGITAL",BAYRES TV HD  41.1
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL",CANAL 50 HD.  50.1  GLEW
-https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Antena_TV.png"group-title="TDA DIGITA",ANTENA TELEVISIÓN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Antena_TV.png"group-title="TDA DIGITAL",ANTENA TELEVISIÓN
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CosF_T6U4EbVlWUPhNN6YM6J7WTKcCYlK1_tBeLWWDUJlCooaSnjTU_gq0VSHOeetVI30A24a3-a4FKuOkTQdR2RWjPoLglZ6Gw6vcb_3j6Npt8k-BmXhOHAKtP7nGbsbgQOXn5k9KUpS5FaB5GEbHzQipNrwBT1RyQIvZSomb1yBxS3OUpkwhfyyRarZaxtEpaFelM_ws_i4JwhkXO43UtIM2HoeCb6YRV16--PHqrH35bLyP7oCDTKm0ogaJmsyobSw-tOlyUHpFhxJYkc5XwYtU1pqVeDbwzf3QQ3EcGWjjjRMP2brHD4CRrAcvZ8J2g2gERHD_FLq12vVXvmNezmBNnlcFvwEWwfdrcD8icBSXBF6mv7fO_We4JETXF1VZ3JqqTeqhYrkiTW2iqMGVJGpyjBnuCv7G6R3hrM1zPQZz88ZWgkMOwlb37-3qe4hdxcbk7LIeaL3pf7D0WerxONxzOX7xYrusYnhUvR7l9phvqR_meNFhZk9-LrhXgLwSPiO6JOe-xaurFGcA8Jz01MOa3xDrViJPKNITJK7aIy8FDSTVEd_2-BVnrhLPXjdkUpNYRh64Ejr2k9x7dd7YgkIaDswiiHh4Y0A-8kdiXiSk7punt8REavUet1F7bc9BRaba4zGonUP1YHThs6R1MDyO6gG6mx2VgoeIm_F4IyKnncPJPxtGA5EJYgVNAxBjV-hpJXjkKMsOiwdVRqnzV5WeZhwUmHZAiz1xPncOcuCKRTzvKwrlFgu2eniwthoC1UiCtoWnkFD83WnqdOPkXqa4Cyb6GlF9xkQzbBE3jt5ejJpOGf6LF6nTKMV5eKT8dx4F9oN5Sn1dQlTPhKlS-YQPn4JEvFMO0YF-hjGgwaar6Qn1QT1NlMSs0gASoJdXMtZWFzdC0xMKYE.m3u8
 
 
