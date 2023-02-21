@@ -123,6 +123,8 @@ https://panel.dattalive.com:443/8166/8166/playlist.m3u8
 https://panel.dattalive.com:443/8166/8166/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-egsfSWDb7q8/UE1YvFaDK4I/AAAAAAAAV_Y/9cVSbca8q9s/s1600/canal6digital.gif"group-title="TDA DIGITAL",6 POSADAS
+https://iptv.ixfo.com.ar:30443/live/c6sd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU"group-title="TDA DIGITAL", CANAL 34 HD  6.11 SAN JUAN 
