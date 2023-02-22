@@ -136,6 +136,11 @@ https://stream.arcast.com.ar:443/canal4eldorado/canal4eldorado/chunklist_w107986
 https://stmvideo2.livecastv.com:443/canal4/canal4/chunklist_w500044248.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="TDA DIGITAL", CINCO TV HD  TIGRE
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA DIGITAL",TELECREATIVA HD  5.1. LANUS
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
 https://panel.dattalive.com:443/8012/8012/chunklist_w1034266116.m3u8
@@ -699,12 +704,6 @@ https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="TDA DIGITAL",SANTA FE CANAL HD  29.2
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="TDA DIGITAL", CINCO TV HD  30.1 TIGRE
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA DIGITAL",13 MAX DIGITAL HD  31.1 
