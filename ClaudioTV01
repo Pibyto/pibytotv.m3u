@@ -83,6 +83,19 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
 https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="TDA DIGITAL",MULTIVISION HD  SALTA
+https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA DIGITAL",MILENIUM TV HD  SALTA
+https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Novelas_TV.svg/1200px-Logo_Novelas_TV.svg.png"group-title="TDA DIGITAL", NOVELAS ES
+https://stormcast-novelas-2-es.samsung.wurl.tv:443/3000.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9jZTojlxaIg5LhEwS1Pr49d32CtIqC6lUUA&usqp=CAU"group-title="TDA DIGITAL",ZONDA TV
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
 
@@ -743,23 +756,8 @@ https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hd
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA DIGITAL",EL NUEVE HD  35.1
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://tecnicadelaindia.edu.ar/wp-content/uploads/2019/10/canal-9-multivision.png"group-title="TDA DIGITAL",MULTIVISION HD  SALTA
-https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA DIGITAL",MILENIUM TV HD  35.3 SALTA
-https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Novelas_TV.svg/1200px-Logo_Novelas_TV.svg.png"group-title="TDA DIGITAL", NOVELAS ES
-https://stormcast-novelas-2-es.samsung.wurl.tv:443/3000.m3u8
 
 
 
