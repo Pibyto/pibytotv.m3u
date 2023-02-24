@@ -77,6 +77,14 @@ https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://solivetv.net/wp-content/uploads/2020/09/logo2.png"group-title="TDA DIGITAL",CANAL 2 SOLIVE TV HD
+https://stmv1.cnarlatam.com:443/solivetv/solivetv/chunklist_w1359777116.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4Zte-xcsHgxhr5L3FIM603RaWUu1_DwZyQ&usqp=CAU"group-title="TDA DIGITAL",VIWIX ACCIÓN 
+https://s1.tvdatta.com:3457/hybrid/play.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png"group-title="TDA DIGITAL",CTV - CAPRICHO HD
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
 
@@ -98,16 +106,6 @@ https://stormcast-novelas-2-es.samsung.wurl.tv:443/3000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9jZTojlxaIg5LhEwS1Pr49d32CtIqC6lUUA&usqp=CAU"group-title="TDA DIGITAL",ZONDA TV
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="TDA DIGITAL",TV+ HD  2.12  SANTA FE
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvoEc72TePQk5RqfHN_hebDk09QndSMR76prvh02UnUN73qBPQnF6XT2bheMAWqLE91mFDpupn_tSUnmIG2OSVaxd7lTEb9RjvLWCs0K-KGG6Pvs8e4l52S1hGgCceUPzW8xCK2_cWAc5QpenbMa9-gcCrUAX_jw_kZIjd3ZQ4U5Nj5C9SxH9OxBXAF7WkBCj1ZVMNEBSflx3VYxBG5_PC49VLQLBqeEEnfwThGYYm_0PezvAIHv4lpy15mEa2MImcAJb9Q2PBdAJDFlgGQnEd0tR4eXavBz3yvMPPUnYfeL38O5kPobs-vJ4DqPsAjUQMzzO9mayWDUaGpdfECNPkSpcGcbzRwCx4XdpYVdRLHQQ8Vl489mZvyN2vZnL6B2Pu32lO-v6F0g_VfXBWmJrPku_quikMqzAwGWuiqzHiZqFS6BGSU3H6dFDJA1bwi3P85w3fpDpvR6Yg5gPikw-O4m97vJ2tatxlBBvvRwwapkLrvXXOvdadXK293X21Seri40FoppY6_GHxSMInp8yFabwr03umzNelxDUhTYcBMn5udx2IlDD-EUyC8UQj5ITY10cn66pb_XZFcGS9z1ODtdE9jXf2pSOEju5qW3J43qxyKV7Mzd5oiMs3Uswi4hyzmI4NEfLf0QT22GiiPJ8qhy_1mQCPIEpHE2W1W7qHLMWZI5DGLR0lJd7um-vwdZeJv6qB3UuEjWw8a2NsfBhn63SnD7GKvdBYYTHy37hDvEXs9wR82F0mAFe_-QFu8ZbtE06hV-12lm1XH4JpEveTrRCLC-_spe-NqJzb6IFqZNCAAE0HPooHiWNiM815lR_AXf0bCI99F_DQEeTRoMfqdSx2AB1C4NCpW2IAEqCXVzLWVhc3QtMTCtBA.m3u8
-https://streamcasthd.com:19360/tvmas/tvmas.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/REShnQtzUX_bicawR4XV5xL7e4GU7PnRAWroxGAgCX-bwdHnmDnZsX-dxIZPmdMCzNI"group-title="TDA DIGITAL", SANAGASTA TV HD  2.13
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8?PlaylistM3UCL
 
@@ -119,8 +117,6 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 #EXTINF:-1 tvg-logo="https://dto7y5p0mql2j.cloudfront.net/1660769433762.logoc2.png"group-title="TDA DIGITAL", CANAL 2 HD  2.15 MISIONES
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://solivetv.net/wp-content/uploads/2020/09/logo2.png"group-title="TDA DIGITAL",CANAL 2 SOLIVE TV HD
-https://stmv1.cnarlatam.com:443/solivetv/solivetv/chunklist_w1359777116.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-3-pinamar.png"group-title="TDA DIGITAL",CANAL 3 HD  3.0  PINAMAR
@@ -143,10 +139,6 @@ http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.canal4eldorado.com/wp-content/uploads/2016/10/canal4-head400.png?resize=400%2C400"group-title="TDA DIGITAL",EL DORADO TV HD  4.3   MISIONES
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvQETcWMGIZS90bQmE4lRL3BdcfapqSPDAwpAdmg40NUEGYPXAMo4ZqT_lhpx_UU4b3yUPptuzTfGiEUEvhOktyWGBm2jfhkDGOSn2fJGgakKVzVne6hjjzwA9cKopDpNYrLPMvWqu3fLhs2FhnK7kXmHJJ65ERmSbs88Ims2FwB8RWJlYirz7qgWuVkrEKA4rCBnSHn1gJlNiUjdpqpZZB0WJu65KUMARkwhW7XGzut9K0eR-agEFP6r2D76Myw79A5vhIf05Sc8swJe1jBDbs5YWo1Zl9fIYreXnjZqmoGJv1fDLdVTaWzK6sBUGa6pIjvqD_Wsf48kJZsxqPHxMt38kVhGtCuGRYvVNR2-FHD3mjEJaMuoEv6TaPAr7cpuC-ksFDZfv1fKdarnUMnN9wtUNPivHn9_tWIGTfDhuvecoBHTyUN6nI7b7e2M1fVt-5uWPeUGjvY4suw8tLRk-F-NFPK8lxX0aKNIaJe-kEA3HiLfaFpt0T3KosKpa3rbOAv2eRh6Vcp8RoHJIYpcKoUaf-KRq-tLz3BaLYqsAEu7-iiTIVvIrjVhCfRioKQNlmla6HEBM-Kgmlam1cx2ejc7T55jY_psvXfv4BofOWXoIXssUBCT6h6kd0zNW2D0oXKkxvhkU8PVQHT0cXVTzaZvvYmKWevubeQy8dk5Rf-_10cY0xs7jB40QNPOmyY92vQwJnfFjNqkjQVwsK7N8D6BQhvYw6k5RIN1YW13a0pWToam4tuhgeFgZisvcIEuAE5MDWFb5MULVqwMICerE2we3ITldOf_pQus8aj30dqRl5t5xGTEfML8ejVRRZ01Y2GlyFcQRoMLbhj_98aHBrDIfm6IAEqCXVzLWVhc3QtMjD2BQ.m3u8
-https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
-https://stream.arcast.com.ar:443/canal4eldorado/canal4eldorado/chunklist_w1079865425.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.canal4teleaire.com.ar/wp-content/uploads/2022/07/logo-canal-4.png"group-title="TDA DIGITAL",  TELEAIRE CANAL 4  4.4   SAN MARTIN 
@@ -331,23 +323,6 @@ https://5bf8041cb3fed.streamlock.net:443/retroxtv/retroxtv/chunklist_w1004812173
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1863098553/45171_400x400.jpg"group-title="TDA DIGITAL",SOMOS CINE
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1592590004861091840/y_o0OYR-_400x400.jpg"group-title="TDA DIGITAL",TELECLASICA HD
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ec305f194d2f6d721af7718c76e6ce97347ab5acb315d31dbc1da494800b9817.png"group-title="TDA DIGITAL",ACS NETWORK
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHdiDshlHGNqRKNn1T19KUfhKigTEGM3yelw&usqp=CAU"group-title="TDA DIGITAL", CARACOLA TV
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png?fit=462%2C112&ssl=1"group-title="TDA DIGITAL", TELEVISIÓN DEL ESTE HD
 https://cm.hostlagarto.com:4445/ESTV/estv.myStream/playlist.m3u8?DVR
@@ -367,11 +342,6 @@ https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZqGpWv7qqmY/maxresdefault.jpg"group-title="TDA DIGITAL",WTV CANAL 20
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4Zte-xcsHgxhr5L3FIM603RaWUu1_DwZyQ&usqp=CAU"group-title="TDA DIGITAL",VIWIX 1
-https://s1.tvdatta.com:3457/hybrid/play.m3u8
 
 
 
@@ -413,6 +383,7 @@ https://s3.abntelevision.com:443/avivamientoabr/stream/avivamientosd/avivamiento
 
 
 #EXTINF:-1 tvg-logo="https://www.kebuena.com.mx/wp-content/uploads/2020/08/programas-de-chespirito-salen-del-aire-tras-50-anos-de-emisiones-ininterrumpidas-1-e1596516423259.png"group-title="TDA DIGITAL",CHESPIRITO 24/7
+https://live.telelatinohd.com:8080/MTg2LjEzMi44Mi40/355_.m3u8?token=WKzrL3UC2Tz4JAshAWSNvg&expires=1677297071
 https://live.telelatinohd.com:8080/MTg2LjEzMi44Mi40/355_.m3u8?token=Dqe1GfQHQLw-rtmYexqPSg&expires=1677287861
 
 
