@@ -2771,6 +2771,7 @@ https://5bf8041cb3fed.streamlock.net:443/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w54
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/8dabc744cc5d41999da03e5676ec9e0b2132a59a436ebc89caa5f86e7e267e82.png"group-title="CRISTIANO", RENUEVO TV
 https://5bff1bf18a887.streamlock.net:443/rtvla/rtvla/chunklist_w681928651.m3u8?WebM3UCL
+https://5bff1bf18a887.streamlock.net:443/rtvla/rtvla/chunklist_w681928651.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png"group-title="CRISTIANO",13 HD JUJUY
@@ -2821,7 +2822,7 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w14123194
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/EnlaceJuvenil-2008.png/revision/latest?cb=20170923203037"group-title="CRISTIANO",ENLACE JUVENIL
-https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8
+
 
 
 
@@ -2850,8 +2851,6 @@ https://eu1.servers10.com:8081/vidanuevatv/index.m3u8
 #EXTINF:-1 tvg-logo="http://vidanuevatv.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-29-at-11.44.13-AM-1024x490.jpeg"group-title="CRISTIANO",VIDA NUEVA TV
 https://ss9.domint.net:3004/vntv_str/vidanuevatv/chunklist_w503323505.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/BethelTV1998.png/revision/latest?cb=20210326224941&path-prefix=es"group-title="CRISTIANO", BHETEL TV
-https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="CRISTIANO",ALTAR TV
@@ -2924,13 +2923,7 @@ https://videohd.live:19360/8062/8062.m3u8?WebM3UCL
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/BethelTV1998.png/revision/latest?cb=20210326224941&path-prefix=es"group-title="CRISTIANO",BHETEL TV
-https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8
-
+Ñ
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1222519766193262597/UZsxHbU4_400x400.png"group-title="CRISTIANO", RCC HD
 https://59ce1298bfb98.streamlock.net:443/rcctv02/rcctv02/chunklist_w1142756147.m3u8?WebM3UCL
