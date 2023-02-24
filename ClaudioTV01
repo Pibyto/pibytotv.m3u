@@ -968,41 +968,38 @@ https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",PALMERAS TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",PALMARES TV HD
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 https://servilive.com:3531/live/tumpistvlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",TVS RETRO HD
-http://45.5.117.138:25461/playgt/123456/101
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",CR TV HD
 https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",TELEMAX HD
-https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png"group-title="TDA DIGITAL",CGTN ESPAÑOL
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="TDA DIGITAL", CIUDAD MAGAZINE HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3787
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3787
-http://streamgo.vip:8008/cristian2022/cristian2022/159014
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png"group-title="TDA DIGITAL",UNIMAS HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3795
-http://iptvcanales.xyz/canales/live/237/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="TDA DIGITAL",TELEMUNDO HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3794
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="TDA DIGITAL", IMAGEN TELEVISIÓN
-http://streamgo.vip:8008/cristian2022/cristian2022/140419
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png"group-title="TDA DIGITAL",EL CANAL DE LAS ESTRELLAS
-http://streamgo.vip:8008/cristian2022/cristian2022/135431
+
 
 
 
@@ -1035,31 +1032,31 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007c
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png"group-title="TDA DIGITAL",CARTOON NETWORK HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3249
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png"group-title="TDA DIGITAL", DISNEY CHANNEL HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4004
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png"group-title="TDA DIGITAL",CARTOONITO HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3085
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="TDA DIGITAL",TOONCAST HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3242
+
 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png"group-title="TDA DIGITAL",NIK JUNIOR HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4194
+
 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png"group-title="TDA DIGITAL",NIKELODEON HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3071
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"group-title="TDA DIGITAL", DISCOVERY KIDS HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3254
+
 
 
 
@@ -1096,7 +1093,6 @@ https://appletree-mytimespain-rakuten.amagi.tv:443/playlist1080p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/logo-white.png"group-title="TDA DIGITAL", MYTIME 2
-http://iptvcanales.xyz/canales/vix/261/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 
 
@@ -1247,36 +1243,33 @@ https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg"group-title="TDA DIGITAL", TyC SPORTS HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/8247
+
 
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1610.png"group-title="TDA DIGITAL", DIRECTV SPORTS HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/33512
+
 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="TDA DIGITAL", ESPN HD 
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/1090737
+
 
 
 
 #EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png"group-title="TDA DIGITAL", ESPN 2 HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/1089694
+
 
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest?cb=20151012185318&path-prefix=es"group-title="TDA DIGITAL", ESPN 3 HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3260
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png"group-title="TDA DIGITAL", FOX SPORTS HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/1090739
+
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"group-title="TDA DIGITAL", FOX SPORTS 2 HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3268
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/08b300/paramount-1-/1366_2000.jpeg"group-title="TDA DIGITAL",PREMIER LIGUE
 
 
 
@@ -1288,40 +1281,34 @@ https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Tdp_HD.png"group-title="TDA DIGITAL",TELEDEPORTE HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3173
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Fox_Soccer_Plus.png/revision/latest?cb=20111202002152"group-title="TDA DIGITAL",FOX SOCCER PLUS HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3754
+
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1024px-Cinemax.svg.png"group-title="TDA DIGITAL",CINEMAX HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/1068350
-http://streamgo.vip:8008/cristian2022/cristian2022/147254
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/1068350
+
+
 
 
 #EXTINF:-1 tvg-logo="https://unity-img.tbxapis.com/v0/images/b055cde36c68c140ed0655591aa6b50d/section/591c5a3dbbd82d28b90fb3c2/b7e8791cae315d2462a92bb7f26d4d4b/img.png?_v=1.5.70"group-title="TDA DIGITAL",SPACE HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3232
-http://speedwk.site:80/richie1234/richie1234/94127.ts
-http://streamgo.vip:8008/cristian2022/cristian2022/147308
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png"group-title="TDA DIGITAL",GOLDEN 1
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3236
 http://linear-409.frequency.stream:80/dist/vix/409/hls/master/playlist_1920x1080.m3u8
-http://streamgo.vip:8008/cristian2022/cristian2022/147315
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png"group-title="TDA DIGITAL",GOLDEN 2
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es"group-title="TDA DIGITAL",GOLDEN PLUS
 http://linear-410.frequency.stream:80/dist/vix/410/hls/master/playlist_1920x1080.m3u8
-http://streamgo.vip:8008/cristian2022/cristian2022/147327
-http://speedwk.site:80/richie1234/richie1234/94122.ts
-http://daleplay.club:8080/eduardo2022/eduardo2022/156155
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="TDA DIGITAL",GOLDEN EDGE
 
@@ -1332,56 +1319,34 @@ http://daleplay.club:8080/eduardo2022/eduardo2022/156155
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Golden_Premier_logo_2020.png/revision/latest?cb=20201202010915&path-prefix=es"group-title="TDA DIGITAL",GOLDEN PREMIER
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/709
+
 
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.aztecaunovertical.png.591c1b430422e1412e58be389e838412.png"group-title="TDA DIGITAL", AZTECA UNO HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3216
-http://iptvcanales.xyz/canales/live/219/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png"group-title="TDA DIGITAL",BITME HD
-http://streamgo.vip:8008/cristian2022/cristian2022/147186
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png"group-title="TDA DIGITAL",5 MX
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3244
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3244
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4PYiyJq4Q9tzWJXRh9XHNc1qKIK8lWuVDRg&usqp=CAU"group-title="TDA DIGITAL", AZTECA 7 HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4027
+
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png"group-title="TDA DIGITAL", PARAMOUNT NETWORK HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/2952
-http://streamgo.vip:8008/cristian2022/cristian2022/147323
-http://speedwk.site:80/richie1234/richie1234/94125.ts
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/2952
-http://mon-key.us:25461/franco1/franco1/251
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png"group-title="TDA DIGITAL",TNT HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4010
-http://streamgo.vip:8008/cristian2022/cristian2022/147277
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"group-title="TDA DIGITAL",TNT SERIES HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3218
-http://streamgo.vip:8008/cristian2022/cristian2022/147281
-http://streamgo.vip:8008/cristian2022/cristian2022/147280
-https://latamlive.warnermediacdn.com/hls/live/2042054/arg_tns_pnr2/VIDEO_0_8128000.m3u8
-http://streamgo.vip:8008/cristian2022/cristian2022/147280
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"group-title="TDA DIGITAL",CINECANAL HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3250
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3250
-http://streamgo.vip:8008/cristian2022/cristian2022/147283
-
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="TDA DIGITAL",CINE SONY
@@ -1390,127 +1355,87 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/ac/0e/80ac0e5a909f75ef1adb25bc74e8b8af.jpg"group-title="TDA DIGITAL",HBO HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3199
-http://streamgo.vip:8008/cristian2022/cristian2022/147271
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/HBO2_HD_logo.png/revision/latest?cb=20200119235735&path-prefix=es"group-title="TDA DIGITAL",HBO 2 HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3198
-http://streamgo.vip:8008/cristian2022/cristian2022/147259
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/710
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hbb2olvPtcs/YavslEKEx0I/AAAAAAAA-E4/gt3ERt1ckLkKpPke8_6dixkVqwg_yXXLACNcBGAsYHQ/s1141/HBO-plus-2019.png"group-title="TDA DIGITAL",HBO+ HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4003
-http://streamgo.vip:8008/cristian2022/cristian2022/147265
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png"group-title="TDA DIGITAL",HBO MUNDI
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.1255015607_HBOPOP(varianteamarilla).png.4b3f07d4fbded45afce0d3d94f0c3c0e.png"group-title="TDA DIGITAL",HBO POP
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/47445
-http://streamgo.vip:8008/cristian2022/cristian2022/147274
+
+
 
 
 #EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s34879_ld_h15_ac.png"group-title="TDA DIGITAL",HBO FAMILY HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4017
-http://streamgo.vip:8008/cristian2022/cristian2022/147268
-tX2xlbj0xMA==&1
-http://190.83.119.67:8000/play/a0ou/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/HBO_Signature_2014_%28Stacked%29.svg/revision/latest?cb=20210113151115&path-prefix=es"group-title="TDA DIGITAL",HBO SIGNATURE HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3197
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png"group-title="TDA DIGITAL",HBO XTREME
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/44341
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/44341
-http://mon-key.us:25461/franco1/franco1/97
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/200?cb=20190208204234&path-prefix=es"group-title="TDA DIGITAL", WARNER HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3228
-http://streamgo.vip:8008/cristian2022/cristian2022/147289
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png"group-title="TDA DIGITAL",A&E HD
-http://streamgo.vip:8008/cristian2022/cristian2022/147251
-http://mon-key.us:25461/franco1/franco1/32734
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png"group-title="TDA DIGITAL",AXN HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3248
-http://streamgo.vip:8008/cristian2022/cristian2022/147286
-http://mon-key.us:25461/franco1/franco1/19
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.3538e3f52a23ad1d904afbb65a96b4c1.png"group-title="TDA DIGITAL",STAR CHANNEL HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4121
-http://streamgo.vip:8008/cristian2022/cristian2022/147256
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4121
-http://streamgo.vip:8008/cristian2022/cristian2022/147256
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS34snGEgZ4fbDv0h_IwMty-AP9qYdvgWJTjQ&usqp=CAU"group-title="TDA DIGITAL",SONY HD
-http://streamgo.vip:8008/cristian2022/cristian2022/147292
-http://mon-key.us:25461/franco1/franco1/112
-http://streamgo.vip:8008/cristian2022/cristian2022/147292
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_1163_7_84391.png"group-title="TDA DIGITAL",LIFETIME
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3073
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png"group-title="TDA DIGITAL",DHE HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/24180
-http://streamgo.vip:8008/cristian2022/cristian2022/147337
 
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large_AMC.png.c1008a9acad4a136c43f64eacf3ac461.png"group-title="TDA DIGITAL",AMC HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4118
-http://streamgo.vip:8008/cristian2022/cristian2022/147311
-http://mon-key.us:25461/franco1/franco1/16
-http://streamgo.vip:8008/cristian2022/cristian2022/147311
-
 
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_YkZZPo1aKZU/SSoJH1nL8EI/AAAAAAAAGs4/eBScbxlNG54/s400/fx.gif"group-title="TDA DIGITAL",FX HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3201
-http://streamgo.vip:8008/cristian2022/cristian2022/147304
+
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c4/0c/55/c40c55e69052d230974ec9295a8121d2.png"group-title="TDA DIGITAL",TBS HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4011
-https://edge-live12-sl.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png"group-title="TDA DIGITAL", UNIVERSAL CHANNEL HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3068
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3068
-http://speedwk.site:80/richie1234/richie1234/103943.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2014/10/Studio-Universal-HD.jpg"group-title="TDA DIGITAL", STUDIO UNIVERSAL HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3229
-http://streamgo.vip:8008/cristian2022/cristian2022/147301
-http://speedwk.site:80/richie1234/richie1234/49798.ts
+
+
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgsGvvXqIiLX1i-Mml8--SgMoq1k_2jgYCmA&usqp=CAU"group-title="TDA DIGITAL",SYFY HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3958
-http://speedwk.site:80/richie1234/richie1234/94133.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/500px-DPel%C3%ADcula_2021.svg.png"group-title="TDA DIGITAL",DE PELÍCULAS HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/2997
-http://speedwk.site:80/richie1234/richie1234/103952.ts
 
 
 
@@ -1522,7 +1447,7 @@ http://speedwk.site:80/richie1234/richie1234/103952.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2560px-History_HD_Logo.svg.png"group-title="TDA DIGITAL",HISTORY HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3234
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSO35wbFyHeuImu-mLIKdrzv96VBGgzzrlwA&usqp=CAU"group-title="TDA DIGITAL", HISTORIA
@@ -1531,10 +1456,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd
 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png"group-title="TDA DIGITAL",ANIMAL PLANET HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3247
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png"group-title="TDA DIGITAL",ID DISCOVERY HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4123
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoSVG.svg?auto=&fit=min&fill=blur&ixlib=react-9.1.5&w=68&h=48&dpr=3&q=35"group-title="TDA DIGITAL", ARCHIVOS FORENSES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=50356e3e-f693-11ea-b77a-0242ac110002&userId=&serverSideAds=true
@@ -1542,15 +1467,15 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b0007
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png"group-title="TDA DIGITAL",NAT GEO HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/4126
+
 
 
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/360-3607895_discovery-world-channel-logo.png"group-title="TDA DIGITAL", DISCOVERY WORD HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3081
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Discovery_Science_LA_2011.png/revision/latest?cb=20190925153556&path-prefix=es"group-title="TDA DIGITAL", DISCOVERY SCIENCE HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/3082
+
 
 
 
