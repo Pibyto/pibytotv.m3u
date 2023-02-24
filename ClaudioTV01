@@ -397,9 +397,23 @@ https://v4.tustreaming.cl:443/retroplaytv/tracks-v1a1/mono.m3u8
 https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="TDA DIGITAL",TVR DIGITAL HD
-https://vsd75.mycdn.me:443/hls/1698824391191.m3u8/sig/e6XNYYdAm1A/expires/1675707438933/srcIp/186.132.123.179/urls/45.136.21.61/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd62.mycdn.me:443/hls/1698824391191.m3u8/sig/LgUprBpJj5U/expires/1673652764620/srcIp/186.132.104.240/urls/45.136.22.51/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
-https://vsd62.mycdn.me:443/hls/1698824391191.m3u8/sig/DpVjJZk9gW0/expires/1673390191755/srcIp/186.132.115.9/urls/45.136.22.51/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9bd8nGaUeCvWQEnTf7s6yBovXXtwuhxPJeg&usqp=CAU"group-title="TDA DIGITAL", RENUEVO TV
+https://5bff1bf18a887.streamlock.net:443/rtvla/rtvla/chunklist_w681928651.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVnAYuhTI8n3BtJqKwumbv5Zpmst7RGc_m6bdBJZg=s900-c-k-c0x00ffffff-no-rj"group-title="TDA DIGITAL", MANÁ DEL CIELO TV
+http://mediaplatform.streamingmediahosting.com/p/10671/sp/1067100/playManifest/entryId/0_97vnjka8/format/applehttp/protocol/http/a.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://avivamiento.com/assets_nw/img/cma/logo_white.png"group-title="TDA DIGITAL",ABN TV
+https://s3.abntelevision.com:443/avivamientoabr/stream/avivamientosd/avivamientosd/chunks.m3u8?nimblesessionid=10165542
+
+
+#EXTINF:-1 tvg-logo="https://www.kebuena.com.mx/wp-content/uploads/2020/08/programas-de-chespirito-salen-del-aire-tras-50-anos-de-emisiones-ininterrumpidas-1-e1596516423259.png"group-title="TDA DIGITAL",CHESPIRITO 24/7
+https://live.telelatinohd.com:8080/MTg2LjEzMi44Mi40/355_.m3u8?token=Dqe1GfQHQLw-rtmYexqPSg&expires=1677287861
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/oABwHpOC6YdIVWE7vnrnR-UGz8EIVngQlSVXX51YTD895O70jbMUX-3_1e2hLZstG0Q"group-title="TDA DIGITAL", PALABRA DE DIOS SIN LEVADURA
