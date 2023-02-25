@@ -30,41 +30,42 @@ https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM
 https://citysports.grupocity.net.ar:3469/live/citysportslive.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA DIGITAL",EL TRECE HD   33.1  WEB
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA DIGITAL",EL TRECE   33.1  WEB
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA DIGITAL", TELEFE HD  34.1  WEB
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA DIGITAL", TELEFE  34.1  WEB
 https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1677418128~acl=%2f*~data=hdntl~hmac=4e9cf33cc96cce348f30b00f03508476dfe7ec92d29127b8e35b0ecaa78f7735/master-mtlf.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.291385961_TVPNuevoLogo(2021)-VersinBlanca.png.38c313af76b46808c0042f4ec947544a.png"group-title="TDA DIGITAL",TV PUBLICA HD   23.2
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.291385961_TVPNuevoLogo(2021)-VersinBlanca.png.38c313af76b46808c0042f4ec947544a.png"group-title="TDA DIGITAL",TV PUBLICA   23.2
 https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA DIGITAL",EL NUEVE HD  35.1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA DIGITAL",EL NUEVE  35.1
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png"group-title="TDA DIGITAL",UNIFE HD  25.1
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png"group-title="TDA DIGITAL",UNIFE  25.1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="TDA DIGITAL",CANAL 26 HD  24.2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="TDA DIGITAL",CANAL 26  24.2
 http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w196303941_b2628000_sleng.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png"group-title="TDA DIGITAL",IP HD   24.5
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png"group-title="TDA DIGITAL",IP   24.5
 https://d1nmqgphjn0y4.cloudfront.net:443/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA DIGITAL", AMÉRICA HD  36.1
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA DIGITAL", AMÉRICA  36.1
 https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png"group-title="TDA DIGITAL", CRÓNICA HD   24.4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png"group-title="TDA DIGITAL", CRÓNICA   24.4
 https://g4.vxral-hor.transport.edge-access.net:443/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 http://daleplay.club:8080/eduardo2022/eduardo2022/81300
 
@@ -73,6 +74,7 @@ http://daleplay.club:8080/eduardo2022/eduardo2022/81300
 
 #EXTINF:-1 tvg-logo="https://resizer.glanacion.com/resizer/zHNFmrKai_aejmSHLCmIX6iEZF8=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/E2FYE64GJVACFMBT4UDXWNETLI.png"group-title="TDA DIGITAL",CHAVO DEL 8
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvgEOaDrdXMxs-g_0L6l_NFeSv4fKu4NwyF8EwqShq2LBMEq27gHb1-Op1EFF-jfKHbeDR2_VG_YT30A7sSFqHZVezwB6WaVcVRf-zTXrrKPxda3CgTxMiOYdSaA2d2MJSXwwVRUYfsDV2rsY8amm9QARsqLQAwEDMp03YjfvFjjQZM3Eew2Oxx3uwZbGtMlk0_ne2ghbKYhplxYdlpvrHRajTXwSp23jktf8AjOFY_r0EwjWiO2uEVQOVZYgPKXSYKz9jDBFp2RmGZicyiiRwQEs3IrV5J0MrAG8QNxo-2zWMhsd6Jz2talkvyZzmG7RJyP-9GxZLH4WjypCrUclHFGBaii5cAhEYduUK2NATBO1ren34DzasAWDDbg6D0SmByfRL45X2B-H1OmPWp4Z5Pr6ab6vTC6EFEPvbLIdkSEYKBO1G0GK-sTc1YYUIyRLTpxDNXUEePw38tzLdXEWTFXOTnZCy-YvSkJMl6jUQKPfS0RvIEKprrtyy2yZZqqdBTPXwLfHeyHewZ7bK1_JlN3ZnwCpzzREOxqJ4z1tt57pN6wCqwW0RWvAZLCQLP0-0agylR4ywDYDlEg6v6TxjBRETRCF9t3Pmxx2nUtwfLErYWmEqliu0VxderyEnsDaCS1vpDQB0Tm5qHXRGjBP4KM-_M2washlvdzpgvAkO0T544IB4-imC-D5HAEgA0gCKmAmrUl2aE1ZxsrOE0_LTTdgjMAWIjYQEga81_0btaUrhv8SkQe8AD40-hcEdu0NKv62s-jLlEW6SJOZpPLqOi9Nw7vDJ2TOlFbr7Z73vPZKRvbOry8lZTdnxrIrfvzbeVJVa4fQ65TOdYaDONwWLvkt8IHD5vpYiABKgl1cy1lYXN0LTIw-AU.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png"group-title="TDA DIGITAL", PLANETA TV MOVIE FHD
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1467051623.m3u8?PlaylistM3UCL
