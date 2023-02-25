@@ -39,6 +39,10 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cv0E1kJIH2mQqAlC7qaXRvzUh0r
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoQFw3clPatewIXC2U1KW8gXlrZjx0Oa8Inxr6d5KYRckmh9Fe_4H7VX4V_a1rMeIYVO26VsyOGbHLnuemEr1O2fz5GTZ75_SZFkoQf7qOK8DmSccrl6BRiOG-4TpuWApV08Lr9NC3qtNs6fGcqJREtbOADDdrJaUDmgAd5YgSyDuxRsS-LYdTwGcsryPPkmAq8sld6B5obmzkSaGKKfaSKFrfXmB2cRMcF3O-2c8MSzHLdsoeCWNfnnLt8VMFEy6dBY1vW_2OJxHEH5hgN1R-0hYQvyVUT9mtRscNuxSuSYA-ecwNHznP5aABwnSjHMJOO38zI9cy80nluPdZvRSG_ZNNWMPn0JYA4O4wiyGJLAwyQZBobiPmG69Y55HXJ-zfckI1S1wE9FYir2EbFlYNhXBWIkep_OtnKH9qzdBjsQpPpFO-p0Aus9KogegiwR2KpFyrW6s-jNdTlRZqPMpUlLK5kfeBMZKmIO2VnkcyptoCS43pKZeGN_XWs4m15Ys1HN9D_uZaoUaz5rugM4E6Lf_OR0Tkb92cEairKX23906RwljrTu-BGdE4lJpK6VmLxr-tb73iGjPXtq4k3kk_uaqAVzXUYkvbh3ymI8dTzlXD9g8XX_AeRetFwk4kJw3raNhJLCa4kHWhbhhfpNFbCCm1Gj22WFRIH34f4IepmjMhQDLHxSOF5-YpQPPzMkv3j11Z9ocHKkE3-e6W2ymFGuLv9vO04nac39iuzg32aabT6qqpC2NNY2IaxVAUv5-hn6HUmnMQFesPYz2Qd47LeCW3yCr_xWoLUwiuQIz6nx0H1PSa6cINLDSABkAWOSPqgl3MMpVh8VKQp3LTy0C0VI9RS2XBMaDOTEnxahjEtqI5uDHiABKglldS13ZXN0LTIw-QU.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://redpanda.cinepremiere.com.mx/wp-content/uploads/2018/01/logo_cp_marca.png"group-title="TDA DIGITAL", CINE PREMIER
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA DIGITAL",GENTV HD  17.3  CABA
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
@@ -1092,7 +1096,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ed41526c7700094141
 
 
 
-#EXTINF:-1 tvg-logo="https://carbonmade-media.accelerator.net/17760333;640x367.jpeg"group-title="TDA DIGITAL", CINE PREMIER
+#EXTINF:-1 tvg-logo="https://redpanda.cinepremiere.com.mx/wp-content/uploads/2018/01/logo_cp_marca.png"group-title="TDA DIGITAL", CINE PREMIER
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
 
 
