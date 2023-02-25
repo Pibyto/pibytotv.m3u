@@ -35,8 +35,18 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA DIGITAL",10 HD  10.1  MDP
+http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA DIGITAL", TELEFE  34.1  WEB
 https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1677418128~acl=%2f*~data=hdntl~hmac=4e9cf33cc96cce348f30b00f03508476dfe7ec92d29127b8e35b0ecaa78f7735/master-mtlf.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png"group-title="TDA DIGITAL",CANAL 8 HD  8.1 MDP
+https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.291385961_TVPNuevoLogo(2021)-VersinBlanca.png.38c313af76b46808c0042f4ec947544a.png"group-title="TDA DIGITAL",TV PUBLICA   23.2
@@ -45,6 +55,10 @@ https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA DIGITAL",EL NUEVE  35.1
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png"group-title="TDA DIGITAL",MULTIVISION HD  SALTA
+https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png"group-title="TDA DIGITAL",UNIFE  25.1
@@ -301,11 +315,6 @@ https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png"group-title="TDA DIGITAL",MULTIVISION HD  SALTA
-https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA DIGITAL",MILENIUM TV HD  SALTA
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
@@ -402,8 +411,6 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 https://panel.dattalive.com:443/8074/8074/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png"group-title="TDA DIGITAL",CANAL 8 HD  8.1 MDP
-https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png"group-title="TDA DIGITAL", CANAL 9 HD  9.1.  MISIONES
@@ -429,12 +436,6 @@ https://inliveserver.com:1936/14044/14044/chunklist_w543609963.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/2560px-Mega_TV_logo_2016.svg.png"group-title="TDA DIGITAL",MEGA TV CHACO
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA DIGITAL",10 HD  10.1  MDP
-http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
 
 
