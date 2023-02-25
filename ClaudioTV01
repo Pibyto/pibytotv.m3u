@@ -68,6 +68,14 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqSWyRQN5WbtHlv_Wt9u4Z-mbZ40v0xp0Kg&usqp=CAU"group-title="TDA DIGITAL",BAYRES TV HD 
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA DIGITAL",BLU HD SAN JUAN
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es"group-title="TDA DIGITAL",GOLDEN PLUS
 http://linear-410.frequency.stream:80/dist/vix/410/hls/master/playlist_1920x1080.m3u8
 
@@ -108,6 +116,8 @@ https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1770574078.m3u8?Pla
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2022/11/LOGOPERIODICO-600x329-1-300x165.png"group-title="TDA DIGITAL",LA VOZ TV HD  15.2  TUCUMÁN
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png"group-title="TDA DIGITAL",FREE TV HD
+https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="TDA DIGITAL", METRO TV HD  18.1 TUCUMÁN
@@ -136,8 +146,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804192-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0b46a48-3e72-4c90-a658-826f98daa8a9&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA DIGITAL",BLU HD SAN JUAN
-https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM"group-title="TDA DIGITAL",EXTREMA TV HD
@@ -189,8 +197,6 @@ https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqSWyRQN5WbtHlv_Wt9u4Z-mbZ40v0xp0Kg&usqp=CAU"group-title="TDA DIGITAL",BAYRES TV HD 
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5S4e_jY1cJrTk2wt1hpUbCuRxwOo2pe0jUQ&usqp=CAU"group-title="TDA DIGITAL",CINECLUB HD
 https://servilive.com:3176/live/cineclublive.m3u8
