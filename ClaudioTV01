@@ -30,6 +30,13 @@ https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM
 https://citysports.grupocity.net.ar:3469/live/citysportslive.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png"group-title="TDA DIGITAL", PLANETA TV MOVIE
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1467051623.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="TDA DIGITAL", PLANETA TV HD
+https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
+
 
 
 
@@ -177,11 +184,6 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA DIGITAL",TELEMIX! HD  GLEW
 https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="TDA DIGITAL", PLANETA TV HD
-https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2021/04/LOGO-CANAL-9-MULTIVISION-300x99.png"group-title="TDA DIGITAL",MULTIVISION HD  SALTA
