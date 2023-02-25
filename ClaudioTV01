@@ -99,7 +99,11 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuN9Q2xGI0a_gW3v3P4YZOypCrSU3nwlrTw&usqp=CAU"group-title="TDA DIGITAL",FM TV 1
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1770574078.m3u8?PlaylistM3UCL
-https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2022/11/LOGOPERIODICO-600x329-1-300x165.png"group-title="TDA DIGITAL",LA VOZ TV HD  15.2  TUCUMÁN
+https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 
 
 
@@ -336,31 +340,13 @@ https://restreamer.el10tv.com:443/memfs/725003c4-79c2-4565-8311-f429db4f7777_var
 https://inliveserver.com:1936/8292/8292/chunklist_w158646387.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="TDA DIGITAL",CANAL 13 HD  13.1  LA RIOJA
 http://arcast.net:1935/mp/mp/chunklist_w25245074.m3u8?PlaylistM3UCL
-
-
-
-
-#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2022/11/LOGOPERIODICO-600x329-1-300x165.png"group-title="TDA DIGITAL",LA VOZ TV HD  15.2  TUCUMÁN 
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="TDA DIGITAL",CANAL+ HD  17.5
 https://tvdatta.com:3451/stream/play.m3u8
 https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://sicarditv.com.ar/static/custom/logo.png?t=2023-01-03+18%3A02%3A18.705308"group-title="TDA DIGITAL",SICARDITV HD  18.2
