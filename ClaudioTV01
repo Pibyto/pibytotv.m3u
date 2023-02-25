@@ -20,6 +20,15 @@
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rGAjss5QCZYe83zp770DmPslXJioWxbVYuEF5lhLptBglYzB_1B9bacVNAc1k4upNLU"group-title="TDA DIGITAL",RADIO JERUSALEN-MINISTERIO=GPS=TRANSFORMADOS X JESÚS 
 https://servidor2.hostradios.com/proxy/radiojerusalen?mp=/stream&1623615876184
 
+#EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2020/09/g.gif"group-title="TDA DIGITAL",LOVE NATURE 4K
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmpxahvxoW5ryJTCqoltWFB0CSmJ38PRvAaA&usqp=CAU"group-title="TDA DIGITAL",MOUNTAIN LIVE 4K
+https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397357/chunklist_w842084170.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/47520976-bd36-49b7-aea2-74a83aadda48_16-9-aspect-ratio_default_0.jpg"group-title="TDA DIGITAL",GRAN HERMANO
 https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
