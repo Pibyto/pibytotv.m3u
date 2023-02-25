@@ -85,6 +85,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091
 https://s1.tvdatta.com:3457/hybrid/play.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://redpanda.cinepremiere.com.mx/wp-content/uploads/2018/01/logo_cp_marca.png"group-title="TDA DIGITAL",CINE PREMIER HD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
+
+
+
 #EXTINF:-1 tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png"group-title="TDA DIGITAL",CTV - CAPRICHO HD
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
 
