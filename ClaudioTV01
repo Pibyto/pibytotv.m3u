@@ -172,6 +172,10 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-6-mar-del-plata.png"group-title="TDA DIGITAL",CANAL 6 HD  6.1  MAR DEL PLATA
+https://panel.dattalive.com:443/8166/8166/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA DIGITAL",BLU HD SAN JUAN
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
@@ -426,11 +430,6 @@ https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal5delpueblo.com.ar/wp-content/uploads/2022/06/cincodelpueblo_logo.png"group-title="TDA DIGITAL",CANAL 5  DEL PUEBLO TV  5.3  Rosario 
 https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-6-mar-del-plata.png"group-title="TDA DIGITAL",CANAL 6 HD  6.1  MAR DEL PLATA
-https://panel.dattalive.com:443/8166/8166/playlist.m3u8
-https://panel.dattalive.com:443/8166/8166/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-egsfSWDb7q8/UE1YvFaDK4I/AAAAAAAAV_Y/9cVSbca8q9s/s1600/canal6digital.gif"group-title="TDA DIGITAL",6 POSADAS
