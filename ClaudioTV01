@@ -89,6 +89,11 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w30918240
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_948f2439d9bb40129b35483e0bc39ead~mv2.png/v1/fill/w_544,h_544,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/nimtv.png"group-title="TDA DIGITAL",NIM TV HD
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image70119570242.jpg"group-title="TDA DIGITAL",MOVIE FE
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 
@@ -881,9 +886,6 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM
 
 
 
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_29fde89b5ec043b3a222a0c724616b28~mv2.jpg/v1/fill/w_560,h_86,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/titulo_nimtv.jpg"group-title="TDA DIGITAL",NIM TV HD
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 
 
