@@ -50,6 +50,11 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoYFqj_ine1K6eWlolV_7yJAJCd
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoQFw3clPatewIXC2U1KW8gXlrZjx0Oa8Inxr6d5KYRckmh9Fe_4H7VX4V_a1rMeIYVO26VsyOGbHLnuemEr1O2fz5GTZ75_SZFkoQf7qOK8DmSccrl6BRiOG-4TpuWApV08Lr9NC3qtNs6fGcqJREtbOADDdrJaUDmgAd5YgSyDuxRsS-LYdTwGcsryPPkmAq8sld6B5obmzkSaGKKfaSKFrfXmB2cRMcF3O-2c8MSzHLdsoeCWNfnnLt8VMFEy6dBY1vW_2OJxHEH5hgN1R-0hYQvyVUT9mtRscNuxSuSYA-ecwNHznP5aABwnSjHMJOO38zI9cy80nluPdZvRSG_ZNNWMPn0JYA4O4wiyGJLAwyQZBobiPmG69Y55HXJ-zfckI1S1wE9FYir2EbFlYNhXBWIkep_OtnKH9qzdBjsQpPpFO-p0Aus9KogegiwR2KpFyrW6s-jNdTlRZqPMpUlLK5kfeBMZKmIO2VnkcyptoCS43pKZeGN_XWs4m15Ys1HN9D_uZaoUaz5rugM4E6Lf_OR0Tkb92cEairKX23906RwljrTu-BGdE4lJpK6VmLxr-tb73iGjPXtq4k3kk_uaqAVzXUYkvbh3ymI8dTzlXD9g8XX_AeRetFwk4kJw3raNhJLCa4kHWhbhhfpNFbCCm1Gj22WFRIH34f4IepmjMhQDLHxSOF5-YpQPPzMkv3j11Z9ocHKkE3-e6W2ymFGuLv9vO04nac39iuzg32aabT6qqpC2NNY2IaxVAUv5-hn6HUmnMQFesPYz2Qd47LeCW3yCr_xWoLUwiuQIz6nx0H1PSa6cINLDSABkAWOSPqgl3MMpVh8VKQp3LTy0C0VI9RS2XBMaDOTEnxahjEtqI5uDHiABKglldS13ZXN0LTIw-QU.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA DIGITAL",COSMOS TV HD  SAN JUAN 
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/632JrLd.png"group-title="TDA DIGITAL",VIWIX ESTRENOS 
 https://s1.tvdatta.com:3172/hybrid/play.m3u8
 
@@ -84,6 +89,17 @@ https://s1.tvdatta.com:3457/hybrid/play.m3u8
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png"group-title="TDA DIGITAL",TV PRIME MOVIE
+https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png"group-title="TDA DIGITAL",RAKUTEN TOP FREE
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuN9Q2xGI0a_gW3v3P4YZOypCrSU3nwlrTw&usqp=CAU"group-title="TDA DIGITAL",FM TV 1
+https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1770574078.m3u8?PlaylistM3UCL
+https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8?PlaylistM3UCL
 
 
 
@@ -98,9 +114,6 @@ https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM"group-title="TDA DIGITAL",EXTREMA TV HD
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA DIGITAL",COSMOS TV HD  SAN JUAN 
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_948f2439d9bb40129b35483e0bc39ead~mv2.png/v1/fill/w_544,h_544,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/nimtv.png"group-title="TDA DIGITAL",NIM TV HD
@@ -132,17 +145,6 @@ https://cdn2.streamgato.us/clarovision/clarovision/playlist.m3u8
 https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/94368c32-7230-4ac2-9a50-6adc946e66e4/2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png"group-title="TDA DIGITAL",TV PRIME MOVIE
-https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png"group-title="TDA DIGITAL",RAKUTEN TOP FREE
-https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuN9Q2xGI0a_gW3v3P4YZOypCrSU3nwlrTw&usqp=CAU"group-title="TDA DIGITAL",FM TV 1
-https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1770574078.m3u8?PlaylistM3UCL
-https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/06/alcancetv_logo-3d.png"group-title="TDA DIGITAL",ALCANCE TV HD
