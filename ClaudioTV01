@@ -114,6 +114,12 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/644px-RT_America_Logo.png"group-title="TDA DIGITAL",RT HD   25.5
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQqrep_bDZCcIMtK1h6HOVyp4eN7jM0_Q0A&usqp=CAU"group-title="TDA DIGITAL",DW ESPAÑOL HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1168825051153670144/xyICO9lK_400x400.jpg"group-title="TDA DIGITAL",EURONEWS
+https://rakuten-euronews-4-es.samsung.wurl.com:443/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
 
 
 
@@ -169,7 +175,7 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png"group-title="TDA DIGITAL", PLANETA FAMILY HD
+#EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png"group-title="TDA DIGITAL",PLANETA FAMILY HD
 https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 
 
@@ -220,6 +226,8 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
 https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png"group-title="TDA DIGITAL",RETRO PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuN9Q2xGI0a_gW3v3P4YZOypCrSU3nwlrTw&usqp=CAU"group-title="TDA DIGITAL",FM TV HD
