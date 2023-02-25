@@ -45,6 +45,9 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoYFqj_ine1K6eWlolV_7yJAJCd
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoQFw3clPatewIXC2U1KW8gXlrZjx0Oa8Inxr6d5KYRckmh9Fe_4H7VX4V_a1rMeIYVO26VsyOGbHLnuemEr1O2fz5GTZ75_SZFkoQf7qOK8DmSccrl6BRiOG-4TpuWApV08Lr9NC3qtNs6fGcqJREtbOADDdrJaUDmgAd5YgSyDuxRsS-LYdTwGcsryPPkmAq8sld6B5obmzkSaGKKfaSKFrfXmB2cRMcF3O-2c8MSzHLdsoeCWNfnnLt8VMFEy6dBY1vW_2OJxHEH5hgN1R-0hYQvyVUT9mtRscNuxSuSYA-ecwNHznP5aABwnSjHMJOO38zI9cy80nluPdZvRSG_ZNNWMPn0JYA4O4wiyGJLAwyQZBobiPmG69Y55HXJ-zfckI1S1wE9FYir2EbFlYNhXBWIkep_OtnKH9qzdBjsQpPpFO-p0Aus9KogegiwR2KpFyrW6s-jNdTlRZqPMpUlLK5kfeBMZKmIO2VnkcyptoCS43pKZeGN_XWs4m15Ys1HN9D_uZaoUaz5rugM4E6Lf_OR0Tkb92cEairKX23906RwljrTu-BGdE4lJpK6VmLxr-tb73iGjPXtq4k3kk_uaqAVzXUYkvbh3ymI8dTzlXD9g8XX_AeRetFwk4kJw3raNhJLCa4kHWhbhhfpNFbCCm1Gj22WFRIH34f4IepmjMhQDLHxSOF5-YpQPPzMkv3j11Z9ocHKkE3-e6W2ymFGuLv9vO04nac39iuzg32aabT6qqpC2NNY2IaxVAUv5-hn6HUmnMQFesPYz2Qd47LeCW3yCr_xWoLUwiuQIz6nx0H1PSa6cINLDSABkAWOSPqgl3MMpVh8VKQp3LTy0C0VI9RS2XBMaDOTEnxahjEtqI5uDHiABKglldS13ZXN0LTIw-QU.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4Zte-xcsHgxhr5L3FIM603RaWUu1_DwZyQ&usqp=CAU"group-title="TDA DIGITAL", VIWIX ESTRENOS 
+https://s1.tvdatta.com:3172/hybrid/play.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA DIGITAL",GENTV HD  17.3  CABA
@@ -118,8 +121,6 @@ https://cdn2.streamgato.us/clarovision/clarovision/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4Zte-xcsHgxhr5L3FIM603RaWUu1_DwZyQ&usqp=CAU"group-title="TDA DIGITAL", VIWIX ESTRENOS 
-https://s1.tvdatta.com:3172/hybrid/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Box_Cinema.jpg/revision/latest?cb=20191224174158"group-title="TDA DIGITAL", BOX CINEMA HD  18.4
