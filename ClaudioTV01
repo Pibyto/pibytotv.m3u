@@ -34,7 +34,7 @@ https://citysports.grupocity.net.ar:3469/live/citysportslive.m3u8?PlaylistM3UCL
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1467051623.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e20de6_4e5ba3f3838442cdb65b7e70f9e7b7e9~mv2.png/v1/fill/w_296,h_78,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/VIWIX%20TV%20TRANSPARENTE%2001%20(2).png"group-title="TDA DIGITAL", VIWIX TERROR 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e20de6_4e5ba3f3838442cdb65b7e70f9e7b7e9~mv2.png/v1/fill/w_296,h_78.png"group-title="TDA DIGITAL", VIWIX TERROR 
 https://s1.tvdatta.com:3849/hybrid/play.m3u8
 
 
