@@ -128,6 +128,15 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png"group-title="TDA DIGITAL", PLANETA FAMILY HD
+https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.paste.pics/5700114855145b35e03c4831c13238d5.png"group-title="TDA DIGITAL",MONI TV HD
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w859990179.m3u8?WebM3UCL
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es"group-title="TDA DIGITAL",GOLDEN PLUS
 http://linear-410.frequency.stream:80/dist/vix/410/hls/master/playlist_1920x1080.m3u8
 
