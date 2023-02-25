@@ -39,6 +39,22 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cv0E1kJIH2mQqAlC7qaXRvzUh0r
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoQFw3clPatewIXC2U1KW8gXlrZjx0Oa8Inxr6d5KYRckmh9Fe_4H7VX4V_a1rMeIYVO26VsyOGbHLnuemEr1O2fz5GTZ75_SZFkoQf7qOK8DmSccrl6BRiOG-4TpuWApV08Lr9NC3qtNs6fGcqJREtbOADDdrJaUDmgAd5YgSyDuxRsS-LYdTwGcsryPPkmAq8sld6B5obmzkSaGKKfaSKFrfXmB2cRMcF3O-2c8MSzHLdsoeCWNfnnLt8VMFEy6dBY1vW_2OJxHEH5hgN1R-0hYQvyVUT9mtRscNuxSuSYA-ecwNHznP5aABwnSjHMJOO38zI9cy80nluPdZvRSG_ZNNWMPn0JYA4O4wiyGJLAwyQZBobiPmG69Y55HXJ-zfckI1S1wE9FYir2EbFlYNhXBWIkep_OtnKH9qzdBjsQpPpFO-p0Aus9KogegiwR2KpFyrW6s-jNdTlRZqPMpUlLK5kfeBMZKmIO2VnkcyptoCS43pKZeGN_XWs4m15Ys1HN9D_uZaoUaz5rugM4E6Lf_OR0Tkb92cEairKX23906RwljrTu-BGdE4lJpK6VmLxr-tb73iGjPXtq4k3kk_uaqAVzXUYkvbh3ymI8dTzlXD9g8XX_AeRetFwk4kJw3raNhJLCa4kHWhbhhfpNFbCCm1Gj22WFRIH34f4IepmjMhQDLHxSOF5-YpQPPzMkv3j11Z9ocHKkE3-e6W2ymFGuLv9vO04nac39iuzg32aabT6qqpC2NNY2IaxVAUv5-hn6HUmnMQFesPYz2Qd47LeCW3yCr_xWoLUwiuQIz6nx0H1PSa6cINLDSABkAWOSPqgl3MMpVh8VKQp3LTy0C0VI9RS2XBMaDOTEnxahjEtqI5uDHiABKglldS13ZXN0LTIw-QU.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA DIGITAL",GENTV HD  17.3  CABA
+https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA DIGITAL",NEO TV DIGITAL HD. 16.1  CABA
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4Zte-xcsHgxhr5L3FIM603RaWUu1_DwZyQ&usqp=CAU"group-title="TDA DIGITAL", VIWIX SERIES 
+https://s1.tvdatta.com:3402/hybrid/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="TDA DIGITAL", METRO TV HD  18.1 TUCUMÁN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA DIGITAL",BLU HD SAN JUAN
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
@@ -60,6 +76,10 @@ https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 https://live.seo.tv.bo/live/4SEO.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA DIGITAL",PANC TV HD 15.1 TUCUMÁN
+https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2853-960x540-000000.jpg"group-title="TDA DIGITAL",CLAROVISION TV
 https://cdn2.streamgato.us/clarovision/clarovision/playlist.m3u8
 
@@ -69,6 +89,10 @@ https://cdn2.streamgato.us/clarovision/clarovision/playlist.m3u8
 https://s1.tvdatta.com:3172/hybrid/play.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Box_Cinema.jpg/revision/latest?cb=20191224174158"group-title="TDA DIGITAL", BOX CINEMA HD  18.4
+https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/94368c32-7230-4ac2-9a50-6adc946e66e4/2.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.paste.pics/9589e4ec10d95b3d940aa71538bc8afb.png"group-title="TDA DIGITAL",TV PRIME MOVIE
 https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
 
@@ -76,6 +100,11 @@ https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuN9Q2xGI0a_gW3v3P4YZOypCrSU3nwlrTw&usqp=CAU"group-title="TDA DIGITAL",FM TV 1
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1770574078.m3u8?PlaylistM3UCL
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/06/alcancetv_logo-3d.png"group-title="TDA DIGITAL",ALCANCE TV HD
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CsKJigdJJORdIjbr9am1q0LoHhG8oSit3VtNxJ_H&s"group-title="TDA DIGITAL",BAYRES TV HD 
@@ -250,8 +279,6 @@ https://inliveserver.com:1936/8292/8292/chunklist_w158646387.m3u8
 http://arcast.net:1935/mp/mp/chunklist_w25245074.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA DIGITAL",PANC TV HD 15.1 TUCUMÁN
-https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2022/11/LOGOPERIODICO-600x329-1-300x165.png"group-title="TDA DIGITAL",LA VOZ TV HD  15.2  TUCUMÁN 
@@ -259,16 +286,11 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA DIGITAL",NEO TV DIGITAL HD. 16.1  CABA
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA DIGITAL",GENTV HD  17.3  CABA
-https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="TDA DIGITAL",CANAL+ HD  17.5
@@ -276,8 +298,6 @@ https://tvdatta.com:3451/stream/play.m3u8
 https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="TDA DIGITAL", METRO TV HD  18.1 TUCUMÁN
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://sicarditv.com.ar/static/custom/logo.png?t=2023-01-03+18%3A02%3A18.705308"group-title="TDA DIGITAL",SICARDITV HD  18.2
@@ -285,8 +305,6 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Box_Cinema.jpg/revision/latest?cb=20191224174158"group-title="TDA DIGITAL", BOX CINEMA HD  18.4
-https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/94368c32-7230-4ac2-9a50-6adc946e66e4/2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="TDA DIGITAL", PLANETA TV HD
@@ -319,12 +337,6 @@ https://seo.tv.bo/tv/ip2KIDS.m3u8
 https://live.seo.tv.bo/live/3SEO.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group3/M00/6F/CC/4ZMEAFulds-AIY40AAA0nuRCjfI548.png?x-oss-process=style/mq200"group-title="TDA DIGITAL",SEO TV 5
-
-
-
-#EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group3/M00/6F/CC/4ZMEAFulds-AIY40AAA0nuRCjfI548.png?x-oss-process=style/mq200"group-title="TDA DIGITAL",SEO TV 6
 
 
 
@@ -364,18 +376,13 @@ https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4Zte-xcsHgxhr5L3FIM603RaWUu1_DwZyQ&usqp=CAU"group-title="TDA DIGITAL", VIWIX 3
-https://s1.tvdatta.com:3402/hybrid/play.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4Zte-xcsHgxhr5L3FIM603RaWUu1_DwZyQ&usqp=CAU"group-title="TDA DIGITAL", VIWIX 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi4Zte-xcsHgxhr5L3FIM603RaWUu1_DwZyQ&usqp=CAU"group-title="TDA DIGITAL", VIWIX TERROR 
 https://s1.tvdatta.com:3849/hybrid/play.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/T4_7BFebh_PJCxdz0SJgUna1OvsqzW1ZDfw4TEYKqQNJVy9CcDNj5Oha9Uq5XOs7OZY=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",RETRO PLAY TV
-https://v4.tustreaming.cl:443/retroplaytv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nH8aHR7CsWn1Q890ZiFHA41XanzdUyHIdw&usqp=CAU"group-title="TDA DIGITAL",CORRIENTES TV HD
@@ -393,13 +400,7 @@ https://5bff1bf18a887.streamlock.net:443/rtvla/rtvla/chunklist_w681928651.m3u8?W
 http://mediaplatform.streamingmediahosting.com/p/10671/sp/1067100/playManifest/entryId/0_97vnjka8/format/applehttp/protocol/http/a.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://avivamiento.com/assets_nw/img/cma/logo_white.png"group-title="TDA DIGITAL",ABN TV
-https://s3.abntelevision.com:443/avivamientoabr/stream/avivamientosd/avivamientosd/chunks.m3u8?nimblesessionid=10165542
 
-
-#EXTINF:-1 tvg-logo="https://www.kebuena.com.mx/wp-content/uploads/2020/08/programas-de-chespirito-salen-del-aire-tras-50-anos-de-emisiones-ininterrumpidas-1-e1596516423259.png"group-title="TDA DIGITAL",CHESPIRITO 24/7
-https://live.telelatinohd.com:8080/MTg2LjEzMi44Mi40/355_.m3u8?token=WKzrL3UC2Tz4JAshAWSNvg&expires=1677297071
-https://live.telelatinohd.com:8080/MTg2LjEzMi44Mi40/355_.m3u8?token=Dqe1GfQHQLw-rtmYexqPSg&expires=1677287861
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/oABwHpOC6YdIVWE7vnrnR-UGz8EIVngQlSVXX51YTD895O70jbMUX-3_1e2hLZstG0Q"group-title="TDA DIGITAL", PALABRA DE DIOS SIN LEVADURA
@@ -460,9 +461,6 @@ https://paneltv.net:3751/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO-200x200.png"group-title="TDA DIGITAL", DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/06/alcancetv_logo-3d.png"group-title="TDA DIGITAL",ALCANCE TV HD
-https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
 
 
 
