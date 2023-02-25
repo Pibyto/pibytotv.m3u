@@ -30,6 +30,16 @@ https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM
 https://citysports.grupocity.net.ar:3469/live/citysportslive.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA DIGITAL",EL TRECE HD   33.1
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA DIGITAL", TELEFE HD  34.1
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1677418128~acl=%2f*~data=hdntl~hmac=4e9cf33cc96cce348f30b00f03508476dfe7ec92d29127b8e35b0ecaa78f7735/master-mtlf.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://resizer.glanacion.com/resizer/zHNFmrKai_aejmSHLCmIX6iEZF8=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/E2FYE64GJVACFMBT4UDXWNETLI.png"group-title="TDA DIGITAL",CHAVO DEL 8
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvgEOaDrdXMxs-g_0L6l_NFeSv4fKu4NwyF8EwqShq2LBMEq27gHb1-Op1EFF-jfKHbeDR2_VG_YT30A7sSFqHZVezwB6WaVcVRf-zTXrrKPxda3CgTxMiOYdSaA2d2MJSXwwVRUYfsDV2rsY8amm9QARsqLQAwEDMp03YjfvFjjQZM3Eew2Oxx3uwZbGtMlk0_ne2ghbKYhplxYdlpvrHRajTXwSp23jktf8AjOFY_r0EwjWiO2uEVQOVZYgPKXSYKz9jDBFp2RmGZicyiiRwQEs3IrV5J0MrAG8QNxo-2zWMhsd6Jz2talkvyZzmG7RJyP-9GxZLH4WjypCrUclHFGBaii5cAhEYduUK2NATBO1ren34DzasAWDDbg6D0SmByfRL45X2B-H1OmPWp4Z5Pr6ab6vTC6EFEPvbLIdkSEYKBO1G0GK-sTc1YYUIyRLTpxDNXUEePw38tzLdXEWTFXOTnZCy-YvSkJMl6jUQKPfS0RvIEKprrtyy2yZZqqdBTPXwLfHeyHewZ7bK1_JlN3ZnwCpzzREOxqJ4z1tt57pN6wCqwW0RWvAZLCQLP0-0agylR4ywDYDlEg6v6TxjBRETRCF9t3Pmxx2nUtwfLErYWmEqliu0VxderyEnsDaCS1vpDQB0Tm5qHXRGjBP4KM-_M2washlvdzpgvAkO0T544IB4-imC-D5HAEgA0gCKmAmrUl2aE1ZxsrOE0_LTTdgjMAWIjYQEga81_0btaUrhv8SkQe8AD40-hcEdu0NKv62s-jLlEW6SJOZpPLqOi9Nw7vDJ2TOlFbr7Z73vPZKRvbOry8lZTdnxrIrfvzbeVJVa4fQ65TOdYaDONwWLvkt8IHD5vpYiABKgl1cy1lYXN0LTIw-AU.m3u8
 
@@ -770,9 +780,6 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1065140217.m3u8
 https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA DIGITAL",EL TRECE HD   33.1
-http://streamgo.vip:8008/cristian2022/cristian2022/158985
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Xama-Senal-UNSJ-en-vivo-Online.png?resize=218%2C150&ssl=1"group-title="TDA DIGITAL",XAMATV  33.1  SAN JUAN 
@@ -785,10 +792,6 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA DIGITAL", TELEFE HD  34.1
-https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1677418128~acl=%2f*~data=hdntl~hmac=4e9cf33cc96cce348f30b00f03508476dfe7ec92d29127b8e35b0ecaa78f7735/master-mtlf.m3u8
-http://streamgo.vip:8008/cristian2022/cristian2022/158969
-http://streamgo.vip:8008/cristian2022/cristian2022/158968
 
 
 
