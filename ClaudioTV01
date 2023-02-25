@@ -74,6 +74,10 @@ https://g4.vxral-hor.transport.edge-access.net:443/a10/ngrp:cronicatv_video1-100
 http://daleplay.club:8080/eduardo2022/eduardo2022/81300
 
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png"group-title="TDA DIGITAL",A24 HD  36.3
+https://g1.proy-hor.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://resizer.glanacion.com/resizer/zHNFmrKai_aejmSHLCmIX6iEZF8=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/E2FYE64GJVACFMBT4UDXWNETLI.png"group-title="TDA DIGITAL",CHAVO DEL 8
@@ -749,12 +753,6 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png"group-title="TDA DIGITAL", DEPORTV HD   24.1
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/29348
-http://streamgo.vip:8008/cristian2022/cristian2022/158981
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"group-title="TDA DIGITAL",TN HD   25.3
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Telesur_HD_%282017%29.png/revision/latest/scale-to-width-down/250?cb=20220719221045"group-title="TDA DIGITAL",TELESUR HD  25.4
@@ -791,8 +789,6 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/sptv.png"group-title="TDA DIGITAL",CANAL 32 SPTV HD  32.1
-
 
 
 
@@ -827,13 +823,6 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="TDA DIGITAL",CANAL 7 HD  36.1. JUJUY 
 https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1079304926_b1327104.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png"group-title="TDA DIGITAL",A24 HD  36.3
-https://g1.proy-hor.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
-
 
 
 
