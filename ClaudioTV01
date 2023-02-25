@@ -39,6 +39,25 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1677418128~acl=%2f*~data=hdntl~hmac=4e9cf33cc96cce348f30b00f03508476dfe7ec92d29127b8e35b0ecaa78f7735/master-mtlf.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA DIGITAL",EL NUEVE HD  35.1
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="TDA DIGITAL",CANAL 26 HD  24.2
+http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w196303941_b2628000_sleng.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA DIGITAL", AMÉRICA HD  36.1
+https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png"group-title="TDA DIGITAL", CRÓNICA HD   24.4
+https://g4.vxral-hor.transport.edge-access.net:443/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+http://daleplay.club:8080/eduardo2022/eduardo2022/81300
+
+
+
 
 #EXTINF:-1 tvg-logo="https://resizer.glanacion.com/resizer/zHNFmrKai_aejmSHLCmIX6iEZF8=/768x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/E2FYE64GJVACFMBT4UDXWNETLI.png"group-title="TDA DIGITAL",CHAVO DEL 8
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvgEOaDrdXMxs-g_0L6l_NFeSv4fKu4NwyF8EwqShq2LBMEq27gHb1-Op1EFF-jfKHbeDR2_VG_YT30A7sSFqHZVezwB6WaVcVRf-zTXrrKPxda3CgTxMiOYdSaA2d2MJSXwwVRUYfsDV2rsY8amm9QARsqLQAwEDMp03YjfvFjjQZM3Eew2Oxx3uwZbGtMlk0_ne2ghbKYhplxYdlpvrHRajTXwSp23jktf8AjOFY_r0EwjWiO2uEVQOVZYgPKXSYKz9jDBFp2RmGZicyiiRwQEs3IrV5J0MrAG8QNxo-2zWMhsd6Jz2talkvyZzmG7RJyP-9GxZLH4WjypCrUclHFGBaii5cAhEYduUK2NATBO1ren34DzasAWDDbg6D0SmByfRL45X2B-H1OmPWp4Z5Pr6ab6vTC6EFEPvbLIdkSEYKBO1G0GK-sTc1YYUIyRLTpxDNXUEePw38tzLdXEWTFXOTnZCy-YvSkJMl6jUQKPfS0RvIEKprrtyy2yZZqqdBTPXwLfHeyHewZ7bK1_JlN3ZnwCpzzREOxqJ4z1tt57pN6wCqwW0RWvAZLCQLP0-0agylR4ywDYDlEg6v6TxjBRETRCF9t3Pmxx2nUtwfLErYWmEqliu0VxderyEnsDaCS1vpDQB0Tm5qHXRGjBP4KM-_M2washlvdzpgvAkO0T544IB4-imC-D5HAEgA0gCKmAmrUl2aE1ZxsrOE0_LTTdgjMAWIjYQEga81_0btaUrhv8SkQe8AD40-hcEdu0NKv62s-jLlEW6SJOZpPLqOi9Nw7vDJ2TOlFbr7Z73vPZKRvbOry8lZTdnxrIrfvzbeVJVa4fQ65TOdYaDONwWLvkt8IHD5vpYiABKgl1cy1lYXN0LTIw-AU.m3u8
@@ -46,8 +65,11 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvgEOaDrdXMxs-g_0L6l_NFeSv4
 #EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png"group-title="TDA DIGITAL", PLANETA TV MOVIE FHD
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1467051623.m3u8?PlaylistM3UCL
 
+
+
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c4309606-358e-437f-8c6b-8b50c1e01757-profile_image-50x50.png"group-title="TDA DIGITAL",MOVIE_HOME
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvIEgdvQmRMju200GBRBrobg-LXSdAR75HWiahRidil-ebhZDMIvK_dLucTcEaeH2ZePASYvmDoiufK6_sDIACD7GhXx5YWUNkws4lLP1jYgD4Ci_vzzSOfN2aAh2Tl76VyzY5C6y3f5tDoTQu7Dgbv5U_oqz0NU2OuejUjpeBNcKZDTdV3_ILeGqjHKC_KOl3AEXv3-jmTgjNoM3QZvhcedhg6khf7rVfhq9Q0GlHcusGab0d4RO1E1dYlzKN4Lp6q7RH1H76ygTvCCBQxtuIvURHUVCxciufvh2wbVPNus9Rvcq817VImP8MoSCcx2UIXCYL9SaV4_7Ingk1AzMkvSt71vhDcKhXFnaWozX9pxeMN7syrGtBKW4lUKO0x1VMZSboKpBHlZWGaleZ7qQuW5I4LJ0N03yapmoztZKcj8ff1YhnXC1kqR0EnKaJ5n1exOV9VSz3U_lwdaF0vJBVv-vH3qe5BI1KmcGi770A-Vxas5F4qiG-CERHqaHfxYsffccyiX2l5v14_rDL9UBOTJXp8ZSbUZ4H-mo0Dv8k3-hVTO4mucbqCwqeOuXAfo2kCMvs5NOH7oCVZVk_S1w8lcUOoV9TQql-JewcjW_t14YyxZH0ebXamsEXRNXrjrFD5FVKts706HGGJZ_XeAGEVCqh76w-fCPuJXHhLoBh7rndimfmpqSY_kg6FmLFCHtc4OddBQUQ-ohM8YjT0KjPjGcOiljk0oFMdHQm3cGZJSzobSx2j4NCBPax8I_ne62Cj12hHr9pZjYd3nHaClzflnUAVfCnADj0SLEVVCTgs8OaDnMq1G3xXxBfVNHLrfdH12_cQaDLusnmRJILTXlefbeCABKgl1cy1lYXN0LTEwrwQ.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima35918408679.jpg"group-title="TDA DIGITAL", VIWIX TERROR 
 https://s1.tvdatta.com:3849/hybrid/play.m3u8
@@ -705,20 +727,6 @@ http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/29348
 http://streamgo.vip:8008/cristian2022/cristian2022/158981
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="TDA DIGITAL",CANAL 26 HD  24.2
-http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w196303941_b2628000_sleng.m3u8?PlaylistM3UCL
-http://streamgo.vip:8008/cristian2022/cristian2022/159002
-http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w1094300820_b2628000_sleng.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png"group-title="TDA DIGITAL", CRÓNICA HD   24.4
-https://g4.vxral-hor.transport.edge-access.net:443/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
-http://daleplay.club:8080/eduardo2022/eduardo2022/81300
-
-
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png"group-title="TDA DIGITAL",IP HD   24.5
 https://d1nmqgphjn0y4.cloudfront.net:443/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 https://is-tucuman.cdn.rcs.net.ar/mnp/ip_hls/playlist.m3u8
@@ -800,9 +808,6 @@ https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hd
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA DIGITAL",EL NUEVE HD  35.1
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/60ba654d0cf443090aa41804.png"group-title="TDA DIGITAL",ASPEN HD  35.3
@@ -812,9 +817,6 @@ https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg"group-title="TDA DIGITAL",TIERRAMIATV HD  35.4
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA DIGITAL", AMÉRICA HD  36.1
-https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="TDA DIGITAL",CANAL 7 HD  36.1. JUJUY 
