@@ -99,6 +99,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091
 https://s1.tvdatta.com:3457/hybrid/play.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME LATINO HD
+https://stream.ads.ottera.tv/cl/230225cft0jm3vu5r21en0h1a0/1280x720_3071200_0_f.m3u8?i=475_2154
+
+
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME ACCION HD
+https://stream.ads.ottera.tv/cl/230225cft0hirt72u1ih7psoig/1280x720_3071200_0_f.m3u8?i=475_2550
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Box_Cinema.jpg/revision/latest?cb=20191224174158"group-title="TDA DIGITAL", BOX CINEMA HD
 https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/94368c32-7230-4ac2-9a50-6adc946e66e4/2.m3u8
 
@@ -1075,6 +1085,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007c
 
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME LATINO
+https://stream.ads.ottera.tv/cl/230225cft0jm3vu5r21en0h1a0/1280x720_3071200_0_f.m3u8?i=475_2154
 
 
 
