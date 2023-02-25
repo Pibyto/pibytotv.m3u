@@ -59,7 +59,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://linear-410.frequency.stream:80/dist/vix/410/hls/master/playlist_1920x1080.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="TDA DIGITAL",CINE SONY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/800px-Sony_Movies_Logo.svg.png"group-title="TDA DIGITAL",CINE SONY
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 
