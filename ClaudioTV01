@@ -55,6 +55,12 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es"group-title="TDA DIGITAL",GOLDEN PLUS
+http://linear-410.frequency.stream:80/dist/vix/410/hls/master/playlist_1920x1080.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="TDA DIGITAL",CINE SONY
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="TDA DIGITAL", CINE ESTELAR
@@ -1296,8 +1302,6 @@ http://linear-409.frequency.stream:80/dist/vix/409/hls/master/playlist_1920x1080
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png"group-title="TDA DIGITAL",GOLDEN 2
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es"group-title="TDA DIGITAL",GOLDEN PLUS
-http://linear-410.frequency.stream:80/dist/vix/410/hls/master/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"group-title="TDA DIGITAL",GOLDEN EDGE
 
@@ -1338,9 +1342,6 @@ http://linear-410.frequency.stream:80/dist/vix/410/hls/master/playlist_1920x1080
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"group-title="TDA DIGITAL",CINECANAL HD
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1356336769801670657/FPYpB4S7_400x400.jpg"group-title="TDA DIGITAL",CINE SONY
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/80/ac/0e/80ac0e5a909f75ef1adb25bc74e8b8af.jpg"group-title="TDA DIGITAL",HBO HD
