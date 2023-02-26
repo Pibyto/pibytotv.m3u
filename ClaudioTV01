@@ -134,6 +134,27 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvYENeSiId7o77HyCspckdHzu_x
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA DIGITAL",COSMOS TV HD  SAN JUAN 
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA DIGITAL",GENTV HD  17.3  CABA
+https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA DIGITAL",BLU HD SAN JUAN
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA DIGITAL",NEO TV DIGITAL HD. 16.1  CABA
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqSWyRQN5WbtHlv_Wt9u4Z-mbZ40v0xp0Kg&usqp=CAU"group-title="TDA DIGITAL",BAYRES TV HD 
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c4309606-358e-437f-8c6b-8b50c1e01757-profile_image-50x50.png"group-title="TDA DIGITAL",MOVIE_HOME  👈 "9 1/2" horas de PELÍCULAS 
 https://d1m7jfoe9zdc1j.cloudfront.net/a4f8006207ea37529787_movie_home_40981232361_1677304545/chunked/index-muted-JU0N2G0LIZ.m3u8
@@ -158,9 +179,6 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoUFvjm4noz_036oK2MrUqAfhll
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA DIGITAL",COSMOS TV HD  SAN JUAN 
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/632JrLd.png"group-title="TDA DIGITAL",VIWIX ESTRENOS 
@@ -170,24 +188,10 @@ https://s1.tvdatta.com:3172/hybrid/play.m3u8
 https://live.seo.tv.bo/live/4SEO.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA DIGITAL",GENTV HD  17.3  CABA
-https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA DIGITAL",NEO TV DIGITAL HD. 16.1  CABA
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqSWyRQN5WbtHlv_Wt9u4Z-mbZ40v0xp0Kg&usqp=CAU"group-title="TDA DIGITAL",BAYRES TV HD 
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-6-mar-del-plata.png"group-title="TDA DIGITAL",CANAL 6 HD  6.1  MAR DEL PLATA
 https://panel.dattalive.com:443/8166/8166/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA DIGITAL",BLU HD SAN JUAN
-https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="TDA DIGITAL",ORBIT TV HD
