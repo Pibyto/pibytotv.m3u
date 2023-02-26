@@ -155,14 +155,24 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="TDA DIGITAL",TELEMAX RD
+https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/632JrLd.png"group-title="TDA DIGITAL",VIWIX ESTRENOS 
+https://s1.tvdatta.com:3172/hybrid/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="TDA DIGITAL",ORBIT TV HD
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c4309606-358e-437f-8c6b-8b50c1e01757-profile_image-50x50.png"group-title="TDA DIGITAL",MOVIE_HOME  👈 "9 1/2" horas de PELÍCULAS 
 https://d1m7jfoe9zdc1j.cloudfront.net/a4f8006207ea37529787_movie_home_40981232361_1677304545/chunked/index-muted-JU0N2G0LIZ.m3u8
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvIEgdvQmRMju200GBRBrobg-LXSdAR75HWiahRidil-ebhZDMIvK_dLucTcEaeH2ZePASYvmDoiufK6_sDIACD7GhXx5YWUNkws4lLP1jYgD4Ci_vzzSOfN2aAh2Tl76VyzY5C6y3f5tDoTQu7Dgbv5U_oqz0NU2OuejUjpeBNcKZDTdV3_ILeGqjHKC_KOl3AEXv3-jmTgjNoM3QZvhcedhg6khf7rVfhq9Q0GlHcusGab0d4RO1E1dYlzKN4Lp6q7RH1H76ygTvCCBQxtuIvURHUVCxciufvh2wbVPNus9Rvcq817VImP8MoSCcx2UIXCYL9SaV4_7Ingk1AzMkvSt71vhDcKhXFnaWozX9pxeMN7syrGtBKW4lUKO0x1VMZSboKpBHlZWGaleZ7qQuW5I4LJ0N03yapmoztZKcj8ff1YhnXC1kqR0EnKaJ5n1exOV9VSz3U_lwdaF0vJBVv-vH3qe5BI1KmcGi770A-Vxas5F4qiG-CERHqaHfxYsffccyiX2l5v14_rDL9UBOTJXp8ZSbUZ4H-mo0Dv8k3-hVTO4mucbqCwqeOuXAfo2kCMvs5NOH7oCVZVk_S1w8lcUOoV9TQql-JewcjW_t14YyxZH0ebXamsEXRNXrjrFD5FVKts706HGGJZ_XeAGEVCqh76w-fCPuJXHhLoBh7rndimfmpqSY_kg6FmLFCHtc4OddBQUQ-ohM8YjT0KjPjGcOiljk0oFMdHQm3cGZJSzobSx2j4NCBPax8I_ne62Cj12hHr9pZjYd3nHaClzflnUAVfCnADj0SLEVVCTgs8OaDnMq1G3xXxBfVNHLrfdH12_cQaDLusnmRJILTXlefbeCABKgl1cy1lYXN0LTEwrwQ.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima35918408679.jpg"group-title="TDA DIGITAL", VIWIX TERROR 
-https://s1.tvdatta.com:3849/hybrid/play.m3u8
 
 
 
@@ -181,10 +191,6 @@ https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/632JrLd.png"group-title="TDA DIGITAL",VIWIX ESTRENOS 
-https://s1.tvdatta.com:3172/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group3/M00/6F/CC/4ZMEAFulds-AIY40AAA0nuRCjfI548.png?x-oss-process=style/mq200"group-title="TDA DIGITAL",SEO TV PELÍCULAS 
 https://live.seo.tv.bo/live/4SEO.m3u8
 
@@ -195,12 +201,10 @@ https://panel.dattalive.com:443/8166/8166/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="TDA DIGITAL",ORBIT TV HD
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima35918408679.jpg"group-title="TDA DIGITAL", VIWIX TERROR 
+https://s1.tvdatta.com:3849/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="TDA DIGITAL",TELEMAX RD
-https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png"group-title="TDA DIGITAL",PLANETA FAMILY HD
