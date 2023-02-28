@@ -155,6 +155,11 @@ https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="TDA DIGITAL",VIDATV HD
+https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
+https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima71101379954.jpg"group-title="TDA DIGITAL",VIWIX ACCIÓN 
 https://s1.tvdatta.com:3457/hybrid/play.m3u8
 
@@ -622,9 +627,6 @@ https://tv.clientetvstudio.net:3158/hybrid/play.m3u8
 https://mediacpstreamchile.com:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="TDA DIGITAL",VIDATV HD
-https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
-https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-960x540-000000.jpg"group-title="TDA DIGITAL",RESTAURANDO VIDAS TV HD
