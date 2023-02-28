@@ -230,6 +230,10 @@ https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrQFdmdU9654eVkydqolz1hQBcTI0-ZbfIA&usqp=CAU"group-title="TDA DIGITAL",NOSARA CANAL 17
+https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1675-294x165-FFFFFF.jpg"group-title="TDA DIGITAL",CANAL 18 HD
 https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8
 
@@ -360,6 +364,11 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1592590004861091840/y_o0OYR-_400x400.jpg"group-title="TDA DIGITAL",TELECLASICA
 https://ssh101.bozztv.com:443/ssh101/teleclasik/chunks.m3u8?nimblesessionid=779020
+
+
+#EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group3/M00/6F/CC/4ZMEAFulds-AIY40AAA0nuRCjfI548.png?x-oss-process=style/mq200"group-title="TDA DIGITAL",SEO TV
+https://live.seo.tv.bo/live/1SEO.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jTVUrupG07A/WTCvoHtiKxI/AAAAAAAAJr4/JrhuD0blPt0aJaC3Fjq2uE27D4eCQRL-QCLcB/s1600/cinerama.jpg"group-title="TDA DIGITAL",CINERAMA HD
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
@@ -577,12 +586,6 @@ https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1780444006.m3u8
 https://srv4.zcast.com.br:443/tvnovaplay/tvnovaplay/chunklist_w1790577192.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group3/M00/6F/CC/4ZMEAFulds-AIY40AAA0nuRCjfI548.png?x-oss-process=style/mq200"group-title="TDA DIGITAL",SEO TV
-https://live.seo.tv.bo/live/1SEO.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png?fit=462%2C112&ssl=1"group-title="TDA DIGITAL", TELEVISIÓN DEL ESTE HD
 https://cm.hostlagarto.com:4445/ESTV/estv.myStream/playlist.m3u8?DVR
 
@@ -612,7 +615,6 @@ https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/wzukusers/user-34644993/images/5c37e41ff3ba88QnasaG/LOGO-MASTER-WEB_d400.png"group-title="TDA DIGITAL",ONE VISIÓN CRHISTIAN NETWORK 
-https://5bff1bf18a887.streamlock.net:443/rtvla/rtvla/chunklist_w681928651.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVnAYuhTI8n3BtJqKwumbv5Zpmst7RGc_m6bdBJZg=s900-c-k-c0x00ffffff-no-rj"group-title="TDA DIGITAL", MANÁ DEL CIELO TV
