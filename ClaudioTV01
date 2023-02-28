@@ -304,8 +304,22 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
 https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png"group-title="TDA DIGITAL",RETRO PLUS
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1624983198198374400/A4IEUgtz_400x400.jpg"group-title="TDA DIGITAL",RETRO PLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jTVUrupG07A/WTCvoHtiKxI/AAAAAAAAJr4/JrhuD0blPt0aJaC3Fjq2uE27D4eCQRL-QCLcB/s1600/cinerama.jpg"group-title="TDA DIGITAL",CINERAMA HD
+https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/1534116442-d8ea9c6dce32875202e84c82451b5625e13b650673c6c00d2f30e1027ea47d8d-d"group-title="TDA DIGITAL",RETROXTV
+https://5bf8041cb3fed.streamlock.net:443/retroxtv/retroxtv/chunklist_w1004812173.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png"group-title="TDA DIGITAL",UCV TV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuN9Q2xGI0a_gW3v3P4YZOypCrSU3nwlrTw&usqp=CAU"group-title="TDA DIGITAL",FM TV HD
@@ -546,19 +560,6 @@ https://srv4.zcast.com.br:443/tvnovaplay/tvnovaplay/chunklist_w1790577192.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group3/M00/6F/CC/4ZMEAFulds-AIY40AAA0nuRCjfI548.png?x-oss-process=style/mq200"group-title="TDA DIGITAL",SEO TV
 https://live.seo.tv.bo/live/1SEO.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jTVUrupG07A/WTCvoHtiKxI/AAAAAAAAJr4/JrhuD0blPt0aJaC3Fjq2uE27D4eCQRL-QCLcB/s1600/cinerama.jpg"group-title="TDA DIGITAL",CINERAMA HD
-https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/1534116442-d8ea9c6dce32875202e84c82451b5625e13b650673c6c00d2f30e1027ea47d8d-d"group-title="TDA DIGITAL",RETROXTV
-https://5bf8041cb3fed.streamlock.net:443/retroxtv/retroxtv/chunklist_w1004812173.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png"group-title="TDA DIGITAL",UCV TV
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
 
 
