@@ -73,6 +73,10 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA DIGITAL", CANAL 4 HD  4.1  JUJUY
+http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png"group-title="TDA DIGITAL",UNIFE  25.1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca
 
@@ -158,6 +162,10 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="TDA DIGITAL",VIDATV HD
 https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
 https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5S4e_jY1cJrTk2wt1hpUbCuRxwOo2pe0jUQ&usqp=CAU"group-title="TDA DIGITAL",CINECLUB HD
+https://servilive.com:3176/live/cineclublive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima71101379954.jpg"group-title="TDA DIGITAL",VIWIX ACCIÓN 
@@ -395,10 +403,6 @@ https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5S4e_jY1cJrTk2wt1hpUbCuRxwOo2pe0jUQ&usqp=CAU"group-title="TDA DIGITAL",CINECLUB HD
-https://servilive.com:3176/live/cineclublive.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://solivetv.net/wp-content/uploads/2020/09/logo2.png"group-title="TDA DIGITAL",CANAL 2 SOLIVE TV HD
 https://stmv1.cnarlatam.com:443/solivetv/solivetv/chunklist_w1359777116.m3u8?PlaylistM3UCL
 
@@ -445,22 +449,8 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM
 https://intelincloud.com.ar/canales/canal3pinamar/index.m3u8
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA DIGITAL", CANAL 4 HD  4.1  JUJUY
-http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
-https://5cd577a3dd8ec.streamlock.net:443/CAMARAS/live2/chunklist_w1842425271.m3u8
-http://streaming.wirenetserver.com.ar:1935/canal4/manifest.smil/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zRsbCQ057WQ/XsSJeLXVw5I/AAAAAAAAv24/FcMy1_I8EVcTB6PkfCz7BuAfWZcJZfo-ACNcBGAsYHQ/s1600/LOGO%2BCANAL%2B4%2BDEGRADE_OK%25282%2529.png"group-title="TDA DIGITAL", CANAL 4 HD  4.2   POSADAS
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
-
-
 
 
 #EXTINF:-1 tvg-logo="https://www.canal4teleaire.com.ar/wp-content/uploads/2022/07/logo-canal-4.png"group-title="TDA DIGITAL",  TELEAIRE CANAL 4  4.4   SAN MARTIN 
