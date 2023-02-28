@@ -358,12 +358,12 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
 https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3033-960x540-000000.jpg"group-title="TDA DIGITAL",RETROXTV
-https://5bf8041cb3fed.streamlock.net:443/retroxtv/retroxtv/chunklist_w1004812173.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1624983198198374400/A4IEUgtz_400x400.jpg"group-title="TDA DIGITAL",RETRO PLUS
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a25d309560cb8153a2292e189cba08bbcfce993ef9a4a729963d93484a6a24bc.png"group-title="TDA DIGITAL",TELE RED
+https://video20.klm99.com:3558/live/teleredlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1592590004861091840/y_o0OYR-_400x400.jpg"group-title="TDA DIGITAL",TELECLASICA
@@ -378,6 +378,8 @@ https://live.seo.tv.bo/live/1SEO.m3u8
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/1534116442-d8ea9c6dce32875202e84c82451b5625e13b650673c6c00d2f30e1027ea47d8d-d"group-title="TDA DIGITAL",RETROXTV
+https://5bf8041cb3fed.streamlock.net:443/retroxtv/retroxtv/chunklist_w1004812173.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png"group-title="TDA DIGITAL",UCV TV
