@@ -194,6 +194,10 @@ https://canalsj.kozow.com:443/canal40/tracks-v1a1/mono.m3u8
 https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1675-294x165-FFFFFF.jpg"group-title="TDA DIGITAL",CANAL 18 HD
+https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/8807f459a0003892b18d96f92e947e82767043d540c444c2cf44daa5c6fd2807.png"group-title="TDA DIGITAL",LUNA TV
 https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w395564822.m3u8?PlaylistM3UCL
 
