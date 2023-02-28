@@ -184,16 +184,21 @@ https://s1.tvdatta.com:3457/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqSWyRQN5WbtHlv_Wt9u4Z-mbZ40v0xp0Kg&usqp=CAU"group-title="TDA DIGITAL",BAYRES TV HD 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_e3uLIJe0IFRoWzT0YNSF3QIv27ZLZmMjrg&usqp=CAU"group-title="TDA DIGITAL", CB TV
+https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a889a5_d93a414ce0504f8ebbc4d2c04882a23d~mv2.png/v1/fill/w_440,h_440,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telebrunca2-04.png"group-title="TDA DIGITAL",TELEBRUNCA
+https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1991786516.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2966-960x540-000000.jpg"group-title="TDA DIGITAL", CELESTIAL TV
 https://grupocibermedios.com:3870/live/celestialtvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
-
-
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2973-960x540-000000.jpg"group-title="TDA DIGITAL", UNIDOS TV
 https://grupocibermedios.com:3626/hybrid/play.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
-
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2911-960x540-000000.jpg"group-title="TDA DIGITAL",VIDA NUEVA TV
@@ -381,6 +386,9 @@ https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-jTVUrupG07A/WTCvoHtiKxI/AAAAAAAAJr4/JrhuD0blPt0aJaC3Fjq2uE27D4eCQRL-QCLcB/s1600/cinerama.jpg"group-title="TDA DIGITAL",CINERAMA HD
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/favImage.png"group-title="TDA DIGITAL",STV
+https://lstv.duckdns.org:449/hls/stv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png"group-title="TDA DIGITAL",UCV TV
