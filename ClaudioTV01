@@ -185,8 +185,13 @@ https://s1.tvdatta.com:3457/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqSWyRQN5WbtHlv_Wt9u4Z-mbZ40v0xp0Kg&usqp=CAU"group-title="TDA DIGITAL",BAYRES TV HD 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_e3uLIJe0IFRoWzT0YNSF3QIv27ZLZmMjrg&usqp=CAU"group-title="TDA DIGITAL", CB TV
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrQFdmdU9654eVkydqolz1hQBcTI0-ZbfIA&usqp=CAU"group-title="TDA DIGITAL",NOSARA CANAL 17
+https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
 
 
 
@@ -236,9 +241,6 @@ https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrQFdmdU9654eVkydqolz1hQBcTI0-ZbfIA&usqp=CAU"group-title="TDA DIGITAL",NOSARA CANAL 17
-https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1675-294x165-FFFFFF.jpg"group-title="TDA DIGITAL",CANAL 18 HD
 https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8
@@ -262,6 +264,11 @@ https://cloudflare.streamgato.us:3180/live/guacaratvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisionuniversitariaumsa.com/images/tvu_blanco.png"group-title="TDA DIGITAL",TV UMSA
 https://614013e273786.streamlock.net:443/TvUniversitaria/TvUniversitaria/chunklist_w849098016.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nABAES2K4zE72UkrJSmlXlG2mq53XuJGNWZQPhZmtTAM1j-k_B26EPTucf8Ot-502wg=w526-h296-rw"group-title="TDA DIGITAL",DTPLAY
+https://tv.portalexpress.es:3044/live/dtplaylive.m3u8   
+
 
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/multivision.png"group-title="TDA DIGITAL", MULTIVISION RD
