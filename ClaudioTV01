@@ -52,6 +52,7 @@ http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/
 
 
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA DIGITAL", TELEFE  34.1  WEB
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1677839630~acl=%2f*~data=hdntl~hmac=3a9e9aac5209786ade81c9144759fd99647990318e778681d30e727f11c6a026/master-mtlf.m3u8
 https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1677686301~acl=%2f*~data=hdntl~hmac=bf3998c8c93a3f31207e6841ea872e7a9316f0e7b3681bd2cdb6fb9029abbd89/master-mtlf.m3u8
 
 
