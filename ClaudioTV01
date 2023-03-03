@@ -159,14 +159,15 @@ https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="TDA DIGITAL",VIDATV HD
-https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
-https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3127-960x540-000000.jpg"group-title="TDA DIGITAL", BOX CINEMA HD
 https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/94368c32-7230-4ac2-9a50-6adc946e66e4/2.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="TDA DIGITAL",VIDATV HD
+https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
+https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5S4e_jY1cJrTk2wt1hpUbCuRxwOo2pe0jUQ&usqp=CAU"group-title="TDA DIGITAL",CINECLUB HD
@@ -186,6 +187,10 @@ https://s1.tvdatta.com:3457/hybrid/play.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="TDA DIGITAL",TELEMAX RD
+https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_e3uLIJe0IFRoWzT0YNSF3QIv27ZLZmMjrg&usqp=CAU"group-title="TDA DIGITAL", CB TV
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 
@@ -198,13 +203,6 @@ https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a889a5_d93a414ce0504f8ebbc4d2c04882a23d~mv2.png/v1/fill/w_440,h_440,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telebrunca2-04.png"group-title="TDA DIGITAL",TELEBRUNCA
 https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1991786516.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2966-960x540-000000.jpg"group-title="TDA DIGITAL", CELESTIAL TV
-https://grupocibermedios.com:3870/live/celestialtvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
-
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2973-960x540-000000.jpg"group-title="TDA DIGITAL", UNIDOS TV
-https://grupocibermedios.com:3626/hybrid/play.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2911-960x540-000000.jpg"group-title="TDA DIGITAL",VIDA NUEVA TV
@@ -227,8 +225,6 @@ https://canalsj.kozow.com:443/canal40/tracks-v1a1/mono.m3u8
 https://cdn5.streamgato.us:3059/live/maquinatvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
-#EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="TDA DIGITAL",TELEMAX RD
-https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
 
 
 
@@ -669,6 +665,8 @@ https://tv.clientetvstudio.net:3158/hybrid/play.m3u8
 https://mediacpstreamchile.com:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2966-960x540-000000.jpg"group-title="TDA DIGITAL", CELESTIAL TV
+https://grupocibermedios.com:3870/live/celestialtvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-960x540-000000.jpg"group-title="TDA DIGITAL",RESTAURANDO VIDAS TV HD
