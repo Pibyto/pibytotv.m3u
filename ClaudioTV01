@@ -235,6 +235,19 @@ https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
 https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1991786516.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png"group-title="TDA DIGITAL", PLANETA TV
+https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://doblectelevision.com/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-28-at-11.48.49-AM.jpeg"group-title="TDA DIGITAL",DOBLE C
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://sanjuaneratv.pe/wp-content/uploads/2021/10/LOGO1.png"group-title="TDA DIGITAL",SAN JUANERA
+https://live.obslivestream.com:443/sanjuanera/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png"group-title="TDA DIGITAL",CTV - CAPRICHO HD
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
 
