@@ -256,8 +256,6 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
 https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2911-960x540-000000.jpg"group-title="TDA DIGITAL",VIDA NUEVA TV
-https://eu1.servers10.com:8081/vidanuevatv/index.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="TDA DIGITAL", METRO TV HD  18.1 TUCUMÁN
@@ -272,8 +270,6 @@ https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3XLxr8A_losnnGts1Qkrvd7F55Hw3o2y6hg&usqp=CAU"group-title="TDA DIGITAL",LIM TV
-https://live.limplay.ml/limtv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima48115702020.jpg"group-title="TDA DIGITAL",MORA TV
@@ -320,6 +316,11 @@ https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"group-title="TDA DIGITAL",MEGA CINE TV HD
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?WebM3UCL
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3XLxr8A_losnnGts1Qkrvd7F55Hw3o2y6hg&usqp=CAU"group-title="TDA DIGITAL",LIM TV
+https://live.limplay.ml/limtv.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93dv96Tqf3ZHRvMfc3qyVH5YcwG_OlHdNS7aKMf5t&s"group-title="TDA DIGITAL", MULTIZONAS TELEVISIÓN HD
