@@ -272,6 +272,18 @@ https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3XLxr8A_losnnGts1Qkrvd7F55Hw3o2y6hg&usqp=CAU"group-title="TDA DIGITAL",LIM TV
+https://live.limplay.ml/limtv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima48115702020.jpg"group-title="TDA DIGITAL",MORA TV
+https://stmv1.zcasthn.com.br/moratv1/moratv1/chunklist_w272402832.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/u3293Ef0Nk4/mqdefault.jpg"group-title="TDA DIGITAL",NICAVISION
+https://5ca9af4645e15.streamlock.net:443/canal12/videocanal12/chunklist_w81415307.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjMgOToyNDo0NiBQTSZoYXNoX3ZhbHVlPU5ISXRHK0c5cCtRTVE0WUtma0hFSnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_cQQXq6Cb-5JZukAA9_VeTgfPqCLspT4n92sk3-i&s"group-title="TDA DIGITAL",CANAL  CAUCETE
 https://canalsj.kozow.com:443/canal40/tracks-v1a1/mono.m3u8
