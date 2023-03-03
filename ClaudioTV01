@@ -205,6 +205,19 @@ https://s1.tvdatta.com:3457/hybrid/play.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://solivetv.net/wp-content/uploads/2020/09/logo2.png"group-title="TDA DIGITAL",CANAL 2 SOLIVE TV HD
+https://stmv1.cnarlatam.com:443/solivetv/solivetv/chunklist_w1359777116.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA DIGITAL",TELEMIX! HD  GLEW
+https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/REShnQtzUX_bicawR4XV5xL7e4GU7PnRAWroxGAgCX-bwdHnmDnZsX-dxIZPmdMCzNI"group-title="TDA DIGITAL", SANAGASTA TV HD 
+https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8?PlaylistM3UCL
+
+
+
 #EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2022/03/cropped-44-1-e1648229019417.png"group-title="TDA DIGITAL",TELEMAX RD
 https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
 
@@ -496,13 +509,6 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w14123194
 
 
 
-#EXTINF:-1 tvg-logo="https://solivetv.net/wp-content/uploads/2020/09/logo2.png"group-title="TDA DIGITAL",CANAL 2 SOLIVE TV HD
-https://stmv1.cnarlatam.com:443/solivetv/solivetv/chunklist_w1359777116.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA DIGITAL",TELEMIX! HD  GLEW
-https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
-
 
 #EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="TDA DIGITAL", PLANETA TV HD
 https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
@@ -525,8 +531,6 @@ https://stormcast-novelas-2-es.samsung.wurl.tv:443/3000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/REShnQtzUX_bicawR4XV5xL7e4GU7PnRAWroxGAgCX-bwdHnmDnZsX-dxIZPmdMCzNI"group-title="TDA DIGITAL", SANAGASTA TV HD  2.13
-https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tvdos-canal-2-de-salta-en-vivo-2322.png"group-title="TDA DIGITAL", CANAL 2 SD 2.14  SALTA
