@@ -146,6 +146,14 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w30918240
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es"group-title="TDA DIGITAL",GOLDEN PLUS
+http://linear-410.frequency.stream:80/dist/vix/410/hls/master/playlist_1920x1080.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/800px-Sony_Movies_Logo.svg.png"group-title="TDA DIGITAL",CINE SONY
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA DIGITAL",GENTV HD  17.3  CABA
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
@@ -343,13 +351,6 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w463293140.m
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w859990179.m3u8?WebM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es"group-title="TDA DIGITAL",GOLDEN PLUS
-http://linear-410.frequency.stream:80/dist/vix/410/hls/master/playlist_1920x1080.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/800px-Sony_Movies_Logo.svg.png"group-title="TDA DIGITAL",CINE SONY
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima98966892856.jpg"group-title="TDA DIGITAL", VIWIX SERIES 
