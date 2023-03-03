@@ -232,6 +232,11 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZqGpWv7qqmY/maxresdefault.jpg"group-title="TDA DIGITAL",WTV CANAL 20
+https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_cQQXq6Cb-5JZukAA9_VeTgfPqCLspT4n92sk3-i&s"group-title="TDA DIGITAL",CANAL  CAUCETE
 https://canalsj.kozow.com:443/canal40/tracks-v1a1/mono.m3u8
 
@@ -647,8 +652,6 @@ https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w37211739.
 https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZqGpWv7qqmY/maxresdefault.jpg"group-title="TDA DIGITAL",WTV CANAL 20
-https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
 
 
