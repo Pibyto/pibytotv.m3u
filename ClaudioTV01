@@ -252,6 +252,26 @@ https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="TDA DIGITAL", GDM HD
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_eKpsDywpXZrjVPQ9rBTiJ13uIXh6yFL73Q&usqp=CAU"group-title="TDA DIGITAL", TELEXIMA HD
+https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2022/03/Logo-imagen-Universal-TV-Horizontal-512-x-99.png"group-title="TDA DIGITAL",IU TV HD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"group-title="TDA DIGITAL",MEGA CINE TV HD
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?WebM3UCL
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93dv96Tqf3ZHRvMfc3qyVH5YcwG_OlHdNS7aKMf5t&s"group-title="TDA DIGITAL", MULTIZONAS TELEVISIÓN HD
+https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1675-294x165-FFFFFF.jpg"group-title="TDA DIGITAL",CANAL 18 HD
 https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8
@@ -1023,34 +1043,6 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM
 
 
 #EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TDA DIGITAL",
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://gdm.do/wp-content/uploads/2021/07/logo-canal-tv-javier.png"group-title="TDA DIGITAL", GDM HD
-https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_eKpsDywpXZrjVPQ9rBTiJ13uIXh6yFL73Q&usqp=CAU"group-title="TDA DIGITAL", TELEXIMA HD
-https://vdo2.streamgato.us:3324/live/teleximalive.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://imagenuniversaltv.com/wp-content/uploads/2022/03/Logo-imagen-Universal-TV-Horizontal-512-x-99.png"group-title="TDA DIGITAL",IU TV HD
-https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
-
-
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png"group-title="TDA DIGITAL",MEGA CINE TV HD
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?WebM3UCL
-https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93dv96Tqf3ZHRvMfc3qyVH5YcwG_OlHdNS7aKMf5t&s"group-title="TDA DIGITAL", MULTIZONAS TELEVISIÓN HD
-https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",TELECOLOR HD
