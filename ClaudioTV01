@@ -154,6 +154,9 @@ http://linear-410.frequency.stream:80/dist/vix/410/hls/master/playlist_1920x1080
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="TDA DIGITAL",CANAL 9 HD  9.2  RESISTENCIA 
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA DIGITAL",GENTV HD  17.3  CABA
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
@@ -583,14 +586,6 @@ https://panel.dattalive.com:443/8074/8074/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png"group-title="TDA DIGITAL", CANAL 9 HD  9.1.  MISIONES
 https://panel.dattalive.com:443/8076/8076/chunklist_w931708659.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="TDA DIGITAL",CANAL 9 HD  9.2  RESISTENCIA 
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://bolivartv.com.ar/wp-content/uploads/2022/03/logo2.png"group-title="TDA DIGITAL",BOLIVAR TV
-https://stmvideo3.livecastv.com/bolivartelevision/bolivartelevision/playlist.m3u8
 
 
 
