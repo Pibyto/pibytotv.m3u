@@ -190,21 +190,6 @@ https://rakuten-euronews-4-es.samsung.wurl.com:443/manifest/f1f29e913cb79ff20b94
 
 
 
-############################( 24/7  )#############################################( 24/7 )#########################################################( 24/7 )######################################################################################################################################################
-#############################( 24/7 )#############################################( 24/7 )#########################################################( 24/7 )######################################################################################################################################################
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/47520976-bd36-49b7-aea2-74a83aadda48_16-9-aspect-ratio_default_0.jpg"group-title="24/7",GRAN HERMANO
-https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest?cb=20200225033448&path-prefix=es"group-title="TDA DIGITAL",CHAVO DEL 8 ✓✓
-
-
 
 
 
@@ -811,137 +796,156 @@ https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w37211739.
 
 
 
-#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="TDA DIGITAL",TVR DIGITAL HD
 
 
 
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/wzukusers/user-34644993/images/5c37e41ff3ba88QnasaG/LOGO-MASTER-WEB_d400.png"group-title="TDA DIGITAL",ONE VISIÓN CRHISTIAN NETWORK 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVnAYuhTI8n3BtJqKwumbv5Zpmst7RGc_m6bdBJZg=s900-c-k-c0x00ffffff-no-rj"group-title="TDA DIGITAL", MANÁ DEL CIELO TV
+############################( CRISTIANO )#############################################( CRISTIANO )#########################################################( CRISTIANO )######################################################################################################################################################
+#############################( CRISTIANO )#############################################( CRISTIANO )#########################################################( CRISTIANO )######################################################################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="CRISTIANO",TVR DIGITAL HD
+
+
+
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/wzukusers/user-34644993/images/5c37e41ff3ba88QnasaG/LOGO-MASTER-WEB_d400.png"group-title="CRISTIANO",ONE VISIÓN CRHISTIAN NETWORK 
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVnAYuhTI8n3BtJqKwumbv5Zpmst7RGc_m6bdBJZg=s900-c-k-c0x00ffffff-no-rj"group-title="CRISTIANO", MANÁ DEL CIELO TV
 http://mediaplatform.streamingmediahosting.com/p/10671/sp/1067100/playManifest/entryId/0_97vnjka8/format/applehttp/protocol/http/a.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/oABwHpOC6YdIVWE7vnrnR-UGz8EIVngQlSVXX51YTD895O70jbMUX-3_1e2hLZstG0Q"group-title="TDA DIGITAL", PALABRA DE DIOS SIN LEVADURA
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/oABwHpOC6YdIVWE7vnrnR-UGz8EIVngQlSVXX51YTD895O70jbMUX-3_1e2hLZstG0Q"group-title="CRISTIANO", PALABRA DE DIOS SIN LEVADURA
 https://583ed2f226ac2.streamlock.net/49/stream/chunklist_w1954002463.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png"group-title="TDA DIGITAL",EL VIVIENTE TV HD
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png"group-title="CRISTIANO",EL VIVIENTE TV HD
 https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1322872584107663360/O2M3mDlr_400x400.jpg"group-title="TDA DIGITAL", VIENTO RECIO TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1322872584107663360/O2M3mDlr_400x400.jpg"group-title="CRISTIANO", VIENTO RECIO TV
 http://185.36.211.142:8080/tmp_hls/betsaida/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c32e4c6d73b63dd532a48dd4e17f634.webp"group-title="TDA DIGITAL", PRESENCIA TV HD
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c32e4c6d73b63dd532a48dd4e17f634.webp"group-title="CRISTIANO", PRESENCIA TV HD
 https://tv.clientetvstudio.net:3158/hybrid/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/7ea06393d56d6c5dee7664a46ae15c29.png"group-title="TDA DIGITAL",VIDA NUEVA TV
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/7ea06393d56d6c5dee7664a46ae15c29.png"group-title="CRISTIANO",VIDA NUEVA TV
 https://mediacpstreamchile.com:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2966-960x540-000000.jpg"group-title="TDA DIGITAL", CELESTIAL TV
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2966-960x540-000000.jpg"group-title="CRISTIANO", CELESTIAL TV
 https://grupocibermedios.com:3870/live/celestialtvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-960x540-000000.jpg"group-title="TDA DIGITAL",RESTAURANDO VIDAS TV HD
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-960x540-000000.jpg"group-title="CRISTIANO",RESTAURANDO VIDAS TV HD
 https://v4.tustreaming.cl/restaurandovida/index.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
-#EXTINF:-1 tvg-logo="https://telebendicion.com.do/static/media/logo512.0e95deb7482e649c6465.png"group-title="TDA DIGITAL",TELEBENDICION HD
+#EXTINF:-1 tvg-logo="https://telebendicion.com.do/static/media/logo512.0e95deb7482e649c6465.png"group-title="CRISTIANO",TELEBENDICION HD
 https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
 https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w198998264.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://hosannavision.com/site/assets/files/1/hosanna-logo.png"group-title="TDA DIGITAL",HOSANNAVISION
+#EXTINF:-1 tvg-logo="https://hosannavision.com/site/assets/files/1/hosanna-logo.png"group-title="CRISTIANO",HOSANNAVISION
 https://1206618505.rsc.cdn77.org:443/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvr4MR4agUkhkE9HSwtDmI6hk4Xlcudl4D9zVlOExyxxExNhlk8Bmau12nBpjQfhrbFRD-jGPmfCx6tcCaWpIPyGs7pLJq_Fcqn8IX7iQQXrl2FLGwteRzZvq6yVp-Ta4cUbxo3gh-JwjHLvNnGTDaBb5KazI4mGFsO3scl3Vm8Z4zjO9u1xJU-lWq/w640-h480/canal-peniel-guatemala-logroku.png"group-title="TDA DIGITAL",PENIEL TV HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvr4MR4agUkhkE9HSwtDmI6hk4Xlcudl4D9zVlOExyxxExNhlk8Bmau12nBpjQfhrbFRD-jGPmfCx6tcCaWpIPyGs7pLJq_Fcqn8IX7iQQXrl2FLGwteRzZvq6yVp-Ta4cUbxo3gh-JwjHLvNnGTDaBb5KazI4mGFsO3scl3Vm8Z4zjO9u1xJU-lWq/w640-h480/canal-peniel-guatemala-logroku.png"group-title="CRISTIANO",PENIEL TV HD
 https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png"group-title="TDA DIGITAL",BENDICION TV HD
+#EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png"group-title="CRISTIANO",BENDICION TV HD
 https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/ca2e3293-bb4b-4c20-928a-c9b5e47f0058/TU%20UNIVERSO%20TV%20LOGO%20NUEVO.png"group-title="TDA DIGITAL",TU UNIVERSO TV
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/ca2e3293-bb4b-4c20-928a-c9b5e47f0058/TU%20UNIVERSO%20TV%20LOGO%20NUEVO.png"group-title="CRISTIANO",TU UNIVERSO TV
 https://5bf8041cb3fed.streamlock.net:443/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w545620712.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkrg6Wn3410_6jvyy7Kd4d2wk6YEUDJKGBTDZhbY&s"group-title="TDA DIGITAL",TELEZION HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkrg6Wn3410_6jvyy7Kd4d2wk6YEUDJKGBTDZhbY&s"group-title="CRISTIANO",TELEZION HD
 https://paneltv.net:3751/hybrid/play.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO-200x200.png"group-title="TDA DIGITAL", DIOS TE VE HD
+#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO-200x200.png"group-title="CRISTIANO", DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.io/GrAoiKg_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="TDA DIGITAL",OASIS CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.io/GrAoiKg_d.webp?maxwidth=640&shape=thumb&fidelity=medium"group-title="CRISTIANO",OASIS CHANNEL
 https://5e85d90130e77.streamlock.net:443/6020/6020/chunklist_w1538041154.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a82c91d81f626cc0d417d5bd50250a7a.webp"group-title="TDA DIGITAL", JEHOVÁ TV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a82c91d81f626cc0d417d5bd50250a7a.webp"group-title="CRISTIANO", JEHOVÁ TV
 https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/chunklist_w322392269.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="TDA DIGITAL",ENLACE HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="CRISTIANO",ENLACE HD
 https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://lafemuevemontanas.net/wp-content/uploads/2019/08/F8.png"group-title="TDA DIGITAL", LA FE MUEVE MONTAÑAS HD
+#EXTINF:-1 tvg-logo="https://lafemuevemontanas.net/wp-content/uploads/2019/08/F8.png"group-title="CRISTIANO", LA FE MUEVE MONTAÑAS HD
 https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://xn--tbnespaa-j3a.es/wp-content/uploads/2022/09/Logo-rojo-1024x576-1.jpg"group-title="TDA DIGITAL",TBN ESPAÑOL
+#EXTINF:-1 tvg-logo="https://xn--tbnespaa-j3a.es/wp-content/uploads/2022/09/Logo-rojo-1024x576-1.jpg"group-title="CRISTIANO",TBN ESPAÑOL
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1322872584107663360/O2M3mDlr_400x400.jpg"group-title="TDA DIGITAL", VIENTO RECIO TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1322872584107663360/O2M3mDlr_400x400.jpg"group-title="CRISTIANO", VIENTO RECIO TV
 http://185.36.211.142:8080/tmp_hls/betsaida/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tvadoraadios.tv/wp-content/uploads/2022/07/ADORA-A-DIOS-1024x501.jpg"group-title="TDA DIGITAL",ADORA A DIOS TV HD
+#EXTINF:-1 tvg-logo="https://tvadoraadios.tv/wp-content/uploads/2022/07/ADORA-A-DIOS-1024x501.jpg"group-title="CRISTIANO",ADORA A DIOS TV HD
 https://castlive.pro:3060/stream/play.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/S9GdlP4ADlI/AAAAAAAAMiA/ctF_CkuUn8w/s1600/canal-luz.png"group-title="TDA DIGITAL",CANAL LUZ HD ROSARIO 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/S9GdlP4ADlI/AAAAAAAAMiA/ctF_CkuUn8w/s1600/canal-luz.png"group-title="CRISTIANO",CANAL LUZ HD ROSARIO 
 https://g3.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://zoe.com.uy/wp-content/uploads/2020/09/mvtv-banner.png"group-title="TDA DIGITAL", MISION VIDA TV HD
+#EXTINF:-1 tvg-logo="https://zoe.com.uy/wp-content/uploads/2020/09/mvtv-banner.png"group-title="CRISTIANO", MISION VIDA TV HD
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom.png"group-title="TDA DIGITAL", DIOS TV KIDS HD
+#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom.png"group-title="CRISTIANO", DIOS TV KIDS HD
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://tevevida.com/images/logo_01.png"group-title="TDA DIGITAL",TEVE VIDA HD
+#EXTINF:-1 tvg-logo="https://tevevida.com/images/logo_01.png"group-title="CRISTIANO",TEVE VIDA HD
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.televida.cl/wp-content/uploads/2020/12/logo-color-ok.png"group-title="TDA DIGITAL", TELEVIDA HD
+#EXTINF:-1 tvg-logo="https://www.televida.cl/wp-content/uploads/2020/12/logo-color-ok.png"group-title="CRISTIANO", TELEVIDA HD
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.net/wp-content/uploads/2015/03/rvida.png"group-title="TDA DIGITAL",RVIDA TV HD
+#EXTINF:-1 tvg-logo="https://dominicanchannels.net/wp-content/uploads/2015/03/rvida.png"group-title="CRISTIANO",RVIDA TV HD
 https://ss2.domint.net:3206/rv_str/rvida/chunklist_w2041658667.m3u8
 https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?WebM3UCL
 
@@ -949,47 +953,47 @@ https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://canaltelefamilia.com/wp-content/uploads/2021/02/Logo-Blanco.png"group-title="TDA DIGITAL", TELEFAMILIA HD
+#EXTINF:-1 tvg-logo="https://canaltelefamilia.com/wp-content/uploads/2021/02/Logo-Blanco.png"group-title="CRISTIANO", TELEFAMILIA HD
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJXvjsVqWXPf1rfZ845B8DGyWBm3CwzXJDHg&usqp=CAU"group-title="TDA DIGITAL", CRISTIANA TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJXvjsVqWXPf1rfZ845B8DGyWBm3CwzXJDHg&usqp=CAU"group-title="CRISTIANO", CRISTIANA TV HD
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png?format=1000w&content-type=image%2Fpng"group-title="TDA DIGITAL", ALIENTO VISION HD
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png?format=1000w&content-type=image%2Fpng"group-title="CRISTIANO", ALIENTO VISION HD
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo.smil/.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4UNQ-eaQbUk/YE1UUzjDO3I/AAAAAAABAn8/QbEyp6jNP7MsJ90tDqBUMDyGXQVlXxkBgCK8BGAsYHg/s512/2021-03-13.png"group-title="TDA DIGITAL",UrbancrisTV HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4UNQ-eaQbUk/YE1UUzjDO3I/AAAAAAABAn8/QbEyp6jNP7MsJ90tDqBUMDyGXQVlXxkBgCK8BGAsYHg/s512/2021-03-13.png"group-title="CRISTIANO",UrbancrisTV HD
 https://5790d294af2dc.streamlock.net:443/8160/8160/chunklist_w1412141262.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="TDA DIGITAL",ALTAR TV HD
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="CRISTIANO",ALTAR TV HD
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
-#EXTINF:-1 tvg-logo="https://smotret.tv/images/logo-spirit-tv.png"group-title="TDA DIGITAL",SPIRIT TV HD
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/logo-spirit-tv.png"group-title="CRISTIANO",SPIRIT TV HD
 https://cdnlive.myspirit.tv:443/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://sublimegraciatv.com/gallery_gen/c49b986afb751882bcbee57f9c9b20d7_350x246.75.png"group-title="TDA DIGITAL", SUBLIME GRACIA TV HD ROSARIO
+#EXTINF:-1 tvg-logo="https://sublimegraciatv.com/gallery_gen/c49b986afb751882bcbee57f9c9b20d7_350x246.75.png"group-title="CRISTIANO", SUBLIME GRACIA TV HD ROSARIO
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/chunklist_w4996659.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4VEwQWMsFTU/X6WUazGQV8I/AAAAAAAAAwU/3tkNlT-QTZUMQpo8Ex0j6C5nsPfcd-04wCK4BGAYYCw/s1600/Urbancrist2-logo.png"group-title="TDA DIGITAL", URBANCRIST WORSHIP HD
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4VEwQWMsFTU/X6WUazGQV8I/AAAAAAAAAwU/3tkNlT-QTZUMQpo8Ex0j6C5nsPfcd-04wCK4BGAYYCw/s1600/Urbancrist2-logo.png"group-title="CRISTIANO", URBANCRIST WORSHIP HD
 https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png?w=276"group-title="TDA DIGITAL",SOLIDARIA TV HD CABA
+#EXTINF:-1 tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png?w=276"group-title="CRISTIANO",SOLIDARIA TV HD CABA
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png"group-title="TDA DIGITAL", KINGDOM TV HD  19.1  MENDOZA 
+#EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png"group-title="CRISTIANO", KINGDOM TV HD  19.1  MENDOZA 
 https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
 
 
@@ -997,12 +1001,73 @@ https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chu
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7MTBgbIBlC6EDbThMg9NjWwWfsaTAKXRiQ&usqp=CAU"group-title="TDA DIGITAL",JTA TV HD.  21.1  MENDOZA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7MTBgbIBlC6EDbThMg9NjWwWfsaTAKXRiQ&usqp=CAU"group-title="CRISTIANO",JTA TV HD.  21.1  MENDOZA
 https://streaming.jtamendoza.com/hls/test.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2849-294x165-FFFFFF.jpg"group-title="TDA DIGITAL", ALELUYA TV HD
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2849-294x165-FFFFFF.jpg"group-title="CRISTIANO", ALELUYA TV HD
 https://vsrv2.az-streamingserver.com:3408/live/aleluyatvlive.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+############################( 24/7  )#############################################( 24/7 )#########################################################( 24/7 )######################################################################################################################################################
+#############################( 24/7 )#############################################( 24/7 )#########################################################( 24/7 )######################################################################################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/47520976-bd36-49b7-aea2-74a83aadda48_16-9-aspect-ratio_default_0.jpg"group-title="24/7",GRAN HERMANO
+https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest?cb=20200225033448&path-prefix=es"group-title="TDA DIGITAL",CHAVO DEL 8 ✓✓
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvAE7ePq6mQw6G0hLIaFA-l_gNhwU7sF4TWjrBQBVjM1dM-TqwkADmZRanVL1lJa-WD4AXXyzJG-1aHILzuVs4oc4K48LFiYGN0HmioVM10TzLyUsT8-Br4NGoVlCWSmzno5EaBpWZi3vAc21bNbpvIDSDcuzGpnctZPGIGilhfEqy5t2rQexf6-ftQd41txphCNE8gZC8iGbGhxyGd51Uzlajs1Xeej8hoSTiyZMsfRDeShh7rewtIMbMFcoupKfbS5fbLJZhWUmhYJ5beQb8uNFhbV5d-7PAMobkDoPq_h-qZhrDOVJrWkyh2gxyOIJCVR6VirXjFg8wfWd8VRfKiz5K1Z3JrXCFkoauSEs5pIGCgGn2KEw8lfnZQdsEyy9paTouemmgfJpCJicyCmdarFIvpU_HGes0LqVcCDuBi_bpT6kLD-KARMlLwdKFf7_im3BymzSfyNX5dPykflt2A4bhH6BrwI0Vo-jeV2lewSpj1PQoWdOG2XE1Tg_2TC3qAIjD1z0lj4xUvC9DqwIDiQYOHFx3iXmIY_uE2Zeds2RikbimsRjPF6tsFT0KNL8LDFX87wohaNn6qutU7Ea-w19drlMCIcTWyJPQ5jzaAUCiASl1mFDQfLKkwNDsO9sRGTcv_kUkCoaq7vIu95sayBgbZX5UP3oHyTc3rQMI4OZocxzsekCAT8Qup0FTH4d4UbjvCW-z0YckrhJeIFlA756PfeE2GtF0hPDobgR_5X1OWrH-4m1hLuDj8Bfn3lUNElUm1tj2d4Lh1jCU_gi5FcTXLK6ydoTHrm9VLwgiIjiPqFzaeIP-41ka8C34MtS-roGgz7AJzE5xI8-N0lLRkgASoJdXMtZWFzdC0yMIAG.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL",EL PALOMAR TV HD   21.1  TUCUMÁN 
