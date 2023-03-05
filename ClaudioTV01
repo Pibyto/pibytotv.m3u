@@ -78,8 +78,6 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca
 
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="TDA DIGITAL",9 TELEVIDA HD  MENDOZA
-https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 
 
@@ -210,8 +208,11 @@ https://rakuten-euronews-4-es.samsung.wurl.com:443/manifest/f1f29e913cb79ff20b94
 
 
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA DIGITAL",COSMOS TV HD  SAN JUAN 
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es"group-title="TDA DIGITAL",GOLDEN PLUS
@@ -222,14 +223,10 @@ http://linear-410.frequency.stream:80/dist/vix/410/hls/master/playlist_1920x1080
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="TDA DIGITAL",CANAL 9 HD  9.2  RESISTENCIA 
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA DIGITAL",BLU HD SAN JUAN
-https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 
 
@@ -642,7 +639,20 @@ https://stormcast-novelas-2-es.samsung.wurl.tv:443/3000.m3u8
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="TDA DIGITAL",9 TELEVIDA HD  MENDOZA
+https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA INTERIOR",COSMOS TV HD  SAN JUAN 
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA INTERIOR",BLU HD SAN JUAN
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="TDA INTERIOR",CANAL 9 HD  9.2  RESISTENCIA 
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA INTERIOR",EL PALOMAR TV HD   21.1  TUCUMÁN 
