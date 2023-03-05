@@ -221,11 +221,6 @@ https://rakuten-euronews-4-es.samsung.wurl.com:443/manifest/f1f29e913cb79ff20b94
 
 
 
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM"group-title="TDA DIGITAL",EXTREMA TV HD
-https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA DIGITAL",COSMOS TV HD  SAN JUAN 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
@@ -263,9 +258,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="TDA DIGITAL",VIDATV HD
-https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
-https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5S4e_jY1cJrTk2wt1hpUbCuRxwOo2pe0jUQ&usqp=CAU"group-title="TDA DIGITAL",CINECLUB HD
@@ -813,13 +805,19 @@ https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w37211739.
 
 
 
+#EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="CRISTIANO",VIDATV HD
+https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
+https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM"group-title="CRISTIANO",EXTREMA TV HD
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="CRISTIANO",TVR DIGITAL HD
 
 
 
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/wzukusers/user-34644993/images/5c37e41ff3ba88QnasaG/LOGO-MASTER-WEB_d400.png"group-title="CRISTIANO",ONE VISIÓN CRHISTIAN NETWORK 
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVnAYuhTI8n3BtJqKwumbv5Zpmst7RGc_m6bdBJZg=s900-c-k-c0x00ffffff-no-rj"group-title="CRISTIANO", MANÁ DEL CIELO TV
