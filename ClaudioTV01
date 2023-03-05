@@ -568,10 +568,18 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UC
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA INTERIOR", CANAL 4 HD  4.1  JUJUY
-http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA INTERIOR",COSMOS TV HD  SAN JUAN 
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA INTERIOR",13 MAX DIGITAL HD  31.1 
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="TDA INTERIOR",CANAL 13 HD  13.1  LA RIOJA
+http://arcast.net:1935/mp/mp/chunklist_w25245074.m3u8?PlaylistM3UCL
 
 
 
@@ -579,14 +587,33 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA INTERIOR", CANAL 4 HD  4.1  JUJUY
+http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA INTERIOR",COSMOS TV HD  SAN JUAN 
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://solivetv.net/wp-content/uploads/2020/09/logo2.png"group-title="TDA INTERIOR",CANAL 2 SOLIVE TV HD
+https://stmv1.cnarlatam.com:443/solivetv/solivetv/chunklist_w1359777116.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA INTERIOR",BLU HD SAN JUAN
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU"group-title="TDA INTERIOR", CANAL 34 HD  6.11 SAN JUAN 
+http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="TDA INTERIOR", CINCO TV HD  TIGRE
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA INTERIOR",TELECREATIVA HD  5.1. LANUS
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
+https://panel.dattalive.com:443/8012/8012/chunklist_w1034266116.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="TDA INTERIOR", METRO TV HD  18.1 TUCUMÁN
@@ -619,8 +646,6 @@ https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://solivetv.net/wp-content/uploads/2020/09/logo2.png"group-title="TDA INTERIOR",CANAL 2 SOLIVE TV HD
-https://stmv1.cnarlatam.com:443/solivetv/solivetv/chunklist_w1359777116.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA INTERIOR",TELEMIX! HD  GLEW
@@ -657,8 +682,6 @@ http://media.neuquen.gov.ar:80/rtn/television/chunklist_w1507615126.m3u8?Playlis
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA INTERIOR",13 MAX DIGITAL HD  31.1 
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Xama-Senal-UNSJ-en-vivo-Online.png?resize=218%2C150&ssl=1"group-title="TDA INTERIOR",XAMATV  33.1  SAN JUAN 
@@ -696,36 +719,10 @@ https://intelincloud.com.ar/canales/canal3pinamar/index.m3u8
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://www.canal4teleaire.com.ar/wp-content/uploads/2022/07/logo-canal-4.png"group-title="TDA INTERIOR",TELEAIRE CANAL 4  4.4   SAN MARTIN 
-https://stmvideo2.livecastv.com:443/canal4/canal4/chunklist_w500044248.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="TDA INTERIOR", CINCO TV HD  TIGRE
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA INTERIOR",TELECREATIVA HD  5.1. LANUS
-https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
-https://panel.dattalive.com:443/8012/8012/chunklist_w1034266116.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/230/115/png-clipart-tv5-philippines-television-channel-logo-abc-logo-television-text-thumbnail.png"group-title="TDA INTERIOR",CANAL 5 TV HD  5.2
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://canal5delpueblo.com.ar/wp-content/uploads/2022/06/cincodelpueblo_logo.png"group-title="TDA INTERIOR",CANAL 5  DEL PUEBLO TV  5.3  Rosario 
-https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-egsfSWDb7q8/UE1YvFaDK4I/AAAAAAAAV_Y/9cVSbca8q9s/s1600/canal6digital.gif"group-title="TDA INTERIOR",6 POSADAS
-https://iptv.ixfo.com.ar:30443/live/c6sd/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU"group-title="TDA INTERIOR", CANAL 34 HD  6.11 SAN JUAN 
-http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/4fgp_qrpmJ3XL59ddvZNRui_EpPCXoh-6Gt6fgdYAk9HdcVzNN1i3BFZiGD4il1EVF0"group-title="TDA INTERIOR",CANAL 7 HD  7.1   SALTA
@@ -758,8 +755,6 @@ https://restreamer.el10tv.com:443/memfs/725003c4-79c2-4565-8311-f429db4f7777_var
 https://inliveserver.com:1936/8292/8292/chunklist_w158646387.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="TDA INTERIOR",CANAL 13 HD  13.1  LA RIOJA
-http://arcast.net:1935/mp/mp/chunklist_w25245074.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="TDA INTERIOR",CANAL+ HD  17.5
