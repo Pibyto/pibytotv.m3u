@@ -17,8 +17,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rGAjss5QCZYe83zp770DmPslXJioWxbVYuEF5lhLptBglYzB_1B9bacVNAc1k4upNLU"group-title="TDA DIGITAL",RADIO JERUSALEN-MINISTERIO=GPS=TRANSFORMADOS X JESÚS 
-https://servidor2.hostradios.com/proxy/radiojerusalen?mp=/stream&1623615876184
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9rLcgOAc_hI_j6kmBjOxmuwTo9pfokhOxZQ&usqp=CAU"group-title="TDA DIGITAL",LOVE NATURE 4K
@@ -38,12 +36,24 @@ https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png"group-title="TDA DIGITAL",CITY SPORTS HD  2.10  CABA
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM3UCL
-https://citysports.grupocity.net.ar:3469/live/citysportslive.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA DIGITAL",GENTV HD  17.3  CABA
+https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA DIGITAL",NEO TV DIGITAL HD. 16.1  CABA
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqSWyRQN5WbtHlv_Wt9u4Z-mbZ40v0xp0Kg&usqp=CAU"group-title="TDA DIGITAL",BAYRES TV HD 
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA DIGITAL",EL TRECE   33.1  WEB
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA DIGITAL",10 HD  10.1  MDP
@@ -159,16 +169,12 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA DIGITAL",GENTV HD  17.3  CABA
-https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA DIGITAL",BLU HD SAN JUAN
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA DIGITAL",NEO TV DIGITAL HD. 16.1  CABA
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/632JrLd.png"group-title="TDA DIGITAL",VIWIX ESTRENOS 
@@ -202,8 +208,6 @@ https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1770574078.m3u8?Pla
 https://s1.tvdatta.com:3457/hybrid/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqSWyRQN5WbtHlv_Wt9u4Z-mbZ40v0xp0Kg&usqp=CAU"group-title="TDA DIGITAL",BAYRES TV HD 
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://solivetv.net/wp-content/uploads/2020/09/logo2.png"group-title="TDA DIGITAL",CANAL 2 SOLIVE TV HD
