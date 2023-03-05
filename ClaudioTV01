@@ -373,6 +373,22 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvIEgdvQmRMju200GBRBrobg-LX
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CokFZgjFMf6kFT3bC5yb7pOvnN6H7AGHyKbNBxp_4PpIZIFdfuiOvb3OhsOAxzfAbn_GoWv5OM03UC0ucXRuM0pY6P_oh3a0QNYtErozq9L_g3JfYmSuOwZPh-atmwnOtfo-H_6a2kpWvTb4ak_S8z68RaxWxOKBvlxzxzOoyVIFHiaawv_A2l8_BtnHW7TjB8vtaMuGuVSIXkvJVrAHYJZkyfxwpLU5u5XD_XBk4CspFMgec8sllVzpJs_SA3U-dtqt5bDLDDSMfLAuvsQRwgDcv41X1LnKjEKh4bRorXGyk4O9s4YpTqTVNB9L3DHX_ynnbkoXrLCFWvT76yDKc-Cv1Qy2yu4Au-YACEHFrUbBU4tQCA12SE3iiPSeaS2JkfjATDfkuNNw9dCHU5zjjoggHwttasOxlems2FUTk4rxTFrf3z9iABQvJS2fVJKZjZ4pHY_vTUGDCj60JU-Izu7AvbNaHsyV6lvLyPfTFKu3AnexTYFmhh2j4ONPYA8mpwP7PWbQChCHLujhzVXprdW3T0PFzD8v9qghrD2MbE0KAfEa6uT04Ev6pLIjcXmlJAoL4x0n9LsGo68V-yU97Vmxj6cEhHRpg4Y9txBym1wn5nEA0rBfbT6_ykdOvzRg0L0e0zsEtyoGM4Z4C_09WxtTdH13V49HTGr74REg2NfNlXREJVgNyUWWYhHY9JnGaaVa7SveolBYQavr2o7KjP96yEaqxOR5caNPQyjTSdVZjXUIbek9es1mOoz4UGyDhIKmA6rn5XNcCT1otk3XAWRaUMz_9vlZRKv4Nf6_ETp3p_tAp66_IkWD1rLqkYS1oJEX5aNHXX8FSSUGVbV0RwcjJaUWaxoD9hitvRoMOZzU3_OtxclyPncgIAEqCWV1LXdlc3QtMjCBBg.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="TV SERIES",PLANETATV
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1780444006.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png?fit=462%2C112&ssl=1"group-title="TV SERIES", TELEVISIÓN DEL ESTE HD
+https://cm.hostlagarto.com:4445/ESTV/estv.myStream/playlist.m3u8?DVR
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_09/large.59b567df3dae4_Telecaribe2017.png.b72e1a981efb12c791b3e69086924395.png"group-title="TV SERIES",TELECARIBE HD
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?DVR
+
+
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/jimanitv.jpeg"group-title="TV SERIES",JIMANI TV HD
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w37211739.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image70119570242.jpg"group-title="TV SERIES",MOVIE FE
@@ -480,27 +496,16 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 https://cdn2.streamgato.us/clarovision/clarovision/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/06/alcancetv_logo-3d.png"group-title="TDA DIGITAL",ALCANCE TV HD
-https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png"group-title="TV SERIES", PLANETA TV HD
 https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA INTERIOR",MILENIUM TV HD  SALTA
 https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
 
 
-
-
 #EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group3/M00/6F/CC/4ZMEAFulds-AIY40AAA0nuRCjfI548.png?x-oss-process=style/mq200"group-title="TV SERIES",SEO TV NOVELAS 
 https://live.seo.tv.bo/live/3SEO.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Novelas_TV.svg/1200px-Logo_Novelas_TV.svg.png"group-title="TV SERIES", NOVELAS ES
@@ -854,28 +859,6 @@ https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA DIGITAL",PLANETATV
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
-https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1780444006.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmd4KWnH6lig0C_XZNQpM6jVCt5fIfD-zQUg&usqp=CAU"group-title="TDA DIGITAL",TV NOVA PLAY
-https://srv4.zcast.com.br:443/tvnovaplay/tvnovaplay/chunklist_w1790577192.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png?fit=462%2C112&ssl=1"group-title="TDA DIGITAL", TELEVISIÓN DEL ESTE HD
-https://cm.hostlagarto.com:4445/ESTV/estv.myStream/playlist.m3u8?DVR
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_09/large.59b567df3dae4_Telecaribe2017.png.b72e1a981efb12c791b3e69086924395.png"group-title="TDA DIGITAL",TELECARIBE HD
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?DVR
-
-
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/jimanitv.jpeg"group-title="TDA DIGITAL",JIMANI TV HD
-https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w37211739.m3u8
-
 
 
 
@@ -911,6 +894,8 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w30918240
 #EXTINF:-1 tvg-logo="https://d6scj24zvfbbo.cloudfront.net/5bdf81e4b1d83b526adaf6049b1852f3/200000075-d97fed9800/450/nueva_generacion_01.png?ph=21c18b49f8"group-title="CRISTIANO",TVR DIGITAL HD
 
 
+#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/06/alcancetv_logo-3d.png"group-title="CRISTIANO",ALCANCE TV HD
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
 
 
 
