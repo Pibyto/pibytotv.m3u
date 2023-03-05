@@ -500,9 +500,6 @@ https://cdn2.streamgato.us/clarovision/clarovision/playlist.m3u8
 https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA INTERIOR",MILENIUM TV HD  SALTA
-https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
-
 
 #EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group3/M00/6F/CC/4ZMEAFulds-AIY40AAA0nuRCjfI548.png?x-oss-process=style/mq200"group-title="TV SERIES",SEO TV NOVELAS 
 https://live.seo.tv.bo/live/3SEO.m3u8
@@ -603,6 +600,10 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UC
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA INTERIOR", CANAL 4 HD  4.1  JUJUY
+http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png"group-title="TDA INTERIOR",CANAL 8 HD  8.1 MDP
 https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
 
@@ -616,8 +617,6 @@ http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA INTERIOR", CANAL 4 HD  4.1  JUJUY
-http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA INTERIOR",COSMOS TV HD  SAN JUAN 
@@ -657,6 +656,10 @@ https://stmv1.cnarlatam.com:443/solivetv/solivetv/chunklist_w1359777116.m3u8?Pla
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA INTERIOR",TELEMIX! HD  GLEW
 https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA INTERIOR",MILENIUM TV HD  SALTA
+https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/REShnQtzUX_bicawR4XV5xL7e4GU7PnRAWroxGAgCX-bwdHnmDnZsX-dxIZPmdMCzNI"group-title="TDA INTERIOR", SANAGASTA TV HD 
