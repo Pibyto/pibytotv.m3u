@@ -94,6 +94,32 @@ http://daleplay.club:8080/eduardo2022/eduardo2022/81300
 https://g1.proy-hor.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png"group-title="TDA DIGITAL", ENCUENTRO HD  22.1
+https://538d0bde28ccf.streamlock.net:443/live-cont.ar/encuentro/chunklist_w1399350081.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png"group-title="TDA DIGITAL",PAKA PAKA HD   22.2
+https://538d0bde28ccf.streamlock.net:443/live-cont.ar/pakapaka/chunklist_w1118988583.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL",AUNAR HD   22.3
+https://538d0bde28ccf.streamlock.net:443/live-cont.ar/mirador/chunklist_w552530682.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/2560px-Cine.Ar_logo.svg.png"group-title="TDA DIGITAL",CINEAR HD   22.4
+https://538d0bde28ccf.streamlock.net:443/live-cont.ar/cinear/chunklist_w1793158574.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibHJdk67nVdjlRILLUvdObGovLmowL0Enkf18Msz5cEkkkA5R-xOgnZwMzE4fi9ViFM0L0_HbeAPv3OIGh2rpx6p5aXUnrXhBqjEyo04v6rlvjBLHFWfWwP1j97NSOIrpNfmhUo_x_hd0pQNc_5EZYIHKenl-9vCsUcBk1XIbxlUZVfBnp0OrNTc96/s538/tectv-2021.png"group-title="TDA DIGITAL",TEC TV HD   22.5
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png"group-title="TDA DIGITAL",TELEMAX HD  26.3
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
+https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Telesur_HD_%282017%29.png/revision/latest/scale-to-width-down/250?cb=20220719221045"group-title="TDA DIGITAL",TELESUR HD  25.4
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
@@ -604,12 +630,6 @@ https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png"group-title="TDA INTERIOR",CANAL 8 HD  8.1 MDP
-https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA INTERIOR",10 HD  10.1  MDP
-http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
 
 
@@ -638,6 +658,13 @@ https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_cQQXq6Cb-5JZukAA9_VeTgfPqCLspT4n92sk3-i&s"group-title="TDA INTERIOR",CANAL  CAUCETE
 https://canalsj.kozow.com:443/canal40/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png"group-title="TDA INTERIOR",CANAL 8 HD  8.1 MDP
+https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA INTERIOR",10 HD  10.1  MDP
+http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
 
 
@@ -682,30 +709,6 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.rtnweb.gob.ar/tv/img/logo.png"group-title="TDA INTERIOR", RTN HD   21.9  NEUQUÉN 
 http://media.neuquen.gov.ar:80/rtn/television/chunklist_w1507615126.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png"group-title="TDA INTERIOR", ENCUENTRO HD  22.1
-https://538d0bde28ccf.streamlock.net:443/live-cont.ar/encuentro/chunklist_w1399350081.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png"group-title="TDA INTERIOR",PAKA PAKA HD   22.2
-https://538d0bde28ccf.streamlock.net:443/live-cont.ar/pakapaka/chunklist_w1118988583.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA INTERIOR",AUNAR HD   22.3
-https://538d0bde28ccf.streamlock.net:443/live-cont.ar/mirador/chunklist_w552530682.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/2560px-Cine.Ar_logo.svg.png"group-title="TDA INTERIOR",CINEAR HD   22.4
-https://538d0bde28ccf.streamlock.net:443/live-cont.ar/cinear/chunklist_w1793158574.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibHJdk67nVdjlRILLUvdObGovLmowL0Enkf18Msz5cEkkkA5R-xOgnZwMzE4fi9ViFM0L0_HbeAPv3OIGh2rpx6p5aXUnrXhBqjEyo04v6rlvjBLHFWfWwP1j97NSOIrpNfmhUo_x_hd0pQNc_5EZYIHKenl-9vCsUcBk1XIbxlUZVfBnp0OrNTc96/s538/tectv-2021.png"group-title="TDA INTERIOR",TEC TV HD   22.5
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png"group-title="TDA INTERIOR",TELEMAX HD  26.3
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
-https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="TDA INTERIOR",SANTA FE CANAL HD  29.2
