@@ -19,15 +19,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9rLcgOAc_hI_j6kmBjOxmuwTo9pfokhOxZQ&usqp=CAU"group-title="TDA NATURALEZA",LOVE NATURE 4K
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/NatureVision_NLogo.png"group-title="TDA NATURALEZA",NATURE VISION TV 4K
-https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397357/chunklist_w842084170.m3u8
-
 
 
 
@@ -646,7 +637,70 @@ https://stormcast-novelas-2-es.samsung.wurl.tv:443/3000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tvdos-canal-2-de-salta-en-vivo-2322.png"group-title="TDA DIGITAL", CANAL 2 SD 2.14  SALTA
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA INTERIOR",EL PALOMAR TV HD   21.1  TUCUMÁN 
+https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png"group-title="TDA INTERIOR", TDC ONLINE HD  21.7 SANTA FE
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.rtnweb.gob.ar/tv/img/logo.png"group-title="TDA INTERIOR", RTN HD   21.9  NEUQUÉN 
+http://media.neuquen.gov.ar:80/rtn/television/chunklist_w1507615126.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png"group-title="TDA INTERIOR", ENCUENTRO HD  22.1
+https://538d0bde28ccf.streamlock.net:443/live-cont.ar/encuentro/chunklist_w1399350081.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png"group-title="TDA INTERIOR",PAKA PAKA HD   22.2
+https://538d0bde28ccf.streamlock.net:443/live-cont.ar/pakapaka/chunklist_w1118988583.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA INTERIOR",AUNAR HD   22.3
+https://538d0bde28ccf.streamlock.net:443/live-cont.ar/mirador/chunklist_w552530682.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/2560px-Cine.Ar_logo.svg.png"group-title="TDA INTERIOR",CINEAR HD   22.4
+https://538d0bde28ccf.streamlock.net:443/live-cont.ar/cinear/chunklist_w1793158574.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibHJdk67nVdjlRILLUvdObGovLmowL0Enkf18Msz5cEkkkA5R-xOgnZwMzE4fi9ViFM0L0_HbeAPv3OIGh2rpx6p5aXUnrXhBqjEyo04v6rlvjBLHFWfWwP1j97NSOIrpNfmhUo_x_hd0pQNc_5EZYIHKenl-9vCsUcBk1XIbxlUZVfBnp0OrNTc96/s538/tectv-2021.png"group-title="TDA INTERIOR",TEC TV HD   22.5
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png"group-title="TDA INTERIOR",TELEMAX HD  26.3
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
+https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="TDA INTERIOR",SANTA FE CANAL HD  29.2
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA INTERIOR",13 MAX DIGITAL HD  31.1 
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Xama-Senal-UNSJ-en-vivo-Online.png?resize=218%2C150&ssl=1"group-title="TDA INTERIOR",XAMATV  33.1  SAN JUAN 
+https://srs.unsj.edu.ar/live/xama.flv
+
+
+#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/60ba654d0cf443090aa41804.png"group-title="TDA INTERIOR",ASPEN HD  35.3
+https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
+
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg"group-title="TDA INTERIOR",TIERRAMIATV HD  35.4
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="TDA INTERIOR",CANAL 7 HD  36.1. JUJUY 
+https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1079304926_b1327104.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tvdos-canal-2-de-salta-en-vivo-2322.png"group-title="TDA INTERIOR", CANAL 2 SD 2.14  SALTA
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 
 
@@ -1068,8 +1122,12 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvAE7ePq6mQw6G0hLIaFA-l_gNh
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL",EL PALOMAR TV HD   21.1  TUCUMÁN 
-https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8
+
+
+
+
+############################( NATURALEZA )#############################################( NATURALEZA )#########################################################( NATURALEZA )######################################################################################################################################################
+#############################( NATURALEZA )#############################################( NATURALEZA )#########################################################( NATURALEZA )######################################################################################################################################################
 
 
 
@@ -1077,85 +1135,60 @@ https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png"group-title="TDA DIGITAL", TDC ONLINE HD  21.7 SANTA FE
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9rLcgOAc_hI_j6kmBjOxmuwTo9pfokhOxZQ&usqp=CAU"group-title="NATURALEZA",LOVE NATURE 4K
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
-#EXTINF:-1 tvg-logo="http://www.rtnweb.gob.ar/tv/img/logo.png"group-title="TDA DIGITAL", RTN HD   21.9  NEUQUÉN 
-http://media.neuquen.gov.ar:80/rtn/television/chunklist_w1507615126.m3u8?PlaylistM3UCL
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png"group-title="TDA DIGITAL", ENCUENTRO HD  22.1
-https://538d0bde28ccf.streamlock.net:443/live-cont.ar/encuentro/chunklist_w1399350081.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png"group-title="TDA DIGITAL",PAKA PAKA HD   22.2
-https://538d0bde28ccf.streamlock.net:443/live-cont.ar/pakapaka/chunklist_w1118988583.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL",AUNAR HD   22.3
-https://538d0bde28ccf.streamlock.net:443/live-cont.ar/mirador/chunklist_w552530682.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/2560px-Cine.Ar_logo.svg.png"group-title="TDA DIGITAL",CINEAR HD   22.4
-https://538d0bde28ccf.streamlock.net:443/live-cont.ar/cinear/chunklist_w1793158574.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibHJdk67nVdjlRILLUvdObGovLmowL0Enkf18Msz5cEkkkA5R-xOgnZwMzE4fi9ViFM0L0_HbeAPv3OIGh2rpx6p5aXUnrXhBqjEyo04v6rlvjBLHFWfWwP1j97NSOIrpNfmhUo_x_hd0pQNc_5EZYIHKenl-9vCsUcBk1XIbxlUZVfBnp0OrNTc96/s538/tectv-2021.png"group-title="TDA DIGITAL",TEC TV HD   22.5
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png"group-title="TDA DIGITAL",TELEMAX HD  26.3
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
-https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="TDA DIGITAL",SANTA FE CANAL HD  29.2
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA DIGITAL",13 MAX DIGITAL HD  31.1 
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/NatureVision_NLogo.png"group-title="NATURALEZA",NATURE VISION TV 4K
+https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397357/chunklist_w842084170.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Xama-Senal-UNSJ-en-vivo-Online.png?resize=218%2C150&ssl=1"group-title="TDA DIGITAL",XAMATV  33.1  SAN JUAN 
-https://srs.unsj.edu.ar/live/xama.flv
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL",CANAL 13 HD  33.1
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA DIGITAL", CANAL 11 HD  34.1
-https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1676205846~acl=%2f*~data=hdntl~hmac=1a6fbd8d43a44bf83eac696677614f7f631b71d72b03b9f3951412a40d633cb6/master-mtlf.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/60ba654d0cf443090aa41804.png"group-title="TDA DIGITAL",ASPEN HD  35.3
-https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
-
-
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg"group-title="TDA DIGITAL",TIERRAMIATV HD  35.4
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="TDA DIGITAL",CANAL 7 HD  36.1. JUJUY 
-https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1079304926_b1327104.m3u8
+
+
+
+
+
+
+
+
+
+
+############################( TDA  )#############################################( TDA )#########################################################( TDA )######################################################################################################################################################
+#############################( TDA )#############################################( TDA )#########################################################( TDA )######################################################################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
