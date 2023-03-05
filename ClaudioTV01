@@ -445,12 +445,6 @@ https://live.seo.tv.bo/live/4SEO.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-6-mar-del-plata.png"group-title="TDA DIGITAL",CANAL 6 HD  6.1  MAR DEL PLATA
-https://panel.dattalive.com:443/8166/8166/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima35918408679.jpg"group-title="TDA DIGITAL", VIWIX TERROR 
 https://s1.tvdatta.com:3849/hybrid/play.m3u8
 
@@ -538,8 +532,6 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2022/11/LOGOPERIODICO-600x329-1-300x165.png"group-title="TDA DIGITAL",LA VOZ TV HD  15.2  TUCUMÁN
-https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png"group-title="TDA DIGITAL",FREE TV HD
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
@@ -635,11 +627,11 @@ https://stormcast-novelas-2-es.samsung.wurl.tv:443/3000.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA DIGITAL",MULTIVISION HD  SALTA
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA INTERIOR",MULTIVISION HD  SALTA
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="TDA DIGITAL",9 TELEVIDA HD  MENDOZA
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="TDA INTERIOR",9 TELEVIDA HD  MENDOZA
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 
@@ -655,8 +647,16 @@ https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2022/11/LOGOPERIODICO-600x329-1-300x165.png"group-title="TDA INTERIOR",LA VOZ TV HD  15.2  TUCUMÁN
+https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA INTERIOR",EL PALOMAR TV HD   21.1  TUCUMÁN 
 https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-6-mar-del-plata.png"group-title="TDA INTERIOR",CANAL 6 HD  6.1  MAR DEL PLATA
+https://panel.dattalive.com:443/8166/8166/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png"group-title="TDA INTERIOR", TDC ONLINE HD  21.7 SANTA FE
