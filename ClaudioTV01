@@ -143,64 +143,6 @@ https://rakuten-euronews-4-es.samsung.wurl.com:443/manifest/f1f29e913cb79ff20b94
 
 
 
-############################( TDA  )#############################################( TDA )#########################################################( TDA )######################################################################################################################################################
-#############################( TDA )#############################################( TDA )#########################################################( TDA )######################################################################################################################################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1123,6 +1065,12 @@ https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvAE7ePq6mQw6G0hLIaFA-l_gNhwU7sF4TWjrBQBVjM1dM-TqwkADmZRanVL1lJa-WD4AXXyzJG-1aHILzuVs4oc4K48LFiYGN0HmioVM10TzLyUsT8-Br4NGoVlCWSmzno5EaBpWZi3vAc21bNbpvIDSDcuzGpnctZPGIGilhfEqy5t2rQexf6-ftQd41txphCNE8gZC8iGbGhxyGd51Uzlajs1Xeej8hoSTiyZMsfRDeShh7rewtIMbMFcoupKfbS5fbLJZhWUmhYJ5beQb8uNFhbV5d-7PAMobkDoPq_h-qZhrDOVJrWkyh2gxyOIJCVR6VirXjFg8wfWd8VRfKiz5K1Z3JrXCFkoauSEs5pIGCgGn2KEw8lfnZQdsEyy9paTouemmgfJpCJicyCmdarFIvpU_HGes0LqVcCDuBi_bpT6kLD-KARMlLwdKFf7_im3BymzSfyNX5dPykflt2A4bhH6BrwI0Vo-jeV2lewSpj1PQoWdOG2XE1Tg_2TC3qAIjD1z0lj4xUvC9DqwIDiQYOHFx3iXmIY_uE2Zeds2RikbimsRjPF6tsFT0KNL8LDFX87wohaNn6qutU7Ea-w19drlMCIcTWyJPQ5jzaAUCiASl1mFDQfLKkwNDsO9sRGTcv_kUkCoaq7vIu95sayBgbZX5UP3oHyTc3rQMI4OZocxzsekCAT8Qup0FTH4d4UbjvCW-z0YckrhJeIFlA756PfeE2GtF0hPDobgR_5X1OWrH-4m1hLuDj8Bfn3lUNElUm1tj2d4Lh1jCU_gi5FcTXLK6ydoTHrm9VLwgiIjiPqFzaeIP-41ka8C34MtS-roGgz7AJzE5xI8-N0lLRkgASoJdXMtZWFzdC0yMIAG.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoSVG.svg?auto=&fit=min&fill=blur&ixlib=react-9.1.5&w=68&h=48&dpr=3&q=35"group-title="24/7", ARCHIVOS FORENSES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=50356e3e-f693-11ea-b77a-0242ac110002&userId=&serverSideAds=true
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSO35wbFyHeuImu-mLIKdrzv96VBGgzzrlwA&usqp=CAU"group-title="24/7", HISTORIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
@@ -1229,37 +1177,37 @@ http://iptvcanales.xyz/canales/live/157/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",PLANETA TV KIDS
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TV SERIES 2",PLANETA TV KIDS
 https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",MONI TV HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TV SERIES 2",MONI TV HD
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w859990179.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL", OPINIÓN TV HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TV SERIES 2", OPINIÓN TV HD
 https://mediacpstreamchile.com:1936/opinionsur/opinionsur/chunklist_w94905330.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",PLANET MOVIE HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TV SERIES 2",PLANET MOVIE HD
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1467051623.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL", ORIGEN TV HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TV SERIES 2", ORIGEN TV HD
 https://tv.streaming-chile.com:1936/origentv/origentv/chunklist_w1639405968.m3u8?PlaylistM3UCL
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",CONTIVISION TV HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TV SERIES 2",CONTIVISION TV HD
 https://unlimited2-cl-isp.dps.live/cm/cm.smil/cm/livestream1/chunks.m3u8?nimblesessionid=324811122&PlaylistM3UCL
 https://stmv2.zcasthn.com.br:443/marcosvillegas/marcosvillegas/chunklist_w1557704139.m3u8?PlaylistM3UCL
 
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TDA DIGITAL",T2 HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TV SERIES 2",T2 HD
 https://oracle.streaminghd.cl:443/tele2web/tele2web/chunklist_w1930542622.m3u8?PlaylistM3UCL
 https://paneltv.online:1936/8186/8186/chunklist_w1950321636.m3u8?PlaylistM3UCL
 
@@ -1268,158 +1216,174 @@ https://paneltv.online:1936/8186/8186/chunklist_w1950321636.m3u8?PlaylistM3UCL
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/diseno_sin_titulo_17.png"group-title="TDA DIGITAL",FLOU CINE HD
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/diseno_sin_titulo_17.png"group-title="TV SERIES 2",FLOU CINE HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStJqu8Ovyv-2CWDJZX8yMCuEl60W0hBIEWZA&usqp=CAU"group-title="TDA DIGITAL",CINEPIX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStJqu8Ovyv-2CWDJZX8yMCuEl60W0hBIEWZA&usqp=CAU"group-title="TV SERIES 2",CINEPIX
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="TDA DIGITAL",MI TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="TV SERIES 2",MI TV HD
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=278f424ae1d8fd1af0a6785558eb310b3f24f5fe4cad421079c510156b260500&exp=1649376050
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
 
 
-#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="TDA DIGITAL",SOMOS DEL ESTE HD
+#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="TV SERIES 2",SOMOS DEL ESTE HD
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TDA DIGITAL", TELEFUTURO HD
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2", TELEFUTURO HD
 http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/7529
 
 
 
-#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TDA DIGITAL",LIM TV
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",LIM TV
 https://live.limplay.ml/limtv.m3u8
 
-#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TDA DIGITAL",SNT HD
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",SNT HD
 https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 http://gameplay.p2sweb.me:80/3091894/4952970/251408
 
 
-#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TDA DIGITAL", PARAVISION HD
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2", PARAVISION HD
 http://170.83.242.152:5350/play/a021
 https://edge-live11-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
 
 
-#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TDA DIGITAL", CANAL RTV 12 
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2", CANAL RTV 12 
 https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w1606167708.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TDA DIGITAL",CANAL 8 HD
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",CANAL 8 HD
 https://59ce1298bfb98.streamlock.net:443/canal8tv/canal8tv/chunklist_w235082304.m3u8
 
 
 
-#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TDA DIGITAL",UNIRADIO TV
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",UNIRADIO TV
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TDA DIGITAL",ESTATION CRISTAL
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",ESTATION CRISTAL
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TDA DIGITAL",
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",TELECOLOR HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",TELECOLOR HD
 https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",FLORENCIA TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",FLORENCIA TV HD
 https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",CANAL 9 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",CANAL 9 HD
 https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",CANAL 9 BARBE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",CANAL 9 BARBE HD
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",TELESUR HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",TELESUR HD
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",VZ TELEVISIÓN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",VZ TELEVISIÓN HD
 https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",PALMERAS TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",PALMERAS TV HD
 https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8?PlaylistM3UCL
 https://servilive.com:3531/live/tumpistvlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",CR TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",CR TV HD
 https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TDA DIGITAL",TELEMAX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",TELEMAX HD
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png"group-title="TDA DIGITAL",CGTN ESPAÑOL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png"group-title="TV SERIES 2",CGTN ESPAÑOL
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="TDA DIGITAL", CIUDAD MAGAZINE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="TV SERIES 2", CIUDAD MAGAZINE HD
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png"group-title="TDA DIGITAL",UNIMAS HD
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="TDA DIGITAL",TELEMUNDO HD
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="TDA DIGITAL", IMAGEN TELEVISIÓN
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png"group-title="TDA DIGITAL",EL CANAL DE LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png"group-title="TV SERIES 2",UNIMAS HD
 
 
 
 
-
-#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/LOGO-MASCHIC-TXT-VIOLETA-copia.png"group-title="TDA DIGITAL", MAS CHIC HD
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="TV SERIES 2",TELEMUNDO HD
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="TV SERIES", IMAGEN TELEVISIÓN
 
-#EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group3/M00/6F/CC/4ZMEAFulds-AIY40AAA0nuRCjfI548.png?x-oss-process=style/mq200"group-title="TDA DIGITAL",SEO TV KIDS
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png"group-title="TV SERIES 2",EL CANAL DE LAS ESTRELLAS
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/LOGO-MASCHIC-TXT-VIOLETA-copia.png"group-title="TV SERIES 2", MAS CHIC HD
+
+
+
+
+
+
+
+
+
+
+
+############################( TV INFANTIL  )#############################################( TV INFANTIL )#########################################################( TV INFANTIL )######################################################################################################################################################
+#############################( TV INFANTIL)#############################################( TV INFANTIL )#########################################################( TV INFANTIL)######################################################################################################################################################
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group3/M00/6F/CC/4ZMEAFulds-AIY40AAA0nuRCjfI548.png?x-oss-process=style/mq200"group-title="TV INFANTIL",SEO TV KIDS
 https://seo.tv.bo/tv/ip2KIDS.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png"group-title="TDA DIGITAL", iCarly 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png"group-title="TV INFANTIL", iCarly 
 https://tinyurl.com/y976r32k
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png"group-title="TDA DIGITAL", ANIME HEROES
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png"group-title="TV INFANTIL", ANIME HEROES
 https://tinyurl.com/3s9mtscy
 
 
 
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/energeek.png"group-title="TDA DIGITAL", ENERGEEK 1
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/energeek.png"group-title="TV INFANTIL", ENERGEEK 1
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="TDA DIGITAL", NARUTO
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="TV INFANTIL", NARUTO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/60493045fbb5e50007b36f4d/colorLogoPNG.png" group-title="TDA DIGITAL", NARUTO 2
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/60493045fbb5e50007b36f4d/colorLogoPNG.png" group-title="TV INFANTIL", NARUTO 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="TDA DIGITAL", TV ANIME ACCIÓN
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="TV INFANTIL", TV ANIME ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
 
 
@@ -1453,173 +1417,179 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007c
 
 
 
+############################( TV SERIES 3 )#############################################( TV SERIES 3 )#########################################################( TV SERIES 3 )######################################################################################################################################################
+#############################( TV SERIES 3 )#############################################( TV SERIES 3 )#########################################################( TV SERIES 3 )######################################################################################################################################################
 
 
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME LATINO
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TV SERIES 3", RUN:TIME LATINO
 https://stream.ads.ottera.tv/cl/230225cft0jm3vu5r21en0h1a0/1280x720_3071200_0_f.m3u8?i=475_2154
 
 
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME ACCION
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TV SERIES 3", RUN:TIME ACCION
 https://stream.ads.ottera.tv/cl/230225cft0hirt72u1ih7psoig/1280x720_3071200_0_f.m3u8?i=475_2550
 
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME COMEDIA
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TV SERIES 3", RUN:TIME COMEDIA
 
 
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME CRIMEN
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TV SERIES 3", RUN:TIME CRIMEN
 
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME ROMANCE
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TV SERIES 3", RUN:TIME ROMANCE
 
 
 
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TDA DIGITAL", RUN:TIME FAMILIA
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TV SERIES 3", RUN:TIME FAMILIA
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png"group-title="TDA DIGITAL",FREE TV
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/logo-white.png"group-title="TDA DIGITAL", MYTIME 1
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/logo-white.png"group-title="TV SERIES 3", MYTIME 1
 https://appletree-mytimespain-rakuten.amagi.tv:443/playlist1080p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/logo-white.png"group-title="TDA DIGITAL", MYTIME 2
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/logo-white.png"group-title="TV SERIES 3", MYTIME 2
 https://appletree-mytime-samsungmexico.amagi.tv:443/playlist720_p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png"group-title="TDA DIGITAL", ADRENALINA FREEZONE
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png"group-title="TV SERIES 3", ADRENALINA FREEZONE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG.png"group-title="TDA DIGITAL",CINE NAVIDAD
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG.png"group-title="TV SERIES 3",CINE NAVIDAD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ed41526c77000941411c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
-#EXTINF:-1 tvg-logo="https://redpanda.cinepremiere.com.mx/wp-content/uploads/2018/01/logo_cp_marca.png"group-title="TDA DIGITAL", CINE PREMIER
+#EXTINF:-1 tvg-logo="https://redpanda.cinepremiere.com.mx/wp-content/uploads/2018/01/logo_cp_marca.png"group-title="TV SERIES 3", CINE PREMIER
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="TDA DIGITAL", CINE ESTELAR 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="TV SERIES 3", CINE ESTELAR 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true
 
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png"group-title="TDA DIGITAL",CINE COMEDIA
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png"group-title="TV SERIES 3",CINE COMEDIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfefd960-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=91842cfa-96ff-4c3a-b034-234b53b31245&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="TDA DIGITAL", CINE ACCIÓN
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="TV SERIES 3", CINE ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png"group-title="TDA DIGITAL", ESTRELLAS DE ACCIÓN
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png"group-title="TV SERIES 3", ESTRELLAS DE ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png" group-title="TDA DIGITAL",CINE ADRENALINA
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d164d92e97a5e107638d2/colorLogoPNG.png" group-title="TV SERIES 3",CINE ADRENALINA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804192-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0b46a48-3e72-4c90-a658-826f98daa8a9&userId=&serverSideAds=true
 
 
 
 
-#EXTINF:-1 tvg-logo="https://servicesdown.mx/img/rakuten-viki-logo.png"group-title="TDA DIGITAL", RAKUTEN VIKI
+#EXTINF:-1 tvg-logo="https://servicesdown.mx/img/rakuten-viki-logo.png"group-title="TV SERIES 3", RAKUTEN VIKI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8a24e17da110007eed4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="TDA DIGITAL", CINE ROMANCE
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="TV SERIES 3", CINE ROMANCE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png"group-title="TDA DIGITAL",CINE SUSPENSO
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png"group-title="TV SERIES 3",CINE SUSPENSO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png"group-title="TDA DIGITAL",CINE CRIMEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png"group-title="TV SERIES 3",CINE CRIMEN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png"group-title="TDA DIGITAL", TERROR HD 1
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png"group-title="TV SERIES 3", TERROR HD 1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b524&deviceDNT=0&deviceModel=0
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png"group-title="TDA DIGITAL", TERROR HD 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png"group-title="TV SERIES 3", TERROR HD 2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png"group-title="TDA DIGITAL", NUESTRO CINE
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png"group-title="TV SERIES 3", NUESTRO CINE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png"group-title="TDA DIGITAL",CINE DRAMA
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png"group-title="TV SERIES 3",CINE DRAMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png"group-title="TDA DIGITAL", TOP CINE
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png"group-title="TV SERIES 3", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com:443/TopCine-roku/master_6.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png"group-title="TDA DIGITAL", TU CINE
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png"group-title="TV SERIES 3", TU CINE
 https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
 https://tucine-plex.amagi.tv:443/TuCine-xumo/master_6.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzlUqUt6LkwhhZ_7YHxiUvmRHkpUugL9Oe5A&usqp=CAU"group-title="TDA DIGITAL", CINE REAL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzlUqUt6LkwhhZ_7YHxiUvmRHkpUugL9Oe5A&usqp=CAU"group-title="TV SERIES 3", CINE REAL
 https://cinereal-plex.amagi.tv:443/CineReal/master_6.m3u8
 https://cinereal-plex.amagi.tv:443/CineReal/master_6.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png"group-title="TDA DIGITAL",RAKUTEN TOP FREE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png"group-title="TV SERIES 3",RAKUTEN TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png"group-title="TDA DIGITAL", RAKUTEN ACCION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png"group-title="TV SERIES 3", RAKUTEN ACCION
 https://rakuten-actionmovies-2-es.samsung.wurl.tv:443/3000.m3u8
 https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/644597c2-30d2-43f4-8f14-ae3d8196676f/2.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG.png" group-title="TDA DIGITAL",CINE XOXO
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f5136317aedfb0007016f93/colorLogoPNG.png" group-title="TV SERIES 3",CINE XOXO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115ed60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f83ca203-9359-411e-a06a-f401bb16ab3a&userId=&serverSideAds=true
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
 
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG.png" group-title="TDA DIGITAL", CINE JAJA
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f513564e4622a0007c578c0/colorLogoPNG.png" group-title="TV SERIES 3", CINE JAJA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115c650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2c24e3d-01f5-4d23-a4be-a53210dbc21c&userId=&serverSideAds=true
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpTgvlnB6ziyj4RWTYBYOvdgzZiYBSdXbrw&usqp=CAU"group-title="TDA DIGITAL",SCI-FI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDpTgvlnB6ziyj4RWTYBYOvdgzZiYBSdXbrw&usqp=CAU"group-title="TV SERIES 3",SCI-FI
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="TDA DIGITAL", SERIES
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="TV SERIES 3", SERIES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="TDA DIGITAL", CSI HD
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="TV SERIES 3", CSI HD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="TDA DIGITAL", THE WALKING DEAD
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5e82bb378601b80007b4bd78/colorLogoPNG.png" group-title="TV SERIES 3", THE WALKING DEAD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vix_Logotype.svg/1200px-Vix_Logotype.svg.png"group-title="TDA DIGITAL",VIX - CINECLUB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vix_Logotype.svg/1200px-Vix_Logotype.svg.png"group-title="TV SERIES 3",VIX - CINECLUB
 https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
 
 
@@ -1839,9 +1809,6 @@ http://linear-409.frequency.stream:80/dist/vix/409/hls/master/playlist_1920x1080
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSO35wbFyHeuImu-mLIKdrzv96VBGgzzrlwA&usqp=CAU"group-title="TDA DIGITAL", HISTORIA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png"group-title="TDA DIGITAL",ANIMAL PLANET HD
@@ -1849,9 +1816,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png"group-title="TDA DIGITAL",ID DISCOVERY HD
 
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoSVG.svg?auto=&fit=min&fill=blur&ixlib=react-9.1.5&w=68&h=48&dpr=3&q=35"group-title="TDA DIGITAL", ARCHIVOS FORENSES
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=50356e3e-f693-11ea-b77a-0242ac110002&userId=&serverSideAds=true
 
 
 
