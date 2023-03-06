@@ -1376,7 +1376,11 @@ https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/YnIuY29tLnNvcm9jYWJhYXBwLmtpZHN0dl9pY29uXzE1MTc0Mjk5MDRfMDcw/icon.png?w=&fakeurl=1"group-title="TV INFANTIL",
+
+
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/YnIuY29tLnNvcm9jYWJhYXBwLmtpZHN0dl9pY29uXzE1MTc0Mjk5MDRfMDcw/icon.png?w=&fakeurl=1"group-title="TV INFANTIL",EL REINO INFANTIL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51f247aa-de6a-4551-a331-ffa4c5dc6b64&userId=&serverSideAds=true
 
 
 
@@ -1440,8 +1444,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e00072
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/YnIuY29tLnNvcm9jYWJhYXBwLmtpZHN0dl9pY29uXzE1MTc0Mjk5MDRfMDcw/icon.png?w=&fakeurl=1" group-title="TV INFANTIL", NARUTO 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="TV INFANTIL", TV ANIME ACCIÓN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
+
+
 
 
 
