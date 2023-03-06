@@ -856,18 +856,18 @@ https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/3a8860a0188e4de00e6e385418a42a17bab946ae21b7ac21b6a709ed98e29395.png"group-title="CRISTIANO",EX TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3d2e01_bf2dc7678c264034959e8e2acdf5085d~mv2.png/v1/fill/w_1261,h_1262,al_c/Jesus%20TV.png"group-title="CRISTIANO",EX TV
 http://204.12.202.90:8080/playgt/playgt2023/129
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/3a8860a0188e4de00e6e385418a42a17bab946ae21b7ac21b6a709ed98e29395.png"group-title="CRISTIANO", MANÁ DEL CIELO TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3d2e01_bf2dc7678c264034959e8e2acdf5085d~mv2.png/v1/fill/w_1261,h_1262,al_c/Jesus%20TV.png"group-title="CRISTIANO", MANÁ DEL CIELO TV
 http://mediaplatform.streamingmediahosting.com/p/10671/sp/1067100/playManifest/entryId/0_97vnjka8/format/applehttp/protocol/http/a.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/3a8860a0188e4de00e6e385418a42a17bab946ae21b7ac21b6a709ed98e29395.png"group-title="CRISTIANO", PALABRA DE DIOS SIN LEVADURA
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3d2e01_bf2dc7678c264034959e8e2acdf5085d~mv2.png/v1/fill/w_1261,h_1262,al_c/Jesus%20TV.png"group-title="CRISTIANO", PALABRA DE DIOS SIN LEVADURA
 https://583ed2f226ac2.streamlock.net/49/stream/chunklist_w1954002463.m3u8
 
 
