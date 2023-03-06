@@ -310,62 +310,60 @@ https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://guacaratv.com/wp-content/uploads/2022/03/logo-Guacara-TV-153-x-90.png"group-title="TV SERIES",GUACARA TV
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",GUACARA TV
 https://cloudflare.streamgato.us:3180/live/guacaratvlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://televisionuniversitariaumsa.com/images/tvu_blanco.png"group-title="TV SERIES",TV UMSA
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",TV UMSA
 https://614013e273786.streamlock.net:443/TvUniversitaria/TvUniversitaria/chunklist_w849098016.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://megatv.com.bo/wp-content/uploads/2022/11/vt.png"group-title="TV SERIES",MEGA TV HD
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MEGA TV HD
 https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nABAES2K4zE72UkrJSmlXlG2mq53XuJGNWZQPhZmtTAM1j-k_B26EPTucf8Ot-502wg=w526-h296-rw"group-title="TV SERIES",DTPLAY
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",DTPLAY
 https://tv.portalexpress.es:3044/live/dtplaylive.m3u8   
 
 
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/multivision.png"group-title="TV SERIES", MULTIVISION RD
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", MULTIVISION RD
 https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1794795633.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c4309606-358e-437f-8c6b-8b50c1e01757-profile_image-50x50.png"group-title="TV SERIES",MOVIE_HOME  👈 "9 1/2" horas de PELÍCULAS 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MOVIE_HOME  👈 "9 1/2" horas de PELÍCULAS 
 https://d1m7jfoe9zdc1j.cloudfront.net/a4f8006207ea37529787_movie_home_40981232361_1677304545/chunked/index-muted-JU0N2G0LIZ.m3u8
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvIEgdvQmRMju200GBRBrobg-LXSdAR75HWiahRidil-ebhZDMIvK_dLucTcEaeH2ZePASYvmDoiufK6_sDIACD7GhXx5YWUNkws4lLP1jYgD4Ci_vzzSOfN2aAh2Tl76VyzY5C6y3f5tDoTQu7Dgbv5U_oqz0NU2OuejUjpeBNcKZDTdV3_ILeGqjHKC_KOl3AEXv3-jmTgjNoM3QZvhcedhg6khf7rVfhq9Q0GlHcusGab0d4RO1E1dYlzKN4Lp6q7RH1H76ygTvCCBQxtuIvURHUVCxciufvh2wbVPNus9Rvcq817VImP8MoSCcx2UIXCYL9SaV4_7Ingk1AzMkvSt71vhDcKhXFnaWozX9pxeMN7syrGtBKW4lUKO0x1VMZSboKpBHlZWGaleZ7qQuW5I4LJ0N03yapmoztZKcj8ff1YhnXC1kqR0EnKaJ5n1exOV9VSz3U_lwdaF0vJBVv-vH3qe5BI1KmcGi770A-Vxas5F4qiG-CERHqaHfxYsffccyiX2l5v14_rDL9UBOTJXp8ZSbUZ4H-mo0Dv8k3-hVTO4mucbqCwqeOuXAfo2kCMvs5NOH7oCVZVk_S1w8lcUOoV9TQql-JewcjW_t14YyxZH0ebXamsEXRNXrjrFD5FVKts706HGGJZ_XeAGEVCqh76w-fCPuJXHhLoBh7rndimfmpqSY_kg6FmLFCHtc4OddBQUQ-ohM8YjT0KjPjGcOiljk0oFMdHQm3cGZJSzobSx2j4NCBPax8I_ne62Cj12hHr9pZjYd3nHaClzflnUAVfCnADj0SLEVVCTgs8OaDnMq1G3xXxBfVNHLrfdH12_cQaDLusnmRJILTXlefbeCABKgl1cy1lYXN0LTEwrwQ.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://media.ahora.com.ar/p/445962a32f6c26554aa6c5ed06f8500c/adjuntos/226/imagenes/002/416/0002416864/790x0/smart/netflix-logo-700x394png.png"group-title="TV SERIES",CINE HD
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",CINE HD
 
 
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-300x300.png"group-title="TV SERIES", PELÍCULAS _MANIA HD
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", PELÍCULAS _MANIA HD
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CokFZgjFMf6kFT3bC5yb7pOvnN6H7AGHyKbNBxp_4PpIZIFdfuiOvb3OhsOAxzfAbn_GoWv5OM03UC0ucXRuM0pY6P_oh3a0QNYtErozq9L_g3JfYmSuOwZPh-atmwnOtfo-H_6a2kpWvTb4ak_S8z68RaxWxOKBvlxzxzOoyVIFHiaawv_A2l8_BtnHW7TjB8vtaMuGuVSIXkvJVrAHYJZkyfxwpLU5u5XD_XBk4CspFMgec8sllVzpJs_SA3U-dtqt5bDLDDSMfLAuvsQRwgDcv41X1LnKjEKh4bRorXGyk4O9s4YpTqTVNB9L3DHX_ynnbkoXrLCFWvT76yDKc-Cv1Qy2yu4Au-YACEHFrUbBU4tQCA12SE3iiPSeaS2JkfjATDfkuNNw9dCHU5zjjoggHwttasOxlems2FUTk4rxTFrf3z9iABQvJS2fVJKZjZ4pHY_vTUGDCj60JU-Izu7AvbNaHsyV6lvLyPfTFKu3AnexTYFmhh2j4ONPYA8mpwP7PWbQChCHLujhzVXprdW3T0PFzD8v9qghrD2MbE0KAfEa6uT04Ev6pLIjcXmlJAoL4x0n9LsGo68V-yU97Vmxj6cEhHRpg4Y9txBym1wn5nEA0rBfbT6_ykdOvzRg0L0e0zsEtyoGM4Z4C_09WxtTdH13V49HTGr74REg2NfNlXREJVgNyUWWYhHY9JnGaaVa7SveolBYQavr2o7KjP96yEaqxOR5caNPQyjTSdVZjXUIbek9es1mOoz4UGyDhIKmA6rn5XNcCT1otk3XAWRaUMz_9vlZRKv4Nf6_ETp3p_tAp66_IkWD1rLqkYS1oJEX5aNHXX8FSSUGVbV0RwcjJaUWaxoD9hitvRoMOZzU3_OtxclyPncgIAEqCWV1LXdlc3QtMjCBBg.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TV SERIES",PLANETATV
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",PLANETATV
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1780444006.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png?fit=462%2C112&ssl=1"group-title="TV SERIES", TELEVISIÓN DEL ESTE HD
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", TELEVISIÓN DEL ESTE HD
 https://cm.hostlagarto.com:4445/ESTV/estv.myStream/playlist.m3u8?DVR
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_09/large.59b567df3dae4_Telecaribe2017.png.b72e1a981efb12c791b3e69086924395.png"group-title="TV SERIES",TELECARIBE HD
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",TELECARIBE HD
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?DVR
 
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/jimanitv.jpeg"group-title="TV SERIES",JIMANI TV HD
+#EXTINF:-1 tv="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",JIMANI TV HD
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w37211739.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image70119570242.jpg"group-title="TV SERIES",MOVIE FE
-https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 
 
 
@@ -851,6 +849,11 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w30918240
 
 #EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/06/alcancetv_logo-3d.png"group-title="CRISTIANO",ALCANCE TV HD
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image70119570242.jpg"group-title="CRISTIANO",MOVIE FE
+https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_7d74f927dbb74c0bb71c018606d9caa2~mv2.jpg/v1/fill/w_1280,h_720,al_c/7acae1_7d74f927dbb74c0bb71c018606d9caa2~mv2.jpg"group-title="CRISTIANO",EX TV
