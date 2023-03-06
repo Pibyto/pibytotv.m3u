@@ -1162,8 +1162,6 @@ https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397
 
 
 
-############################( TDA  )#############################################( TDA )#########################################################( TDA )######################################################################################################################################################
-#############################( TDA )#############################################( TDA )#########################################################( TDA )######################################################################################################################################################
 
 
 
@@ -1173,6 +1171,8 @@ https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397
 
 
 
+############################( TV SERIES 2 )#############################################( TV SERIES 2 )#########################################################( TV SERIES 2 )######################################################################################################################################################
+#############################( TV SERIES 2 )#############################################( TV SERIES 2)#########################################################( TV SERIES 2 )######################################################################################################################################################
 
 
 
@@ -1227,7 +1227,7 @@ http://204.12.202.90:8080/playgt/playgt2023/62
 
 
 
-#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",LIM TV
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",LIM TV HD
 https://live.limplay.ml/limtv.m3u8
 
 #EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",FLOU CINE
@@ -1426,17 +1426,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007c
 
 
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png"group-title="TDA DIGITAL",NIK JUNIOR HD
-
-
-
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png"group-title="TDA DIGITAL",NIKELODEON HD
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png"group-title="TDA DIGITAL", DISCOVERY KIDS HD
-
-
 
 
 
@@ -1471,7 +1460,7 @@ https://stream.ads.ottera.tv/cl/230225cft0hirt72u1ih7psoig/1280x720_3071200_0_f.
 
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png"group-title="TV SERIES 3", RUN:TIME FAMILIA
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png"group-title="TDA DIGITAL",FREE TV
+#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2021/09/FreeTV.com_Logo_new-216x84-1-1.png"group-title="TV SERIES 3",FREE TV
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
 
@@ -1662,8 +1651,6 @@ https://linear-192.frequency.stream:443/192/hls/master/playlist_1280x720.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png"group-title="TDA DIGITAL",BEIN SPORTS EXTRA Ñ
-https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 
 
 
@@ -1688,7 +1675,7 @@ https://siloh.pluto.tv:443/lilo/production/BEIN/ES/master_1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png"group-title="TDA DIGITAL",GOLDEN 1
-http://linear-409.frequency.stream:80/dist/vix/409/hls/master/playlist_1920x1080.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png"group-title="TDA DIGITAL",GOLDEN 2
