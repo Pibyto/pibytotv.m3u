@@ -205,6 +205,10 @@ https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1770574078.m3u8?Pla
 https://s1.tvdatta.com:3457/hybrid/play.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="TV SERIES",WOW TV HD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w858212870.m3u8
+http://iptvcanales.xyz/canales/live/157/playlist.m3u8
+
 
 
 
@@ -1173,10 +1177,6 @@ https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397
 
 
 
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="TDA DIGITAL",WOW TV HD
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w858212870.m3u8
-http://iptvcanales.xyz/canales/live/157/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TV SERIES 2",PLANETA TV KIDS
@@ -1213,9 +1213,6 @@ https://stmv2.zcasthn.com.br:443/marcosvillegas/marcosvillegas/chunklist_w155770
 https://oracle.streaminghd.cl:443/tele2web/tele2web/chunklist_w1930542622.m3u8?PlaylistM3UCL
 https://paneltv.online:1936/8186/8186/chunklist_w1950321636.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png"group-title="TDA DIGITAL",OROMAR TV
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/diseno_sin_titulo_17.png"group-title="TV SERIES 2",FLOU CINE HD
@@ -1263,6 +1260,50 @@ https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w160616
 #EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",CANAL 8 HD
 https://59ce1298bfb98.streamlock.net:443/canal8tv/canal8tv/chunklist_w235082304.m3u8
 
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",IZABAL TV
+http://204.12.202.90:8080/playgt/playgt2023/133
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",CNI DIGITAL 
+http://204.12.202.90:8080/playgt/playgt2023/143
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",CANAL 5
+http://204.12.202.90:8080/playgt/playgt2023/141
+
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",SAS TV
+http://204.12.202.90:8080/playgt/playgt2023/138
+
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",GUA TV
+http://204.12.202.90:8080/playgt/playgt2023/131
+
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",FULL CHANNEL
+http://204.12.202.90:8080/playgt/playgt2023/130
+
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",CANAL 100
+http://204.12.202.90:8080/playgt/playgt2023/106
+
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",CANAL 8
+http://204.12.202.90:8080/playgt/playgt2023/105
+
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2", AURORA TV
+http://204.12.202.90:8080/playgt/playgt2023/104
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2", TELEMAX HD
+http://204.12.202.90:8080/playgt/playgt2023/99
 
 
 #EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",UNIRADIO TV
