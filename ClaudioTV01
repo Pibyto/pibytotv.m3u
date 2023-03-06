@@ -1406,6 +1406,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/YnIuY29tLnNvcm9jYWJhYXBwLmtpZHN0dl9pY29uXzE1MTc0Mjk5MDRfMDcw/icon.png?w=&fakeurl=1"group-title="TV INFANTIL", MAGIC KIDS
+https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/YnIuY29tLnNvcm9jYWJhYXBwLmtpZHN0dl9pY29uXzE1MTc0Mjk5MDRfMDcw/icon.png?w=&fakeurl=1" group-title="TV INFANTIL", NARUTO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
