@@ -176,7 +176,7 @@ http://linear-410.frequency.stream:80/dist/vix/410/hls/master/playlist_1920x1080
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/632JrLd.png"group-title="TV SERIES",VIWIX ESTRENOS 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",VIWIX ESTRENOS 
 https://s1.tvdatta.com:3172/hybrid/play.m3u8
 
 
@@ -184,11 +184,11 @@ https://s1.tvdatta.com:3172/hybrid/play.m3u8
 https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/94368c32-7230-4ac2-9a50-6adc946e66e4/2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png"group-title="TV SERIES",ORBIT TV HD
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",ORBIT TV HD
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/i2rmYXlkL1sZn4qNORCMhpcnospmVScqx5rbsbbUJTquMo3SIqp6TjsbXPe7G-HMuQ"group-title="TV SERIES",OK TEVE
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",OK TEVE
 https://stream.plixitv.live:443/oktv/oktv/chunklist_w1848498851.m3u8?PlaylistM3UCL
 
 
