@@ -241,6 +241,14 @@ https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
 https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",LIM TV
+https://live.limplay.ml/limtv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",GUACARA TV
+https://cloudflare.streamgato.us:3180/live/guacaratvlive.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", VIWIX TERROR 
 https://s1.tvdatta.com:3849/hybrid/play.m3u8
 
@@ -322,12 +330,6 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?WebM3UCL
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TDA DIGITAL",LIM TV
-https://live.limplay.ml/limtv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",GUACARA TV
-https://cloudflare.streamgato.us:3180/live/guacaratvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",TV UMSA
