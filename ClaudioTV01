@@ -1375,6 +1375,11 @@ https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/YnIuY29tLnNvcm9jYWJhYXBwLmtpZHN0dl9pY29uXzE1MTc0Mjk5MDRfMDcw/icon.png?w=&fakeurl=1"group-title="TV INFANTIL",BOB ESPONJA HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/YnIuY29tLnNvcm9jYWJhYXBwLmtpZHN0dl9pY29uXzE1MTc0Mjk5MDRfMDcw/icon.png?w=&fakeurl=1"group-title="TV INFANTIL",SEO TV KIDS
 https://seo.tv.bo/tv/ip2KIDS.m3u8
 
@@ -1426,19 +1431,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png"group-title="TDA DIGITAL",CARTOON NETWORK HD
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png"group-title="TDA DIGITAL", DISNEY CHANNEL HD
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png"group-title="TDA DIGITAL",CARTOONITO HD
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="TDA DIGITAL",TOONCAST HD
 
 
 
