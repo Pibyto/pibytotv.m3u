@@ -1183,71 +1183,55 @@ https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TV SERIES 2",PLANETA TV KIDS
+
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2", PLANETA TV FAMILY HD
 https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TV SERIES 2",MONI TV HD
+
+
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",MONI TV HD 
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w859990179.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TV SERIES 2", OPINIÓN TV HD
+
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2", OPINIÓN TV HD 
 https://mediacpstreamchile.com:1936/opinionsur/opinionsur/chunklist_w94905330.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TV SERIES 2",PLANET MOVIE HD
-https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1467051623.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TV SERIES 2", ORIGEN TV HD
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2", ORIGEN TV HD
 https://tv.streaming-chile.com:1936/origentv/origentv/chunklist_w1639405968.m3u8?PlaylistM3UCL
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TV SERIES 2",CONTIVISION TV HD
-https://unlimited2-cl-isp.dps.live/cm/cm.smil/cm/livestream1/chunks.m3u8?nimblesessionid=324811122&PlaylistM3UCL
-https://stmv2.zcasthn.com.br:443/marcosvillegas/marcosvillegas/chunklist_w1557704139.m3u8?PlaylistM3UCL
-
-
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/u09UmgzGL1f93Vck1PnVPoAtLxSMxTdvWycXkqg-lu4QqRrZF4s16AdzpAuWyB3UK9A=w600-h300-pc0xffffff-pd"group-title="TV SERIES 2",T2 HD
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",T2 HD
 https://oracle.streaminghd.cl:443/tele2web/tele2web/chunklist_w1930542622.m3u8?PlaylistM3UCL
 https://paneltv.online:1936/8186/8186/chunklist_w1950321636.m3u8?PlaylistM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/diseno_sin_titulo_17.png"group-title="TV SERIES 2",FLOU CINE HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStJqu8Ovyv-2CWDJZX8yMCuEl60W0hBIEWZA&usqp=CAU"group-title="TV SERIES 2",CINEPIX
-https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="TV SERIES 2",MI TV HD
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",MI TV HD
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?k=278f424ae1d8fd1af0a6785558eb310b3f24f5fe4cad421079c510156b260500&exp=1649376050
 https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w2009888108.m3u8?k=cdad6fc02a4745582340b0d617ca62f43c65590e4dc851772639da7382bb47b6&exp=1646789169
 
 
-#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="TV SERIES 2",SOMOS DEL ESTE HD
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",SOMOS DEL ESTE HD
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
 
 
 #EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2", TELEFUTURO HD
-http://tv.nousiptv.com:8080/Jomyson/JuJH.8628jT/7529
+
 
 
 
 #EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",LIM TV
 https://live.limplay.ml/limtv.m3u8
 
-#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",SNT HD
+#EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",FLOU CINE
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/flou-cine/playlist.m3u8
 https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 http://gameplay.p2sweb.me:80/3091894/4952970/251408
 
@@ -1330,68 +1314,47 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM
 #EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",TELECOLOR HD
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",TELECOLOR HD
 https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 https://stmv.panel.grupolimalive.com:443/surtv/surtv/chunklist_w1824044546.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",FLORENCIA TV HD
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",FLORENCIA TV HD
 https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",CANAL 9 HD
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",CANAL 9 HD
 https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",CANAL 9 BARBE HD
-https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",TELESUR HD
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",TELESUR HD
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",VZ TELEVISIÓN HD
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",VZ TELEVISIÓN HD
 https://live.obslivestream.com/vztv/index.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",PALMERAS TV HD
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",PALMERAS TV HD
 https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8?PlaylistM3UCL
 https://servilive.com:3531/live/tumpistvlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",CR TV HD
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",CR TV HD
 https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="TV SERIES 2",TELEMAX HD
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",TELEMAX HD
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png"group-title="TV SERIES 2",CGTN ESPAÑOL
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="TV SERIES 2", CIUDAD MAGAZINE HD
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/960px-Logo_UniM%C3%A1s.svg.png"group-title="TV SERIES 2",UNIMAS HD
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="TV SERIES 2",TELEMUNDO HD
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="TV SERIES", IMAGEN TELEVISIÓN
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png"group-title="TV SERIES 2",EL CANAL DE LAS ESTRELLAS
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/05/LOGO-MASCHIC-TXT-VIOLETA-copia.png"group-title="TV SERIES 2", MAS CHIC HD
 
 
 
