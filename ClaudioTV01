@@ -188,7 +188,8 @@ https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/i2rmYXlkL1sZn4qNORCMhpcnospmVScqx5rbsbbUJTquMo3SIqp6TjsbXPe7G-HMuQ"group-title="TV SERIES",OK TEVE
+https://stream.plixitv.live:443/oktv/oktv/chunklist_w1848498851.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5S4e_jY1cJrTk2wt1hpUbCuRxwOo2pe0jUQ&usqp=CAU"group-title="TV SERIES",CINECLUB HD
