@@ -177,6 +177,20 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", VIWIX SERIES 
+https://s1.tvdatta.com:3402/hybrid/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", ZOY TV
+https://master.tucableip.com:443/zoytv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", RTP HD
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1541203773.m3u8?WebM3UCL
+
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",IU TV HD
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
@@ -257,8 +271,6 @@ https://s1.tvdatta.com:3849/hybrid/play.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w858212870.m3u8
 http://iptvcanales.xyz/canales/live/157/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", VIWIX SERIES 
-https://s1.tvdatta.com:3402/hybrid/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",TELEBRUNCA
