@@ -1261,6 +1261,51 @@ https://59ce1298bfb98.streamlock.net:443/mediosenpy/mediosenpy/chunklist_w160616
 https://59ce1298bfb98.streamlock.net:443/canal8tv/canal8tv/chunklist_w235082304.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES",IZABAL TV
+http://204.12.202.90:8080/playgt/playgt2023/133
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES",CNI DIGITAL 
+http://204.12.202.90:8080/playgt/playgt2023/143
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES",CANAL 5
+http://204.12.202.90:8080/playgt/playgt2023/141
+
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES",SAS TV
+http://204.12.202.90:8080/playgt/playgt2023/138
+
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES",GUA TV
+http://204.12.202.90:8080/playgt/playgt2023/131
+
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES",FULL CHANNEL
+http://204.12.202.90:8080/playgt/playgt2023/130
+
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES",CANAL 100
+http://204.12.202.90:8080/playgt/playgt2023/106
+
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES",CANAL 8
+http://204.12.202.90:8080/playgt/playgt2023/105
+
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES", AURORA TV
+http://204.12.202.90:8080/playgt/playgt2023/104
+
+
+#EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES", TELEMAX HD
+http://204.12.202.90:8080/playgt/playgt2023/99
+
 
 #EXTINF:1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",UNIRADIO TV
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?PlaylistM3UCL
