@@ -1376,6 +1376,16 @@ https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/YnIuY29tLnNvcm9jYWJhYXBwLmtpZHN0dl9pY29uXzE1MTc0Mjk5MDRfMDcw/icon.png?w=&fakeurl=1"group-title="TV INFANTIL",
+
+
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/YnIuY29tLnNvcm9jYWJhYXBwLmtpZHN0dl9pY29uXzE1MTc0Mjk5MDRfMDcw/icon.png?w=&fakeurl=1"group-title="TV INFANTIL",BABYFIRST
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22356-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9245c0c5-80d7-43b0-a132-df93fca90821&userId=&serverSideAds=true
+
+
+
+
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/YnIuY29tLnNvcm9jYWJhYXBwLmtpZHN0dl9pY29uXzE1MTc0Mjk5MDRfMDcw/icon.png?w=&fakeurl=1"group-title="TV INFANTIL",BOB ESPONJA HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -1383,6 +1393,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d85
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/YnIuY29tLnNvcm9jYWJhYXBwLmtpZHN0dl9pY29uXzE1MTc0Mjk5MDRfMDcw/icon.png?w=&fakeurl=1"group-title="TV INFANTIL",SEO TV KIDS
 https://seo.tv.bo/tv/ip2KIDS.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/YnIuY29tLnNvcm9jYWJhYXBwLmtpZHN0dl9pY29uXzE1MTc0Mjk5MDRfMDcw/icon.png?w=&fakeurl=1"group-title="TV INFANTIL",ANGRY BIRD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
 
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/YnIuY29tLnNvcm9jYWJhYXBwLmtpZHN0dl9pY29uXzE1MTc0Mjk5MDRfMDcw/icon.png?w=&fakeurl=1"group-title="TV INFANTIL", iCarly 
