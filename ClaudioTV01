@@ -193,16 +193,17 @@ https://rakuten-euronews-4-es.samsung.wurl.com:443/manifest/f1f29e913cb79ff20b94
 https://vod.lamtv.tv/ene/20220316039.mkv
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Despierta_la_furia-848619608-large.jpg"group-title="MOVIE", DESPIERTA LA FURIA HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUfYXh1GwDqYnhuq6UHe7rCFksP6NiEYT7Q&usqp=CAU"group-title="MOVIE", DESPIERTA LA FURIA HD
 https://archive.org/download/01_20210527_20210527_1617/01.mp4
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Ambulance_Plan_de_huida-563650640-large.jpg"group-title="MOVIE", AMBULANCIA HD
+#EXTINF:-1 tvg-logo=""group-title="MOVIE", AMBULANCIA HD
 https://archive.org/download/01_20220429/01.mp4
 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Duro_de_cuidar_2-672895194-large.jpg"group-title="MOVIE",DURO DE CUIDAR 2 HD
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",DURO DE CUIDAR 2 HD
 https://archive.org/download/01_20210707_20210707_1902/01.mp4
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/90/Horas_Contadas_.jpg/revision/latest?cb=20151228234253&path-prefix=es"group-title="MOVIE", HORAS CONTADAS
 https://goo.gl/SyvNCX
