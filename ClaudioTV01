@@ -42,7 +42,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqSWyRQN5WbtHlv_Wt9u4Z-mbZ40v0xp0Kg&usqp=CAU"group-title="TDA DIGITAL",BAYRES TV HD 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="TDA INTERIOR", CINCO TV HD  TIGRE
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="TDA DIGITAL", CINCO TV HD  TIGRE
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 
@@ -701,6 +701,7 @@ https://stormcast-novelas-2-es.samsung.wurl.tv:443/3000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.boutiqueautomovil.com.ar/wp-content/uploads/2019/05/logo-mercadopago.png"group-title="TDA RETRO",👉clau.rub.ka👈PODES DONAR A VOLUNTAD
+https://s1.tvdatta.com:3457/hybrid/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/009/954/591/non_2x/retro-tv-neon-sign-tv-show-emblem-in-trendy-neon-style-vector.jpg"group-title="TV RETRO", RETROXTV 
@@ -772,6 +773,7 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UC
 
 
 #EXTINF:-1 tvg-logo="https://www.boutiqueautomovil.com.ar/wp-content/uploads/2019/05/logo-mercadopago.png"group-title="TDA INTERIOR",👉clau.rub.ka👈PODES DONAR A VOLUNTAD
+https://live.seo.tv.bo/live/4SEO.m3u8
 
 
 
@@ -1031,6 +1033,7 @@ https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.boutiqueautomovil.com.ar/wp-content/uploads/2019/05/logo-mercadopago.png"group-title="TDA CRISTIANO",👉clau.rub.ka👈PODES DONAR A VOLUNTAD
+
 
 
 
@@ -1397,6 +1400,7 @@ https://stitcheraws.unreel.me:443/wse-node02.powr.com/live/5c95387b932c837b49397
 
 
 #EXTINF:-1 tvg-logo="https://www.boutiqueautomovil.com.ar/wp-content/uploads/2019/05/logo-mercadopago.png"group-title="TV SERIES 2",👉clau.rub.ka👈PODES DONAR A VOLUNTAD
+https://s1.tvdatta.com:3402/hybrid/play.m3u8
 
 
 
@@ -1630,6 +1634,7 @@ https://live.obslivestream.com:443/crtvmux/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.boutiqueautomovil.com.ar/wp-content/uploads/2019/05/logo-mercadopago.png"group-title="TV INFANTIL",👉clau.rub.ka👈PODES DONAR A VOLUNTAD
+https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 
 
 
