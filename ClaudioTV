@@ -390,15 +390,6 @@ https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-c-WycWEw_H4/XtwM659Hk6I/AAAAAAAAASw/4ftRzkVVr2INhSlklwgV8K4c-FajWgOeQCK4BGAYYCw/s400/PARA%2BLA%2BPAGINA.png"group-title="CINE Y SERIES",CROM TV
-https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png"group-title="CINE Y SERIES",ANDES TV
-https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-
 
 
 
@@ -797,17 +788,9 @@ https://1206618505.rsc.cdn77.org:443/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25893/images/logog.png"group-title="RADIO",RADIO POP 101.5
-https://ny2.stweb.tv/popradio/live/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/GijbirXXgwFRgUqwtlJ4bpm3hB_Xpe3xI23TnCOxiK9Xu2MVHhOAOFNm-RDDmLoQ2YqkCYHS1A=s900-c-k-c0x00ffffff-no-rj"group-title="RADIO",FM 100
-https://18363.live.streamtheworld.com/FM999_56AAC.aac?dist=la100_webplayer&autoplay=0&tdsdk=js-2.9&swm=true&lat=-34.8&long=-58.5&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=d2e627d5-f79b-4335-f2b7-dad294021bdb
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlCgRGwNYy-Tt0QE0lisoc8yLHu_B_fp0CJW4_dj4&s"group-title="RADIO",TROPIBOX FM 107.1
-https://stream.streema.com/?url=http://69.64.46.123:8015/autodj
 
 #EXTINF:-1 tvg-logo="https://radiotv.ar/img/l/folkloresinfronteras.jpg"group-title="RADIO",FOLKLORE SIN FRONTERAS
 https://server.ohradio.com.ar/8168/;
