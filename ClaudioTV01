@@ -93,6 +93,7 @@ https://d1nmqgphjn0y4.cloudfront.net:443/live/ip/live.isml/live-audio_1=128000-v
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA DIGITAL", AMÉRICA  36.1
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/e5abf2d7-a4bc-498a-9131-e078d46cf07c:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
 https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
 
 
@@ -102,6 +103,7 @@ http://daleplay.club:8080/eduardo2022/eduardo2022/81300
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png"group-title="TDA DIGITAL",A24 HD  36.3
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/c3fc5674-17db-437d-9463-bb8af46db2b1:SCL/master.m3u8
 https://g1.proy-hor.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 
