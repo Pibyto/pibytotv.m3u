@@ -107,6 +107,9 @@ http://daleplay.club:8080/eduardo2022/eduardo2022/81300
 https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/c3fc5674-17db-437d-9463-bb8af46db2b1:SCL/master.m3u8
 https://g1.proy-hor.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://atvargentina.com/wp-content/uploads/2021/07/cropped-atvargentina-favicon.png"group-title="TDA DIGITAL",ATV ARGENTINA
+https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png"group-title="TDA DIGITAL", ENCUENTRO HD  22.1
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/encuentro/chunklist_w1399350081.m3u8
@@ -796,7 +799,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Canal5telesol2016logo.png/revision/latest/scale-to-width-down/170?cb=20210525135451&path-prefix=es"group-title="TDA INTERIOR",TLS HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Canal5telesol2016logo.png/revision/latest/scale-to-width-down/170?cb=20210525135451&path-prefix=es"group-title="TV INTERIOR",TLS HD
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
