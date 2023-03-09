@@ -248,7 +248,36 @@ https://cnnsanjuan.com:9999/live/delsurtv/playlist.m3u8
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA INTERIOR",13 MAX DIGITAL HD  31.1 
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="TDA INTERIOR",CANAL 13 HD  13.1  LA RIOJA
+http://arcast.net:1935/mp/mp/chunklist_w25245074.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="TDA INTERIOR",CANAL 7 HD  36.1. JUJUY 
+https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1079304926_b1327104.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA INTERIOR",PANC TV HD 15.1 TUCUMÁN
+https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_cQQXq6Cb-5JZukAA9_VeTgfPqCLspT4n92sk3-i&s"group-title="TDA INTERIOR",CANAL  CAUCETE
+https://canalsj.kozow.com:443/canal40/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png"group-title="TDA INTERIOR",CANAL 8 HD  8.1 MDP
+https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA INTERIOR",10 HD  10.1  MDP
+http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA INTERIOR",TELEMIX! HD  GLEW
+https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 
 
@@ -885,38 +914,8 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UC
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA INTERIOR",13 MAX DIGITAL HD  31.1 
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="TDA INTERIOR",CANAL 13 HD  13.1  LA RIOJA
-http://arcast.net:1935/mp/mp/chunklist_w25245074.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-7-Jujuy-en-vivo-Online.png"group-title="TDA INTERIOR",CANAL 7 HD  36.1. JUJUY 
-https://stream.arcast.live:443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1079304926_b1327104.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA INTERIOR",PANC TV HD 15.1 TUCUMÁN
-https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_cQQXq6Cb-5JZukAA9_VeTgfPqCLspT4n92sk3-i&s"group-title="TDA INTERIOR",CANAL  CAUCETE
-https://canalsj.kozow.com:443/canal40/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png"group-title="TDA INTERIOR",CANAL 8 HD  8.1 MDP
-https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA INTERIOR",10 HD  10.1  MDP
-http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA INTERIOR",TELEMIX! HD  GLEW
-https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA INTERIOR",MILENIUM TV HD  SALTA
