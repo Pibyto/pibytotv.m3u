@@ -258,6 +258,24 @@ http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/REShnQtzUX_bicawR4XV5xL7e4GU7PnRAWroxGAgCX-bwdHnmDnZsX-dxIZPmdMCzNI"group-title="TDA INTERIOR", SANAGASTA TV HD 
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EOKNNHtXUAATPB_.png"group-title="TDA INTERIOR", SENILLOSA TV
+https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://i.paste.pics/20f670cff902ed4ba66371959308bc9a.png"group-title="TDA INTERIOR",GVISION HD
+https://stream.cvisiontv.com/cvision_stream.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="http://teledigitalgranada.com/wp-content/uploads/2018/04/teledigital-simple.png"group-title="TDA INTERIOR",TELEDIGITAL
+https://videohd.live:19360/8014/8014.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Veo-Santa-Fe-en-vivo-Online.png"group-title="TDA INTERIOR",VEO TV SANTA FE 
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5eOwe3rAGo-84uXYrvp1wqfvp0gUzEoGZg&usqp=CAU"group-title="TDA INTERIOR",DEL SUR TV
 https://cnnsanjuan.com:9999/live/delsurtv/playlist.m3u8
 
