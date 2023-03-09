@@ -280,7 +280,48 @@ http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/
 https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA INTERIOR",MILENIUM TV HD  SALTA
+https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA INTERIOR",EL PALOMAR TV HD   21.1  TUCUMÁN 
+https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-6-mar-del-plata.png"group-title="TDA INTERIOR",CANAL 6 HD  6.1  MAR DEL PLATA
+https://panel.dattalive.com:443/8166/8166/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png"group-title="TDA INTERIOR", TDC ONLINE HD  21.7 SANTA FE
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.rtnweb.gob.ar/tv/img/logo.png"group-title="TDA INTERIOR", RTN HD   21.9  NEUQUÉN 
+http://media.neuquen.gov.ar:80/rtn/television/chunklist_w1507615126.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="TDA INTERIOR",SANTA FE CANAL HD  29.2
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Xama-Senal-UNSJ-en-vivo-Online.png?resize=218%2C150&ssl=1"group-title="TDA INTERIOR",XAMATV  33.1  SAN JUAN 
+https://srs.unsj.edu.ar/live/xama.flv
+
+
+#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/60ba654d0cf443090aa41804.png"group-title="TDA INTERIOR",ASPEN HD  35.3
+https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
+
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg"group-title="TDA INTERIOR",TIERRAMIATV HD  35.4
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tvdos-canal-2-de-salta-en-vivo-2322.png"group-title="TDA INTERIOR", CANAL 2 SD 2.14  SALTA
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://dto7y5p0mql2j.cloudfront.net/1660769433762.logoc2.png"group-title="TDA INTERIOR", CANAL 2 HD  2.15 MISIONES
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 
 
 
@@ -918,52 +959,8 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UC
 
 
 
-#EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA INTERIOR",MILENIUM TV HD  SALTA
-https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA INTERIOR",EL PALOMAR TV HD   21.1  TUCUMÁN 
-https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-6-mar-del-plata.png"group-title="TDA INTERIOR",CANAL 6 HD  6.1  MAR DEL PLATA
-https://panel.dattalive.com:443/8166/8166/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png"group-title="TDA INTERIOR", TDC ONLINE HD  21.7 SANTA FE
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.rtnweb.gob.ar/tv/img/logo.png"group-title="TDA INTERIOR", RTN HD   21.9  NEUQUÉN 
-http://media.neuquen.gov.ar:80/rtn/television/chunklist_w1507615126.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Santa_Fe_Canal.png"group-title="TDA INTERIOR",SANTA FE CANAL HD  29.2
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Xama-Senal-UNSJ-en-vivo-Online.png?resize=218%2C150&ssl=1"group-title="TDA INTERIOR",XAMATV  33.1  SAN JUAN 
-https://srs.unsj.edu.ar/live/xama.flv
-
-
-#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/60ba654d0cf443090aa41804.png"group-title="TDA INTERIOR",ASPEN HD  35.3
-https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
-
-
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg"group-title="TDA INTERIOR",TIERRAMIATV HD  35.4
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tvdos-canal-2-de-salta-en-vivo-2322.png"group-title="TDA INTERIOR", CANAL 2 SD 2.14  SALTA
-https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://dto7y5p0mql2j.cloudfront.net/1660769433762.logoc2.png"group-title="TDA INTERIOR", CANAL 2 HD  2.15 MISIONES
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 
 
 
