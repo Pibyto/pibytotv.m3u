@@ -97,7 +97,7 @@ https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/e5abf2d
 https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
 
 
-#EXTINF:-1 tvg-="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cronica-tv.png"group-title="TDA DIGITAL", CRÓNICA   24.4
+#EXTINF:-1 tvg-="https://vod.magma.qaotic.net/media/posters-live/cronica/placa_cronica2019.jpg"group-title="TDA DIGITAL", CRÓNICA   24.4
 https://g3.proy-slo.transport.edge-access.net:443/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 https://g4.vxral-hor.transport.edge-access.net:443/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 http://daleplay.club:8080/eduardo2022/eduardo2022/81300
@@ -794,6 +794,11 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA INTERIOR",MULTIVISION HD  SALTA
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Canal5telesol2016logo.png/revision/latest/scale-to-width-down/170?cb=20210525135451&path-prefix=es"group-title="TV INTERIOR",TLS HD
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA INTERIOR",BLU HD SAN JUAN
