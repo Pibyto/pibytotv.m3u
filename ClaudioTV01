@@ -799,7 +799,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Canal5telesol2016logo.png/revision/latest/scale-to-width-down/170?cb=20210525135451&path-prefix=es"group-title="TV INTERIOR",TLS HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Canal5telesol2016logo.png/revision/latest/scale-to-width-down/170?cb=20210525135451&path-prefix=es"group-title="TDA INTERIOR",TLS HD
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
