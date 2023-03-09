@@ -229,6 +229,10 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-6-Entre-Rios-TV-en-vivo-Online.png"group-title="TDA INTERIOR",ERTV 
+https://stmvideo1.livecastv.com:443/canal6er/canal6er/chunklist_w222725253.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="TDA INTERIOR",CANAL 9 HD  9.2  RESISTENCIA 
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
