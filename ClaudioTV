@@ -22,8 +22,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8iGkidRZFIOqlj_HmACkHdwPE_Yz-C7-VQ&usqp=CAU"group-title="ARGENTINA",RADIO JERUSALEN-MINISTERIO=GPS=TRANSFORMADOS X JESÚS 
-https://servidor2.hostradios.com/proxy/radiojerusalen?mp=/stream&1623615876184
 
 
 
@@ -31,14 +29,6 @@ https://servidor2.hostradios.com/proxy/radiojerusalen?mp=/stream&1623615876184
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM3UCL
 https://citysports.grupocity.net.ar:3469/live/citysportslive.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-logo="https://www.pronto.com.ar/u/fotografias/m/2022/9/28/f850x638-70722_148211_5050.jpg"group-title="ARGENTINA",GRAN HERMANO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=53897abc-0677-5541-266e-e083e9bf9aa8&deviceDNT=0&deviceModel=0
-https://siloh-latam-aka.plutotv.net:443/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group3/M00/6F/CC/4ZMEAFulds-AIY40AAA0nuRCjfI548.png?x-oss-process=style/mq200"group-title="ARGENTINA",SEO TV PELÍCULAS 
-https://live.seo.tv.bo/live/4SEO.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizurzsFXDo8ia4Ro7sbFCswdtVdvDYDDrhUhEFTsgTCGHcu5PJWkLbqaj7LG11wNpYaWQJULsU6ndhv_PU5BwtDKBkQCM_HcQgxXlYm9Sr0SOH0USuESStjDfkxCfarjuhn_IJROLTUr2b8WzIpw21F_MZ3uHFPsA_Ngq38SCe5iplYuiHmf9CVfAH/s551/Eltrece_(Sol).webp"group-title="ARGENTINA",EL TRECE 33.1 TDA HD
@@ -169,8 +159,6 @@ https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
 
 
 
-####$$###########################(((( ANIMÉ ))))####$$$#########################((()(ANIMÉ))))##$$$$$
-############$#########$###################
 
 
 
@@ -184,27 +172,6 @@ https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/09/mejores-animes-netflix_37.jpg?itok=vzuQEGGx"group-title="ANIMÉ",ANIME+ 1
-https://stmv1.srvif.com:443/animetv/animetv/chunklist_w1008742782.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png"group-title="ANIMÉ", ANIME HEROES
-https://tinyurl.com/3s9mtscy
-
-
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/energeek.png"group-title="ANIMÉ", ENERGEEK 1
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/energeek.png"group-title="ANIMÉ",ENERGEEK 2
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/fosil.dev/wp-content/uploads/2015/07/WhatsApp-Image-2022-03-14-at-5.39.30-PM-1.jpeg?resize=500%2C500&ssl=1"group-title="ANIMÉ",ENERGEEK 3
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
 
 
 
@@ -784,16 +751,6 @@ https://stmv1.voxtvhd.com.br:443/escuchame/escuchame/chunklist_w1449652967.m3u8
 
 #EXTINF:-1 tvg-logo="https://hosannavision.com/site/assets/files/1/hosanna-logo.png"group-title="CRISTIANO",HOSANNAVISION
 https://1206618505.rsc.cdn77.org:443/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://radiotv.ar/img/l/folkloresinfronteras.jpg"group-title="RADIO",FOLKLORE SIN FRONTERAS
-https://server.ohradio.com.ar/8168/;
 
 
 
