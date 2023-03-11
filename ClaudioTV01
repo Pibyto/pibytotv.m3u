@@ -1391,6 +1391,10 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w30918240
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://telebendicion.com.do/static/media/logo512.0e95deb7482e649c6465.png"group-title="CRISTIANO",TELEBENDICION HD
+https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image70119570242.jpg"group-title="CRISTIANO",MOVIE FE
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 
@@ -1432,10 +1436,6 @@ https://grupocibermedios.com:3870/live/celestialtvlive.m3u8?ads.content_page_url
 #EXTINF:-1 tvg-logo=""group-title="CRISTIANO",RESTAURANDO VIDAS TV HD
 https://v4.tustreaming.cl/restaurandovida/index.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
-
-#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",TELEBENDICION HD
-https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
-https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w198998264.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="CRISTIANO",HOSANNAVISION
