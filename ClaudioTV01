@@ -1429,6 +1429,9 @@ http://204.12.202.90:8080/playgt/playgt2023/129
 http://mediaplatform.streamingmediahosting.com/p/10671/sp/1067100/playManifest/entryId/0_97vnjka8/format/applehttp/protocol/http/a.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2876-960x540-000000.jpg"group-title="CRISTIANO", LA FE MUEVE MONTAÑAS HD
+https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
+
 
 
 
@@ -1480,10 +1483,6 @@ https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/chunkl
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",ENLACE HD
 https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO", LA FE MUEVE MONTAÑAS HD
-https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",TBN ESPAÑOL
