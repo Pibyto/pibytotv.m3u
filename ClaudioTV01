@@ -1391,6 +1391,10 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w30918240
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png"group-title="CRISTIANO", BENDICION TV HD
+https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://telebendicion.com.do/static/media/logo512.0e95deb7482e649c6465.png"group-title="CRISTIANO",TELEBENDICION HD
 https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
 
@@ -1445,11 +1449,6 @@ https://1206618505.rsc.cdn77.org:443/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="CRISTIANO",PENIEL TV HD
 https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO", BENDICION TV HD
-https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",TU UNIVERSO TV
