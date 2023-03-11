@@ -1413,36 +1413,36 @@ https://583ed2f226ac2.streamlock.net/49/stream/chunklist_w1954002463.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO", VIENTO RECIO TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1322872584107663360/O2M3mDlr_400x400.jpg"group-title="CRISTIANO", VIENTO RECIO TV
 http://185.36.211.142:8080/tmp_hls/betsaida/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO", PRESENCIA TV HD
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO", PRESENCIA TV HD
 https://tv.clientetvstudio.net:3158/hybrid/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",VIDA NUEVA TV
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",VIDA NUEVA TV
 https://mediacpstreamchile.com:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO", CELESTIAL TV
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO", CELESTIAL TV
 https://grupocibermedios.com:3870/live/celestialtvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",RESTAURANDO VIDAS TV HD
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",RESTAURANDO VIDAS TV HD
 https://v4.tustreaming.cl/restaurandovida/index.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",TELEBENDICION HD
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",TELEBENDICION HD
 https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
 https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w198998264.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",HOSANNAVISION
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",HOSANNAVISION
 https://1206618505.rsc.cdn77.org:443/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",PENIEL TV HD
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",PENIEL TV HD
 https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
 
 
