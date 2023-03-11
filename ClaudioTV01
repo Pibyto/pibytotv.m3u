@@ -903,18 +903,22 @@ http://linear-410.frequency.stream:80/dist/vix/410/hls/master/playlist_1920x1080
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",PLANETATV
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1780444006.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", VIWIX SERIES 
 https://s1.tvdatta.com:3402/hybrid/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", ZOY TV
-https://master.tucableip.com:443/zoytv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", RTP HD
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1541203773.m3u8?WebM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",
+
 
 
 
@@ -1010,18 +1014,12 @@ https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
 
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", PLANETA TV
 https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",DOBLE C
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",SAN JUANERA
@@ -1097,13 +1095,6 @@ https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1794
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",CINE HD
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoUFhCUtHXK4ry4enrT4lOWpMKgvW_WstwYk__LZN9hNKPg9Ln0luy7WI5SHd9hTj9xCbnyIAwryVk7qi1iPSOwuufmv4YReI60WvYCADE5zWoxAt1I9a4Ug9OzA4iChvNFkzSJesTQWoC-JyfWCGaxeYSILmnWdkSQB8jZP1RQhhLSX3dyL02bdsFIMIT2HTgRSSMq5e7i84VCNCUmO40ueQCH3O1_wQ_PF4yk4rr4ks8dzg5VXl3dgk0Q07NP8RzCniDqqgnD0H8plO-otebfvF2oqzLRvNHnSq9_fV0oK9X9XltVPm86T92q9OEJY0L74NWn2OJ3wSVbkA_ba1FQzH5OGPac7RXaLrOwmmomiD2HCBzdCCzCY15U9o4VMMiwBoZfV2YRTGzB0FOqgvd6Q63sAiV7LCvXYwYCFsxd2X0IU258akyf5zLTFkM0V0TqtTfYysDkmmBj5xZbaz0MTEq5xRm3VydyBMh-27KncXqkppD6DI64lTwvyNkRFWq62kDWK-BN-tVfxjhBWFp6ScOR8ptx1qROyWHAZvNrw_Oppb5DIjaJIRI_OhYRE6GMxnMRhKXRLJpkC9dlFQO-OjTVnqXK31GinpmNKWc0MWdN0LOZcw-OnCH5O2qt_VIJ71HO3TloYEjwqsCePJoCS9Nff4gt6s37dSvw5UJod8JcjDzd3WBm6_SxPaqvoJ9DFaADtUqMina13okr-gfYAty7eJMXExWBCbqDRB1VxZnQf-FgioHYWKKOGBw9M3VI-eVMfTxJN7WxbJFb_3fUPZK4veSaC-I3Da0bHCiocvca3hF66hCuDOyKvn-yQw5bh0cCXw9MknRoDXFjFJqHKA-fXEsinGgyqUIqAdLj_zNF8AUIgASoJdXMtZWFzdC0xMLwE.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",PLANETATV
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
-https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1780444006.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", TELEVISIÓN DEL ESTE HD
