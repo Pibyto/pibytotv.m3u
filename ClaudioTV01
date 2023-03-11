@@ -1415,6 +1415,9 @@ https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX7xqMgHfMwt3_XJ0PVdDWWsr1oJKdXamc1yEDzYU&s"group-title="CRISTIANO", JEHOVÁ TV
+https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/chunklist_w322392269.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image70119570242.jpg"group-title="CRISTIANO",MOVIE FE
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
@@ -1467,57 +1470,45 @@ https://1206618505.rsc.cdn77.org:443/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",TELEZION HD
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",TELEZION HD
 https://paneltv.net:3751/hybrid/play.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",OASIS CHANNEL
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",OASIS CHANNEL
 https://5e85d90130e77.streamlock.net:443/6020/6020/chunklist_w1538041154.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO", JEHOVÁ TV
-https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/chunklist_w322392269.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",ENLACE HD
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",ENLACE HD
 https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",TBN ESPAÑOL
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",TBN ESPAÑOL
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO", VIENTO RECIO TV
-http://185.36.211.142:8080/tmp_hls/betsaida/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",ADORA A DIOS TV HD
-https://castlive.pro:3060/stream/play.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",CANAL LUZ HD ROSARIO 
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",CANAL LUZ HD ROSARIO 
 https://g3.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO", MISION VIDA TV HD
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO", MISION VIDA TV HD
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO", DIOS TV KIDS HD
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO", DIOS TV KIDS HD
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",TEVE VIDA HD
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",TEVE VIDA HD
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO",RVIDA TV HD
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",RVIDA TV HD
 https://ss2.domint.net:3206/rv_str/rvida/chunklist_w2041658667.m3u8
 https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?WebM3UCL
 
@@ -1525,15 +1516,15 @@ https://ss2.domint.net:3206/rv_str/rvida/playlist.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO", TELEFAMILIA HD
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO", TELEFAMILIA HD
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO", CRISTIANA TV HD
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO", CRISTIANA TV HD
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/7abdfb8c8874df51d76a029c798fbdf10d39705c3b61e0bd1c687aa2baef6439.png"group-title="CRISTIANO", ALIENTO VISION HD
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO", ALIENTO VISION HD
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo.smil/.m3u8
 
 
