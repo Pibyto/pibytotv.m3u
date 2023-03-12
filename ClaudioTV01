@@ -55,6 +55,7 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA BS.AS", TELEFE  34.1  WEB
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1678709408~acl=%2f*~data=hdntl~hmac=b93c3ee0e3e3ef09e6fbae6924e4b3c807e7dc3dbf5b149679ccb4588915000b/master-mtlf.m3u8
 https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1678544452~acl=%2f*~data=hdntl~hmac=b4120fbd6fb6a4ac6efb6233ae1df4ed461ecc29a5f686d7a8ea90cdb5547858/master-mtlf.m3u8
 
 
