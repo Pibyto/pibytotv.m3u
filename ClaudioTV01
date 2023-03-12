@@ -1488,8 +1488,9 @@ https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",CANAL LUZ HD ROSARIO 
-https://g3.mc-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p.m3u8
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",CANAL LUZ HD ROSARIO
+https://g1.vxral-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p.m3u8
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="CRISTIANO", MISION VIDA TV HD
