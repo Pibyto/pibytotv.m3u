@@ -452,6 +452,13 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/3787
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM", VOLVER 
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7978
 
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",GOLDEN
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJtdr2kQDls80vT87GQgB-3k/ts
+
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",GOLDEN PLUS
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJl8TaQQy68mwfhYiFecpRDc/ts
+
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",AMC HD
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4118
