@@ -445,6 +445,9 @@ https://vod.lamtv.tv/ene/20220316039.mkv
 
 
 
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",SPACE HD
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJpZmrQn8v0EV5692IYn13HQ/ts
+
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",CIUDAD MAGAZINE
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/3787
 
