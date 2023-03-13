@@ -1611,6 +1611,31 @@ https://vsrv2.az-streamingserver.com:3408/live/aleluyatvlive.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zoomses/9/6221391f103440dfb03cd972e8420f4e/ppfkd6.jpg"group-title="24/7",EL JUEGO DEL CALAMAR 
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJnkw7whutgSbqk7r7ZgkqdM/ts
+
+
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zoomses/9/6221391f103440dfb03cd972e8420f4e/ppfkd6.jpg"group-title="24/7",LA CASA DE PAPEL
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJm7PMmGUCs13QKgm7k1JXN0/ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zoomses/9/6221391f103440dfb03cd972e8420f4e/ppfkd6.jpg"group-title="24/7",FBI
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJpmr3V4kARykTGWh9q7em5M/ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zoomses/9/6221391f103440dfb03cd972e8420f4e/ppfkd6.jpg"group-title="24/7",I CARLY
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJvODmL2P4eoChshnjrs1mMw/ts
+
+
+
 #EXTINF:-1 tvg-logo="https://static.eldiario.es/clip/47520976-bd36-49b7-aea2-74a83aadda48_16-9-aspect-ratio_default_0.jpg"group-title="24/7",GRAN HERMANO
 https://siloh.pluto.tv:443/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8
 
