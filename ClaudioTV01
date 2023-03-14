@@ -927,6 +927,10 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1780444006.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",ROKUTEN VIKI
+http://stitcher-ipv4.pluto.tv:80/v1/stitch/embed/hls/channel/60c8a24e17da110007eed4fdlivestitch/2977158/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-80b6cefd-9525-4181-b597-c1df4f1901b9&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", VIWIX SERIES 
 https://s1.tvdatta.com:3402/hybrid/play.m3u8
 
