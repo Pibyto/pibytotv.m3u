@@ -170,6 +170,7 @@ https://live.seo.tv.bo/live/4SEO.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA INTERIOR",COSMOS TV HD  SAN JUAN
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
@@ -178,10 +179,23 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA INTERIOR", CANAL 4 HD  4.1  JUJUY
+http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU"group-title="TDA INTERIOR", CANAL 34 HD  6.11 SAN JUAN 
+http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA INTERIOR",TELEMIX! HD
+https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="TDA INTERIOR", METRO TV HD  18.1 TUCUMÁN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdRFMDQnm4T6y5KPATMxrog3iAZy0VpCCKg&usqp=CAU"group-title="TDA INTERIOR",SPTV CANAL32
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvgE_3ER8Wf0ANdnimG8iMgLy73SLvTsgXO7jTuPmYwIUellbhmFd_sK_4LeZ3ek9ExemWLLcfewsVMSPW24dIsMxge9xs0NSWyyH7hq8Kiazp4W7_6a60zc-ZH3IJwIGisYL8bPtZ1MDYVWX3mUdotCqEDqonTxhjdltWNBJ1hMbCVuKmf5DjDWjU9xQAPkns7tAK9FGp_rYoLByuQvYTYj2J_09HkQHlUT25rMuljuitu6mneigTSahuHPvvsDKc6RwBKNOSlHa9R0f-qS5OEJuBz86djTzGC_8BW25MO9ta9HrYlJ0gyiC0m6UdED6plIXSIAsyDki6YzXQ_CRQQY4GFTuKkMq9SOCWAN8iu3TD6ujGfl9GfsY98HTVqWd6FHrHldmuyDycOQXvA_5FalBbJanGUNoP-GLYvDxNmr-X-9DFV2MXQq17BqK7L3oEEtyxu-ZO1yeRq-AfY_f0x8WzzsYEwS9Z5plZcipJVLYbJPjO7x5YfQA3a7UUs5C55vGLkeV5VTHepSH8N_x0ShiRjVvKw5rIG0obTIt1VvloBNt2cgdbHa3pq_d0UX8RixdgBIJQRrfYrJZeNfLTFl1oEAvqn_M7JmPbjAWkGX0hi0iA3fIRiKx5o_jblv6ACYKvl3yno356YYrR_wYKQeKseQvL0KTBoEx-mVK0MA-MQWmivW2F89iPwHWSB_Ij7EuZ9U8Jv9TNy1AH_l8kgZFe7uGu1g1oiCV0wPRYdP4wFvaCO3JMWIiJcyOoHgTIU_FXTDNhqaL3FBzQbVuYK_vkHvtNm9aat_AxZCzYZQg89YC666Jk2y2rVWYmMpT2QMphky3O_Me7IaDLc16GtZtbMKmdq_WyABKgl1cy1lYXN0LTEwvgQ.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvgER_gxCJ0PBFL5-KaC1CB-K1o5p0cq_P60Ksq0QOGdGwGl6zILR_JTVra1K0k2Kg5tktXAnkHRFG5Sg3apvB9RkQmB7CexqkrLKSso3IV8Gn9r35cZUhU8WfpDaxp11XoucCRUeLC3fmcfnZ8Etatu_ctT8VG1rbiZodX3ifYDOjqoxes7LLWEIPeCeGgkMK8mvbFtGuqbhyks9ZwIij-zmy5U4d6wMA-09A0r-8kv8GsKGssCGsLssSC3sHllAH0WcfRjTfapnQ-UB2H-avC-XhuiZ1ikTEfHefP9FRpgJf1nr0AvR1uCPTKebuG1R7bcuATqY8d5Jw3TvtNZtOvCwFvjMj-OFgfPLuQHgoGSN1UrcFTQMAOwTY2mqndIc97bOuO9LfxlrCMSZvIinEJnnLzlr0ALQm0eHSAx1kxHbTH0hr-FoCySBBQqD4BPOjtmRTx2hzin1FwrTulnSYBSBgFEGaCtlygLMK_k2KwfeJMls9gpvm8oFlNXmP3emgRN_4a2lP4GHKkB8YKLbNEYxGPbN4x7pfwUBYepgVZJJk5cTVDf2nmX0UOCjSVrBPP_tl-kbNfouUuNDjsPiWs4hFztVMPdyYToaEUHhHhbKx5VDYDrYyTnut4R4xzNDI5K-bdVpA_x_LfFSUvGYllG8_i79BV1m6yo_PwxpwqvpddyBfxDYcHPpJuOOv9vqxOd4PHlRjIVXEhcNDWmVssLc_54j3IpFZDiKYIxevyLG1jOaWMk-1rc1Gh598wRtuVGRenod2_7onU53amRQ3NTwelIlDWPKTjNdZOZizQFGt7Ex4bV0Wx7XkSS0ydlt7jzqP3zvYb80HAaDP7EMbsc5V6h9iyzAyABKgl1cy1lYXN0LTEwvQQ.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvcE28GjJYAZP2kUbQzb1LoO1owyxyOZRGGWtOQVyZTB8AQ1Oa-jMIZ0svfGRMChWoV_7iSwx2GanZICxTMCRMZcylwS2J8hpEnSJzTvQsd8ae5qIPy4zwWdBy1NYlljZwHmUuCMXBGNjrfT4uWgzOXQ4-ZfeiqfKGSuO4OibdITJ95goCXwpNIfnRHnMyrsXdfa1mT5qNT6chTDyIGr3M6qAqxJzHPIBNwrXtQz2mgD88s3uf4ANYYmRWvLwwq3ULh29oTrXhtAtzFhUKbp98wPPRLVC2RQOAbfYrEQoaK2y_pXMFrlXbgPqqV6Y1O0-P30M70x7ivFmrV6CVvfgMwl94iGBn3NUJCKJxeYSjgkw0C29DxAeVmNj9DGGWZIk01TexaZzZoBd0Cgdndi9ANQFW--Ktsfq4mfmUBC3oxzVFMliccMDo4vAcWtml84Xyc5SfijHNOmRdhBUWlNncjQWSNECAY5RzvDOizX_I7ofbgYxUnhchAzK-10OCY4DvMyLJyBB3Z8wkBp8WxF8PLYg-3-_HPb_TsEp_6LMY3lfap_I7J4lroGa4n6Ncm_kQLoIJqRiog8NIeG3yaiBu9lCL4fj6mSDCPoIxTxRNAqo2OvN35jE-y1cfRmhbjtfPwQSjRi1jCxT277q-NV_9wpMmiHY1v4TVHkZ0YTM49TdlcTtSF0zv049kdJ1vfq8SUOQzv8DBu6x4YpW27k4vWag7YjlwHhgZstUtcdSa1P2bsiEQVNKdt_kSzEGKsTx5ryJ2Jw1nH1ScdLz4FJ4vHHMi-WMtADyEXExeRcb19Ltcy0xUiCpOgvhbnQudLA4aFsyoV3Ta07choMV06-ILYYkm_P6Om1IAEqCXVzLWVhc3QtMTC8BA.m3u8
 
 
 
@@ -216,12 +230,6 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 https://stmv1.cnarlatam.com:443/solivetv/solivetv/chunklist_w1359777116.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA INTERIOR", CANAL 4 HD  4.1  JUJUY
-http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="TDA INTERIOR", METRO TV HD  18.1 TUCUMÁN
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-6-Entre-Rios-TV-en-vivo-Online.png"group-title="TDA INTERIOR",ERTV 
@@ -236,8 +244,6 @@ http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU"group-title="TDA INTERIOR", CANAL 34 HD  6.11 SAN JUAN 
-http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/REShnQtzUX_bicawR4XV5xL7e4GU7PnRAWroxGAgCX-bwdHnmDnZsX-dxIZPmdMCzNI"group-title="TDA INTERIOR", SANAGASTA TV HD 
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8?PlaylistM3UCL
@@ -295,8 +301,6 @@ https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b166
 http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA INTERIOR",TELEMIX! HD  GLEW
-https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA INTERIOR",MILENIUM TV HD  SALTA
