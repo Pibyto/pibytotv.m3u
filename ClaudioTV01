@@ -913,7 +913,8 @@ http://stitcher-ipv4.pluto.tv:80/v1/stitch/embed/hls/channel/60c8a24e17da110007e
 https://s1.tvdatta.com:3402/hybrid/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",TELESOL
+https://vcp2.myplaytv.com:443/telesol/telesol/chunklist_w1082858945.m3u8
 
 
 
