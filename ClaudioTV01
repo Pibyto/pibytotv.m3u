@@ -1403,6 +1403,11 @@ https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/bd9a67ca-3e9b-48b5-9388-7cf18c9f73cc/Extrema%20Kids%20logo-c7ddbe9.jpg"group-title="CRISTIANO", EXTREMA KIDS
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w439127752.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.televida.cl/wp-content/uploads/2020/12/logo-color-ok.png"group-title="CRISTIANO", TELEVIDA HD
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 
