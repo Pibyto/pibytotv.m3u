@@ -175,8 +175,11 @@ https://live.seo.tv.bo/live/4SEO.m3u8
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA INTERIOR",COSMOS TV HD  SAN JUAN
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA INTERIOR",BLU HD SAN JUAN
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA INTERIOR",MULTIVISION HD  SALTA
@@ -195,6 +198,7 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000
 
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/b1e1cd8a5f6df357a2028250a68a379c.png"group-title="TDA INTERIOR", MAXIMA TV
+https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8?PlaylistM3UCL
 https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8?PlaylistM3UCL
 
 
@@ -232,8 +236,6 @@ https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA INTERIOR",BLU HD SAN JUAN
-https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="TDA INTERIOR",CANAL+ HD  17.5
