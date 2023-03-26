@@ -903,11 +903,16 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MORA TV
+https://stmv1.zcasthn.com.br/moratv1/moratv1/chunklist_w272402832.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", TV PLATA
 https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1736999941.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", GDM HD
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",GOLDEN PLUS
@@ -1051,8 +1056,6 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MORA TV
-https://stmv1.zcasthn.com.br/moratv1/moratv1/chunklist_w272402832.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MAKINA TV
@@ -1068,8 +1071,6 @@ https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", GDM HD
-https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", TELEXIMA HD
