@@ -907,8 +907,23 @@ https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 https://stmv1.zcasthn.com.br/moratv1/moratv1/chunklist_w272402832.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", CB TV
+https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", TV PLATA
 https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1736999941.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",NOSARA CANAL 17
+https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", MULTIZONAS TELEVISIÓN HD
+https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", GDM HD
@@ -989,8 +1004,6 @@ https://servilive.com:3176/live/cineclublive.m3u8
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1770574078.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", CB TV
-https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",PLANETA FAMILY HD
@@ -1002,12 +1015,6 @@ https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 https://s1.tvdatta.com:3457/hybrid/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",NOSARA CANAL 17
-https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", MULTIZONAS TELEVISIÓN HD
-https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",LIM TV
