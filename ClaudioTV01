@@ -188,6 +188,14 @@ https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="TDA INTERIOR",9 TELEVIDA HD  MENDOZA
+https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA INTERIOR",13 MAX DIGITAL HD  31.1 
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdRFMDQnm4T6y5KPATMxrog3iAZy0VpCCKg&usqp=CAU"group-title="TDA INTERIOR",SPTV CANAL32
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoYFTubVXwWjXaMhKPGq6__KrQJG37UXTU-rXnDnu1nYB1VNoyRZkmms8WQiZKMDj7c0GxM6pA0jaj8GikT6EJ9E6Di3LnrcNKhicV2okSRd0VzLuc_Rop4bGa3xRJ3XR67TgZnXS6z-j04Cdo0hZBPM5XAWuWhQVJaGd__ObGBNNlajGKDDiwIHJWuVfqjFhFWOsx9f8agFa00q83Y6omkkC3r80gbb2ZemOv9p6Wq5kEb_aCCFByX8OK06rtXarK15TAWdpbldJ5vyJ7ELfwRf8lWTkxlI3mB3nsXL9QDWIaNRaBk6s317raRIAjSStMEx0NCF4zkCzxHntjG7bP_g6cNmlXEEeO8XlYOUJRgic8KgipCH4wRQ9eCVd67F34rTpJ-B4yHJarpVKYBUaxQ9JJdtG8pDYYwgw2EL8-G4D8hyOEctix6AqscHgPf4rf2XC9D2MzSq6qbuKB4qd6sfg4Pugpeb79ggLhXemVvp05SFT_HDVhzmBZurCv2CzDKn_Ddy4VFJSCmmmJaL9SyuWBphyoIzoF8c4vQTkEB8tuwQMQQwitdieWX4lKsae9kJQKDl1yxlOj0TwZ9xK4ELkvlXWSxdTJic_t6jr2nbaKeojiqK7vpz4cXyQtoY8ue3qfi0XykX-U94YieBDa4N1ASGyVlPht2DhfXtg7sXm8KYaZNvcjZo9CpL0v_Mwv227bhl0aAxltHeqHvlwK6-y1M_GyGvbItxCmAdbi4lXC8ajAT-tH9OgD2kfR4JArLNfxT2rkqQQf2lhHW31oJ3TtU6zEB8CBALt71JIrOAe8jq_xPsHHlgAN6ngz_fPTW2DqVcOou8MZsbEAuHYBYcFTuCuCkSdBoMiOVF1Zagi81-f_e0IAEqCXVzLWVhc3QtMTDPBA.m3u8
 
@@ -291,13 +299,6 @@ https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 https://cnnsanjuan.com:9999/live/delsurtv/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="TDA INTERIOR",9 TELEVIDA HD  MENDOZA
-https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png"group-title="TDA INTERIOR",13 MAX DIGITAL HD  31.1 
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="TDA INTERIOR",CANAL 13 HD  13.1  LA RIOJA
