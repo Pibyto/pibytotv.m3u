@@ -197,12 +197,17 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdRFMDQnm4T6y5KPATMxrog3iAZy0VpCCKg&usqp=CAU"group-title="TDA INTERIOR",SPTV CANAL32
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoYFTubVXwWjXaMhKPGq6__KrQJG37UXTU-rXnDnu1nYB1VNoyRZkmms8WQiZKMDj7c0GxM6pA0jaj8GikT6EJ9E6Di3LnrcNKhicV2okSRd0VzLuc_Rop4bGa3xRJ3XR67TgZnXS6z-j04Cdo0hZBPM5XAWuWhQVJaGd__ObGBNNlajGKDDiwIHJWuVfqjFhFWOsx9f8agFa00q83Y6omkkC3r80gbb2ZemOv9p6Wq5kEb_aCCFByX8OK06rtXarK15TAWdpbldJ5vyJ7ELfwRf8lWTkxlI3mB3nsXL9QDWIaNRaBk6s317raRIAjSStMEx0NCF4zkCzxHntjG7bP_g6cNmlXEEeO8XlYOUJRgic8KgipCH4wRQ9eCVd67F34rTpJ-B4yHJarpVKYBUaxQ9JJdtG8pDYYwgw2EL8-G4D8hyOEctix6AqscHgPf4rf2XC9D2MzSq6qbuKB4qd6sfg4Pugpeb79ggLhXemVvp05SFT_HDVhzmBZurCv2CzDKn_Ddy4VFJSCmmmJaL9SyuWBphyoIzoF8c4vQTkEB8tuwQMQQwitdieWX4lKsae9kJQKDl1yxlOj0TwZ9xK4ELkvlXWSxdTJic_t6jr2nbaKeojiqK7vpz4cXyQtoY8ue3qfi0XykX-U94YieBDa4N1ASGyVlPht2DhfXtg7sXm8KYaZNvcjZo9CpL0v_Mwv227bhl0aAxltHeqHvlwK6-y1M_GyGvbItxCmAdbi4lXC8ajAT-tH9OgD2kfR4JArLNfxT2rkqQQf2lhHW31oJ3TtU6zEB8CBALt71JIrOAe8jq_xPsHHlgAN6ngz_fPTW2DqVcOou8MZsbEAuHYBYcFTuCuCkSdBoMiOVF1Zagi81-f_e0IAEqCXVzLWVhc3QtMTDPBA.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA INTERIOR", CANAL 4 HD  4.1  JUJUY
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zRsbCQ057WQ/XsSJeLXVw5I/AAAAAAAAv24/FcMy1_I8EVcTB6PkfCz7BuAfWZcJZfo-ACNcBGAsYHQ/s1600/LOGO%2BCANAL%2B4%2BDEGRADE_OK%25282%2529.png"group-title="TDA INTERIOR", CANAL 4 HD  POSADAS
+http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.paste.pics/b1e1cd8a5f6df357a2028250a68a379c.png"group-title="TDA INTERIOR", MAXIMA TV
@@ -217,6 +222,9 @@ https://stmv1.cnarlatam.com:443/solivetv/solivetv/chunklist_w1359777116.m3u8?Pla
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA INTERIOR",PANC TV HD 15.1 TUCUMÁN
 https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-3-pinamar.png"group-title="TDA INTERIOR",CANAL 3 HD  3.0  PINAMAR
+https://intelincloud.com.ar/canales/canal3pinamar/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/-x-2Fhk6_400x400_1.jpg"group-title="TDA INTERIOR",TELE CINCO
@@ -282,16 +290,10 @@ https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8?PlaylistM3UCL
 https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://i.paste.pics/20f670cff902ed4ba66371959308bc9a.png"group-title="TDA INTERIOR",GVISION HD
-https://stream.cvisiontv.com/cvision_stream.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="http://teledigitalgranada.com/wp-content/uploads/2018/04/teledigital-simple.png"group-title="TDA INTERIOR",TELEDIGITAL
-https://videohd.live:19360/8014/8014.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Veo-Santa-Fe-en-vivo-Online.png"group-title="TDA INTERIOR",VEO TV SANTA FE 
-https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 
 
 
@@ -306,8 +308,6 @@ http://arcast.net:1935/mp/mp/chunklist_w25245074.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR_cQQXq6Cb-5JZukAA9_VeTgfPqCLspT4n92sk3-i&s"group-title="TDA INTERIOR",CANAL  CAUCETE
-https://canalsj.kozow.com:443/canal40/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png"group-title="TDA INTERIOR",CANAL 8 HD  8.1 MDP
@@ -364,12 +364,7 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-3-pinamar.png"group-title="TDA INTERIOR",CANAL 3 HD  3.0  PINAMAR
-https://intelincloud.com.ar/canales/canal3pinamar/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zRsbCQ057WQ/XsSJeLXVw5I/AAAAAAAAv24/FcMy1_I8EVcTB6PkfCz7BuAfWZcJZfo-ACNcBGAsYHQ/s1600/LOGO%2BCANAL%2B4%2BDEGRADE_OK%25282%2529.png"group-title="TDA INTERIOR", CANAL 4 HD  4.2   POSADAS
-http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/4fgp_qrpmJ3XL59ddvZNRui_EpPCXoh-6Gt6fgdYAk9HdcVzNN1i3BFZiGD4il1EVF0"group-title="TDA INTERIOR",CANAL 7 HD  7.1   SALTA
