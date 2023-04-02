@@ -905,6 +905,13 @@ https://d1m7jfoe9zdc1j.cloudfront.net/a4f8006207ea37529787_movie_home_4098123236
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",CINECLUB HD
+https://servilive.com:3176/live/cineclublive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",ORBIT TV HD
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", PLANETA TV
 https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
@@ -1002,8 +1009,6 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w859990179.m
 
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",ORBIT TV HD
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",SEO TV PELÍCULAS 
@@ -1018,8 +1023,6 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
 https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",CINECLUB HD
-https://servilive.com:3176/live/cineclublive.m3u8
 
 
 
