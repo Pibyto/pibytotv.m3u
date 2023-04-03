@@ -912,6 +912,12 @@ https://servilive.com:3176/live/cineclublive.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",COSMOS
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", PLANETA TV
 https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
@@ -922,6 +928,8 @@ https://stmv1.zcasthn.com.br/moratv1/moratv1/chunklist_w272402832.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", CB TV
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg" group-title="TV SERIES", CINE ESTELAR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
