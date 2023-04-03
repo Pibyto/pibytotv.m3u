@@ -1448,6 +1448,19 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1390_TV_Emanuel.png"group-title="CRISTIANO",TV EMANUEL
 https://mediacpstreamchile.com:1936/ministerio/ministerio/playlist.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8ee2b2ea9b1af3211e9f51ab1d8f87c2.webp"group-title="CRISTIANO",TV CRET
+https://radiocret.net:8082/hls/tvcret.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69bfc74e03b254ebfdc85a21d4a14aa4.webp"group-title="CRISTIANO",FAMILI CHANNEL 
+https://cp.panelchs.com:1936/8012/8012/chunklist_w1229555940.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/529d918e9a55a4920a9ba738e9bb8606.webp"group-title="CRISTIANO", IGLESIA DEL CAMINO
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/chunklist_w1347451019.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO-200x200.png"group-title="CRISTIANO", DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
