@@ -986,7 +986,8 @@ https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1736999941.m3u8?PlaylistM
 
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",NOSARA CANAL 17
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",TVMAX
+http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/6025
 https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
 
 
