@@ -960,6 +960,11 @@ https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8?DVR
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",VISION DORADA
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", TELEORIENTAL
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?PlaylistM3UCL
 
