@@ -21,7 +21,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mercado-pago-logo-52B7182205-seeklogo.com.png"group-title="TDA BS.AS",👉clau.rub.ka👈PODES DONAR A VOLUNTAD
-https://s1.tvdatta.com:3172/hybrid/play.m3u8
+
 
 
 
@@ -57,8 +57,7 @@ https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA BS.AS", TELEFE  34.1  WEB
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1680907465~exp=1680914665~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=5e2366b55e95f96fc4bd3c8dcff68510609cf9d34349e0e8fe342583b6d9a85b
-https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1680987496~acl=%2f*~data=hdntl~hmac=175106effdf93705430730e8ab593b2839877fae0f39311c4099d8ab2d195fe7/master-mtlf1.m3u8
+
 
 
 
@@ -71,7 +70,6 @@ https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_da
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q-ZlvJl7dhE/YAKAtR9Wn2I/AAAAAAAA7xo/VTRqf30ejJwfKmAxpEqtYmdC0SCGiwi0QCLcBGAsYHQ/s404/deportv-2020.png"group-title="TDA BS.AS",DEPORTV HD
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA BS.AS",EL NUEVE  35.1
@@ -102,8 +100,6 @@ https://d1nmqgphjn0y4.cloudfront.net:443/live/ip/live.isml/live-audio_1=128000-v
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA BS.AS", AMÉRICA  36.1
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/e5abf2d7-a4bc-498a-9131-e078d46cf07c:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
-https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
 
 
 #EXTINF:-1 tvg-="https://vod.magma.qaotic.net/media/posters-live/cronica/placa_cronica2019.jpg"group-title="TDA BS.AS", CRÓNICA   24.4
