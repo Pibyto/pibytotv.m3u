@@ -1007,7 +1007,8 @@ https://vcp2.myplaytv.com:443/telesol/telesol/chunklist_w1082858945.m3u8
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", CB TV
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",KANADE TV
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MEGA TV
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w301614551.m3u8
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8?DVR
 
