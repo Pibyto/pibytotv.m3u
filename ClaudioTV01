@@ -932,13 +932,33 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cv4En9JDrvcGsPtWnc69Iscbw4H
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cv0ElrBBmmFzvSsLX3U1lF1l17bD0I3t6a-VxI99TTzGnZJe3HfO96Ed3uJfjbKAnZ_clZAm3EhZVdbMDSuuHYzCIV_pDVWRdkQpP6oTCRZRrsPirw1O4N87qkLrkOgLoM4FRQ8xW_llqsqYXiHyvjEbSZnKpZEnnAq-W6aIDlFxtPpI7BRSNbJ5ITVYLFjT5HjXN4kuWwf6NDks8U3ExLgjvHHbhepy7SopfZunP_G7Zfvc84MSTBdbf8GJ5V7LkMrzyto18xKchEEGk4kkQKldOPUjB7KfW-cBnM6eyucL0jK1ai81OtnMpZVPu_3G6GOaKc1yhTkPggRUnfwp3zVrLYt-TDSwky-GxSQ91vYj36rzSSp3_EQcc5iG9kl7tG-sMZXeq8QJM_koRQVIg3S_jjUcZ12YRyTwtYHNz18hwi7-RrD7Ow8lXwehUDtvFH7ui0ch26JgQxI77a74GHAEMDf-PwzXMP8EOcUlJcgxpWep2_-W7M3_dpgeaXIOUo4mKbVQIVexmuXugdAl93R3HQ95hWo8a40VLyQW00h46hZz9Zio_CbEnrDYS_cozeZvIG2fq3cEdxBv6WhB-QSQuRpJcGjcoXc_88Ba1dFDXzTxtIqp2kNgvMlpaXErgYg922s3QpC1FfYt4O5IeQxDeBO5VEF4bqliRiUU-bRxHtBvdZR7mE4-94YBRjSHKRPY81f4Fv89ve80aMk45C7cEgs-pWICvw-WfPpYzT8wKokTaq-Ns_NCYLSdzcXf2EF8k2OP9b2OfjGtcvxPE5prH_VWg9MwV4zaKE6uEH2VJvFXN1YfuZtc2DDnG1cvIF3u-BA4OZeamT2Nc_9SEBoMZez9FfSsQlEQucqoIAEqCXVzLXdlc3QtMjCnBg.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",PLANETATV
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1780444006.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", NEXT HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", MULTIZONAS TELEVISIÓN HD
+https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",IU TV HD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", BOX CINEMA HD
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/RRG2IQFB0N5L2XCIXPZW/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=200282&ads.app_name=VIVALIVE+TV&ads.cb=&ads.channel_name=Box+Cinema&ads.content_genre=Action%2CAdventure%2CCrime%2CDrama%2CEntertainment%2CFilm%2CMystery%2CLATAM%2CMovies&ads.content_series=beer+run&ads.did=&ads.gdpr=0&ads.gdpr_consent=0&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=Klasko&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=&ads.us_privacy=1---&ads.vast_id=SKL101&ads.w=1920&coppa=0&is_lat=0&livestream=1&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/94368c32-7230-4ac2-9a50-6adc946e66e4/2.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",VIWIX ESTRENOS 
-https://s1.tvdatta.com:3172/hybrid/play.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",PLANETA FAMILY HD
@@ -1021,9 +1041,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804192-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0b46a48-3e72-4c90-a658-826f98daa8a9&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", MULTIZONAS TELEVISIÓN HD
-https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", GDM HD
@@ -1038,15 +1055,11 @@ http://linear-410.frequency.stream:80/dist/vix/410/hls/master/playlist_1920x1080
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",PLANETATV
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
-https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1780444006.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",ROKUTEN VIKI
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", VIWIX SERIES 
-https://s1.tvdatta.com:3402/hybrid/play.m3u8
+
 
 
 
@@ -1054,18 +1067,6 @@ https://s1.tvdatta.com:3402/hybrid/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",IU TV HD
-https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
-
-
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", BOX CINEMA HD
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/RRG2IQFB0N5L2XCIXPZW/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=200282&ads.app_name=VIVALIVE+TV&ads.cb=&ads.channel_name=Box+Cinema&ads.content_genre=Action%2CAdventure%2CCrime%2CDrama%2CEntertainment%2CFilm%2CMystery%2CLATAM%2CMovies&ads.content_series=beer+run&ads.did=&ads.gdpr=0&ads.gdpr_consent=0&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=Klasko&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=&ads.us_privacy=1---&ads.vast_id=SKL101&ads.w=1920&coppa=0&is_lat=0&livestream=1&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
-https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/94368c32-7230-4ac2-9a50-6adc946e66e4/2.m3u8
-
 
 
 
@@ -1086,7 +1087,7 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w869902952.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",TV PRIME MOVIE
-https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8?PlaylistM3UCL
+
 
 
 
@@ -1096,7 +1097,7 @@ https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1770574078.m3u8?Pla
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",VIWIX ACCIÓN 
-https://s1.tvdatta.com:3457/hybrid/play.m3u8
+
 
 
 
@@ -1110,7 +1111,7 @@ https://cloudflare.streamgato.us:3180/live/guacaratvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", VIWIX TERROR 
-https://s1.tvdatta.com:3849/hybrid/play.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",WOW TV HD
@@ -1158,24 +1159,8 @@ https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MEGA CINE TV HD
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?WebM3UCL
-https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",TV UMSA
-https://614013e273786.streamlock.net:443/TvUniversitaria/TvUniversitaria/chunklist_w849098016.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MEGA TV HD
 https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
-
-
-
 
 
 
@@ -1189,8 +1174,6 @@ https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1794
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",CINE HD
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoMFKoEyiRzJJOC7ju-4uK-vOYI_tiKHsmq4oCBKwxn06osn5JAlYhOBlvoU8W24Y7DYRSuDbEC8svFU5RjZztbcfOCETmYoaJXEpyCAerJBAczRHAZnSB3F02yy7QNk6f5__erm-IWNZPGADpp9DgeZK4c3HRqaU6entJaReLzNTvFI8HnRWPmap-hufEfkaFj0gqYEHhojbWgm2ylBP08yh4FexyysRnqKEs1jbQLk48vFIzOrHVW-TMXLwj6gn7CrOM3HGEMrQGsx2QlR3Kpwk30Y0gL_YI8ABGUKGNVpGJ_i1s4k5lLFfE2wdCb7XYFC7shwvorBhliqTfq3IxKPbe62tlIQM1VoCyFnZr3p7GWHV-HnJonuMnlYVHArUQ7BGJue5OtI-W7AH-y0IwSs7FA9PstssaJKghWRjsJtj6Ls4mxAzojS8eT4uS5Scf2D0RSayeoKPD2NfNMbHm67Kul6EvMjgy5ANj7OcrNhxyX9jDWbo6m0FGwAEJS9XVjzmEE9U_9BIwyZgq4FEf_9GaPuxGQnf6OYKymnEmXvp8Od2MLBAktDrEfQiLejD_dLd6thamTsgtbzrqyXWslwj6wx0kIeRaoBagc5V_7SJahy_2IqblOJQNapywZueVSNiHN01MECKDxlbycHbe_dQvg-tBfUXZjfE5VlX2-mTSfov16XmMYlZjnEjOihDO4SL0KASRNED4ERrUrn59wU1LxxGZCcdNybfOk61c-pUyXwg4RiuzMlP5xsqxcUw0AXPlIiuBEendLcy0FeGrEqQngdMFngaRlPoxdrbBS_5ZHnZJ8okCCuSO6OeBzZY6K0a0tfO1iEvCyE3XiQUFMdi5w_5xoMUQP34btdHp0dv3c4IAEqCXVzLWVhc3QtMjCHBg.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoMF1BDLu-Iq85ZfVUwkjtJlsSKHHGx3mQcaZVusvn80OKkAjo_lX3vDqgfwMiVmsE7yk6LiQ5iC7Jxaf97lcgwYDZ-qQ4MKo-0CjTH0bNJoV1-rAcMXfeYJbGU9hll8IhHHJI4i5Wj-ijh_ssca-EmpqDz1bovoBHLeBdFez4msLge2WCHRmp4JqGU_0yDmffNuaOcnbzqkpDmAVL4Z-RSAIsuha3qiifGqwa4XI87tcZDN4oTqk0gmRxVsbHtPxJTlQCJL4dl1bsR2vT6TQCTeL8pnfGFvuds2jy3A5yvs3BEZ95wGSSQCUuXyy8KgO5QDcEnc_3WFMMnE9FsmZSU8mSJ229dcRPuZZ9LFwMopntXXrNHNLM_I5y94at074PhucihQyDufspu6sYO1m-8rJPhjZPEmtAYfsogx-N97YhwY_M7ok6S0QkquayPZWmoqXbausRwoZxlRQAqzI_q9h_8t4cNqr21Y9l9oJS_bR4m9Clqc_jl8jeG9uMD5X2_7krU0lEcgMNkDuNP7vcUox5uddUdlqvjxqirBk2OscwBzdPuYsqFJYGRps7E-dHv5y0g6sZ-7oo2t95mG6bE8_QMzK9MNGQE4uvkP65fP8vqT9XHoThFv1x81yg4KqIjkWUIRYc5-vOOYRv0ZRFX3h4m96AYNRPuVH8sLFsy0Yh1zUbpQYzMOcNQ_LU_ki4p5TJJKCzfFF-DyjvUh3e7L7jNlUbEvDd-Jyq-oEyRgkfWGj82Ej6X92T7vWqYlnG8YuWc6iGXO7dINkpCDwNSWdzZ0ApCJhXspVRORFSwl9mp7ke03yuhVwMa95Oh01fxWnoDHfSOwEZRoOawWCsTT6VD21RoM_38xlomwfw9wTkXaIAEqCXVzLWVhc3QtMjCGBg.m3u8
 
 
 
