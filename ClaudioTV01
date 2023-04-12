@@ -962,6 +962,13 @@ https://s1.tvdatta.com:3037/stream/play.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",VIWIX ACCION
+https://s1.tvdatta.com:3181/stream/play.m3u8?WebM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",VIWIX SERIES
+https://s1.tvdatta.com:3751/stream/play.m3u8?WebM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",PLANETA FAMILY HD
