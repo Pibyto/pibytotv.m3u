@@ -970,6 +970,9 @@ https://s1.tvdatta.com:3181/stream/play.m3u8?WebM3UCL
 https://s1.tvdatta.com:3751/stream/play.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",VIWIX TERROR 
+https://s1.tvdatta.com:3121/stream/play.m3u8?WebM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",PLANETA FAMILY HD
 https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
@@ -1008,6 +1011,16 @@ https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 https://hls.servidor.stream/storage/megatv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MEGA TV
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w301614551.m3u8
+https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
+https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8?DVR
+
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", CVC BO
+https://5d00db0e0fcd5.streamlock.net:443/7034/7034/chunklist_w1233068215.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", PLANETA TV
 https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
@@ -1022,14 +1035,6 @@ https://vcp2.myplaytv.com:443/telesol/telesol/chunklist_w1082858945.m3u8
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", CB TV
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MEGA TV
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w301614551.m3u8
-https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
-https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8?DVR
-
-
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", CVC BO
-https://5d00db0e0fcd5.streamlock.net:443/7034/7034/chunklist_w1233068215.m3u8
 
 
 
