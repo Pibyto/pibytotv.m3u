@@ -993,6 +993,11 @@ https://vdo.grupolimalive.com:3688/live/albertlive.m3u8
 https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MEGA TV PE HD
+https://hls.servidor.stream/storage/megatv.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", PLANETA TV
 https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
