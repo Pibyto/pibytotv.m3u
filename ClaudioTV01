@@ -983,6 +983,16 @@ https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w199178
 https://cdn2.streamgato.us:443/telemax/telemax/chunklist_w1423850242.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", TELEXIMA HD
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MEGA TV BO HD
+https://vdo.grupolimalive.com:3688/live/albertlive.m3u8
+https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", PLANETA TV
 https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
@@ -1151,16 +1161,6 @@ https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com:443/uraniomux/tracks-v1a1/mono.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", TELEXIMA HD
-https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MEGA TV HD
-https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 
 
 
