@@ -1013,6 +1013,14 @@ https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8?DVR
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", CVC BO
+https://5d00db0e0fcd5.streamlock.net:443/7034/7034/chunklist_w1233068215.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",VISION DORADA
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
@@ -1068,8 +1076,6 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",ROKUTEN VIKI
-
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", VIWIX SERIES 
 
 
 
