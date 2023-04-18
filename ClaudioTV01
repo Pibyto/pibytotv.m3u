@@ -484,7 +484,8 @@ http://50.7.66.234:8080/monicaferraz/518260/1068350
 
 
 
-#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",STAR CHANNEL
+http://50.7.66.234:8080/monicaferraz/518260/4121
 
 
 
@@ -503,6 +504,12 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/7978
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",GOLDEN
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJtdr2kQDls80vT87GQgB-3k/ts
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",GOLDEN EDGE
+http://23.131.184.124:25461/monicaferraz/518260/1155791?token=GENYUUEOGwkbXA0NVABbBgZXBQAMVwUFBgRTDVBWAAUBU1JVAFAOUQ0bGRZER0pWAlhqXVxDWwEAA1MCDFROExYSVUJtD10RAxsHBQYACgBBGRdAUQwEEgsHUA0EXVIIUVIEHBAWUFcbAxcHBgEJB0EZF1FAFQRCX1cKalEAFFgABBIKXBNVXxUbWlpoV11eAltRFgJDURIdFA9GRUdYXxYNXBwQBFBHS1hBURUJGgVUBhcYGgIORV9CFEwXX0BwMUMcElceTVZXSlxbWRECERdGFxgaCBJvQ1MVQUcAA1wGExIKEFYbHxtUVExoUFddDVBWQFEOD0MTDEQHF0lAXAwPWURdFGZDUF0XDhUECQZaF0g=
+
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",GOLDEN PREMIER
@@ -535,6 +542,21 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4103
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",A&E HD
 http://50.7.66.234:8080/monicaferraz/518260/1156013
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4037
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",AXN
+http://50.7.66.234:8080/monicaferraz/518260/1155784
+
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM", PARAMOUNT 
+http://50.7.66.234:8080/monicaferraz/518260/1155799
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",WARNER
+http://50.7.66.234:8080/monicaferraz/518260/1155808
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",FX HD
@@ -571,6 +593,7 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/3795
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",CINELATINO
+http://50.7.66.234:8080/monicaferraz/518260/4136
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4136
 
 
