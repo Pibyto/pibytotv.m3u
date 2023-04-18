@@ -99,11 +99,17 @@ http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w196303941_
 https://d1nmqgphjn0y4.cloudfront.net:443/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",C5N
+http://50.7.66.234:8080/monicaferraz/518260/1155832
+
+
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA BS.AS", AMÉRICA  36.1
+http://23.131.184.132:25461/monicaferraz/518260/1155829?token=GENYUUEOGwkbXQVWBlcKUldWAVULWVVVBAdQVlNWV1QAVAdUVgMIClsbGRZER0pWAlhqXVxDWwEAA1MNB1xOExYSVUJtD10RAxsHBQYACgBBGRdAUQwEEgsHUA0EUloGUlADHBAWUFcbAxcHBgIPA0EZF1FAFQRCX1cKalEAFFgABBIKXBNVXxUbWlpoV11eAltRFgJDURIdFA9GRUdYXxYNXBwQBFBHS1hBURUJGgFSAhcYGgIORV9CFEwXX0BwMUMcElceTVZXSlxbWRECERdGFxgaCBJvQ1MVQUcAA1wGExIKEFYbHxtUVExoUFddDVBWQFEOD0MTDEQHF0lAXAwPWURdFGZDUF0XDhUACgZXF0g=
 
 
 #EXTINF:-1 tvg-="https://vod.magma.qaotic.net/media/posters-live/cronica/placa_cronica2019.jpg"group-title="TDA BS.AS", CRÓNICA   24.4
+http://50.7.66.234:8080/monicaferraz/518260/4188
 
 
 
@@ -116,6 +122,7 @@ https://538d0bde28ccf.streamlock.net:443/live-cont.ar/pakapaka/chunklist_w111898
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/2560px-Cine.Ar_logo.svg.png"group-title="TDA BS.AS",CINEAR HD   22.4
+http://50.7.66.234:8080/monicaferraz/518260/43871
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/cinear/chunklist_w1793158574.m3u8
 
 
