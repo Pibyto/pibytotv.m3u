@@ -644,8 +644,26 @@ http://50.7.66.234:8080/monicaferraz/518260/4193
 http://50.7.66.234:8080/monicaferraz/518260/1155814
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg"group-title="DEPORTES",TyC SPORTS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/TyC_Sports_%281994%29.png/revision/latest?cb=20190620182054&path-prefix=es"group-title="DEPORTES",TyC SPORTS
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8247
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES",ESPN HD
+http://50.7.66.234:8080/monicaferraz/518260/1090736
+
+
+
+#EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png"group-title="DEPORTES",ESPN 2
+http://50.7.66.234:8080/monicaferraz/518260/1089695
+
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.e4d435abe2c5fa0680f4f5fe2aa6291a.png"group-title="DEPORTES",FOX 1
+http://50.7.66.234:8080/monicaferraz/518260/1090738
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.1344882745_FOXSports2ARG(2023-).png.4560f799f517d9a16ea1337296a0c940.png"group-title="DEPORTES",FOX 2
+http://50.7.66.234:8080/monicaferraz/518260/1090741
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png"group-title="DEPORTES",D' SPORTS
