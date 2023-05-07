@@ -209,7 +209,7 @@ https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 https://restreamer.el10tv.com:443/memfs/725003c4-79c2-4565-8311-f429db4f7777_var0.m3u8?session=3znEcinJ3HUUYaGPJX99dd
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA INTERIOR",CVISION TV
+#EXTINF:-1 tvg-logo="https://i.paste.pics/20f670cff902ed4ba66371959308bc9a.png"group-title="TDA INTERIOR",CVISION TV
 https://stream.cvisiontv.com/cvision_stream.m3u8?PlaylistM3UCL
 
 
@@ -264,7 +264,8 @@ https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/chunklist_w106809576.
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA INTERIOR",CANAL 7 JUJUY
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Canal_Siete_Jujuy_%28Logo_2020_-_2%29.png/revision/latest/scale-to-width-down/250?cb=20230222192035&path-prefix=es"group-title="TDA INTERIOR",CANAL 7 JUJUY
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
 
 
 
