@@ -614,9 +614,22 @@ http://50.7.66.234:8080/monicaferraz/518260/1155794
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4095
 
 
-#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO PLUS
-http://50.7.66.234:8080/monicaferraz/518260/4003
-http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4109
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO +
+http://elmonkey.us:25461/Victor/Victor/90
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO MUNDI
+http://elmonkey.us:25461/Victor/Victor/250
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO SIGMATURE
+http://elmonkey.us:25461/Victor/Victor/246
+
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO XTREME
