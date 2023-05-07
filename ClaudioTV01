@@ -500,6 +500,10 @@ http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJpZmrQn8v0EV5692IYn13HQ/ts
 http://50.7.66.234:8080/monicaferraz/518260/1068350
 
 
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM", STARZ ENCORE
+http://elmonkey.us:25461/Victor/Victor/115
+
+
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",STAR CHANNEL
 http://50.7.66.234:8080/monicaferraz/518260/4121
@@ -549,6 +553,17 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4118
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",DHE HD
 http://50.7.66.234:8080/monicaferraz/518260/24180
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/24180
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM", 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM", 
+
+
 
 
 
