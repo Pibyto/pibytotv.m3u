@@ -556,12 +556,12 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/24180
 
 
 
-#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM", 
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM", MOVISTAR SERIEMANIA
+http://elmonkey.us:25461/Victor/Victor/911138⅞
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM", 
 
 
 
@@ -618,6 +618,9 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4095
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO +
 http://elmonkey.us:25461/Victor/Victor/90
 
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM", HBO FAMILY
+http://elmonkey.us:25461/Victor/Victor/89
 
 
 
