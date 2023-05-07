@@ -517,6 +517,22 @@ http://50.7.66.234:8080/monicaferraz/518260/1068350
 http://elmonkey.us:25461/Victor/Victor/115
 
 
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",MOREMAX
+http://nobodudo.top:8080/live/311679257048691076/7261679257048691/18429.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",MOVIEPLEX
+http://nobodudo.top:8080/live/311679257048691076/7261679257048691/18430.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",OUTERMAX
+http://nobodudo.top:8080/live/311679257048691076/7261679257048691/18431.ts
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",STAR CHANNEL
 http://50.7.66.234:8080/monicaferraz/518260/4121
