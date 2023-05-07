@@ -205,6 +205,11 @@ http://elmonkey.us:25461/Victor/Victor/91139
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png"group-title="TDA INTERIOR",EL 10 TV   10.2   SALTA
+https://restreamer.el10tv.com:443/memfs/725003c4-79c2-4565-8311-f429db4f7777_var0.m3u8?session=3znEcinJ3HUUYaGPJX99dd
+
+
+
 #EXTINF:-1 tvg-logo="https://dto7y5p0mql2j.cloudfront.net/1660769433762.logoc2.png"group-title="TDA INTERIOR", CANAL 2 HD  2.15 MISIONES
 https://nd106.republicaservers.com:4433/hls/canal2misioness/1_0/index.m3u8?sessId=2603976
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
@@ -230,11 +235,21 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoUFv9whUTsyNkN46zFGZOk0xl-
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="TDA INTERIOR",CANAL 13 HD  13.1  LA RIOJA
+http://arcast.net:1935/mp/mp/chunklist_w25245074.m3u8?PlaylistM3UCL
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="TDA INTERIOR",CANAL 9 HD  9.2  RESISTENCIA 
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png"group-title="TDA INTERIOR", CANAL 9 HD  9.1.  MISIONES
+https://panel.dattalive.com:443/8076/8076/chunklist_w931708659.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyJVKGWk0vHNvIEhxrvdteHT1LsKMdFrizb9J_zuVItmyaeei-QbzqE0XKfZXEZjAyoLweXecjnSu6eYtEwuI5W_S-MKyxDGFnfXT1gxPM3thM7W9krwJLUro07Rj3NR9hjHBKtjHW5ajR4I7npNYTyTvPYrnATMgagbbGFL3Qc9_LNPfmGJhzwgt9/s200/canal9-litoral.png"group-title="TDA INTERIOR", CANAL 9 HD  9.3   LITORAL
+https://stream.arcast.live:443/ahora/ahora/chunklist_w1967933953.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zRsbCQ057WQ/XsSJeLXVw5I/AAAAAAAAv24/FcMy1_I8EVcTB6PkfCz7BuAfWZcJZfo-ACNcBGAsYHQ/s1600/LOGO%2BCANAL%2B4%2BDEGRADE_OK%25282%2529.png"group-title="TDA INTERIOR", CANAL 4 HD  POSADAS
@@ -335,13 +350,6 @@ https://cnnsanjuan.com:9999/live/delsurtv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="TDA INTERIOR",CANAL 13 HD  13.1  LA RIOJA
-http://arcast.net:1935/mp/mp/chunklist_w25245074.m3u8?PlaylistM3UCL
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png"group-title="TDA INTERIOR",CANAL 8 HD  8.1 MDP
 https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
 
@@ -402,20 +410,13 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 https://panel.dattalive.com:443/8074/8074/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png"group-title="TDA INTERIOR", CANAL 9 HD  9.1.  MISIONES
-https://panel.dattalive.com:443/8076/8076/chunklist_w931708659.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyJVKGWk0vHNvIEhxrvdteHT1LsKMdFrizb9J_zuVItmyaeei-QbzqE0XKfZXEZjAyoLweXecjnSu6eYtEwuI5W_S-MKyxDGFnfXT1gxPM3thM7W9krwJLUro07Rj3NR9hjHBKtjHW5ajR4I7npNYTyTvPYrnATMgagbbGFL3Qc9_LNPfmGJhzwgt9/s200/canal9-litoral.png"group-title="TDA INTERIOR", CANAL 9 HD  9.3   LITORAL
-https://stream.arcast.live:443/ahora/ahora/chunklist_w1967933953.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Be1L4qE40b5aSBT-267cTyjmGTZBBIFptrz2kYLAw5K4Z_oIIFuynO-y2JUCd1XF1fuu=w600-h300-pc0xffffff-pd"group-title="TDA INTERIOR",TIV CHACO 
 https://inliveserver.com:1936/14044/14044/chunklist_w543609963.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png"group-title="TDA INTERIOR",EL 10 TV   10.2   SALTA
-https://restreamer.el10tv.com:443/memfs/725003c4-79c2-4565-8311-f429db4f7777_var0.m3u8?session=3znEcinJ3HUUYaGPJX99dd
 
 
 #EXTINF:-1 tvg-logo="https://www.cable10.com/imagenes/logo.png"group-title="TDA INTERIOR",CABLE 10 RIO GALLEGOS 
