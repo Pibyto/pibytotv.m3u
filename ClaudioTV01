@@ -98,7 +98,7 @@ http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w196303941_
 https://d1nmqgphjn0y4.cloudfront.net:443/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",C5N
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG"group-title="TDA BS.AS",C5N
 http://50.7.66.234:8080/monicaferraz/518260/1155832
 
 
@@ -135,15 +135,15 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS", CANAL 4 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png"group-title="TDA BS.AS", CANAL 4 HD
 http://50.7.66.234:8080/monicaferraz/518260/8334
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CANAL 5 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png"group-title="TDA BS.AS",CANAL 5 HD
 http://50.7.66.234:8080/monicaferraz/518260/19351
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CANAL 10
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Canal_10_OFICIAL2_20220128182646.png/revision/latest/scale-to-width-down/250?cb=20220202055120&path-prefix=es"group-title="TDA BS.AS",CANAL 10
 http://50.7.66.234:8080/monicaferraz/518260/18567
 
 
