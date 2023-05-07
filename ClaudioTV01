@@ -96,6 +96,8 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/800px-Net_TV_logo.png"group-title="TDA BS.AS", NET TV HD  27.2
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
+#EXTINF -1 tvg-logo=""group-title="TDA BS.AS",NACION+
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="TDA BS.AS",CANAL 26  24.2
