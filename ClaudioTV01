@@ -60,24 +60,11 @@ http://elmonkey.us:25461/Victor/Victor/91135
 
 
 
-#EXTINF:-1 tvg-logo="https://universodigitalnoticias.com/wp-content/uploads/2016/06/1495495_1385811981670638_1509033579_n.jpg"group-title="TDA BS.AS",TASTEMADE EN ESPAÑOL
-https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.291385961_TVPNuevoLogo(2021)-VersinBlanca.png.38c313af76b46808c0042f4ec947544a.png"group-title="TDA BS.AS",TV PUBLICA   23.2
 https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS", CANAL 4 HD
-http://50.7.66.234:8080/monicaferraz/518260/8334
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CANAL 5 HD
-http://50.7.66.234:8080/monicaferraz/518260/19351
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CANAL 10
-http://50.7.66.234:8080/monicaferraz/518260/18567
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA BS.AS",EL NUEVE  35.1
@@ -96,7 +83,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/800px-Net_TV_logo.png"group-title="TDA BS.AS", NET TV HD  27.2
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF -1 tvg-logo=""group-title="TDA BS.AS",NACION+
+#EXTINF -1 tvg-logo="https://i.ytimg.com/vi/GZEwdVV5DTY/maxresdefault.jpg"group-title="TDA BS.AS",NACION+
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8?PlaylistM3UCL
 
 
@@ -138,6 +125,24 @@ https://538d0bde28ccf.streamlock.net:443/live-cont.ar/cinear/chunklist_w17931585
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png"group-title="TDA BS.AS",TELEMAX HD  26.3
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
 https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://universodigitalnoticias.com/wp-content/uploads/2016/06/1495495_1385811981670638_1509033579_n.jpg"group-title="TDA BS.AS",TASTEMADE EN ESPAÑOL
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS", CANAL 4 HD
+http://50.7.66.234:8080/monicaferraz/518260/8334
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CANAL 5 HD
+http://50.7.66.234:8080/monicaferraz/518260/19351
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CANAL 10
+http://50.7.66.234:8080/monicaferraz/518260/18567
+
 
 
 
