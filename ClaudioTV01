@@ -209,6 +209,13 @@ https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://dto7y5p0mql2j.cloudfront.net/1660769433762.logoc2.png"group-title="TDA INTERIOR", CANAL 2 HD  2.15 MISIONES
+https://nd106.republicaservers.com:4433/hls/canal2misioness/1_0/index.m3u8?sessId=2603976
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
+
+
+
+
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="TDA INTERIOR",9 TELEVIDA HD  MENDOZA
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
@@ -219,15 +226,19 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdRFMDQnm4T6y5KPATMxrog3iAZy0VpCCKg&usqp=CAU"group-title="TDA INTERIOR",SPTV CANAL32
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoUFv9whUTsyNkN46zFGZOk0xl-iv1iwkstiua5IfuXxDCfFFxlHzBUp-qoCOy90xa61lIuBNYZAhiby0j8F-arD9EYVSTJS1StBCiAl35S3icqXFR8suyrb2BwX165m4sOqu-7KbdnZqup4GCQ1F3x3WqByeRsdvsu9XH6ZIaZ48zpyPzoInH8qQJ3p4Ht1Y790PRK0cFmIbJPeY8tuZc7D3bR3DBb0qDKfloseqR42zSGb96-GOGurXo4RJ6F0R6Vnn9cHzJsLJwtZMZRQInkrw5Rwb9ssj1S9BoAIjxJ3aLXGEYYcdu50vVMb5uGBbGXmbzTlQ-K6gshBlGansvjgaXPopckZFG8Zri5Eo6W6nY2aOk87pJoqHGRTFr5UkboIRtd9h5l0zaBkzljxUEJzxxgSeMtIBhiCLN3O2IRSWcszjWP_SVc79tSNI_2YDlEpCu_Oi2pLiwcuejug7yHmBpGiWsySdEGQP34DsIiW3CrkNW6RfwYbE8OzYOjdp6vScZVwqovyoVl_RPxfTxE6vLBbN8m6AQ4j7030WQHFk2EfZtb4daJTyL-EgOFNoHh5COr5MbbxufPf3DpMIYqwFnPodNHW6AesFUcPqQSNZ0GL3SclacMMYR130IKle4sNrzxQq5CGVnTTIVsfGEFRlQ4MEizndqU8kIkVTmGqlbZ-8YmmOEYLM6dEiChIeoBzQN-0-dQA1XOOmXlvoQ79t6BkQKgvIH_IND1IrCfx1vEjL9w6VmMVYkesgYVM8WFCD04TJ99a9JnQ1JWVuTlYfJDBZ-PJBUK94oJsfjd8TLRvPccEfxSxF3r2JKF-OaS2Ee4QaQcZ52LLvRjNetPoBHRKXziYGgypEzC-Ukb2KWTVId4gASoJdXMtZWFzdC0xMPQE.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoUFiQNZK4sHDs9eG4l7h7SsNvaMOBQLJZ3O6LXc6g0hpcH4Q3YJ5Zyi3x0iJHfk4WTgGg8AvtW-ZNIPrtDKiXJYyO8PeLoT6Cy_Fp8orw5nGuUJEEY805dHUq3nzxPj_1kqX2bDbx9WAYwJtr-Xd_KNDmhLWHKO5P23sZIweuBuo1fXng2hMXJAal9kluJvMKmbYb9qJ5M4oNUjEoVKQ_efBkYl8N26lEzzSTjHo3foSpLnUQYCR2tEawTpD2aI1QidGCxCOOalDCO4CJChhqt0JOwMBjjP17N4MgUhJIuMGH8U-SlPvhkOiuZKFJItSVP4yubR6QRcgQGMmiB-cu_zvhE2saOaj9Jl869C1nIkeTaZLBG6vdkm1PkA6p1K4Mde_iT9WDMUmMWsXMpTlSxUCpYVS2zFoNzy8FjltTvd0nbIR8YqYEU9uZL3aELiZZUj0rDSLE2pnrY8AmZXiH8DObbYtjUjJuM6B0Obs6eU9xduBV3GFzfGlIFLuELfsmJG2zO9ItEJciNca_u1WX5EZefaFVH29OYDg3B9Yv4FWbeAa-h529A3ZKiemeD5VY5MM1MHL0c7Ben7sZVc5n7XbvvBoDuI3COUO9BliRpPzX5f-Ffgb_U40cZAzayNdvsuX5NapkPtkItwIOeazR-yc967417HSMIVMvQY9wjkYehFP3UxkVMpIjYK9DgkBLCkbKHivXpctwVRjmFrHCQpwIv30yd1K2_9LHScn6MDpCSkpO4rZeyHFDgYfW2ts7yBqJwSla1lQbRo6y1F5OUBoVRmQ2C6Wg1fxzJTxg2RDRc_DYli0rangFYxCJooVv78cT9YLNez6__uC1-nhVq0tDL9cYb_GgwPiW0s3gbuZEgSg50gASoJdXMtZWFzdC0xMO8E.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoQFwYAXTy-HcjcUsUFEN3zx5GNISjhYiWGvKmT5yymqZUWmdk7mimUqmN9uX4r9H3eZwAAlPbhxeg_-fe8uinsyXgU-MKu4TlwDACuqBSF7qMSROSOgL2LnLWn7A_f9-CHp7IsXAZX49c7hu0LNta61XQilyemdJkHEKfq6JVXJOJnb3sgJeEc8koNBLlfpLH6grBRyE3N4li4aZvESlMK2tXBt5LZWgqleSVXiNSqgAIs6j2ZooU5VZ-1FFozkmdBeS8PlLMTMvSIekZ5ghSfiIZRvJnmglDbwUhAaneHSf6cP55N2-kyNfv6JNQwvW5QCN2Zfsdh5HjJi7SmrEstwM1_rSnLpBiomUt__5LRA2TbiLVGf7EUfbiwY9adLkVJU-N6qL91o93RbqpEei-NCDbL88taDN6Vp9jZBXrX2CQ8spq2QsH8UJHuGPHkqtzEkAnlLpHlko04sCspE6KXtv8l2IVcQuQ-_6v2_s0KFkmqJMWzZyYrIh74827RaOGoXjsaRPrkERimxDw3674hmsCBxTYpihkTW2cAowMPYntMY7ZxyIceF1rd1d2QgbLcqMQVN0kAO8HTE9NBXa0r8VpRm3sXBwkcATQSKLY_FvWLIPb1daP_v7YD6B9qLdR7nLFuwt3TWFannmhAE7HvbKluWGv-rRaMsNJ3lDWANTiPZc7Gm1_-lWvhyd6AsZ9RM76pQwoIASPNMpN_fxDDF1KPJTiJdpxMkpkxaL7qOXFayLumkz46ZRxtxU5Goi4tAK8yr59vdG4V1pEHnSUtjiKUEeoj1_u7bcYhIyfbEBxQkuynpGSazfZJi3P47_azpmUN9tZCILKBgKrLM-r458zYcKQ0aDGRZne_0wfFCNeKc-iABKgl1cy1lYXN0LTEw6AQ.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CoQFJISBGdZHVjZsZveZ_rarf1yJTh4W828jqmsfI4u9BgEOTsdhg9ZaLWqG87M4BgnfFr4iKjRmDLnAUNSf8lIeTF7c-cMAyhMvnoOMwzTE7G1jdMHsn2Z_0x7wE53s-IKN_f2bPRi1jFXmi6TB-U88h2xOl1Tewug3KM0Mtr8jlY4H3o8gRvdIDTfJGzc2misgc1tCJPJN_qwtN89eHtjSXSSXvajG2PT52WLB9bZTFyFNneISGAvCrGXZTuE2SzRrYcxlbhJNYXYKzNVAVuTt0aFUwJYLpBt3qvXlSCLdkNByPWw4hp6ae0JQfF3f2hDmwuJLNIJIB_jpOW9lQ6mbqZo8qFPgXyoOVQwoujnWdOszaL42ye6dkpIPpsv75MRs1wr-FsM1Cllnzqe-b2BBJ0LjS377TFN0TnRXeuS21oK3f9dyZzFxqRr3dl3otEwYpijQ4h6GxDSuAbKLVadZpWD4UeCWPj1YwLss0Zw7J4w57bIRRHx-NebYUkmb_zXfD92UAd4sBaRXQiosJCOY1BpDKMl0PATl8WKDaJTsrE7oCie6W7Z6FsX8ZcnsyW35g1d6fWMzai1skD3pP__M-59wnIIaA1ff31cA_dRJw4xhO7xaL8vSYcJkx9hdLw8jTBfcZ5ldQ2LAjWcxSJw5eod9uoDRJxPtCQYHId4JjAdD1OXcVGl7tv7JiOvyoEZN7NwRQ6wZ97nc-m_33OpfjDoQcKofv3yi3XPBuKYPcYdnq-tYeI4xzSR1kIepBN9yIwNrpr_G0wy0afDorsmntXmeQiuZD4w9Hos6Q2_mq6X_lICtJY1nz7kgIHzNDSEz0kxJGUbqC0v3PHr2SDx2B5dk81oaDE5xEC97YtCLo9G0tyABKgl1cy1lYXN0LTEw4QQ.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA INTERIOR", CANAL 4 HD  4.1  JUJUY
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="TDA INTERIOR",CANAL 9 HD  9.2  RESISTENCIA 
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zRsbCQ057WQ/XsSJeLXVw5I/AAAAAAAAv24/FcMy1_I8EVcTB6PkfCz7BuAfWZcJZfo-ACNcBGAsYHQ/s1600/LOGO%2BCANAL%2B4%2BDEGRADE_OK%25282%2529.png"group-title="TDA INTERIOR", CANAL 4 HD  POSADAS
@@ -303,9 +314,6 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-6-Entre-Rios-TV-en-vivo-Online.png"group-title="TDA INTERIOR",ERTV 
 https://stmvideo1.livecastv.com:443/canal6er/canal6er/chunklist_w222725253.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="TDA INTERIOR",CANAL 9 HD  9.2  RESISTENCIA 
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
 
@@ -389,8 +397,6 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dto7y5p0mql2j.cloudfront.net/1660769433762.logoc2.png"group-title="TDA INTERIOR", CANAL 2 HD  2.15 MISIONES
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 
 
 
