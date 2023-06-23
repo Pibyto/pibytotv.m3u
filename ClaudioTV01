@@ -39,6 +39,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA BS.AS",TELECREATIVA HD  5.1. LANUS
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
 
 
 
@@ -218,6 +219,7 @@ https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png"group-title="TDA INTERIOR",EL 10 TV   10.2   SALTA
+https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8?PlaylistM3UCL
 
 
 
