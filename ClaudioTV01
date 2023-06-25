@@ -105,6 +105,12 @@ https://d1nmqgphjn0y4.cloudfront.net:443/live/ip/live.isml/live-audio_1=128000-v
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG"group-title="TDA BS.AS",C5N
 http://50.7.66.234:8080/monicaferraz/518260/1155832
 
+#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/60ba654d0cf443090aa41804.png"group-title="TDA BS.AS",ASPEN HD  35.3
+https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
+
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg"group-title="TDA BS.AS",TIERRAMIATV HD  35.4
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA BS.AS", AMÉRICA  36.1
@@ -214,9 +220,19 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU"group-title="TDA INTERIOR", CANAL 34 HD  6.11 SAN JUAN 
+http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA INTERIOR",BLU HD SAN JUAN
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="TDA INTERIOR",CANAL 9 HD  9.2  RESISTENCIA 
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="TDA INTERIOR", METRO TV HD  18.1 TUCUMÁN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
 
@@ -268,8 +284,6 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="TDA INTERIOR",CANAL 9 HD  9.2  RESISTENCIA 
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png"group-title="TDA INTERIOR", CANAL 9 HD  9.1.  MISIONES
@@ -319,15 +333,11 @@ https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="TDA INTERIOR", METRO TV HD  18.1 TUCUMÁN
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2022/11/LOGOPERIODICO-600x329-1-300x165.png"group-title="TDA INTERIOR",LA VOZ TV HD  15.2  TUCUMÁN
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU"group-title="TDA INTERIOR", CANAL 34 HD  6.11 SAN JUAN 
-http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
 
@@ -395,7 +405,7 @@ http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/
 
 
 #EXTINF:-1 tvg-logo="https://www.mileniumtv.com.ar/wp-content/uploads/elementor/thumbs/logo-milenium-phux66i31q62krlz7kk6zihcix0p6icveprux399q0.png"group-title="TDA INTERIOR",MILENIUM TV HD  SALTA
-https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UCL
+
 
 
 
@@ -423,12 +433,6 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/60ba654d0cf443090aa41804.png"group-title="TDA INTERIOR",ASPEN HD  35.3
-https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
-
-
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image14860591199.jpg"group-title="TDA INTERIOR",TIERRAMIATV HD  35.4
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 
 
