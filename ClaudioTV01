@@ -71,8 +71,6 @@ http://elmonkey.us:25461/Victor/Victor/91135
 
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.291385961_TVPNuevoLogo(2021)-VersinBlanca.png.38c313af76b46808c0042f4ec947544a.png"group-title="TDA BS.AS",TV PUBLICA   23.2
-https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 
 
 
@@ -80,11 +78,19 @@ https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_da
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 http://elmonkey.us:25461/Victor/Victor/91139
 
+
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA BS.AS",EL NUEVE  35.1
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA BS.AS", CANAL 4 HD
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA BS.AS",CANAL 4 HD
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.291385961_TVPNuevoLogo(2021)-VersinBlanca.png.38c313af76b46808c0042f4ec947544a.png"group-title="TDA BS.AS",TV PUBLICA   23.2
+https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png"group-title="TDA BS.AS",UNIFE  25.1
