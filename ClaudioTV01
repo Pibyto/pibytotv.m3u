@@ -1184,11 +1184,14 @@ https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443
 
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",CANAL 10 SOL TV
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", OK TV
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8?PlaylistM3UCL
 http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/SVTranscoder/100.stream_1080p/chunks.m3u8?nimblesessionid=14626629
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",SOLTV HD PE
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",VZ HD PE
+https://live.obslivestream.com:443/vztv/tracks-v1a1/mono.m3u8
+
 https://video03.logicahost.com.br:443/soltv/soltv/chunklist_w841478867.m3u8
 https://s1.tvdatta.com:3121/stream/play.m3u8?WebM3UCL
 
@@ -1231,6 +1234,7 @@ https://hls.servidor.stream/storage/megatv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MEGA TV
+https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8?PlaylistM3UCL
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w301614551.m3u8
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8?DVR
