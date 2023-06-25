@@ -1720,7 +1720,8 @@ https://vsd205.mycdn.me:443/hls/1698824391191.m3u8/sig/rl-J_BJUTNk/expires/16877
 https://vsd173.mycdn.me:443/hls/1698824391191.m3u8/sig/HVVsDSGLaMg/expires/1682504984019/srcIp/186.132.57.94/urls/185.226.53.51/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f1589be8f15b2dbbb4673d6d053099ce60224c396311dd99c982f9fce47d8693.png"group-title="CRISTIANO",PENIEL MUSICAL HD
+http://204.12.202.90:8080/live/playgt/playgt2023/137.m3u8
 
 
 
