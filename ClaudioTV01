@@ -225,7 +225,8 @@ http://elmonkey.us:25461/Victor/Victor/91139
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png"group-title="TDA INTERIOR",EL 10 TV   10.2   SALTA
+#EXTINF:-1 tvg-logo="https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png"group-title="TDA INTERIOR",TELE JUNIN
+https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8?PlaylistM3UCL
 https://vkvsd96.mycdn.me:443/hls/3256757783197.m3u8/sig/ChU7CGcdHzI/srcIp/186.132.18.151/urls/45.136.22.53/expires/1688130275021/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/4385924262813/id/3256757783197/3256757783197_medium/index.m3u8
 https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8?PlaylistM3UCL
 
@@ -263,7 +264,7 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="TDA INTERIOR",CANAL 13 HD  13.1  LA RIOJA
-http://arcast.net:1935/mp/mp/chunklist_w25245074.m3u8?PlaylistM3UCL
+
 
 
 
@@ -399,7 +400,7 @@ https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8?PlaylistM3UC
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Televisi%C3%B3n_Digital_Abierta.svg/800px-Televisi%C3%B3n_Digital_Abierta.svg.png"group-title="TDA INTERIOR",EL PALOMAR TV HD   21.1  TUCUMÁN 
-https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-6-mar-del-plata.png"group-title="TDA INTERIOR",CANAL 6 HD  6.1  MAR DEL PLATA
@@ -418,8 +419,8 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Xama-Senal-UNSJ-en-vivo-Online.png?resize=218%2C150&ssl=1"group-title="TDA INTERIOR",XAMATV  33.1  SAN JUAN 
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvwEXeIXyFcDkttzL9XXgYIY_sery2PU7JtVizKu2Schle2FtzVMl1pYPxSRlNOhp3XVYum3hSz85BUG5p0p20us9XyG9c7zKqXK-CJGmzSbsY4IW4VUdrcuCz9-yMHEJRYuX6zTjxe-ofpnic_cxtShvv2r-wJvjtY8MgntrQu-HE373UFk_nquAv_uJrQtz_ot8UtfxqVpRb3IOrQomUSdY2z02UIRV7ZA_hLYHS2qPxD1TvyzdmtLqall5_-_LuLOMCI7VgYH0Hc1cSbJBGWQGtqjj1kEn2ZWG0IysRForeUaIcynQw1RKnq0KRmpbGiPY_NoX_0GD-zthDehtQKG90j6f256kjgoVQvYbOGfQZUi8cgqKcvuuWEBs0HE6loJujA-F538Z7qk6nAfKiGpAtX7-Zb_RSvMWnNZ9F06YA-aT1ChCn795Y_M2gGYzEvNvpUV06Pn0czQVb-SIKxoHvpRfoMVaLVCuVhu-4MxSMOMqCn6_ovUCw5vkkalpLmyR2mCcKw7n8Dcwu4Cav0VUdz5cFwZjdKmXtXkSvQKizDtbAEd-ISckP8zfI2bUasPdFV52POcAooVxBF4oPSfpHzz5oL4lMSnuNdaq2EmE3OLYONyRldJMuZ-hRxEFL3-vQJk4A4ke57PnluTzdw_Q0WS-0fIZQbm4sjOthx__ludo0-DtI-7VK_f9Ks18bPS0cUfuZ9rTgJ6LLqkVAH4Zjl2QQZjPpsvyv8oGgHwedscu9pWFZLCT3sKX7-lANYP6j89o8IZWDRT1nOxp6QN6hE-zORgj4Rbr6KJolJAMytp7C0kEh9A5LrxIDKtxAfotwzLDqP474q4H4_oGgxwB8gxgSFKjwjpgS4gASoJdXMtZWFzdC0xMO8E.m3u8
-https://srs.unsj.edu.ar/live/xama.flv
+
+
 
 
 #EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/60ba654d0cf443090aa41804.png"group-title="TDA INTERIOR",ASPEN HD  35.3
@@ -430,35 +431,14 @@ https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tvdos-canal-2-de-salta-en-vivo-2322.png"group-title="TDA INTERIOR", CANAL 2 SD 2.14  SALTA
-https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/4fgp_qrpmJ3XL59ddvZNRui_EpPCXoh-6Gt6fgdYAk9HdcVzNN1i3BFZiGD4il1EVF0"group-title="TDA INTERIOR",CANAL 7 HD  7.1   SALTA
-https://panel.dattalive.com:443/8074/8074/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Be1L4qE40b5aSBT-267cTyjmGTZBBIFptrz2kYLAw5K4Z_oIIFuynO-y2JUCd1XF1fuu=w600-h300-pc0xffffff-pd"group-title="TDA INTERIOR",TIV CHACO 
 https://inliveserver.com:1936/14044/14044/chunklist_w543609963.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://www.cable10.com/imagenes/logo.png"group-title="TDA INTERIOR",CABLE 10 RIO GALLEGOS 
-https://inliveserver.com:1936/8292/8292/chunklist_w158646387.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://sicarditv.com.ar/static/custom/logo.png?t=2023-01-03+18%3A02%3A18.705308"group-title="TDA INTERIOR",SICARDITV HD  18.2
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
 
 
 
