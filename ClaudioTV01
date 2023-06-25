@@ -79,6 +79,8 @@ https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_da
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA BS.AS",EL NUEVE  35.1
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA BS.AS", CANAL 4 HD
+http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png"group-title="TDA BS.AS",UNIFE  25.1
@@ -232,6 +234,13 @@ https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="TDA INTERIOR",CANAL 9 HD  9.2  RESISTENCIA 
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Be1L4qE40b5aSBT-267cTyjmGTZBBIFptrz2kYLAw5K4Z_oIIFuynO-y2JUCd1XF1fuu=w600-h300-pc0xffffff-pd"group-title="TDA INTERIOR",TIV CHACO 
+https://inliveserver.com:1936/14044/14044/chunklist_w543609963.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://sicarditv.com.ar/static/custom/logo.png?t=2023-01-03+18%3A02%3A18.705308"group-title="TDA INTERIOR",SICARDITV HD  18.2
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="TDA INTERIOR", METRO TV HD  18.1 TUCUMÁN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
@@ -277,8 +286,6 @@ https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png"group-title="TDA INTERIOR", CANAL 4 HD  4.1  JUJUY
-http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="TDA INTERIOR",CANAL 13 HD  13.1  LA RIOJA
@@ -436,12 +443,6 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Be1L4qE40b5aSBT-267cTyjmGTZBBIFptrz2kYLAw5K4Z_oIIFuynO-y2JUCd1XF1fuu=w600-h300-pc0xffffff-pd"group-title="TDA INTERIOR",TIV CHACO 
-https://inliveserver.com:1936/14044/14044/chunklist_w543609963.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://sicarditv.com.ar/static/custom/logo.png?t=2023-01-03+18%3A02%3A18.705308"group-title="TDA INTERIOR",SICARDITV HD  18.2
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 
 
