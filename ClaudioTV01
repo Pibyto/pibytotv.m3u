@@ -249,6 +249,10 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6vt8JAXtQs3RxTcSBs2oSDQV1STdC9cO7Q_36OXRoajKbIaCJn0kwbEIItqs45937SCj0Gca=s900-c-k-c0x00ffffff-no-rj"group-title="TDA INTERIOR",ALBARDON TV HD
+https://vd01.streaminghd.net.ar:3451/stream/play.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU"group-title="TDA INTERIOR", CANAL 34 HD  6.11 SAN JUAN 
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
