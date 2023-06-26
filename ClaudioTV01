@@ -787,6 +787,25 @@ http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/169441.ts
 http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/169818.ts
 
 
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",KANAL DRAMA HD
+http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/165282.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",RCN NOVELAS HD
+http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/166565.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",AZ CORAZON HD
+http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/264914.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",SONY NOVELAS HD
+http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/144609.ts
+
+
 
 
 
@@ -794,7 +813,11 @@ http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/169818.ts
 http://elmonkey.us:25461/Victor/Victor/37
 
 
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",
 
+
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",NBC UNIVERSO 
+http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/94103.ts
 
 
 
