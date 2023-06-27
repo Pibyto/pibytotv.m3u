@@ -85,6 +85,12 @@ http://elmonkey.us:25461/Victor/Victor/91135
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es"group-title="TDA BS.AS",CIUDAD MAGAZINE HD
+http://50.7.66.234:8080/monicaferraz/518260/3787
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2e8Q-A24wPDJH8nqWwn5ulD9h2sFDX6796A&usqp=CAU"group-title="TDABS.AS",VOLVER
+http://50.7.66.234:8080/monicaferraz/518260/7978
 
 
 
