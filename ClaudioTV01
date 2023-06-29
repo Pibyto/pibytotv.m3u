@@ -28,7 +28,7 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png"group-title="TDA BS.AS",CITY SPORT HD  2.10  CABA
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png"group-title="TDA BS.AS",CITY SPORTS HD  2.10  CABA
 http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/165275.ts
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8?PlaylistM3UCL
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM3UCL
@@ -40,6 +40,9 @@ http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/87964.ts
 
 
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png"group-title="TDA BS.AS",CITY SPORTS HD  2.12  CABA
+http://185.135.157.157:25461/live/Daniel13/lagidell1396/62588.ts?token=TRNYU0BaEVkUWwVVUQMDXwUNCQYDBwdUAwEHBVoHVQlVVQdRCgUKBQAbT0NDERBcBVhnWQUXDFAHUA5cTkATQ1NDb1tXEAlBAAhUUwBHThsQXFVVQw8HUA1dBlNQVVQHGhNAW1cQCUEDClFVBkdOGwFNTFUTW1cKagFTEgsBAxIMX0VeXx4RDFhmBwRdBAxdRg8aAEMZFA9GFRReDBcKXBoTUltHQFIXUxtZQwJdUA9GGRpTDkBYEkccFF5AIzQSGhNVSkdXXRBfVg1DCkcWSkYZGlkSakQDRhFEAQMPA0IUCxICER4RDldBPAJfCwxcB0FRXw9GFFwXVxRIQA8JXl9FX0BsQloHFANBWQNTWhsZ
+http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/87964.ts
 
 
 
