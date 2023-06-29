@@ -2118,6 +2118,22 @@ https://vsrv2.az-streamingserver.com:3408/live/aleluyatvlive.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zoomses/9/6221391f103440dfb03cd972e8420f4e/ppfkd6.jpg"group-title="24/7",CINE ACCIÓN 
+http://tv.dominiotv.xyz:25461/live/Daniel13/lagidell1396/87461.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zoomses/9/6221391f103440dfb03cd972e8420f4e/ppfkd6.jpg"group-title="24/7",CINE MARVEL
+http://tv.dominiotv.xyz:25461/live/Daniel13/lagidell1396/87465.ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/zoomses/9/6221391f103440dfb03cd972e8420f4e/ppfkd6.jpg"group-title="24/7",CINE COMEDIA
+http://tv.dominiotv.xyz:25461/live/Daniel13/lagidell1396/345193.ts
+
+
+
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zoomses/9/6221391f103440dfb03cd972e8420f4e/ppfkd6.jpg"group-title="24/7",LA BIBLIA - SERIE
 http://tv.dominiotv.xyz:25461/live/JoseBTA/69603296/65631.ts
