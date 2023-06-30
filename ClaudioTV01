@@ -171,6 +171,7 @@ http://50.7.66.234:8080/monicaferraz/518260/4188
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="TDA BS.AS",A24 HD
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/d384a0cd-1561-40e0-8211-a84fb13fa118:SCL/variant/0c9f77ea95444cbfd46a0108e4f60b04/bandwidth/1500000.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1687747479/ei/N6eYZJaIIZiRlu8PzcaPkAo/ip/3.129.111.220/id/QGpHLgRnrx4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-uxax4vopj55gb-x1xk.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/qEK7B7DbGiqLYccdZdSoUf8BwO9UOgYxsUck2zoM7Q/vprv/1/playlist_type/DVR/initcwndbps/820000/mh/6d/mip/186.132.18.151/mm/44/mn/sn-uxax4vopj55gb-x1xk/ms/lva/mv/m/mvi/5/pcm2cms/yes/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246,24362685,24362687/beids/24350018/mt/1687725650/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgJwBGgWY4Zmtz5jlupQRVJsp5GV39GPhn8TtF1fuayIsCIA7FjEionpTCEuD-nxkd6OEbThi_s0NHS37fRv6ti7o0/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRQIhAKi_8lIfpX8MypXcMk45AOScsGgFBDLB1-kXvqELkrSEAiB6i1LtHSydUqypZnu_-vGxKXLzBMVCxxTBpc0mZgwWqA%3D%3D/playlist/index.m3u8
 
 
