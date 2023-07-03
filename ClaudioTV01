@@ -206,7 +206,8 @@ https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://www.tastemade.com/_next/static/image/public/assets/images/og/tastemade_home.188256ae6126fcb3b1407c78c73c5075.png"group-title="TDA BS.AS",TASTEMADE EN ESPAÑOL
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/large.gallery_11054_7_8175.png.9537da21efd71f08d2f012aed36714c3.png"group-title="TDA BS.AS",IVC HD
+http://tv.dominiotv.xyz:25461/live/TFerrufino30/2628430/322410.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png"group-title="TDA BS.AS", CANAL 4 HD
 http://50.7.66.234:8080/monicaferraz/518260/8334
