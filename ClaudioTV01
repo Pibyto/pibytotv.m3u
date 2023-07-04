@@ -223,6 +223,7 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1378
 http://tv.dominiotv.xyz:25461/live/TFerrufino30/2628430/322410.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png"group-title="TDA BS.AS", CANAL 4 HD
+http://tv.dominiotv.xyz:25461/live/IsaiasTay/7j384n/203194.ts
 
 
 
@@ -231,9 +232,11 @@ http://tv.dominiotv.xyz:25461/live/TFerrufino30/2628430/322410.ts
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Canal_10_OFICIAL2_20220128182646.png/revision/latest/scale-to-width-down/250?cb=20220202055120&path-prefix=es"group-title="TDA BS.AS",CANAL 10
+http://23.131.184.152:25461/live/IsaiasTay/7j384n/203177.ts?token=TRNYU0BaEVkUD1ICCQFWDgdRWVJRDVdUVgBQAQRWUARXUgBTA1QEVlUbT0NDERBcBVhnWQUXDFQFVgdTVU5ERUVUQm1aVhFZFA9VUANdQBVGQVFdBBcMVwNdDlFTUFQCDh0SQlpWEVkUC1BTAVVAFUZQQEQER1gHWTpSARQLBVUUC15HX14fQVlXPAVVCANXABcCElEXGkRcFkZGWAwTXFodElBaRkECQlxBWxJUWgxVFxQSAlpDCEEXT0ZYQCdiFB0SV0tGVg1FUAwPEl9ATRcXFBIIRmkUUBZCFgcDC1VEEwoQAxAfQVtYGz5TCgxXAVZMWQ5bRUQPRwdGTkALX1hYRF1BbUMKUhtZQwNcWgFGSA==
 
 
-
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png"group-title="TDA BS.AS",TELE HD
+http://tv.dominiotv.xyz:25461/live/IsaiasTay/7j384n/203186.ts
 
 
 
