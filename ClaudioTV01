@@ -113,7 +113,7 @@ http://elmonkey.us:25461/Victor/Victor/91139
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png"group-title="TDA BS.AS",TN HD
-
+http://tv.dominiotv.xyz:25461/live/IsaiasTay/7j384n/52521.ts
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA BS.AS",EL NUEVE  35.1
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
@@ -167,6 +167,7 @@ https://d1nmqgphjn0y4.cloudfront.net:443/live/ip/live.isml/live-audio_1=128000-v
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG"group-title="TDA BS.AS",C5N
+http://tv.dominiotv.xyz:25461/live/IsaiasTay/7j384n/52535.ts
 http://50.7.66.234:8080/monicaferraz/518260/1155832
 
 #EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/60ba654d0cf443090aa41804.png"group-title="TDA BS.AS",ASPEN HD  35.3
