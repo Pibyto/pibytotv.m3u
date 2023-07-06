@@ -1356,19 +1356,22 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",NIM TV HD
+http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/106.m3u8
 http://204.12.202.90:8080/playgt/playgt2023/134
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", TERROR_MANIA
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MOVIE_MANIA
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/chunklist_w73578351.m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", PELÍCULAS_MANIA
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 
 
 
