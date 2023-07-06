@@ -1921,6 +1921,7 @@ https://vsd173.mycdn.me:443/hls/1698824391191.m3u8/sig/HVVsDSGLaMg/expires/16825
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f1589be8f15b2dbbb4673d6d053099ce60224c396311dd99c982f9fce47d8693.png"group-title="CRISTIANO",PENIEL MUSICAL HD
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/137
 http://204.12.202.90:8080/live/playgt/playgt2023/137.m3u8
 
 
@@ -1934,6 +1935,7 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w14123194
 
 
 #EXTINF:-1 tvg-logo="http://ccpeniel.com.mx/site/images/US/MPK_LOGO.png"group-title="CRISTIANO",PENIEL KIDS
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/136
 http://204.12.202.90:8080/playgt/playgt2023/136
 
 
