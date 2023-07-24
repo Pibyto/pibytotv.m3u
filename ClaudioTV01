@@ -118,6 +118,14 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w196303941_b2628000_sleng.m3u8?PlaylistM3UCL
 
 
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA BS.AS", AMÉRICA  36.1
+http://tv.dominiotv.xyz:25461/live/TomaSegura/63b84m/52536.ts
+http://23.131.184.132:25461/monicaferraz/518260/1155829?token=GENYUUEOGwkbXQVWBlcKUldWAVULWVVVBAdQVlNWV1QAVAdUVgMIClsbGRZER0pWAlhqXVxDWwEAA1MNB1xOExYSVUJtD10RAxsHBQYACgBBGRdAUQwEEgsHUA0EUloGUlADHBAWUFcbAxcHBgIPA0EZF1FAFQRCX1cKalEAFFgABBIKXBNVXxUbWlpoV11eAltRFgJDURIdFA9GRUdYXxYNXBwQBFBHS1hBURUJGgFSAhcYGgIORV9CFEwXX0BwMUMcElceTVZXSlxbWRECERdGFxgaCBJvQ1MVQUcAA1wGExIKEFYbHxtUVExoUFddDVBWQFEOD0MTDEQHF0lAXAwPWURdFGZDUF0XDhUACgZXF0g=
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG"group-title="TDA BS.AS",C5N
 http://tv.dominiotv.xyz:25461/live/IsaiasTay/7j384n/52535.ts
 http://50.7.66.234:8080/monicaferraz/518260/1155832
@@ -162,42 +170,11 @@ http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3538
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8?PlaylistM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es"group-title="TDA BS.AS",CIUDAD MAGAZINE HD
-http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3550
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2e8Q-A24wPDJH8nqWwn5ulD9h2sFDX6796A&usqp=CAU"group-title="TDA BS.AS",VOLVER
-http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3544
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png"group-title="TDA BS.AS",TELEMAX HD  26.3
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
+https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://d9zuehkdkxba0.cloudfront.net/wp-content/uploads/2023/06/TNT-Novelas-y-Claro-Video.jpg"group-title="TDA BS.AS",TNT NOVELAS 
-http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/162945
-
-
-#EXTINF:-1 tvg-logo="https://kanalddrama.com/assets/img/logo_bottom2.png"group-title="TDA BS.AS",KANAL D DRAMA
-https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/cb573d167d6c648d98d43d6ecef942824a371fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c505677a864c30d03c7db0db82371254b2085fad27aa8871009b2df0d2a34b37b1c5aee4953c9352262c9e51f3f803f9e70115cbd5a391861dbfd41d60e36b8fc169b2370d0f8cd166c2e0100864d3bb0e21dfaa0bf4241c66cb1c2440aca7210f88343cdca1ca585d3589b5d8775f104e0cda2d28f4592e5c035f815eb7b5c0b7533cad63bd79b5ce6889f383bc93c791e4c51abf2c2fb4b7187114259b5f99dbb35fc159dd07583663289fbf925f05861fc2168dd836f92efd2fe50463caad0526f26d29dcae8c8144373e266c093b040738ce21c3866c468ca2b2839ea8ea3c9557274e4da0e8aba7d1878e783449599b7c199d86ef12d44b8a6d6e251605b660a0d951d83937fde3a971ec2aa4279081f16f9f230b55ea7bbbb5347a720271772c7dca9d7ae7f4445eb6d1e48e163d814247ecb316268ec23f8d51e798c2805960a1cf24a30937843d94634c6f6ea1c32b9d2c60daa21bff542feff0cbc75671923bdf63e504c483d81bf3d4d03548e64b6839fc6372b15e5fbc9b1f26369267745025cdcb0b73ecbdf92725d01d71a664164001b9333d36bf4095d4f7b9a499dff5f34cd2d0919cb8b731d56659dcdf1a682d5c14bfc3fe5caef2a2634572ce97d55664ddba48254f8771a2f2e13d0413114ee521413b9c589c8968267c299249939641571ccbf42125e1c203578f6fa0ff650e68112b09fb83e9dbef7582fe20fa20c038bdedb1e9fde80ca5c1a9ead2d7154ba9e06972378e055b80687d079d4b5153614334e4dc8ed05ad08b38aea0e8ea6f577032d6de1aa11a20e/127/1280x720_1970777/index.m3u8
-http://23.131.184.152:25461/live/Daniel13/lagidell1396/165282.ts?token=TRNYU0BaEVkUDFdTBFRSCV1XDlYCAgUDBlUEVFJSUwgCCAUKUVQFUgUbT0NDERBcBVhnWQUXDFcDUARcUE5ERUVUQm1aVhFZFA9SVgJVQBVGQVFdBBcMVwNdDlVXUF4ABR0SQlpWEVkUAVZVBUdOGwFNTFUTW1cKagFTEgsBAxIMX0VeXx4RDFhmBwRdBAxdRg8aAEMZFA9GFRReDBcKXBoTUltHQFIXUxtZQwJUWghGGRpTDkBYEkccFF5AIzQSGhNVSkdXXRBfVg1DCkcWSkYZGlkSakQDRhFEAQMPA0IUCxICER4RDldBPAJfCwxcB0FRXw9GFFwXVxRIQA8JXl9FX0BsQloHFANBVQVTURsZ
-http://23.131.184.152:25461/live/Daniel13/lagidell1396/165282.ts?token=TRNYU0BaEVkUAAdSA1dTXFMDDlMEVlQCB1QPBltSVlVTV1RXVlYFWw4bT0NDERBcBVhnWQUXDFcDUARcUE5ERUVUQm1aVhFZFA9SVgJVQBVGQVFdBBcMVwNdDlRVU1QFDh0SQlpWEVkUC1tRAVxAFUZQQEQER1gHWTpSARQLBVUUC15HX14fQVlXPAVVCANXABcCElEXGkRcFkZGWAwTXFodElBaRkECQlxBWxJXUwtUFxQSAlpDCEEXT0ZYQCdiFB0SV0tGVg1FUAwPEl9ATRcXFBIIRmkUUBZCFgcDC1VEEwoQAxAfQVtYGz5TCgxXAVZMWQ5bRUQPRwRGTkALX1hYRF1BbUMKUhtZQwRQVApGSA==
-
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.ATVSUr.png.33e9a3a9b2a89d60bf03986867fb3884.png"group-title="TDA BS.AS",ATV SUR 
-https://d3txgn7b0ej9cy.cloudfront.net:443/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png"group-title="TDA BS.AS",ATV HD
-https://d22ast2s6i1kcc.cloudfront.net:443/hls/atv_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://contactodeportivo.pe/wp-content/uploads/2021/10/CONTACTO-DEPORTIVO.png"group-title="TDA BS.AS",CONTACTO DEPORTIVO 
 
 
 
@@ -226,18 +203,12 @@ https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA BS.AS", AMÉRICA  36.1
-http://tv.dominiotv.xyz:25461/live/TomaSegura/63b84m/52536.ts
-http://23.131.184.132:25461/monicaferraz/518260/1155829?token=GENYUUEOGwkbXQVWBlcKUldWAVULWVVVBAdQVlNWV1QAVAdUVgMIClsbGRZER0pWAlhqXVxDWwEAA1MNB1xOExYSVUJtD10RAxsHBQYACgBBGRdAUQwEEgsHUA0EUloGUlADHBAWUFcbAxcHBgIPA0EZF1FAFQRCX1cKalEAFFgABBIKXBNVXxUbWlpoV11eAltRFgJDURIdFA9GRUdYXxYNXBwQBFBHS1hBURUJGgFSAhcYGgIORV9CFEwXX0BwMUMcElceTVZXSlxbWRECERdGFxgaCBJvQ1MVQUcAA1wGExIKEFYbHxtUVExoUFddDVBWQFEOD0MTDEQHF0lAXAwPWURdFGZDUF0XDhUACgZXF0g=
-
 
 #EXTINF:-1 tvg-="https://vod.magma.qaotic.net/media/posters-live/cronica/placa_cronica2019.jpg"group-title="TDA BS.AS", CRÓNICA   24.4
 http://50.7.66.234:8080/monicaferraz/518260/4188
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="TDA BS.AS",A24 HD
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/d384a0cd-1561-40e0-8211-a84fb13fa118:SCL/variant/0c9f77ea95444cbfd46a0108e4f60b04/bandwidth/1500000.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1687747479/ei/N6eYZJaIIZiRlu8PzcaPkAo/ip/3.129.111.220/id/QGpHLgRnrx4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-uxax4vopj55gb-x1xk.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/qEK7B7DbGiqLYccdZdSoUf8BwO9UOgYxsUck2zoM7Q/vprv/1/playlist_type/DVR/initcwndbps/820000/mh/6d/mip/186.132.18.151/mm/44/mn/sn-uxax4vopj55gb-x1xk/ms/lva/mv/m/mvi/5/pcm2cms/yes/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246,24362685,24362687/beids/24350018/mt/1687725650/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgJwBGgWY4Zmtz5jlupQRVJsp5GV39GPhn8TtF1fuayIsCIA7FjEionpTCEuD-nxkd6OEbThi_s0NHS37fRv6ti7o0/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRQIhAKi_8lIfpX8MypXcMk45AOScsGgFBDLB1-kXvqELkrSEAiB6i1LtHSydUqypZnu_-vGxKXLzBMVCxxTBpc0mZgwWqA%3D%3D/playlist/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png"group-title="TDA BS.AS", ENCUENTRO HD  22.1
@@ -253,9 +224,34 @@ https://538d0bde28ccf.streamlock.net:443/live-cont.ar/cinear/chunklist_w17931585
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png"group-title="TDA BS.AS",TELEMAX HD  26.3
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
-https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es"group-title="TDA BS.AS",CIUDAD MAGAZINE HD
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3550
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2e8Q-A24wPDJH8nqWwn5ulD9h2sFDX6796A&usqp=CAU"group-title="TDA BS.AS",VOLVER
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3544
+
+
+#EXTINF:-1 tvg-logo="https://d9zuehkdkxba0.cloudfront.net/wp-content/uploads/2023/06/TNT-Novelas-y-Claro-Video.jpg"group-title="TDA BS.AS",TNT NOVELAS 
+http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/162945
+
+
+#EXTINF:-1 tvg-logo="https://kanalddrama.com/assets/img/logo_bottom2.png"group-title="TDA BS.AS",KANAL D DRAMA
+https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/cb573d167d6c648d98d43d6ecef942824a371fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c505677a864c30d03c7db0db82371254b2085fad27aa8871009b2df0d2a34b37b1c5aee4953c9352262c9e51f3f803f9e70115cbd5a391861dbfd41d60e36b8fc169b2370d0f8cd166c2e0100864d3bb0e21dfaa0bf4241c66cb1c2440aca7210f88343cdca1ca585d3589b5d8775f104e0cda2d28f4592e5c035f815eb7b5c0b7533cad63bd79b5ce6889f383bc93c791e4c51abf2c2fb4b7187114259b5f99dbb35fc159dd07583663289fbf925f05861fc2168dd836f92efd2fe50463caad0526f26d29dcae8c8144373e266c093b040738ce21c3866c468ca2b2839ea8ea3c9557274e4da0e8aba7d1878e783449599b7c199d86ef12d44b8a6d6e251605b660a0d951d83937fde3a971ec2aa4279081f16f9f230b55ea7bbbb5347a720271772c7dca9d7ae7f4445eb6d1e48e163d814247ecb316268ec23f8d51e798c2805960a1cf24a30937843d94634c6f6ea1c32b9d2c60daa21bff542feff0cbc75671923bdf63e504c483d81bf3d4d03548e64b6839fc6372b15e5fbc9b1f26369267745025cdcb0b73ecbdf92725d01d71a664164001b9333d36bf4095d4f7b9a499dff5f34cd2d0919cb8b731d56659dcdf1a682d5c14bfc3fe5caef2a2634572ce97d55664ddba48254f8771a2f2e13d0413114ee521413b9c589c8968267c299249939641571ccbf42125e1c203578f6fa0ff650e68112b09fb83e9dbef7582fe20fa20c038bdedb1e9fde80ca5c1a9ead2d7154ba9e06972378e055b80687d079d4b5153614334e4dc8ed05ad08b38aea0e8ea6f577032d6de1aa11a20e/127/1280x720_1970777/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.ATVSUr.png.33e9a3a9b2a89d60bf03986867fb3884.png"group-title="TDA BS.AS",ATV SUR 
+https://d3txgn7b0ej9cy.cloudfront.net:443/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png"group-title="TDA BS.AS",ATV HD
+https://d22ast2s6i1kcc.cloudfront.net:443/hls/atv_720.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.tastemade.com/_next/static/image/public/assets/images/og/tastemade_home.188256ae6126fcb3b1407c78c73c5075.png"group-title="TDA BS.AS",TASTEMADE EN ESPAÑOL
