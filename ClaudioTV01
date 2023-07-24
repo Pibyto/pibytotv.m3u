@@ -819,6 +819,7 @@ http://elmonkey.us:25461/Victor/Victor/91113
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",CINECANAL HD
+http://elmonkey.us:25461/Victor/Victor/36
 http://50.7.66.234:8080/monicaferraz/518260/1155785
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4068
 
@@ -847,12 +848,14 @@ http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4037
 
 
 
-#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",FILM ARTS
+http://elmonkey.us:25461/Victor/Victor/252
 
 
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",PARAMOUNT 
+http://elmonkey.us:25461/Victor/Victor/251
 http://50.7.66.234:8080/monicaferraz/518260/1155799
 
 
