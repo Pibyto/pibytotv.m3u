@@ -870,11 +870,12 @@ http://50.7.66.234:8080/monicaferraz/518260/1155789
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO
+http://elmonkey.us:25461/Victor/Victor/250
 http://50.7.66.234:8080/monicaferraz/518260/1155792
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4112
 
 
-#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO 2
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO 2http://elmonkey.us:25461/Victor/Victor/88
 http://50.7.66.234:8080/monicaferraz/518260/1155794
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4095
 
@@ -889,7 +890,8 @@ http://elmonkey.us:25461/Victor/Victor/89
 
 
 
-#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO MUNDI
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO POP
+http://elmonkey.us:25461/Victor/Victor/98
 http://elmonkey.us:25461/Victor/Victor/250
 
 
