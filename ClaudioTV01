@@ -714,6 +714,8 @@ http://elmonkey.us:25461/Victor/Victor/115
 http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/338170.ts
 
 
+#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",CINEMA
+http://elmonkey.us:25461/Victor/Victor/22
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",TBS HD
