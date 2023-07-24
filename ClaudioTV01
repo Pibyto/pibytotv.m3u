@@ -65,6 +65,8 @@ https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1652251824.m3u8?PlaylistM3U
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/166
 
 
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/chinola-tv.png"group-title="TDA BS.AS",CHINOLA TV
+https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
 #EXTINF:-1 tvg-logo="https://terrortv.com/wp-content/uploads/2020/03/terror-tv-logo-v6b.png"group-title="TDA BS.AS",TERROR TV HD
