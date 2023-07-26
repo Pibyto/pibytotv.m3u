@@ -123,8 +123,16 @@ http://tv.dominiotv.xyz:25461/live/TFerrufino30/2628430/52518.ts
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.291385961_TVPNuevoLogo(2021)-VersinBlanca.png.38c313af76b46808c0042f4ec947544a.png"group-title="TDA BS.AS",TV PUBLICA   23.2
+https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png"group-title="TDA BS.AS",IP   24.5
 https://d1nmqgphjn0y4.cloudfront.net:443/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/800px-Net_TV_logo.png"group-title="TDA BS.AS", NET TV HD  27.2
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
 
@@ -163,8 +171,6 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000
 
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.291385961_TVPNuevoLogo(2021)-VersinBlanca.png.38c313af76b46808c0042f4ec947544a.png"group-title="TDA BS.AS",TV PUBLICA   23.2
-https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 
 
 
@@ -174,9 +180,6 @@ https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_da
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3556
 http://tv.dominiotv.xyz:25461/live/IsaiasTay/7j384n/52521.ts
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/800px-Net_TV_logo.png"group-title="TDA BS.AS", NET TV HD  27.2
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GZEwdVV5DTY/maxresdefault.jpg"group-title="TDA BS.AS",LA NACION+
@@ -189,7 +192,7 @@ https://live-edge01.telecentro.net.ar/live/smil:rltn.smil/chunklist_w1910225096_
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUAIPHs0xkgzCo9RhTiB5R5SR6Ot1N4PH_Sg&usqp=CAU"group-title="TDA BS.AS",CONEXION ABIERTA
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/af2996eb4205409d96f4072871b1cc9e/manifest.m3u8?p=79&s=1690383052&e=1690383172&h=3fff762491730761008bd4ca3b03fb8b
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/af2996eb4205409d96f4072871b1cc9e/chunklist_b4628000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png"group-title="TDA BS.AS",TELEMAX HD  26.3
