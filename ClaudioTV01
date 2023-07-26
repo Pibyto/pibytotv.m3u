@@ -184,8 +184,12 @@ http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3538
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",LATINA TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpRFauHyIxrqa5iPuu59-4cCjtC1_ekZGfdQ&usqp=CAU"group-title="TDA BS.AS",LATINA TV
 https://live-edge01.telecentro.net.ar/live/smil:rltn.smil/chunklist_w1910225096_b1428000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUAIPHs0xkgzCo9RhTiB5R5SR6Ot1N4PH_Sg&usqp=CAU"group-title="TDA BS.AS",CONEXION ABIERTA
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/af2996eb4205409d96f4072871b1cc9e/manifest.m3u8?p=79&s=1690383052&e=1690383172&h=3fff762491730761008bd4ca3b03fb8b
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png"group-title="TDA BS.AS",TELEMAX HD  26.3
