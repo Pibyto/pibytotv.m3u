@@ -1,4 +1,3 @@
-
 #ClaudioTV01
 
 
@@ -80,6 +79,12 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AD",CANAL LUZ HD ROSARIO
+https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS", MISION VIDA TV HD
+https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
 
 
@@ -801,20 +806,17 @@ http://elmonkey.us:25461/Victor/Victor/85
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",GOLDEN PREMIER
-http://elmonkey.us:25461/Victor/Victor/245
 http://50.7.66.234:8080/monicaferraz/518260/1148196
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJl8TaQQy68mwfhYiFecpRDc/ts
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",AMC HD
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/156117.m3u8
 http://50.7.66.234:8080/monicaferraz/518260/4118
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4118
 
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",DHE HD
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/156129.m3u8
 http://50.7.66.234:8080/monicaferraz/518260/24180
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/24180
 
@@ -825,7 +827,7 @@ http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/51456.ts
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM", MOVISTAR SERIEMANIA 2
-http://elmonkey.us:25461/Victor/Victor/91113
+
 
 
 
@@ -837,19 +839,15 @@ http://elmonkey.us:25461/Victor/Victor/91113
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",CINECANAL HD
-http://elmonkey.us:25461/Victor/Victor/36
-http://50.7.66.234:8080/monicaferraz/518260/1155785
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4068
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",TNT HD
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/251048.m3u8
 http://50.7.66.234:8080/monicaferraz/518260/4010
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4103
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",LIFETIME
-http://elmonkey.us:25461/Victor/Victor/95
 http://185.135.157.157:25461/live/Daniel13/lagidell1396/52521.ts?token=TRNYU0BaEVkUCVYHBlMDCFQGWwNVVA9TAgZXXVBRBAVUVVNUCgQBAVcbT0NDERBcBVhnWQUXDFMHUARVTkATQ1NDb1tXEAlBAAhUUwBHThsQXFVVQw8HUA1dB1FQU14EGhNAW1cQCUEFClJZBkdOGwFNTFUTW1cKagFTEgsBAxIMX0VeXx4RDFhmBwRdBAxdRg8aAEMZFA9GFRReDBcKXBoTUltHQFIXUxtZQwJcUQFGGRpTDkBYEkccFF5AIzQSGhNVSkdXXRBfVg1DCkcWSkYZGlkSakQDRhFEAQMPA0IUCxICER4RDldBPAJfCwxcB0FRXw9GFFwXVxRIQA8JXl9FX0BsQloHFANBVQJRURsZ
 
 
@@ -861,21 +859,18 @@ http://185.135.157.157:25461/live/Daniel13/lagidell1396/52521.ts?token=TRNYU0BaE
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",A&E HD
-http://elmonkey.us:25461/Victor/Victor/6
 http://50.7.66.234:8080/monicaferraz/518260/1156013
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4037
 
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",FILM ARTS
-http://elmonkey.us:25461/Victor/Victor/252
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",PARAMOUNT HD
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/251041.m3u8
-http://elmonkey.us:25461/Victor/Victor/251
 http://50.7.66.234:8080/monicaferraz/518260/1155799
 
 
@@ -893,51 +888,42 @@ http://50.7.66.234:8080/monicaferraz/518260/1155789
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/156158.m3u8
-http://elmonkey.us:25461/Victor/Victor/250
 http://50.7.66.234:8080/monicaferraz/518260/1155792
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4112
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO 2
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/156156.m3u8
-http://elmonkey.us:25461/Victor/Victor/88
 http://50.7.66.234:8080/monicaferraz/518260/1155794
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/4095
 
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO +
-http://elmonkey.us:25461/Victor/Victor/90
+
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM", HBO FAMILY
-http://elmonkey.us:25461/Victor/Victor/89
+
 
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO POP
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/156160.m3u8
-http://elmonkey.us:25461/Victor/Victor/98
 http://elmonkey.us:25461/Victor/Victor/250
 
 
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO SIGMATURE
-http://elmonkey.us:25461/Victor/Victor/246
+
 
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM",HBO XTREME
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/156161.m3u8
-http://elmonkey.us:25461/Victor/Victor/91100
 http://50.7.66.234:8080/monicaferraz/518260/44341
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8226
 
 
 #EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/cinepremium.png"group-title="PREMIUM", TELEMUNDO  DALLAS HD
-http://elmonkey.us:25461/Victor/Victor/123036
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/3794
 
 
@@ -2172,8 +2158,6 @@ https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="CRISTIANO",CANAL LUZ HD ROSARIO
 https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
-https://g1.vxral-hor.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p.m3u8
-
 
 
 #EXTINF:-1 tvg-logo=""group-title="CRISTIANO", MISION VIDA TV HD
