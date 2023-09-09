@@ -19,16 +19,11 @@
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mercado-pago-logo-52B7182205-seeklogo.com.png"group-title="TDA BS.AS",👉clau.rub.ka👈PODES DONAR A VOLUNTAD
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/172272
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20230712/imag/foto_0000000320230712005639_GH-ESQUINERO-16-9.png"group-title="TDA BS.AS",GRAN HERMANO CHILE
-https://i.mjh.nz/PlutoTV/647f7f8d8e3c0a0008d552cb-alt.m3u8
-http://stitcher-ipv4.pluto.tv:80/v1/stitch/embed/hls/channel/647f7f8d8e3c0a0008d552cblivestitch/2977158/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-ca69eccd-c71b-4776-b013-97b725aa13f7&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
 
 
 
@@ -37,7 +32,6 @@ http://stitcher-ipv4.pluto.tv:80/v1/stitch/embed/hls/channel/647f7f8d8e3c0a0008d
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"group-title="TDA BS.AS",ESPN PREMIUM HD
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298158
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/138034
 http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/165275.ts
 
@@ -47,17 +41,6 @@ http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/165275.ts
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/132285
 http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/87964.ts
 
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHdJnagho3lhO_AOFc6MyZgbVYgTZxpOLjDw&usqp=CAU"group-title="TDA BS.AS",TUDN (LIGA EE.UU, MESSI😁😁)
-http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/131158
-http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/132284
-http://elmonkey.us:25461/Victor/Victor/73545
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/By40tOaIIAMtCjv.jpg:large"group-title="TDA BS.AS",TYC SPORTS HD  CABA
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/156189.m3u8
-http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/131157
-http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/132284
 
 
 
@@ -98,17 +81,11 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA BS.AS",TELEMIX! HD GLEW
-https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
-https://panel.dattalive.com:443/8068/8068/chunklist_w640227651.m3u8?WebM3UCL
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqSWyRQN5WbtHlv_Wt9u4Z-mbZ40v0xp0Kg&usqp=CAU"group-title="TDA BS.AS",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
-https://panel.dattalive.com:443/8166/8166/playlist.m3u8
-http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/138.m3u8
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="TDA BS.AS", CINCO TV HD  TIGRE
@@ -117,14 +94,11 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA BS.AS",EL TRECE  33.1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3194
-http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/3568
 https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA BS.AS", TELEFE  34.1
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/3199
 http://tv.dominiotv.xyz:25461/live/TFerrufino30/2628430/52518.ts
 
 
@@ -165,7 +139,6 @@ http://50.7.66.234:8080/monicaferraz/518260/1155832
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA BS.AS",MULTIVISION HD
-http://elmonkey.us:25461/Victor/Victor/91139
 https://panel.dattalive.com:443/8250/8250/playlist.m3u8
 https://panel.dattalive.com:443/8250/8250/chunklist_w503911051.m3u8
 
@@ -177,7 +150,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/c
 
 #EXTINF:-1 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png"group-title="TDA BS.AS",CANAL 4 HD
 https://5cd577a3dd8ec.streamlock.net:443/canal4/smil:manifest.smil/chunklist_w889191551_b316000.m3u8
-http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1064814838_b316000.m3u8?PlaylistM3UCL
+
 
 
 
@@ -282,12 +255,6 @@ http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/162945
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/cb573d167d6c648d98d43d6ecef942824a371fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c505677a864c30d03c7db0db82371254b2085fad27aa8871009b2df0d2a34b37b1c5aee4953c9352262c9e51f3f803f9e70115cbd5a391861dbfd41d60e36b8fc169b2370d0f8cd166c2e0100864d3bb0e21dfaa0bf4241c66cb1c2440aca7210f88343cdca1ca585d3589b5d8775f104e0cda2d28f4592e5c035f815eb7b5c0b7533cad63bd79b5ce6889f383bc93c791e4c51abf2c2fb4b7187114259b5f99dbb35fc159dd07583663289fbf925f05861fc2168dd836f92efd2fe50463caad0526f26d29dcae8c8144373e266c093b040738ce21c3866c468ca2b2839ea8ea3c9557274e4da0e8aba7d1878e783449599b7c199d86ef12d44b8a6d6e251605b660a0d951d83937fde3a971ec2aa4279081f16f9f230b55ea7bbbb5347a720271772c7dca9d7ae7f4445eb6d1e48e163d814247ecb316268ec23f8d51e798c2805960a1cf24a30937843d94634c6f6ea1c32b9d2c60daa21bff542feff0cbc75671923bdf63e504c483d81bf3d4d03548e64b6839fc6372b15e5fbc9b1f26369267745025cdcb0b73ecbdf92725d01d71a664164001b9333d36bf4095d4f7b9a499dff5f34cd2d0919cb8b731d56659dcdf1a682d5c14bfc3fe5caef2a2634572ce97d55664ddba48254f8771a2f2e13d0413114ee521413b9c589c8968267c299249939641571ccbf42125e1c203578f6fa0ff650e68112b09fb83e9dbef7582fe20fa20c038bdedb1e9fde80ca5c1a9ead2d7154ba9e06972378e055b80687d079d4b5153614334e4dc8ed05ad08b38aea0e8ea6f577032d6de1aa11a20e/127/1280x720_1970777/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_04/large.ATVSUr.png.33e9a3a9b2a89d60bf03986867fb3884.png"group-title="TDA BS.AS",ATV SUR 
-https://d3txgn7b0ej9cy.cloudfront.net:443/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-5506CAAD40-seeklogo.com.png"group-title="TDA BS.AS",ATV HD
-https://d22ast2s6i1kcc.cloudfront.net:443/hls/atv_720.m3u8
 
 
 
@@ -301,23 +268,6 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1378
 
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/large.gallery_11054_7_8175.png.9537da21efd71f08d2f012aed36714c3.png"group-title="TDA BS.AS",IVC HD
-http://tv.dominiotv.xyz:25461/live/TFerrufino30/2628430/322410.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png"group-title="TDA BS.AS", CANAL 4 HD
-http://tv.dominiotv.xyz:25461/live/IsaiasTay/7j384n/203194.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png"group-title="TDA BS.AS",CANAL 5 HD
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Canal_10_OFICIAL2_20220128182646.png/revision/latest/scale-to-width-down/250?cb=20220202055120&path-prefix=es"group-title="TDA BS.AS",CANAL 10
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png"group-title="TDA BS.AS",TELE HD
-http://tv.dominiotv.xyz:25461/live/IsaiasTay/7j384n/203186.ts
 
 
 
@@ -388,8 +338,6 @@ https://video.trixserver.com:8443/uv038/uv038/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="TDA INTERIOR",TV+
-https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8?PlaylistM3UCL
-https://inliveserver.com:1936/17012/17012/chunklist_w1522246782.m3u8?PlaylistM3UCL
 https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 
 
@@ -397,11 +345,7 @@ https://streamcasthd.com:19360/tvmas/tvmas.m3u8
 https://vd01.streaminghd.net.ar:3451/stream/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRdRNL08QBtNt4ORKbuvGQ8S9YXy1-FY5ng&usqp=CAU"group-title="TDA INTERIOR",CHABAS  9 HD
-https://tv.initium.net.ar:3235/live/grupocitylive.m3u8?PlaylistM3UCL
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CqMF1HTz_kTWbot_7M3pDn-UfUkq1-_cYXSuhFas_Rv3n_DSO6c4C68vI3-8fNPvckbbP5iu6aobBTyVGiBQIBbhHdiBaC8niE1kM-5VwxIQpGvrjfpqgtu0Hs6GLyZM3SrE1Oc3Yit82epiMyAYYYzi2qeELc7NED-KqZfdjh8vQD4zrEv6v8TxzYlMPpzw-oznCOCdQXPqSaVgRb0-IlasInE8W9kyI4Q-8JEGTF_iDiic9he7d17hf13Zn6_WXQG7KWCArh8oR6uFChNiyk8nmHSd2ybccVG7VDKHz9HYbOg6P_DMFl3iXq66pdy4UdfR4P3kTbNJpKfwxVLaaEzHmOkrcAoJkRLYqJ53T2YoFNAO2NPtHrXe5Ux8bNE8xzRzJkCLhQzGR_ab0JHzul-Va_8gxKZtm8NuRM_lrrtKz_-m0yxDuxOeILpUHi7RlAs9x9dVvMIRQzip1bkzQ7yD8bjIA2IUX39oSqrGYKMgNR0JMVco3U95493KdQbvGX_WIwOkMeSAwsWHpSGYHBoRAVFpr9272pZfB-6aHEqXv-AEAr3NFaRlAWVXAt_cUqRGd7pPtW2vylOgIdVilHeASCK4Qr6SGCqH2g30atUI5L34E3CJzl0xg1EGwUP11uJVOcd8ftMidBiWzHt1JXgG79gYt7bGMheE32zINiAeXogpw35By6utRzqqACuZDHcXxYGS7MMgahg-_aWuIOwJDmADDMa8kDX2-eSodn7ocBuC4cFfEQCKjPDaLTc6JJiiov7ZeqcCnv7FVMonuyzsUxLXDbkFT1U0ydd5JZG3D-xpu-8LC_YZrOYVsLsc4pzTERBZSPztigNCOQQD_2_1peYA2oQ0WMEX5t8dH-IqLBE_EPlum3LN4glgiZgrJvomUgd1Ggzchtz_G3D7B_MoNzggASoJdXMtZWFzdC0xMK8F.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CsEFCGtL6W-vTJV5Jw_rCaXYOJjfa4RVXg0x6Yt7JbSyuAZ4b9C-Pzx4eQECA_hSyjdowYvVZLs1A51nlGODoGNEyTG7FvyMtTZ0DKaA1v0T9K4yzX3HgfLtPf6Gepd3JgTbc7JntNZDdGbLAPlDpxfh-rOWA4alXI9XpLoMDihYO21SohHWKbIZm27BRCEsA5nBf6sQjfieKB9ZLObX1I7uuI8RQRoSdl31A4VSjDyWtb8fV3Qhdh_zZS2JgTl9YHbkoMJNdsDd2gDs4VOEUWdhudRNxEzFE39wZNvSNK90SlaNLIlkEt6ZbxTf6qSa0WMB5fvb5L6VMN3oJlRQYw9X2dCOcO0JHiwwLLpZAembvTy3xNoQPE_Gd1Ze5jSUvjLDbwiEdS3IKF5SfHt1ARrG8gHmVmL533T7jPyAc3ZJve0gRYGtLONSRVb067AmjP9mFQcQAhP8r0bKVCNa3Is4xApsKI0QrxXcXItdiulSNH8AXUcfRRQ-gDoAq8l1y2PDcmULvRRwmvHYUrIzvlXhX_71VwmJmQVUTMJ7aKNGPL2ZQoVAhQ6zQL8p3fJ54OJP8qzgLfYy6-GckmvXmeqxi74WBHJtfgPehZbeXtFEwNsLHYNR4s6voJNYDAL526dRznxre0l2vn_6qFHB5mDRJh-mzyYDIKwjZRvx7SXBC7Fe62mJWHAKOYZjbN-XXFyyfOD0Plokfei0Gh-ezcbPKVk0qXKgO8cAn0irF8bB4hgbgITiOmsM4mxR0AcGCGneR5Uph5A0sdjx787Og9KTBz1mxWpjUPVX7183zIJFEu90kl_LP0Gju1TjJOxKjQcnsmniti3s2178CUtPCkhS39XoGTdNN_suiICoEniejfL-V6Nr2EOnNpYI6Nhgg-upgnhHURpBnI-0vMMRNhy8ugClyxrxQlVb4O2kzQE11LkzGgz1pOH75LxB1Lcl5RcgASoJdXMtZWFzdC0xMK8F.m3u8
- 
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU"group-title="TDA INTERIOR", CANAL 34 HD  6.11 SAN JUAN 
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
