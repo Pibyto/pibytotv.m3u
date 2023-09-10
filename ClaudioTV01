@@ -41,16 +41,16 @@ http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/132285
 http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/87964.ts
 
 
-
-
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TDA BS.AS",PELÍCULAS_MANIA HD
+https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TDA BS.AS",PELÍCULAS_MANIA 2 HD 
 https://vdo.miserver.pro:3591/live/parentesistvlive.m3u8?PlaylistM3UCL
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TDA BS.AS",PELÍCULAS_MANIA 2 HD
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TDA BS.AS",PELÍCULAS_MANIA 3 HD
 https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?PlaylistM3UCL
 
 
