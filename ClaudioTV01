@@ -57,6 +57,7 @@ https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?Playlist
 
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TDA BS.AS",PELÍCULAS_MANIA 4 HD
+https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u8
 https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w741030069.m3u8
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8?PlaylistM3UCL
 
@@ -118,7 +119,7 @@ https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA BS.AS", TELEFE  34.1
-http://tv.dominiotv.xyz:25461/live/TFerrufino30/2628430/52518.ts
+
 
 
 
@@ -146,14 +147,12 @@ http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w196303941_
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA BS.AS", AMÉRICA  36.1
-http://tv.dominiotv.xyz:25461/live/TomaSegura/63b84m/52536.ts
 http://23.131.184.132:25461/monicaferraz/518260/1155829?token=GENYUUEOGwkbXQVWBlcKUldWAVULWVVVBAdQVlNWV1QAVAdUVgMIClsbGRZER0pWAlhqXVxDWwEAA1MNB1xOExYSVUJtD10RAxsHBQYACgBBGRdAUQwEEgsHUA0EUloGUlADHBAWUFcbAxcHBgIPA0EZF1FAFQRCX1cKalEAFFgABBIKXBNVXxUbWlpoV11eAltRFgJDURIdFA9GRUdYXxYNXBwQBFBHS1hBURUJGgFSAhcYGgIORV9CFEwXX0BwMUMcElceTVZXSlxbWRECERdGFxgaCBJvQ1MVQUcAA1wGExIKEFYbHxtUVExoUFddDVBWQFEOD0MTDEQHF0lAXAwPWURdFGZDUF0XDhUACgZXF0g=
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG"group-title="TDA BS.AS",C5N
-http://tv.dominiotv.xyz:25461/live/IsaiasTay/7j384n/52535.ts
 http://50.7.66.234:8080/monicaferraz/518260/1155832
 
 
