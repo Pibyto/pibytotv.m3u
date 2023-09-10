@@ -93,12 +93,17 @@ https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w185088520
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=h:99,cg:true,m/qt=q:100/ll"group-title="TDA BS.AS",EXTREMA TV HD
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="TDA BS.AS", CINCO TV HD  TIGRE
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",TEATRIX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaBY_U6tIteHzbOVyb3DHo3Lm0DzHJ3IqBUQ&s"group-title="TDA BS.AS",TEATRIX
 https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?PlaylistM3UCL
 
 
@@ -1043,50 +1048,41 @@ http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/94103.ts
 
 
 #EXTINF:-1 tvg-logo="https://www.boutiqueautomovil.com.ar/wp-content/uploads/2019/05/logo-mercadopago.png"group-title="DEPORTES",👉clau.rub.ka👈PODES DONAR A VOLUNTAD
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/111541.m3u8
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.1596478674_ESPNPremium.png.5cf469a3d44b66226dcc85a3a9a25de7.png"group-title="DEPORTES",ESPN PREMIUM
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/81254.m3u8
 http://50.7.66.234:8080/monicaferraz/518260/4193
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png"group-title="DEPORTES",TNT SPORTS
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/81251.m3u8
 http://50.7.66.234:8080/monicaferraz/518260/1155814
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/TyC_Sports_%281994%29.png/revision/latest?cb=20190620182054&path-prefix=es"group-title="DEPORTES",TyC SPORTS
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/81252.m3u8
 http://ac.ntvlatino.com:8080/k3streams/hYT9S77Szq225/8247
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="DEPORTES",ESPN HD
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/81256.m3u8
 http://50.7.66.234:8080/monicaferraz/518260/1090736
 
 
 
 #EXTINF:-1 tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png"group-title="DEPORTES",ESPN 2
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/81258.m3u8
 http://50.7.66.234:8080/monicaferraz/518260/1089695
 
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.e4d435abe2c5fa0680f4f5fe2aa6291a.png"group-title="DEPORTES",FOX 1
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/50495.m3u8
 http://50.7.66.234:8080/monicaferraz/518260/1090738
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2023_02/large.1344882745_FOXSports2ARG(2023-).png.4560f799f517d9a16ea1337296a0c940.png"group-title="DEPORTES",FOX 2
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/50507.m3u8
 http://50.7.66.234:8080/monicaferraz/518260/1090741
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png"group-title="DEPORTES",D' SPORTS
-http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/50724.m3u8
 http://daleplaypro.com:8080/live/Jorgenay2022/Cel955808388/50492.m3u8
 
 
