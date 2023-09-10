@@ -98,6 +98,10 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",TEATRIX
+https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA BS.AS",EL TRECE  33.1
 https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
