@@ -56,6 +56,10 @@ https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?Playlist
 
 
 
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TDA BS.AS",PELÍCULAS_MANIA 4 HD
+https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/chinola-tv.png"group-title="TDA BS.AS",CHINOLA TV
 https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
