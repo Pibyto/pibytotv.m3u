@@ -341,12 +341,12 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://solivetv.net/wp-content/uploads/2020/09/logo2.png"group-title="TDA INTERIOR",CANAL 2 SOLIVE TV HD
 https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8?PlaylistM3UCL
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8?PlaylistM3UCL
-https://stmv1.cnarlatam.com:443/solivetv/solivetv/chunklist_w1359777116.m3u8?PlaylistM3UCL
+
+
 
 
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/el-palomar-tv.png"group-title="TDA INTERIOR",EL PALOMAR TV
-https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
+https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?PlaylistM3UCL
 https://video.trixserver.com:8443/uv038/uv038/playlist.m3u8
 
 
@@ -476,8 +476,8 @@ https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA INTERIOR",PANC TV HD 15.1 TUCUMÁN
-https://video.trixserver.com:8443/uv096/uv096/chunks.m3u8?nimblesessionid=14542641
-https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8?PlaylistM3UCL
+https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-3-pinamar.png"group-title="TDA INTERIOR",CANAL 3 HD  3.0  PINAMAR
@@ -557,7 +557,8 @@ https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b166
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA INTERIOR",10 HD  10.1  MDP
-http://g3.vxral-slo.transport.edge-access.net:80/a15/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+https://g5.mc-slo.transport.edge-access.net/a15/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true&PlaylistM3UCL
+
 
 
 
