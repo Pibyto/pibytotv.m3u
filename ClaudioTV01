@@ -28,6 +28,17 @@ https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w185088520
 https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png"group-title="TDA BS.AS",CANAL 8 HD  8.1 MDP
+https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA BS.AS",10 HD  10.1  MDP
+https://g4.mc-hor.transport.edge-access.net:443/a13/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png"group-title="TDA BS.AS",EL VIVIENTE TV HD
 https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
 
@@ -129,6 +140,7 @@ https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?Playlis
 
 
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA BS.AS", TELEFE  34.1
+https://edge-live17-sl.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 
 
@@ -157,6 +169,7 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA BS.AS", AMÉRICA  36.1
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/53fc7c76-8c01-49e7-b153-d5260de56fcd:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
 
 
 
@@ -555,7 +568,8 @@ https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b166
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA INTERIOR",10 HD  10.1  MDP
-https://g5.mc-slo.transport.edge-access.net/a15/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true&PlaylistM3UCL
+https://g4.mc-hor.transport.edge-access.net:443/a13/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+
 
 
 
