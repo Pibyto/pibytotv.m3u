@@ -15,10 +15,17 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoBjL0xLCZ5V3zWbfwAWpZjNSk4sfa_fXUiQ&usqp=CAU"group-title="TDA BS.AS",CANAL LUZ HD ROSARIO
+https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA BS.AS",EL TRECE  33.1
 https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png"group-title="TDA BS.AS",EL VIVIENTE TV HD
+https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="TDA BS.AS",CANAL 26  24.2
@@ -33,9 +40,17 @@ https://panel.dattalive.com:443/8250/8250/playlist.m3u8
 https://5cd577a3dd8ec.streamlock.net:443/canal4/smil:manifest.smil/chunklist_w889191551_b316000.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA BS.AS",NEO TV DIGITAL HD. 16.1  CABA
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA BS.AS",GENTV HD  17.3  CABA
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqSWyRQN5WbtHlv_Wt9u4Z-mbZ40v0xp0Kg&usqp=CAU"group-title="TDA BS.AS",BAYRES TV HD
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA BS.AS",COSMOS TV HD
@@ -43,8 +58,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoBjL0xLCZ5V3zWbfwAWpZjNSk4sfa_fXUiQ&usqp=CAU"group-title="TDA BS.AS",CANAL LUZ HD ROSARIO
-https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://zoe.com.uy/wp-content/uploads/2020/09/mvtv-banner.png"group-title="TDA BS.AS", MISION VIDA TV HD
@@ -86,21 +99,6 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA BS.AS",NEO TV DIGITAL HD. 16.1  CABA
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqSWyRQN5WbtHlv_Wt9u4Z-mbZ40v0xp0Kg&usqp=CAU"group-title="TDA BS.AS",BAYRES TV HD
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=h:99,cg:true,m/qt=q:100/ll"group-title="TDA BS.AS",EXTREMA TV HD
