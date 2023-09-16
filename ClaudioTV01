@@ -17,8 +17,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mercado-pago-logo-52B7182205-seeklogo.com.png"group-title="TDA BS.AS",👉clau.rub.ka👈PODES DONAR A VOLUNTAD
-https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
+
 
 
 
@@ -31,15 +31,16 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"group-title="TDA BS.AS",ESPN PREMIUM HD
-http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/165275.ts
+
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png"group-title="TDA BS.AS",TNT SPORTS HD  CABA
-http://tv.dominiotv.xyz:25461/live/Javierc3/60335577/87964.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TDA BS.AS",PELÍCULAS_MANIA HD
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?PlaylistM3UCL
 
 
