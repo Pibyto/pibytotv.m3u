@@ -38,24 +38,35 @@ http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w196303941_
 
 
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png"group-title="TDA BS.AS",UNIFE  25.1
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/manifest.m3u8?p=79&s=1694899058&e=1694899178&h=4b9b7e4f6a45dda9d66762e34ae05b1e
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="TDA BS.AS",ALTAR TV HD
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA BS.AS",MULTIVISION HD
 https://panel.dattalive.com:443/8250/8250/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=h:99,cg:true,m/qt=q:100/ll"group-title="TDA BS.AS",EXTREMA TV HD
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png"group-title="TDA BS.AS",CANAL 4 HD
 https://5cd577a3dd8ec.streamlock.net:443/canal4/smil:manifest.smil/chunklist_w889191551_b316000.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA BS.AS",NEO TV DIGITAL HD. 16.1  CABA
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA BS.AS",GENTV HD  17.3  CABA
@@ -158,8 +169,6 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png"group-title="TDA BS.AS",UNIFE  25.1
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8?p=79&s=1652047786&e=1652047906&h=6e5d72418cb9060ac7bfe5ca
 
 
 
