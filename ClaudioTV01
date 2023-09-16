@@ -101,7 +101,7 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",TELECREATIVA
+#EXTINF:-1 tvg-logo="https://telecreativa.com/logos/telecreativa_black_256.gif"group-title="TDA BS.AS",TELECREATIVA HD
 https://panel.dattalive.com:443/8012/8012/chunklist_w1476221297.m3u8
 
 
