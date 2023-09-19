@@ -28,6 +28,16 @@ https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w185088520
 https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA BS.AS", TELEFE  34.1
+http://50.7.66.234:8080/UY2028/816373917/51071
+
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA BS.AS",EL NUEVE  35.1
+http://50.7.66.234:8080/UY2028/816373917/51072
+
+
+
 
 #EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png"group-title="TDA BS.AS",CANAL 8 HD  8.1 MDP
 https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
@@ -49,16 +59,19 @@ http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w196303941_
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA BS.AS", AMÉRICA  36.1
+http://50.7.66.234:8080/UY2028/816373917/1155829
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/53fc7c76-8c01-49e7-b153-d5260de56fcd:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GZEwdVV5DTY/maxresdefault.jpg"group-title="TDA BS.AS",LA NACION+
+http://50.7.66.234:8080/UY2028/816373917/7976
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png"group-title="TDA BS.AS",UNIFE  25.1
+http://50.7.66.234:8080/UY2028/816373917/23230
 
 
 
@@ -158,21 +171,6 @@ https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?Playlis
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA BS.AS", TELEFE  34.1
-https://siloh-mcdn.plutotv.net/lilo/production/LATAM/Telefe/master.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA BS.AS",EL NUEVE  35.1
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.291385961_TVPNuevoLogo(2021)-VersinBlanca.png.38c313af76b46808c0042f4ec947544a.png"group-title="TDA BS.AS",TV PUBLICA   23.2
 https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 
@@ -194,6 +192,7 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG"group-title="TDA BS.AS",C5N
+http://50.7.66.234:8080/UY2028/816373917/1155832
 
 
 
@@ -205,8 +204,9 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png"group-title="TDA BS.AS",TN HD
+http://50.7.66.234:8080/UY2028/816373917/18766
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-http://tv.dominiotv.xyz:25461/live/IsaiasTay/7j384n/52521.ts
+
 
 
 
@@ -252,11 +252,13 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-="https://seeklogo.com/images/R/Revista_Cr__nica-logo-1CF33BBA8E-seeklogo.com.gif"group-title="TDA BS.AS", CRÓNICA   24.4
+http://50.7.66.234:8080/UY2028/816373917/4188
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="TDA BS.AS",A24 HD
+http://50.7.66.234:8080/UY2028/816373917/51073
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png"group-title="TDA BS.AS", ENCUENTRO HD  22.1
@@ -280,11 +282,13 @@ https://538d0bde28ccf.streamlock.net:443/live-cont.ar/cinear/chunklist_w17931585
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es"group-title="TDA BS.AS",CIUDAD MAGAZINE HD
+http://50.7.66.234:8080/UY2028/816373917/3787
 
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2e8Q-A24wPDJH8nqWwn5ulD9h2sFDX6796A&usqp=CAU"group-title="TDA BS.AS",VOLVER
+http://50.7.66.234:8080/UY2028/816373917/7978
 
 
 
