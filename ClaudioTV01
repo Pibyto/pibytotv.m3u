@@ -244,7 +244,8 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-="https://seeklogo.com/images/R/Revista_Cr__nica-logo-1CF33BBA8E-seeklogo.com.gif"group-title="TDA BS.AS", CRÓNICA   24.4
-http://50.7.66.234:8080/monicaferraz/518260/4188
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="TDA BS.AS",A24 HD
