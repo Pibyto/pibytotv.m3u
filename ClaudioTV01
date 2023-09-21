@@ -132,6 +132,10 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 https://panel.dattalive.com:443/8012/8012/chunklist_w1476221297.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-960x540-000000.jpg"group-title="TDA BS.AS",MEGA CINE TV HD
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TDA BS.AS",PELÍCULAS_MANIA HD
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
