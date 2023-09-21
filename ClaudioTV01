@@ -96,6 +96,11 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w30918240
 https://5cd577a3dd8ec.streamlock.net:443/canal4/smil:manifest.smil/chunklist_w889191551_b316000.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="TDA BS.AS",CANAL+ HD  17.5
+https://tvlive.servicioselbachi.com:3126/hybrid/play.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA BS.AS",NEO TV DIGITAL HD. 16.1  CABA
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -533,13 +538,6 @@ https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Canal5telesol2016logo.png/revision/latest/scale-to-width-down/170?cb=20210525135451&path-prefix=es"group-title="TDA INTERIOR",TLS HD
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="TDA INTERIOR",CANAL+ HD  17.5
-https://tvdatta.com:3451/stream/play.m3u8
-https://tv.tvcontrolcp.com:1936/8010/8010/playlist.m3u8
 
 
 
@@ -2034,8 +2032,8 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UC
 
 
 #EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="CRISTIANO",VIDATV HD
-https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w238752298.m3u8
-https://tv.streaming-chile.com:1936/vidatv/vidatv/chunklist_w1353880876.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png"group-title="CRISTIANO",EL VIVIENTE TV HD
