@@ -150,6 +150,12 @@ https://panel.dattalive.com:443/8012/8012/chunklist_w1476221297.m3u8
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE0I4KajDcoWZQsZCt91bcf5N6yeAa45Ms35e5SaRICJ5cWOIAS1NCArtaUcbnipTFby-lnemBcnnGLxRXdbOZuJUAMYoxenUQA4TuSabhfdO5ixAaFN-ilwkWt1Wr5NaSFymdyStu7TuIyK5MrnXce0pK6NGIq2Ds2Eb2-Hb97Jo6ybDA3BPBV-oD/s250/next-hd.png"group-title="TDA BS.AS", NEXT HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScM5p6_d_zoNwVKZmfax34C5JKRYKm_qqO1g&usqp=CAU"group-title="TDA BS.AS",SISTECOM TV
 https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
 
@@ -1572,8 +1578,6 @@ https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1780444006.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", NEXT HD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MULTIZONAS TELEVISIÓN HD
