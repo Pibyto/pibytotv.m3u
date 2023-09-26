@@ -101,6 +101,9 @@ https://5cd577a3dd8ec.streamlock.net:443/canal4/smil:manifest.smil/chunklist_w88
 https://tvlive.servicioselbachi.com:3126/hybrid/play.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="TDA BS.AS",IU TV HD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+
 
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA BS.AS",NEO TV DIGITAL HD. 16.1  CABA
