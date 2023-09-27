@@ -156,7 +156,8 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScM5p6_d_zoNwVKZmfax34C5JKRYKm_qqO1g&usqp=CAU"group-title="TDA BS.AS",SISTECOM TV
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png"group-title="TDA BS.AS",PLANETA MOVIES
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w693652701.m3u8?PlaylistM3UCL
 https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
 
 
