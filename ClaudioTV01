@@ -157,8 +157,9 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png"group-title="TDA BS.AS",PLANETA MOVIES
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8?PlaylistM3UCL
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w693652701.m3u8?PlaylistM3UCL
-https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8
+
 
 
 
@@ -197,9 +198,9 @@ https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TDA BS.AS",TV PRIME HD
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_PRIME_Movie.png"group-title="TDA BS.AS",TV PRIME HD
 https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?PlaylistM3UCL
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+
 
 
 
