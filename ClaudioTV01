@@ -156,11 +156,14 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png"group-title="TDA BS.AS",PLANETA FAMILY
+https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png"group-title="TDA BS.AS",PLANETA MOVIES
-https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8?PlaylistM3UCL
-https://scl.edge.grupoz.cl:443/movie/live/chunklist_w693652701.m3u8?PlaylistM3UCL
-
-
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8
 
 
 
