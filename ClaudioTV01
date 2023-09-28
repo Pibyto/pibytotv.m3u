@@ -1584,30 +1584,29 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",NIM TV HD
-http://iptv.streamhispanatv.net:8080/live/playgt/playgt2023/106.m3u8
-http://204.12.202.90:8080/playgt/playgt2023/134
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MOVIE_MANIA
-https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/chunklist_w73578351.m3u8
+
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES", PELÍCULAS_MANIA
-https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",CINE 26 HD
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/167
-http://204.12.202.90:8080/live/playgt/playgt2023/167.m3u8
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CqMFXYL_0iOrokQVu2LS85BKgw2OK917pT6f6r4VVh_mWKjgFgNAsD15M55s0sVBsxFNNjUUvD37oR3YESaK3wukQsRe9nSvmPEBSkWT1x8obUcGkBo0eS0amoySgsTNM-EmoSdVjvJd8SMGrbrBLOYY3eeXQqC1HDdg9D1ArffQQjWPMfMa5FePHNFItcUrQc94SZwlpvqpnrkWbiLszNLg-tVeay5FClvfGg9UmIzKD6Z9NfTEdroVh3si1KGMmsFWOpOctxMIAWHMuBfOb8OlQEtdLS9P33j_t4Dp_Vi_drVUxHsVZZiOiTpm8eixRD3oVv4m20GMd-IVFdW7dTj17C4AbGfUpXQqdjhkEUl-ScmKMsFsju4KiCY37NZtcjTGe42juuRqCDgihdPPtk11bIGFXd74fwlMwHfoOhnzleKZR-aWoGlfD5cpRrLTi3blKC9RjvdjOTbjbr-69bHrLpSMmtCQ-tG7xPkAsKgiRzKu9wHXP8hiHM9Nu3bAe_jzztKcWkzflAEsBorv6ipKgOYLm7TJN1fjdxJKCY5Trjer_GbuzXKl5Y3nj9ULzMMo2t0H7srV_j_3wry5DPnGPKz-GkiDb0w9nKBxSyyjH9CZq7w-9yhPA1gkPH1_du23t6IEnjWdCNXCZqMRBfZnWyymfFAlmizO13XTQ7vpy2ThD1ra5Fwy4qw63wwT3h9LM-qXNvKR9pFuVgOBXf600_0hQbNatpFjka605VGgBlhHk3jxT7mm5FaIqLG1ji7wWSeVrsad9Go6t2Xge5SLuBSfLB0Y6XDmi1yKw02alxxoEUA44yQ6olBI3b_uPqKusI9li20-g9GB7MhkHekqKh2KhYXgFLMhiFI0vEGvHwVF9wvhT7C-Ry6WvJ60VuxIdSN0Ggz3_FlhRuLDYvW1vlQgASoJdXMtZWFzdC0xMKcF.m3u8
+
 
 
 
@@ -1623,7 +1622,7 @@ https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1780444006.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",MULTIZONAS TELEVISIÓN HD
 https://cloudvideo.servers10.com:8081/8068/rewind-3600.m3u8?DVR
-https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/tv-series-neon-text-popcorn-260nw-1339146254.jpg"group-title="TV SERIES",IU TV HD
@@ -2793,11 +2792,13 @@ http://204.12.202.90:8080/playgt/playgt2023/141
 
 
 #EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",SAS TV
-http://204.12.202.90:8080/playgt/playgt2023/138
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://appsparavertv.com/wp-content/uploads/2022/09/canales-tv-en-vivo-hd-apk-android.webp"group-title="TV SERIES 2",GUA TV
+https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
 http://204.12.202.90:8080/playgt/playgt2023/131
 
 
