@@ -224,6 +224,7 @@ https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u
 
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_PRIME_Movie.png"group-title="TDA BS.AS",TV PRIME HD
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?PlaylistM3UCL
 
 
