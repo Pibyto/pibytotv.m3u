@@ -13,6 +13,8 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4VEwQWMsFTU/X6WUazGQV8I/AAAAAAAAAwU/3tkNlT-QTZUMQpo8Ex0j6C5nsPfcd-04wCK4BGAYYCw/s1600/Urbancrist2-logo.png"group-title="TDA BS.AS", URBANCRIST2 WORSHIP HD
+https://paz.sytes.net:5443/live/streams/urbancrist2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoBjL0xLCZ5V3zWbfwAWpZjNSk4sfa_fXUiQ&usqp=CAU"group-title="TDA BS.AS",CANAL LUZ HD ROSARIO
@@ -2303,7 +2305,7 @@ https://paneltv.net:3751/hybrid/play.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",OASIS CHANNEL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNdKCKaycplt1xAmLO4gbKx9S3UPc7dgNaQ&usqp=CAU"group-title="CRISTIANO",OASIS CHANNEL
 https://5e85d90130e77.streamlock.net:443/6020/6020/chunklist_w1538041154.m3u8
 
 
@@ -2376,9 +2378,9 @@ https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/chunklist_w4996659.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4VEwQWMsFTU/X6WUazGQV8I/AAAAAAAAAwU/3tkNlT-QTZUMQpo8Ex0j6C5nsPfcd-04wCK4BGAYYCw/s1600/Urbancrist2-logo.png"group-title="CRISTIANO", URBANCRIST WORSHIP HD
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4VEwQWMsFTU/X6WUazGQV8I/AAAAAAAAAwU/3tkNlT-QTZUMQpo8Ex0j6C5nsPfcd-04wCK4BGAYYCw/s1600/Urbancrist2-logo.png"group-title="CRISTIANO", URBANCRIST2 WORSHIP HD
 https://paz.sytes.net:5443/live/streams/urbancrist2.m3u8
-https://5790d294af2dc.streamlock.net:443/8090/8090/chunklist_w1550299093.m3u8?WebM3UCL
+
 
 
 
