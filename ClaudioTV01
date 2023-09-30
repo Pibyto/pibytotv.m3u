@@ -203,7 +203,8 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
 
 
-#ECTIMF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_reuFdAiuGcsbOXpbkOFv7_c33ipnIFG6Mg&usqp=CAU"group-title="TDA BS.AS",RTV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_reuFdAiuGcsbOXpbkOFv7_c33ipnIFG6Mg&usqp=CAU"group-title="TDA BS.AS",SUPER CANAL HD
+https://live.obslivestream.com/supercanal/index.m3u8
 https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1539980248.m3u8
 
 
