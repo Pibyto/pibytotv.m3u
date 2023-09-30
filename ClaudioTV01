@@ -299,7 +299,8 @@ https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",RTV NARANJAL
+#EXTINF:-1 tvg-logo="https://enlinea.rtv.org.mx/img/imgShareRTVEnLinea.jpg"group-title="TDA BS.AS",RTV NARANJAL
+https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1901874281.m3u8
 https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1313374034.m3u8?rand=0.13546444528481993
 
 
