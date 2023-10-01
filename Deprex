@@ -101,6 +101,22 @@ https://usher.ttvnw.net/api/channel/hls/quatrotvgo.m3u8?acmb=e30%3D&allow_source
 #EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",
 
 
+EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",CINE KIDS
+https://stream.ads.ottera.tv/cl/231001ckcvmccnsepr6qv34l70/1920x1080_2900000_5_f.m3u8?i=475_3506
+
+
+EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",
+
+
+EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",
+
+
+
+EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",
+
+
+EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",
+
 
 #EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",UNITEL HD
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8?PlaylistM3UCL
