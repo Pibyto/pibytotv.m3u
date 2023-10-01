@@ -426,7 +426,8 @@ http://sdmx.vip:8080/Mark2023/Mark2023/2092574
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="DEPREXTV", TU CINE
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="DEPREXTV", TU CINE HD
+https://tucineus-freetv.amagi.tv:443/TuCineUSx/master_6.m3u8
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="DEPREXTV", CINE REAL
