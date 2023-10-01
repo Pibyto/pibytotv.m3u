@@ -3,9 +3,12 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png"group-title="CAFU SPORTS",ESPN PREMIUM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png"group-title="CAFU",ESPN PREMIUM
 http://sdmx.vip:8080/Mark2023/Mark2023/2121662
 
+
+#EXTINF:-1 tvg-logo=""group-title="CAFU",GOL TV
+http://69.30.193.106:8080/live/JuanC/SFqfnhEC3kvd/282609.m3u8?token=SRJQUEJeRw4bBltVDwBQV1ZUVABVU1VeAQFWBAFSUwgBUgpQAgdcDA8SFUFFQkAEBQ85XAIQCQoOAVJVW01DTUFVSm5YUkcOGwMKUAcBEE1GFg9YAxAJCBoRFAwGQ1saAwkLCQIUSRZcSE0GRFhTDTsGA0MPUVYaDF0RCQ5NQ1dcb1xUXFcLUBsKG1MUGhAIFxJEDwhHX1QaEQYMFhMATFcSAhMAAlIHGxwbAFlDXBUWG0QPRHNhGhoRAR0WBA9LW19WEwsUCAdMCBtPFF9BPhYHFUEUV1JVU0FGX0BRQxQQXVlJblUKWldVWhdfWVwSRlhEBkQeEVVZXQ0RDRM+SFtUGgsTBFwAAQMbHg==
 
 
 
