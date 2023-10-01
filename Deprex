@@ -2,6 +2,57 @@
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",MEGA TV
+https://hls.servidor.stream/storage/megatv.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",TELECOLOR HD
+https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",AUTENTICA TV
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",ATV HD
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",ATV + HD
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",PANAMERICANA HD
+https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFtIQqmrH9FDY9mcM0iN9ZJgWjJwAHpyR72S_fLWNdiS1)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+
+
+
+#EXTINF:-1 tvg-logo=""group-title-"DEPREXTV",MOVISTAR PLUS
+http://107.150.33.122:8080/live/Demo11/uyK6PkPXZV6E/304998.m3u8?token=SRJQUEJeRw4bUwpaA1NRUQZSAlZSAVdcUFVXBgRRBAALBVwIVFJSAAoSFUFFQkAEBQ85XAIQCQsGB11cWk1DTUFVSm5YUkcOGwMIUQAGEE1GFg9YAxAJCBoRFAwGQ1saAAcLBwgUSRZcSE0GRFhTDTsGA0MPUVYaDF0RCQ5NQ1dcb1xUXFcLUBsKG1IUGhAIFxJEDwhHX1QaEQYMFhMATFcSAhMAAFcBGxwbAFlDXBUWG0QPRHNhGhoRAR0WBA9LW19WEwsUCAdMCBtPFF9BPhYHFUEUV1JVU0FGX0BRQxQQXVlJblUKWldVWhdfWVwSRlhEBkQeEVVZXQ0RDRM+SFtUGgsTAFQCG00=
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",TV PERU NOTICIAS
+https://d10tjjjvbn1fcu.cloudfront.net:443/out/v1/902c1a0395264f269f1160efa00660e4/index_1.m3u8
+
+
+
+#EXTINF: -1 tvg-logo=""group-title"DEPREXTV",WILLAX TV
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmm9d9ITyq_fphOfhvup3BkoyQ0O-z757WGoAbvxwHnt-)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",EXITOSA TV
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="DEPREXTV",IU TV HD
@@ -91,53 +142,14 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",PANAMERICANA HD
-https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFtIQqmrH9FDY9mcM0iN9ZJgWjJwAHpyR72S_fLWNdiS1)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo=""group-title-"DEPREXTV",MOVISTAR PLUS
-http://107.150.33.122:8080/live/Demo11/uyK6PkPXZV6E/304998.m3u8?token=SRJQUEJeRw4bUwpaA1NRUQZSAlZSAVdcUFVXBgRRBAALBVwIVFJSAAoSFUFFQkAEBQ85XAIQCQsGB11cWk1DTUFVSm5YUkcOGwMIUQAGEE1GFg9YAxAJCBoRFAwGQ1saAAcLBwgUSRZcSE0GRFhTDTsGA0MPUVYaDF0RCQ5NQ1dcb1xUXFcLUBsKG1IUGhAIFxJEDwhHX1QaEQYMFhMATFcSAhMAAFcBGxwbAFlDXBUWG0QPRHNhGhoRAR0WBA9LW19WEwsUCAdMCBtPFF9BPhYHFUEUV1JVU0FGX0BRQxQQXVlJblUKWldVWhdfWVwSRlhEBkQeEVVZXQ0RDRM+SFtUGgsTAFQCG00=
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",TV PERU NOTICIAS
-https://d10tjjjvbn1fcu.cloudfront.net:443/out/v1/902c1a0395264f269f1160efa00660e4/index_1.m3u8
-
-
-
-#EXTINF: -1 tvg-logo=""group-title"DEPREXTV",WILLAX TV
-https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmm9d9ITyq_fphOfhvup3BkoyQ0O-z757WGoAbvxwHnt-)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
-
-
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",EXITOSA TV
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",ATV HD
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png"group-title="DEPREXTV", WOW HD
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",ATV + HD
-https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",AUTENTICA TV
-https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 
 
@@ -155,19 +167,17 @@ https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 https://v4.tustreaming.cl:443/atmtv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",MEGA TV
-https://hls.servidor.stream/storage/megatv.m3u8
-
 
 #EXTINF:-1 tvg-logo=""group-title="DEPREXTV",ANDES TV
 https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",ASIRI TV
+https://video2.lhdserver.es/asiritv/live.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
