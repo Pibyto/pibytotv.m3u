@@ -470,16 +470,17 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 https://59ce1298bfb98.streamlock.net:443/rcctv02/rcctv02/chunklist_w282567415.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tigo-logo-7D6A6A7118-seeklogo.com.png"group-title="DEPREX-PY",
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tigo-logo-7D6A6A7118-seeklogo.com.png"group-title="DEPREX-PY",LIM TV
+https://tgn.bozztv.com/ssh101/ssh101/invasivamedia/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tigo-logo-7D6A6A7118-seeklogo.com.png"group-title="DEPREX-PY",
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tigo-logo-7D6A6A7118-seeklogo.com.png"group-title="DEPREX-PY",MITV
+https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w714575205.m3u8?PlaylistM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tigo-logo-7D6A6A7118-seeklogo.com.png"group-title="DEPREX-PY",
-
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tigo-logo-7D6A6A7118-seeklogo.com.png"group-title="DEPREX-PY",SOMOS DEL ESTE
+https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w955201063.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tigo-logo-7D6A6A7118-seeklogo.com.png"group-title="DEPREX-PY",
