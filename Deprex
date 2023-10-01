@@ -343,7 +343,7 @@ http://sdmx.vip:8080/Mark2023/Mark2023/2092578
 
 
 
-#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",TMT HD
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",TNT HD
 http://sdmx.vip:8080/Mark2023/Mark2023/2092603
 
 
@@ -372,6 +372,9 @@ http://sdmx.vip:8080/Mark2023/Mark2023/2092584
 #EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",HBO+
 http://sdmx.vip:8080/Mark2023/Mark2023/2092585
 
+
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",GOLDEN
+https://live.telelatinohd.com:8080/MTg2LjEzMi45MC4xNDc=/202_.m3u8?token=VxZsFcjMCWUgTpBlN-ewGQ&expires=1696201029
 
 
 #EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",GOLDEN EDGE
