@@ -1,197 +1,148 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-logo = "https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg", DANTV
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
-#EXTINF: -1 tvg-logo = "https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png", WOW
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title-"DEPREXTV",
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
+
+
+#EXTINF: -1 tvg-logo=""group-title"DEPREXTV",
+
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canl-gen-tv.jpg"group-title="DEPREXTV",GENTV HD
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
+
+
+#EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png"group-title="DEPREXTV", WOW HD
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
 
-#EXTINF: -1 tvg-logo = "https://www.m3u.cl/logo/522_TV_MauleSur.png", TV MOULE SUR
-https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1295876986.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
-#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Unitel_logo_HD.jpg/1200px-New_Unitel_logo_HD.jpg", UNITEL HD
-https://cp.sradiotv.com:1936/8078/8078/chunklist_w1398365877.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/media/EoEsgwMW4AEozlb.jpg", ROMANA TV
-http://live.romanatv42.com/hls/live.m3u8
 
-#EXTINF: -1 tvg-logo = "https://www.telemontv.com/img/log.2cd2a2a3.png", TELEMON
-http://184.173.181.2:1935/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF: -1 tvg-logo = "http://www.m3u.cl/logo/115395_AC_Vision.png", AC VISION
-https://rtmp02.portalexpress.es:443/acvisionazogues/acvisionazogues/chunklist_w128224072.m3u8?WebM3UCL
 
-#EXTINF: -1 tvg-logo = "https://serenotv.com/wp-content/uploads/2020/08/canl-gen-tv.jpg", GENTV
-https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
-#EXTINF: -1, RCN HD PARAGUAY
-https://59ce1298bfb98.streamlock.net:443/rcntv/rcntv/chunklist_w1846207503.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF: -1, SOMOS DEL ESTE HD PARAGUAY
-https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w151909956.m3u8?WebM3UCL
 
-#EXTINF:-1, CABLEMAS PARAGUAY
-https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/chunklist_w1369991261.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF:-1, MI TV
-http://copaco.desdeparaguay.net:1935/mitv/mitv/chunklist_w1809479909.m3u8?WebM3UCL
 
-#EXTINF: -1, GLOBAL TV
-https://ss6.domint.net:3016/gtv_str/globalhd/manifest.m3u8?WebM3UCL
 
-#EXTINF:-1, TELE MAS CHILE
-https://593b04c4c5670.streamlock.net:443/8008/8008/chunklist_w52255808.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF:-1, ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w120982809.m3u8?WebM3UCL
 
-#EXTINF:-1, CENTRAL TV PERÙ
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w1310129098.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF:-1, VELLAVISION FHD
-http://ss6.domint.net:2060/tvm_str/montanatv/chunklist_w901556046.m3u8?WebM3UCL
 
-#EXTINF: -1, TVMAX
-https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAs" group-title = "CINE Y SERIES", RETRO PLUS
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/toW8xWKbpS-28By8XvguQOg6oG0tun1oXmvmZRnY-TUiHmgsWdHeBNfoZtlbiAbdJTA" group-title = "CINE Y SERIES", TELERED
-http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb= 20200303190745 "group-title =" CINE Y SERIES ", TELESISTEMA
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF:-1, DARK
-https://6ra8tpg8m6.azcdn107.net:8443/hls/6hucdn7rmjn.m3u8?s=TrypJ4fUur7UX8w4-iDy0g&e=1624144945
 
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF: -1, TELEFUTURO HD
-http://edge8-ccast-hr.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-audio_20000=144800-video=3000000.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
-#EXTINF: -1, GEN TV PARAGUAY HD
-http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/181497
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF:-1, ÚNICANAL HD
-http://45.55.127.106/live/unicanal.m3u8?WebM3UCL
 
-#EXTINF: -1, PARAVISION HD
-http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?WebM3UCL
-? k = 1e1b76bf42b23048073731bac0cc1bcce549cde3727d5cb5a18b2d16278c91f1 & exp = 1620012761
 
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF: -1, EL TRECE HD PARAGUAY
-https://stream.rpc.com.py/live/trece.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0X7REz4ISXLJloQhacO1qP2R3vnMm-uncrw&usqp=CAU" group-title = "CINE Y SERIES", ZEE MUNDO TV
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
-#EXTINF: -1, HECHIZERA TV PERÙ
-https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w735069103.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
-#EXTINF: -1 tvg-logo = "https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGRZS-RAGAAy0DQCK8BGAs" grupo-Y0DQCK8BGAs20-02Hg-SERIE "C2020-02 / título" , REC ONLINE
-https://master.tucableip.com/reconline/live/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
-#EXTINF: -1 tvg-logo = "https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title = "CINE Y SERIES", WMS HD
-https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
-#EXTINF: -1 tvg-logo = "http://www.m3u.cl/logo/109756_Sol_TV.png" group-title = "CINE Y SERIES", SOL TV
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
-#EXTINF: -1 tvg-logo = "https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title = "CINE Y SERIES 2", CINE FAMILIA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="CINE Y SERIES 2", CINE ACCIÓN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="CINE Y SERIES 2", CINE ACCIÓN 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4ba1f1-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ef6bc3f-95cc-43bd-98df-11ffd10b28fc&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="CINE Y SERIES 2", CINE SUSPENSO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18710-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6602c30d-29cf-40ea-9379-390b2d9b72bb&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="CINE Y SERIES 2", CINE TERROR
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00070-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c808f376-3c51-4ce4-8dc1-f9b1e9c494cc&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d180092e97a5e107638d3/colorLogoPNG.png" group-title="CINE Y SERIES 2", CINE TERROR 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31d6ed5a-e18e-40e7-86c3-072f2b86df3c&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
-#EXTINF: -1 tvg-logo = "https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title = "CINE Y SERIES", RUN: TIME
-https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title = "CINE Y SERIES", RUN: TIME 2
-https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF: -1 tvg-logo = "https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title = "CINE Y SERIES", RUN: TIME 3
-https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="CINE Y SERIES", RAKUTEN SPOTLIGHT
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="CINE Y SERIES", RAKUTEN SPOTLIGHT 2
-https://rakuten-spotlight-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="CINE Y SERIES", RAKUTEN TV DRAMA
-https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="CINE Y SERIES", RAKUTEN TV DRAMA 2
-https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-   
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="CINE Y SERIES", RAKUTEN COMEDIA    
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="CINE Y SERIES", RAKUTEN COMEDIA 2
-https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="CINE Y SERIES", RAKUTEN ACCION
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="CINE Y SERIES", RAKUTEN ACCION 2
-https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="CINE Y SERIES", RAKUTEN FAMILIA
-https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CINE Y SERIES", RAKUTEN TOP FREE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png"group-title="DEPREXTV", RAKUTEN TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "CINE Y SERIES", TU CINE
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="DEPREXTV, TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "CINE Y SERIES", CINE REAL
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="DEPREXTV", CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "CINE Y SERIES", HORRORFY
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="DEPREXTV", HORRORFY
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "CINE Y SERIES", JUNTOS
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="DEPREXTV", JUNTOS
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
 #EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "CINE Y SERIES", CINE SUREÑO
