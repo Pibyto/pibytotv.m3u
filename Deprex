@@ -11,6 +11,51 @@
 https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ASHAsSge3r5fjRnCBjbuF66vrneGdSpivA&usqp=CAU"group-title="DEPREXTV",+CINE HD
+https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGkN9HVgzQb9-0ToNSK8Quy5IhnXmsGbMOQ&s"group-title="DEPREXTV",MONI TV HD
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w463293140.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.origentv.cl/wp-content/uploads/2023/08/LOGO-ROJO_0002_LOGO-tv2-768x414.png"group-title="DEPREXTV",ORIGEN TV HD
+https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_PRIME_Movie.png"group-title="DEPREXTV",TV PRIME HD
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://enlinea.rtv.org.mx/img/imgShareRTVEnLinea.jpg"group-title="DEPREXTV",MILENIUM TV
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1901874281.m3u8
+https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1313374034.m3u8?rand=0.13546444528481993
+
+
+#EXTINF:-1 tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/vPxvbVv.png"group-title="DEPREXTV",FRECUENCIA MISICAL TV HD
+https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="DEPREXTV",PELÍCULAS_MANIA HD
+https://tgn.bozztv.com/ssh101/ssh101/apaninestv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png"group-title="DEPREXTV", ADRENALINA FREEZONE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png"group-title="DEPREXTV", ESTRELLAS DE ACCIÓN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
+
+
+
+#EXTINF:-1 tvg-logo="https://redpanda.cinepremiere.com.mx/wp-content/uploads/2018/01/logo_cp_marca.png"group-title="DEPREXTV", CINE PREMIER
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
+
 
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="DEPREXTV",NEO TV DIGITAL HD
