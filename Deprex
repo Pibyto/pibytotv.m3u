@@ -48,7 +48,7 @@ https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFtIQqmrH9FDY9mcM0i
 
 
 
-#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title-"DEPREXTV",MOVISTAR PLUS
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",MOVISTAR PLUS
 http://107.150.33.122:8080/live/Demo11/uyK6PkPXZV6E/304998.m3u8?token=SRJQUEJeRw4bUwpaA1NRUQZSAlZSAVdcUFVXBgRRBAALBVwIVFJSAAoSFUFFQkAEBQ85XAIQCQsGB11cWk1DTUFVSm5YUkcOGwMIUQAGEE1GFg9YAxAJCBoRFAwGQ1saAAcLBwgUSRZcSE0GRFhTDTsGA0MPUVYaDF0RCQ5NQ1dcb1xUXFcLUBsKG1IUGhAIFxJEDwhHX1QaEQYMFhMATFcSAhMAAFcBGxwbAFlDXBUWG0QPRHNhGhoRAR0WBA9LW19WEwsUCAdMCBtPFF9BPhYHFUEUV1JVU0FGX0BRQxQQXVlJblUKWldVWhdfWVwSRlhEBkQeEVVZXQ0RDRM+SFtUGgsTAFQCG00=
 
 
@@ -58,7 +58,7 @@ https://d10tjjjvbn1fcu.cloudfront.net:443/out/v1/902c1a0395264f269f1160efa00660e
 
 
 
-#EXTINF: -1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title"DEPREXTV",WILLAX TV
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",WILLAX TV
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmm9d9ITyq_fphOfhvup3BkoyQ0O-z757WGoAbvxwHnt-)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
 
@@ -87,7 +87,7 @@ https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3311-960x540-000000.jpg"group-title="DEPRECTV",NEXTV HD
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3311-960x540-000000.jpg"group-title="DEPREXTV",NEXTV HD
 https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
@@ -116,7 +116,7 @@ https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1901874281.m3u8
 https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1313374034.m3u8?rand=0.13546444528481993
 
 
-#EXTINF:-1 tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/vPxvbVv.png"group-title="DEPREXTV",FRECUENCIA MISICAL TV HD
+#EXTINF:-1 tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/vPxvbVv.png"group-title="DEPREXTV",FRECUENCIA MUSICAL TV HD
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
 
 
@@ -160,22 +160,6 @@ https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1539980248.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3127-960x540-000000.jpg"group-title="DEPREXTV", BOX CINEMA HD
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/RRG2IQFB0N5L2XCIXPZW/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=200282&ads.app_name=VIVALIVE+TV&ads.cb=&ads.channel_name=Box+Cinema&ads.content_genre=Action%2CAdventure%2CCrime%2CDrama%2CEntertainment%2CFilm%2CMystery%2CLATAM%2CMovies&ads.content_series=beer+run&ads.did=&ads.gdpr=0&ads.gdpr_consent=0&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=Klasko&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=&ads.us_privacy=1---&ads.vast_id=SKL101&ads.w=1920&coppa=0&is_lat=0&livestream=1&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png"group-title="DEPREXTV", WOW HD
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
 
 
 
@@ -234,11 +218,6 @@ https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",CADENA TV
 http://sdmx.vip:8080/Mark2023/Mark2023/2159183
 
@@ -291,12 +270,14 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="DEPREXTV", JUNTOS
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="DEPREXTV", CINE SUREÑO
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "CINE Y SERIES", TOP CINE
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="DEPREXTV", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF: -1 tvg-logo = "https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title = "CINE Y SERIES", CHIQUILINES
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
+
+
+
+
+
+
 
