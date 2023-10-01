@@ -116,7 +116,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
 
 
 
-EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",
+EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",CINEAR HD
+https://538d0bde28ccf.streamlock.net:443/live-cont.ar/cinear/chunklist_w137439713.m3u8
 
 
 EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",
