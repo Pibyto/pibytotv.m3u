@@ -1,4 +1,4 @@
-⁸#EXTM3U
+#EXTM3U
 
 
 
@@ -57,7 +57,8 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 https://vdo.panelstreaming.live:3806/live/bnbdigitallive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",PLAMETA HD
+https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
 
 
@@ -171,8 +172,6 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="DEPREXTV",COSMOS TV HD
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGkN9HVgzQb9-0ToNSK8Quy5IhnXmsGbMOQ&s"group-title="DEPREXTV",MONI TV HD
@@ -182,9 +181,10 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w463293140.m
 #EXTINF:-1 tvg-logo="https://www.origentv.cl/wp-content/uploads/2023/08/LOGO-ROJO_0002_LOGO-tv2-768x414.png"group-title="DEPREXTV",ORIGEN TV HD
 https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png"group-title="DEPREXTV",PLANETA FAMILY
 https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
-https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8
+
 
 
 
@@ -266,7 +266,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",PLANETA TV
 https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
-https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
+
 
 
 
