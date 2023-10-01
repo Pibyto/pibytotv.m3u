@@ -83,7 +83,7 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 https://vdo.panelstreaming.live:3806/live/bnbdigitallive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",PLAMETA HD
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",PLANETA HD
 https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
 
@@ -439,7 +439,7 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="DEPREXTV", TOP CINE
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png"group-title="DEPREXTV", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 
