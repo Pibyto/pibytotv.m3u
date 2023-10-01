@@ -239,13 +239,16 @@ https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",CADENA TV
+http://sdmx.vip:8080/Mark2023/Mark2023/2159183
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",CAMAL X TV
+http://sdmx.vip:8080/Mark2023/Mark2023/2160741
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",RPP HD
+http://sdmx.vip:8080/Mark2023/Mark2023/10633
 
 
 #EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
