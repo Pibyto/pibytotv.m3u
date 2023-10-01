@@ -99,7 +99,8 @@ https://stmv1.cnarlatam.com/supercine/supercine/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",CINE FMILIA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281
 
 
 EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",CINE KIDS
