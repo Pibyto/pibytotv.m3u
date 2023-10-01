@@ -43,8 +43,8 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",
-
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",BNB DIGITAL
+https://vdo.panelstreaming.live:3806/live/bnbdigitallive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",
