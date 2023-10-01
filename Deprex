@@ -121,7 +121,8 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",ATV HD
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 
 
 
@@ -130,7 +131,8 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",ATV + HD
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
