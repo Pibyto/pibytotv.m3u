@@ -107,15 +107,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281
 
 EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",SOL TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-https://stream.ads.ottera.tv/cl/231001ckcvmccnsepr6qv34l70/1920x1080_2900000_5_f.m3u8?i=475_3506
+
 
 
 EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",FREE TV
 https://chiquilines-freetv.amagi.tv:443/Chiquilines-plex/master_6.m3u8
 
 
-EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",RUN-TIME TRASH
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
+EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",GUA TV
+https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
+
 
 
 
