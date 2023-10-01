@@ -483,11 +483,12 @@ https://rds3.desdeparaguay.net:443/mitv/mitv/chunklist_w714575205.m3u8?PlaylistM
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w955201063.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tigo-logo-7D6A6A7118-seeklogo.com.png"group-title="DEPREX-PY",
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tigo-logo-7D6A6A7118-seeklogo.com.png"group-title="DEPREX-PY",ESTACION CRISTAL
+https://59ce1298bfb98.streamlock.net:443/cristaltv/cristaltv/chunklist_w474855894.m3u8?PlaylistM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tigo-logo-7D6A6A7118-seeklogo.com.png"group-title="DEPREX-PY",
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tigo-logo-7D6A6A7118-seeklogo.com.png"group-title="DEPREX-PY",SUCESO TV
+https://59ce1298bfb98.streamlock.net:443/sucesotv/sucesotv/chunklist_w1811921869.m3u8?PlaylistM3UCL
 
 
 
