@@ -1,4 +1,4 @@
-#EXTM3U
+⁸#EXTM3U
 
 
 
@@ -114,14 +114,15 @@ https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmm9d9ITyq_fphOfhvu
 
 
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canl-gen-tv.jpg"group-title="DEPREXTV",GENTV HD
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",EXITOSA TV
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
 #EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png"group-title="DEPREXTV", WOW HD
