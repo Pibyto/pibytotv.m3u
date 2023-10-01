@@ -3,6 +3,12 @@
 
 
 
+
+
+#EXTINF:-1 tvg-logo=""group-title="Cafu",ESPN
+http://tvlatino.club:2082/live/JuanC/SFqfnhEC3kvd/308806.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png"group-title="CAFU",ESPN PREMIUM
 http://sdmx.vip:8080/Mark2023/Mark2023/2121662
 
