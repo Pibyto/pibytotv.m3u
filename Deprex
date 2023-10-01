@@ -31,6 +31,12 @@ http://sdmx.vip:8080/Mark2023/Mark2023/10629
 http://sdmx.vip:8080/Mark2023/Mark2023/199968
 
 
+#EXTINF:-1 tvg-logo="https://kanalddrama.com/assets/img/logo_bottom2.png"group-title="DEPREXTV",KANAL D DRAMA
+https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/cb573d167d6c648d98d43d6ecef942824a371fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c505677a864c30d03c7db0db82371254b2085fad27aa8871009b2df0d2a34b37b1c5aee4953c9352262c9e51f3f803f9e70115cbd5a391861dbfd41d60e36b8fc169b2370d0f8cd166c2e0100864d3bb0e21dfaa0bf4241c66cb1c2440aca7210f88343cdca1ca585d3589b5d8775f104e0cda2d28f4592e5c035f815eb7b5c0b7533cad63bd79b5ce6889f383bc93c791e4c51abf2c2fb4b7187114259b5f99dbb35fc159dd07583663289fbf925f05861fc2168dd836f92efd2fe50463caad0526f26d29dcae8c8144373e266c093b040738ce21c3866c468ca2b2839ea8ea3c9557274e4da0e8aba7d1878e783449599b7c199d86ef12d44b8a6d6e251605b660a0d951d83937fde3a971ec2aa4279081f16f9f230b55ea7bbbb5347a720271772c7dca9d7ae7f4445eb6d1e48e163d814247ecb316268ec23f8d51e798c2805960a1cf24a30937843d94634c6f6ea1c32b9d2c60daa21bff542feff0cbc75671923bdf63e504c483d81bf3d4d03548e64b6839fc6372b15e5fbc9b1f26369267745025cdcb0b73ecbdf92725d01d71a664164001b9333d36bf4095d4f7b9a499dff5f34cd2d0919cb8b731d56659dcdf1a682d5c14bfc3fe5caef2a2634572ce97d55664ddba48254f8771a2f2e13d0413114ee521413b9c589c8968267c299249939641571ccbf42125e1c203578f6fa0ff650e68112b09fb83e9dbef7582fe20fa20c038bdedb1e9fde80ca5c1a9ead2d7154ba9e06972378e055b80687d079d4b5153614334e4dc8ed05ad08b38aea0e8ea6f577032d6de1aa11a20e/127/1280x720_1970777/index.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",ATV HD
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
@@ -91,8 +97,22 @@ https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-960x540-000000.jpg"group-title="DEPREXTV",TELEMAX HD
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ASHAsSge3r5fjRnCBjbuF66vrneGdSpivA&usqp=CAU"group-title="DEPREXTV",+CINE HD
 https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://terrortv.com/wp-content/uploads/2020/03/terror-tv-logo-v6b.png"group-title="DEPREXTV",TERROR TV HD
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="DEPREXTV",COSMOS TV HD
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGkN9HVgzQb9-0ToNSK8Quy5IhnXmsGbMOQ&s"group-title="DEPREXTV",MONI TV HD
