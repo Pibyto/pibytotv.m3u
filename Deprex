@@ -155,12 +155,12 @@ https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 https://v4.tustreaming.cl:443/atmtv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",MEGA TV
+https://hls.servidor.stream/storage/megatv.m3u8
 
 
-
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
-
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",ANDES TV
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
