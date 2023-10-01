@@ -142,6 +142,10 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?ads.content_page_
 
 
 
+#EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="DEPREXTV",PANC TV HD 
+https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_PRIME_Movie.png"group-title="DEPREXTV",TV PRIME HD
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
