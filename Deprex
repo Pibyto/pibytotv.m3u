@@ -120,7 +120,8 @@ EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_
 https://538d0bde28ccf.streamlock.net:443/live-cont.ar/cinear/chunklist_w137439713.m3u8
 
 
-EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",
+EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",VISION TV HD
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",UNITEL HD
