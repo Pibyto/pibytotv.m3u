@@ -2,17 +2,28 @@
 
 
 
+
+#############################$############################################################################################( CAFU )#############################################################################################
+#############################$#########################################################################################################################################################################################
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png"group-title="CAFU",TIGO SPORTS PY
 http://tv.masterplaytv.club:8080/5eddfgdWeRdGggr4545D/dfk3445jk45fdfFD45462DDD/166826
 
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.pe/content/dam/public-sites/cl/directv-logo/logos-finales/DTV_sports_logo_white.png"group-title="CAFU",DIRECTV SPORTS
-https://live.telelatinohd.com:8080/MTg2LjEzMi45MC4xNDc=/20_.m3u8?token=73TgPvo6cYCk-V-JXz8n2Q&expires=1696200314
+
 
 
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0.png"group-title="CAFU",ESPN
-http://tvlatino.club:2082/live/JuanC/SFqfnhEC3kvd/308806.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png"group-title="CAFU",ESPN PREMIUM
@@ -20,16 +31,30 @@ http://sdmx.vip:8080/Mark2023/Mark2023/2121662
 
 
 #EXTINF:-1 tvg-logo="https://media.tycsports.com/files/2021/07/21/309320/tyc-24-hs.png"group-title="CAFU",TyC SPORTS
-https://live.telelatinohd.com:8080/MTg2LjEzMi45MC4xNDc=/11_.m3u8?token=TDrhMSTRiQF-G2lSlNC6pg&expires=1696200660
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest?cb=20210507224924&path-prefix=es"group-title="CAFU",GOL PERU
 http://sdmx.vip:8080/Mark2023/Mark2023/179041
-http://69.30.193.106:8080/live/JuanC/SFqfnhEC3kvd/282609.m3u8?token=SRJQUEJeRw4bBltVDwBQV1ZUVABVU1VeAQFWBAFSUwgBUgpQAgdcDA8SFUFFQkAEBQ85XAIQCQoOAVJVW01DTUFVSm5YUkcOGwMKUAcBEE1GFg9YAxAJCBoRFAwGQ1saAwkLCQIUSRZcSE0GRFhTDTsGA0MPUVYaDF0RCQ5NQ1dcb1xUXFcLUBsKG1MUGhAIFxJEDwhHX1QaEQYMFhMATFcSAhMAAlIHGxwbAFlDXBUWG0QPRHNhGhoRAR0WBA9LW19WEwsUCAdMCBtPFF9BPhYHFUEUV1JVU0FGX0BRQxQQXVlJblUKWldVWhdfWVwSRlhEBkQeEVVZXQ0RDRM+SFtUGgsTBFwAAQMbHg==
 
 
 #EXTINF:-1 tvg-logo="https://forofms.s3.sa-east-1.amazonaws.com/monthly_2023_03/large.Liga1Max-Peru.png.ba23f1bb74eff43935ec713b7d10f400.png"group-title="CAFU",LIGA MAX
-http://tvlatino.club:2082/live/Demo11/uyK6PkPXZV6E/190616.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#############################$#############################( DEPREXTV )############################################################################################################################################################
+#############################$#########################################################################################################################################################################################
+
+
 
 
 
@@ -63,7 +88,8 @@ https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",BH
+http://sdmx.vip:8080/Mark2023/Mark2023/2159182
 
 
 
@@ -428,7 +454,7 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 
 
-########################################################################################################( DEPREX TV )####################################################################################################################################################################################################################
+########################################################################################################( DEPREX-PY )####################################################################################################################################################################################################################
 #########################################################################################################################################################################################################################################################################################################################################
 
 
