@@ -93,8 +93,9 @@ http://sdmx.vip:8080/Mark2023/Mark2023/2159182
 
 
 
-#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",QUATRO TV GO
-https://usher.ttvnw.net/api/channel/hls/quatrotvgo.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=9036407&play_session_id=5ecfa7b6c23ba5cf87b4446bbf05e89f&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=8e22d964d3956b9772c2a3f8fddb0454fc0b1274&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22quatrotvgo%22%2C%22channel_id%22%3A438475283%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22RNKigQQiEu4Dx1KY3Eo9eQ1UCht73m02%22%2C%22expires%22%3A1696198741%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.132.90.147%22%2C%22version%22%3A2%7D&transcode_mode=vbr_v2&cdm=wv&player_version=1.22.0
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",MEGA CINE
+https://stmv1.cnarlatam.com/supercine/supercine/playlist.m3u8
+
 
 
 
