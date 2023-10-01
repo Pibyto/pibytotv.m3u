@@ -52,6 +52,14 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",VZ TELEVISION
+https://live.obslivestream.com:443/vztv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",TELESUR
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+
 
 
 
@@ -179,10 +187,8 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DEPREXTV",ASIRI TV
 https://video2.lhdserver.es/asiritv/live.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
 #EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
