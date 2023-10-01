@@ -14,6 +14,11 @@ https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",UNITEL HD
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-logo=""group-title="DEPREXTV",ATV HD
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 
@@ -199,20 +204,25 @@ https://live.obslivestream.com:443/viaaltomayomux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",OK TEVE
+https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL
+
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",PERU CHANNEL
+https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",URANIO TV
+https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
 
 
 
 #EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
-
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
-
-
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
-
-
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
 #EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
