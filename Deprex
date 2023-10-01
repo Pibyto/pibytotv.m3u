@@ -23,6 +23,13 @@ https://vdo.grupolimalive.com:3365/live/unitellive.m3u8?PlaylistM3UCL
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",LATINA HD
+http://sdmx.vip:8080/Mark2023/Mark2023/10629
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",AMERICA HD
+http://sdmx.vip:8080/Mark2023/Mark2023/199968
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="DEPREXTV",ATV HD
@@ -229,10 +236,6 @@ https://live.obslivestream.com/uraniotv/index.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
-
-
-#EXTINF:-1 tvg-logo=""group-title="DEPREXTV",
 
 
 
