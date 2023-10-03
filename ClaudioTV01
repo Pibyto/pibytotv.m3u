@@ -791,7 +791,7 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/119/342/png-transparent-logo-netflix-nasdaq-nflx-brand-television-copywriter-floor-television-text-rectangle-thumbnail.png"group-title="CAFU-CINEMA",NETFLIX 1
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/119/342/png-transparent-logo-netflix-nasdaq-nflx-brand-television-copywriter-floor-television-text-rectangle-thumbnail.png"group-title="CINEMA",NETFLIX 1
 http://sdmx.vip:8080/Mark2023/Mark2023/2091025
 
 
@@ -838,6 +838,7 @@ http://sdmx.vip:8080/Mark2023/Mark2023/210812
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/119/342/png-transparent-logo-netflix-nasdaq-nflx-brand-television-copywriter-floor-television-text-rectangle-thumbnail.png"group-title="CINEMA",NETFLIX 
+
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/119/342/png-transparent-logo-netflix-nasdaq-nflx-brand-television-copywriter-floor-television-text-rectangle-thumbnail.png"group-title="CINEMA",NETFLIX 
 
