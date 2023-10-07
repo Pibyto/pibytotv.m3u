@@ -2311,6 +2311,16 @@ https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://primiciatelevision.cl/wp-content/uploads/2021/07/logo-final-768x695.png"group-title="CRISTIANO",PRIMICIA VIDA
+https://stmv5.voxtvhd.com.br:443/primiciavida/primiciavida/chunklist_w1226243709.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://kodifacil.com/wp-content/uploads/2022/08/logo-ftv-skin-263x300.png"group-title="CTISTIANO",FORTALEZA TV
+https://multimedia.fortalezatv.cl:443/video/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+
+
+
 #EXTINF:-1 tvg-logo="http://ccpeniel.com.mx/site/images/US/MPK_LOGO.png"group-title="CRISTIANO",PENIEL KIDS
 https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
 
