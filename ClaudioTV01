@@ -617,7 +617,8 @@ https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdRFMDQnm4T6y5KPATMxrog3iAZy0VpCCKg&usqp=CAU"group-title="TDA INTERIOR", CANAL 4 MISIONES 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdRFMDQnm4T6y5KPATMxrog3iAZy0VpCCKg&usqp=CAU"group-title="TDA INTERIOR",SPTV HD
+https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 https://streamlov.alsolnet.com:443/misionescuatro/live/chunklist_w1259367374.m3u8?PlaylistM3UCL
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 
