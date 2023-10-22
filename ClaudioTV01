@@ -13,9 +13,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4VEwQWMsFTU/X6WUazGQV8I/AAAAAAAAAwU/3tkNlT-QTZUMQpo8Ex0j6C5nsPfcd-04wCK4BGAYYCw/s1600/Urbancrist2-logo.png"group-title="TDA BS.AS", URBANCRIST2 WORSHIP HD
-https://paz.sytes.net:5443/live/streams/urbancrist2.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoBjL0xLCZ5V3zWbfwAWpZjNSk4sfa_fXUiQ&usqp=CAU"group-title="TDA BS.AS",CANAL LUZ HD ROSARIO
 https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
@@ -31,7 +28,7 @@ https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA BS.AS", TELEFE  34.1
-http://50.7.66.234:8080/UY2028/816373917/51071
+
 
 
 
