@@ -109,22 +109,26 @@ http://45.190.187.105:58092/play/a05r/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",
+#EXTINF:-1 tvg-logo=""group-title="BS.AS",HBO HD
+http://169.197.141.2:8080/Leroy14/marlow14/366812
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",
+#EXTINF:-1 tvg-logo=""group-title="BS.AS",HBO2
+http://169.197.141.2:8080/Leroy14/marlow14/366813
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",
+#EXTINF:-1 tvg-logo=""group-title="BS.AS",HBO PLUS
+http://169.197.141.2:8080/Leroy14/marlow14/366820
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",
+#EXTINF:-1 tvg-logo=""group-title="BS.AS",SIGNATURE
+http://169.197.141.2:8080/Leroy14/marlow14/366823
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",
-
+#EXTINF:-1 tvg-logo=""group-title="BS.AS",XTREME HD
+http://169.197.141.2:8080/Leroy14/marlow14/366825
 
 
 #EXTINF:-1 tvg-logo=""group-title="BS.AS",
