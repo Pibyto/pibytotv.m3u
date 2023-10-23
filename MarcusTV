@@ -41,6 +41,68 @@ https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8?ads.content_page_url=https%25
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://elplanetaconectado.files.wordpress.com/2020/08/amc2.png"group-title="BS.AS",AMC HD
+http://45.190.187.105:58092/play/a06l/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png"group-title="BS.AS",DHE HD
+http://45.190.187.105:58092/play/a02f/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/165/577/png-transparent-paramount-s-paramount-network-logo-viacom-media-networks-paramount-television-network-miscellaneous-television-blue-thumbnail.png"group-title="BS.AS",Paramount HD
+http://45.190.187.105:58092/play/a06d/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xX6rEvtGXqTmSS9prdiIc5oncZiUX3ICRw&usqp=CAU"group-title="BS.AS",A&E HD
+http://45.190.187.105:58092/play/a02a/index.m3u8
+
+
+#EXTINF:-1 tbg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlDWXeDgYxhlZ9TdN7b0caA7nVPd-tPn48RA&usqp=CAU"group-title="BS.AS",Sony Movies HD
+http://45.190.187.105:58092/play/a06t/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4i1-y2dgxK1_-ngoYFk-4Mnl3lnzzJy4BA&usqp=CAU"group-title="BS.AS",Studio Universal HD
+http://45.190.187.105:58092/play/a025/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TNT_Film_HD_Logo.svg/1280px-TNT_Film_HD_Logo.svg.png"group-title="BS.AS",TNT HD
+http://45.190.187.105:58092/play/a02k/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png"group-title="BS.AS",TNT Series HD
+http://45.190.187.105:58092/play/a06e/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/731381553.png"group-title="BS.AS",UNIVERSAL CINEMA ESTE HD
+http://45.190.187.105:58092/play/a06k/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/172050409.png"group-title="BS.AS",UNIVERSAL COMEDY HD
+http://45.190.187.105:58092/play/a02s/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/780277389.png"group-title="BS.AS",UNIVERSAL CRIME HD
+http://45.190.187.105:58092/play/a05t/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/398064723.png"group-title="BS.AS",UNIVERSAL PREMIERE HD
+http://45.190.187.105:58092/play/a05q/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="BS.AS",UNIVERSAL PREMIERE  HD
+http://45.190.187.105:58092/play/a05r/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo=""group-title="BS.AS",
 
 
