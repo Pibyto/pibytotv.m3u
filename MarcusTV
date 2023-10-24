@@ -286,8 +286,9 @@ http://45.190.187.105:58092/play/a06d/index.m3u8
 http://45.190.187.105:58092/play/a02a/index.m3u8
 
 
-#EXTINF:-1 tbg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlDWXeDgYxhlZ9TdN7b0caA7nVPd-tPn48RA&usqp=CAU",Sony Movies HD
-http://45.190.187.105:58092/play/a06t/index.m3u8
+#EXTINF:-1 tbg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlDWXeDgYxhlZ9TdN7b0caA7nVPd-tPn48RA&usqp=CAU",CINE SONY HD
+http://hdhd.tk:80/Yvette2022/Yvette2022/28958
+
 
 
 
