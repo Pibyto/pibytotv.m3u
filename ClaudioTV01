@@ -183,7 +183,6 @@ https://tvlive.servicioselbachi.com:3126/hybrid/play.m3u8
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
 
-
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3311-960x540-000000.jpg"group-title="TDA BS.AS",NEXTV HD
 https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
@@ -266,7 +265,7 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png"group-title="TDA BS.AS",PLANETA FAMILY
 https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
-https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8
+
 
 
 
@@ -764,8 +763,6 @@ https://g4.mc-hor.transport.edge-access.net:443/a13/ngrp:canal10mdq-100044_all/c
 
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-6-mar-del-plata.png"group-title="TDA INTERIOR",CANAL 6 HD  6.1  MAR DEL PLATA
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CtcFjy4t3-gAZlyQqCuKJmQEtwlhXvCLe1zudrBxC_dkK4KcQ5tUytikcOwfR-C0DDD-ELfcqVBZMMnmucWYTgGxkN3ihuHdjIYxRmwCqML2o6uHtw48KAyAl19QegMrILZl6WjVASc3-8U8YVt7XLCD0ifnAUB-AH9HtFn37DsOvNd6d5WJphw2779PXs2pFNQQv7s4qI1RSZiAQzsiD2qeX_M0r3l7yRkw5mEUrXkHns1-5EdoIaumVcOug8LTj0A5oTmaTJxOttPaiFG5lFeajMLQmav2yEC49_WrTlGsuB-BdhBQTc-A__kHWOJroQPu8kggVtpSCE5So281h01jOWwWABnFwQb3xyNkz8ynMUEIb16eaSKVHrd9042EpshstWUWYhQYzikKX0jETn5zxPOyjLY7OsfLrRU-k3d8mbfRCGRN9tmO-Al_eei-RvuPFqPQrnjbibLP_bLLQFUhQR3rE6Wz_WOTOqD2fdnr8s3B0kMxX2JIP1Zc35Aq3Xyzzdw5a4V0jKXFHnhgOmQCq2gmnARQatvTYnRO5MZUkuljZy9zPesC9knm8OCQMXasZQsoZSy0fkzTv7fcQN4-zjDsidQdC06Koqpi7ve0DwomU7SLLPPn0sMZehs26uZ5cnVYkyAB0L6RGAuSM0Bz_ntfex1zlNn9P5u3hZd6d9sJJx2C8JHpy4zfVoyoGRvq0uphSN1DtucwU4HWsgGZ8uu9b4Nqi-7vQw0v3wej4t6v6taNgGlbIKRM7vNFqw0tcGiuy13JrsIxPD4MKOYNa_tvfBM35PHL5Lm7zwfwX25FhViyUTxjTXBeE7XvZRpxKi8gzRbvhBO_L2vAXcJ9cTjOFSsoclclUCasUAkzsYNoy81M_VYHqCExWbckj3H0ocdbMyi2hwhFhSn_xMIicZYOOWA3jmjrjtxNeAOVkonZ1iLMqZXbyPSFN5T37lCpmXE3xSM7wBoMp8FSbG27ItKP5gFLIAEqCXVzLWVhc3QtMTC1BQ.m3u8
-https://panel.dattalive.com:443/8166/8166/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png"group-title="TDA INTERIOR", TDC ONLINE HD  21.7 SANTA FE
@@ -2625,8 +2622,8 @@ http://tv.dominiotv.xyz:25461/live/JoseBTA/69603296/367058.ts
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zoomses/9/6221391f103440dfb03cd972e8420f4e/ppfkd6.jpg"group-title="24/7",I CARLY
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-http://tv.dominiotv.xyz:25461/live/JoseBTA/69603296/339840.ts
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJvODmL2P4eoChshnjrs1mMw/ts
+
+
 
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zoomses/9/6221391f103440dfb03cd972e8420f4e/ppfkd6.jpg"group-title="24/7",ALERTA ADUANA
@@ -2726,10 +2723,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8c19b2678b0007
 
 #EXTINF:-1 tvg-logo="https://c8.alamy.com/zoomses/9/6221391f103440dfb03cd972e8420f4e/ppfkd6.jpg"group-title="24/7",HISTORIA 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/zoomses/9/6221391f103440dfb03cd972e8420f4e/ppfkd6.jpg"group-title="24/7",LOS TRES CHIFLADOS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
