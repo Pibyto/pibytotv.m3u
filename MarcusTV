@@ -22,6 +22,31 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 https://vkvd473.mycdn.me/?srcIp=186.132.6.67&pr=43&expires=1698534709384&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.217&type=3&sig=SX1TPj_Zn_8&ct=0&urls=45.136.21.166&clientType=14&appId=512000384397&zs=43&id=5558480800491
 
 
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png", CINCO TV HD  TIGRE
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU", CANAL 34 HD  6.11 SAN JUAN 
+http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s",BLU HD SAN JUAN
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6vt8JAXtQs3RxTcSBs2oSDQV1STdC9cO7Q_36OXRoajKbIaCJn0kwbEIItqs45937SCj0Gca=s900-c-k-c0x00ffffff-no-rj",ALBARDON TV HD
+https://vd01.streaminghd.net.ar:3451/stream/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png", METRO TV HD  18.1 TUCUMÁN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdRFMDQnm4T6y5KPATMxrog3iAZy0VpCCKg&usqp=CAU",SPTV HD
+https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/five-tv.png",FIVE TV 16.1
 https://panel.dattalive.com:443/8118/8118/chunklist_w1075524271.m3u8
@@ -70,6 +95,31 @@ https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b166
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png",10 HD  10.1  MDP
 https://g4.mc-hor.transport.edge-access.net:443/a13/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png", CANAL 9 HD  9.1.  MISIONES
+https://panel.dattalive.com:443/8076/8076/chunklist_w931708659.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyJVKGWk0vHNvIEhxrvdteHT1LsKMdFrizb9J_zuVItmyaeei-QbzqE0XKfZXEZjAyoLweXecjnSu6eYtEwuI5W_S-MKyxDGFnfXT1gxPM3thM7W9krwJLUro07Rj3NR9hjHBKtjHW5ajR4I7npNYTyTvPYrnATMgagbbGFL3Qc9_LNPfmGJhzwgt9/s200/canal9-litoral.png", CANAL 9 HD  9.3   LITORAL
+https://stream.arcast.live:443/ahora/ahora/chunklist_w1967933953.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png",CANAL 9 HD  9.2  RESISTENCIA 
+http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png",TELEVIDA HD  MENDOZA
+https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+
+
+
+
+
+
 
 
 
