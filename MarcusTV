@@ -47,6 +47,8 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://onefm.es/data/files/webjun-1.png",ONE 29.4
+https://stmvideo2.livecastv.com:443/oneradio/oneradio/chunklist_w2010010738.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWKmqyChU81NRBe-Lj57C3VNmbTno_P_S5Cw&s",TVREBELDE HD 17.1
