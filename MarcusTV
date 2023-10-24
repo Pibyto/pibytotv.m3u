@@ -19,35 +19,35 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWKmqyChU81NRBe-Lj57C3VNmbTno_P_S5Cw&s"group-title="BS.AS",TVREBELDE HD 17.1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWKmqyChU81NRBe-Lj57C3VNmbTno_P_S5Cw&s",TVREBELDE HD 17.1
 https://vkvd473.mycdn.me/?srcIp=186.132.6.67&pr=43&expires=1698534709384&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.217&type=3&sig=SX1TPj_Zn_8&ct=0&urls=45.136.21.166&clientType=14&appId=512000384397&zs=43&id=5558480800491
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",DTV
+#EXTINF:-1 tvg-logo="",DTV
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",CINEMAX
+#EXTINF:-1 tvg-logo="",CINEMAX
 http://169.197.141.2:8080/Leroy14/marlow14/366795
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",SPACE HD
+#EXTINF:-1 tvg-logo=",SPACE HD
 http://169.197.141.2:8080/Leroy14/marlow14/366832
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",MULTIPREMIER
+#EXTINF:-1 tvg-logo="",MULTIPREMIER
 http://169.197.141.2:8080/Leroy14/marlow14/366827
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",GOLDEN
+#EXTINF:-1 tvg-logo="",GOLDEN
 http://169.197.141.2:8080/Leroy14/marlow14/366869
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",GOLDEN EDGE
+#EXTINF:-1 tvg-logo="",GOLDEN EDGE
 http://169.197.141.2:8080/Leroy14/marlow14/366873
 
 
@@ -57,105 +57,119 @@ http://169.197.141.2:8080/Leroy14/marlow14/366873
 
 
 
-#EXTINF:-1 tvg-logo="https://elplanetaconectado.files.wordpress.com/2020/08/amc2.png"group-title="BS.AS",AMC HD
+#EXTINF:-1 tvg-logo="https://elplanetaconectado.files.wordpress.com/2020/08/amc2.png",AMC HD
 http://45.190.187.105:58092/play/a06l/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png"group-title="BS.AS",DHE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png",DHE HD
 http://45.190.187.105:58092/play/a02f/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/165/577/png-transparent-paramount-s-paramount-network-logo-viacom-media-networks-paramount-television-network-miscellaneous-television-blue-thumbnail.png"group-title="BS.AS",Paramount HD
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/165/577/png-transparent-paramount-s-paramount-network-logo-viacom-media-networks-paramount-television-network-miscellaneous-television-blue-thumbnail.png",PARAMOUNT HD
 http://45.190.187.105:58092/play/a06d/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xX6rEvtGXqTmSS9prdiIc5oncZiUX3ICRw&usqp=CAU"group-title="BS.AS",A&E HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xX6rEvtGXqTmSS9prdiIc5oncZiUX3ICRw&usqp=CAU",A&E HD
 http://45.190.187.105:58092/play/a02a/index.m3u8
 
 
-#EXTINF:-1 tbg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlDWXeDgYxhlZ9TdN7b0caA7nVPd-tPn48RA&usqp=CAU"group-title="BS.AS",Sony Movies HD
+#EXTINF:-1 tbg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlDWXeDgYxhlZ9TdN7b0caA7nVPd-tPn48RA&usqp=CAU",Sony Movies HD
 http://45.190.187.105:58092/play/a06t/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4i1-y2dgxK1_-ngoYFk-4Mnl3lnzzJy4BA&usqp=CAU"group-title="BS.AS",Studio Universal HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4i1-y2dgxK1_-ngoYFk-4Mnl3lnzzJy4BA&usqp=CAU",Studio Universal HD
 http://45.190.187.105:58092/play/a025/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TNT_Film_HD_Logo.svg/1280px-TNT_Film_HD_Logo.svg.png"group-title="BS.AS",TNT HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TNT_Film_HD_Logo.svg/1280px-TNT_Film_HD_Logo.svg.png",TNT HD
 http://45.190.187.105:58092/play/a02k/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png"group-title="BS.AS",TNT Series HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png",TNT Series HD
 http://45.190.187.105:58092/play/a06e/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/731381553.png"group-title="BS.AS",UNIVERSAL CINEMA ESTE HD
+#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/731381553.png",UNIVERSAL CINEMA ESTE HD
 http://45.190.187.105:58092/play/a06k/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/172050409.png"group-title="BS.AS",UNIVERSAL COMEDY HD
+#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/172050409.png",UNIVERSAL COMEDY HD
 http://45.190.187.105:58092/play/a02s/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/780277389.png"group-title="BS.AS",UNIVERSAL CRIME HD
+#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/780277389.png",UNIVERSAL CRIME HD
 http://45.190.187.105:58092/play/a05t/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/398064723.png"group-title="BS.AS",UNIVERSAL PREMIERE HD
+#EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/398064723.png",UNIVERSAL PREMIERE HD
 http://45.190.187.105:58092/play/a05q/index.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",UNIVERSAL PREMIERE  HD
+#EXTINF:-1 tvg-logo="",UNIVERSAL PREMIERE  HD
 http://45.190.187.105:58092/play/a05r/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",HBO HD
+#EXTINF:-1 tvg-logo="",HBO HD
 http://169.197.141.2:8080/Leroy14/marlow14/366812
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",HBO2
+#EXTINF:-1 tvg-logo="",HBO2
 http://169.197.141.2:8080/Leroy14/marlow14/366813
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",HBO PLUS
+#EXTINF:-1 tvg-logo="",HBO PLUS
 http://169.197.141.2:8080/Leroy14/marlow14/366820
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",SIGNATURE
+#EXTINF:-1 tvg-logo="", HBO SIGNATURE
 http://169.197.141.2:8080/Leroy14/marlow14/366823
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",XTREME HD
+#EXTINF:-1 tvg-logo="",XTREME HD
 http://169.197.141.2:8080/Leroy14/marlow14/366825
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",
+#EXTINF:-1 tvg-logo="",
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",
+#EXTINF:-1 tvg-logo="",
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",
+#EXTINF:-1 tvg-logo="",
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",
+#EXTINF:-1 tvg-logo="",
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BS.AS",
+#EXTINF:-1 tvg-logo="",
+
+
+
+#EXTINF:-1 tvg-logo="",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
