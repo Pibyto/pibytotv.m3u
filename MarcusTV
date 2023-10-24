@@ -57,6 +57,9 @@ https://vkvd473.mycdn.me/?srcIp=186.132.6.67&pr=43&expires=1698534709384&srcAg=C
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://telecreativa.com/logos/telecreativa_black_256.gif",TELECREATIVA
+https://panel.dattalive.com:443/8012/8012/chunklist_w233443673.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU", CANAL 34 HD  6.11 SAN JUAN 
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
