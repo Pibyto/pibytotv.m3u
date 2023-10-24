@@ -89,11 +89,6 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/five-tv.png",FIVE TV 16.1
-https://panel.dattalive.com:443/8118/8118/chunklist_w1075524271.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU",EL TRECE  33.1
 https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
@@ -115,17 +110,24 @@ http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w196303941_
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png",A24 HD
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/24c64feb-0bb0-4846-87ba-99a65badd942:SCL/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSims4es-iscs2siqTcRwEL8GFY4nMaKjjjAg&usqp=CAU",CRONICA TV HD
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/61562
+
+
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png", AMÉRICA  36.1
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/9fefa3ca-1ad6-4b2c-bea5-dfde48f8d003:SCL/master.m3u8
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/61552
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/5fa0960d-c0ed-4e3b-8304-a983efb978ea:SCL/variant/39306c6188277619e451f445821f508d/bandwidth/1746000.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png",EL OCHO
 https://www.dailymotion.com/cdn/live/video/x8hvuj5.m3u8?sec=rQLONpNU0Z67U089ocLe9sMnjaLS-Fp1OoxcwHgXD-Qo9m2gEfIGz7X8BMks00B2&dmTs=745425&dmV1st=f96c437b-de99-44c6-af72-6e4b89efeac7
-https://stream-03.nyc.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5KxYeJQGMv_LFOrM5jCbAlIXNDMySI5un66lGyQ37zP8)/dm/3/x8hvuj5/s/live-2.m3u8#cell=lnyc
+
 
 
 
