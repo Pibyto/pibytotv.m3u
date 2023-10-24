@@ -47,6 +47,11 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 
+
+#EXTINF:-1 tbg-logo="https://canal40hd.com.ar/img/logo40.png",CANAL 40
+https://canalsj.kozow.com/canal40/index.fmp4.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://onefm.es/data/files/webjun-1.png",ONE 29.4
 https://stmvideo2.livecastv.com:443/oneradio/oneradio/chunklist_w2010010738.m3u8
 
