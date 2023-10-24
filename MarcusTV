@@ -332,22 +332,23 @@ http://169.197.141.2:8080/Leroy14/marlow14/366825
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",ESPN PREMIUM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"group-title="SPORTS",ESPN PREMIUM
+http://sdmx.vip:8080/Mark2023/Mark2023/2121662
 http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/16161
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",TNT SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="SPORTS",TNT SPORTS
 http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/459
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ",T&C SPORTS
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ"group-title="SPORTS,TyC SPORTS
 http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/554
 
 
 
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png",ESPN
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"group-title="SPORTS",ESPN
 http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/15262
 
 
