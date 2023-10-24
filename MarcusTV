@@ -4,24 +4,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",ESPN PREMIUM
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/16161
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",TNT SPORTS
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/459
-
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ",T&C SPORTS
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/554
-
-
-
-
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png",ESPN
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/15262
-
 
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png",COSMOS TV HD
@@ -345,6 +327,30 @@ http://169.197.141.2:8080/Leroy14/marlow14/366823
 
 #EXTINF:-1 tvg-logo="",XTREME HD
 http://169.197.141.2:8080/Leroy14/marlow14/366825
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",ESPN PREMIUM
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/16161
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",TNT SPORTS
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/459
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ",T&C SPORTS
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/554
+
+
+
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png",ESPN
+http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/15262
+
+
 
 
 
