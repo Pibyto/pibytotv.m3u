@@ -1,14 +1,19 @@
-#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/five-tv.png"group-title="BS.AS",FIVE TV 16.1
+#MarcusTV
+
+
+
+
+#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/five-tv.png",FIVE TV 16.1
 https://panel.dattalive.com:443/8118/8118/chunklist_w1075524271.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="BS.AS",NEO TV DIGITAL HD. 16.1  CABA
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png",NEO TV DIGITAL HD. 16.1  CABA
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="BS.AS",GENTV HD  17.3  CABA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s",GENTV HD  17.3  CABA
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
 
