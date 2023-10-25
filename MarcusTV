@@ -48,6 +48,11 @@ https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png"group-title="TDA",EL VIVIENTE TV HD
+https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
+
+
+
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1559353905389211649/jiMjTixH_400x400.jpg"group-title="TDA",CTV
 https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
 
@@ -62,6 +67,10 @@ https://vkvd473.mycdn.me/?srcIp=186.132.6.67&pr=43&expires=1698534709384&srcAg=C
 
 
 
+#EXTINF:-1 tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png?w=276"group-title="TDA",SOLIDARIA TV HD
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://telecreativa.com/logos/telecreativa_black_256.gif"group-title="TDA",TELECREATIVA
 https://panel.dattalive.com:443/8012/8012/chunklist_w233443673.m3u8?PlaylistM3UCL
@@ -69,6 +78,17 @@ https://panel.dattalive.com:443/8012/8012/chunklist_w233443673.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU"group-title="TDA",34 HD  6.11 
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png?fit=1920%2C1080&ssl=1"group-title="TDA",CANAL 13 JUJUY
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA", CRISTIANA TV HD
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://tucuman.lavozargentina.com/img/logo.png"group-title="TDA",LA VOZ
