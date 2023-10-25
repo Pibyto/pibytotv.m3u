@@ -24,6 +24,14 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IbkoPCNFSO19TIoKpoDQlyev7ye_wjzy2YhzBwo4z9CbjPDfSPOWiJvzPT8hVZH82zM"group-title="TDA",EXTREMA TV HD
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2876-960x540-000000.jpg"group-title="TDA", LA FE MUEVE MONTAÑAS HD
+https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="TDA",CINCO TV HD  TIGRE
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
@@ -44,6 +52,8 @@ https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoBjL0xLCZ5V3zWbfwAWpZjNSk4sfa_fXUiQ&usqp=CAU"group-title="TDA",CANAL LUZ HD ROSARIO
+https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
 
 
 
