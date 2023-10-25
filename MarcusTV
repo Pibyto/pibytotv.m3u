@@ -6,144 +6,138 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png",COSMOS TV HD
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA",COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png",NEO TV DIGITAL HD. 16.1  CABA
+#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TDA",NEO TV DIGITAL HD. 16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s",GENTV HD  17.3  CABA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA",GENTV HD  17.3  CABA
 https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-41-bayres-tv-en-vivo-2329.png",BAYRES TV
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-41-bayres-tv-en-vivo-2329.png"group-title="TDA",BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png", CINCO TV HD  TIGRE
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="TDA",CINCO TV HD  TIGRE
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdRFMDQnm4T6y5KPATMxrog3iAZy0VpCCKg&usqp=CAU",SPTV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdRFMDQnm4T6y5KPATMxrog3iAZy0VpCCKg&usqp=CAU"group-title="TDA",SPTV HD
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s",BLU HD SAN JUAN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA",BLU HD SAN JUAN
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1559353905389211649/jiMjTixH_400x400.jpg",CTV
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1559353905389211649/jiMjTixH_400x400.jpg"group-title="TDA",CTV
 https://stmvideo2.livecastv.com/canal7/canal7/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWKmqyChU81NRBe-Lj57C3VNmbTno_P_S5Cw&s",TVREBELDE HD 17.1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWKmqyChU81NRBe-Lj57C3VNmbTno_P_S5Cw&s"group-title="TDA",TVREBELDE HD 17.1
 https://vkvd473.mycdn.me/?srcIp=186.132.6.67&pr=43&expires=1698534709384&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.217&type=3&sig=SX1TPj_Zn_8&ct=0&urls=45.136.21.166&clientType=14&appId=512000384397&zs=43&id=5558480800491
 
 
 
 
-#EXTINF:-1 tvg-logo="https://telecreativa.com/logos/telecreativa_black_256.gif",TELECREATIVA
+#EXTINF:-1 tvg-logo="https://telecreativa.com/logos/telecreativa_black_256.gif"group-title="TDA",TELECREATIVA
 https://panel.dattalive.com:443/8012/8012/chunklist_w233443673.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU", CANAL 34 HD  6.11 SAN JUAN 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0Z5Q90UmssCg6HL1uTC-UMzDTjl4sJmUig&usqp=CAU"group-title="TDA",34 HD  6.11 
 http://streamyes.alsolnet.com/canal34hd/live/chunklist_w332382386.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tucuman.lavozargentina.com/img/logo.png",LA VOZ
+#EXTINF:-1 tvg-logo="https://tucuman.lavozargentina.com/img/logo.png"group-title="TDA",LA VOZ
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2023/04/ALBARDON-TV-194x111.png",ALBARDON TV HD
+#EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2023/04/ALBARDON-TV-194x111.png"group-title="TDA",ALBARDON TV HD
 https://vd01.streaminghd.net.ar:3451/stream/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png", METRO TV HD  18.1 TUCUMÁN
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="TDA", METRO TV HD  18.1 TUCUMÁN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU",EL TRECE  33.1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA",EL TRECE  33.1
 https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg", TELEFE  34.1
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA",TELEFE  34.1
 http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/53226
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG",EL NUEVE
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA",EL NUEVE
 http://sdmx.vip:8080/Mark2023/Mark2023/210850
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png",MULTIVISION HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA",MULTIVISION HD
 https://panel.dattalive.com:443/8250/8250/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png",CANAL 26  24.2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="TDA",CANAL 26  24.2
 http://live-edge01.telecentro.net.ar:80/live/smil:c26.smil/chunklist_w196303941_b2628000_sleng.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png",A24 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="TDA",A24 HD
 https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/24c64feb-0bb0-4846-87ba-99a65badd942:SCL/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSims4es-iscs2siqTcRwEL8GFY4nMaKjjjAg&usqp=CAU",CRONICA TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSims4es-iscs2siqTcRwEL8GFY4nMaKjjjAg&usqp=CAU"group-title="TDA",CRONICA TV HD
 http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/61562
 
 
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png", AMÉRICA  36.1
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA", AMÉRICA  36.1
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/9fefa3ca-1ad6-4b2c-bea5-dfde48f8d003:SCL/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png",EL OCHO
-https://www.dailymotion.com/cdn/live/video/x8hvuj5.m3u8?sec=rQLONpNU0Z67U089ocLe9sMnjaLS-Fp1OoxcwHgXD-Qo9m2gEfIGz7X8BMks00B2&dmTs=745425&dmV1st=f96c437b-de99-44c6-af72-6e4b89efeac7
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png",CANAL 4 HD
+#EXTINF:-1 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png"group-title="TDA",CANAL 4 HD
 https://5cd577a3dd8ec.streamlock.net:443/canal4/smil:manifest.smil/chunklist_w889191551_b316000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png",CANAL 8 HD  8.1 MDP
+#EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png"group-title="TDA",CANAL 8 HD  8.1 MDP
 https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png",10 HD  10.1  MDP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA",10 HD  10.1  MDP
 https://g4.mc-hor.transport.edge-access.net:443/a13/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png", CANAL 9 HD  9.1.  MISIONES
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png"group-title="TDA", CANAL 9 HD  9.1.  MISIONES
 https://panel.dattalive.com:443/8076/8076/chunklist_w931708659.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyJVKGWk0vHNvIEhxrvdteHT1LsKMdFrizb9J_zuVItmyaeei-QbzqE0XKfZXEZjAyoLweXecjnSu6eYtEwuI5W_S-MKyxDGFnfXT1gxPM3thM7W9krwJLUro07Rj3NR9hjHBKtjHW5ajR4I7npNYTyTvPYrnATMgagbbGFL3Qc9_LNPfmGJhzwgt9/s200/canal9-litoral.png", CANAL 9 HD  9.3   LITORAL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyJVKGWk0vHNvIEhxrvdteHT1LsKMdFrizb9J_zuVItmyaeei-QbzqE0XKfZXEZjAyoLweXecjnSu6eYtEwuI5W_S-MKyxDGFnfXT1gxPM3thM7W9krwJLUro07Rj3NR9hjHBKtjHW5ajR4I7npNYTyTvPYrnATMgagbbGFL3Qc9_LNPfmGJhzwgt9/s200/canal9-litoral.png"group-title="TDA", CANAL 9 HD  9.3   LITORAL
 https://stream.arcast.live:443/ahora/ahora/chunklist_w1967933953.m3u8?PlaylistM3UCL
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png",CANAL 9 HD  9.2  RESISTENCIA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="TDA",CANAL 9 HD  9.2  RESISTENCIA 
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png",TELEVIDA HD  MENDOZA
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="TDA",TELEVIDA HD  MENDOZA
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 
