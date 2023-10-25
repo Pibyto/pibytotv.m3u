@@ -24,28 +24,32 @@ https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png", CINCO TV HD  TIGRE
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdRFMDQnm4T6y5KPATMxrog3iAZy0VpCCKg&usqp=CAU",SPTV HD
+https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s",BLU HD SAN JUAN
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Eltres_TV_Rosario_%28Logo_2018%29.png/revision/latest/scale-to-width-down/200?cb=20200326211027",ELTRES TV
-https://www.dailymotion.com/cdn/live/video/x8aobf1.m3u8?sec=sO-huNA2pgAjHiVT9dyY1VTGzj32jZMrJ6iFgI3ONwNyg9IlBhTEsNmkPhud-ujD&dmTs=745425&dmV1st=f96c437b-de99-44c6-af72-6e4b89efeac7
-https://canalsj.kozow.com/canal40/index.fmp4.m3u8
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1559353905389211649/jiMjTixH_400x400.jpg",CTV
+https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://onefm.es/data/files/webjun-1.png",ONE 29.4
-https://stmvideo2.livecastv.com:443/oneradio/oneradio/chunklist_w2010010738.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWKmqyChU81NRBe-Lj57C3VNmbTno_P_S5Cw&s",TVREBELDE HD 17.1
 https://vkvd473.mycdn.me/?srcIp=186.132.6.67&pr=43&expires=1698534709384&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.217&type=3&sig=SX1TPj_Zn_8&ct=0&urls=45.136.21.166&clientType=14&appId=512000384397&zs=43&id=5558480800491
 
 
-
-#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png", CINCO TV HD  TIGRE
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://telecreativa.com/logos/telecreativa_black_256.gif",TELECREATIVA
@@ -68,9 +72,6 @@ https://vd01.streaminghd.net.ar:3451/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png", METRO TV HD  18.1 TUCUMÁN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdRFMDQnm4T6y5KPATMxrog3iAZy0VpCCKg&usqp=CAU",SPTV HD
-https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 
 
 
