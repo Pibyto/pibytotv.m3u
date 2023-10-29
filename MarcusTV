@@ -27,6 +27,9 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbKuu8dKfcD_QuVlj01VLfUc3C1cR3oXUBsw&usqp=CAU"group-title="TDA",CN3 PINAMAR
+https://intelincloud01.com.ar/hls/cn3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA",PANC TV
 https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
 
