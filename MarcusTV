@@ -227,6 +227,14 @@ https://ssh101.bozztv.com:443/ssh101/galaxytv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="TV",WOW MOVIES
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4e8209_e641fe798e3143d4972c4de3e0e29bd3~mv2.png/v1/fit/w_2500,h_1330,al_c/4e8209_e641fe798e3143d4972c4de3e0e29bd3~mv2.png"group-title="TV",APANINES TV
+https://ssh101.bozztv.com:443/ssh101/apaninestv/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.chispa.tv/__export/1584815991244/sites/debate/img/2020/03/21/televisa_regala_blim_tv_crop1584815768614.jpg_1902800913.jpg"group-title="TV",LIM TV
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ASHAsSge3r5fjRnCBjbuF66vrneGdSpivA&usqp=CAU"group-title="TV",+CINE HD
@@ -288,7 +296,7 @@ https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.chispa.tv/__export/1584815991244/sites/debate/img/2020/03/21/televisa_regala_blim_tv_crop1584815768614.jpg_1902800913.jpg"group-title="TV",LIM TV
-https://tgn.bozztv.com/ssh101/ssh101/invasivamedia/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/4cY2e08J_TPCJpO0nWKhVse1rrKJLgOAfevH_1qF4nh0TQglWWytUc1UErK5mbuAz9as=w600-h300-pc0xffffff-pd"group-title="TV",BNB DIGITAL
