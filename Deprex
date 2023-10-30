@@ -62,7 +62,8 @@ http://sdmx.vip:8080/Mark2023/Mark2023/179041
 
 
 
-#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",MEGA TV
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru.png"group-title="DEPREXTV",TV EN LINEA
+https://ssh101.bozztv.com:443/ssh101/ucchullo/chunks.m3u8
 https://hls.servidor.stream/storage/megatv.m3u8
 
 
