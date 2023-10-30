@@ -38,6 +38,11 @@ https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.salvaciontv.org/images/logo.png"group-title="TDA",SALVACION TV
+https://stream.eleden.com:443/livesalvatv/ngrp:livesalvatv_all/chunklist_w117830734_b778000.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2876-960x540-000000.jpg"group-title="TDA", LA FE MUEVE MONTAÑAS HD
 https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
 
