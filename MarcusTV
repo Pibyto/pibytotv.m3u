@@ -249,6 +249,39 @@ https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w463293140.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="TV", RAKUTEN TOP FREE
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2"group-title="TV",MY TIME MOVIES 
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png"group-title="TV",PLANETA MOVIES
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.chispa.tv/__export/1584815991244/sites/debate/img/2020/03/21/televisa_regala_blim_tv_crop1584815768614.jpg_1902800913.jpg"group-title="TV",LIM TV
+https://tgn.bozztv.com/ssh101/ssh101/invasivamedia/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/4cY2e08J_TPCJpO0nWKhVse1rrKJLgOAfevH_1qF4nh0TQglWWytUc1UErK5mbuAz9as=w600-h300-pc0xffffff-pd"group-title="TV",BNB DIGITAL
+https://vdo.panelstreaming.live:3806/live/bnbdigitallive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTX6Ign8OtS0dp5XTcCjlCQbwCMyd0IlhMEQ&usqp=CAU"group-title="TV",PLANETA HD
+https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1,tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png"group-title="TV", VALLEVISION
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuSjnZO7QN13_1FvP3uToW7wE8CrawNWk0SQ&usqp=CAU"group-title="TV",MILLENIUM TELEVISION
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSesQkl24Q03dL18wIeCmagIpUABtcbASBOKg&usqp=CAU"group-title="TV",I CARLY
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
