@@ -284,6 +284,16 @@ https://ssh101.bozztv.com:443/ssh101/tavapytvhd/chunks.m3u8
 https://ssh101.bozztv.com:443/ssh101/teleportal/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://pregotvyradio.com/wp-content/uploads/2021/10/logopregotv.png"group-title="TV",PREGOTV
+https://vdo2.streamgato.us:3216/live/pregotvlive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/bella-vision-canal-8.png"group-title="TV",BELLAVISION HD
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="TV", RAKUTEN TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
