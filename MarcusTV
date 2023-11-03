@@ -211,12 +211,28 @@ https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png"group-title="TV",URANIO TV HD
+https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://www.origentv.cl/wp-content/uploads/2023/08/LOGO-ROJO_0002_LOGO-tv2-768x414.png"group-title="TV",ORIGEN TV HD
 https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="TV",WOW MOVIES
+https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/e8da7c56f4465c9f87a926bd6b4a13331c8b782d6e1f873fd9bee945161b3810.png"group-title="TV",MULTIZONAS TELEVISIÓN HD
+https://cloudvideo.servers10.com:8081/8068/rewind-3600.m3u8?DVR
+
 
 
 
@@ -227,9 +243,6 @@ https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8?ads.content_page_url=https
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Galaxy_TV_2000s_Logo.png/revision/latest?cb=20211017034205"group-title="TV",GALAXY TV HD
 https://ssh101.bozztv.com:443/ssh101/galaxytv/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="TV",WOW MOVIES
-https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 
 
 
@@ -346,16 +359,11 @@ https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1673979743.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png"group-title="TV",URANIO TV HD
-https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png"group-title="TV", CB TV
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/e8da7c56f4465c9f87a926bd6b4a13331c8b782d6e1f873fd9bee945161b3810.png"group-title="TV",MULTIZONAS TELEVISIÓN HD
-https://cloudvideo.servers10.com:8081/8068/rewind-3600.m3u8?DVR
 
 
 
