@@ -267,6 +267,27 @@ https://ssh101.bozztv.com:443/ssh101/apaninestv/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NkpCCH5RNEt5GXu6U7nX81PzyAVKzIyUMg&usqp=CAU"group-title="TV",TV'S X TV
+https://xhateaec.com:8800/hls/visitor/visitor/09b15145dec3e2ff643906b681ff0ac9/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvanSOFuGC-UwQLFH3-9At1xX4YG1QPq_lUA&usqp=CAU"group-title="TV",MIRAMAX TV
+https://xhateaec.com:8800/hls/visitor/visitor/9ca3d23834ec1c0915d507ac7b21e07a/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfHPVdelTbBm1yG-6yxBOVo7IuDsY8k7UBNA&usqp=CAU"group-title="TV",TELEORIENTE
+https://xhateaec.com:8800/hls/visitor/visitor/2d7af514b59048d01e3a9d98af4c9ff9/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://sucremantatv.com/wp-content/uploads/2022/10/sucremantatvhd.png"group-title="TV",SUCREMANTA TV HD
+https://xhateaec.com:8800/hls/visitor/visitor/dcb0abf1e6d52979ecae00d7a81af48b/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.chispa.tv/__export/1584815991244/sites/debate/img/2020/03/21/televisa_regala_blim_tv_crop1584815768614.jpg_1902800913.jpg"group-title="TV",LIM TV
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8?PlaylistM3UCL
 
