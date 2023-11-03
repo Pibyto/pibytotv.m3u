@@ -145,6 +145,13 @@ https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/chunkl
 
 
 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/53e3b76611c1f5686c3d1f9b0bc753aceb690df0d7f68cb3b9607d24f484399c.png"group-title="TDA BS.AS",JTV
+https://xhateaec.com:8800/hls/visitor/visitor/57328eda266dcd70fd321815a6813ac1/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQEaaJIGvj0gwd5VmN96yPyQCUp4wPaYqTA&usqp=CAU"group-title="TDA BS.AS",iP TeVe
+https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
 
 
 
