@@ -179,6 +179,16 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w30918240
 https://tvlive.servicioselbachi.com:3126/hybrid/play.m3u8
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="TDA BS.AS",WOW MOVIES
+https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="TDA BS.AS",IU TV HD
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
