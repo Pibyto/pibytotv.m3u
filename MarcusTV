@@ -238,6 +238,17 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w858212870.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/53e3b76611c1f5686c3d1f9b0bc753aceb690df0d7f68cb3b9607d24f484399c.png"group-title="TV",JTV
+https://xhateaec.com:8800/hls/visitor/visitor/57328eda266dcd70fd321815a6813ac1/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQEaaJIGvj0gwd5VmN96yPyQCUp4wPaYqTA&usqp=CAU"group-title="TV",iP TeVe
+https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4e8209_e641fe798e3143d4972c4de3e0e29bd3~mv2.png/v1/fit/w_2500,h_1330,al_c/4e8209_e641fe798e3143d4972c4de3e0e29bd3~mv2.png"group-title="TV",APANINES TV
 https://ssh101.bozztv.com:443/ssh101/apaninestv/chunks.m3u8
 
