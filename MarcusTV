@@ -1,3 +1,4 @@
+
 #MarcusTV
 
 
@@ -499,6 +500,11 @@ http://169.197.141.2:8080/Leroy14/marlow14/366832
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="CABLE",CINECANAL HD
+http://sdmx.vip:8080/Max2023/Max2023/10845
+
+
+
 #EXTINF:-1 tvg-logo=""group-title="CABLE",PANICO HD
 http://sdmx.vip:8080/Max2023/Max2023/155171
 
@@ -510,6 +516,15 @@ http://sdmx.vip:8080/Max2023/Max2023/201151
 
 #EXTINF:-1 tvg-logo=""group-title="CABLE",GOLDEN
 http://sdmx.vip:8080/Max2023/Max2023/154110
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="CABLE",GOLDEN PLUS
+http://sdmx.vip:8080/Max2023/Max2023/10862
+
+
+#EXTINF:-1 tvg-logo=""group-title="CABLE",GOLDEN
 
 
 
@@ -525,22 +540,23 @@ http://169.197.141.2:8080/Leroy14/marlow14/366873
 
 
 #EXTINF:-1 tvg-logo="https://elplanetaconectado.files.wordpress.com/2020/08/amc2.png"group-title="CABLE",AMC HD
-http://45.190.187.105:58092/play/a06l/index.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png"group-title="CABLE",DHE HD
-http://45.190.187.105:58092/play/a02f/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/165/577/png-transparent-paramount-s-paramount-network-logo-viacom-media-networks-paramount-television-network-miscellaneous-television-blue-thumbnail.png"group-title="CABLE",PARAMOUNT HD
-http://45.190.187.105:58092/play/a06d/index.m3u8
+http://sdmx.vip:8080/Max2023/Max2023/10867
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xX6rEvtGXqTmSS9prdiIc5oncZiUX3ICRw&usqp=CAU"group-title="CABLE",A&E HD
-http://45.190.187.105:58092/play/a02a/index.m3u8
+
 
 
 #EXTINF:-1 tbg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlDWXeDgYxhlZ9TdN7b0caA7nVPd-tPn48RA&usqp=CAU"group-title="CABLE",CINE SONY HD
@@ -598,6 +614,10 @@ http://sdmx.vip:8080/Max2023/Max2023/10883
 
 #EXTINF:-1 tvg-logo=""group-title="CABLE",HBO PLUS
 http://sdmx.vip:8080/Max2023/Max2023/10880
+
+
+#EXTINF:-1 tvg-logo=""group-title="CABLE",HBO FAMILY
+http://sdmx.vip:8080/Max2023/Max2023/10878
 
 
 #EXTINF:-1 tvg-logo=""group-title="CABLE", HBO SIGNATURE HD
