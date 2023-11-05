@@ -524,7 +524,7 @@ http://sdmx.vip:8080/Max2023/Max2023/154110
 http://sdmx.vip:8080/Max2023/Max2023/10862
 
 
-#EXTINF:-1 tvg-logo=""group-title="CABLE",GOLDEN
+#EXTINF:-1 tvg-logo=""group-title="CABLE",
 
 
 
@@ -534,12 +534,21 @@ http://169.197.141.2:8080/Leroy14/marlow14/366873
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="CABLE",STAR CHANNEL
+http://sdmx.vip:8080/Max2023/Max2023/2092589
 
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="CABLE",FX HD
+http://sdmx.vip:8080/Max2023/Max2023/2092561
 
 
 
 
 #EXTINF:-1 tvg-logo="https://elplanetaconectado.files.wordpress.com/2020/08/amc2.png"group-title="CABLE",AMC HD
+http://sdmx.vip:8080/Max2023/Max2023/10548
 
 
 
@@ -556,6 +565,7 @@ http://sdmx.vip:8080/Max2023/Max2023/10867
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xX6rEvtGXqTmSS9prdiIc5oncZiUX3ICRw&usqp=CAU"group-title="CABLE",A&E HD
+http://sdmx.vip:8080/Max2023/Max2023/10546
 
 
 
@@ -579,7 +589,7 @@ http://sdmx.vip:8080/Max2023/Max2023/155176
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png"group-title="CABLE",TNT Series HD
-
+http://sdmx.vip:8080/Max2023/Max2023/10578
 
 
 #EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/731381553.png"group-title="CABLE",UNIVERSAL CINEMA HD
