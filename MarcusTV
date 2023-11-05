@@ -166,6 +166,8 @@ https://panel.dattalive.com:443/8250/8250/playlist.m3u8
 http://ultrapremium.cloud:8080/934478603tv/zg9p8d/15840
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png"group-title="TDA",LN+ HD
+http://sdmx.vip:8080/Max2023/Max2023/210856
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/800px-Net_TV_logo.png"group-title="TDA", NET TV HD  27.2
@@ -470,48 +472,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378
 
 
 
-#EXTINF:-1 tvg-logo="https://ritmosocial.com/wp-content/uploads/2023/04/1010x567_exorcista-papa-445634-091825.jpg"group-title="MOVIE",3L 3X0RC1STA DEL 4A4A
-https://rr3---sn-bg07dnre.c.drive.google.com/videoplayback?expire=1699041782&ei=xidFZZeMBK6Cy_sP-8KGiAM&ip=186.132.8.188&id=eae883845279a74a&itag=18&source=webdrive&requiressl=yes&xpc=EghotM6WJ3oBAQ==&ttl=transient&susc=dr&driveid=18skH2gjbB6I73SdvmAhaAbj4OYKb1-V7&app=explorer&eaua=UZ9TrqWQhbY&mime=video/mp4&vprv=1&prv=1&dur=6209.735&lmt=1683363768688829&subapp=DRIVE_WEB_FILE_VIEWER&txp=0016224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,ttl,susc,driveid,app,eaua,mime,vprv,prv,dur,lmt&sig=ANLwegAwRgIhAIOp6VWhk97TwWpq-397_JWKpfulkAISuV3UoGBup3zKAiEA-7cZgmYfibpn6cMcwbld7-cLbCiUPrzeQUt1X4_s2hE=&cpn=aEWLB1SU7XCUJltg&c=WEB_EMBEDDED_PLAYER&cver=1.20231031.01.00&redirect_counter=1&cm2rm=sn-x1xly7e&fexp=24350045&req_id=7bf3aec54f7836e2&cms_redirect=yes&cmsv=e&mh=tl&mm=34&mn=sn-bg07dnre&ms=ltu&mt=1699030604&mv=m&mvi=3&pl=17&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AK1ks_kwRgIhAMs3QW14RvHlHllRQ-66Md1jrhSx-AYL5jUs56MWQIx1AiEA2NVEWLZtMsNF1353FYQHX5mrvQqIetSPtJ2jH_OrSKA%3D
-
-
-
-#EXTINF:-1 tvg-logo="https://los40.cl/wp-content/uploads/2022/01/MORTAL-KOMBAT-2-1024x576.png"group-title="MOVIE",MORTAL COMBAT
-https://rr1---sn-bg07dn6k.c.drive.google.com/videoplayback?expire=1699043234&ei=ci1FZf6dK8CMxtYPjdO42Ak&ip=186.132.8.188&id=82132118852e2e2b&itag=18&source=webdrive&requiressl=yes&xpc=EghotM6WJ3oBAQ==&ttl=transient&susc=dr&driveid=1KdmcNvLB20_XX4mT7QG1TYI3vKUgsmUf&app=explorer&eaua=UZ9TrqWQhbY&mime=video/mp4&vprv=1&prv=1&dur=6601.572&lmt=1619210652715528&subapp=DRIVE_WEB_FILE_VIEWER&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,ttl,susc,driveid,app,eaua,mime,vprv,prv,dur,lmt&sig=ANLwegAwRAIgfbmnjywJzsUmwXcN2wH5ZGoIRpjzG3M7RKu1RAIRzicCIEr_TVGLTVtGzFtPvhZObH6J5173_1jUNvalZStl6SZ7&cpn=zEzEDfb5-RnnoZmr&c=WEB_EMBEDDED_PLAYER&cver=1.20231031.01.00&redirect_counter=1&cm2rm=sn-x1xly7l&fexp=24350045&req_id=a8616212f50e36e2&cms_redirect=yes&cmsv=e&mh=Ey&mm=34&mn=sn-bg07dn6k&ms=ltu&mt=1699032041&mv=m&mvi=1&pl=17&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AM8Gb2swRQIhANnVcxVgKxSz9swhUfTFqkubiK8Uc6iEsxTVJQctU6BRAiBWPEtWWTd6fmsU6lF-ubO7ezedAm1c3A9D_GCNaC87rQ%3D%3D
-
-
-
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c7268c79-9436-4230-b75e-2814495b25f4/dfgs93w-7ef02e15-6573-4ff6-9fe3-ba2ecdfdccab.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3MjY4Yzc5LTk0MzYtNDIzMC1iNzVlLTI4MTQ0OTViMjVmNFwvZGZnczkzdy03ZWYwMmUxNS02NTczLTRmZjYtOWZlMy1iYTJlY2RmZGNjYWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fRU_zZWbVr48PEhHHAhd8kkFemxrle6z0Oe42Sap3Ww"group-title="MOVIE",JESUS REVOLUCION
-https://rr1---sn-bg0eznsy.c.drive.google.com/videoplayback?expire=1699043805&ei=rS9FZbKdA8-U4QSVzZXQBg&ip=186.132.8.188&id=774c43aa32f7b690&itag=18&source=webdrive&requiressl=yes&xpc=EghotM6WJ3oBAQ==&ttl=transient&susc=dr&driveid=15i5IgJjncF2e8f3xN3zmRxNOqr83qiI7&app=explorer&eaua=UZ9TrqWQhbY&mime=video/mp4&vprv=1&prv=1&dur=7195.445&lmt=1683310879589634&subapp=DRIVE_WEB_FILE_VIEWER&txp=0011224&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,ttl,susc,driveid,app,eaua,mime,vprv,prv,dur,lmt&sig=ANLwegAwRQIhAN15xqmQhOX0yhlOi0x3jqKN-4IqXFFhEkugBV0E7xYcAiA_K2kYfwSmbsQEuVmrvIEsAp8qny5HSDygCmF5INCnFw==&cpn=p__h84U9oeQXY1Dx&c=WEB_EMBEDDED_PLAYER&cver=1.20231031.01.00&redirect_counter=1&cm2rm=sn-x1xs77s&fexp=24350045&req_id=c36a9b79ba9336e2&cms_redirect=yes&cmsv=e&mh=eh&mm=34&mn=sn-bg0eznsy&ms=ltu&mt=1699032760&mv=m&mvi=1&pl=17&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AM8Gb2swRQIhAIUC3dUTy9AmFgTqNDXdsDnBP4_pMigs0_bA2QIG4Th3AiA8_KPoKSuQrhBqj7Nb97YemnNWwXqxOdgsRXfJ0l9YmA%3D%3D
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgfIwOP1u0dkvioGiEWnRfi6g9m40m96iFg&usqp=CAU"group-title="MOVIE",La Liga de la Justicia
-https://rr1---sn-bg0ezn7l.c.drive.google.com/videoplayback?expire=1699044443&ei=KzJFZbyjA8G2xtYPl-KG6Aw&ip=186.132.8.188&id=a9f3b88d109a2083&itag=18&source=webdrive&requiressl=yes&xpc=EghotM6WJ3oBAQ==&ttl=transient&susc=dr&driveid=1Iyhg7WZVuhY3SO29my7ui84CWM7tasq6&app=explorer&eaua=UZ9TrqWQhbY&mime=video/mp4&vprv=1&prv=1&dur=14560.467&lmt=1616003783106904&subapp=DRIVE_WEB_FILE_VIEWER&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,ttl,susc,driveid,app,eaua,mime,vprv,prv,dur,lmt&sig=ANLwegAwRAIgRY_Nfgvh3DOF7lIspydzrEKA8BsOJRE-L4-z1j--nfUCIF3nrmwNlTRnmno7owbg0UzGKxsvnhtFMPCPD9zOfaDn&cpn=-Z_BkNWIG7N3mYZ_&c=WEB_EMBEDDED_PLAYER&cver=1.20231031.01.00&redirect_counter=1&cm2rm=sn-x1xsl7z&fexp=24350045&req_id=996ffad9259a36e2&cms_redirect=yes&cmsv=e&mh=yr&mm=34&mn=sn-bg0ezn7l&ms=ltu&mt=1699033240&mv=m&mvi=1&pl=17&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AM8Gb2swRAIgVzDZetiJZb2eRkv3PD7VRAFo79du2Bb7PUc6DPGQrLECID6OZgo3sT8MK0TfVcZqzsk23RW6dp1USEC7DIqFu4gX
-
-
-
-#EXTINF:-1 tvg-logo="https://www.aciera.org/wp-content/uploads/2023/08/9fa223facc00-sof-official-latam-poster-digital-800x600-1.jpg"group-title="MOVIE",SONIDOS DE LIBERTAD
-https://ok6-14.vkuser.net:443/expires/1699121508577/srcIp/186.132.8.188/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/wGUOHWgD7r8/ct/8/urls/45.136.21.18%3B185.226.53.29/clientType/0/zs/43/id/5601371359855/video/
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSA1SgVl7uXl02PSJbaCGStfrD5N9fxzpz9w&s"group-title="MOVIE",BAJO CERO
-https://ok6-14.vkuser.net:443/expires/1699121508577/srcIp/186.132.8.188/srcAg/CHROME_ANDROID/ms/95.142.206.141/type/5/sig/wGUOHWgD7r8/ct/8/urls/45.136.21.18%3B185.226.53.29/clientType/0/zs/43/id/5601371359855/video/
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6LOMK59X9XGrsaQsS027pRwRx-uOLyUKOvQ&usqp=CAU"group-title="MOVIE",DERECHO A VIVIR
-https://vd277.mycdn.me:443/expires/1699122160592/srcIp/186.132.8.188/srcAg/CHROME_ANDROID/ms/185.226.52.27/type/5/sig/RQ6pLP6wrQ8/ct/8/urls/45.136.22.79/clientType/0/zs/43/id/5077462289020/video/
-
-
-
-
-
-
-
-
 
 
 
@@ -655,7 +615,11 @@ http://ultrapremium.cloud:8080/934478603tv/zg9p8d/16161
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="SPORTS",TNT SPORTS
-http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/934478603tv/zg9p8d/459
+http://sdmx.vip:8080/Max2023/Max2023/2140800
+
+
+
+
 
 
 
