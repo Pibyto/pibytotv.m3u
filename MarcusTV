@@ -614,6 +614,13 @@ http://ultrapremium.cloud:8080/934478603tv/zg9p8d/16161
 
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"group-title="SPORTS",ESPN PREMIUM OP2
+http://sdmx.vip:8080/Max2023/Max2023/2121662
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="SPORTS",TNT SPORTS
 http://sdmx.vip:8080/Max2023/Max2023/2140800
 
