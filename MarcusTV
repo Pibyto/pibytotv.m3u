@@ -166,6 +166,13 @@ http://ultrapremium.cloud:8080/934478603tv/zg9p8d/16240
 https://panel.dattalive.com:443/8250/8250/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/unife.mx/wp-content/uploads/2023/01/Logo-3D-Horizontal-Azul.png?fit=1024%2C489&ssl=1"group-title="TDA",UNIFE
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/acda902f73a646daac3fdc9dcddbc971/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="TDA",CANAL 26  24.2
 http://ultrapremium.cloud:8080/934478603tv/zg9p8d/15840
 
