@@ -495,7 +495,71 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Star_Action_2020.svg"group-title="CABLE",STAR ACCION HD
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/147
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Star_Cinema_2020.svg"group-title="CABLE",STAR CINEMA HD
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/68429
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/1000px-Star%2B_logo.svg.png"group-title="CABLE",STAR PLUS HD
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/83329
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png"group-title="CABLE",STAR PLAY HD
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/83328
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1200px-Star_Hits_2020.svg.png"group-title="CABLE",STAR HITS HD
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/169
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Star_Comedy_2020.svg"group-title="CABLE", STAR COMEDY HD
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/156
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Star_Fun_2021.svg/revision/latest?cb=20210224134539&path-prefix=es"group-title="CABLE",STAR FUN KIDS HD
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/159
+
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dext4h0-6776ca02-253a-4865-919a-8a0cee1d5b89.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1MTliOTZjLTcxZjgtNDA0MC04MmQ0LWM4MGUxODM4NGYxYlwvZGV4dDRoMC02Nzc2Y2EwMi0yNTNhLTQ4NjUtOTE5YS04YTBjZWUxZDViODkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bl1TZ0yxUPMXkK811-GrctUBvLPzcJb6VyOvf-mGUPE"group-title="CABLE",STAR TERROR HD http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/226202
+
+
+#EXTINF:-1 tvg-logo="https://elranking.mx/wp-content/uploads/2022/07/4-cosas-sobre-ViX-el-nuevo-servicio-de-Streaming-en-Mexico.jpg"group-title="CABLE",VIX+ ACCION
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/87987
+
+
+#EXTINF:-1 tvg-logo="https://revistadaquebrada.com.br/wp-content/uploads/2023/07/Vix-.jpeg"group-title="CABLE", VIX PLUS
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/107834
+
+
+#EXTINF:-1 tvg-logo="https://www.eleconomista.com.mx/__export/1621459101271/sites/eleconomista/img/2021/05/19/hbo_max_facebookhbo.png_554688468.png"group-title="CABLE",HBO MAX SERIES 2
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/179861
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_3MWlEluo6A/hqdefault.jpg"group-title="CABLE",HBO MAX ORIGINALS
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/189922
+
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/197/982/png-clipart-logo-nitro-brand-nitro-television-angle.png"group-title="CABLE",TNT NITRO
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/227797
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/c/c3/TNT_Sci-Fi_2016.png/revision/latest?cb=20210119002629"group-title="CABLE",TNT SCI-FY
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/228013
+
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/303/822/png-clipart-tnt-logo-turner-broadcasting-system-television-channel-design-television-angle.png"group-title="CABLE",TNT HD
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/68435
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/Paramount-logo-F9FC175D1F-seeklogo.com.png"group-title="CABLE",PARAMOUNT HORROR
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/225996
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9CFE26C322-seeklogo.com.png"group-title="CABLE",USA NETWOORK
+http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/69161
 
 
 
