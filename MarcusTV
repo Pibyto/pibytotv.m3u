@@ -208,6 +208,10 @@ http://ultrapremium.cloud:8080/934478603tv/zg9p8d/61552
 
 
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/quanticaradio.com.ar/wp-content/uploads/2021/02/cropped-Quantica-2.jpeg?fit=512%2C512&ssl=1"group-title="TDA",QUANTICA TV
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png"group-title="TDA",CANAL 4 HD
@@ -232,7 +236,9 @@ https://stream.arcast.live:443/ahora/ahora/chunklist_w1967933953.m3u8?PlaylistM3
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="TDA",CANAL 9 HD  9.2  RESISTENCIA 
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist_w1546314826_b2044100_sleng.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/D07fIRqfD6PelOennK8YC/42b711261ffc1067c35cd02954f3a5c5/9_televida-mendoza.png"group-title="TDA",TELEVIDA HD  MENDOZA
