@@ -20,7 +20,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIH7IvWdyWkBaji8f9hOUZjJVebklrkwkxhQwQwSlECCtRr4H&s"group-title="TDA",GENTV HD  17.3  CABA
-https://inliveserver.com:1936/14056/14056/chunklist_w513681279.m3u8
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="TDA",CINCO TV HD  TIGRE
