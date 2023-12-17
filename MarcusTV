@@ -29,6 +29,16 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
+
+
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5ffc15f8-985d-476b-90d4-e2eb321fa4b0-profile_image-300x300.jpeg"group-title="TDA",CANAL 9 SAN LUIS
+https://usher.ttvnw.net/api/channel/hls/canal9sanluis.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=120.0&cdm=wv&fast_bread=true&os_name=Android&os_version=11&p=909218&platform=mobile_web&play_session_id=61856b143c9fdd41274a068576523f06&player_backend=mediaplayer&player_version=1.24.0-rc.1.2&playlist_include_framerate=true&reassignments_supported=true&sig=c42d0abc7da872c6b267a49e732785d49f0dd687&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22canal9sanluis%22%2C%22channel_id%22%3A792058649%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%225a00b48fbc4af1ad%22%2C%22expires%22%3A1702791935%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.132.112.169%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-41-bayres-tv-en-vivo-2329.png"group-title="TDA",BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
