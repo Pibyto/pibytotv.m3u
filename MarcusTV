@@ -1,4 +1,4 @@
-⁸
+
 #MarcusTV
 
 
@@ -220,7 +220,10 @@ http://ultrapremium.cloud:8080/934478603tv/zg9p8d/16240
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA",MULTIVISION HD
-https://panel.dattalive.com:443/8250/8250/playlist.m3u8
+https://panel.dattalive.com:443/8250/8250/chunklist_w623413099.m3u8
+
+
+
 
 
 
