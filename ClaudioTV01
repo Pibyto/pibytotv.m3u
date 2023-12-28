@@ -186,7 +186,8 @@ https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8?PlaylistM3UC
 
 
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECSU6BaxEWDGW889Td3dbR5OpqVbTA8l-9-p4SFapnw&s"group-title="TDA",TELEMIX HD
+https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
 
 
 
@@ -195,7 +196,12 @@ https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8?PlaylistM3UC
 https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
 
 
+EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/r-e-television.png"group-title="TV",R&E
+https://stmv5.voxtvhd.com.br/ryetv/ryetv/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
+
+#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/8tWm_1bKogiD3WMim/200x200"group-title="TV",MAJESTAD TV
+https://go.majestadtv.ec:443/hls/0/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="TV",CANAL+ HD  17.5
