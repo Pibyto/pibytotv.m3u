@@ -240,7 +240,6 @@ https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1539980248.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3127-960x540-000000.jpg"group-title="TV", BOX CINEMA HD
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/RRG2IQFB0N5L2XCIXPZW/hls3/now_-1m_15s/m.m3u8?ads.app_bundle=200282&ads.app_name=VIVALIVE+TV&ads.cb=&ads.channel_name=Box+Cinema&ads.content_genre=Action%2CAdventure%2CCrime%2CDrama%2CEntertainment%2CFilm%2CMystery%2CLATAM%2CMovies&ads.content_series=beer+run&ads.did=&ads.gdpr=0&ads.gdpr_consent=0&ads.h=1080&ads.ic=IAB1-5&ads.ip=&ads.pod_max_dur=&ads.provider=Klasko&ads.rating=TV14&ads.schain=&ads.ua=&ads.url=&ads.us_privacy=1---&ads.vast_id=SKL101&ads.w=1920&coppa=0&is_lat=0&livestream=1&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/94368c32-7230-4ac2-9a50-6adc946e66e4/2.m3u8
 
 
@@ -492,10 +491,10 @@ https://g1.vxral-hor.transport.edge-access.net:443/a05/ngrp:c12_live01-100129_al
 
 
 
-#EXTINF:-1 tvg-logo="https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png"group-title="TDA INTERIOR",TELE JUNIN
-https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8?PlaylistM3UCL
-https://vkvsd96.mycdn.me:443/hls/3256757783197.m3u8/sig/ChU7CGcdHzI/srcIp/186.132.18.151/urls/45.136.22.53/expires/1688130275021/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/4385924262813/id/3256757783197/3256757783197_medium/index.m3u8
-https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png"group-title="TDA INTERIOR",NORTEVISION
+https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?PlaylistM3UCL
+
+
 
 
 
