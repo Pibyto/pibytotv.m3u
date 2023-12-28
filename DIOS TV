@@ -9,12 +9,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png"group-title="CRISTIANO",BENDICION TV HD
-https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1,tvg-logo="https://support.google.com/legal/answer/3463239?hl=es-419"group-title="CRISTIANO", NATANAEL TV
-https://cloud2.streaminglivehd.com:1936/natanaeltv/natanaeltv/chunklist_w845398431.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/_0sQVkpVmGSk/TIX_304VIOI/AAAAAAAAAIM/YxMcjC8BGqo/s1600/LOGO%2520SOLIDARIA%2520TV%2520corel%252011.jpg"group-title="CRISTIANO",SOLIDARIA TV
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
@@ -39,17 +35,10 @@ https://cdn2.streamgato.us/clarovision/clarovision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s193997/images/logod.jpg?t=154090"group-title="CRISTIANO", UNCIÓN Y PODER TV HD
 https://www.yupi.live:1936/tvuncion/tvuncion/chunklist_w432622400.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/23b94258ba98a26b602a2b261b046bd3.webp"group-title="CRISTIANO",ACCE TV HD
-https://5bf8041cb3fed.streamlock.net:443/AVIVAMIENTOCCETV/AVIVAMIENTOCCETV/chunklist_w796679253.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://bendiciontv.cl/wp-content/uploads/2021/04/logohorizontaltv.png"group-title="CRISTIANO”,BENDICION TV HD
-https://v4.tustreaming.cl:443/bendiciontv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/2a78bf08-5b6f-4807-819f-ce394831f87b/VOZ%20DE%20ALERTA%20TV%20LOGO%20NUEVO.jpg"group-title="CRISTIANO",VOZ DE ALERTA TV HD
-https://5bf8041cb3fed.streamlock.net:443/AlertaTV/AlertaTV/chunklist_w999228956.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/bda4dda4f3d61d88354e6d64a8fdbc44.png"group-title="CRISTIANO", RESTAURANDO VIDAS TV HD
 http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
@@ -59,11 +48,11 @@ https://patagoniaip.trapemn.tv:1936/cristianos/restaurandovidatv1.stream/chunks.
 #EXTINF:-1 tvg-logo="https://obedira.s3.us-west-2.amazonaws.com/wp-content/uploads/2020/07/02131326/Obedira_RadioTV.jpg"group-title="CRISTIANO",OBEDIRA TV HD
 https://59ce1298bfb98.streamlock.net:443/obediratv/obediratv/chunklist_w931773303.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/715589106680664064/hDkHPWuV_400x400.jpg"group-title="CRISTIANO", VIENTO RECIO TV HD
-https://mediacp.hostradios.com.ar:19360/8092/8092.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/3h0z4D1bWI__KncOyLytL7AN1Vsp4qkOVrJSxa1ABqTK38tMSrPQ_XNV55vrGTtObsm-_XV0vg=s900-c-k-c0x00ffffff-no-rj"group-title="CRISTIANO",CASA SOBRE LA ROCA TV HD
-https://vdohd.cl:1936/8080/8080/playlist.m3u8?PlaylistM3UCL
+
+
+
+
 
 
 
