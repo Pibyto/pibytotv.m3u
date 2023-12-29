@@ -324,7 +324,7 @@ https://go.majestadtv.ec:443/hls/0/stream.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="TV",CANAL+ HD  17.5
-
+https://imagenuniversaltv.net:3820/live/guacaratvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="TV",IU TV HD
@@ -365,8 +365,9 @@ https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1539980248.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3127-960x540-000000.jpg"group-title="TV", BOX CINEMA HD
-https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/94368c32-7230-4ac2-9a50-6adc946e66e4/2.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3127-960x540-000000.jpg"group-title="TV",LA CALETA TV HD
+https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
+
 
 
 
@@ -441,7 +442,9 @@ https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_PRIME_Movie.png"group-title="TV",TV PRIME HD
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_PRIME_Movie.png"group-title="TV",TV PRIME
+ HD
+https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w816702760.m3u8
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?PlaylistM3UCL
 
@@ -884,6 +887,22 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=h:99,cg:true,m/qt=q:100/ll"group-title="CRISTIANO",EXTREMA TV HD
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/ca2e3293-bb4b-4c20-928a-c9b5e47f0058/TU%20UNIVERSO%20TV%20LOGO%20NUEVO.png"group-title="CRISTIANO",TU UNIVERSO TV
+https://5bf8041cb3fed.streamlock.net:443/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w545620712.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image70119570242.jpg"group-title="CRISTIANO",MOVIE FE
+https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO-200x200.png"group-title="CRISTIANO", DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
@@ -902,9 +921,6 @@ https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/ca2e3293-bb4b-4c20-928a-c9b5e47f0058/TU%20UNIVERSO%20TV%20LOGO%20NUEVO.png"group-title="CRISTIANO",TU UNIVERSO TV
-https://5bf8041cb3fed.streamlock.net:443/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w545620712.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
-
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/53e3b76611c1f5686c3d1f9b0bc753aceb690df0d7f68cb3b9607d24f484399c.png"group-title="CRISTIANO",JTV
 https://xhateaec.com:8800/hls/visitor/visitor/57328eda266dcd70fd321815a6813ac1/index.m3u8
@@ -915,20 +931,12 @@ https://xhateaec.com:8800/hls/visitor/visitor/57328eda266dcd70fd321815a6813ac1/i
 https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=h:99,cg:true,m/qt=q:100/ll"group-title="CRISTIANO",EXTREMA TV HD
-https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-960x540-000000.jpg"group-title="CRISTIANO",RESTAURANDO VIDAS TV HD
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/eOO3MUeLFardGwPjKGXjyNKubITdcdRM-ZPBHI1w8J3FGuG1_oD5Y8NjLaSRJG-vsNs"group-title="CRISTIANO",TVR DIGITAL
-
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f1589be8f15b2dbbb4673d6d053099ce60224c396311dd99c982f9fce47d8693.png"group-title="CRISTIANO",PENIEL MUSICAL HD
-https://cdn.streamhispanatv.net:3533/live/penielmusicagtlive.m3u8
-
-
 
 
 
@@ -950,15 +958,18 @@ https://multimedia.fortalezatv.cl:443/video/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",DIOS TV KIDS HD
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://ccpeniel.com.mx/site/images/US/MPK_LOGO.png"group-title="CRISTIANO",PENIEL KIDS
 https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
 
 
 
 
-
-
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/bd9a67ca-3e9b-48b5-9388-7cf18c9f73cc/Extrema%20Kids%20logo-c7ddbe9.jpg"group-title="CRISTIANO", EXTREMA KIDS
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/bd9a67ca-3e9b-48b5-9388-7cf18c9f73cc/Extrema%20Kids%20logo-c7ddbe9.jpg"group-title="CRISTIANO",EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w439127752.m3u8
 
 
@@ -991,8 +1002,6 @@ https://cp.panelchs.com:1936/8012/8012/chunklist_w1229555940.m3u8
 https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/chunklist_w322392269.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image70119570242.jpg"group-title="CRISTIANO",MOVIE FE
-https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 
 
 
@@ -1010,7 +1019,6 @@ https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://www.ministeriotv.com/uploads/channels/49/logo_thumb.jpg"group-title="CRISTIANO", PALABRA DE DIOS SIN LEVADURA
 https://583ed2f226ac2.streamlock.net/49/stream/chunklist_w1954002463.m3u8
-
 
 
 
@@ -1048,16 +1056,13 @@ https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",CANAL LUZ HD ROSARIO
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",CANAL LUZ HD
 https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="CRISTIANO", MISION VIDA TV HD
+#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",MISION VIDA TV HD
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1850885203.m3u8
 
-
-#EXTINF:-1 tvg-logo=""group-title="CRISTIANO", DIOS TV KIDS HD
-https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
 
 
@@ -1085,7 +1090,7 @@ https://cdnlive.myspirit.tv:443/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://sublimegraciatv.com/gallery_gen/c49b986afb751882bcbee57f9c9b20d7_350x246.75.png"group-title="CRISTIANO", SUBLIME GRACIA TV HD ROSARIO
+#EXTINF:-1 tvg-logo="https://sublimegraciatv.com/gallery_gen/c49b986afb751882bcbee57f9c9b20d7_350x246.75.png"group-title="CRISTIANO", SUBLIME GRACIA TV HD
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/chunklist_w4996659.m3u8
 
@@ -1095,15 +1100,13 @@ https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/chunklist_w4996659.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png?w=276"group-title="CRISTIANO",SOLIDARIA TV HD CABA
+#EXTINF:-1 tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png?w=276"group-title="CRISTIANO",SOLIDARIA TV HD
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png"group-title="CRISTIANO", KINGDOM TV HD  19.1  MENDOZA 
 https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
-
-
 
 
 
