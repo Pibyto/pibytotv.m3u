@@ -326,6 +326,11 @@ https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1600px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="TV",MITV
+https://rds3gen.desdeparaguay.net:443/mitv/mitv/chunklist_w1894002237.m3u8?admin=mitvitapua
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQEaaJIGvj0gwd5VmN96yPyQCUp4wPaYqTA&usqp=CAU"group-title="TV",iP TeVe
 https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
