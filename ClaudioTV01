@@ -564,9 +564,7 @@ https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u
 
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_PRIME_Movie.png"group-title="TV",TV PRIME
- HD
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-
+ 
 
 
 
@@ -577,9 +575,8 @@ https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1901874281.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/uTetNKtedjE1JM0TYr8bL4accz8BdnDHPHqwM7d35DpnOTMV2Oz7ZJtIGb5vUW6d3ZSt"group-title="TV",
-MILENIUM TV
-https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1313374034.m3u8?rand=0.13546444528481993
-
+MILLENIUM TV
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
 
 
