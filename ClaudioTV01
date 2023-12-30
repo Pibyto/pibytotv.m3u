@@ -420,8 +420,21 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/174
 https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
 
 
-EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/r-e-television.png"group-title="TV",R&E
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/r-e-television.png"group-title="TV",R&E TV HD
 https://stmv5.voxtvhd.com.br/ryetv/ryetv/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.organizacioncristal.com/gallery_gen/e15571e82f534c433a4e8be572cb2e8d_6775.9178082192x1386_0x0_6807x1386.png"group-title="TV",ESTATION CRISTAL
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="TV",SDE
+https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w913057200.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/u/8tWm_1bKogiD3WMim/200x200"group-title="TV",MAJESTAD TV
@@ -444,13 +457,6 @@ https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8?ads.content_page_url=https
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Tutvcanal11.png"group-title="TV",TUTV
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/TVCA_El_Salvador_2015.png/revision/latest?cb=20210621025948&path-prefix=es"group-title="TV",TVCA
-https://ssh101.bozztv.com:443/ssh101/tvcaelsalvador/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1504_Chilevisual_Kids.png"group-title="TV",CHILEVISUAL FILM
-https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWKmqyChU81NRBe-Lj57C3VNmbTno_P_S5Cw&s"group-title="TV",TVREBELDE HD
@@ -478,7 +484,6 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png"group-title="TV",SUPER CANAL HD
 https://live.obslivestream.com/supercanal/index.m3u8
-https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1539980248.m3u8
 
 
 
@@ -532,12 +537,10 @@ https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8?ads.content_page_url=ht
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TV",PELÍCULAS_MANIA HD
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TV",PELÍCULAS_MANIA 2 HD
 https://stmv5.voxtvhd.com.br:443/chilevisualfilm/chilevisualfilm/chunklist_w1722268431.m3u8?PlaylistM3UCL
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 
 
@@ -562,15 +565,23 @@ https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1320_TV_PRIME_Movie.png"group-title="TV",TV PRIME
  HD
-https://ss3.domint.net:3144/ctv_str/cascaratv/chunklist_w816702760.m3u8
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://enlinea.rtv.org.mx/img/imgShareRTVEnLinea.jpg"group-title="TV",MILENIUM TV
-https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://enlinea.rtv.org.mx/img/imgShareRTVEnLinea.jpg"group-title="TV",NTV
 https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1901874281.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TV",
+MILENIUM TV
 https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1313374034.m3u8?rand=0.13546444528481993
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://tiendasathd.es/wp-content/uploads/2023/01/vPxvbVv.png"group-title="TV",FRECUENCIA MISICAL TV HD
@@ -597,12 +608,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="TV", CINE ESTELAR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true
+
+
 
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="TV", CINE ACCIÓN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
 
 
@@ -1052,6 +1063,9 @@ https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8?ads.conten
 
 
 
+
+#EXTINF:-1 tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png"group-title="CRISTIANO",RCC TV
+https://59ce1298bfb98.streamlock.net:443/rcctv02/rcctv02/chunklist_w484833918.m3u8?PlaylistM3UCL
 
 
 
