@@ -331,6 +331,59 @@ https://rds3gen.desdeparaguay.net:443/mitv/mitv/chunklist_w1894002237.m3u8?admin
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_948f2439d9bb40129b35483e0bc39ead~mv2.png/v1/fill/w_476,h_476,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/nimtv.png"group-title="TV",NIMTV
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_011c9d0c1e12416596fd95b9c5b5268a~mv2.png/v1/fill/w_490,h_490,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7acae1_011c9d0c1e12416596fd95b9c5b5268a~mv2.png"group-title="TV",9 HD
+https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFaufS9LpOyFFebjT6J6su80ei5dlRdDvKIg&usqp=CAU"group-title="TV",PLANETA TV HD
+https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png"group-title="TV",URANIO TV
+https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_82b6b5d51d954299bbc7ce7e9d67393d~mv2.png/v1/fill/w_459,h_459,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AuroraMedia.png"group-title="TV",AURORA
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_53119f9bd94741c9bbc6d971331cdaa4~mv2.png/v1/fill/w_459,h_459,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/totovision.png"group-title="TV",TOTOVISION HD
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_a986824eaf454764a466d8a78dde6b75~mv2.png/v1/fill/w_406,h_406,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Canal8.png"group-title="TV",8 HD
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_0a56fe220b8e4fe3a54a32bf98a9f9ff~mv2.png/v1/fill/w_389,h_389,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_MasTv.png"group-title="TV",MAS TV HD
+https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_4f77437ba53c4b898edfddd58c96faa4~mv2.png/v1/fill/w_389,h_389,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Tv%20Florencia.png"group-title="TV",FLORENCIA
+https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQEaaJIGvj0gwd5VmN96yPyQCUp4wPaYqTA&usqp=CAU"group-title="TV",iP TeVe
 https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
