@@ -380,7 +380,38 @@ https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_8f6a6793a6bf456bb91195841ff55ff2~mv2.png/v1/fill/w_403,h_403,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CNI%20DIGITAL.png"group-title="TV",CNI
+https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_c0451c6af6e14ed094f814f0ded70fe1~mv2.png/v1/fill/w_473,h_473,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo_soltv.png"group-title="TV",SOL TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAdWQQEDaCHm017Y_-Dw-eyyOYvs22F3qrRg&usqp=CAU"group-title="TV",5 HD
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/141
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWEFnfXOvW-Z3ZeTClAICK77gPUvB6tCw0JA&usqp=CAU"group-title="TV",TEVEGLOBO
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/95
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyULVeAdd-mE_k77dWwKtGtAC3cTNPHOqrDw&usqp=CAU"group-title="TV",FULL CHANNEL
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/130
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_79bb351050ce4760941788c17a1fc501~mv2.png/v1/fill/w_389,h_389,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Conosur.png"group-title="TV",CONO SUR TV HD
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/167
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxMKEUHGrWi7zXkQR4fP_AWxCTjs13X85PDA&usqp=CAU"group-title="TV",JUTIAPAVISION HD
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/174
 
 
 
