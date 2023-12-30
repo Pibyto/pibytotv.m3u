@@ -8,6 +8,22 @@
 
 
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es"group-title="CABLE",CINE SONY
+https://cdn.klowdtv.net:443/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://clipground.com/images/rakuten-logo-6.png"group-title="CABLE",ROKUTEN ACCION HD
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png"group-title="CABLE",CINEMAX HD
 http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/46556
 
@@ -886,8 +902,10 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
 
-############################( CRISTIANO )#############################################( CRISTIANO )#########################################################( CRISTIANO )######################################################################################################################################################
-#############################( CRISTIANO )#############################################( CRISTIANO )#########################################################( CRISTIANO )######################################################################################################################################################
+############################( CRISTIANO )#############################################( CRISTIANO )#########################################################( CRISTIANO )######
+
+
+
 
 
 
@@ -946,7 +964,30 @@ https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8?ads.conten
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-960x540-000000.jpg"group-title="CRISTIANO",RESTAURANDO VIDAS TV HD
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJDxVEnkC_VnzWeez780WFKuoRwi8JIjbMQ&usqp=CAU"group-title="CRISTIANO",FE TV
+https://stream.oursnetworktv.com:443/latin/feVivienteGtm/chunklist_w1971394806.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFitKk2sCnlcd5dvgqh8e9hPv8kYN7JiVaJw&usqp=CAU"group-title="CRISTIANO",PRESENCIA TELEVISION
+https://stream.oursnetworktv.com:443/latin/remaPresencia/chunklist_w1234426987.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4D16AQGaaJ0KPmKDCQ/profile-displaybackgroundimage-shrink_200_800/0/1548969729964?e=2147483647&v=beta&t=sPrgYutJXSsezo3e2YlLuW6MH8OYtrmfW1PThsrmz-I"group-title="CRISTIANO",EBENEZER TV
+https://5e85d90130e77.streamlock.net:443/6010/ngrp:6010_all/chunklist_w561828516_b3128000.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/eOO3MUeLFardGwPjKGXjyNKubITdcdRM-ZPBHI1w8J3FGuG1_oD5Y8NjLaSRJG-vsNs"group-title="CRISTIANO",TVR DIGITAL
