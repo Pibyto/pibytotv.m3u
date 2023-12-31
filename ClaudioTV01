@@ -22,6 +22,24 @@ https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CABLE", RAKUTEN TOP FREE
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CABLE", TU CINE
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CABLE", MY TIME MOVIES 
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CABLE", TOP CINE
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png"group-title="CABLE",CINEMAX HD
@@ -844,9 +862,6 @@ https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nH8aHR7CsWn1Q890ZiFHA41XanzdUyHIdw&usqp=CAU"group-title="TDA INTERIOR",CORRIENTES TV HD
-https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Canal5telesol2016logo.png/revision/latest/scale-to-width-down/170?cb=20210525135451&path-prefix=es"group-title="TDA INTERIOR",TLS HD
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
@@ -1035,6 +1050,9 @@ https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nH8aHR7CsWn1Q890ZiFHA41XanzdUyHIdw&usqp=CAU"group-title="CRISTIANO",CORRIENTES TV HD
+https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png"group-title="CRISTIANO",EL VIVIENTE TV HD
@@ -1107,6 +1125,16 @@ https://5bf8041cb3fed.streamlock.net:443/MiAmoriVidaTV/MiAmoriVidaTV/chunklist_w
 
 
 
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/aTKQODhpkACqERQaa8g0ZiNUvohJD0EKeNKXgAKnYftRSZr8ZhsUCioLhhbLOrnVg8DG3OC0EOue4r3jZ_UVPwFnSLrqWL8puvqf4_Woo3Y"group-title="CRISTIANO",LA LUZ TV
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/8dabc744cc5d41999da03e5676ec9e0b2132a59a436ebc89caa5f86e7e267e82.png"group-title="CRISTIANO", RENUEVO TV
+https://5bff1bf18a887.streamlock.net:443/rtvla/rtvla/chunklist_w681928651.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0OEvk0VqOovkB1XptvOjyc6CRR7xJ5lXHSg&usqp=CAU"group-title="CRISTIANO", VIDA TELEVISIÓN
+https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?WebM3UCL
 
 
 
