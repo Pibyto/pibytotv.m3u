@@ -11,7 +11,8 @@ https://live-edge01.telecentro.net.ar:443/live/smil:c26.smil/chunklist_w11605336
 
 
 #EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b0/Canal9.jpg", CANAL NUEVE
-http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/178905
+
+
 
 #EXTINF: -1, tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" grupo -title = ", TELEFE FHD
 http://compitv.info:8080/IPTVService151833/kyPbbnaUfK/64704
