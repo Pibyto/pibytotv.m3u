@@ -1030,6 +1030,14 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNdKCKaycplt1xAmLO4gbKx9S3UPc7dgNaQ&usqp=CAU"group-title="CRISTIANO",OASIS CHANNEL
+https://5e85d90130e77.streamlock.net:443/6020/6020/chunklist_w1538041154.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=h:99,cg:true,m/qt=q:100/ll"group-title="CRISTIANO",EXTREMA TV HD
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
 
@@ -1041,6 +1049,16 @@ https://5bf8041cb3fed.streamlock.net:443/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w54
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7MTBgbIBlC6EDbThMg9NjWwWfsaTAKXRiQ&usqp=CAU"group-title="CRISTIANO",JTA TV HD.  21.1  MENDOZA
+https://streaming.jtamendoza.com/hls/test.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2849-294x165-FFFFFF.jpg"group-title="CRISTIANO", ALELUYA TV HD
+https://vsrv2.az-streamingserver.com:3408/live/aleluyatvlive.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image70119570242.jpg"group-title="CRISTIANO",MOVIE FE
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 
@@ -1048,6 +1066,14 @@ https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO-200x200.png"group-title="CRISTIANO", DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/06/alcancetv_logo-3d.png"group-title="CRISTIANO",ALCANCE TV HD
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nH8aHR7CsWn1Q890ZiFHA41XanzdUyHIdw&usqp=CAU"group-title="CRISTIANO",CORRIENTES TV HD
@@ -1147,8 +1173,6 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CrkFBjrS-xQZY5q2MnDvBrHmdvH
 https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/06/alcancetv_logo-3d.png"group-title="CRISTIANO",ALCANCE TV HD
-https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://primiciatelevision.cl/wp-content/uploads/2021/07/logo-final-768x695.png"group-title="CRISTIANO",PRIMICIA VIDA
@@ -1244,10 +1268,6 @@ https://paneltv.net:3751/hybrid/play.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZNdKCKaycplt1xAmLO4gbKx9S3UPc7dgNaQ&usqp=CAU"group-title="CRISTIANO",OASIS CHANNEL
-https://5e85d90130e77.streamlock.net:443/6020/6020/chunklist_w1538041154.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="CRISTIANO",ENLACE HD
@@ -1314,12 +1334,6 @@ https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chu
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7MTBgbIBlC6EDbThMg9NjWwWfsaTAKXRiQ&usqp=CAU"group-title="CRISTIANO",JTA TV HD.  21.1  MENDOZA
-https://streaming.jtamendoza.com/hls/test.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2849-294x165-FFFFFF.jpg"group-title="CRISTIANO", ALELUYA TV HD
-https://vsrv2.az-streamingserver.com:3408/live/aleluyatvlive.m3u8
 
 
 
