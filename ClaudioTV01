@@ -93,30 +93,30 @@ http://187.102.208.108:50001/play/a013/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="CABLE",DHE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/DHE_HD.png"group-title="CABLE",DHE HD
 http://187.102.208.108:50001/play/a01u/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="CABLE",CLOVER HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest?cb=20220608131431&path-prefix=es"group-title="CABLE",CLOVER HD
 http://187.102.208.108:50001/play/a009/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="CABLE",STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_12/large.StarChannel_Logo2021_FondoOscuro.png.ff2b9249f248fdc5784883a876e96d74.png"group-title="CABLE",STAR CHANNEL
 http://187.102.208.108:50001/play/a01r/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="CABLE",A&E HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png"group-title="CABLE",A&E HD
 http://187.102.208.108:50001/play/a001/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="CABLE",WARNER CHANNEL HD
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4cfc04fc-6886-49be-834a-7c7a964e59e9/dg599fb-f336828d-6db4-4ee4-9690-031c34a4ffc5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRjZmMwNGZjLTY4ODYtNDliZS04MzRhLTdjN2E5NjRlNTllOVwvZGc1OTlmYi1mMzM2ODI4ZC02ZGI0LTRlZTQtOTY5MC0wMzFjMzRhNGZmYzUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Gel7GklX-Y4GVARx4VgU8d9c6b860uC0RPIQ775U7Jk"group-title="CABLE",WARNER CHANNEL HD
 http://187.102.208.108:50001/play/a004/index.m3u8
 
 
