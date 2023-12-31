@@ -1161,7 +1161,7 @@ https://multimedia.fortalezatv.cl:443/video/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="CRISTIANO",DIOS TV KIDS HD
+#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png"group-title="CRISTIANO",DIOS TV KIDS HD
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
 
@@ -1172,7 +1172,7 @@ https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/da8996f8-d448-4109-b5d0-e4eabc6ee359/EXTREMA%20KIDS%20EN%20ROKU%20Y%20AMAZON.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1240,h:620,cg:true"group-title="CRISTIANO",EXTREMA KIDS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQptYKje0sSp87LHHebVixNSczp8zo5wg_evQ&usqp=CAU"group-title="CRISTIANO",EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w439127752.m3u8
 
 
@@ -1270,11 +1270,11 @@ https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w185088520
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/D1s1Q3k?r"group-title="CRISTIANO", TELEFAMILIA HD
+#EXTINF:-1 tvg-logo="https://canaltelefamilia.com/wp-content/uploads/2021/02/Logo-Blanco.png"group-title="CRISTIANO", TELEFAMILIA HD
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?WebM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/FpkNIIG?r"group-title="CRISTIANO", CRISTIANA TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQviorcQCUEHj_UY-TGLSZltle6WGUrJ2kd4g&usqp=CAU"group-title="CRISTIANO", CRISTIANA TV HD
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
 
