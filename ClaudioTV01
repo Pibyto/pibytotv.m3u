@@ -82,114 +82,90 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png"group-title="CABLE",CINEMAX HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/46556
+http://187.102.208.108:50001/play/a03m/index.m3u8
+
+
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png"group-title="CABLE",AMC HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/126
-
+http://187.102.208.108:50001/play/a013/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaKM0__uHRx786K5wQEwLk7qivGYnDJVrQQ&usqp=CAU"group-title="CABLE",SPACE HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/45288
-
+http://187.102.208.108:50001/play/a006/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_HD.png"group-title="CABLE",TNT HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/68435
+http://187.102.208.108:50001/play/a00f/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png"group-title="CABLE",CINECANAL HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/68425
-
+http://187.102.208.108:50001/play/a012/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/487-4874910_fx-fx-hd-channel-logo-hd-png-download.png"group-title="CABLE",FX HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/69154
+http://187.102.208.108:50001/play/a00z/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Paramount-Pictures-logo.png"group-title="CABLE",PARAMOUNT HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/211
+http://187.102.208.108:50001/play/a018/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="CABLE",WARNER HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/52300
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png"group-title="CABLE",GOLDEN HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/179
-
+http://187.102.208.108:50001/play/a03m/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_12/large.GoldenPlus.png.f68cc5b83fc0db9d61e6b54ccd3f752f.png"group-title="CABLE",GOLDEN PLUS HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/68438
-
+http://187.102.208.108:50001/play/a01f/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/small.goldenpremier2020.png.c7827882837fd7038cc9957d85946f15.png"group-title="CABLE",GOLDEN PREMIER HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/182
-
+http://187.102.208.108:50001/play/a03k/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/731381553.png"group-title="CABLE",UNIVERSAL CINEMA
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/158602
-
+http://187.102.208.108:50001/play/a03c/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/398064723.png"group-title="CABLE",UNIVERSAL PREMIERE
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/158605
-
+http://187.102.208.108:50001/play/a03d/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm_PnjBHZpbGZR9EF2rPyXoWjDNl9ftRdkWg&usqp=CAU"group-title="CABLE",UNIVERSAL TV
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/167978
-
+http://187.102.208.108:50001/play/a00t/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png"group-title="CABLE",HBO HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/185
-
+http://187.102.208.108:50001/play/a015/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HBO_2_HD_Logo_Poland.png/640px-HBO_2_HD_Logo_Poland.png"group-title="CABLE",HBO 2 HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/190
-
+http://187.102.208.108:50001/play/a01c/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_04/large.1268442606_HBOPLUSLOGO.png.40b40670b6c11d11b485f895039f7ec6.png"group-title="CABLE",HBO+ HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/38722
-
+http://187.102.208.108:50001/play/a03h/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_02/small.1986800355_HBOPOP(varianteblanca).png.a7a608512df4e3de4d6e7d3cbdc7a4a1.png"group-title="CABLE",HBO POP HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/46791
-
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/v8-rXoSnCSM/maxresdefault.jpg"group-title="CABLE",WARNER PREMIERE
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/189920
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Star_Action_2020.svg"group-title="CABLE",STAR ACCION
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/147
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKT8qm4D7fU6SfFqCy8dGaj9E_Ps18K0O6-g&usqp=CAU"group-title="CABLE",STAR PLAY
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/83328
-
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GpaAkbPDEvZ8d7CUuHAJADNMuY6MVKUmzlqqDTCWCZqV_CV0eY5F7_PgbyZyVqcgmA"group-title="CABLE",VIDEO PLAY
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/92020
+http://187.102.208.108:50001/play/a007/index.m3u8
 
 
 
 
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_02/small.1986800355_HBOPOP(varianteblanca).png.a7a608512df4e3de4d6e7d3cbdc7a4a1.png"group-title="CABLE",HBO signature
+http://187.102.208.108:50001/play/a03i/index.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_02/small.1986800355_HBOPOP(varianteblanca).png.a7a608512df4e3de4d6e7d3cbdc7a4a1.png"group-title="CABLE",HBO Xtreme
+http://187.102.208.108:50001/play/a01y/index.m3u8
 
 
 
