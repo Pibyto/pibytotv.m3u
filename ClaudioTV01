@@ -42,7 +42,7 @@ https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest?cb=20220608131431&path-prefix=es"group-title="CABLE",CLOVER HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest/scale-to-width-down/200?cb=20220608131431&path-prefix=es"group-title="CABLE",CLOVER HD
 http://187.102.208.108:50001/play/a009/index.m3u8
 
 
