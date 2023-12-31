@@ -92,6 +92,36 @@ http://187.102.208.108:50001/play/a03m/index.m3u8
 http://187.102.208.108:50001/play/a013/index.m3u8
 
 
+
+#EXTINF:-1 tvg-logo=""group-title="CABLE",DHE HD
+http://187.102.208.108:50001/play/a01u/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="CABLE",CLOVER HD
+http://187.102.208.108:50001/play/a009/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="CABLE",STAR CHANNEL
+http://187.102.208.108:50001/play/a01r/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="CABLE",A&E HD
+http://187.102.208.108:50001/play/a001/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="CABLE",WARNER CHANNEL HD
+http://187.102.208.108:50001/play/a004/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaKM0__uHRx786K5wQEwLk7qivGYnDJVrQQ&usqp=CAU"group-title="CABLE",SPACE HD
 http://187.102.208.108:50001/play/a006/index.m3u8
 
@@ -118,6 +148,11 @@ http://187.102.208.108:50001/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png"group-title="CABLE",GOLDEN HD
 http://187.102.208.108:50001/play/a03m/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png"group-title="CABLE",GOLDEN EDGE HD
+http://187.102.208.108:50001/play/a04a/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_12/large.GoldenPlus.png.f68cc5b83fc0db9d61e6b54ccd3f752f.png"group-title="CABLE",GOLDEN PLUS HD
