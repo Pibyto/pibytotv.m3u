@@ -112,66 +112,12 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b18
 
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2946-960x540-000000.jpg"group-title="TDA BS.AS",APOCALIPSIS NETWORK
-https://livetv.305streamhd.com:3394/live/tvapocalipsisnetworklive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
 #EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png"group-title="TDA BS.AS",CANAL 8 HD  8.1 MDP
 https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA BS.AS",10 HD  10.1  MDP
-https://g4.mc-hor.transport.edge-access.net:443/a13/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png"group-title="TDA BS.AS",EL VIVIENTE TV HD
-https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX7xqMgHfMwt3_XJ0PVdDWWsr1oJKdXamc1yEDzYU&s"group-title="TDA BS.AS", JEHOVÁ TV
-https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/chunklist_w322392269.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2881-960x540-000000.jpg"group-title="TDA BS.AS",MANANTIAL DE ADORACION TV
-https://5bf8041cb3fed.streamlock.net:443/ManantialdeAdoracionTV/ManantialdeAdoracionTV/chunklist_w339776265.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
-http://50.7.66.234:8080/UY2028/816373917/23230
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="TDA BS.AS",ALTAR TV HD
-https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://apksos.com/storage/images/extrema/radiotv/extrema.radiotv_1.png"group-title="TDA BS.AS",EXTREMA TV HD
-https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-plus-guatemala-logo.png"group-title="TDA BS.AS",CANAL+ HD  17.5
-https://tvlive.servicioselbachi.com:3126/hybrid/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Star_Action_2020.svg"group-title="TDA BS.AS",STAR ACCION HD
