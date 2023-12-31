@@ -1172,12 +1172,12 @@ https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/bd9a67ca-3e9b-48b5-9388-7cf18c9f73cc/Extrema%20Kids%20logo-c7ddbe9.jpg"group-title="CRISTIANO",EXTREMA KIDS
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/da8996f8-d448-4109-b5d0-e4eabc6ee359/EXTREMA%20KIDS%20EN%20ROKU%20Y%20AMAZON.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1240,h:620,cg:true"group-title="CRISTIANO",EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w439127752.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.televida.cl/wp-content/uploads/2020/12/logo-color-ok.png"group-title="CRISTIANO", TELEVIDA HD
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/50397cf71b817f29eb7f6fed5c6edf33.webp"group-title="CRISTIANO", TELEVIDA HD
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 
 
@@ -1293,7 +1293,7 @@ https://cdnlive.myspirit.tv:443/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://sublimegraciatv.com/gallery_gen/c49b986afb751882bcbee57f9c9b20d7_350x246.75.png"group-title="CRISTIANO", SUBLIME GRACIA TV HD
+#EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/2022-07/radio-sublime-gracia-tv-argentina.png"group-title="CRISTIANO", SUBLIME GRACIA TV HD
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/chunklist_w4996659.m3u8
 
