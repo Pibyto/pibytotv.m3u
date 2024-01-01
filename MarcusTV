@@ -40,9 +40,6 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5ffc15f8-985d-476b-90d4-e2eb321fa4b0-profile_image-300x300.jpeg"group-title="TDA",CANAL 9 SAN LUIS
-https://usher.ttvnw.net/api/channel/hls/canal9sanluis.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=120.0&cdm=wv&fast_bread=true&os_name=Android&os_version=11&p=909218&platform=mobile_web&play_session_id=61856b143c9fdd41274a068576523f06&player_backend=mediaplayer&player_version=1.24.0-rc.1.2&playlist_include_framerate=true&reassignments_supported=true&sig=c42d0abc7da872c6b267a49e732785d49f0dd687&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22canal9sanluis%22%2C%22channel_id%22%3A792058649%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%225a00b48fbc4af1ad%22%2C%22expires%22%3A1702791935%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22186.132.112.169%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
-
-
 
 
 
@@ -290,8 +287,6 @@ https://5cd577a3dd8ec.streamlock.net:443/canal4/smil:manifest.smil/chunklist_w88
 https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png"group-title="TDA",10 HD  10.1  MDP
-https://g4.mc-hor.transport.edge-access.net:443/a13/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png"group-title="TDA", CANAL 9 HD  9.1.  MISIONES
@@ -447,8 +442,6 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w463293140.m
 https://ssh101.bozztv.com:443/ssh101/88channel/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ512ykc4gWQWnej8OkdVF6sfgh80FILLyBFQ&usqp=CAU"group-title="TV",TAVAPY HD
-https://ssh101.bozztv.com:443/ssh101/tavapytvhd/chunks.m3u8
 
 
 
@@ -584,154 +577,118 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Star_Action_2020.svg"group-title="CABLE",STAR ACCION HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/147
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Star_Cinema_2020.svg"group-title="CABLE",STAR CINEMA HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/68429
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/1000px-Star%2B_logo.svg.png"group-title="CABLE",STAR PLUS HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/83329
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Star%2B_logo.svg/2560px-Star%2B_logo.svg.png"group-title="CABLE",STAR PLAY HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/83328
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1200px-Star_Hits_2020.svg.png"group-title="CABLE",STAR HITS HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/169
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Star_Comedy_2020.svg"group-title="CABLE", STAR COMEDY HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/156
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Star_Fun_2021.svg/revision/latest?cb=20210224134539&path-prefix=es"group-title="CABLE",STAR FUN KIDS HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/159
 
 
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dext4h0-6776ca02-253a-4865-919a-8a0cee1d5b89.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1MTliOTZjLTcxZjgtNDA0MC04MmQ0LWM4MGUxODM4NGYxYlwvZGV4dDRoMC02Nzc2Y2EwMi0yNTNhLTQ4NjUtOTE5YS04YTBjZWUxZDViODkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bl1TZ0yxUPMXkK811-GrctUBvLPzcJb6VyOvf-mGUPE"group-title="CABLE",STAR TERROR HD http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/226202
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dext4h0-6776ca02-253a-4865-919a-8a0cee1d5b89.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1MTliOTZjLTcxZjgtNDA0MC04MmQ0LWM4MGUxODM4NGYxYlwvZGV4dDRoMC02Nzc2Y2EwMi0yNTNhLTQ4NjUtOTE5YS04YTBjZWUxZDViODkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bl1TZ0yxUPMXkK811-GrctUBvLPzcJb6VyOvf-mGUPE"group-title="CABLE",STAR TERROR HD 
 
 
 #EXTINF:-1 tvg-logo="https://elranking.mx/wp-content/uploads/2022/07/4-cosas-sobre-ViX-el-nuevo-servicio-de-Streaming-en-Mexico.jpg"group-title="CABLE",VIX+ ACCION
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/87987
 
 
 #EXTINF:-1 tvg-logo="https://revistadaquebrada.com.br/wp-content/uploads/2023/07/Vix-.jpeg"group-title="CABLE", VIX PLUS
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/107834
 
 
 #EXTINF:-1 tvg-logo="https://www.eleconomista.com.mx/__export/1621459101271/sites/eleconomista/img/2021/05/19/hbo_max_facebookhbo.png_554688468.png"group-title="CABLE",HBO MAX SERIES 2
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/179861
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_3MWlEluo6A/hqdefault.jpg"group-title="CABLE",HBO MAX ORIGINALS
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/189922
 
 
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-movies-logo-F391F272F3-seeklogo.com.png"group-title="CABLE",BEIN MOVIES
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/190637
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b2/c8/e9/b2c8e99ce3532a9c85441e4fe7a6c1da.jpg"group-title="CABLE",BEIN CINEMA
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/190652
 
 
 #EXTINF:-1 tvg-logo="https://media0033.elcinema.com/tvguide/1323_1.png"group-title="CABLE",BEIN MOVIES 2 ACCION
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/190879
 
 
 #EXTINF:-1 tvg-logo="https://media0033.elcinema.com/tvguide/1325_1.png"group-title="CABLE",BEIN MOVIES FAMILY
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/190883
 
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/06/CMovies-Emblem.png"group-title="CABLE",PMOVIES
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/223878
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3WA61JU2GzRyWk5pJTkz8tmFhCiGdWClixg&usqp=CAU"group-title="CABLE",CINE MUNDO ACCION
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/186194
 
 
 #EXTINF:-1 tvg-logo="https://cinemundo.com.br/wp-content/uploads/2017/12/Cine-Mundo-logo-do-site.jpg"group-title="CABLE",CINE MUNDO PREMIERE
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/187877
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhvGaGZAJf7J1cD6afMcGi63Lyx6fggT-KXA&usqp=CAU"group-title="CABLE",CINE MUNDO
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/180285
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS861tIyEpV46IyZVXuwoKOuHENbkAEp6Ad6A&usqp=CAU"group-title="CABLE",CINE MUNDO COMEDY
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/180730
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEgK-Dw4sN9Q4xIht2CpBThUYSinOjNth8A&usqp=CAU"group-title="CABLE",CINE MUNDO DARK
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/186307
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png"group-title="CABLE",PRIME VIDEO
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/180611
 
 
 #EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/5/7/570445.jpg"group-title="CABLE",CINEMANIA
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/190569
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/dc/06/2a/dc062ad6d79bc61eb106828509dcb5c0.jpg"group-title="CABLE",CRISTO VIVE MOVIES
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/228280
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/393/55/png-transparent-netflix-logo-thumbnail.png"group-title="CABLE",NETFLIX ORIGINALS
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/179172
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sky_Cinema_Disney_-_Logo_2017.svg/1024px-Sky_Cinema_Disney_-_Logo_2017.svg.png?20180626092317"group-title="CABLE",SKY CINEMA DISNEY
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/191562
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/disney-logo-9649A88458-seeklogo.com.png"group-title="CABLE",DISNEY
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/180133
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/393/55/png-transparent-netflix-logo-thumbnail.png"group-title="CABLE",NETFLIX KIDS
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/179859
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/393/55/png-transparent-netflix-logo-thumbnail.png"group-title="CABLE",NETFLIX COMEDY
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/64093
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/14/02/a2/1402a2229ee6583836556db76c5daaa9.png"group-title="CABLE",DC FILMS
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/177535
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPQbtnaW6cFg72zHTHLeQd91CRPr-8HPm2gw&usqp=CAU"group-title="CABLE",DC CLASSIC
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/178642
 
 
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/ddkl2bq-67d96f4b-0671-4d83-a58c-499ad0d4f90a.png/v1/fit/w_750,h_330,q_70,strp/current_cartoon_network_movies_logo_by_abfan21_ddkl2bq-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTI5IiwicGF0aCI6IlwvZlwvMTUwODFlYmUtYTg2YS00ZDZiLTlmYzktMjNkOWQ3OTliMWExXC9kZGtsMmJxLTY3ZDk2ZjRiLTA2NzEtNGQ4My1hNThjLTQ5OWFkMGQ0ZjkwYS5wbmciLCJ3aWR0aCI6Ijw9MTE5OSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.lC0iyQUsu5cq-DfiV99iH1lcmdU65nTIH5V1YDD2tqI"group-title="CABLE",CARTOON NETWORK MOVIES
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/180030
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Paramount_Animation_wordmark_logo.png"group-title="CABLE",PARAMOUNT ANIMATION
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/224175
 
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/lifetime-movies-logo.png"group-title="CABLE",LIFETIME MOVIES
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/160772
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332"group-title="CABLE",PANICO PRIME
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/78849
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/54fa885bc2be40aa10e89b26acb0db321ae6863641a18ebc643cf3c558e66a51.png"group-title="CABLE",WESTERN CHANNEL
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/83299
 
 
 
@@ -740,34 +697,27 @@ http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/83299
 
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/197/982/png-clipart-logo-nitro-brand-nitro-television-angle.png"group-title="CABLE",TNT NITRO
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/227797
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/c/c3/TNT_Sci-Fi_2016.png/revision/latest?cb=20210119002629"group-title="CABLE",TNT SCI-FY
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/228013
 
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/303/822/png-clipart-tnt-logo-turner-broadcasting-system-television-channel-design-television-angle.png"group-title="CABLE",TNT HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/68435
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/Paramount-logo-F9FC175D1F-seeklogo.com.png"group-title="CABLE",PARAMOUNT HORROR
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/225996
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9CFE26C322-seeklogo.com.png"group-title="CABLE",USA NETWOORK
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/69161
 
 
 
 
 #EXTINF:-1 tvg-logo="http://surl.li/ngvki"group-title="CABLE",CINEMAX
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/68426
 
 
 
 #EXTINF:-1 tvg-logo="http://surl.li/ngvki"group-title="CABLE",SPACE HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/99721
 
 
 
@@ -797,11 +747,9 @@ http://sdmx.vip:8080/Max2023/Max2023/10862
 
 
 #EXTINF:-1 tvg-logo="http://surl.li/ngvki"group-title="CABLE",WARNER PREMIER HD
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/189920
 
 
 #EXTINF:-1 tvg-logo="http://surl.li/ngvki"group-title="CABLE",GOLDEN EDGE
-http://sdmx.vip:8080/Max2023/Max2023/154111
 http://169.197.141.2:8080/Leroy14/marlow14/366873
 
 
@@ -812,7 +760,6 @@ http://sdmx.vip:8080/Max2023/Max2023/2092589
 
 
 #EXTINF:-1 tvg-logo="http://surl.li/ngvki"group-title="CABLE",SATEL MOVIES
-http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/191360
 
 
 
@@ -916,7 +863,7 @@ http://sdmx.vip:8080/Max2023/Max2023/2081446
 
 
 #EXTINF:-1 tvg-logo="http://surl.li/ngvki"group-title="CABLE",HBO HD
-http://169.197.141.2:8080/Leroy14/marlow14/366812
+
 
 
 
@@ -939,7 +886,6 @@ http://sdmx.vip:8080/Max2023/Max2023/10882
 
 
 #EXTINF:-1 tvg-logo="http://surl.li/ngvki"group-title="CABLE",HBO XTREME HD
-http://sdmx.vip:8080/Max2023/Max2023/157156
 http://169.197.141.2:8080/Leroy14/marlow14/366825
 
 
