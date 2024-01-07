@@ -779,7 +779,8 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png"group-title="TV",SUPER CANAL HD
 https://live.obslivestream.com/supercanal/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://doblectelevision.com/wp-content/uploads/2023/11/LOGO-GRUPO-DOBLE-C-SAC-02-1024x470.png"group-title="TV", DOBLE CC
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3127-960x540-000000.jpg"group-title="TV",LA CALETA TV HD
@@ -826,7 +827,8 @@ https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-960x540-000000.jpg"group-title="TV",TELEMAX HD
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
-
+#EXTINF:-1 tvg-logo="https://xhateaec.com/upload/photos/2023/11/KlNyCZA3WeBWZ7I5dkX2_07_a834f8e406af82d6fbacbe7ff78d237a_avatar.jpg?cache=0"group-title="TV",LHS TV
+https://xhateaec.com:8800/hls/visitor/visitor/f171674ab0ae1efdd6b4dcccdd70b04e/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TV",PELÍCULAS_MANIA HD
@@ -1313,7 +1315,8 @@ https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO-200x200.png"group-title="CRISTIANO", DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://xhateaec.com/upload/photos/2023/11/HkNuDgTFsMcIwBXKqxNf_07_1244e870d02276976f344640a0de0f66_avatar.jpg?cache=0"group-title="CRISTIANO",TIEMPO FINAL TV
+https://xhateaec.com:8800/hls/visitor/visitor/149a4be14ebf734be5d514bbed801e5a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.salvaciontv.org/images/logo.png"group-title="CRISTIANO",SALVACION TV
 https://stream.eleden.com:443/livesalvatv/ngrp:livesalvatv_all/chunklist_w117830734_b778000.m3u8
