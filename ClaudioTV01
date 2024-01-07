@@ -947,7 +947,12 @@ https://tv.streamcasthd.com:3450/live/tvmaslive.m3u8
 
 
 
+#EXTINF:-1
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_5VyBbiWfZLfNXDQesJXD335ISlWtye7bww&usqp=CAU"group-title="TDA INTERIOR",2 SALTA
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/San_Luis_%2B_%28Logo_2023_H%29.png/revision/latest/scale-to-width-down/250?cb=20231212012444"group-title="TDA INTERIOR",SAN LUIS+
+https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60cb92f6f4420d0014ac6692_540p/index.m3u8
 
 
 
