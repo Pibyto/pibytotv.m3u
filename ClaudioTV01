@@ -830,9 +830,16 @@ https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8?ads.content_page_url=ht
 #EXTINF:-1 tvg-logo="https://xhateaec.com/upload/photos/2023/11/KlNyCZA3WeBWZ7I5dkX2_07_a834f8e406af82d6fbacbe7ff78d237a_avatar.jpg?cache=0"group-title="TV",LHS TV
 https://xhateaec.com:8800/hls/visitor/visitor/f171674ab0ae1efdd6b4dcccdd70b04e/index.m3u8
 
-#EXTINF:-1
-tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRH6Og4NQrQO5OJuXy1QjSkQ38eTTKIJociQ&usqp=CAU"group-title="TV",NUEVA VISIÓN HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRH6Og4NQrQO5OJuXy1QjSkQ38eTTKIJociQ&usqp=CAU"group-title="TV",NUEVA VISIÓN HD
 https://rpn3.bozztv.com:443/ssh101/ssh101/nuevavisionhd/chunks.m3u8?nimblesessionid=61871565
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmG-u529ySgyNPrU25X8zBQSMfxQhGRsC3A&usqp=CAU"group-title="TV",VISIONSUR TV
+https://ott1.hdlatam.tv:443/live_abr/webtvVisionSur/live/Ia6tBZUR_1yptRX0C/chunks.m3u8?nimblesessionid=6412540&PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://vztvproducciones.com/wp-content/uploads/2023/02/LOGO.png"group-title="TV",VZ TV
+https://live.obslivestream.com:443/vztv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+
 
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TV",PELÍCULAS_MANIA HD
