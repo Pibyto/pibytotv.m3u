@@ -602,6 +602,9 @@ https://rds3gen.desdeparaguay.net:443/mitv/mitv/chunklist_w1894002237.m3u8?admin
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=216,fit=crop,q=95/d95PlPK7VNh8EKpe/oie_transparent-d95PlokPp4iPlN4p.png"group-title="TV",URBANA TE VE
+https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8?PlaylistM3UCL
+
 
 
 
@@ -953,9 +956,6 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/San_Luis_%2B_%28Logo_2023_H%29.png/revision/latest/scale-to-width-down/250?cb=20231212012444"group-title="TDA INTERIOR",SAN LUIS+
 https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60cb92f6f4420d0014ac6692_540p/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=216,fit=crop,q=95/d95PlPK7VNh8EKpe/oie_transparent-d95PlokPp4iPlN4p.png"group-title="TDA INTERIOR",URBANA TE VE
-https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8?PlaylistM3UCL
 
 
 
