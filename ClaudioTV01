@@ -1386,7 +1386,7 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w14123194
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2m83sYjidUhRd4bCEmhb8Wjv4PSpDD5mmg&usqp=CAU "group-title="CRISTIANO", PRESENCIA KIDS
-https://rpn3.bozztv.com:443/ssh101/ssh101/kidsenvivo/chunks.m3u8?nimblesessionid=63442967
+https://rpn3.bozztv.com:443/ssh101/ssh101/kidsenvivo/chunks.m3u8
 
 
 
@@ -1422,7 +1422,7 @@ Ruben Caceres:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/AsomaVisi%C3%B3n.jpg/640px-AsomaVisi%C3%B3n.jpg"group-title="CRISTIANO",ASOMAVISION
 https://asomatv.duckdns.org/livestream/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321966723214487552/RCnlywqt_400x400.png"group-title="CRISTIANO",CATEDRAL TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321966723214487552/RCnlywqt_400x400.png"group-title="CRISTIANO",LA GRAN CARPA CATEDRAL TV
 https://ythls.armelin.one/channel/UCjtogA7_a6F4bdaO3tnK69Q.m3u8
 
 
@@ -1487,8 +1487,7 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?WebM3
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/eOO3MUeLFardGwPjKGXjyNKubITdcdRM-ZPBHI1w8J3FGuG1_oD5Y8NjLaSRJG-vsNs"group-title="CRISTIANO",TVR DIGITAL
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CrkFBjrS-xQZY5q2MnDvBrHmdvHxCNTrd2Zd3KqURo71Hi4B_g9Pg_hZfQR85HtG07UK84BA6m_H6gZdE99i1ugyr_lZtXO2er5DY4SgDTSJPzAayXoBKa1es7zIMKr-l6qLyLcK4kgTQxTATfzyzjcKofkG7naeI_efffXmfs0VAngGVbCvDtIKIqaFjpCRwte9jtoDKVQCbSgvfk2wM7OvCjyO6LJHGsVaWU0pZiTzHYkNnJZHU8oEDx5KqF52WkUQEm4Y5jWEFgo7o0WuH7vQW9ExFzLNBtx8poM9jRNMQPS9dZcKdUOEniMpCE6nu12rpfUkaCZw0yd9uOT6N5fUf556Mp4LsKtaqJ8pUzpGVYr4l3DvUThg81Vbtcg26FtuFaSILqjfjG9RH5o2hn7N7nGbJiiZhIQDxhd20OTtdpHoS59IacMM1kKt7X_jR9o4xYGP-YBPw2b7dAX8y_OYy_6eu3nHx2AXeEwPsax1VgwwKqhgxONUqdN2rHPCTR0evqsleLKn6wqPCsr_5-p32jF5HtnTjuwaxpHPq7nN8HWAItMKjbkSNMvCOotVGlHA23g0nH-_cs3qNcNRqUw5JHPwjcvneO4BeFJYGitUjrhVigSocjkoLU6NwZavWAkhzFIcPdgTmOIR1NqsM6k39zX9THndDX3IwhrGjdfyd7Ry6LibN5UWIQzGQK3Or-euqtFSp4WqpgE_FEqmXkAzhWpSPy1z4YlJ1ziTiYhBg9CvK6_rfWg2C28vBt5Eq7MmqdMby_kQd0QQgHA30keJub0z2SgCze6iVeABebipsPqcQP5PWLcJkLQvSHs_S-moOjiTVXASkANWVwnFhwAgBQNu6cM7mGcTjNVmY9K-t8ak59q2iR65lWVQFlgHTYNYWbVyndQZK7qSiTE2O5R-X50fJQZyf-8NfRoM4YNsTzoltdxiRAYmIAEqCXVzLWVhc3QtMTDkBg.m3u8
-
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f1589be8f15b2dbbb4673d6d053099ce60224c396311dd99c982f9fce47d8693.png"group-title="CRISTIANO",PENIEL TV HD
@@ -1613,7 +1612,7 @@ https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w185088520
 
 
 #EXTINF:-1 tvg-logo="https://canaltelefamilia.com/wp-content/uploads/2021/02/Logo-Blanco.png"group-title="CRISTIANO", TELEFAMILIA HD
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?WebM3UCL
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQviorcQCUEHj_UY-TGLSZltle6WGUrJ2kd4g&usqp=CAU"group-title="CRISTIANO", CRISTIANA TV HD
@@ -1622,7 +1621,7 @@ https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4UNQ-eaQbUk/YE1UUzjDO3I/AAAAAAABAn8/QbEyp6jNP7MsJ90tDqBUMDyGXQVlXxkBgCK8BGAsYHg/s512/2021-03-13.png"group-title="CRISTIANO",UrbancrisTV HD
-https://rpn3.bozztv.com:443/ssh101/ssh101/urbancrist/chunks.m3u8?nimblesessionid=61869844
+https://rpn3.bozztv.com:443/ssh101/ssh101/urbancrist/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="CRISTIANO",ALTAR TV HD
