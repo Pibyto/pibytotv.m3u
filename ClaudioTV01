@@ -666,7 +666,16 @@ https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_0a56fe220b8e4fe3a54a32bf98a9f9ff~mv2.png/v1/fill/w_389,h_389,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_MasTv.png"group-title="TV",MAS TV HD
 https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo3kV9Rs-_TYIDHouqzAu6dKuv2_z2uQAqfQ&usqp=CAU"group-title="TV",NEO TV
+https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://canal29tva.com.bo/wp-content/uploads/2023/10/cropped-LOGO-TVA-2018-A2.png"group-title="TV",CANAL 29 TVA
+https://vdo.grupolimalive.com:3089/live/tvelive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://marvisiontv.com/wp-content/uploads/elementor/thumbs/logoMV-qdr7xh0dhr7fo8eat1nyjg2mp1npvvu37bt0w9oh9e.png"group-title="TV",MARVISION
+https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_4f77437ba53c4b898edfddd58c96faa4~mv2.png/v1/fill/w_389,h_389,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Tv%20Florencia.png"group-title="TV",FLORENCIA
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
