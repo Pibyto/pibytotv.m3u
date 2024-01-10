@@ -614,9 +614,8 @@ https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFaufS9LpOyFFebjT6J6su80ei5dlRdDvKIg&usqp=CAU"group-title="TV",PLANETA TV HD
-https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTX6Ign8OtS0dp5XTcCjlCQbwCMyd0IlhMEQ&usqp=CAU"group-title="TV",PLANETA HD
+https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
 
 
@@ -824,12 +823,13 @@ https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcRzf1XWUq987Etxq_wbP4TkGCEgdl7WNVRQ&usqp=CAU"group-title="TV",WOW MOVIES
-https://rpn3.bozztv.com/ssh101/ssh101/wowchannelsd/chunks.m3u8?nimblesessionid=63443403
-
+https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2nLQO7NilUHD-BBafTZVM3p_AHaikHw-4w&usqp=CAU"group-title="TV",CANAL 88
-https://rpn3.bozztv.com:443/ssh101/ssh101/88channel/chunks.m3u8?nimblesessionid=63470825
+https://ssh101.bozztv.com:443/ssh101/88channel/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5BYr8FaRq_hb6-0CkYnFmyLIn7b223Zgpizoq99BK-10e7XVjAyF9dvVflzFZmRdBrs"group-title="TV",TV NOSARA
+https://stmv.streamingvip.click:443/tvnosara2/tvnosara2/chunklist_w976657265.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdt9aJXktfC1m_sqY3R8jHzeWsCNV_6vkgg&usqp=CAU"group-title="TV",SIMAVISION
@@ -847,13 +847,21 @@ https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8?ads.content_page_url=ht
 #EXTINF:-1 tvg-logo="https://xhateaec.com/upload/photos/2023/11/KlNyCZA3WeBWZ7I5dkX2_07_a834f8e406af82d6fbacbe7ff78d237a_avatar.jpg?cache=0"group-title="TV",LHS TV
 https://xhateaec.com:8800/hls/visitor/visitor/f171674ab0ae1efdd6b4dcccdd70b04e/index.m3u8
 
+
+Ruben Caceres:
+#EXTINF:-1 tvg-logo="https://imgur.com/sAYNKJ8?rhttps://imgur.com/sAYNKJ8?r"group-title="TV",GABITO TV
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/bella-vision-canal-8.png"group-title="TV",BELLAVISION HD
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRH6Og4NQrQO5OJuXy1QjSkQ38eTTKIJociQ&usqp=CAU"group-title="TV",NUEVA VISIÓN HD
-https://rpn3.bozztv.com:443/ssh101/ssh101/nuevavisionhd/chunks.m3u8?nimblesessionid=63468500
+https://rpn3.bozztv.com:443/ssh101/ssh101/nuevavisionhd/chunks.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmG-u529ySgyNPrU25X8zBQSMfxQhGRsC3A&usqp=CAU"group-title="TV",VISIONSUR TV
-https://ott1.hdlatam.tv:443/live_abr/webtvVisionSur/live/Ia6tBZUR_1yptRX0C/chunks.m3u8?nimblesessionid=6412540&PlaylistM3UCL
+https://ott1.hdlatam.tv:443/live_abr/webtvVisionSur/live/Ia6tBZUR_1yptRX0C/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://vztvproducciones.com/wp-content/uploads/2023/02/LOGO.png"group-title="TV",VZ TV
 https://live.obslivestream.com:443/vztv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
@@ -899,7 +907,7 @@ https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://enlinea.rtv.org.mx/img/imgShareRTVEnLinea.jpg"group-title="TV",NTV
+#EXTINF:-1 tvg-logo="https://enlinea.rtv.org.mx/img/imgShareRTVEnLinea.jpg"group-title="TV",RTV
 https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1901874281.m3u8
 
 
