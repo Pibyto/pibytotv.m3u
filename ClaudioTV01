@@ -1404,7 +1404,12 @@ https://xhateaec.com:8800/hls/visitor/visitor/57328eda266dcd70fd321815a6813ac1/i
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3212-960x540-000000.jpg"group-title="CRISTIANO", CLAROVISION TV
 https://vsrv2.az-streamingserver.com:3057/live/clarovisiontvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
+Ruben Caceres:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/AsomaVisi%C3%B3n.jpg/640px-AsomaVisi%C3%B3n.jpg"group-title="CRISTIANO",ASOMAVISION
+https://asomatv.duckdns.org/livestream/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321966723214487552/RCnlywqt_400x400.png"group-title="CRISTIANO",CATEDRAL TV
+https://ythls.armelin.one/channel/UCjtogA7_a6F4bdaO3tnK69Q.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png"group-title="CRISTIANO",RCC TV
