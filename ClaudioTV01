@@ -432,7 +432,8 @@ http://187.102.208.108:50001/play/a01y/index.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Gran_Hermano_2022_logo.png"group-title="TDA BS.AS",GRAN BROTHER
+http://ns5007357.ip-51-222-241.net:8080/live/CarlosLalama/Carlos2023/375294.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA BS.AS",EL TRECE  33.1
@@ -868,7 +869,12 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8?PlaylistM3UCL
 
 
+Ruben Caceres:
+#EXTINF:-1 tvg-logo="https://wtvnicaragua.com/img/LOGO-CANAL.png"group-title="TV",WTV CANAL 20
+https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOMS_tHTPucWjRUu8ghvWy6tgY6eXrt4iOFs6KipR1mg&s"group-title="TV",SALTO TV
+https://rpn3.bozztv.com/ssh101/ssh101/redcanindeyu/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ASHAsSge3r5fjRnCBjbuF66vrneGdSpivA&usqp=CAU"group-title="TV",+CINE HD
