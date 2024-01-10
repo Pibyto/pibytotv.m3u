@@ -822,6 +822,22 @@ https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png"group-title="TV",PLANETA MOVIES
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcRzf1XWUq987Etxq_wbP4TkGCEgdl7WNVRQ&usqp=CAU"group-title="TV",WOW MOVIES
+https://rpn3.bozztv.com/ssh101/ssh101/wowchannelsd/chunks.m3u8?nimblesessionid=63443403
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2nLQO7NilUHD-BBafTZVM3p_AHaikHw-4w&usqp=CAU"group-title="TV",CANAL 88
+https://rpn3.bozztv.com:443/ssh101/ssh101/88channel/chunks.m3u8?nimblesessionid=63470825
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdt9aJXktfC1m_sqY3R8jHzeWsCNV_6vkgg&usqp=CAU"group-title="TV",SIMAVISION
+https://rpn3.bozztv.com:443/ssh101/ssh101/simavision18/chunks.m3u8?nimblesessionid=63473185
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9Pn84OuQq6R-Qvc8hJLXob1h97Qj0i5uPw&usqp=CAU "group-title="TV",PANDONET TV
+https://rpn3.bozztv.com:443/ssh101/ssh101/pandonettv4201/chunks.m3u8?nimblesessionid=63477321
+
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-960x540-000000.jpg"group-title="TV",TELEMAX HD
@@ -1353,6 +1369,10 @@ https://stream.eleden.com:443/livesalvatv/ngrp:livesalvatv_all/chunklist_w117830
 
 #EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/06/alcancetv_logo-3d.png"group-title="CRISTIANO",ALCANCE TV HD
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/chunklist_w1412319419.m3u8?WebM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2m83sYjidUhRd4bCEmhb8Wjv4PSpDD5mmg&usqp=CAU "group-title="CRISTIANO", PRESENCIA KIDS
+https://rpn3.bozztv.com:443/ssh101/ssh101/kidsenvivo/chunks.m3u8?nimblesessionid=63442967
 
 
 
