@@ -923,6 +923,8 @@ https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rtvnaranjal.online/wp-content/uploads/2023/10/naran12345.jpg"group-title="TV",RTV
 https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1901874281.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtg__Qk8LkTyTLHauYZ2RvmiPOxhM_dSSmBA&usqp=CAU"group-title="TV",MULTIVISION
+https://rpn3.bozztv.com:443/ssh101/ssh101/canalmulti24/chunks.m3u8
 
 
 
