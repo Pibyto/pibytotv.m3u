@@ -425,7 +425,8 @@ http://187.102.208.108:50001/play/a01y/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Gran_Hermano_2022_logo.png"group-title="TDA BS.AS",GRAN BROTHER
+http://ns5007357.ip-51-222-241.net:8080/live/CarlosLalama/Carlos2023/375294.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://simkl.in/posters/52/52143401750f06f53_ca.jpg"group-title="TDA BS.AS",I CARLY
@@ -606,7 +607,8 @@ https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 #EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=216,fit=crop,q=95/d95PlPK7VNh8EKpe/oie_transparent-d95PlokPp4iPlN4p.png"group-title="TV",URBANA TE VE
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8?PlaylistM3UCL
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRh2OxpyyBSPjrvk9k9J5n0Un4ftcGp7MAU6QV1zPa_Q&s"group-title="TV",MEGANET TV
+https://rpn3.bozztv.com/ssh101/ssh101/meganettv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_011c9d0c1e12416596fd95b9c5b5268a~mv2.png/v1/fill/w_490,h_490,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7acae1_011c9d0c1e12416596fd95b9c5b5268a~mv2.png"group-title="TV",9 HD
