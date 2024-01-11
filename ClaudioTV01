@@ -1449,7 +1449,6 @@ https://stmv5.voxtvhd.com.br/vidanuevatv/vidanuevatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://televisor.top/uploads/posts/2019-06/1560869034_cci-channel.png"group-title="CRISTIANO",CCI CHANNEL
-https://5d597bfcee285.streamlock.net/cci/cci/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1399_IPNA_Medio.png"group-title="CRISTIANO",IPNA MEDIOS TV
@@ -1516,7 +1515,7 @@ https://stream.oursnetworktv.com:443/latin/feVivienteGtm/chunklist_w1971394806.m
 
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_2/large.gallery_5610_2_2559.png.aaa2685ee7b7ab0b250518988a62f57b.png"group-title="CRISTIANO",ENLACE JUVENIL
-https://1-349-11554-1.b.cdn13.com:443/EJTV/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFitKk2sCnlcd5dvgqh8e9hPv8kYN7JiVaJw&usqp=CAU"group-title="CRISTIANO",PRESENCIA TELEVISION
 https://stream.oursnetworktv.com:443/latin/remaPresencia/chunklist_w1234426987.m3u8
@@ -1569,7 +1568,7 @@ https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://primiciatelevision.cl/wp-content/uploads/2021/07/logo-final-768x695.png"group-title="CRISTIANO",PRIMICIA VIDA
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1485_Primicia_Vida_Television.png"group-title="CRISTIANO",PRIMICIA VIDA
 https://stmv5.voxtvhd.com.br:443/primiciavida/primiciavida/chunklist_w1226243709.m3u8?PlaylistM3UCL
 
 
@@ -1595,7 +1594,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w4391
 
 
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/50397cf71b817f29eb7f6fed5c6edf33.webp"group-title="CRISTIANO", TELEVIDA HD
+#EXTINF:-1 tvg-logo="https://33e1600b34.cbaul-cdnwnd.com/d7495a2b4d8a7ea80be22f304f0282e4/200000108-dc6f6dc6f9/logo-color-ok-3.png?ph=33e1600b34"group-title="CRISTIANO", TELEVIDA HD
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 
 
