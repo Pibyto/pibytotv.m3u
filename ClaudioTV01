@@ -904,7 +904,20 @@ https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?Playlist
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w463293140.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTJe0x1LKGiwftZGRrZbG9yz8jcbnE9HrqfHnuUR__cg&s"group-title="TV",ELROY TV
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/172
 
+
+#EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="TV",TELECOLOR HD
+https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE200MU5PUtUy1G1EHouVCSZSnlWTXEZRx3lphJH81cg&s"group-title="TV",SAS TV
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/138
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_655bf668e7bd454c9def9fcc738bab02~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_C100tvchinique.png"group-title="TV",CANAL 100 HD
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/106
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTMc4pZOIuYd6q_iq7xlVTU9NQczjTMv1WlA&usqp=CAU"group-title="TV",ORIGEN TV HD
@@ -1455,6 +1468,12 @@ https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
 https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYL73f1UUioHV4nF5TRt0joyus4JDNLydblA&usqp=CAU"group-title="CRISTIANO",PRESENCIA TV
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/177
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png"group-title="CRISTIANO",BETHEL TV
+http://187.102.208.108:50001/play/a02m/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.tevevida.com/images/logo_01.png"group-title="CRISTIANO",TEVE VIDA HD
