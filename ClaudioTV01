@@ -666,7 +666,7 @@ https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_0a56fe220b8e4fe3a54a32bf98a9f9ff~mv2.png/v1/fill/w_389,h_389,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_MasTv.png"group-title="TV",MAS TV HD
 https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo3kV9Rs-_TYIDHouqzAu6dKuv2_z2uQAqfQ&usqp=CAU"group-title="TV",NEO TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-61Uhe23lokOdehZSvZE09sY_AOD4HoRxkAmrhE9g7g&s"group-title="TV",NEO TV
 https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
 
 
@@ -718,7 +718,7 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/174
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQEaaJIGvj0gwd5VmN96yPyQCUp4wPaYqTA&usqp=CAU"group-title="TV",IPERSONICA TE VE
+#EXTINF:-1 tvg-logo="https://contactonoriega.com/wp-content/uploads/2021/01/logo-ipersonica.png"group-title="TV",IPERSONICA TE VE
 https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
 
 
@@ -858,7 +858,7 @@ https://xhateaec.com:8800/hls/visitor/visitor/f171674ab0ae1efdd6b4dcccdd70b04e/i
 
 
 Ruben Caceres:
-#EXTINF:-1 tvg-logo="https://imgur.com/sAYNKJ8?rhttps://imgur.com/sAYNKJ8?r"group-title="TV",GABITO TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVi7sL6YYVVxS0nXiP6OEKhy_v_SOge-7GgFA7jjbTw&s"group-title="TV",GABITO TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/bella-vision-canal-8.png"group-title="TV",BELLAVISION HD
@@ -909,7 +909,7 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w463293140.m
 https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.google.com/search?q=logo+png+canal+Gi+TV&source=lmns&bih=512&biw=360&client=ms-android-motorola-rev2&prmd=ivnsmbtz&hl=es-419&sa=X&ved=2ahUKEwjzy6fyitSDAxWjBrkGHfo3CYcQ0pQJKAB6BAgAEAc#imgrc=U9HBG-POZK4UqM&imgdii=bhi4gsSanYWOhM"group-title="TV",GI TV 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW5KZDjHqvQ8XYPRj8a-HQ6kuGyirIq9PUIA&usqp=CAU"group-title="TV",GI TV 
 https://rpn3.bozztv.com:443/ssh101/ssh101/rctvhdgitv/chunks.m3u8
 
 
@@ -918,7 +918,7 @@ https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://enlinea.rtv.org.mx/img/imgShareRTVEnLinea.jpg"group-title="TV",RTV
+#EXTINF:-1 tvg-logo="https://rtvnaranjal.online/wp-content/uploads/2023/10/naran12345.jpg"group-title="TV",RTV
 https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1901874281.m3u8
 
 
@@ -928,12 +928,12 @@ https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1901874281.m3u8
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.google.com/search?client=ms-android-motorola-rev2&sca_esv=597319875&hl=es-419&sxsrf=ACQVn09VysT96e7SI88DBAT7nb1vMAdihw:1704933532992&q=logo+png+canal+ok+television&tbm=isch&source=lnms&prmd=ivsnbmtz&sa=X&ved=2ahUKEwjv9eSsjNSDAxX5rpUCHe5yB30Q0pQJegQIGBAB&biw=360&bih=512&dpr=2#imgrc=dy5O5ltkqp_JMM "group-title="TV",OK TELEVISION
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO4HX_0RuYIYd-S0v2n2_nuT3TgBsDzjUjhsQGMsFcRQ&s"group-title="TV",OK TELEVISION
 https://rpn3.bozztv.com:443/ssh101/ssh101/oktvenvivo/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.google.com/search?q=logo+png+frecuencia+musical+fusion&tbm=isch&ved=2ahUKEwjtnc6HjdSDAxXihZUCHTuHCq0Q2-cCegQIABAD&oq=logo+png+frecuencia+musical+fusion&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIICAAQgAQQogQyCAgAEIAEEKIEMggIABCABBCiBDIICAAQgAQQogQ6BAgjECdQmwlYmwlgvRZoAHAAeACAAZUBiAGMApIBAzAuMpgBAKABAcABAQ&sclient=mobile-gws-wiz-img&ei=WzmfZa2EG-KL1sQPu46q6Ao&bih=512&biw=360&client=ms-android-motorola-rev2&prmd=ivsnbmtz&hl=es-419#imgrc=RYybAUHjmysFRM&imgdii=HxcYkcuJmtpX1M"group-title="TV",FRECUENCIA MISICAL TV HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FqXIp1-k18o/YJC-o6TCfmI/AAAAAAAADO8/3WOyuSqer7sIKKXiE8OjplgUoVOiYLbKQCLcBGAsYHQ/s611/Canal-frecuencia-musical-tv-1-mundo-ecuador-en-vivo.jpg"group-title="TV",FRECUENCIA MISICAL TV HD
 https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
 
 
@@ -1369,14 +1369,15 @@ https://5bf8041cb3fed.streamlock.net:443/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w54
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7MTBgbIBlC6EDbThMg9NjWwWfsaTAKXRiQ&usqp=CAU"group-title="CRISTIANO",JTA TV HD.  21.1  MENDOZA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCQTe3BmwB-_e9Pie8e_hNPefbsjk1gp5hXw&usqp=CAU"group-title="CRISTIANO",JTA TV HD.  21.1  MENDOZA
 https://streaming.jtamendoza.com/hls/test.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2849-294x165-FFFFFF.jpg"group-title="CRISTIANO", ALELUYA TV HD
 https://vsrv2.az-streamingserver.com:3408/live/aleluyatvlive.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Canal27GT_Logo.png"group-title="CRISTIANO",CANAL 27
+https://live.canal27.tv:3633/live/canal27live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image70119570242.jpg"group-title="CRISTIANO",MOVIE FE
@@ -1433,7 +1434,7 @@ https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
 https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/53e3b76611c1f5686c3d1f9b0bc753aceb690df0d7f68cb3b9607d24f484399c.png"group-title="CRISTIANO",JTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjHFhbK-ynwBpQe44sHT4Z3b2-OxoUPWvIWA&usqp=CAU"group-title="CRISTIANO",JTV
 https://xhateaec.com:8800/hls/visitor/visitor/57328eda266dcd70fd321815a6813ac1/index.m3u8
 
 
@@ -1474,7 +1475,7 @@ https://stream.oursnetworktv.com:443/latin/remaPresencia/chunklist_w1234426987.m
 
 
 
-#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4D16AQGaaJ0KPmKDCQ/profile-displaybackgroundimage-shrink_200_800/0/1548969729964?e=2147483647&v=beta&t=sPrgYutJXSsezo3e2YlLuW6MH8OYtrmfW1PThsrmz-I"group-title="CRISTIANO",EBENEZER TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjPbmu3gI41dnMcN7oDyP_cv26SbgYxUsDr9TzS5qghA&s"group-title="CRISTIANO",EBENEZER TV
 https://5e85d90130e77.streamlock.net:443/6010/ngrp:6010_all/chunklist_w561828516_b3128000.m3u8
 
 
@@ -1486,7 +1487,7 @@ https://cp.cast-live.net:1936/adoraadios/adoraadios/chunklist_w596149658.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2016_08/small.elim_tv_sv.png.5b3f80836ec59c0fe686e98684513868.png"group-title="CRISTIANO",ELIM TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtAeAJAhI95rscGbB9iL5Gms1p-p6-t_eSrAWidrZbiw&s"group-title="CRISTIANO",ELIM TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/manifest.m3u8?p=79&h=973bf97fb3d1a1543819421ef2849f09
 
 
@@ -1523,7 +1524,7 @@ https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
 https://stmv5.voxtvhd.com.br:443/primiciavida/primiciavida/chunklist_w1226243709.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://kodifacil.com/wp-content/uploads/2022/08/logo-ftv-skin-263x300.png"group-title="CRISTIANO",FORTALEZA TV
+#EXTINF:-1 tvg-logo="https://www.fortalezatv.cl/assets/img/fortalezatv/FTV%20blanco%20largo%202.png"group-title="CRISTIANO",FORTALEZA TV
 https://multimedia.fortalezatv.cl:443/video/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
 
@@ -1578,7 +1579,7 @@ https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/chunkl
 
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/8173bl4CUhS.png"group-title="CRISTIANO", MANÁ DEL CIELO TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMkqT6aY_8jTSDv6-PRvR8W5isSmy3M0h0KG-EAjCGOg&s"group-title="CRISTIANO", MANÁ DEL CIELO TV
 http://mediaplatform.streamingmediahosting.com/p/10671/sp/1067100/playManifest/entryId/0_97vnjka8/format/applehttp/protocol/http/a.m3u8
 
 
@@ -1619,7 +1620,7 @@ https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/171/191/png-clipart-streaming-television-free-to-air-digital-television-television-channel-espa-ntilde-a-television-text.png"group-title="CRISTIANO",TBN ESPAÑOL
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/pHnPb6gm5A-JMQdBzL-pkbUngq9lBI4TtUmrDEwEjBQBXrJWqz94Ww6zEKO9FCyaqFI1MHPX0Nqq8awrmyeFCCdkgQEakFyZ3y2mQSKAeg"group-title="CRISTIANO",TBN ESPAÑOL
 https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 
 
