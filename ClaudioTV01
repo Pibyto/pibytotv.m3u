@@ -1417,6 +1417,33 @@ https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 https://live.tvcontrolcp.com:1936/luztv/luztv/chunklist_w1678699032.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://inminente.com.ar/wp-content/uploads/2023/08/cropped-inminente-logo.png"group-title="CRISTIANO", INMINENTE TV
+https://stmvideo2.livecastv.com/zonagospel/zonagospel/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1186_Casa_Sobre_La_Roca_TV.png"group-title="CRISTIANO",CASA SOBRE LA ROCA TV
+https://cp.panelchs.com:1936/8118/8118/chunklist_w259629028.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp"group-title="CRISTIANO", GOSPEL MOVIE TELEVISIÓN 
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/995_Vida_Nueva_TV.png"group-title="CRISTIANO",VIDA NUEVA TV
+https://stmv5.voxtvhd.com.br/vidanuevatv/vidanuevatv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://televisor.top/uploads/posts/2019-06/1560869034_cci-channel.png"group-title="CRISTIANO",CCI CHANNEL
+https://5d597bfcee285.streamlock.net/cci/cci/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1399_IPNA_Medio.png"group-title="CRISTIANO",IPNA MEDIOS TV
+https://paneltv.online:1936/8184/8184/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nH8aHR7CsWn1Q890ZiFHA41XanzdUyHIdw&usqp=CAU"group-title="CRISTIANO",CORRIENTES TV HD
 https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
 
