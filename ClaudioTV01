@@ -1422,7 +1422,7 @@ https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/LOGO-200x200.png"group-title="CRISTIANO", DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://xhateaec.com/upload/photos/2023/11/HkNuDgTFsMcIwBXKqxNf_07_1244e870d02276976f344640a0de0f66_avatar.jpg?cache=0"group-title="CRISTIANO",TIEMPO FINAL TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ifbnVIGrVPOCMs6VvdgyGZ3GsJzOQa4Zhl7mQF-iYQ&s"group-title="CRISTIANO",TIEMPO FINAL TV
 https://rpn3.bozztv.com:443/ssh101/ssh101/tiempofinaltv/chunks.m3u8
 
 
@@ -1496,11 +1496,11 @@ http://187.102.208.108:50001/play/a02m/index.m3u8
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-HrylBCm5xB4Hnf6igqh7FUYEdv-feq_bwg&usqp=CAU"group-title="CRISTIANO",CRISTOVISION
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlwXd2LKKBdrHQrZCRAS5ZuH62pJwJc6CD1w&usqp=CAU"group-title="CRISTIANO",CRISTOVISION
 https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjHFhbK-ynwBpQe44sHT4Z3b2-OxoUPWvIWA&usqp=CAU"group-title="CRISTIANO",JTV
+#EXTINF:-1 tvg-logo="https://nebula.wsimg.com/efb9d4566ba25f0ad55a4abd0861e051?AccessKeyId=8D4932B2D6465049B7C5&disposition=0&alloworigin=1"group-title="CRISTIANO",JTV
 https://xhateaec.com:8800/hls/visitor/visitor/57328eda266dcd70fd321815a6813ac1/index.m3u8
 
 
