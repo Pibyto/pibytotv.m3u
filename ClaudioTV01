@@ -1544,6 +1544,34 @@ https://59ce1298bfb98.streamlock.net:443/rcctv02/rcctv02/chunklist_w484833918.m3
 https://v4.tustreaming.cl:443/restaurandovida/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2911-960x540-000000.jpg"group-title="CRISTIANO",VIDA NUEVA TV
+https://eu1.servers10.com:8081/vidanuevatv/index.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2889-960x540-000000.jpg"group-title="CRISTIANO",MISION EL TV
+https://paz.sytes.net:5443/live/streams/misioneltv.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2966-960x540-000000.jpg"group-title="CRISTIANO", CELESTIAL TV
+https://grupocibermedios.com:3870/hybrid/play.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3028-960x540-000000.jpg"group-title="CRISTIANO",LA ESENCIA DE TU PALABRA
+https://5bf8041cb3fed.streamlock.net/LaEsenciadetuPalabraTV/LaEsenciadetuPalabraTV/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3213-960x540-000000.jpg"group-title="CRISTIANO",CRISTO TV
+https://vsrv2.az-streamingserver.com:3352/live/clarovisiontvradiolive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2511-960x540-000000.jpg"group-title="CRISTIANO",VC MEDIOS 
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2946-960x540-000000.jpg"group-title="CRISTIANO", APOCALIPSIS NETWORK
+https://livetv.305streamhd.com:3394/live/tvapocalipsisnetworklive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
 
 
 
