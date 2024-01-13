@@ -974,6 +974,25 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
 https://tgn.bozztv.com/ssh101/ssh101/apaninestv/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3363-960x540-000000.jpg"group-title="TV",OTV
+https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3026-960x540-000000.jpg"group-title="TV",COCO TV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2883-960x540-000000.jpg"group-title="TV",MASTER VIDEO
+https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3354-960x540-000000.jpg"group-title="TV", E PIÑA TV
+https://stmv5.voxtvhd.com.br/eptv/eptv/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3335-960x540-000000.jpg"group-title="TV", CLARO TV INT.
+https://ss3.domint.net:3156/ltv_str/latinatvint/chunklist_w1764414212.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
 
 
 
@@ -1441,7 +1460,7 @@ https://rpn3.bozztv.com:443/ssh101/ssh101/kidsenvivo/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/tvluz.png"group-title="CRISTIANO",TV LUZ
 https://rdn.essastream.com:3307/live/tvluzlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/luz-naciente-tv.png"group-title="CRISTIANO",LUZ NACIENTE TV
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2680-960x540-000000.jpg"group-title="CRISTIANO",LUZ NACIENTE TV
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 
 
@@ -1558,7 +1577,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/m
 
 
 
-#EXTINF:-1 tvg-logo="https://lifestreammedia.net/wp-content/uploads/2020/08/MI-AMOR-Y-VIDA-TV-2.jpg"group-title="CRISTIANO",AMOR i VIDA TV
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2909-960x540-000000.jpg"group-title="CRISTIANO",AMOR i VIDA TV
 https://5bf8041cb3fed.streamlock.net:443/MiAmoriVidaTV/MiAmoriVidaTV/chunklist_w1066328190.m3u8
 
 
@@ -1674,7 +1693,7 @@ https://1206618505.rsc.cdn77.org:443/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/H0oy8fcD29Go53zB4tXGnEv1N7nKAv5qv8tO87yOM0DztIF-soIlBVCfBATDjN24TKAbFF0A_g=s900-c-k-c0x00ffffff-no-rj"group-title="CRISTIANO",NEW LIFE TV HD
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3307-960x540-000000.jpg"group-title="CRISTIANO",NEW LIFE TV HD
 https://5f11b4ed6a412.streamlock.net:443/newliferadiotv/newliferadiotv/chunklist_w834495680.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 https://paneltv.net:3751/hybrid/play.m3u8?PlaylistM3UCL
 
