@@ -433,9 +433,6 @@ http://ns5007357.ip-51-222-241.net:8080/live/CarlosLalama/Carlos2023/375294.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Gran_Hermano_2022_logo.png"group-title="TDA BS.AS",GRAN BROTHER
-http://ns5007357.ip-51-222-241.net:8080/live/CarlosLalama/Carlos2023/375294.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA BS.AS",EL TRECE  33.1
 https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
@@ -554,11 +551,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest?cb=20210623155431&path-prefix=es"group-title="TDA BS.AS",EURONEWS
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj2Eb0MAG2CT64kYTVs-L86UpY_Ax7laUm1Q&s"group-title="TDA BS.AS",24/7
 https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w797123959_b850000_slen.m3u
 
@@ -570,8 +562,6 @@ https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?Playlis
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZFof_-LB81Da2spI6LrB8S9zsx4YqQjJ0hg&usqp=CAU"group-title="TDA BS.AS",EL HISTONAUTA TV
-https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8?PlaylistM3UCL
 
 
 
@@ -694,12 +684,7 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAdWQQEDaCHm017Y_-Dw-eyyOYvs22F3qrRg&usqp=CAU"group-title="TV",5 HD
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/141
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWEFnfXOvW-Z3ZeTClAICK77gPUvB6tCw0JA&usqp=CAU"group-title="TV",TEVEGLOBO
+#EXTINF:-1 tvg-logo="https://teveglobo.s3.us-east-2.amazonaws.com/Logo.png"group-title="TV",TEVEGLOBO
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/95
 
 
@@ -760,8 +745,6 @@ https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8?ads.content_page_url=https
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/chunklist_w231126957.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT72RvKHlrl13oQc5ZDO65vhZtv0u7tgc6yqQ&usqp=CAU"group-title="TV",TU TV
-https://solo.disfrutaenlared.com:1936/tutv/tutv/chunklist_w834139975.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vtvcanal17.com/file/2023/12/logo-vtv.png"group-title="TV",VTV CANAL 17 HD
@@ -857,7 +840,7 @@ https://ssh101.bozztv.com:443/ssh101/88channel/chunks.m3u8
 https://stmv.streamingvip.click:443/tvnosara2/tvnosara2/chunklist_w976657265.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdt9aJXktfC1m_sqY3R8jHzeWsCNV_6vkgg&usqp=CAU"group-title="TV",SIMAVISION
+#EXTINF:-1 tvg-logo="https://sp.rmbl.ws/s8/1/N/v/e/t/Nvetk.qR4e-small-SIMAVISION-CANAL-18..jpg"group-title="TV",SIMAVISION
 https://rpn3.bozztv.com:443/ssh101/ssh101/simavision18/chunks.m3u8
 
 
@@ -874,13 +857,13 @@ https://xhateaec.com:8800/hls/visitor/visitor/f171674ab0ae1efdd6b4dcccdd70b04e/i
 
 
 Ruben Caceres:
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVi7sL6YYVVxS0nXiP6OEKhy_v_SOge-7GgFA7jjbTw&s"group-title="TV",GABITO TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcJ0J71HU-1JXxbXdpPrh0fbCz7uoYFs9I3uAkYA4ajA&s"group-title="TV",GARABITO TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/bella-vision-canal-8.png"group-title="TV",BELLAVISION HD
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRH6Og4NQrQO5OJuXy1QjSkQ38eTTKIJociQ&usqp=CAU"group-title="TV",NUEVA VISIÓN HD
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3393-960x540-000000.jpg"group-title="TV",NUEVA VISIÓN HD
 https://rpn3.bozztv.com:443/ssh101/ssh101/nuevavisionhd/chunks.m3u8
 
 
@@ -906,7 +889,7 @@ Ruben Caceres:
 #EXTINF:-1 tvg-logo="https://wtvnicaragua.com/img/LOGO-CANAL.png"group-title="TV",WTV CANAL 20
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOMS_tHTPucWjRUu8ghvWy6tgY6eXrt4iOFs6KipR1mg&s"group-title="TV",SALTO TV
+#EXTINF:-1 tvg-logo="https://saltotv.com.ar/wp-content/uploads/2023/06/LOGO-SALTO-TV-2023-02.png"group-title="TV",SALTO TV
 https://rpn3.bozztv.com/ssh101/ssh101/redcanindeyu/playlist.m3u8
 
 
@@ -928,9 +911,6 @@ https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8?PlaylistM3
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/138
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_655bf668e7bd454c9def9fcc738bab02~mv2.png/v1/fill/w_444,h_444,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_C100tvchinique.png"group-title="TV",CANAL 100 HD
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/106
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTMc4pZOIuYd6q_iq7xlVTU9NQczjTMv1WlA&usqp=CAU"group-title="TV",ORIGEN TV HD
 https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u8
@@ -939,9 +919,6 @@ https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW5KZDjHqvQ8XYPRj8a-HQ6kuGyirIq9PUIA&usqp=CAU"group-title="TV",GI TV 
 https://rpn3.bozztv.com:443/ssh101/ssh101/rctvhdgitv/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReA00cfIBmxiFio9NPttnxiMpSowrL0wodKQ&usqp=CAU"group-title="TV',OPINION SUR
-https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/playlist.m3u8
 
 
 
