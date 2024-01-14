@@ -925,8 +925,26 @@ https://rpn3.bozztv.com:443/ssh101/ssh101/rctvhdgitv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://rtvnaranjal.online/wp-content/uploads/2023/10/naran12345.jpg"group-title="TV",RTV
 https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1901874281.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtg__Qk8LkTyTLHauYZ2RvmiPOxhM_dSSmBA&usqp=CAU"group-title="TV",MULTIVISION
+#EXTINF:-1 tvg-logo="https://canalmultivision.com/wp-content/uploads/2021/03/logo-multivision-600x600.png"group-title="TV",MULTIVISION
 https://rpn3.bozztv.com:443/ssh101/ssh101/canalmulti24/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3359-960x540-000000.jpg"group-title="TV",NISIBON HD
+https://250weu.bozztv.com/ssh101/ssh101/nisibontv48/chunks.m3u8?nimblesessionid=66335539
+
+
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/61e424f065bec179c87403c6/2a15aceb-68b4-4f35-b126-baaabba126f1/tvision_logo_rund.png"group-title="TV",TV VISION 
+https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuXNZDeHf1-uYVaNI0es2GTfC66rMLHGcO8g&usqp=CAU"group-title="TV",CANAL MAS TELEVISIÓN 
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://multicanaltvcali.com/wp-content/uploads/2018/07/LOGO-MASTER-MULTCANAL-2.png"group-title="TV",MULTICANAL TELEVISIÓN 
+https://ssh101.bozztv.com:443/ssh101/KIOCApP/chunks.m3u8
 
 
 
