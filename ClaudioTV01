@@ -931,9 +931,18 @@ https://rpn3.bozztv.com:443/ssh101/ssh101/canalmulti24/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3359-960x540-000000.jpg"group-title="TV",NISIBON HD
-https://250weu.bozztv.com/ssh101/ssh101/nisibontv48/chunks.m3u8?nimblesessionid=66335539
+https://250weu.bozztv.com/ssh101/ssh101/nisibontv48/chunks.m3u8?nimblesessionid=66823455
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5budz8fMzRI_AYfVyRZRpKiVcGC_5qNycXLbCZMwYxg&s"group-title="TV",NORTVISION
+https://plataformavideo.com/live/nortvision.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/768px-Repretel_6_logo.png"group-title="TV",CANAL 6
+https://d2t46xrpai3it5.cloudfront.net:443/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a889a5_d93a414ce0504f8ebbc4d2c04882a23d~mv2.png/v1/fill/w_440,h_440,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telebrunca2-04.png"group-title="TV",TELE BRUNCA
+https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1177696492.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/61e424f065bec179c87403c6/2a15aceb-68b4-4f35-b126-baaabba126f1/tvision_logo_rund.png"group-title="TV",TV VISION 
 https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
@@ -1771,7 +1780,7 @@ https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w185088520
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9Pg3L4wCaIKlufa4vfGF5FLSrwMiBXUduQ&usqp=CAU"group-title="TDA", CRISTIANA TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo9Pg3L4wCaIKlufa4vfGF5FLSrwMiBXUduQ&usqp=CAU"group-title="CRISTIANO", CRISTIANA TV HD
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
 
@@ -1798,6 +1807,13 @@ https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4VEwQWMsFTU/X6WUazGQV8I/AAAAAAAAAwU/3tkNlT-QTZUMQpo8Ex0j6C5nsPfcd-04wCK4BGAYYCw/s1600/Urbancrist2-logo.png"group-title="CRISTIANO", URBANCRIST 2 WORSHIP HD
 https://rpn3.bozztv.com/ssh101/ssh101/urbancrist2/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/o5KHCS45sBaqdNMu1UYG3K7xjjNt2DdplGJa62X64HCyd4SBC4cR1FGS2-H9cTSMYA"group-title="CRISTIANO",EXTV
+https://cp.cast-live.net:1936/exodotv/exodotv/chunklist_w109029077.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PZrt2yCvcv0/XxPmtUSxXkI/AAAAAAAAKTs/9u2sLm1WEZAPXonJ2UvH91MnRYLfwC2cwCLcBGAsYHQ/s1600/avivamiento.png"group-title="CRISTIANO", AVIVAMIENTO TV
+https://s1.abntelevision.com:443/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 
 
 
