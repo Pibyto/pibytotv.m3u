@@ -931,7 +931,7 @@ https://rpn3.bozztv.com:443/ssh101/ssh101/canalmulti24/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3359-960x540-000000.jpg"group-title="TV",NISIBON HD
-https://250weu.bozztv.com/ssh101/ssh101/nisibontv48/chunks.m3u8?nimblesessionid=66823455
+https://250weu.bozztv.com/ssh101/ssh101/nisibontv48/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5budz8fMzRI_AYfVyRZRpKiVcGC_5qNycXLbCZMwYxg&s"group-title="TV",NORTVISION
 https://plataformavideo.com/live/nortvision.m3u8
@@ -990,7 +990,7 @@ https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8?ads.content_page_u
 https://stmv5.voxtvhd.com.br/eptv/eptv/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3335-960x540-000000.jpg"group-title="TV", CLARO TV INT.
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3335-960x540-000000.jpg"group-title="TV",LATINA TV INT.
 https://ss3.domint.net:3156/ltv_str/latinatvint/chunklist_w1764414212.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
