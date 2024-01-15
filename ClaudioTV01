@@ -592,6 +592,8 @@ https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?Playlist
 #EXTINF:-1 tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png"group-title="TV",PLANETA MOVIES
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.origentv.cl/wp-content/uploads/2023/12/LOGO-BLANCO-TV-chico.png"group-title="TV",ORIGEN TV HD
+https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECSU6BaxEWDGW889Td3dbR5OpqVbTA8l-9-p4SFapnw&s"group-title="TV",TELEMIX HD
@@ -922,8 +924,6 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/138
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTMc4pZOIuYd6q_iq7xlVTU9NQczjTMv1WlA&usqp=CAU"group-title="TV",ORIGEN TV HD
-https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW5KZDjHqvQ8XYPRj8a-HQ6kuGyirIq9PUIA&usqp=CAU"group-title="TV",GI TV 
