@@ -580,6 +580,16 @@ https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?Playlis
 
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://mascine.co/wp-content/uploads/2022/02/logo-Mas-Cine@2x-min.png"group-title="TV",+CINE HD
+https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?PlaylistM3UCL
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECSU6BaxEWDGW889Td3dbR5OpqVbTA8l-9-p4SFapnw&s"group-title="TV",TELEMIX HD
 https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
 
@@ -892,9 +902,6 @@ https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://saltotv.com.ar/wp-content/uploads/2023/06/LOGO-SALTO-TV-2023-02.png"group-title="TV",SALTO TV
 https://rpn3.bozztv.com/ssh101/ssh101/redcanindeyu/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ASHAsSge3r5fjRnCBjbuF66vrneGdSpivA&usqp=CAU"group-title="TV",+CINE HD
-https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGkN9HVgzQb9-0ToNSK8Quy5IhnXmsGbMOQ&s"group-title="TV",MONI TV HD
