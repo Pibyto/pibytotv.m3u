@@ -1164,7 +1164,6 @@ https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://dto7y5p0mql2j.cloudfront.net/1660769433762.logoc2.png"group-title="TDA INTERIOR", CANAL 2 HD  2.15 MISIONES
 https://nd106.republicaservers.com:4433/hls/canal2misioness/1_0/index.m3u8?sessId=2603976
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 
 
 
@@ -1410,9 +1409,13 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.vidatv.cl/img/logos/vidatv.png"group-title="CRISTIANO",VIDATV
 
 
+#EXTINF:-1 tvg-logo="https://rhemapresenciausa.com/images/Logo%202.png"group-title="CRISTIANO",PRESENCIA TV
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/177
+
+
+
 #EXTINF:-1 tvg-logo="https://vidartvplus.com/images/logo.png"group-title="CRISTIANO",V+
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://adoramtv.org/wp-content/uploads/2023/10/logo-adoram-tv-video_Mesa-de-trabajo-1.png"group-title="CRISTIANO",ADORAM TV HD
@@ -1590,13 +1593,6 @@ https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nH8aHR7CsWn1Q890ZiFHA41XanzdUyHIdw&usqp=CAU"group-title="CRISTIANO",CORRIENTES TV HD
 https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://rhemapresenciausa.com/images/Logo%202.png"group-title="CRISTIANO",PRESENCIA TV
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/177
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png"group-title="CRISTIANO",BETHEL TV
