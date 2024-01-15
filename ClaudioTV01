@@ -589,6 +589,10 @@ https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?Playlis
 https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png"group-title="TV",PLANETA MOVIES
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECSU6BaxEWDGW889Td3dbR5OpqVbTA8l-9-p4SFapnw&s"group-title="TV",TELEMIX HD
 https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
@@ -837,8 +841,6 @@ https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png"group-title="TV",PLANETA MOVIES
-https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcRzf1XWUq987Etxq_wbP4TkGCEgdl7WNVRQ&usqp=CAU"group-title="TV",WOW MOVIES
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
