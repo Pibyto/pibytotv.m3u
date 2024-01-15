@@ -1443,6 +1443,10 @@ https://stmv5.voxtvhd.com.br:443/primiciavida/primiciavida/chunklist_w1226243709
 #EXTINF:-1 tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png?w=276"group-title="CRISTIANO",SOLIDARIA TV HD
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMT8e1HiqYzq32GAZpxErhOdxAQmaGOJpivA&usqp=CAU"group-title="CRISTIANO", PLENITUD TV
+https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png"group-title="CRISTIANO", KINGDOM TV HD  19.1  MENDOZA 
 https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
@@ -1581,11 +1585,6 @@ https://stream.oursnetworktv.com/latin/nissiGtmH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/tv-cristo-vive-9291-w360.webp"group-title="CRISTIANO",TV CRISTO VIVE
 https://cdn.live.br1.jmvstream.com:443/w/LVW-10893/ngrp:LVW10893_gYHYD18Dqy_all/chunklist_b4259840.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS1Asg5VZmeaQ40uj3b3B83VWT05Mx6RdljEvTkUs2gw&s"group-title="CRISTIANO", PLENITUD TV
-https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_face196728d34db885f397f63bc912f1~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Jes%C3%BAsTv.png"group-title="CRISTIANO", JESÚS TV
@@ -1777,7 +1776,7 @@ https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://images.zeno.fm/jGumRebLUbgRf14ROQWDt0nnEhOUIuDjsFDcnwcObNA/rs:fit:440:440/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBMThEYXRRZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBZ0pENG1nb01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9NDQweDQ0MCZ1cGRhdGVkPTE2NjE3NTMzNDAwMDA.webp"group-title="CRISTIANO",UrbancrisTV HD
+#EXTINF:-1 tvg-logo="https://images.zeno.fm/jGumRebLUbgRf14ROQWDt0nnEhOUIuDjsFDcnwcObNA/rs:fit:440:440/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBMThEYXRRZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBZ0pENG1nb01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9NDQweDQ0MCZ1cGRhdGVkPTE2NjE3NTMzNDAwMDA.webp"group-title="CRISTIANO",URBANCRISTV HD
 https://rpn3.bozztv.com:443/ssh101/ssh101/urbancrist/chunks.m3u8
 
 
