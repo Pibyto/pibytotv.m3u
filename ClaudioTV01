@@ -1889,6 +1889,8 @@ https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chu
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tYy0RR3RtjA/hqdefault.jpg"group-title="RADIO", MÚSICA CRISTIANA 24/7
+https://play.wrhradios.com/8024/stream
 
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio16869_1536324670.png"group-title="RADIO", AM 1460 JERUSALEN  MONTE GRANDE
@@ -1975,8 +1977,6 @@ http://genexservicios.com:8006/;stream/1
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRpB8k_glCxxlEtF2AbaxqWwVgvAEyPgN5G92ol1CzOQ&s"group-title="MP3 MUSIC",PETRA - SEÑOR LLEVAME A TUS ATRIOS
-https://play.wrhradios.com/8024/stream
 
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/bit-photos/large/9963004.jpeg"group-title="MP3 MUSIC",BARAK - CON PODER
