@@ -1424,6 +1424,9 @@ https://rpn3.bozztv.com:443/ssh101/ssh101/adoram/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Clhdlogo.png/revision/latest?cb=20210429184423&path-prefix=es"group-title="CRISTIANO",CANAL LUZ HD
 https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png"group-title="CRISTIANO",ENLACE HD COSTA RICA
+https://1-1145-11554-1.b.cdn13.com:443/enlace/smil:enlace-fhd.smil/chunklist_b4240000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="CRISTIANO",ALTAR TV HD
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
@@ -1484,8 +1487,12 @@ https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-960x540-000000.jpg"group-title="CRISTIANO",RESTAURANDO VIDAS TV HD
 https://v4.tustreaming.cl:443/restaurandovida/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="CRISTIANO",ENLACE HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="CRISTIANO",ENLACE BPB HD CHILE
 https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/90a441_f6e425ffe0f441fa9414e0740e32c2fd~mv2.jpg/v1/fill/w_560,h_316,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/90a441_f6e425ffe0f441fa9414e0740e32c2fd~mv2.jpg"group-title="CRISTIANO",OMEGA TV
+https://5caf24a595d94.streamlock.net:1937/8142/8142/chunklist_w1977294333.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/ca2e3293-bb4b-4c20-928a-c9b5e47f0058/TU%20UNIVERSO%20TV%20LOGO%20NUEVO.png"group-title="CRISTIANO",TU UNIVERSO TV
