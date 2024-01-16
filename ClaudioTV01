@@ -609,6 +609,15 @@ https://rds3gen.desdeparaguay.net:443/mitv/mitv/chunklist_w1894002237.m3u8?admin
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_948f2439d9bb40129b35483e0bc39ead~mv2.png/v1/fill/w_476,h_476,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/nimtv.png"group-title="TV",NIMTV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJOeNVZBF15Na9gq0594bIwNxjnh2fonobOjxFe-YuA&s"group-title="TV",CJ HD
+https://s1.tvdatta.com:3156/live/jimeneztvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-36-Lim%C3%B3n-en-vivo-Online.png?resize=696%2C392&ssl=1"group-title="TV",LIMON TV
+https://k4.usastreams.com/limontv1/limontv1/chunklist_w2072558484.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pTdJRVDDV8jmJV-Nu-Ci9MCJOjsJOyE4QTNwOf_hLyqdRCi0qmUkDNElQ0hUD9qPGD1z"group-title="TV",NICOYA TV
+https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w308549941.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=216,fit=crop,q=95/d95PlPK7VNh8EKpe/oie_transparent-d95PlokPp4iPlN4p.png"group-title="TV",URBANA TE VE
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8?PlaylistM3UCL
@@ -1473,6 +1482,9 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/172
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg"group-title="CRISTIANO",EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w439127752.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png"group-title="CRISTIANO",DIOS TV KIDS HD
+https://stream.oursnetworktv.com:443/latin/dD10sT3V3K1dS/chunklist_w1201067700.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/bb9utrX7n-84cGPpYIzcXqwcGGoNJYsRLlwVBCiR9XQ3GHg1n9yv9i62_sV4yFojVvntpWRJM7bE6BgmCU8sVtdRhSYl3O9Q8MuW9g6OMw"group-title="CRISTIANO",OASIS CHANNEL
 https://5e85d90130e77.streamlock.net:443/6020/6020/chunklist_w1538041154.m3u8
@@ -1537,6 +1549,12 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
 https://stream.oursnetworktv.com/latin/dD10sT3V3/chunklist_w797484384.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPApV33HfzWjWXyXMJFHvztXWUIBW0ii009g&usqp=CAU"group-title="CRISTIANO", ESPÍRITU SANTO Y FUEGO TV
+https://inliveserver.com:1936/8392/8392/chunklist_w12896407.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPq6PMg3n8fcqp_Rqt3hJws53StatQH5NlrE-1_1gZww&s"group-title="CRISTIANO",EXPRESION TV
+https://ssh101.bozztv.com:443/ssh101/expresiongrany/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://data.textstudio.com/output/sample/animated/4/3/8/5/tv-4-5834.gif"group-title="CRISTIANO",TIEMPO FINAL TV
 https://rpn3.bozztv.com:443/ssh101/ssh101/tiempofinaltv/chunks.m3u8
@@ -1723,12 +1741,6 @@ https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fortalezatv.cl/assets/img/fortalezatv/FTV%20blanco%20largo%202.png"group-title="CRISTIANO",FORTALEZA TV
 https://multimedia.fortalezatv.cl:443/video/tracks-v1a1/mono.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png"group-title="CRISTIANO",DIOS TV KIDS HD
-https://stream.oursnetworktv.com:443/latin/dD10sT3V3K1dS/chunklist_w1201067700.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="http://ccpeniel.com.mx/site/images/US/MPK_LOGO.png"group-title="CRISTIANO",PENIEL KIDS
