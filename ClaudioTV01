@@ -958,6 +958,18 @@ https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w117769
 https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-canal-colores-1076x605.png"group-title="TV",METROPOLIS 19.1 HD
+https://5e85d90130e77.streamlock.net:443/6028/6028/chunklist_w1901575909.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-19.2-v2-1076x605.png"group-title="TV",METROPOLIS 19.2 HD
+https://5e85d90130e77.streamlock.net:443/6014/6014/chunklist_w1091679071.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bWjRVZerFnam9l1VYEKq6LldIWX660GcZgqLOeAIaA&s"group-title="TV",CANAL 40 HD
+https://mediacp.us:8081/8034/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuXNZDeHf1-uYVaNI0es2GTfC66rMLHGcO8g&usqp=CAU"group-title="TV",CANAL MAS TELEVISIÓN 
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 
