@@ -726,7 +726,7 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/167
 
 
 
-#EXTINF:-1 tvg-logo="https://contactonoriega.com/wp-content/uploads/2021/01/logo-ipersonica.png"group-title="TV",IPERSONICA TE VE
+#EXTINF:-1 tvg-logo="https://contactonoriega.com/wp-content/uploads/2021/01/logo-ipersonica.png"group-title="TV",IPERSONICA TE VE HD
 https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
 
 
@@ -927,19 +927,34 @@ https://rpn3.bozztv.com:443/ssh101/ssh101/ucchullo/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="TV",TELECOLOR HD
 https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w1JgZlP.png"group-title="TV",RTV San Marino HD 
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE200MU5PUtUy1G1EHouVCSZSnlWTXEZRx3lphJH81cg&s"group-title="TV",SAS TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/138
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/816xTc2.png"group-title="TV",SEO TV PELICULAS HD 
+https://live.seo.tv.bo/live/SEO-4.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPTwSHl.png"group-title="TV",SEO TV SERIES HD 
+https://live.seo.tv.bo/live/SEO-9.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW5KZDjHqvQ8XYPRj8a-HQ6kuGyirIq9PUIA&usqp=CAU"group-title="TV",GI TV 
 https://rpn3.bozztv.com:443/ssh101/ssh101/rctvhdgitv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/32dC2eZ.png"group-title="TV",Cascara TV 
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Sz19fg.png"group-title="TV",La Mia TV 
+https://ss5.domint.net:3184/mia_str/lamiatv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W3HGOHn.png"group-title="TV",Casa Grande TV 
+https://ssh101.bozztv.com/ssh101/cgtve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://rtvnaranjal.online/wp-content/uploads/2023/10/naran12345.jpg"group-title="TV",RTV
 https://cp.panelchs.com:1936/rtsgctweku/rtsgctweku/chunklist_w1901874281.m3u8
@@ -1556,7 +1571,7 @@ https://inliveserver.com:1936/8392/8392/chunklist_w12896407.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPq6PMg3n8fcqp_Rqt3hJws53StatQH5NlrE-1_1gZww&s"group-title="CRISTIANO",EXPRESION TV
 https://ssh101.bozztv.com:443/ssh101/expresiongrany/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://data.textstudio.com/output/sample/animated/4/3/8/5/tv-4-5834.gif"group-title="CRISTIANO",TIEMPO FINAL TV
+#EXTINF:-1 tvg-logo="https://xhateaec.com/upload/photos/2023/11/HkNuDgTFsMcIwBXKqxNf_07_1244e870d02276976f344640a0de0f66_avatar.jpg?cache=0"group-title="CRISTIANO",TIEMPO FINAL TV
 https://rpn3.bozztv.com:443/ssh101/ssh101/tiempofinaltv/chunks.m3u8
 
 
