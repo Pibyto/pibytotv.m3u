@@ -639,8 +639,15 @@ https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-19.2-v2-1076x605.png"group-title="TV",METROPOLIS 19.2 HD
+https://5e85d90130e77.streamlock.net:443/6014/6014/chunklist_w1091679071.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_991b5803bc3746b3a9a22259cd03f258~mv2.png/v1/fill/w_480,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GTV.png"group-title="TV",Gtv
+https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://coreplaytv.com/wp-content/uploads/2020/08/LOGO-ICONE-512X512-rev2.png"group-title="TV",I TV HD
 https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3tmBSbJxRC4/X60f9a3rIGI/AAAAAAAAAQc/fF8IH8yVOA4RzCac-jUKBR7-BFVdjiTOwCK4BGAYYCw/s400/Sin%2Bt%25C3%25ADtulo-logo%2Bnuevo%2Btl%2B2%2Bestrella.png"group-title="TV",TL ESTRELLA
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/chunklist_w231126957.m3u8
@@ -648,8 +655,6 @@ https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/chunklist_w23112
 #EXTINF:-1 tvg-logo="https://i.imgur.com/816xTc2.png"group-title="TV",SEO TV PELICULAS HD 
 https://live.seo.tv.bo/live/SEO-4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SPTwSHl.png"group-title="TV",SEO TV SERIES HD 
-https://live.seo.tv.bo/live/SEO-9.m3u8
 
 #EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-canal-colores-1076x605.png"group-title="TV",METROPOLIS 19.1 HD
 https://5e85d90130e77.streamlock.net:443/6028/6028/chunklist_w1901575909.m3u8
@@ -900,8 +905,6 @@ https://rpn3.bozztv.com/ssh101/ssh101/redcanindeyu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGkN9HVgzQb9-0ToNSK8Quy5IhnXmsGbMOQ&s"group-title="TV",MONI TV HD
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w463293140.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3d28cd_2b144beb6aa74ffabfc3131c2126b501~mv2.png"group-title="TV",TV EN LINEA CUSCO
-https://rpn3.bozztv.com:443/ssh101/ssh101/ucchullo/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png"group-title="TV",TELECOLOR HD
@@ -913,7 +916,7 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE200MU5PUtUy1G1EHouVCSZSnlWTXEZRx3lphJH81cg&s"group-title="TV",SAS TV
+#EXTINF:-1 tvg-logo="https://tvguatemala.net/wp-content/uploads/2022/10/SAS-TV-Suchitepequez-Guatemala.webp"group-title="TV",SAS TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/138
 
 
@@ -949,10 +952,6 @@ https://plataformavideo.com/live/nortvision.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Repretel_6_logo.png/768px-Repretel_6_logo.png"group-title="TV",CANAL 6
 https://d2t46xrpai3it5.cloudfront.net:443/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-19.2-v2-1076x605.png"group-title="TV",METROPOLIS 19.2 HD
-https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
-https://5e85d90130e77.streamlock.net:443/6014/6014/chunklist_w1091679071.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bWjRVZerFnam9l1VYEKq6LldIWX660GcZgqLOeAIaA&s"group-title="TV",CANAL 40 HD
@@ -1477,7 +1476,7 @@ https://stmv5.voxtvhd.com.br:443/primiciavida/primiciavida/chunklist_w1226243709
 #EXTINF:-1 tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png?w=276"group-title="CRISTIANO",SOLIDARIA TV HD
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMT8e1HiqYzq32GAZpxErhOdxAQmaGOJpivA&usqp=CAU"group-title="CRISTIANO", PLENITUD TV
+#EXTINF:-1 tvg-logo="https://imgur.com/BFJ7EGj?r"group-title="CRISTIANO",TV PLENITUD
 https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://adoramtv.org/wp-content/uploads/2023/10/logo-adoram-tv-video_Mesa-de-trabajo-1.png"group-title="CRISTIANO",ADORAM TV HD
@@ -1585,7 +1584,7 @@ https://cp.panelchs.com:1936/8118/8118/chunklist_w259629028.m3u8
 https://stmv5.voxtvhd.com.br/vidanuevatv/vidanuevatv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://televisor.top/uploads/posts/2019-06/1560869034_cci-channel.png"group-title="CRISTIANO",CCI CHANNEL
+#EXTINF:-1 tvg-logo="https://imgur.com/c6hm03f"group-title="CRISTIANO",CCI CHANNEL
 https://cdn.playcloud.us:443/cci/srtin3.stream/chunklist_w1277698180.m3u8
 
 
@@ -1598,7 +1597,7 @@ https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/rhema-tv-9071.jpg"group-title="CRISTIANO",RHEMA TV
+#EXTINF:-1 tvg-logo="https://imgur.com/5o821rT"group-title="CRISTIANO",RHEMA TV
 https://5e85d90130e77.streamlock.net:443/6006/6006/chunklist_w1986643984.m3u8
 
 
@@ -1606,7 +1605,7 @@ https://5e85d90130e77.streamlock.net:443/6006/6006/chunklist_w1986643984.m3u8
 https://s.emisoras.tv:8081/penielbibliaabierta/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdAcKmVpabUqaANooUlXcewPIdBipG_Va86U8Ld8iBNw&s"group-title="CRISTIANO", JEHOVÁ NISSI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2BkL4wq.png"group-title="CRISTIANO", JEHOVÁ NISSI
 https://stream.oursnetworktv.com/latin/nissiGtmH/playlist.m3u8
 
 
