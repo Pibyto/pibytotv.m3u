@@ -1405,6 +1405,8 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 tvg-logo="https://rhemapresenciausa.com/images/Logo%202.png"group-title="CRISTIANO",PRESENCIA TV
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/177
 
+#EXTINF:-1 tvg-logo="https://www.pacificfertility.ca/wp-content/uploads/2018/11/ctv-png.png"group-title="CRISTIANO",CORRIENTES TV HD
+https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://vidartvplus.com/images/logo.png"group-title="CRISTIANO",V+
@@ -1601,9 +1603,6 @@ https://cdn.live.br1.jmvstream.com:443/w/LVW-10893/ngrp:LVW10893_gYHYD18Dqy_all/
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_face196728d34db885f397f63bc912f1~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Jes%C3%BAsTv.png"group-title="CRISTIANO", JESÚS TV
 https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nH8aHR7CsWn1Q890ZiFHA41XanzdUyHIdw&usqp=CAU"group-title="CRISTIANO",CORRIENTES TV HD
-https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png"group-title="CRISTIANO",BETHEL TV
