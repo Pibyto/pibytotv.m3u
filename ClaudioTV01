@@ -819,8 +819,10 @@ https://live.obslivestream.com/supercanal/index.m3u8
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3127-960x540-000000.jpg"group-title="TV",LA CALETA TV HD
-https://rdn.essastream.com:3168/live/lacaletatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3127-960x540-000000.jpg"group-title="TV",BOX CINEMA HD
+https://xhateaec.com:8800/hls/visitor/visitor/ec4b0269992f58f310915ea1cf7f6ea8/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbKuu8dKfcD_QuVlj01VLfUc3C1cR3oXUBsw&s"group-title="TV",CN 3 PINAMAR
