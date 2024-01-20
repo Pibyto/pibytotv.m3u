@@ -631,6 +631,10 @@ https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderos
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TV",NEO TV DIGITAL HD. 16.1 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53U5qMyrDooy0DmwoGKWVvzVMZIxmGNbAXe3EFtXSJQ&s"group-title="TV",NITIDA TV
+https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcRzf1XWUq987Etxq_wbP4TkGCEgdl7WNVRQ&usqp=CAU"group-title="TV",WOW MOVIES
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 
@@ -1451,6 +1455,9 @@ https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
 
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=h:99,cg:true,m/qt=q:100/ll"group-title="CRISTIANO",EXTREMA TV HD
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/uncion-tv.png"group-title="CRISTIANO", UNCION TV
+https://livemediacp.com:1936/8064/8064/chunklist_w567692192.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image70119570242.jpg"group-title="CRISTIANO",MOVIE FE
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
