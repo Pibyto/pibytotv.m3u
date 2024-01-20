@@ -603,6 +603,9 @@ https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",GENTV HD  17.3
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TV",BLU HD
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",IPERSONICA HD
 https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
@@ -617,6 +620,11 @@ https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w117769
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/61e424f065bec179c87403c6/2a15aceb-68b4-4f35-b126-baaabba126f1/tvision_logo_rund.png"group-title="TV",TV VISION 
 https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TV",PANC TV HD
+https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TV",NEO TV DIGITAL HD. 16.1 
@@ -1055,6 +1063,7 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist_w1546314826
 
 
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/el-palomar-tv.png"group-title="TDA INTERIOR",EL PALOMAR TV
+https://stream.trixserver.com:3249/live/uv038live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="TDA INTERIOR",TV+
@@ -1167,18 +1176,8 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/chunklist_w1508784090.m3u8
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QLn_jBSxI4E/WDyHzgW7Y6I/AAAAAAAABOc/BWV3OWHz-rEQTz7Issy8_ftOVG7Wf3qjACLcB/s1600/canal13-larioja.png"group-title="TDA INTERIOR",CANAL 13 HD  13.1  LA RIOJA
 http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png"group-title="TDA INTERIOR", CANAL 9 HD  9.1.  MISIONES
@@ -1204,12 +1203,8 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?Playli
 #EXTINF:-1 tvg-logo="https://i.paste.pics/b1e1cd8a5f6df357a2028250a68a379c.png"group-title="TDA INTERIOR", MAXIMA TV
 
 
-
-
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA INTERIOR",PANC TV HD 15.1 TUCUMÁN
 https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
-
-
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-3-pinamar.png"group-title="TDA INTERIOR",CANAL 3 HD  3.0  PINAMAR
 
@@ -1220,33 +1215,19 @@ https://videohd.live:19360/8016/8016.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://tucuman.lavozargentina.com/img/logo.png"group-title="TDA INTERIOR",LA VOZ TV HD  15.2  TUCUMÁN
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Canal5telesol2016logo.png/revision/latest/scale-to-width-down/170?cb=20210525135451&path-prefix=es"group-title="TDA INTERIOR",TLS HD
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9jZTojlxaIg5LhEwS1Pr49d32CtIqC6lUUA&usqp=CAU"group-title="TDA INTERIOR",ZONDA TV
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-6-Entre-Rios-TV-en-vivo-Online.png"group-title="TDA INTERIOR",ERTV 
-
 
 
 
@@ -1254,14 +1235,7 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EOKNNHtXUAATPB_.png"group-title="TDA INTERIOR", SENILLOSA TV
-
-
-
-
-
-
 
 
 
@@ -1269,14 +1243,8 @@ https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png"group-title="TDA INTERIOR",CANAL 8 HD  8.1 MDP
 https://stream.arcast.com.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w2004481730_b1662976.m3u8
-
-
-
-
-
 
 
 
@@ -1844,6 +1812,7 @@ https://vidartv.info:8020/stream
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/101981.v7.png"group-title="RADIO",JTA (JESÚS TE AMA) MENDOZA 
 https://vps230094.vps.ovh.ca/stream
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tYy0RR3RtjA/hqdefault.jpg"group-title="RADIO", MÚSICA CRISTIANA 24/7
 https://play.wrhradios.com/8024/stream
