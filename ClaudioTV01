@@ -1842,6 +1842,9 @@ https://s1.abntelevision.com:443/avivamientoabr/stream/avivamientohd/avivamiento
 #EXTINF:-1 tvg-logo="https://vidartv.info/api/station/3/streamer/2%7C1688659242/art"group-title="RADIO",ALTAR RADIO 7/24
 https://vidartv.info:8020/stream
 
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/101981.v7.png"group-title="RADIO",JTA (JESÚS TE AMA) MENDOZA 
+https://vps230094.vps.ovh.ca/stream
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tYy0RR3RtjA/hqdefault.jpg"group-title="RADIO", MÚSICA CRISTIANA 24/7
 https://play.wrhradios.com/8024/stream
 
