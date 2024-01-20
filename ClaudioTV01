@@ -1481,7 +1481,12 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/172
 https://stream.oursnetworktv.com:443/latin/dD10sT3V3K1dS/chunklist_w1201067700.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.graciatv.com/wp-content/uploads/2024/01/LOGO-FINAL.png"group-title="CRISTIANO", GRACIA TV
+https://v4.tustreaming.cl/graciatv/index.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1390_TV_Emanuel.png"group-title="CRISTIANO",TV EMANUEL 
+https://Stmv5.voxtvhd.com.br/ministerioemanuel/ministerioemanuel/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://rhemapresenciausa.com/images/Logo%202.png"group-title="CRISTIANO",PRESENCIA TV
