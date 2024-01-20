@@ -4,7 +4,7 @@
 
 
 
-
+##############( CRISTIANO )############################( CRISTIANO )#############################
 
 
 
@@ -203,6 +203,44 @@ https://2-fss-2.streamhoster.com/pl_120/amlst:200226-1449024/playlist.m3u8?WebM3
 
 #EXTINF:-1 tvg-logo="https://www.fortalezatv.cl/assets/img/fortalezatv/FTV%20blanco%20largo%202.png"group-title="CRISTIANO",FORTALEZA TV
 https://multimedia.fortalezatv.cl:443/video/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
+
+
+##############################( RADIO )####################################( RADIO )################################
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/2021-12/radiopeniel-c.png"group-title="RADIO", RADIO PENIEL 98.3 FM
+http://69.175.88.11:8045/stream
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSClZtWFcpoGLfmMnRUNSJ0Gd8eu67zKQSPOw&usqp=CAU"group-title="RADIO", FM SHALOM 107.1 MENDOZA
+https://panel.nexolife.ar/stream/Shalom
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1v1Q6MZW12RUQwABVvilMYH2iAOzByjcVfF4Wobqh3863XPgVfRcoTAny_DqZ72haZM"group-title="RADIO", FM CONECTA2
+https://server6.hostradios.com:8146/;
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1DL_SWXd4XQdVpm7NLIUUaspBJphYMFu_g9xOfGUD&s"group-title="RADIO",FM VISION DE FUTURO
+https://panel.nexolife.ar/stream/RadioVDF
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXux2BMsrlfJmWSH6CB6JOAtgy8nc0e2kaQw&usqp=CAU"group-title="RADIO",FM SION 103.1
+https://player.livecastradio.com/proxy/7076/stream/1/
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ea_7GV-QDlTqwU05AgVlu2-TCnqKG889Zw&usqp=CAU"group-title="RADIO", FM VIDA 105.1 MENDOZA
+http://genexservicios.com:8006/;stream/1
 
 
 
