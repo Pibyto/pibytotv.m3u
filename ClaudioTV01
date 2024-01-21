@@ -920,7 +920,7 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8?PlaylistM3UCL
 
 
-Ruben Caceres:
+
 #EXTINF:-1 tvg-logo="https://wtvnicaragua.com/img/LOGO-CANAL.png"group-title="TV",WTV CANAL 20
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/mono.m3u8
 
@@ -1072,7 +1072,14 @@ https://ss3.domint.net:3156/ltv_str/latinatvint/chunklist_w1764414212.m3u8?ads.c
 
 #EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA INTERIOR",COSMOS TV HD  SAN JUAN
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXLZIuya4ZYKWAqur2-4n6ilWUjutte4-ZsgVuDzEqJw&s"group-title="TDA INTERIOR",STREAM MAX
+https://srv6.zcast.com.br:443/streamax/streamax/chunklist_w346437805.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/800px-Elocho_TV_nuevo_logo.png"group-title="TDA INTERIOR",ELOCHO
+https://stream-04.nyc.dailymotion.com/sec(L2ctWl-m1CPTv_KKNWGm5NnZACPLL4-tLbHg0Kl5GTqJo_elNkbXV3GSwl3nDvxH)/m/3/x8hvuj5/s/live-2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png"group-title="TDA INTERIOR",CANAL 9 HD  9.2  RESISTENCIA 
