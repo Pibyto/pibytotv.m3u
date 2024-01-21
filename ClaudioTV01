@@ -674,6 +674,18 @@ https://live.seo.tv.bo/live/SEO-4.m3u8
 #EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-canal-colores-1076x605.png"group-title="TV",METROPOLIS 19.1 HD
 https://5e85d90130e77.streamlock.net:443/6028/6028/chunklist_w1901575909.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3333-960x540-000000.jpg"group-title="TV",LATINO TV
+https://ss5.domint.net:3172/btv_str/bonchestv/chunklist_w1693324551.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2695-960x540-000000.jpg"group-title="TV",VISION DORADA
+https://movil.ejeserver.com/live/visiondorada.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3325-960x540-000000.jpg"group-title="TV",VALLE NUEVO TV
+https://tv.essastream.com:3591/live/vallenuevotvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECSU6BaxEWDGW889Td3dbR5OpqVbTA8l-9-p4SFapnw&s"group-title="TV",TELEMIX HD
 https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
