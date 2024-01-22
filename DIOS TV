@@ -15,17 +15,17 @@
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-caBZ8QE_JcE/YKRNhPhVuSI/AAAAAAAA8zI/5_N7zLJIqRwyts9WeHN6N_owzkbgYT7owCLcBGAsYHQ/s250/canal-luz.png"group-title="CRISTIANO",CANAL LUZ HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-caBZ8QE_JcE/YKRNhPhVuSI/AAAAAAAA8zI/5_N7zLJIqRwyts9WeHN6N_owzkbgYT7owCLcBGAsYHQ/s250/canal-luz.png"group-title="CRISTIANO",CanalLUZ HD
 https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png?fit=1920%2C1080&ssl=1"group-title="CRISTIANO",13 TRECE HD
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Canal-13-Jujuy-en-vivo-Online.png?fit=1920%2C1080&ssl=1"group-title="CRISTIANO",Trece HD
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png?w=276"group-title="CRISTIANO",SOLIDARIA TV HD
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pacificfertility.ca/wp-content/uploads/2018/11/ctv-png.png"group-title="CRISTIANO",CORRIENTES TV HD
+#EXTINF:-1 tvg-logo="https://www.pacificfertility.ca/wp-content/uploads/2018/11/ctv-png.png"group-title="CRISTIANO",CorrientesTV HD
 https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png"group-title="CRISTIANO",ENLACE HD COSTA RICA
