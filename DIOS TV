@@ -356,6 +356,66 @@ https://multimedia.fortalezatv.cl:443/video/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://radiofortalezafm.cl/img/about-1.jpg"group-title="RADIO", FORTALEZA 
+https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://vidartv.info/api/station/3/streamer/2%7C1688659242/art"group-title="RADIO",ALTAR RADIO 7/24
+https://vidartv.info:8020/stream
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/101981.v7.png"group-title="RADIO",JTA (JESÚS TE AMA) MENDOZA 
+https://vps230094.vps.ovh.ca/stream
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDidmvYU1p3pscCsLkAEgq4m-rc5elTiJUaA&usqp=CAU"group-title="RADIO",EL SONIDO DE LA VIDA FM
+http://stream.servionbolivia.red:9580/;
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tYy0RR3RtjA/hqdefault.jpg"group-title="RADIO", MÚSICA CRISTIANA 24/7
+https://play.wrhradios.com/8024/stream
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/a8bjalnq4nyr.png"group-title="RADIO",FM 95.7
+http://www.genexservicios.com:8098/;
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio16869_1536324670.png"group-title="RADIO", AM 1460 JERUSALEN  MONTE GRANDE
+https://servidor2.hostradios.com/proxy/radiojerusalen?mp=/stream&1623615876184
+
+
+
+#EXTINF:-1 tvg-logo="https://reydereyes.com.ar/wp-content/uploads/2020/10/rdr_512.png"group-title="RADIO",FM GOSPEL  88.1
+https://server.ohradio.com.ar/8092/stream
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/DKBmV_Il7KnMbCalyCInYP_PLcd7_Cj2EkM6EfUaSLE02ZyzXKZqdmPXYDiwYe2wSkc"group-title="RADIO", FM VISION 92.1
+https://ssl.radiosnethosting.com/index.php?port=9850
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1X6RxPx3Sl7WR8GzI2_Bc169uRbXT0AsnaQ&usqp=CAU"group-title="RADIO",AMA 92.3 FM
+https://panel.nexolife.ar/stream/laradio923?1623598756622
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FZJCpy3KFKg/Xbd_U7HKzhI/AAAAAAAAJDI/TX8hlbZixYkgNytLKg0nis3uGOmHQj3MgCLcBGAsYHQ/s1600/estacion-luz-103-5.png"group-title="RADIO",FM ESTACIÓN LUZ 103.5 SAN RAFAEL MZA
+https://sonic.dattalive.com:10890/stream
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JqtPgtKdk5MI2xq6N3jYLqk_F26guidJH77HD6ApGdV318MXUBfY9H0DbxrM3A4K3nAw=s150-rw"group-title="RADIO", FM MI ROCA 103.5
+http://server.laradio.online:8068/live?1639913424164
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCdjk6iGSpo4etDU90YoBrF0sqFVjRTjla8Q&usqp=CAU"group-title="RADIO", FM VISÍON 2000  90.9
+https://genexservicios.com:2000/stream/mision2000web?1640115825712
+
+
+#EXTINF:-1 tvg-logo="https://cvclavoz.com/wp-content/uploads/2019/11/LogoLion4-1.png"group-title="RADIO", CVCLAVOZ
+https://ic.streann.com/cvaudio128
+
+
+
+#EXTINF:-1 tvg-logo="https://supresencia.com/sites/default/themes/sp_iglesia_2015/images/logo-spradio.png"group-title="RADIO", FM SU PRESENCIA
+https://supresenciaradio.out.airtime.pro/supresenciaradio_a
+
+
+
+
 #EXTINF:-1 tvg-logo="https://radioscristianasdelmundo.com/sites/default/files/2021-12/radiopeniel-c.png"group-title="RADIO", RADIO PENIEL 98.3 FM
 http://69.175.88.11:8045/stream
 
