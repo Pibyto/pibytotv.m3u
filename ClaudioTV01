@@ -1749,6 +1749,8 @@ https://vidartv.info:8020/stream
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/101981.v7.png"group-title="RADIO",JTA (JESÚS TE AMA) MENDOZA 
 https://vps230094.vps.ovh.ca/stream
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDidmvYU1p3pscCsLkAEgq4m-rc5elTiJUaA&usqp=CAU"group-title="RADIO",EL SONIDO DE LA VIDA FM
+http://stream.servionbolivia.red:9580/;
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tYy0RR3RtjA/hqdefault.jpg"group-title="RADIO", MÚSICA CRISTIANA 24/7
 https://play.wrhradios.com/8024/stream
