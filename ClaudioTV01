@@ -1126,7 +1126,12 @@ https://g1.vxral-hor.transport.edge-access.net:443/a05/ngrp:c12_live01-100129_al
 #EXTINF:-1 tvg-logo="https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png"group-title="TDA INTERIOR",10 SALTA
 https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJgZAH6L-_--j1zfdfP1fR64-yBWILmVoXzoiSaLmmw&s"group-title="TDA INTERIOR",NEOX TV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Bragado-TV-en-vivo-Online.png?resize=696%2C392&ssl=1"group-title="TDA INTERIOR",BRAGADO TV
+https://inliveserver.com:1936/12000/12000/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png"group-title="TDA INTERIOR",NORTEVISION
