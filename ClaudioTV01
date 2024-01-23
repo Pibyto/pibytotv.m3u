@@ -627,6 +627,16 @@ https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderos
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",NEO TV DIGITAL HD. 16.1 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV", CINCO TV HD  TIGRE
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",CN 3 PINAMAR
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",TELECREATIVA HD
+https://panel.dattalive.com:443/8012/8012/chunklist_w1476221297.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",PANC TV HD
 https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
 
@@ -634,19 +644,12 @@ https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
 https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
 
 
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcRzf1XWUq987Etxq_wbP4TkGCEgdl7WNVRQ&usqp=CAU"group-title="TV",WOW MOVIES
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="TV",IU TV HD
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
-
-
 
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image84741368099.jpg"group-title="TV",ORBIT TV HD
@@ -659,16 +662,12 @@ https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w117769
 https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png"group-title="TV",PLANETA FAMILY
 https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53U5qMyrDooy0DmwoGKWVvzVMZIxmGNbAXe3EFtXSJQ&s"group-title="TV",NITIDA TV
 https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-19.2-v2-1076x605.png"group-title="TV",METROPOLIS 19.2 HD
 https://5e85d90130e77.streamlock.net:443/6014/6014/chunklist_w1091679071.m3u8
@@ -690,8 +689,6 @@ https://5e85d90130e77.streamlock.net:443/6028/6028/chunklist_w1901575909.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3333-960x540-000000.jpg"group-title="TV",LATINO TV
 https://ss5.domint.net:3172/btv_str/bonchestv/chunklist_w1693324551.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
-
-
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2695-960x540-000000.jpg"group-title="TV",VISION DORADA
 https://movil.ejeserver.com/live/visiondorada.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
@@ -699,13 +696,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?ads.content_page_url=https%25
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3325-960x540-000000.jpg"group-title="TV",VALLE NUEVO TV
 https://tv.essastream.com:3591/live/vallenuevotvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1600px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="TV",MITV
 https://rds3gen.desdeparaguay.net:443/mitv/mitv/chunklist_w1894002237.m3u8?admin=mitvitapua
-
-
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_948f2439d9bb40129b35483e0bc39ead~mv2.png/v1/fill/w_476,h_476,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/nimtv.png"group-title="TV",NIM TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
@@ -717,8 +709,6 @@ https://s1.tvdatta.com:3156/live/jimeneztvlive.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pTdJRVDDV8jmJV-Nu-Ci9MCJOjsJOyE4QTNwOf_hLyqdRCi0qmUkDNElQ0hUD9qPGD1z"group-title="TV",NICOYA TV
 https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w308549941.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRh2OxpyyBSPjrvk9k9J5n0Un4ftcGp7MAU6QV1zPa_Q&s"group-title="TV",MEGANET TV
 https://rpn3.bozztv.com/ssh101/ssh101/meganettv/playlist.m3u8
 
@@ -727,15 +717,12 @@ https://rpn3.bozztv.com/ssh101/ssh101/meganettv/playlist.m3u8
 https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTX6Ign8OtS0dp5XTcCjlCQbwCMyd0IlhMEQ&usqp=CAU"group-title="TV",PLANETA HD
 https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/4cY2e08J_TPCJpO0nWKhVse1rrKJLgOAfevH_1qF4nh0TQglWWytUc1UErK5mbuAz9as=w600-h300-pc0xffffff-pd"group-title="TV",BNB DIGITAL
 https://vdo.panelstreaming.live:3806/live/bnbdigitallive.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png"group-title="TV",CB TV
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
@@ -843,13 +830,6 @@ https://video.live.com.bo:3731/live/tvuumsalive.m3u8
 https://live.seo.tv.bo/live/SEO-2.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="TV", CINCO TV HD  TIGRE
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
-
-
-
-
 #EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png"group-title="TV",SUPER CANAL HD
 https://live.obslivestream.com/supercanal/index.m3u8
 
@@ -859,12 +839,6 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp"group-title="TV",RETROPLUS
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbKuu8dKfcD_QuVlj01VLfUc3C1cR3oXUBsw&s"group-title="TV",CN 3 PINAMAR
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://telecreativa.com/logos/telecreativa_black_256.gif"group-title="TV",TELECREATIVA HD
-https://panel.dattalive.com:443/8012/8012/chunklist_w1476221297.m3u8
 
 
 
