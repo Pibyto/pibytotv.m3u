@@ -600,10 +600,16 @@ https://k4.usastreams.com/limontv1/limontv1/chunklist_w2072558484.m3u8
 #EXTINF:-1 tvg-logo="https://www.origentv.cl/wp-content/uploads/2023/12/LOGO-BLANCO-TV-chico.png"group-title="TV",ORIGEN TV HD
 https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",COSMOS TV HD
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",GENTV HD  17.3
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TV",BLU HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",BLU HD
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 
@@ -615,6 +621,37 @@ https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/i
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",LA PODEROSA TV AVELLANEDA 
+https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",NEO TV DIGITAL HD. 16.1 
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",PANC TV HD
+https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",TELEMIX HD
+https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcRzf1XWUq987Etxq_wbP4TkGCEgdl7WNVRQ&usqp=CAU"group-title="TV",WOW MOVIES
+https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="TV",IU TV HD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image84741368099.jpg"group-title="TV",ORBIT TV HD
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a889a5_d93a414ce0504f8ebbc4d2c04882a23d~mv2.png/v1/fill/w_440,h_440,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telebrunca2-04.png"group-title="TV",TELE BRUNCA
 https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1177696492.m3u8
 
@@ -622,38 +659,14 @@ https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w117769
 https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TV",PANC TV HD
-https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png"group-title="TV",LA PODEROSA TV
-https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
-
-#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"group-title="TV",NEO TV DIGITAL HD. 16.1 
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53U5qMyrDooy0DmwoGKWVvzVMZIxmGNbAXe3EFtXSJQ&s"group-title="TV",NITIDA TV
-https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcRzf1XWUq987Etxq_wbP4TkGCEgdl7WNVRQ&usqp=CAU"group-title="TV",WOW MOVIES
-https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="TV",IU TV HD
-https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
-
-
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TV",COSMOS TV HD
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image84741368099.jpg"group-title="TV",ORBIT TV HD
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png"group-title="TV",PLANETA FAMILY
 https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53U5qMyrDooy0DmwoGKWVvzVMZIxmGNbAXe3EFtXSJQ&s"group-title="TV",NITIDA TV
+https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
 
 
 
@@ -686,9 +699,6 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?ads.content_page_url=https%25
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3325-960x540-000000.jpg"group-title="TV",VALLE NUEVO TV
 https://tv.essastream.com:3591/live/vallenuevotvlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECSU6BaxEWDGW889Td3dbR5OpqVbTA8l-9-p4SFapnw&s"group-title="TV",TELEMIX HD
-https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
 
 
 
