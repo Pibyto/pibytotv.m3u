@@ -585,25 +585,25 @@ https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?Playlis
 
 
 
-#EXTINF:-1 tvg-logo="https://mascine.co/wp-content/uploads/2022/02/logo-Mas-Cine@2x-min.png"group-title="TV",+CINE HD
-https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?PlaylistM3UCL
-
 
 #EXTINF:-1 tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png"group-title="TV",PLANETA MOVIES
 https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-36-Lim%C3%B3n-en-vivo-Online.png?resize=696%2C392&ssl=1"group-title="TV",LIMON TV
-https://k4.usastreams.com/limontv1/limontv1/chunklist_w2072558484.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.origentv.cl/wp-content/uploads/2023/12/LOGO-BLANCO-TV-chico.png"group-title="TV",ORIGEN TV HD
 https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u8
 
+#EXTINF:-1 tvg-logo="https://mascine.co/wp-content/uploads/2022/02/logo-Mas-Cine@2x-min.png"group-title="TV",+CINE HD
+https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?PlaylistM3UCL
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",NEOX TV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",STREAM MAX JUJUY
 https://srv6.zcast.com.br:443/streamax/streamax/chunklist_w346437805.m3u8
@@ -647,9 +647,22 @@ https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",TELEMIX HD
 https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-19.2-v2-1076x605.png"group-title="TV",METROPOLIS 19.2 HD
+https://5e85d90130e77.streamlock.net:443/6014/6014/chunklist_w1091679071.m3u8
+
+#EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-canal-colores-1076x605.png"group-title="TV",METROPOLIS 19.1 HD
+https://5e85d90130e77.streamlock.net:443/6028/6028/chunklist_w1901575909.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-960x540-000000.jpg"group-title="TV",TELEMAX HD
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcRzf1XWUq987Etxq_wbP4TkGCEgdl7WNVRQ&usqp=CAU"group-title="TV",WOW MOVIES
 https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-36-Lim%C3%B3n-en-vivo-Online.png?resize=696%2C392&ssl=1"group-title="TV",LIMON TV
+https://k4.usastreams.com/limontv1/limontv1/chunklist_w2072558484.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="TV",IU TV HD
@@ -659,8 +672,6 @@ https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image84741368099.jpg"group-title="TV",ORBIT TV HD
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a889a5_d93a414ce0504f8ebbc4d2c04882a23d~mv2.png/v1/fill/w_440,h_440,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telebrunca2-04.png"group-title="TV",TELE BRUNCA
-https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1177696492.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/61e424f065bec179c87403c6/2a15aceb-68b4-4f35-b126-baaabba126f1/tvision_logo_rund.png"group-title="TV",TV VISION 
 https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
@@ -673,8 +684,6 @@ https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53U5qMyrDooy0DmwoGKWVvzVMZIxmGNbAXe3EFtXSJQ&s"group-title="TV",NITIDA TV
 https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-19.2-v2-1076x605.png"group-title="TV",METROPOLIS 19.2 HD
-https://5e85d90130e77.streamlock.net:443/6014/6014/chunklist_w1091679071.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_991b5803bc3746b3a9a22259cd03f258~mv2.png/v1/fill/w_480,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GTV.png"group-title="TV",Gtv
 https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
@@ -687,14 +696,15 @@ https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/chunklist_w23112
 https://live.seo.tv.bo/live/SEO-4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-canal-colores-1076x605.png"group-title="TV",METROPOLIS 19.1 HD
-https://5e85d90130e77.streamlock.net:443/6028/6028/chunklist_w1901575909.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3333-960x540-000000.jpg"group-title="TV",LATINO TV
 https://ss5.domint.net:3172/btv_str/bonchestv/chunklist_w1693324551.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2695-960x540-000000.jpg"group-title="TV",VISION DORADA
 https://movil.ejeserver.com/live/visiondorada.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a889a5_d93a414ce0504f8ebbc4d2c04882a23d~mv2.png/v1/fill/w_440,h_440,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telebrunca2-04.png"group-title="TV",TELE BRUNCA
+https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1177696492.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3325-960x540-000000.jpg"group-title="TV",VALLE NUEVO TV
@@ -864,13 +874,6 @@ https://rpn3.bozztv.com:443/ssh101/ssh101/simavision18/chunks.m3u8
 https://rpn3.bozztv.com:443/ssh101/ssh101/pandonettv4201/chunks.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-960x540-000000.jpg"group-title="TV",TELEMAX HD
-https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
-
-
-
-Ruben Caceres:
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcJ0J71HU-1JXxbXdpPrh0fbCz7uoYFs9I3uAkYA4ajA&s"group-title="TV",GARABITO TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
