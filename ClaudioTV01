@@ -695,7 +695,12 @@ https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/chunklist_w23112
 #EXTINF:-1 tvg-logo="https://i.imgur.com/816xTc2.png"group-title="TV",SEO TV PELICULAS HD 
 https://live.seo.tv.bo/live/SEO-4.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2qjFTjg_kg6IJKX0yTRGddMcEFhWHjrgV6ZtZGd2VQ&s"group-title="TV",TELE VILLA
+https://cp.panelchs.com:1936/8060/8060/chunklist_w1220558839.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnMNtiImqW9SX3D2mc8ezgZqmSNSbBCkGh9bVL5-Fa5Q&s"group-title="TV",TELE CIMITARRA
+https://cp.panelchs.com:1936/8094/8094/chunklist_w1880446913.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3333-960x540-000000.jpg"group-title="TV",LATINO TV
 https://ss5.domint.net:3172/btv_str/bonchestv/chunklist_w1693324551.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
@@ -1419,6 +1424,11 @@ https://5e85d90130e77.streamlock.net:443/6020/6020/chunklist_w1538041154.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tenor.com/B4gWc0D8Lo8AAAAi/tv.gif"group-title="CRISTIANO",PRESENCIA TV HD
 https://tv.clientetvstudio.net:3158/hybrid/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_f4b7cdcc0ece45da99aa840acc865730~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/presenciatv.png"group-title="CRISTIANO",PRESENCIA TV
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/177
+
 
 #EXTINF:-1 tvg-logo="https://www.pacificfertility.ca/wp-content/uploads/2018/11/ctv-png.png"group-title="CRISTIANO",CORRIENTES TV HD
 https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
