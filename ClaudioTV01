@@ -1497,7 +1497,40 @@ https://stmv5.voxtvhd.com.br:443/primiciavida/primiciavida/chunklist_w1226243709
 https://cp.panelchs.com:1936/8096/8096/chunklist_w580095957.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images.subsplash.com/image.jpg?id=f8670ea1-d50d-4b70-b0bf-9a58dace7184&w=1280&h=720"group-title="CRISTIANO", JOSUÉ TV
+https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.tvleondejuda.com/data/files/04logo.png"group-title="CRISTIANO",TV LEON DE JUDA
+https://6110f70ea8d0e.streamlock.net:443/1838/1838/chunklist_w2044460643.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/g5S6oGGCsAAjqLLWnZuPvfT4Aw-fnqDyfd8gN07RFeG5lSxRcpoa_KD_Nz4P-YSK-wkW"group-title="CRISTIANO",R VIDA TV
+https://live.appclicksgt.com:3522/hybrid/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://minfav.tv/wp-content/uploads/2019/12/FAV-TV-LOGO-BLANCO.png"group-Vtitle="CRISTIANO",MINFAV TV
+https://video.misistemareseller.com:443/minfavtv/minfavtv/chunklist_w766271645.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.frecuenciaf.com/img/LogoAdmin.png"group-title="CRISTIANO",FRECUENCIA F TV
+https://tv.frecuenciaf.com:443/live/envivo_1080p4000kbs/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvivyBlLS34yPkeGc2CmroC74aB2xvHQCH7Q&usqp=CAU"group-title="CRISTIANO",I. LUZ Y VERDAD 
+https://stream.oursnetworktv.com/latin/IglesialuzyVerdad/chunklist_w1996758262.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGlb-HsUbWwZ2gwYuoBKvrCeMb7omrjy5R_A&usqp=CAU"group-title="CRISTIANO",JUBILO TV
+https://stream.oursnetworktv.com:443/latin/jubilotv/chunklist_w110204067.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NOmsvvqxh5b09aCIEGn2htWS2jvtbeD6B1UIpBXFEyitA-dUOCTgcQaolaqq84qlcw=w240-h480-rw"group-title="CRISTIANO",AZA TV
+https://mediacp.us:8081/azatvhd/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUQ8Gp1pfXolhoXZqiE244s1npaA26HCtVA&usqp=CAU"group-title="CRISTIANO",COSECHA Y VICTORIA TV
+https://cdn.mycloudstream.io:443/hls/live/broadcast/sozistf0/mono.m3u8
 
 
 
