@@ -698,29 +698,29 @@ https://live.seo.tv.bo/live/SEO-4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2qjFTjg_kg6IJKX0yTRGddMcEFhWHjrgV6ZtZGd2VQ&s"group-title="TV",TELE VILLA
 https://cp.panelchs.com:1936/8060/8060/chunklist_w1220558839.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-logo-F7231DA292-seeklogo.com.png"group-title="TV ",TELAVISION
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-logo-F7231DA292-seeklogo.com.png"group-title="TV",TELAVISION
 https://stream.oursnetworktv.com:443/latin/telaVision/chunklist_w1895977975.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3033-800x450-FFFFFF.jpg"group-title="TV ",RETOROXTV
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3033-800x450-FFFFFF.jpg"group-title="TV",RETOROXTV
 https://rpn3.bozztv.com:443/ssh101/ssh101/retroxtvhd/chunks.m3u8?nimblesessionid=77799909
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_2_logo.svg/1024px-Canal_2_logo.svg.png"group-title="TV ",CANAL2 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_2_logo.svg/1024px-Canal_2_logo.svg.png"group-title="TV",CANAL2 
 https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/P3aa2VFB_VIiqc01voYXCTcHxo4zkeNe2QxGrU6n2h844bbK6dZ8chURJz_nvV8OhQ"group-title="TV ",CINERAMA TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/P3aa2VFB_VIiqc01voYXCTcHxo4zkeNe2QxGrU6n2h844bbK6dZ8chURJz_nvV8OhQ"group-title="TV",CINERAMA TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg"group-title="TV", CIUDAD MÁGICA TV
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg"group-title="TV",CIUDAD MÁGICA TV
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/compes/2bn8tar/simbolo-de-flujo-en-directo-icono-2bn8tar.jpg"group-title="TV ",RN TELEVISIÓN
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/compes/2bn8tar/simbolo-de-flujo-en-directo-icono-2bn8tar.jpg"group-title="TV",RN TELEVISIÓN
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.radioprimaveratv.com.pe/images/empresa/logo-white.png"group-title="TV", PRIMAVERA15 
+#EXTINF:-1 tvg-logo="https://www.radioprimaveratv.com.pe/images/empresa/logo-white.png"group-title="TV",PRIMAVERA15 
 https://stmv.streamingvip.click:443/primaveratv/primaveratv/chunklist_w1516452028.m3u8
 
 
@@ -1572,7 +1572,7 @@ https://6110f70ea8d0e.streamlock.net:443/1838/1838/chunklist_w2044460643.m3u8
 https://live.appclicksgt.com:3522/hybrid/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://minfav.tv/wp-content/uploads/2019/12/FAV-TV-LOGO-BLANCO.png"group-Vtitle="CRISTIANO",MINFAV TV
+#EXTINF:-1 tvg-logo="https://minfav.tv/wp-content/uploads/2019/12/FAV-TV-LOGO-BLANCO.png"group-title="CRISTIANO",MINFAV TV
 https://video.misistemareseller.com:443/minfavtv/minfavtv/chunklist_w766271645.m3u8
 
 
