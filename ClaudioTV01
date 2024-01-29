@@ -702,7 +702,8 @@ https://cp.panelchs.com:1936/8060/8060/chunklist_w1220558839.m3u8
 https://stream.oursnetworktv.com:443/latin/telaVision/chunklist_w1895977975.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3033-800x450-FFFFFF.jpg"group-title="TV",RETOROXTV
-https://rpn3.bozztv.com:443/ssh101/ssh101/retroxtvhd/chunks.m3u8?nimblesessionid=77799909
+https://rpn3.bozztv.com:443/ssh101/ssh101/123456789/chunks.m3u8?nimblesessionid=78210883
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_2_logo.svg/1024px-Canal_2_logo.svg.png"group-title="TV",CANAL2 
 https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
