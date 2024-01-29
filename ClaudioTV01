@@ -698,6 +698,69 @@ https://live.seo.tv.bo/live/SEO-4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2qjFTjg_kg6IJKX0yTRGddMcEFhWHjrgV6ZtZGd2VQ&s"group-title="TV",TELE VILLA
 https://cp.panelchs.com:1936/8060/8060/chunklist_w1220558839.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-logo-F7231DA292-seeklogo.com.png"group-title="TV ",TELAVISION
+https://stream.oursnetworktv.com:443/latin/telaVision/chunklist_w1895977975.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3033-800x450-FFFFFF.jpg"group-title="TV ",RETOROXTV
+https://rpn3.bozztv.com:443/ssh101/ssh101/retroxtvhd/chunks.m3u8?nimblesessionid=77799909
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_2_logo.svg/1024px-Canal_2_logo.svg.png"group-title="TV ",CANAL2 
+https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/P3aa2VFB_VIiqc01voYXCTcHxo4zkeNe2QxGrU6n2h844bbK6dZ8chURJz_nvV8OhQ"group-title="TV ",CINERAMA TV
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg"group-title="TV", CIUDAD MÁGICA TV
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/compes/2bn8tar/simbolo-de-flujo-en-directo-icono-2bn8tar.jpg"group-title="TV ",RN TELEVISIÓN
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.radioprimaveratv.com.pe/images/empresa/logo-white.png"group-title="TV", PRIMAVERA15 
+https://stmv.streamingvip.click:443/primaveratv/primaveratv/chunklist_w1516452028.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://radionovastar.com/wp-content/uploads/2022/02/cropped-image-1.png"group-title="TV",NOVA TV STAR
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8giBhLrmbkRU_Lm-uGCBBP5jDStcergeBGQ&usqp=CAU"group-title="TV",MEGATV
+https://hls.servidor.stream/storage/megatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyxAZcquKCznpDkJVD9cg9TmydSOLMg4mNiw&usqp=CAU"group-title="TV",LIMALIVE
+https://vdo.grupolimalive.com:3245/stream/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvsN03sivoVA3cT2YpRwevojq-1ucBHs4KLA&usqp=CAU"group-title="TV",CUTERVO TV
+https://mc.servidor.stream:19360/8256/8256.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/640px-Logo_tvmax.png"group-title="TV",TVMAX
+https://bcovlive-a.akamaihd.net:443/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/TVN_Panam%C3%A1_%282006-2013%29.png/revision/latest/scale-to-width-down/220?cb=20200108123758&path-prefix=es"group-title="TV",TVN
+https://bcovlive-a.akamaihd.net:443/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrHD5qNfaaHVZMxVCL14IFxCW974-d2BVWw&usqp=CAU"group-title="TV",MAXI VISIÓN 
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/chunklist_w1901751671.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/12/Televection-logo-design-on-transparent-background-PNG.png"group-title="TV",BD TELEVISIÓN
+https://stream.oursnetworktv.com/latin/telegtmb/chunklist_w1314602643.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="TV",WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w467631925_b700000_slen.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://streaming.rtvcanal57.com/img/logocanal57.png"group-title="TV",RTV CANAL 57
+https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnMNtiImqW9SX3D2mc8ezgZqmSNSbBCkGh9bVL5-Fa5Q&s"group-title="TV",TELE CIMITARRA
 https://cp.panelchs.com:1936/8094/8094/chunklist_w1880446913.m3u8
