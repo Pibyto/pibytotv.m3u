@@ -215,9 +215,22 @@ https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Clover_Channel_2021.svg/revision/latest/scale-to-width-down/200?cb=20220608131431&path-prefix=es"group-title="CABLE",CLOVER HD
 http://187.102.208.108:50001/play/a009/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Canal_5_2016.svg"group-title="CABLE",CANAL 5 MX
+https://channel05.akamaized.net:443/hls/live/2033783/event01/index_6.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png" group-title="CABLE", RAKUTEN TOP FREE
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.4a3402a383ffd14d943e86f543148147.png"group-title="CABLE",GOLDEN PLUS MX
+https://linear-410.frequency.stream:443/dist/vix/410/hls/master/playlist_1024x576.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.goldenpremier2020.png.14d24bfd202dc337a3e6fdf1e78363a0.png"group-title="CABLE",GOLDEN PREMIER MX
+https://linear-411.frequency.stream:443/dist/vix/411/hls/master/playlist_1024x576.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest?cb=20200308213727&path-prefix=es"group-title="CABLE",TELEMUNDO PR
+https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png"group-title="CABLE", RAKUTEN TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
@@ -1440,6 +1453,10 @@ https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-960x540-000000.jpg"group-title="CRISTIANO",RESTAURANDO VIDAS TV HD
 https://v4.tustreaming.cl:443/restaurandovida/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://www.maranatharadioministries.com/wp-content/uploads/2019/09/Maranatha-Radio-Final-500px.png"group-title="CRISTIANO",MARANATHA
+https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.tevevida.com/images/logo_01.png"group-title="CRISTIANO",TEVE VIDA HD
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
