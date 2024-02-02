@@ -1461,8 +1461,6 @@ https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-960x540-000000.jpg"group-title="CRISTIANO",RESTAURANDO VIDAS TV HD
 https://v4.tustreaming.cl:443/restaurandovida/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.maranatharadioministries.com/wp-content/uploads/2019/09/Maranatha-Radio-Final-500px.png"group-title="CRISTIANO",MARANATHA
-https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.tevevida.com/images/logo_01.png"group-title="CRISTIANO",TEVE VIDA HD
@@ -1870,6 +1868,10 @@ https://cp.cast-live.net:1936/exodotv/exodotv/chunklist_w109029077.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaminglocucionar.com/portal/images/logos/fmelpuente.png"group-title="RADIO",FM EL PUENTE 102.1
 https://streaming3.locucionar.com/proxy/fmelpuente?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://www.maranatharadioministries.com/wp-content/uploads/2019/09/Maranatha-Radio-Final-500px.png"group-title="RADIO",MARANATHA
+https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://radiofortalezafm.cl/img/about-1.jpg"group-title="RADIO", FORTALEZA 
 https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8?PlaylistM3UCL
