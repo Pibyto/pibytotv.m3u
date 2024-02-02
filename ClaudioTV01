@@ -1153,6 +1153,8 @@ http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA INTERIOR",BLU HD SAN JUAN
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
+#EXTINF:-1 tvg-logo="https://multivisioncable.com.ar/imagenes/logo.jpg"group-title="TDA INTERIOR",MULTIVISIÓN CABLE
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 
 #EXTINF:-1 tvg-logo="https://sicarditv.com.ar/static/custom/logo.png?t=2023-01-03+18%3A02%3A18.705308"group-title="TDA INTERIOR",SICARDITV HD  18.2
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
