@@ -737,7 +737,8 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8?PlaylistM3UCL
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.radioprimaveratv.com.pe/images/empresa/logo-white.png"group-title="TV",PRIMAVERA15 
+#EXTINF:-1 tvg-logo="https://www.radioprimaveratv.com.pe/images/empresa/logo-white.png"group-title="TV",PRIMAVERA15
+https://servilive.com:3753/live/qosqotimeslive.m3u8
 https://stmv.streamingvip.click:443/primaveratv/primaveratv/chunklist_w1516452028.m3u8
 
 
