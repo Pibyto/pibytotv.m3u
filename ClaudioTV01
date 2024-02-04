@@ -803,7 +803,9 @@ https://rpn3.bozztv.com:443/ssh101/ssh101/comunicaciones/chunks.m3u8?nimblesessi
 https://s1.tvdatta.com:3156/live/jimeneztvlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pTdJRVDDV8jmJV-Nu-Ci9MCJOjsJOyE4QTNwOf_hLyqdRCi0qmUkDNElQ0hUD9qPGD1z"group-title="TV",NICOYA TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pTdJRVDDV8jmJV-Nu-Ci9MCJOjsJOyE4QTNwOf_hLyqdRCi0qmUkDNElQ0hUD9qPGD1z"group-title="TV",TVCENTRO 27.2
+https://cloud2.streaminglivehd.com:1936/8004/8004/chunklist_w1317131478.m3u8
+
 https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w308549941.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRh2OxpyyBSPjrvk9k9J5n0Un4ftcGp7MAU6QV1zPa_Q&s"group-title="TV",MEGANET TV
