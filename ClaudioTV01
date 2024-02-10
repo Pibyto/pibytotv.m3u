@@ -25,6 +25,15 @@ http://amepz.xyz:2052/chilepremium/P4Xcq33ZNr/93024
 http://ultrapremium.cloud:8080/934478603tv/zg9p8d/53226
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"group-title="TDA BS.AS",ESPN PREMIUM
+http://ultrapremium.cloud:8080/934478603tv/zg9p8d/16161
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="TDA BS.AS",TNT SPORTS
+http://sdmx.vip:8080/Max2023/Max2023/2140800
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ"group-title="TDA BS.AS",TyC SPORTS
+http://sdmx.vip:8080/Max2023/Max2023/199511
 
 
 
