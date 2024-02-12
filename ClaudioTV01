@@ -165,6 +165,9 @@ https://stream.ads.ottera.tv/cl/230310cg57cae51ocbfailto80/1280x720_2043826_0_f.
 http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/1444
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CABLE", CIUDAD MAGAZINE 
+https://live-01-07-ciudad.vodgc.net:443/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_P49Htdoki3GKW5VbBjyuMyhHSxKcFmEkhw&usqp=CAU"group-title="CABLE",SONY CHANNEL
 http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/1261
 
