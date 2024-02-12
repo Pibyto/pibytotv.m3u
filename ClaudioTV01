@@ -680,7 +680,11 @@ https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png"group-title="TV",PLANETA FAMILY
 https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DfLb6q9H12k/Xx6LmlMVe1I/AAAAAAAAKjw/uwMZG5F2BO0VJp76hUEOUvJw0qhMeeT2gCLcBGAsYHQ/s1600/cristal-tv.png"group-title="TV",CRISTAL HD
+https://master.tucableip.com/cristaltv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/M9y_42q39X2hMhoiD-QRcc0Udwib8wGXHj_MgU8BscYdUysSBa-doQIPD8DwKSJGMmM"group-title="TV", DELTA TV
+https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_991b5803bc3746b3a9a22259cd03f258~mv2.png/v1/fill/w_480,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GTV.png"group-title="TV",Gtv
