@@ -598,6 +598,13 @@ https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u
 https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3311-960x540-000000.jpg"group-title="TV",NEXTV 1 HD
+https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3311-960x540-000000.jpg"group-title="TV",NEXTV 2 HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
@@ -843,10 +850,6 @@ https://stmv5.voxtvhd.com.br/ryetv/ryetv/playlist.m3u8?ads.content_page_url=http
 #EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png"group-title="TV",SDE
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/chunklist_w913057200.m3u8?PlaylistM3UCL
 
-
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3311-960x540-000000.jpg"group-title="TV",NEXTV HD
-https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 
 
