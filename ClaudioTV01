@@ -1440,7 +1440,8 @@ https://inliveserver.com:1936/10020/10020/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp"group-title="CRISTIANO", GOSPEL MOVIE TELEVISIÓN 
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_02/large.589689416f983_TaberTV.png.659679f0fcafc8a181d41dcad1ebaaaf.png"group-title="CRISTIANO",TABER TV
+https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2867-294x165-FFFFFF.jpg"group-title="CRISTIANO",CRISTOVISION
 https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
