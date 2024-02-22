@@ -589,6 +589,8 @@ https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?Playlis
 
 
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp0gZSSolub2oESyX_J4aLLTyFgkY6q_f36Zxq9rTuXp3pDS5CXfFV9JTY3VzqkbswlkUt40XxDHRKr8y15Ah8mfjoTu5mELZ7tRNFcT-H9_n4DRynYAyFZTGxNVh7Kv9egbLlIzhyMBY7MB9GpzMPBoq-d0qPGDM9uEOAbXe1hBi-SsmPNCML48tiDw/s600/cinemundo-plus-v2.png"group-title="TV",CINEMUNDO+
+https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_plus.flv
 
 
 #EXTINF:-1 tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png"group-title="TV",PLANETA MOVIES
@@ -604,6 +606,13 @@ https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u
 #EXTINF:-1 tvg-logo="https://mascine.co/wp-content/uploads/2022/02/logo-Mas-Cine@2x-min.png"group-title="TV",+CINE HD
 https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp0gZSSolub2oESyX_J4aLLTyFgkY6q_f36Zxq9rTuXp3pDS5CXfFV9JTY3VzqkbswlkUt40XxDHRKr8y15Ah8mfjoTu5mELZ7tRNFcT-H9_n4DRynYAyFZTGxNVh7Kv9egbLlIzhyMBY7MB9GpzMPBoq-d0qPGDM9uEOAbXe1hBi-SsmPNCML48tiDw/s600/cinemundo-plus-v2.png"group-title="TV",CINE MUNDO+ 2
+https://stream-cdn-iad.vaughnsoft.net/play/live_beto_7hd.flv
+
+
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5abda11a-42e6-4005-b901-510352e5bcba-channel_offline_image-1920x1080.jpeg"group-title="TV", TERROR MANIA
+https://stream-cdn-iad.vaughnsoft.net/play/live_terror_mania.flv
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3311-960x540-000000.jpg"group-title="TV",NEXTV 1 HD
 https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
