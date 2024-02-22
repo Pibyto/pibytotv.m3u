@@ -702,21 +702,10 @@ https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDOqQO2ibZaJ7avq9yEaIC2wFogJW8Q70KeQ&usqp=CAU"group-title="TV",TLS
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9y3lQdNNpJwrcBSk5mi3h-d20r8CGLJVk1g&usqp=CAU"group-title="TV",TELESUR
 
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png"group-title="TV",PLANETA FAMILY
 https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DfLb6q9H12k/Xx6LmlMVe1I/AAAAAAAAKjw/uwMZG5F2BO0VJp76hUEOUvJw0qhMeeT2gCLcBGAsYHQ/s1600/cristal-tv.png"group-title="TV",CRISTAL HD
-https://master.tucableip.com/cristaltv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/M9y_42q39X2hMhoiD-QRcc0Udwib8wGXHj_MgU8BscYdUysSBa-doQIPD8DwKSJGMmM"group-title="TV", DELTA TV
-https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_991b5803bc3746b3a9a22259cd03f258~mv2.png/v1/fill/w_480,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GTV.png"group-title="TV",Gtv
-https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3tmBSbJxRC4/X60f9a3rIGI/AAAAAAAAAQc/fF8IH8yVOA4RzCac-jUKBR7-BFVdjiTOwCK4BGAYYCw/s400/Sin%2Bt%25C3%25ADtulo-logo%2Bnuevo%2Btl%2B2%2Bestrella.png"group-title="TV",TL ESTRELLA
@@ -733,33 +722,10 @@ https://cp.panelchs.com:1936/8060/8060/chunklist_w1220558839.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_2_logo.svg/1024px-Canal_2_logo.svg.png"group-title="TV",CANAL2 
-https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/P3aa2VFB_VIiqc01voYXCTcHxo4zkeNe2QxGrU6n2h844bbK6dZ8chURJz_nvV8OhQ"group-title="TV",CINERAMA TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.radioprimaveratv.com.pe/images/empresa/logo-white.png"group-title="TV",QT TV
-https://servilive.com:3753/live/qosqotimeslive.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://radionovastar.com/wp-content/uploads/2022/02/cropped-image-1.png"group-title="TV",NOVA TV STAR
-https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8giBhLrmbkRU_Lm-uGCBBP5jDStcergeBGQ&usqp=CAU"group-title="TV",MEGATV
-https://hls.servidor.stream/storage/megatv.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png"group-title="TV",WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w467631925_b700000_slen.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://streaming.rtvcanal57.com/img/logocanal57.png"group-title="TV",RTV CANAL 57
@@ -770,8 +736,6 @@ https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 https://cp.panelchs.com:1936/8094/8094/chunklist_w1880446913.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2695-960x540-000000.jpg"group-title="TV",VISION DORADA
-https://movil.ejeserver.com/live/visiondorada.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a889a5_d93a414ce0504f8ebbc4d2c04882a23d~mv2.png/v1/fill/w_440,h_440,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telebrunca2-04.png"group-title="TV",TELE BRUNCA
 https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1177696492.m3u8
@@ -783,14 +747,6 @@ https://rds3gen.desdeparaguay.net:443/mitv/mitv/chunklist_w1894002237.m3u8?admin
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_948f2439d9bb40129b35483e0bc39ead~mv2.png/v1/fill/w_476,h_476,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/nimtv.png"group-title="TV",NIM TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJOeNVZBF15Na9gq0594bIwNxjnh2fonobOjxFe-YuA&s"group-title="TV",CJ HD
-https://rpn3.bozztv.com:443/ssh101/ssh101/comunicaciones/chunks.m3u8?nimblesessionid=78230902
-
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pTdJRVDDV8jmJV-Nu-Ci9MCJOjsJOyE4QTNwOf_hLyqdRCi0qmUkDNElQ0hUD9qPGD1z"group-title="TV",TVCENTRO 27.2
-https://cloud2.streaminglivehd.com:1936/8004/8004/chunklist_w1317131478.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTX6Ign8OtS0dp5XTcCjlCQbwCMyd0IlhMEQ&usqp=CAU"group-title="TV",PLANETA HD
