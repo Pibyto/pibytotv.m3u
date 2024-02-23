@@ -612,6 +612,7 @@ https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u
 https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?PlaylistM3UCL
 
 
+
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png"group-title="TV",PLANETA FAMILY
 https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 
@@ -711,9 +712,6 @@ https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDOqQO2ibZaJ7avq9yEaIC2wFogJW8Q70KeQ&usqp=CAU"group-title="TV",TLS
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3tmBSbJxRC4/X60f9a3rIGI/AAAAAAAAAQc/fF8IH8yVOA4RzCac-jUKBR7-BFVdjiTOwCK4BGAYYCw/s400/Sin%2Bt%25C3%25ADtulo-logo%2Bnuevo%2Btl%2B2%2Bestrella.png"group-title="TV",TL ESTRELLA
