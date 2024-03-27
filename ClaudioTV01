@@ -436,6 +436,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcd4Onw-M43wumUoF3fvFQfDhPgZ-ehwrgXg&usqp=CAU"group-title="TDA BS.AS",EL TRECE  33.1
+http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81269
 https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
@@ -465,7 +466,7 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logo_TV_P%C3%BAblica_Digital.png"group-title="TDA BS.AS",TV PUBLICA   23.2
-https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81265
 
 
 
@@ -513,8 +514,7 @@ http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/81273
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png"group-title="TDA BS.AS",TN HD
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/81324
+http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81325
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/2560px-Cine.Ar_logo.svg.png"group-title="TDA BS.AS",CINEAR HD   22.4
@@ -524,13 +524,14 @@ http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/81320
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png"group-title="TDA BS.AS",PAKA PAKA HD   22.2
-http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/81284
+http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81284
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png"group-title="TDA BS.AS", ENCUENTRO HD  22.1
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png"group-title="TDA BS.AS",TELEMAX HD  26.3
+http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81288
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png"group-title="TDA BS.AS",24 H
