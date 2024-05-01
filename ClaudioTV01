@@ -318,7 +318,7 @@ http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/1454
 
 
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png"group-title="CABLE", TU CINE
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TuCine_295x98.png"group-title="CABLE", FREE TV ESTELAR
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 
@@ -368,7 +368,7 @@ http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/26924
 
 
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png"group-title="CABLE", TOP CINE
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/TopCine_295x98.png"group-title="CABLE",FREE TV ACCION
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 
@@ -421,14 +421,12 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/173
 http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/141189
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HBO_2_HD_Logo_Poland.png/640px-HBO_2_HD_Logo_Poland.png"group-title="CABLE",HBO 2 HD
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4182
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/1032
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HBO_2_HD_Logo_Poland.png/640px-HBO_2_HD_Logo_Poland.png"group-title="CABLE",HBO 2 
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/87425
 
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_04/large.1268442606_HBOPLUSLOGO.png.40b40670b6c11d11b485f895039f7ec6.png"group-title="CABLE",HBO+ HD
-http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/270
-http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/1434
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/281094
 
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_02/small.1986800355_HBOPOP(varianteblanca).png.a7a608512df4e3de4d6e7d3cbdc7a4a1.png"group-title="CABLE",HBO POP HD
