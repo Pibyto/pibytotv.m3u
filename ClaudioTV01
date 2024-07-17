@@ -520,7 +520,6 @@ http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/1481
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Gran_Hermano_2022_logo.png"group-title="TDA BS.AS",GRAN BROTHER
 
 
 #EXTINF:-1 tvg-logo="https://simkl.in/posters/52/52143401750f06f53_ca.jpg"group-title="TDA BS.AS",I CARLY
@@ -535,6 +534,7 @@ https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA BS.AS", TELEFE  34
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/50510
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"group-title="TDA BS.AS",ESPN PREMIUM
@@ -542,13 +542,13 @@ http://ultrapremium.cloud:8080/934478603tv/zg9p8d/16161
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="TDA BS.AS",TNT SPORTS
-http://sdmx.vip:8080/Max2023/Max2023/2140800
+
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ"group-title="TDA BS.AS",TyC SPORTS
-http://sdmx.vip:8080/Max2023/Max2023/199511
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/640px-ViX_Logo.svg.png"group-title="TDA BS.AS", VIX TUDN
-https://artv.watch/es/MX/TUDN.mx
+
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA BS.AS",EL NUEVE
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81270
@@ -568,7 +568,7 @@ https://panel.dattalive.com:443/8250/8250/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png"group-title="TDA BS.AS",CANAL 4 HD
-https://5cd577a3dd8ec.streamlock.net:443/canal4/smil:manifest.smil/chunklist_w889191551_b316000.m3u8
+
 
 
 
@@ -611,7 +611,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81325
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/2560px-Cine.Ar_logo.svg.png"group-title="TDA BS.AS",CINEAR HD   22.4
-http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/81320
+
 
 
 
@@ -647,14 +647,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj2Eb0MAG2CT64kYTVs-L86UpY_Ax7laUm1Q&s"group-title="TDA BS.AS",24/7
-https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w797123959_b850000_slen.m3u
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaBY_U6tIteHzbOVyb3DHo3Lm0DzHJ3IqBUQ&s"group-title="TDA BS.AS",TEATRIX
-https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8?PlaylistM3UCL
 
 
 
