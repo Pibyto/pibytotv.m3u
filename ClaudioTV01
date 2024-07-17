@@ -676,7 +676,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_plus.flv
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp0gZSSolub2oESyX_J4aLLTyFgkY6q_f36Zxq9rTuXp3pDS5CXfFV9JTY3VzqkbswlkUt40XxDHRKr8y15Ah8mfjoTu5mELZ7tRNFcT-H9_n4DRynYAyFZTGxNVh7Kv9egbLlIzhyMBY7MB9GpzMPBoq-d0qPGDM9uEOAbXe1hBi-SsmPNCML48tiDw/s600/cinemundo-plus-v2.png"group-title="TV",CINEMUNDO+ 2
-https://tv.streaming-chile.com:8081/origentvhd/tracks-v1a1/mono.m3u8
 
 
 
@@ -696,17 +695,20 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.origentv.cl/wp-content/uploads/2023/12/LOGO-BLANCO-TV-chico.png"group-title="TV",ORIGEN TV HD
-https://tv.streaming-chile.com:1936/origentv2/origentv2/chunklist_w991754316.m3u8
+https://tv.streaming-chile.com:8081/origentvhd/tracks-v1a1/mono.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://mascine.co/wp-content/uploads/2022/02/logo-Mas-Cine@2x-min.png"group-title="TV",+CINE HD
-https://tv.streaming-chile.com:1936/8142/8142/chunklist_w527786512.m3u8?PlaylistM3UCL
+https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="TV",IU TV HD
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png"group-title="TV",PLANETA FAMILY
-https://scl.edge.grupoz.cl:443/planetatvkids/live/chunklist_w1795285142.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image84741368099.jpg"group-title="TV",ORBIT TV HD
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
@@ -730,11 +732,11 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3311-960x540-000000.jpg"group-title="TV",NEXTV 1 HD
-https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
 
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3311-960x540-000000.jpg"group-title="TV",NEXTV 2 HD
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",COSMOS TV HD
@@ -752,8 +754,7 @@ https://srv6.zcast.com.br:443/streamax/streamax/chunklist_w346437805.m3u8
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",BLU HD
-https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
-
+https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",IPERSONICA HD
 https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
@@ -776,14 +777,13 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",TELECREATIVA HD
-https://panel.dattalive.com:443/8012/8012/chunklist_w1476221297.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",PANC TV HD
-https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",TELEMIX HD
-https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-19.2-v2-1076x605.png"group-title="TV",METROPOLIS 19.2 HD
 https://5e85d90130e77.streamlock.net:443/6014/6014/chunklist_w1091679071.m3u8
@@ -806,8 +806,6 @@ https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3tmBSbJxRC4/X60f9a3rIGI/AAAAAAAAAQc/fF8IH8yVOA4RzCac-jUKBR7-BFVdjiTOwCK4BGAYYCw/s400/Sin%2Bt%25C3%25ADtulo-logo%2Bnuevo%2Btl%2B2%2Bestrella.png"group-title="TV",TL ESTRELLA
-https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/chunklist_w231126957.m3u8
 
 
 
@@ -825,8 +823,6 @@ https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w117769
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1600px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png"group-title="TV",MITV
-https://rds3gen.desdeparaguay.net:443/mitv/mitv/chunklist_w1894002237.m3u8?admin=mitvitapua
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_948f2439d9bb40129b35483e0bc39ead~mv2.png/v1/fill/w_476,h_476,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/nimtv.png"group-title="TV",NIM TV
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
@@ -850,8 +846,6 @@ https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8?Playl
 
 
 
-#EXTINF:-1 tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png"group-title="TV",URANIO TV
-https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
 
 
@@ -870,13 +864,6 @@ https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_0a56fe220b8e4fe3a54a32bf98a9f9ff~mv2.png/v1/fill/w_389,h_389,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_MasTv.png"group-title="TV",MAS TV HD
 https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-61Uhe23lokOdehZSvZE09sY_AOD4HoRxkAmrhE9g7g&s"group-title="TV",NEO TV
-https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://canal29tva.com.bo/wp-content/uploads/2023/10/cropped-LOGO-TVA-2018-A2.png"group-title="TV",CANAL 29 TVA
-https://vdo.grupolimalive.com:3089/live/tvelive.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_4f77437ba53c4b898edfddd58c96faa4~mv2.png/v1/fill/w_389,h_389,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Tv%20Florencia.png"group-title="TV",FLORENCIA
@@ -890,17 +877,6 @@ https://cdn.streamhispanatv.net:3003/live/cnidigitallive.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/r-e-television.png"group-title="TV",R&E TV HD
 https://stmv5.voxtvhd.com.br/ryetv/ryetv/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/4yDXcs12lA1SaPG8FZwBufp1VWdbfviQUw9I0-J1suLTgXWzjGSM-wFc5lZKsy37nAm0EeYubNg291yWv3-O8cjiAlWCZgAuVLb354RfhAhzn9kupl946DbOAILRFg"group-title="TV", TVU HD
-https://video.live.com.bo:3731/live/tvuumsalive.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://doblectelevision.com/wp-content/uploads/2023/11/LOGO-GRUPO-DOBLE-C-SAC-02-1024x470.png"group-title="TV", DOBLE CC
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp"group-title="TV",RETROPLUS
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
 
 
@@ -919,8 +895,6 @@ https://stmv.streamingvip.click:443/tvnosara2/tvnosara2/chunklist_w976657265.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcJ0J71HU-1JXxbXdpPrh0fbCz7uoYFs9I3uAkYA4ajA&s"group-title="TV",GARABITO TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/bella-vision-canal-8.png"group-title="TV",BELLAVISION HD
-https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 
 
 
