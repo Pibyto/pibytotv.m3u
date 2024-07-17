@@ -21,6 +21,7 @@ http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/211296
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="FUTBOL",DIRECTV SPORTS HD
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99654
 
 
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png"group-title="FUTBOL",ESPN 4 HD
@@ -273,6 +274,11 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 https://live-01-07-ciudad.vodgc.net:443/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://simkl.in/posters/52/52143401750f06f53_ca.jpg"group-title="CABLE",I CARLY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2tC3kfGrYsLCinVLIT8PdQedSpWV8t-mwQ&s"group-title="CABLE",SONY CHANNEL
 http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/1261
 
@@ -305,7 +311,9 @@ https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Canal_5_2016.svg"group-title="CABLE",CANAL 5 MX
-https://channel05.akamaized.net:443/hls/live/2033783/event01/index_6.m3u8
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/279661
+
+
 
 
 
@@ -537,8 +545,6 @@ http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4183
 
 
 
-#EXTINF:-1 tvg-logo="https://simkl.in/posters/52/52143401750f06f53_ca.jpg"group-title="TDA BS.AS",I CARLY
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
@@ -560,13 +566,11 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 http://ultrapremium.cloud:8080/934478603tv/zg9p8d/16161
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="TDA BS.AS",TNT SPORTS
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhOQWiELN6RRFwFbxKWWWEBLgGhXifnJfWT8SWtHZUdSH6fT3Jc_IC88xtebGFXTbQ"group-title="TDA BS.AS",TyC SPORTS
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/640px-ViX_Logo.svg.png"group-title="TDA BS.AS", VIX TUDN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/640px-ViX_Logo.svg.png"group-title="TDA BS.AS",LATINA PERU
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99674
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA BS.AS",EL NUEVE
