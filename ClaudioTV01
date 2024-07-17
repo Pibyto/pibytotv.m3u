@@ -13,15 +13,13 @@
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="FUTBOL",DIRECTV SPORTS + PPV HD
-http://wabot.win:8080/HerbertJose66/27qYr2mwUK/709157
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="FUTBOL",DIRECTV SPORTS HD
-http://wabot.win:8080/HerbertJose66/27qYr2mwUK/709137
 
 
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png"group-title="FUTBOL",ESPN 4 HD
-http://wabot.win:8080/HerbertJose66/27qYr2mwUK/760895
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="FUTBOL",TNT SPORTS
@@ -37,15 +35,12 @@ http://newlife3.wanicelife.com:8880/DAALM1946/RZLMcYPfpN/49721
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="FUTBOL",DIRECTV SPORTS HD
-http://newlife3.wanicelife.com:8880/DAALM1946/RZLMcYPfpN/49731
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png"group-title="FUTBOL",FOX SPORTS
-http://newlife3.wanicelife.com:8880/DAALM1946/RZLMcYPfpN/49714
 
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/02ac8688819595.Y3JvcCwyODc2LDIyNTAsNTYyLDA.png"group-title="FUTBOL",TyC SPORTS HD
-http://newlife3.wanicelife.com:8880/DAALM1946/RZLMcYPfpN/49981
 
 
 
@@ -243,7 +238,7 @@ https://stream.ads.ottera.tv/cl/230310cg57cae51ocbfailto80/1280x720_2043826_0_f.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYipsq7pHe-_s91jj9W_d0UUpZpKXQ4zv1vt78NmySYg&s"group-title="CABLE",AMC ESPAÑOL HD
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d782e0_8d3cfeb60544459eacdb1a44f3d7"group-title="CABLE",CINEMAX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png"group-title="CABLE",CINEMAX HD
 http://newlife3.wanicelife.com:8880/DAALM1946/RZLMcYPfpN/49738
 
 
@@ -259,11 +254,11 @@ https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/chunks.m3u8?nimblesessio
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d782e0_8d3cfeb60544459eacdb1a44f3d7916e.png/v1/fill/w_316,h_248,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d782e0_8d3cfeb60544459eacdb1a44f3d7916e.png"group-title="CABLE", CIUDAD MAGAZINE 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CABLE", CIUDAD MAGAZINE 
 https://live-01-07-ciudad.vodgc.net:443/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d782e0_8d3cfeb60544459eacdb1a44f3d7916e.png/v1/fill/w_316,h_248,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d782e0_8d3cfeb60544459eacdb1a44f3d7916e.png"group-title="CABLE",SONY CHANNEL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2tC3kfGrYsLCinVLIT8PdQedSpWV8t-mwQ&s"group-title="CABLE",SONY CHANNEL
 http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/1261
 
 
