@@ -23,18 +23,26 @@
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png"group-title="FUTBOL",TNT SPORTS
-http://187295612864776752.ofgh525.xyz:80/live/vi831238/54FUQtgy9G/776752.ts
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99766
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg"group-title="FUTBOL",ESPN PREMIUM HD
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99755
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg"group-title="FUTBOL",ESPN PREMIUM 2 HD
 http://newlife3.wanicelife.com:8880/DAALM1946/RZLMcYPfpN/49718
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmVjbnH7AVsfogHZoBoKxNBJFOOnIlK2qtYZZOWJWw2g&s"group-title="FUTBOL",ESPN HD
-http://newlife3.wanicelife.com:8880/DAALM1946/RZLMcYPfpN/49721
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99753
+
+
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="FUTBOL",DIRECTV SPORTS HD
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/375275
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png"group-title="FUTBOL",FOX SPORTS
@@ -459,9 +467,11 @@ http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/94122
 
 
 #EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/731381553.png"group-title="CABLE",UNIVERSAL CINEMA
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/237081
 
 
 #EXTINF:-1 tvg-logo="https://universalplus.com/files/channels/398064723.png"group-title="CABLE",UNIVERSAL PREMIERE
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/237080
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm_PnjBHZpbGZR9EF2rPyXoWjDNl9ftRdkWg&usqp=CAU"group-title="CABLE",UNIVERSAL TV
@@ -531,8 +541,12 @@ https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA BS.AS", TELEFE  34
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99762
+
+
+
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/50510
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"group-title="TDA BS.AS",ESPN PREMIUM
 http://ultrapremium.cloud:8080/934478603tv/zg9p8d/16161
