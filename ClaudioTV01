@@ -594,6 +594,9 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA BS.AS"TELEMIX HD
+https://fl1002.bozztv.com:443/ssh101/telemixlive/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"group-title="TDA BS.AS",ESPN PREMIUM
 http://ultrapremium.cloud:8080/934478603tv/zg9p8d/16161
@@ -621,7 +624,7 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81265
 
 
-#EXTINF:-1 tvg-logo="https://www.pacificfertility.ca/wp-content/uploads/2018/11/ctv-png.png"group-title="TDA BS.AS",CORRIENTES TV HD
+#EXTINF:-1 tvg-logo="https://corrientes.tv/wp-content/uploads/2024/04/Corrientes-TV.webp"group-title="TDA BS.AS",CORRIENTES TV HD
 https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
 
 
@@ -654,6 +657,7 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81300
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.1027530100_IP2.png.09507349c734309f8ec316ccd9633b41.png"group-title="TDA BS.AS",IP   24.5
+https://video-weaver.sao05.hls.ttvnw.net/v1/playlist/CrMFl_2h4GdCu25zxADM9QXp0OmjZlxBrWgh755tAYsB8Y4vL8_uADRB-LWgRUvSagu5weqs-Zb_wjlV3ZcQsXNVswIvsdRtFdsErQ_8_P8cON54e16-sCK3ouHBP3YmsbYAPmbibzGwARdFEB2NjF8ZaUUlPIDEWbjzBys8t8WIXIIrF7Bfa8pyBuwSjcomqFO9hBulGDR8CKvOOs753pOEYUSeqwrcGrSrndx5MjEdo8PNn_aymF9jMb5NdE1mBwB94GdkF9wYOaYYzDc8Q2tyHwng9HjqIQjXAbVaaBeEzscbvuqim_lIrFmAd1R-TmR5CQCHmYrBwSVbQTqwDOQXFnz1pA9Bc6a09zY31nig9t2QYOGrlSmBOuDDnU66JKFNAcb-2lN13iR7xwjXOhHunjciF7GjheZTnG2FW6BkWtaAApV-6IODKIo3igOodGiadGflqMM8EbrHQOIoxRthqYipPuLh_ef7C7yH2fKn_vu9Oy_qxL4eTUEHandxnlYy1D5PpL0CpFuSnegoMaFzbkQ7ie7f6-s77pNT1chLD3LH3eLT_934OXS9T0PE_TQtJmyNcULr20pJaNozYSZbLMoCcCE-vOfKfWQRV2MUynY_-mZLP7Og92brGGk8Mozo9pBNzOQ1FqADGx2bVwIydTb_87d8dJRBH2JwVhhOLux2UoHWkUHu10emVYG663TwzKwon9jItLDGQYs8mnT6ppw2hzUhW_6P06kHMw35WjuwiWO55QU7doMkiYB9nLBsWzEmLhwgKN8glGJRifYdSTnx2rYYQh0J_gHVp96WFOEID7kUwaOQ-xZhumgUXSHuaL3PfR-ltH_kFb76R-4qjPS844JTMN1UMGn_ZLimU_q03RplTwcoB-RMDJvlWnIQqPmuGxg62npl1Lm-IQV-cDaCzhoMUv4_PPwL4r7K6GMdIAEqCXVzLWVhc3QtMTCsCA.m3u8
 
 
 
