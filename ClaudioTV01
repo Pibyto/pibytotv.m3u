@@ -561,9 +561,17 @@ http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99762
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png
+"group-title="TDA BS.AS",COSMOS TV HD
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?fit=1920%2C1080&ssl=1"group-title="TDA BS.AS",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1 tvg-logo="https://www.betanoticias.com/wp-content/uploads/2023/09/la-poderosa-tv.png"group-title="TDA BS.AS",LA PODEROSA TV AVELLANEDA 
+https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg=s150-rw"group-title="TDA BS.AS",NEO TV DIGITAL HD. 16.1 
@@ -571,6 +579,11 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/04/CINCO-TV-logo.gif"group-title="TDA BS.AS",CINCO TV HD  TIGRE
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://ipersonica.wordpress.com/wp-content/uploads/2019/12/ipersonica-en-vivo.png"group-title="TDA BS.AS",IPERSONICA HD
+https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"group-title="TDA BS.AS",ESPN PREMIUM
@@ -781,7 +794,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Nfszueo1J_C4KFaqJJ_UndCUqdHCLG7Gt5qBxjQ5pSQjo-JTLrubwuwd60n8WzwC-Ok"group-title="TV",NEOX TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",STREAM MAX JUJUY
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CE2djBMl089SUShPw3UUn0dBqUudNbYVw78GPiajRLZZjHquOxSnbhA96jRisv9C1N2NQRry3bY=s900-c-k-c0x00ffffff-no-rj"group-title="TV",STREAM MAX JUJUY
 https://srv6.zcast.com.br:443/streamax/streamax/chunklist_w346437805.m3u8
 
 
@@ -789,10 +802,10 @@ https://srv6.zcast.com.br:443/streamax/streamax/chunklist_w346437805.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/UscOGMJ_SzfjKpsGz-rBT02q0AmDGY7NgDk3RPSvxxnfRC6LfX1JTPGgGLaL6GCtHqY"group-title="TV",GENTV HD  17.3
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",BLU HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLY2s5UD4E9W3R7yyJ0zcdue304Qt3N5QpjQ&s"group-title="TV",BLU HD
 https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",IPERSONICA HD
+#EXTINF:-1 tvg-logo="https://ipersonica.wordpress.com/wp-content/uploads/2019/12/ipersonica-en-vivo.png"group-title="TV",IPERSONICA HD
 https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
 
 
@@ -800,29 +813,28 @@ https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/i
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",LA PODEROSA TV AVELLANEDA 
+#EXTINF:-1 tvg-logo="https://www.betanoticias.com/wp-content/uploads/2023/09/la-poderosa-tv.png"group-title="TV",LA PODEROSA TV AVELLANEDA 
 https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg=s150-rw"group-title="TV",NEO TV DIGITAL HD. 16.1 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/04/CINCO-TV-logo.gif"group-title="TV", CINCO TV HD  TIGRE
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV", CIUDAD MÁGICA TV 
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-800x450-FFFFFF.jpg"group-title="TV", CIUDAD MÁGICA TV 
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",TELECREATIVA HD
+#EXTINF:-1 tvg-logo="group-title="TV",TELECREATIVA HD
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",PANC TV HD
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Telecentro.png"group-title="TV",TELEMIX HD
 
 
 #EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-19.2-v2-1076x605.png"group-title="TV",METROPOLIS 19.2 HD
 https://5e85d90130e77.streamlock.net:443/6014/6014/chunklist_w1091679071.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-canal-colores-1076x605.png"group-title="TV",METROPOLIS 19.1 HD
 https://5e85d90130e77.streamlock.net:443/6028/6028/chunklist_w1901575909.m3u8
