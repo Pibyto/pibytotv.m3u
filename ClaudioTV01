@@ -292,6 +292,13 @@ https://cdn.klowdtv.net:443/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/94127
 
 
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/400x225/linear-canela-tv_1.png"group-title="CABLE",CANELA TV 1 HD
+https://stream.ads.ottera.tv/cl/240719cqcrpsvldni4rivjvdl0/1280x720_3071200_0_f.m3u8?i=475_653
+
+
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/400x225/linear-canela-tv_1.png"group-title="CABLE",CANELA TV 2 HD
+https://cnm-ctsa.otteravision.com:443/cnm/ctsa/ctsa_720.m3u8
+
 http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/74409
 
 
