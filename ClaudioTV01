@@ -286,6 +286,8 @@ http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/1261
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es"group-title="CABLE",CINE SONY
 https://cdn.klowdtv.net:443/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/400x225/linear-canela-tv_1.png"group-title="CABLE",CANELA CINEMA HD
+https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg00658-canelamediainc-canelacinema-freetv/cb553e1e7b6c648c99d43e63d0ef41a6d2245fde0c6890712fb5508974c3015997a8a292ef1ebd60589902da640c3e4c5c669e4fc32e54c6db67fb57657e10209ecbb02a8ccb70a383e22b129174a12f7bcc7f77c21c2260deec141c8c33b40b7d798a3a4f26fc09206b874b319ac54ed36f58d6f89f386a2c707ca7ebb604917c9f8da4081b872fb1c0450ac06c57ccba9132352d99b1a771bf31c323af4bde8281d29145c196e77ddd49a8545b0c4a09e83ab509f5509bfb3a1042d3cc6c20477846e9eddf4339944e405db7ded9b860f107c78724ce4222be0e975cbb118379af1a9d9224cda2b0d7565529eb90153075eeb5d2ea815539de37aaf7f1bc931d276b92ac21f9d8a7cb90228c7d81b4092a719683d1/115/1920x1080_5358012/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaKM0__uHRx786K5wQEwLk7qivGYnDJVrQQ&usqp=CAU"group-title="CABLE",SPACE HD
