@@ -285,6 +285,13 @@ http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/1261
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es"group-title="CABLE",CINE SONY
 https://cdn.klowdtv.net:443/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd4gf3IdY1UJBrxgqpMzkkAlGo5GJVJoZiPA&usqp=CAU"group-title="CABLE",SEO TV PELICULAS HD
+https://seo.tv.bo/tv/SEOTV4_HD.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB43zPltQm6UGWEzD-MAHtDMB4LLxLbgMT5g&s"group-title="CABLE",CANELA CINEMA 2 HD
 https://ov.ottera.tv:443/channels/cnm_cn_mv_mx/master2900000.m3u8;session=cnm_cn_mv_mx
 
