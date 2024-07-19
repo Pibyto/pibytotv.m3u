@@ -1380,11 +1380,13 @@ https://stream.oursnetworktv.com/latin/PlenitudGtm/playlist.m3u8
 https://5e85d90130e77.streamlock.net:443/6020/6020/chunklist_w1538041154.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.tenor.com/B4gWc0D8Lo8AAAAi/tv.gif"group-title="CRISTIANO",PRESENCIA TV HD
-https://tv.clientetvstudio.net:3158/hybrid/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_f4b7cdcc0ece45da99aa840acc865730~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/presenciatv.png"group-title="CRISTIANO",PRESENCIA TV
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/177
+https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.pacificfertility.ca/wp-content/uploads/2018/11/ctv-png.png"group-title="CRISTIANO",CORRIENTES TV HD
