@@ -785,6 +785,12 @@ https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="TV",IU TV HD
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
+
+#EXTINF:-1 tvg-logo="https://domintapi.com/images/station/domint1345img06-05-20201591390561.jpeg"group-title="TV",CASCARA TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image84741368099.jpg"group-title="TV",ORBIT TV HD
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
