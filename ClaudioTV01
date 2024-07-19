@@ -1355,6 +1355,8 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/757c46_623c68adb30a49e6b88ceae507d07077~mv2.jpg/v1/fill/w_510,h_238,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/vision_log.jpg"group-title="CRISTIANO",VISION TV HD
+https://stmv1.voxhdnet.com:443/wilfredo9842/wilfredo9842/chunklist_w1956091374.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="CRISTIANO",ALTAR TV HD
