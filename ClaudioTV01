@@ -841,6 +841,10 @@ https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
 #EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-19.2-v2-1076x605.png"group-title="TV",METROPOLIS 19.2 HD
 https://5e85d90130e77.streamlock.net:443/6014/6014/chunklist_w1091679071.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://megacinetv.net/favicon.ico"group-title="TV",MEGA CINE TV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/assets/images/logo-canal-colores-1076x605.png"group-title="TV",METROPOLIS 19.1 HD
 https://5e85d90130e77.streamlock.net:443/6028/6028/chunklist_w1901575909.m3u8
 
@@ -1397,7 +1401,10 @@ https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/uncion-tv.png"group-title="CRISTIANO", UNCION TV
-https://livemediacp.com:1936/8064/8064/chunklist_w567692192.m3u8
+https://eu1.servers10.com:8081/8164/tracks-v1a1/mono.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image70119570242.jpg"group-title="CRISTIANO",MOVIE FE
 https://vcp.myplaytv.com:443/moviefe/moviefe/chunklist_w1856309372.m3u8
