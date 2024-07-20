@@ -628,6 +628,8 @@ https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA BS.AS",TELEMIX HD
 https://fl1002.bozztv.com:443/ssh101/telemixlive/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://telecreativa.com/logos/telecreativa22.gif"group-title="TDA BS.AS",TELECREATIVA HD
+https://panel.host-live.com:443/8012/8012/chunklist_w1576918054.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"group-title="TDA BS.AS",ESPN PREMIUM
 http://ultrapremium.cloud:8080/934478603tv/zg9p8d/16161
