@@ -282,6 +282,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2tC3kfGrYsLCinVLIT8PdQedSpWV8t-mwQ&s"group-title="CABLE",SONY CHANNEL
 http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/1261
 
+#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_kids.png"group-title="CABLE", FMH KIDS
+http://45.160.15.130:2909/play/003
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es"group-title="CABLE",CINE SONY
 https://cdn.klowdtv.net:443/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 
