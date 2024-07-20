@@ -625,7 +625,7 @@ https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA BS.AS"TELEMIX HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA BS.AS",TELEMIX HD
 https://fl1002.bozztv.com:443/ssh101/telemixlive/tracks-v1a1/mono.m3u8
 
 
@@ -719,17 +719,28 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81284
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png"group-title="TDA BS.AS",TELEMAX HD  26.3
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+
+
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81288
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png"group-title="TDA BS.AS",24 H
-https://ztnr.rtve.es/ztnr/1694255.m3u8?WebM3UCL
 
 
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Telesur_HD_%282017%29.png/revision/latest/scale-to-width-down/250?cb=20220719221045"group-title="TDA BS.AS",TELESUR HD  25.4
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/644px-RT_America_Logo.png"group-title="TDA BS.AS",RT HD   25.5
