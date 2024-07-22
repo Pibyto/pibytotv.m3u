@@ -1,24 +1,17 @@
 
 #ClaudioTV01
 
-
-
-
-
-###########( FUTBOL )########################( FUTBOL )#############
-
-
-
-
+###########( FUTBOL )########################( FUTBOL )############
 
 
 #EXTINF:-1 tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2024/06/GoDaddyStudioPage-0-730-1024x576.jpeg"group-title="FUTBOL",EVENTOS PPV HD
 http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/204751
 
-
 #EXTINF:-1 tvg-logo="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2024/06/GoDaddyStudioPage-0-730-1024x576.jpeg"group-title="FUTBOL",EVENTOS PPV HD 2
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/211296
+https://deportes.sdfgnksbounce.com:8080/MjAwLjEyMy4xNTAuMTY5/5_.m3u8?token=eAIcKEbCYiGWYhMBMxJAxw&expires=1721621405
 
+
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/211296
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="FUTBOL",DIRECTV SPORTS HD
 http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99654
@@ -45,11 +38,8 @@ http://newlife3.wanicelife.com:8880/DAALM1946/RZLMcYPfpN/49718
 http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99753
 
 
-
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/directv-sports-logo-6F86DBD521-seeklogo.com.png"group-title="FUTBOL",DIRECTV SPORTS HD
 http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/375275
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png"group-title="FUTBOL",FOX SPORTS
 http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/243052
