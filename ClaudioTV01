@@ -605,6 +605,11 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZjmv960wWcYYih0h9hlfac24zaE-H0qTPFw&s"group-title="TDA BS.AS",CANAL 3 AVELLANEDA 
+https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/chunklist_w211072890.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg=s150-rw"group-title="TDA BS.AS",NEO TV DIGITAL HD. 16.1 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
