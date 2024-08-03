@@ -5,6 +5,19 @@
 
 
 
+#################( SEIES )####################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www1.cbn.com/sites/default/files/media/slider/images/thechosentemporada_4.png"group-title="CABLE",THE CHOSSEN
+https://livecdn.enlace.plus/evangelios/smil:evangelios-hd.smil/chunklist_b2752000_sleng.m3u8
+
+
+
+
 
 
 
@@ -277,8 +290,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2tC3kfGrYsLCinVLIT8PdQedSpWV8t-mwQ&s"group-title="CABLE",SONY CHANNEL
-http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/1261
+
+
+
+
+
 
 
 
@@ -1203,8 +1219,9 @@ https://stream.arcast.live:443/ahora/ahora/chunklist_w1967933953.m3u8?PlaylistM3
 http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Canal_Siete_Jujuy_%28Logo_2020_-_2%29.png/revision/latest/scale-to-width-down/250?cb=20230222192035&path-prefix=es"group-title="TDA INTERIOR",CANAL 7 JUJUY
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Canal_8_MDP_%282022%2C_ultimate_logo%29.png/revision/latest/scale-to-width-down/284?cb=20220727153321"group-title="TDA INTERIOR",CANAL 8 MDP
+https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w492484021_b613840.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA INTERIOR",PANC TV HD 15.1 TUCUMÁN
@@ -1342,8 +1359,10 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/ff/ed/15/ffed155a27c0f9dba0a4aa90acd2a3af.jpg"group-title="CRISTIANO",YHWH ES MI SALVACION
-https://stream-cdn-iad.vaughnsoft.net/play/live_yhwhesmisalvacion.flv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzg4DT1gH-1FZJZQQZIACxjawrA1ihR63JAg&usqp=CAU"group-title="CRISTIANO", ARMANDO ALDICIN 24/7
+https://livecdn.enlace.plus/armandoalducin/smil:aatv-hd.smil/chunklist_b2752000_sleng.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/757c46_623c68adb30a49e6b88ceae507d07077~mv2.jpg/v1/fill/w_510,h_238,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/vision_log.jpg"group-title="CRISTIANO",VISION TV HD
 https://stmv1.voxhdnet.com:443/wilfredo9842/wilfredo9842/chunklist_w1956091374.m3u8
@@ -1372,8 +1391,11 @@ https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="CRISTIANO",ENLACE BPB HD CHILE
 https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/03/XTOTV-Enlace-en-vivo-Online.png"group-title="CRISTIANO",ENLACE XTO BOLIVIA
-http://www.channel.tevemi.com:1935/XtoTv/XtoTv/chunklist_w545946030.m3u8
+#EXTINF:-1 tvg-logo="https://mujeresenaccion.com.ar/assets/img/mujeres-en-accion.png"group-title="CRISTIANO",MUJERES EN ACCION
+https://livecdn.enlace.plus/mujeresdefe/smil:mujeresdefe-hd.smil/chunklist_b2752000_sleng.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://vidartvplus.com/images/logo.png"group-title="CRISTIANO",V+
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
