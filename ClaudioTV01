@@ -4,13 +4,6 @@
 
 
 
-################( SERIES )##########################################
-
-
-#EXTINF:-1 tvg-logo=""group-title="SERIES",La Biblia 1x1
-https://drive.google.com/file/d/198y3kwd4VV4nW6A5TqUb_CB7qRR4N2tZ/view?usp=drivesdk
-
-
 
 
 
@@ -70,49 +63,37 @@ http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/228950
 
 
 #EXTINF:-1 tvg-logo=""group-title="MOVIE",ENEMIGO PUBLICO(WILL SMITT)
-http://daleplay.club:8080/movie/Stalin8932Mo17M/UunzKQWJFmQk/189846.mp4
 
 #EXTINF:-1 tvg-logo=""group-title="MOVIE",AL FILO DEL MAÑANA
-http://daleplay.club:8080/movie/Stalin8932Mo17M/UunzKQWJFmQk/189119.mp4
 
 #EXTINF:-1 tvg-logo=""group-title="MOVIE",EL AGENTE C.I.P.O.L
-http://daleplay.club:8080/movie/Stalin8932Mo17M/UunzKQWJFmQk/189597.mp4
 
 
 #EXTINF:-1 tvg-logo=""group-title="MOVIE",EL BUEN PASTOR
-http://daleplay.club:8080/movie/Stalin8932Mo17M/UunzKQWJFmQk/189615.mp4
 
 
 #EXTINF:-1 tvg-logo=""group-title="MOVIE",EL NIÑO QUE DOMO EL VIENTO
-http://daleplay.club:8080/movie/Stalin8932Mo17M/UunzKQWJFmQk/189737.mp4
 
 
 #EXTINF:-1 tvg-logo=""group-title="MOVIE",EL PRINCIPE DE EGIPTO
-http://daleplay.club:8080/movie/Stalin8932Mo17M/UunzKQWJFmQk/189758.mp4
 
 
 #EXTINF:-1 tvg-logo=""group-title="MOVIE",ENOLA HOLMES 2020
-http://daleplay.club:8080/movie/Stalin8932Mo17M/UunzKQWJFmQk/189851.mp4
 
 
 #EXTINF:-1 tvg-logo=""group-title="MOVIE",FOCUS
-http://daleplay.club:8080/movie/Stalin8932Mo17M/UunzKQWJFmQk/189905.mp4
 
 
 #EXTINF:-1 tvg-logo=""group-title="MOVIE",GIGANTE DE ACERO
-http://daleplay.club:8080/movie/Stalin8932Mo17M/UunzKQWJFmQk/190144.mp4
 
 
 #EXTINF:-1 tvg-logo=""group-title="MOVIE",HASTA EL ÚLTIMO HOMBRE
-http://daleplay.club:8080/movie/Stalin8932Mo17M/UunzKQWJFmQk/190205.mp4
 
 
 #EXTINF:-1 tvg-logo=""group-title="MOVIE",HOMBRE EN LLAMAS
-http://daleplay.club:8080/movie/Stalin8932Mo17M/UunzKQWJFmQk/190234.mp4
 
 
 #EXTINF:-1 tvg-logo=""group-title="MOVIE",GIGOLO POR ACCIDENTE
-http://daleplay.club:8080/movie/Stalin8932Mo17M/UunzKQWJFmQk/190145.mp4
 
 
 #EXTINF:-1 tvg-logo="https://circuloitaliano.ar/wp-content/uploads/2023/12/napoleaon-ok-652bad0c18878.jpg"group-title="MOVIE",NAPOLEON
@@ -284,7 +265,7 @@ http://newlife3.wanicelife.com:8880/DAALM1946/RZLMcYPfpN/49738
 
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/monitv.png"group-title="CABLE",MONI TV HD
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png"group-title="CABLE", CIUDAD MAGAZINE 
@@ -299,20 +280,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm2tC3kfGrYsLCinVLIT8PdQedSpWV8t-mwQ&s"group-title="CABLE",SONY CHANNEL
 http://latinoamericatv.vip:8080/AlexRivera/tNcNm6avPBLQ/1261
 
-#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_kids.png"group-title="CABLE", FMH KIDS
-http://45.160.15.130:2909/play/003
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es"group-title="CABLE",CINE SONY
 https://cdn.klowdtv.net:443/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB43zPltQm6UGWEzD-MAHtDMB4LLxLbgMT5g&s"group-title="CABLE",CANELA CINEMA 2 HD
-https://ov.ottera.tv:443/channels/cnm_cn_mv_mx/master2900000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB43zPltQm6UGWEzD-MAHtDMB4LLxLbgMT5g&s"group-title="CABLE",CANELA CINEMA HD
-https://amg00658-canelamediainc-canelacinema-freetv-arrbv.amagi.tv/playlist/amg00658-canelamediainc-canelacinema-freetv/cb553e1e7b6c648c99d43e63d0ef41a6d2245fde0c6890712fb5508974c3015997a8a292ef1ebd60589902da640c3e4c5c669e4fc32e54c6db67fb57657e10209ecbb02a8ccb70a383e22b129174a12f7bcc7f77c21c2260deec141c8c33b40b7d798a3a4f26fc09206b874b319ac54ed36f58d6f89f386a2c707ca7ebb604917c9f8da4081b872fb1c0450ac06c57ccba9132352d99b1a771bf31c323af4bde8281d29145c196e77ddd49a8545b0c4a09e83ab509f5509bfb3a1042d3cc6c20477846e9eddf4339944e405db7ded9b860f107c78724ce4222be0e975cbb118379af1a9d9224cda2b0d7565529eb90153075eeb5d2ea815539de37aaf7f1bc931d276b92ac21f9d8a7cb90228c7d81b4092a719683d1/115/1920x1080_5358012/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGaKM0__uHRx786K5wQEwLk7qivGYnDJVrQQ&usqp=CAU"group-title="CABLE",SPACE HD
@@ -346,12 +319,8 @@ https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://stream.ads.ottera.tv/cl/240719cqd8v7dhg25i92qsk8vg/1280x720_3071200_0_f.m3u8?i=475_4847
 
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/channel-iyf2023-16x9.jpg"group-title="CABLE",INSPIRACION Y FE
-https://stream.ads.ottera.tv/cl/240719cqd91ee1a8g7139r2cv0/1280x720_3071200_0_f.m3u8?i=475_4847
 
 
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/400x225/channel-desastres-16x9.jpg"group-title="CABLE",DESASTRES
-https://stream.ads.ottera.tv/cl/240719cqd94fu1a8g7139r3b30/1280x720_1400000_1_f.m3u8?i=475_7364
 
 
 
@@ -697,6 +666,11 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81290
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="TDA BS.AS",CANAL 26  24.2
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81310
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="TDA BS.AS",CANAL 26  24.2 opc. 2
+https://www.youtube.com/watch?v=rY6a3fuaQ5Q
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA BS.AS", AMÉRICA  36.1
