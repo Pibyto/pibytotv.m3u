@@ -959,7 +959,15 @@ https://fl1002.bozztv.com:443/ssh101/visiontvhdgt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.chispa.tv/__export/1584815991244/sites/debate/img/2020/03/21/televisa_regala_blim_tv_crop1584815768614.jpg_1902800913.jpg"group-title="TV",LIM TV
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_82b6b5d51d954299bbc7ce7e9d67393d~mv2.png/v1/fill/w_459,h_459,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AuroraMedia.png"group-title="TV",AURORA
+#EXTINF:-1 tvg-logo=""group-title="TV",PLATINIUM TV
+https://glb.bozztv.com/glb/ssh101/platiniumtv/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+AURORA
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 
 
