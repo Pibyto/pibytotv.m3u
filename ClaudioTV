@@ -1,5 +1,12 @@
 #DavidTV
 
+
+
+
+#EXTINF:-1 tvg-logo="[url=https://imgbb.com/][img]https://i.ibb.co/t4ZL030/mg-tv-1-removebg-preview.png[/img][/url]"group-title="TV",MONTE GRANDE TV
+https://fl1002.bozztv.com/ssh101/streamingmg/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/UscOGMJ_SzfjKpsGz-rBT02q0AmDGY7NgDk3RPSvxxnfRC6LfX1JTPGgGLaL6GCtHqY"group-title="TDA BS.AS",GENTV HD 17.3 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"group-title="TDA BS.AS",EL TRECE  33.1
