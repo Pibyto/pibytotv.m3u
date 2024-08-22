@@ -4,6 +4,11 @@
 #EXTINF:-1 tvg-logo="https://www1.cbn.com/sites/default/files/media/slider/images/thechosentemporada_4.png"group-title="CABLE",THE CHOSSEN
 https://livecdn.enlace.plus/evangelios/smil:evangelios-hd.smil/chunklist_b2752000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://lc.cx/6TIiZ0"group-title="TDA BS.AS",ClaudioTV
+https://glb.bozztv.com/glb/ssh101/claudiotv/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/pw/AP1GczOUrTmE6CgmCJOGemaEqddE3wE1vhMstFJTMHXlD2gKVhXrIkbqG22Q4UO52SJZ1kIbZsL5p0o-R4hBiJ8vOPS4OexSRBNUbUz9tTEPNg9gpzzZmFG5Eav0oF9v9lECxHUE8UcH8frha-WALcHYXi4=w500-h500-s-no-gm?authuser=0"group-title="TDA BS.AS",MONTE GRANDE TV HD
 https://glb.bozztv.com/glb/ssh101/claudiotv/index.m3u8
 
