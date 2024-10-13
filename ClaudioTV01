@@ -80,7 +80,7 @@ https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_a
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="TDA BS.AS",ALTAR TV HD
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4ZL030/mg-tv-1-removebg-preview.png"group-title="TV",MONTE GRANDE TV opc.2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t4ZL030/mg-tv-1-removebg-preview.png"group-title="TDA BS.AS",MONTE GRANDE TV opc.2
 https://xhateaec.com:8800/hls/Klau77/Klau77/aff52d9c33343e32ac8738f6ee6682e9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"group-title="TDA BS.AS",EL TRECE  33.1
