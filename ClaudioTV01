@@ -81,6 +81,9 @@ https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_a
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fDVvvHx/Untitled-2.png"group-title="TDA BS.AS",MONTE GRANDE TV opc.2
+https://giatv.bozztv.com/giatvplayout/giatv-208138/tracks-v1a1/mono.m3u8
+
+
 https://xhateaec.com:8800/hls/Klau77/Klau77/aff52d9c33343e32ac8738f6ee6682e9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QKzjwmk/Untitled-removebg-preview.png"group-title="TDA BS.AS",PLAY TV
