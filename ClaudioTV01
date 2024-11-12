@@ -88,7 +88,10 @@ https://xhateaec.com:8800/hls/Klau77/Klau77/aff52d9c33343e32ac8738f6ee6682e9/ind
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QKzjwmk/Untitled-removebg-preview.png"group-title="TDA BS.AS",PLAY TV
 https://fl1002.bozztv.com:443/ssh101/plaaytv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QKzjwmk/Untitled-removebg-preview.png"group-title="TDA BS.AS",PLAY TV  opc.2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKzjwmk/Untitled-removebg-preview.png"group-title="TDA BS.AS",PLAY TV 24/7
+https://glb.bozztv.com/glb/ssh101/plaaytv/index.m3u8
+
+
 https://live.xhateaec.com/livestreams/41.mhxM1FqjJiSkb5e1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png"group-title="TDA BS.AS",EL TRECE  33.1
