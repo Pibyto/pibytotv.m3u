@@ -71,7 +71,7 @@ https://giatv.bozztv.com/giatvplayout/giatv-208138/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://corrientes.tv/wp-content/uploads/2024/04/Corrientes-TV.webp"group-title="TDA BS.AS",CORRIENTES TV HD
-https://stmvideo2.livecastv.com:443/canal7/canal7/chunklist_w577852701.m3u8
+https://stmvideo6.livecastv.com/canal7/canal7/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--L7dK4JYWxE/Xum1XU0_cKI/AAAAAAAAJy8/Z8_QEFef4JUZAiOLOPHKBR7pA4e-avJfwCLcBGAsYHQ/s1600/canal-luz.png"group-title="TDA BS.AS",CANAL LUZ HD
@@ -119,13 +119,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://www.betanoticias.com/wp-content/uploads/2023/09/la-poderosa-tv.png"group-title="TDA BS.AS",LA PODEROSA TV AVELLANEDA 
-https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZjmv960wWcYYih0h9hlfac24zaE-H0qTPFw&s"group-title="TDA BS.AS",CANAL 3 AVELLANEDA 
-https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/chunklist_w211072890.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg=s150-rw"group-title="TDA BS.AS",NEO TV DIGITAL HD. 16.1 
