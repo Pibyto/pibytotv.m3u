@@ -2,21 +2,21 @@
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4ZL030/mg-tv-1-removebg-preview.png"group-title="TV",MONTE GRANDE TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cCLFmPr/3dgifmaker65258.gif"group-title="TDA BS.AS",MONTE GRANDE TV
 https://glb.bozztv.com/glb/ssh101/montegrandetv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4ZL030/mg-tv-1-removebg-preview.png"group-title="TV",MONTE GRANDE TV opc.2
-https://xhateaec.com:8800/hls/Klau77/Klau77/aff52d9c33343e32ac8738f6ee6682e9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cCLFmPr/3dgifmaker65258.gif"group-title="TDA BS.AS",MONTE GRANDE TV 24/7
+https://giatv.bozztv.com/giatvplayout/giatv-208138/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QKzjwmk/Untitled-removebg-preview.png"group-title="TV",PLAY TV
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKzjwmk/Untitled-removebg-preview.png"group-title="TDA BS.AS",PLAY TV
 https://fl1002.bozztv.com:443/ssh101/plaaytv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QKzjwmk/Untitled-removebg-preview.png"group-title="TDA BS.AS",PLAY TV 2
-https://live.xhateaec.com/livestreams/41.mhxM1FqjJiSkb5e1.m3u8
+
 
 
 
