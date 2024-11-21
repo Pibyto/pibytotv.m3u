@@ -1,4 +1,4 @@
-#DavidTV
+i#DavidTV
 
 
 
@@ -17,7 +17,8 @@ https://giatv.bozztv.com/giatvplayout/giatv-208538/tracks-v1a1/mono.m3u8
 https://fl1002.bozztv.com:443/ssh101/plaaytv/tracks-v1a1/mono.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://corrientes.tv/wp-content/uploads/2024/04/Corrientes-TV.webp"group-title="TDA BS.AS",CORRIENTES TV HD
+https://stmvideo6.livecastv.com/canal7/canal7/playlist.m3u8
 
 
 
