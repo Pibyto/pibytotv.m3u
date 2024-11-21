@@ -43,7 +43,12 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://fl1002.bozztv.com:443/ssh101/telemixlive/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/04/CINCO-TV-logo.gif"group-title="TDA BS.AS",CINCO TV HD  TIGRE
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1 tvg-logo="https://ipersonica.wordpress.com/wp-content/uploads/2019/12/ipersonica-en-vivo.png"group-title="TDA BS.AS",IPERSONICA HD
+https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
 
 
 
