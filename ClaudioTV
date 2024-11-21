@@ -26,6 +26,14 @@ https://stmvideo6.livecastv.com/canal7/canal7/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?fit=1920%2C1080&ssl=1"group-title="TDA BS.AS",BAYRES TV HD
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg=s150-rw"group-title="TDA BS.AS",NEO TV DIGITAL HD. 16.1 
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
@@ -34,8 +42,6 @@ https://stmvideo6.livecastv.com/canal7/canal7/playlist.m3u8
 
 
 
-##############( CRISTIANO )############################( CRISTIANO )#######################( CRISTIANO )############################( CRISTIANO )#######################
-##############$$############################$$##########################################################################################################################
 
 
 
