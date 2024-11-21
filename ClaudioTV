@@ -1,4 +1,4 @@
-i#DavidTV
+DavidTV
 
 
 
@@ -50,6 +50,9 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://ipersonica.wordpress.com/wp-content/uploads/2019/12/ipersonica-en-vivo.png"group-title="TDA BS.AS",IPERSONICA HD
 https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
 
+
+#EXTINF:-1 tvg-logo""group-title="TDA BS.AS",APOCALIPSIS 3:8
+https://xhateaec.com:8800/hls/Klau77/Klau77/3d1e8f8eaacccb302f77743e2d98f1af/index.m3u8
 
 
 
