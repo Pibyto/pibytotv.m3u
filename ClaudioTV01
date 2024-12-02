@@ -291,16 +291,14 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp0gZSSolub2oESyX_J4aLLTyFgkY6q_f36Zxq9rTuXp3pDS5CXfFV9JTY3VzqkbswlkUt40XxDHRKr8y15Ah8mfjoTu5mELZ7tRNFcT-H9_n4DRynYAyFZTGxNVh7Kv9egbLlIzhyMBY7MB9GpzMPBoq-d0qPGDM9uEOAbXe1hBi-SsmPNCML48tiDw/s600/cinemundo-plus-v2.png"group-title="TV",CINEMUNDO+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjsM6d6iGZ550c-7ZFudzPmZosr-IKTihNGEBixzGCTErR4ImGc5LmSSydbyGPBm64m5Vp3vP9mXEDYPVBZk5fHaJmswC1vzsnciP6jpaFv1m4fBz6L0pwmISiStunm6gmh3EXs0-zOgQk/s320/icon.gif"group-title="TV",CINEMUNDO+
 https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_plus.flv
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp0gZSSolub2oESyX_J4aLLTyFgkY6q_f36Zxq9rTuXp3pDS5CXfFV9JTY3VzqkbswlkUt40XxDHRKr8y15Ah8mfjoTu5mELZ7tRNFcT-H9_n4DRynYAyFZTGxNVh7Kv9egbLlIzhyMBY7MB9GpzMPBoq-d0qPGDM9uEOAbXe1hBi-SsmPNCML48tiDw/s600/cinemundo-plus-v2.png"group-title="TV",CINEMUNDO+ 2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjsM6d6iGZ550c-7ZFudzPmZosr-IKTihNGEBixzGCTErR4ImGc5LmSSydbyGPBm64m5Vp3vP9mXEDYPVBZk5fHaJmswC1vzsnciP6jpaFv1m4fBz6L0pwmISiStunm6gmh3EXs0-zOgQk/s320/icon.gif"group-title="TV",CINEMUNDO+ 2
 https://stream-cdn-iad.vaughnsoft.net/play/live_beto_7hd.flv
 
 
 
-#EXTINF:-1 tvg-logo="https://planetatv.cl/wp-content/uploads/2023/02/PLANETATV3.png"group-title="TV",PLANETA MOVIES
-https://scl.edge.grupoz.cl:443/movie/live/chunklist_w516573976.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TV",PELÍCULAS_MANIA 
 https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv
@@ -335,9 +333,6 @@ https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
 
-#EXTINF:-1 tvg-logo="https://domintapi.com/images/station/domint1345img06-05-20201591390561.jpeg"group-title="TV",CASCARA TV
-https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image84741368099.jpg"group-title="TV",ORBIT TV HD
@@ -367,8 +362,6 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 https://srv6.zcast.com.br:443/streamax/streamax/chunklist_w346437805.m3u8
 
 
-
-#EXTINF:-1 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLY2s5UD4E9W3R7yyJ0zcdue304Qt3N5QpjQ&s"group-title="TV",BLU HD
 https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
 
@@ -411,8 +404,7 @@ https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png"group-title="TV",CB TV
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQV2_NCXHqDc1y8HkZa5F3lmw_gjcyVtjyyQ&s"group-title="TV",INSPIRACION Y FE
-https://stream.ads.ottera.tv/cl/240718cqcp9sbbkbr0r3vk5kbg/1280x720_3071200_0_f.m3u
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDq1YTgxLQRi-O3CFPMdHlHR34ztXuShfkzw&s"group-title="TV",ZTV ANIME
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
@@ -429,8 +421,6 @@ https://fl1002.bozztv.com:443/ssh101/visiontvhdgt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.chispa.tv/__export/1584815991244/sites/debate/img/2020/03/21/televisa_regala_blim_tv_crop1584815768614.jpg_1902800913.jpg"group-title="TV",LIM TV
 https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=""group-title="TV",PLATINIUM TV
-https://glb.bozztv.com/glb/ssh101/platiniumtv/tracks-v1a1/mono.m3u8
 
 
 
@@ -463,8 +453,6 @@ https://rpn3.bozztv.com/ssh101/ssh101/redcanindeyu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuXNZDeHf1-uYVaNI0es2GTfC66rMLHGcO8g&usqp=CAU"group-title="TV",CANAL MAS TELEVISIÓN 
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="TV",SUMUNDOTV
-https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.fmp4.m3u8
 
 
 
