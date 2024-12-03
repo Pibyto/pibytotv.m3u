@@ -328,7 +328,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",REDTV
+#EXTINF:-1 tvg-logo="https://redtvcomunicaciones.weebly.com/uploads/1/4/8/2/148208235/editor/red-tv.png?1718052439"group-title="TDT CHILE",REDTV
 https://xhateaec.com:8800/hls/Klau77/Klau77/e45cba2ee11fc91431e121760344461f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://33e1600b34.cbaul-cdnwnd.com/d7495a2b4d8a7ea80be22f304f0282e4/200000133-645e4645e6/450/Screenshot_20240317-170142_Chrome-removebg-preview%20%281%29.webp?ph=33e1600b34"group-title="TDT CHILE",PLENITUD TV
