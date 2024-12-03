@@ -36,7 +36,38 @@ https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNNLZG_hGI2s1ED00Zfl_VE4yinsrToH53ww&usqp=CAU"group-title="MOVIE",CLICK
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_chico_ideal-487657239-large.jpg"group-title="MOVIE",EL CHICO IDEAL
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",PROMETEUS HD 2012
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",SAHARA
+https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",LA MINA
+https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
+
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",CASTILLO DE ARENA
+https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",ANGRY BIRT
+https://goo.gl/3KGMLf
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",MASCOTA HUMANA
+https://archive.org/download/12052017ffsdf345345345/12052017ffsdf.mp4
+
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",BOLVER AL FUTURO
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",Kolosal
+http://cecegeek@goo.gl/zZGVg5
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/Y-donde-estan-las-rubias-white-chicks-shawn-wayans-vhs-5439-MLA4389453419_052013-F.jpg/revision/latest/top-crop/width/360/height/450?cb=20161018214826&path-prefix=es"group-title="MOVIE",Y DONDE ESTAN LAS RUBIAS
 https://dl.dropboxusercontent.com/s/aez9sb22f2vuyve/SalynPM-Y-D.E.L.R.mp4?dl=0
@@ -313,7 +344,7 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",CLILE VISION
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",CHILE VISION
 https://ythls.armelin.one/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
 
 
@@ -353,6 +384,18 @@ https://fl1002.bozztv.com/ssh101/opinionsur/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TVPRIME PELICULAS
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",+CINE
+https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+
 
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TV SALUD
 https://panel.miplay.cl:8081/tvsalud/index.m3u8?PlaylistM3UCL
