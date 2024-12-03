@@ -336,8 +336,19 @@ https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TV SALUD
 https://panel.miplay.cl:8081/tvsalud/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",REDTV
+https://xhateaec.com:8800/hls/Klau77/Klau77/e45cba2ee11fc91431e121760344461f/index.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
 
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
 
 
 
@@ -457,6 +468,10 @@ https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w117769
 
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_948f2439d9bb40129b35483e0bc39ead~mv2.png/v1/fill/w_476,h_476,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/nimtv.png"group-title="TV",NIM TV
+https://glb.bozztv.com/glb/ssh101/canal20hd/index.m3u8
+
+
+
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 
 
