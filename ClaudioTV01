@@ -60,7 +60,7 @@ https://goo.gl/3KGMLf
 https://archive.org/download/12052017ffsdf345345345/12052017ffsdf.mp4
 
 
-#EXTINF:-1 tvg-logo=""group-title="MOVIE",BOLVER AL FUTURO
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",VOLVER AL FUTURO
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 
 
@@ -993,8 +993,10 @@ https://s1.abntelevision.com:443/avivamientoabr/stream/avivamientohd/avivamiento
 
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f74787def518f73a0059e57f99e108d137bdaa0483fefacfca1b700b22a8833b.png"group-title="CRISTIANO",EL VIVIENTE TV HD
-https://elvivientetv.streamgato.us:3302/live/elvivientetvlive.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgpWZdMxTDMGjvnV6ffoJmw56WkipZ9iZSg&s"group-title="CRISTIANO",APOCALIPSIS 3:8
+https://xhateaec.com:8800/hls/Klau77/Klau77/3d1e8f8eaacccb302f77743e2d98f1af/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-960x540-000000.jpg"group-title="CRISTIANO",RESTAURANDO VIDAS TV HD
 https://v4.tustreaming.cl:443/restaurandovida/tracks-v1a1/mono.m3u8?PlaylistM3UCL
