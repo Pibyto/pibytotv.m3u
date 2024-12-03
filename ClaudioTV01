@@ -398,7 +398,7 @@ https://tls-cl.cdnz.cl:443/canal21tv/live/chunklist_w1052170874.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TV SALUD
+#EXTINF:-1 tvg-logo="https://www.satvcordoba.org.ar/portal/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-26-at-20.21.25-640x239.jpeg"group-title="TDT CHILE",TV SALUD
 https://panel.miplay.cl:8081/tvsalud/index.m3u8?PlaylistM3UCL
 
 
