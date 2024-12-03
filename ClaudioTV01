@@ -295,8 +295,17 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TVN 24 HS
-http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",REDTV
+https://xhateaec.com:8800/hls/Klau77/Klau77/e45cba2ee11fc91431e121760344461f/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",PLENITUD TV
+https://giatv.bozztv.com/giatvplayout/giatv-208530/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",24 hs
+https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",MEGA
@@ -338,14 +347,9 @@ https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TV SALUD
 https://panel.miplay.cl:8081/tvsalud/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",REDTV
-https://xhateaec.com:8800/hls/Klau77/Klau77/e45cba2ee11fc91431e121760344461f/index.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",PLENITUD TV
-https://giatv.bozztv.com/giatvplayout/giatv-208530/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
