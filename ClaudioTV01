@@ -143,11 +143,10 @@ https://fl1002.bozztv.com:443/ssh101/telemixlive/tracks-v1a1/mono.m3u8
 https://panel.host-live.com:443/8012/8012/chunklist_w1576918054.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA BS.AS",PANC TV HD 15.1 
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/panctvargentina/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="group-title="TDA BS.AS",PANC TB HD
-https://glb.bozztv.com/glb/ssh101/panctvargentina/index.m3u8
 
 
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8
@@ -717,6 +716,8 @@ https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w492484021_b613840.m3u
 
 
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA INTERIOR",PANC TV HD 15.1 TUCUMÁN
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/panctvargentina/playlist.m3u8
+
 https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-3-pinamar.png"group-title="TDA INTERIOR",CANAL 3 HD  3.0  PINAMAR
