@@ -339,7 +339,8 @@ https://panel.miplay.cl:8081/tvsalud/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",REDTV
 https://xhateaec.com:8800/hls/Klau77/Klau77/e45cba2ee11fc91431e121760344461f/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",PLENITUD TV
+https://giatv.bozztv.com/giatvplayout/giatv-208530/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
