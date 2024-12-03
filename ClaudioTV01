@@ -410,7 +410,7 @@ https://marine2.miplay.cl/ntv/playlist.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",MAX ANIME
+#EXTINF:-1 tvg-logo="https://esportsmaxtele.com/wp-content/uploads/2024/02/Max-anime-logo-1.png"group-title="TDT CHILE",MAX ANIME
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
 
