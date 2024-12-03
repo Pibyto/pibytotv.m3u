@@ -308,19 +308,29 @@ https://giatv.bozztv.com/giatvplayout/giatv-208530/tracks-v1a1/mono.m3u8
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",MEGA
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",PURA NOTICIA TV
+https://pnt.janusmedia.tv/hls/pnt.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",CLV
-https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",CLILE VISION
+https://ythls.armelin.one/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",LA RED
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",CANAL 13
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",MEGANOTICIAS
-https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL
+https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TELESERIES
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",OPINION SUR SERIES
@@ -349,13 +359,38 @@ https://panel.miplay.cl:8081/tvsalud/index.m3u8?PlaylistM3UCL
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",NTV
+https://marine2.miplay.cl/ntv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",LOCOMOTION TV
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",MAX ANIME
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TVMAS 2
+https://marine2.miplay.cl/tateti/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",CARACOLA TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+
+
+
+
+
+
+
+
+
+
 
 
 
