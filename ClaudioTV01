@@ -146,7 +146,10 @@ https://panel.host-live.com:443/8012/8012/chunklist_w1576918054.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9a/Unife_2023_logo.png/revision/latest?cb=20230201072513&path-prefix=es"group-title="TDA BS.AS",UNIIFE HD
+#EXTINF:-1 tvg-logo="group-title="TDA BS.AS",PANC TB HD
+https://glb.bozztv.com/glb/ssh101/panctvargentina/index.m3u8
+
+
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8
 
 
@@ -273,6 +276,70 @@ https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6834c6c7c875c2c1c16_dwe.png"group-title="TDA BS.AS",DW ESPAÑOL HD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+################################TDT CHILE#############TDT CHILE########
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TVN 24 HS
+http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",MEGA
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",CLV
+https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",CANAL 13
+https://m3u.cl/channel/c13.php?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",MEGANOTICIAS
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",OPINION SUR SERIES
+https://glb.bozztv.com/glb/ssh101/opinionsurs/index.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",OPINION SUR NIÑOS
+https://glb.bozztv.com/glb/ssh101/opinionsurn/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",MONITV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",APANINES
+https://fl1004.bozztv.com:443/ssh101/apaninestv02/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",OPINION SUR CINE
+https://fl1002.bozztv.com/ssh101/opinionsur/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TVPRIME PELICULAS
+https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TV SALUD
+https://panel.miplay.cl:8081/tvsalud/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+
+
+
 
 
 
