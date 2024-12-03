@@ -422,8 +422,8 @@ https://marine2.miplay.cl/tateti/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
-
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",PURO SUR TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtvpurosurperu/playlist.m3u8
 
 
 
