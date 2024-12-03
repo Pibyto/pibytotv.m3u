@@ -414,11 +414,11 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TVMAS 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest/scale-to-width-down/284?cb=20211128231238&path-prefix=es"group-title="TDT CHILE",TVMAS 2
 https://marine2.miplay.cl/tateti/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",CARACOLA TV
+#EXTINF:-1 tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2022/11/LOGO-CARACOLA-05.png"group-title="TDT CHILE",CARACOLA TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 
