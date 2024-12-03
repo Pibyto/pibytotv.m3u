@@ -969,6 +969,12 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--L7dK4JYWxE/Xum1XU0_cKI/AAAAAAAAJy8/Z8_QEFef4JUZAiOLOPHKBR7pA4e-avJfwCLcBGAsYHQ/s1600/canal-luz.png"group-title="CRISTIANO",CANAL LUZ HD
 https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.portalvoxhd.com.br/estacoes/webtv-303.png"group-title="CRISTIANO", PRESENCIA KIDS
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/kidsenvivo/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://zoe.com.uy/wp-content/uploads/2020/09/mvtv-banner.png"group-title="CRISTIANO",MISION VIDA TV HD
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1221649132.m3u8
 
@@ -1041,8 +1047,9 @@ https://xhateaec.com:8800/hls/visitor/visitor/57328eda266dcd70fd321815a6813ac1/i
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1200px-Claro_TV_wordmark.svg.png"group-title="CRISTIANO",JTA TV HD. MENDOZA
 https://streaming.jtamendoza.com/hls/test.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1200px-Claro_TV_wordmark.svg.png"group-title="CRISTIANO", PRESENCIA KIDS
-https://rpn3.bozztv.com:443/ssh101/ssh101/kidsenvivo/chunks.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1200px-Claro_TV_wordmark.svg.png"group-title="CRISTIANO",RHEMA TV
