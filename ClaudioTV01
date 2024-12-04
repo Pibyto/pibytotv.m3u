@@ -371,7 +371,7 @@ https://glb.bozztv.com/glb/ssh101/opinionsurs/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://opinionsur.cl/wp-content/uploads/2024/07/Asset-5.png"group-title="TDT CHILE",OPINION SUR NIÑOS
 https://glb.bozztv.com/glb/ssh101/opinionsurn/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",MONITV
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/monitv.png"group-title="TDT CHILE",MONITV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 
 
@@ -386,7 +386,7 @@ https://fl1002.bozztv.com/ssh101/opinionsur/index.m3u8?PlaylistM3UCL
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",+CINE
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png"group-title="TDT CHILE",+CINE
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
 
 
@@ -491,7 +491,7 @@ https://tv.streaming-chile.com:8081/origentvhd/tracks-v1a1/mono.m3u8
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://mascine.co/wp-content/uploads/2022/02/logo-Mas-Cine@2x-min.png"group-title="TV",+CINE HD
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png"group-title="TV",+CINE HD
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2021/12/04.png"group-title="TV",TELEMAX RD HD
