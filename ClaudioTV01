@@ -335,6 +335,11 @@ https://xhateaec.com:8800/hls/Klau77/Klau77/e45cba2ee11fc91431e121760344461f/ind
 https://giatv.bozztv.com/giatvplayout/giatv-208530/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://redtvcomunicaciones.weebly.com/uploads/1/4/8/2/148208235/published/1723435059820-transformed-1-removebg-preview.png?1723436446"group-title="TDT CHILE",RV TV
+https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
+
+
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",24 hs
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
