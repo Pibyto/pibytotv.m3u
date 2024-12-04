@@ -359,7 +359,7 @@ https://m3u.cl/channel/c13.php?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wBLJUT5HJHPBUrUk5y5P7SgsB05jXQ-8vQ&usqp=CAU"group-title="TDT CHILE",MEGANOTICIAS
 https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TELESERIES
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/13-Teleseries-en-vivo-Online.png?resize=696%2C392&ssl=1"group-title="TDT CHILE",TELESERIES
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
 
