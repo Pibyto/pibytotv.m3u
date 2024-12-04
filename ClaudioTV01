@@ -375,7 +375,7 @@ https://glb.bozztv.com/glb/ssh101/opinionsurn/index.m3u8?PlaylistM3UCL
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",APANINES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4e8209_a6735c43870047ed982018ead2933f07~mv2.png/v1/fill/w_102,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Fundacion_apanines_trazado_sinfondo.png"group-title="TDT CHILE",APANINES
 https://fl1004.bozztv.com:443/ssh101/apaninestv02/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
 
