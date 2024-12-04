@@ -364,11 +364,11 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",OPINION SUR SERIES
+#EXTINF:-1 tvg-logo="https://opinionsur.cl/wp-content/uploads/2024/07/Asset-5.png"group-title="TDT CHILE",OPINION SUR SERIES
 https://glb.bozztv.com/glb/ssh101/opinionsurs/index.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",OPINION SUR NIÑOS
+#EXTINF:-1 tvg-logo="https://opinionsur.cl/wp-content/uploads/2024/07/Asset-5.png"group-title="TDT CHILE",OPINION SUR NIÑOS
 https://glb.bozztv.com/glb/ssh101/opinionsurn/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",MONITV
@@ -379,7 +379,7 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 https://fl1004.bozztv.com:443/ssh101/apaninestv02/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",OPINION SUR CINE
+#EXTINF:-1 tvg-logo="https://opinionsur.cl/wp-content/uploads/2024/07/Asset-5.png"group-title="TDT CHILE",OPINION SUR CINE
 https://fl1002.bozztv.com/ssh101/opinionsur/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TVPRIME PELICULAS
