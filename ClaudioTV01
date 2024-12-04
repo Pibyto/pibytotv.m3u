@@ -382,7 +382,7 @@ https://fl1004.bozztv.com:443/ssh101/apaninestv02/tracks-v1a1/mono.m3u8?Playlist
 #EXTINF:-1 tvg-logo="https://opinionsur.cl/wp-content/uploads/2024/07/Asset-5.png"group-title="TDT CHILE",OPINION SUR CINE
 https://fl1002.bozztv.com/ssh101/opinionsur/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TVPRIME PELICULAS
+#EXTINF:-1 tvg-logo="https://tvprime.cl/wp-content/uploads/2024/10/Prime-e1728914067611-300x142.png"group-title="TDT CHILE",TVPRIME PELICULAS
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
 
 
@@ -487,7 +487,7 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 https://tv.streaming-chile.com:8081/origentvhd/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tvprime.cl/storage/2024/05/cropped-TVPRIME-PELICULAS.png"group-title="TV",TVPRIME HD
+#EXTINF:-1 tvg-logo="https://tvprime.cl/wp-content/uploads/2024/10/Prime-e1728914067611-300x142.png"group-title="TV",TVPRIME PELICULAS HD
 https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
 
 
