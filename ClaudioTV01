@@ -340,6 +340,18 @@ https://giatv.bozztv.com/giatvplayout/giatv-208530/tracks-v1a1/mono.m3u8
 https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://veotv.cl/img/logo_transparente.png"group-title"TDT CHILE",VEO TV
+https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title"TDT CHILE",
+
+
+#EXTINF:-1 tvg-logo=""group-title"TDT CHILE",
+
+
+#EXTINF:-1 tvg-logo=""group-title"TDT CHILE",
+
+
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",24 hs
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
 
