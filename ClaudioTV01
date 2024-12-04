@@ -390,7 +390,7 @@ https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",C21
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/018b252f-fb34-4329-9c8c-cd82b3ba8357/01.jpg"group-title="TDT CHILE",CANAL 1
 https://tls-cl.cdnz.cl:443/canal21tv/live/chunklist_w1052170874.m3u8
 
 
