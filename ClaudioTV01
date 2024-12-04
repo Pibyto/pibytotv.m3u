@@ -352,7 +352,7 @@ https://ythls.armelin.one/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",CANAL 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_de_Canal_13_HD_%282010-2018%29.png"group-title="TDT CHILE",CANAL 13
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
 
