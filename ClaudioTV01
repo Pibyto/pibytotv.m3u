@@ -367,6 +367,10 @@ https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?ads.content_page_url=http
 https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/dvc-television.png"group-title="TDT CHILE",DVC TV
+https://us.streaminghd.cl/dvctelevision/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://veotv.cl/img/logo_transparente.png"group-title="TDT CHILE",VEO TV
 https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
 
