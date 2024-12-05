@@ -343,6 +343,16 @@ https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
 #EXTINF:-1 tvg-logo="https://veotv.cl/img/logo_transparente.png"group-title="TDT CHILE",VEO TV
 https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B60R9WJ/Screenshot-20241204-234942-Google.jpg"group-title="TDT CHILE",MTV 41
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/mtvcanal41/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+
+
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
 
 
@@ -350,6 +360,19 @@ https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+
+
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",24 hs
