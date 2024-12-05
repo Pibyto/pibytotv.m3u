@@ -347,10 +347,10 @@ https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mtvcanal41/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png"group-title="TDT CHILE",TERROR TV
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kanade-2.png"group-title="TDT CHILE",KANADE TV
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
