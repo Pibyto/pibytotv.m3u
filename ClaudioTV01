@@ -730,7 +730,10 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA INTERIOR",MULTIVISION HD
-https://panel.dattalive.com:443/8250/8250/playlist.m3u8
+https://panel.host-live.com:443/825000/825000/playlist.m3u
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png"group-title="TDA INTERIOR",CANAL 4 HD
