@@ -371,6 +371,10 @@ https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
 https://us.streaminghd.cl/dvctelevision/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/62ed6e625a88e7000951ac98/mediaLibrary/photo/2e324b2a-7bc2-4eee-bba3-958741c0962e-extra-large-standard-q100.png"group-title="TDT CHILE",TV QUELLON
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://veotv.cl/img/logo_transparente.png"group-title="TDT CHILE",VEO TV
 https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
 
