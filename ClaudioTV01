@@ -415,11 +415,12 @@ https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index
 https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",TNT SPORT
+http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAudzr2zxFk4K12e3htcguzCg
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",
-
+#EXTINF:-1 tvg-logo=""group-title="TDT CHILE",CDO
+http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAuawqmT6ubt3yAvO6HFAYpz8
 
 
 
