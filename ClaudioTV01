@@ -351,6 +351,10 @@ https://xhateaec.com:8800/hls/Klau77/Klau77/e45cba2ee11fc91431e121760344461f/ind
 https://giatv.bozztv.com/giatvplayout/giatv-208530/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png"group-title="TDT CHILE",TVN
+http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAuYbFKEW7eplR40akTvOSLK4
+
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="TDT CHILE",ENLACE BPB HD CHILE
 https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
@@ -407,7 +411,7 @@ https://ssh101.bozztv.com:443/ssh101/canallms/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/big-tv.png"group-title="TDT CHILE",BIG TV
 https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/lim-tv.png"group-title="TDT CHILE",INVACIVA TV
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/lim-tv.png"group-title="TDT CHILE",INVASIVA TV
 https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8
 
 
@@ -430,6 +434,10 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chilevision-logo-D270F58613-seeklogo.com.png"group-title="TDT CHILE",CHILEVISION
+http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAuc1BpNFvLXzoVw3dgdH_mxA
+
+
+
 https://ythls.armelin.one/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
 
 
