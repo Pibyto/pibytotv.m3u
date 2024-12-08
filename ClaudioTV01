@@ -168,7 +168,8 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",MAGAZINE
+http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAuc2WowWpGkKC2MZW9V4yi7E
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
