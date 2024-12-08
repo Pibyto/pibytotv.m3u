@@ -133,7 +133,9 @@ https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2015/03/54f3cd56ed9e8__838x390.jpg"group-title="TDA BS.AS", TELEFE  34
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99762
+http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAucP11GRmZl8BZIQIssUE7RM
+
+
 
 
 
@@ -219,8 +221,6 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81265
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="TDA BS.AS",A24 HD opc. 2 
-https://www.youtube-nocookie.com/embed/QGpHLgRnrx4?playlist=QGpHLgRnrx4&autoplay=1&iv_load_policy=3&loop=1&start=
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="TDA BS.AS",A24 HD 
@@ -230,12 +230,6 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81290
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="TDA BS.AS",CANAL 26  24.2
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81310
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="TDA BS.AS",CANAL 26  24.2 opc. 2
-https://www.youtube.com/watch?v=rY6a3fuaQ5Q
-
 
 
 
@@ -251,23 +245,8 @@ http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/124621
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GZEwdVV5DTY/maxresdefault.jpg"group-title="TDA BS.AS",LA NACION+ HD OPC. 2
-https://www.youtube.com/watch?v=ocFG3yor--M
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.png"group-title="TDA BS.AS", CRÓNICA TV HD 24.4
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81300
-
-
-
-
-#EXTINF:-1 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.png"group-title="TDA BS.AS", CRÓNICA TV HD 24.4 opc. 2
-https://www.youtube.com/watch?v=avly0uwZzOE
 
 
 
@@ -282,13 +261,6 @@ http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/99768
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png"group-title="TDA BS.AS",TN HD
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81325
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png"group-title="TDA BS.AS",TN HD opc. 2
-https://www.youtube.com/watch?v=rY6a3fuaQ5Q
-
 
 
 
