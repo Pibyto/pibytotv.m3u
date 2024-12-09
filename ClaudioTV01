@@ -154,7 +154,8 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/bayrestv.png"group-title="TDA BS.AS",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
-
+#EXTINF:-1 tvg-logo="https://canal3argentina.tv/wp-content/uploads/2018/11/cropped-logoweb.png"group-title="TDA BS.AS",CANAL 3 
+https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canal5television.com/favImage.png"group-title="TDA BS.AS",canal 5
 https://stmv4.voxtvhd.com.br:443/canal5pueblo/canal5pueblo/chunklist_w855762317.m3u8
@@ -168,7 +169,7 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",MAGAZINE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20200203001356&path-prefix=es"group-title="TDA BS.AS",MAGAZINE
 http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAuc2WowWpGkKC2MZW9V4yi7E
 
 
@@ -896,6 +897,10 @@ https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/-x-2Fhk6_400x400_1.jpg"group-title="TDA INTERIOR",TELE CINCO
 https://videohd.live:19360/8016/8016.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/14-800x450.jpg"group-title="TDA INTERIOR",CANAL 14
+https://stmv2.voxtvhd.com.br:443/canal14tv2/canal14tv2/chunklist_w390967511.m3u8
 
 
 
