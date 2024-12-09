@@ -193,9 +193,12 @@ https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA BS.AS",TELEMIX HD
 https://fl1002.bozztv.com:443/ssh101/telemixlive/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://telecreativa.com/logos/telecreativa22.gif"group-title="TDA BS.AS",TELECREATIVA HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA BS.AS",TELECREATIVA HD
 https://panel.host-live.com:443/8012/8012/chunklist_w1576918054.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/la-100/fb_cover.jpg"group-title="TDA BS.AS",LA  100
+https://live-05-13-la100.vodgc.net:443/live-05-13-la100/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA BS.AS",PANC TV HD 15.1 
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/panctvargentina/playlist.m3u8
@@ -738,7 +741,8 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 https://panel.host-live.com:443/825000/825000/playlist.m3u
 
 
-
+#EXTINF:-1 tvg-logo="https://imgur.com/fNaIrvV"group-title="TDA INTERIOR",CANAL 6 
+https://panel.host-live.com/8186/8186/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png"group-title="TDA INTERIOR",CANAL 4 HD
