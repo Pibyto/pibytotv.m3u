@@ -886,6 +886,10 @@ http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Canal_8_MDP_%282022%2C_ultimate_logo%29.png/revision/latest/scale-to-width-down/284?cb=20220727153321"group-title="TDA INTERIOR",CANAL 8 MDP
+https://stream.arcast.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w750338720_b1763328_tkd293emF0b2tlbmVuZHRpbWU9MTczMzc5NTQwMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9emYwTm5MbHprQ2NvQ1lYZnE0T1BScnZoMVFDM0FiWkVkdDVqS0JsMVU5QT0=.m3u8
+
+
+
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w492484021_b613840.m3u8
 
 
