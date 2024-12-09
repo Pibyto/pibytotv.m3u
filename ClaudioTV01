@@ -762,7 +762,8 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist_w1546314826
 
 
 #EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/el-palomar-tv.png"group-title="TDA INTERIOR",EL PALOMAR TV
-https://stream.trixserver.com:3249/live/uv038live.m3u8
+https://fl1004.bozztv.com:443/ssh101/tvhd211/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="TDA INTERIOR",TV+
