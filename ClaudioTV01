@@ -187,7 +187,8 @@ https://stream.arcast.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w750338720_b1763328_
 https://g3.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0YPh6h/images-removebg-preview-2.png"group-title="TDA BS.AS",TELE CINCO
+https://videohd.live:19360/8016/8016.m3u8
 
 
 
@@ -913,7 +914,7 @@ https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/-x-2Fhk6_400x400_1.jpg"group-title="TDA INTERIOR",TELE CINCO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0YPh6h/images-removebg-preview-2.png"group-title="TDA INTERIOR",TELE CINCO
 https://videohd.live:19360/8016/8016.m3u8
 
 
