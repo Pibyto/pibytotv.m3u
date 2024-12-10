@@ -133,7 +133,6 @@ https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png"group-title="TDA BS.AS", TELEFE  34
-https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAucP11GRmZl8BZIQIssUE7RM
 
 
@@ -210,7 +209,11 @@ https://live-05-13-la100.vodgc.net:443/live-05-13-la100/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA BS.AS",PANC TV HD 15.1 
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/panctvargentina/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mkmWCDH4gcY/hqdefault.jpg"group-title="TDA BS.AS", CANAL 34 HD  
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Metro-TV-Canal-12-Tucuman-en-vivo-Online.png"group-title="TDA BS.AS",METRO TV HD  18.1 TUCUMÁN
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8
