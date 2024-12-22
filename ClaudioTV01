@@ -1034,24 +1034,20 @@ https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png"group-title="TDA INTERIOR", TDC ONLINE HD  21.7 SANTA FE
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RTS_Nuevo_Logo.png"group-title="TDA INTERIOR",RTS  HD  29.2
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_ca19beedc3d34d81b61e4f8d8bff3b13~mv2.png/v1/crop/x_233,y_353,w_1480,h_333/fill/w_894,h_200,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20ID%20VARIEDTV%20WEB.png"group-title="TDA INTERIOR",VARIED TV
-https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/styles/poster/public/logos/images_15.jpg?itok=L3aJf_Bt"group-title="TDA INTERIOR",CANAL 21 TV
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/LOGO_CANAL_3.png/133px-LOGO_CANAL_3.png"group-title="TDA INTERIOR",CANAL 3 FORMOSA
-https://stmvideo2.livecastv.com:443/agenfor/agenfor/chunklist_w1309015597.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl9GHhq01QU2j5sRwBjLh6c-KnWMqkJVhJOt28z6PzWg&s"group-title="TDA INTERIOR",CANAL 40
@@ -1061,11 +1057,13 @@ https://canalsj.kozow.com/canal40/index.m3u8?PlaylistM3UCL
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScNPgvzgMjOVtWIueCw9C3kVijDCRWY3_I1EJWbbwM8g&s"group-title="TDA INTERIOR",MAXIMA TV
-https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4S7Q4s1c0OqBmDFGukFoIhI1PiUYU8cIVPCJyWzxGHg&s"group-title="TDA INTERIOR",SENILLOSATV
-https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8?PlaylistM3UCL
+https://stream.gia.tv:443/giatv/giatv-canal10/canal10/chunks.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png"group-title="TDA INTERIOR",CINEAR
