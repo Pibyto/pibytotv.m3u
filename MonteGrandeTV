@@ -5,6 +5,8 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tvKLBx/3dgifmaker08619.gif"group-title="TDA BS.AS",MONTE GRANDE TV 24/7
 https://stream.gia.tv/giatvplayout7/giatv-208138/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tvKLBx/3dgifmaker08619.gif"group-title="TDA BS.AS",MONTE GRANDE TV
+https://fl1004.bozztv.com:443/ssh101/plaaytv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PY28ts1/Screenshot-20241225-214258-removebg-preview.png"group-title="TDA BS.AS",IPERSONICA TV
 https://xhateaec.com:8800/hls/Klau77/Klau77/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
