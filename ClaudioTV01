@@ -1179,8 +1179,10 @@ https://livecdn.enlace.plus/armandoalducin/smil:aatv-hd.smil/chunklist_b2752000_
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/757c46_623c68adb30a49e6b88ceae507d07077~mv2.jpg/v1/fill/w_510,h_238,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/vision_log.jpg"group-title="CRISTIANO",VISION TV HD
-https://stmv1.voxhdnet.com:443/wilfredo9842/wilfredo9842/chunklist_w1956091374.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbT1Mb1/images-removebg-preview-1.png"group-title="CRISTIANO"EL VIVIENTE TV HD
+https://stream-us-east-1.getpublica.com/cl/241226ctm9pv6qv9lvrmdp6nj0/1280x720_1500000_0_f.m3u8?i=1187_13009
+
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="CRISTIANO",ALTAR TV HD
