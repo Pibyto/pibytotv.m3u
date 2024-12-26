@@ -6,19 +6,34 @@
 https://stream.gia.tv/giatvplayout7/giatv-208138/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20200203001356&path-prefix=es"group-title="TDA BS.AS",MAGAZINE
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bQMdXs3/Screenshot-20241226-095234-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",EL TRECE  33.1
 https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4mWFFQX/Screenshot-20241226-092057-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",GENTV HD  17.3
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yyHXtGG/Screenshot-20241226-095830-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS", TELEFE  34
 http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAucP11GRmZl8BZIQIssUE7RM
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvQ2p3t/2q-Jl-Tsa3-KTA70-Th-K4-UAz-H66-J0-MF-2q-Jl-Tp-WH0-K294c6-VTx-Tftt1-GXDk-2q-Jl-URfo-XMh-Jz-NZy799-Hr.png"group-title="TDA BS.AS",RESTELLI TV CANAL 5
-https://stream.gia.tv:443/giatvplayout7/giatv-208770/tracks-v1a1/mono.ts.m3u8
+https://stream.gia.tv:4473/giatvplayout7/giatv-208770/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA BS.AS",EL NUEVE
 http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81270
+
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/neotv-digital.png"group-title="TDA BS.AS",NEO TV DIGITAL HD. 16.1 
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tvKLBx/3dgifmaker08619.gif"group-title="TDA BS.AS",MONTE GRANDE TV 1
 https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/378ae498b98efc1486a0bdcbe4b4038c/index.m3u8
@@ -38,9 +53,28 @@ https://stream.gia.tv:443/giatvplayout7/giatv-208730/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tvKLBx/3dgifmaker08619.gif"group-title="TDA BS.AS",MONTE GRANDE TV 2
 https://glb.bozztv.com/glb/ssh101/montegrandetv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dLWwdLK/3dgifmaker66066.gif"group-title="TDA BS.AS",COSMOS TV HD
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9W0Tt88/2q-Guv-Jh-J44-Sgmfl9l-VKQd-XCw-JId-2q-Guv-D3-Ad-CZDI5-Tr-Zs-Jh-OIGvcx-E-2q-Guw-BBKVO3-EWq-Ej0-KPFI0y.png"group-title="TDA BS.AS",NUESTRAS MALVINAS TV MONTE GRANDE
 https://stream.gia.tv:443/giatvplayout7/giatv-208744/tracks-v1a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPwvdjB/images-removebg-preview.png"group-title="TDA BS.AS",BAYRES TV HD
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://canal3argentina.tv/wp-content/uploads/2018/11/cropped-logoweb.png"group-title="TDA BS.AS",CANAL 3 
+https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BtbzpsN/canal-5-arg.png"group-title="TDA BS.AS",canal 5
+https://stmv4.voxtvhd.com.br:443/canal5pueblo/canal5pueblo/chunklist_w855762317.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="TDA BS.AS",CINCO TV HD  TIGRE
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
 
