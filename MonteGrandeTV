@@ -44,6 +44,27 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.svg/revision/latest/scale-to-width-down/284?cb=20210102135802&path-prefix=es"group-title="TDA BS.AS",TV PUBLICA   23.2
 https://g2.proy-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="TDA BS.AS",CANAL 26  24.2
+http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81310
+
+
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA BS.AS", AMÉRICA  36.1
+https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png"group-title="TDA BS.AS",LA NACION+ HD
+http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/124621
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.png"group-title="TDA BS.AS", CRÓNICA TV HD 24.4
+http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81300
+
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/neotv-digital.png"group-title="TDA BS.AS",NEO TV DIGITAL HD. 16.1 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
