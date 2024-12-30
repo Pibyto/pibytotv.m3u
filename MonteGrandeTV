@@ -14,6 +14,9 @@ https://fl1004.bozztv.com:443/ssh101/plaaytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PY28ts1/Screenshot-20241225-214258-removebg-preview.png"group-title="TDA BS.AS",IPERSONICA TV
 https://xhateaec.com:8800/hls/Klau77/Klau77/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdRFMDQnm4T6y5KPATMxrog3iAZy0VpCCKg&usqp=CAU"group-title="TDA BS.AS",SPTV HD
+https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drPPYJg/images-removebg-preview.png"group-title="TDA BS.AS",TELEMIX HD
 https://fl1002.bozztv.com:443/ssh101/telemixlive/tracks-v1a1/mono.m3u8
@@ -32,8 +35,7 @@ https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4mWFFQX/Screenshot-20241226-092057-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",GENTV HD  17.3
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdRFMDQnm4T6y5KPATMxrog3iAZy0VpCCKg&usqp=CAU"group-title="TDA INTERIOR",SPTV HD
-https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yyHXtGG/Screenshot-20241226-095830-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS", TELEFE  34
