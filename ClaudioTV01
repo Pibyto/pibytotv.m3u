@@ -249,6 +249,14 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvdRFMDQnm4T6y5KPATMxrog3iAZy0VpCCKg&usqp=CAU"group-title="TDA BS.AS",SPTV HD
+https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/be08dcc3-df96-4c40-8eef-488bc5eb4fe5/images/logo?keep=w&resize=350x350"group-title="TDA BS.AS",DITI TV
+https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tPwvdjB/images-removebg-preview.png"group-title="TDA BS.AS",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
