@@ -860,7 +860,12 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 https://panel.host-live.com:443/825000/825000/playlist.m3u
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/fNaIrvV"group-title="TDA INTERIOR",CANAL 6 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Canal_7_Neuqu%C3%A9n_logo_nuevo_2023.png/revision/latest/scale-to-width-down/178?cb=20240606194433&path-prefix=es"group-title="TDA INTERIOR",CANAL 7 NEUQUEN
+https://stream.arcast.com.ar:443/c7nq/ngrp:c7nq_all/chunklist_w1216841866_b1699840.m3u8
+
+
+
+CANAL 6 
 https://panel.host-live.com/8186/8186/playlist.m3u8
 
 
