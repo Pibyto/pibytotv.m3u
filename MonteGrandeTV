@@ -134,6 +134,10 @@ https://stream.gia.tv:443/giatvplayout7/giatv-208744/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/San_Luis_%2B_%28Logo_2024%29.png/revision/latest?cb=20240519200301"group-title="TDA BS.AS",SAN LUIS ÷
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Canal_7_Neuqu%C3%A9n_logo_nuevo_2023.png/revision/latest/scale-to-width-down/178?cb=20240606194433&path-prefix=es"group-title="TDA BS.AS",CANAL 7 NEUQUEN
+https://stream.arcast.com.ar:443/c7nq/ngrp:c7nq_all/chunklist_w1216841866_b1699840.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tPwvdjB/images-removebg-preview.png"group-title="TDA BS.AS",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
