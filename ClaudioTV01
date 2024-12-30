@@ -873,8 +873,9 @@ https://panel.host-live.com/8186/8186/playlist.m3u8
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Channel_4_logo_%28San_Juan%2C_Argentina%29_.png"group-title="TDA INTERIOR",CANAL 4 HD SAN JUAN
+https://streamlov.alsolnet.com:443/canal4sanjuan/live/chunklist_w1498414588.m3u8
 
-https://5cd577a3dd8ec.streamlock.net:443/canal4/smil:manifest.smil/chunklist_w889191551_b316000.m3u8
 
 
 
