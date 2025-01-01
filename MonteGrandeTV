@@ -20,7 +20,9 @@ https://stream.gia.tv/giatvplayout7/giatv-208138/playlist.m3u8
 group-title="TDA BS.AS",MILENIUM TV
 https://mileniumtv.onstreaming.live/live/7Gec1TzNpAZOdVo8XdOLEEKyPuJ2/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f2xYMF9/Screenshot-20250101-181658-XPlayer-Video-Player-removebg-preview.png"
+group-title="TDA BS.AS",BELLAVISION
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygCVgQ3/3dgifmaker92305.gif"group-title="TDA BS.AS",PLAY TV
 https://xhateaec.com:8800/hls/Klau77/Klau77/62c12e3ab9131b30ab6a2832a57c693e/index.m3u8
