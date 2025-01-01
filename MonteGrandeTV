@@ -20,6 +20,11 @@ https://stream.gia.tv/giatvplayout7/giatv-208138/playlist.m3u8
 group-title="TDA BS.AS",OCTOPUS TV HD
 https://ssh101stream.ssh101.com:443/akamaissh101/ssh101/octopustv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2cN6Fn9/Screenshot-20250101-192206-Chrome-removebg-preview.png"
+group-title="TDA BS.AS",WOW MOVIES
+https://stream.gia.tv:443/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYXj6ks/a18643c6e33608ceba7a592026d9f941-icon-removebg-preview.png"
 group-title="TDA BS.AS",MILENIUM TV
 https://mileniumtv.onstreaming.live/live/7Gec1TzNpAZOdVo8XdOLEEKyPuJ2/index.m3u8
