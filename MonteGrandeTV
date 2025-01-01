@@ -17,6 +17,12 @@ https://ssh101-fl.bozztv.com/ssh101/zoytvfamily/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9vkHxjS/IMG-20241231-015622-909.jpg"group-title="TDA BS.AS",MONTE GRANDE TV 24/7
 https://stream.gia.tv/giatvplayout7/giatv-208138/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60hLj61/Screenshot-20250101-144030-XPlayer-Video-Player-removebg-preview.png"
+group-title="TDA BS.AS",
+https://ssh101-fl.bozztv.com/ssh101/codificador8/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygCVgQ3/3dgifmaker92305.gif"group-title="TDA BS.AS",PLAY TV
 https://xhateaec.com:8800/hls/Klau77/Klau77/62c12e3ab9131b30ab6a2832a57c693e/index.m3u8
 
