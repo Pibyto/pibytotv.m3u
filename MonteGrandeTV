@@ -18,8 +18,12 @@ https://ssh101-fl.bozztv.com/ssh101/zoytvfamily/tracks-v1a1/mono.m3u8
 https://stream.gia.tv/giatvplayout7/giatv-208138/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYXj6ks/a18643c6e33608ceba7a592026d9f941-icon-removebg-preview.png"
+group-title="TDA BS.AS",MILENIUM TV
+https://mileniumtv.onstreaming.live/live/7Gec1TzNpAZOdVo8XdOLEEKyPuJ2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60hLj61/Screenshot-20250101-144030-XPlayer-Video-Player-removebg-preview.png"
-group-title="TDA BS.AS",
+group-title="TDA BS.AS",CN53 PELICULAS
 https://ssh101-fl.bozztv.com/ssh101/codificador8/tracks-v1a1/mono.m3u8
 
 
