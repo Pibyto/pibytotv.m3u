@@ -61,6 +61,10 @@ group-title="TDA BS.AS",CN53 PELICULAS
 https://ssh101-fl.bozztv.com/ssh101/codificador8/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ypr5d99/Screenshot-20250101-183602-XPlayer-Video-Player-removebg-preview.png"
+group-title="TDA BS.AS",METRO TV HD
+https://s.emisoras.tv:8081/metrotv/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N9LCypD/Screenshot-20250101-172122-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",CIUDAD MAGICA TV
 https://stmv4.voxtvhd.com.br:443/cdadmagicatv/cdadmagicatv/chunklist_w1687251022.m3u8?PlaylistM3UCL
