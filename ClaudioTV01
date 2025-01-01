@@ -872,7 +872,9 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA INTERIOR",MULTIVISION HD
-https://panel.host-live.com:443/825000/825000/playlist.m3u
+https://panel.host-live.com:443/825000/825000/chunklist_w641310188.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Canal_7_Neuqu%C3%A9n_logo_nuevo_2023.png/revision/latest/scale-to-width-down/178?cb=20240606194433&path-prefix=es"group-title="TDA INTERIOR",CANAL 7 NEUQUEN
