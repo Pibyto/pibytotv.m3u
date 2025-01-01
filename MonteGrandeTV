@@ -64,6 +64,10 @@ https://panel.host-live.com:443/825000/825000/chunklist_w641310188.m3u8
 https://ssh101-fl.bozztv.com/ssh101/codificador8/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/phb1xJK/images-1-removebg-preview.png"group-title="TDA BS.AS",TALTAL TV
+https://giatv.bozztv.com:443/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ypr5d99/Screenshot-20250101-183602-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",METRO TV
 https://s.emisoras.tv:8081/metrotv/index.m3u8
 
