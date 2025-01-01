@@ -8,9 +8,7 @@
 https://stream.gia.tv/giatvplayout7/giatv-208817/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_family.png"
-group-title="TDA BS.AS",FMH FAMILY
-https://ssh101-fl.bozztv.com/ssh101/zoytvfamily/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -22,9 +20,6 @@ https://stream.gia.tv/giatvplayout7/giatv-208138/playlist.m3u8
 group-title="TDA BS.AS",MILENIUM TV
 https://mileniumtv.onstreaming.live/live/7Gec1TzNpAZOdVo8XdOLEEKyPuJ2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60hLj61/Screenshot-20250101-144030-XPlayer-Video-Player-removebg-preview.png"
-group-title="TDA BS.AS",CN53 PELICULAS
-https://ssh101-fl.bozztv.com/ssh101/codificador8/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygCVgQ3/3dgifmaker92305.gif"group-title="TDA BS.AS",PLAY TV
@@ -45,7 +40,9 @@ https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drPPYJg/images-removebg-preview.png"group-title="TDA BS.AS",TELEMIX HD
 https://fl1002.bozztv.com:443/ssh101/telemixlive/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_family.png"
+group-title="TDA BS.AS", FMH FAMILY
+https://ssh101-fl.bozztv.com/ssh101/zoytvfamily/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://primary.jwwb.nl/public/h/j/f/temp-fyamuijlknxszsquqljq/logo-blu-hd-horizontal-negro-high.png?enable-io=true&enable=upscale&crop=1914%2C378%2Cx3%2Cy0%2Csafe&width=800&height=158"group-title="TDA BS.AS",BLU HD
 https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
@@ -56,6 +53,11 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA BS.AS",MULTIVISION HD
 https://panel.host-live.com:443/825000/825000/chunklist_w641310188.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60hLj61/Screenshot-20250101-144030-XPlayer-Video-Player-removebg-preview.png"
+group-title="TDA BS.AS",CN53 PELICULAS
+https://ssh101-fl.bozztv.com/ssh101/codificador8/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N9LCypD/Screenshot-20250101-172122-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",CIUDAD MAGICA TV
