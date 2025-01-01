@@ -521,7 +521,10 @@ https://ssh101.bozztv.com:443/ssh101/canallms/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/big-tv.png"group-title="TDT CHILE",BIG TV
-https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/lim-tv.png"group-title="TDT CHILE",INVASIVA TV
 https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8
