@@ -915,7 +915,10 @@ https://fl1004.bozztv.com:443/ssh101/tvhd211/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="TDA INTERIOR",TV+
+#EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="TDA INTERIOR",CANAL 2 GUALEGUAY
+https://stream.arcast.net:4443/gualeguay/gualeguay/chunklist_w1039971660.m3u8
+
+
 https://tv.streamcasthd.com:3450/live/tvmaslive.m3u8
 
 
