@@ -51,6 +51,8 @@ https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20200203001356&path-prefix=es"group-title="TDA BS.AS",MAGAZINE
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA BS.AS",MULTIVISION HD
+https://panel.host-live.com:443/825000/825000/chunklist_w641310188.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CIUDAD MAGICA
