@@ -1504,12 +1504,18 @@ https://cdn.playcloud.us:443/cci/srtin3.stream/chunklist_w1277698180.m3u8
 #EXTINF:-1 tvg-logo="https://ipnamedios.online/img/logo-radio.png"group-title="CRISTIANO",IPNA MEDIOS TV
 https://paneltv.online:1936/8184/8184/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A__wybOMKGQ/YRH-P5ffrmI/AAAAAAAAAEQ/hC3g9NrXy1QFmJ5F33yTyQXVz3k-sZiqwCLcBGAsYHQ/w1200-h630-p-k-no-nu/LOGO-CANAL-30--A-COLOR.png"group-title="CRISTIANO",BETHEL TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A__wybOMKGQ/YRH-P5ffrmI/AAAAAAAAAEQ/hC3g9NrXy1QFmJ5F33yTyQXVz3k-sZiqwCLcBGAsYHQ/w1200-h630-p-k-no-nu/LOGO-CANAL-30--A-COLOR.png"group-title="CRISTIANO",BETHEL CANAL 30
+https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/BethelTV1998.png/revision/latest?cb=20210326224941&path-prefix=es"
+group-title="CRISTIANO",BETHEL TV
 https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8?nimblesessionid=11251787
 
 
 
-https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3gGwYk/D64575438be2a3a54fdf64d4035ade48.png"group-title="CRISTIANO",PENIEL TV BIBLIA ABIERTA 
 https://s.emisoras.tv:8081/penielbibliaabierta/tracks-v1a1/mono.m3u8
