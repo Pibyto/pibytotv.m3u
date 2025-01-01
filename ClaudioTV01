@@ -1430,7 +1430,7 @@ https://stream.oursnetworktv.com:443/latin/jubilotv/chunklist_w110204067.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NOmsvvqxh5b09aCIEGn2htWS2jvtbeD6B1UIpBXFEyitA-dUOCTgcQaolaqq84qlcw=w240-h480-rw"group-title="CRISTIANO",AZA TV
-https://mediacp.us:8081/azatvhd/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBUQ8Gp1pfXolhoXZqiE244s1npaA26HCtVA&usqp=CAU"group-title="CRISTIANO",COSECHA Y VICTORIA TV
@@ -1504,7 +1504,11 @@ https://cdn.playcloud.us:443/cci/srtin3.stream/chunklist_w1277698180.m3u8
 #EXTINF:-1 tvg-logo="https://ipnamedios.online/img/logo-radio.png"group-title="CRISTIANO",IPNA MEDIOS TV
 https://paneltv.online:1936/8184/8184/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A__wybOMKGQ/YRH-P5ffrmI/AAAAAAAAAEQ/hC3g9NrXy1QFmJ5F33yTyQXVz3k-sZiqwCLcBGAsYHQ/w1200-h630-p-k-no-nu/LOGO-CANAL-30--A-COLOR.png"group-title="CRISTIANO",BETHEL CANAL 30
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A__wybOMKGQ/YRH-P5ffrmI/AAAAAAAAAEQ/hC3g9NrXy1QFmJ5F33yTyQXVz3k-sZiqwCLcBGAsYHQ/w1200-h630-p-k-no-nu/LOGO-CANAL-30--A-COLOR.png"group-title="CRISTIANO",BETHEL TV
+https://alfa.betheltv.tv/srt/3_abr/srt/3_source/chunks.m3u8?nimblesessionid=11251787
+
+
+
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j3gGwYk/D64575438be2a3a54fdf64d4035ade48.png"group-title="CRISTIANO",PENIEL TV BIBLIA ABIERTA 
