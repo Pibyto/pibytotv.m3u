@@ -73,7 +73,8 @@ https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YRPvqLf/16f8ed90cfdce23eb93131280ab06426-removebg-preview-1.png"group-title="TDA BS.AS",E. ACCION
 https://stmv6.voxtvhd.com.br:443/cineaccion/cineaccion/chunklist_w241460843.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1sRHm3b/Screenshot-20250106-174530-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",MCI TV
+https://video.ejeserver.com/live/mcitelevision.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA BS.AS",MULTIVISION HD
 https://panel.host-live.com:443/825000/825000/chunklist_w641310188.m3u8
