@@ -14,6 +14,23 @@ https://stream.gia.tv/giatvplayout7/giatv-208817/playlist.m3u8
 https://stream.gia.tv/giatvplayout7/giatv-208138/playlist.m3u8
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",STAR CHANNEL
+https://streamer1.nexgen.bz:443/STAR/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20200203001356&path-prefix=es"group-title="TDA BS.AS",MAGAZINE
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOspY0DemQf4NaEMxXnKQQKCpDwOfVCdtnZg&usqp=CAU"group-title="TDA BS.AS",CINE SONY
+https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GkR5VBT/Screenshot-20250101-191200-Chrome-removebg-preview.png"group-title="TDA BS.AS",OCTOPUS TV HD
 
 
@@ -67,12 +84,6 @@ https://ssh101-fl.bozztv.com/ssh101/zoytvfamily/tracks-v1a1/mono.m3u8
 https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20200203001356&path-prefix=es"group-title="TDA BS.AS",MAGAZINE
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOspY0DemQf4NaEMxXnKQQKCpDwOfVCdtnZg&usqp=CAU"group-title="TDA BS.AS",CINE SONY
-https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YRPvqLf/16f8ed90cfdce23eb93131280ab06426-removebg-preview-1.png"group-title="TDA BS.AS",E. ACCION
 https://stmv6.voxtvhd.com.br:443/cineaccion/cineaccion/chunklist_w241460843.m3u8
