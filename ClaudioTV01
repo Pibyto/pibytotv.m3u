@@ -1206,7 +1206,7 @@ https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/378ae498b98efc1486a0bdcbe4b4038c
 https://glb.bozztv.com/glb/ssh101/montegrandetv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tvKLBx/3dgifmaker08619.gif"group-title="CRISTIANO",MONTE GRANDE TV 24/7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b6GMxqD/In-Shot-20250126-180103033-removebg-preview.png"group-title="CRISTIANO",MONTE GRANDE TV WORSHIP 24/7
 https://stream.gia.tv/giatvplayout7/giatv-208138/playlist.m3u8
 
 
@@ -1219,7 +1219,8 @@ https://stream.gia.tv/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SvF8DQC/3dgifmaker23584.gif"group-title="CRISTIANO",PLENITUD TV HD SSH
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/testvideo40/chunks.m3u8
 
 
 
