@@ -5,10 +5,9 @@
 https://xhateaec.com:8800/hls/Klau77/Klau77/85220021490ee6b84f66b12353608b42/index.m3u8
 
 
-https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/378ae498b98efc1486a0bdcbe4b4038c/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QKzjwmk/Untitled-removebg-preview.png"group-title="TDA BS.AS",PLAY TV 24/7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKzjwmk/Untitled-removebg-preview.png"group-title="TDA BS.AS",PLAY TV 
 https://stream.gia.tv/giatvplayout7/giatv-208817/playlist.m3u8
 
 
@@ -18,6 +17,8 @@ https://stream.gia.tv/giatvplayout7/giatv-208138/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/59MN1LZ/Polish-20250113-000951438.jpg"group-title="TDA BS.AS",MONTE GRANDE RADIO
+https://xhateaec.com:8090//channel/Klau77/
 
 
 
@@ -34,8 +35,6 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/59MN1LZ/Polish-20250113-000951438.jpg"group-title="TDA BS.AS",MONTE GRANDE RADIO
-https://xhateaec.com:8090//channel/Klau77/
 
 
 
