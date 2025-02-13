@@ -323,7 +323,7 @@ https://live-05-13-la100.vodgc.net:443/live-05-13-la100/tracks-v1a1/mono.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/panctvargentina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNYSy9z/descarga-removebg-preview.png"group-title="TDA BS.AS", CANAL 34 HD  
-http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
+http://streamyes.alsolnet.co⁹m/canal34hd/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rdFqzB/Screenshot-20241226-094215-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",METRO TV HD  18.1 TUCUMÁN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
@@ -455,6 +455,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="TDT CHILE",REDTV
+https://xhateaec.com:8800/hls/RedTV/RedTV/f6ee7d84b04586f8510d66faef09868f/index.m3u8
+
+
+
 https://xhateaec.com:8800/hls/Klau77/Klau77/e45cba2ee11fc91431e121760344461f/index.m3u8
 
 
