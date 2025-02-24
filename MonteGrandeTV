@@ -40,17 +40,6 @@ https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkR5VBT/Screenshot-20250101-191200-Chrome-removebg-preview.png"group-title="TDA BS.AS",OCTOPUS TV HD
-
-
-
-https://ssh101stream.ssh101.com:443/akamaissh101/ssh101/octopustv/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2cN6Fn9/Screenshot-20250101-192206-Chrome-removebg-preview.png"group-title="TDA BS.AS",WOW MOVIES
 https://stream.gia.tv:443/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 
@@ -63,11 +52,7 @@ https://glb.bozztv.com/glb/ssh101/montegrandetv/index.m3u8
 https://mileniumtv.onstreaming.live/live/7Gec1TzNpAZOdVo8XdOLEEKyPuJ2/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G2mgLzh/Screenshot-20250101-204812-Chrome-removebg-preview.png"group-title="TDA BS.AS",GLOBO TEVE
-https://giatv.bozztv.com:443/giatv/giatv-tevegloboxela/tevegloboxela/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f2xYMF9/Screenshot-20250101-181658-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",BELLAVISION
-https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygCVgQ3/3dgifmaker92305.gif"group-title="TDA BS.AS",PLAY TV
 
@@ -101,26 +86,14 @@ https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YRPvqLf/16f8ed90cfdce23eb93131280ab06426-removebg-preview-1.png"group-title="TDA BS.AS",E. ACCION
 https://stmv6.voxtvhd.com.br:443/cineaccion/cineaccion/chunklist_w241460843.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1sRHm3b/Screenshot-20250106-174530-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",MCI TV
-https://video.ejeserver.com/live/mcitelevision.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA BS.AS",MULTIVISION HD
-https://panel.host-live.com:443/825000/825000/chunklist_w641310188.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/60hLj61/Screenshot-20250101-144030-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",CN53 PELICULAS
-https://ssh101-fl.bozztv.com/ssh101/codificador8/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/phb1xJK/images-1-removebg-preview.png"group-title="TDA BS.AS",TALTAL TV
 https://giatv.bozztv.com:443/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ypr5d99/Screenshot-20250101-183602-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",METRO TV
-https://s.emisoras.tv:8081/metrotv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N9LCypD/Screenshot-20250101-172122-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",CIUDAD MAGICA TV
-https://stmv4.voxtvhd.com.br:443/cdadmagicatv/cdadmagicatv/chunklist_w1687251022.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://canalluz.org/assets/images/canalluz-303x103.png"group-title="TDA BS.AS",CANAL LUZ HD
 https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
@@ -136,7 +109,6 @@ https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yyHXtGG/Screenshot-20241226-095830-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS", TELEFE  34
-http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAucP11GRmZl8BZIQIssUE7RM
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Canal_Siete_Jujuy.png"group-title="TDA BS.AS",7
@@ -150,7 +122,8 @@ https://stream.gia.tv:443/giatvplayout7/giatv-208770/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA BS.AS",EL NUEVE
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81270
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="TDA BS.AS",TELEMUNDO
 https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_720.m3u8
@@ -179,12 +152,10 @@ https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png"group-title="TDA BS.AS",LA NACION+ HD
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/124621
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png"group-title="TDA BS.AS",PAKA PAKA HD   22.2
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81284
-
 
 
 
@@ -194,7 +165,6 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.png"group-title="TDA BS.AS", CRÓNICA TV HD 24.4
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81300
 
 
 #EXTINF:-1 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.png"group-title="TDA BS.AS", CRÓNICA TV HD 24.4 op 2
@@ -206,15 +176,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tvKLBx/3dgifmaker08619.gif"group-title="TDA BS.AS",MONTE GRANDE TV 1
-https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/378ae498b98efc1486a0bdcbe4b4038c/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ygCVgQ3/3dgifmaker92305.gif"group-title="TDA BS.AS",PLAY TV 1
-https://glb.bozztv.com/glb/ssh101/plaaytv/index.m3u8
-
 
 https://fl1002.bozztv.com:443/ssh101/plaaytv/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmPdFc6/2q-Ed-Tbpni-Pos-Vcic3q-RYf9v-Ck-UJ-2q-Ed-Xur-VXia-Uw2cu-EJs-FUQGC0e-G-2q-Ed-YZNNlw-Yh7-S5ls-Mya2v-Zs.png"group-title="TDA BS.AS",9 DE ABRILTV MG
@@ -230,8 +194,6 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygCVgQ3/3dgifmaker92305.gif"group-title="TDA BS.AS",PLAY TV 24/7
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tvKLBx/3dgifmaker08619.gif"group-title="TDA BS.AS",MONTE GRANDE TV 2
-https://glb.bozztv.com/glb/ssh101/montegrandetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLWwdLK/3dgifmaker66066.gif"group-title="TDA BS.AS",COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
@@ -255,9 +217,6 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 https://intelincloud01.com.ar/hls/cn3/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://canal3argentina.tv/wp-content/uploads/2018/11/cropped-logoweb.png"group-title="TDA BS.AS",CANAL 3 
-https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtbzpsN/canal-5-arg.png"group-title="TDA BS.AS",canal 5
 https://stmv4.voxtvhd.com.br:443/canal5pueblo/canal5pueblo/chunklist_w855762317.m3u8
