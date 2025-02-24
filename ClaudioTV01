@@ -275,6 +275,17 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",$T@R
+http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNilxEOxgOs0_V1YnmVm03fFWk
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",7N7
+http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNilya-H6wQICfSJuWqQVoGsb0
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",$P@C€
+http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNil7UkDLk-MUGm3YR0LR62rFY
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20200203001356&path-prefix=es"group-title="TDA BS.AS",MAGAZINE
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
