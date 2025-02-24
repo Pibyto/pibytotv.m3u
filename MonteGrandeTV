@@ -48,7 +48,10 @@ https://stream.gia.tv:443/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 https://glb.bozztv.com/glb/ssh101/montegrandetv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qYXj6ks/a18643c6e33608ceba7a592026d9f941-icon-removebg-preview.png"group-title="TDA BS.AS",MILENIUM TV
+#EXTINF:-1 tvg-logo="https:"group-title="TDA BS.AS",PELIS POPCORN
+POPCORN
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
+
 https://mileniumtv.onstreaming.live/live/7Gec1TzNpAZOdVo8XdOLEEKyPuJ2/index.m3u8
 
 
