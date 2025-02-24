@@ -205,7 +205,6 @@ https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://corrientes.tv/wp-content/uploads/2024/04/Corrientes-TV.webp"group-title="TDA BS.AS",CORRIENTES TV HD
-https://stmvideo6.livecastv.com/canal7/canal7/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://canalluz.org/assets/images/canalluz-303x103.png"group-title="TDA BS.AS",CANAL LUZ HD
@@ -217,7 +216,7 @@ https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 
 
-https://xhateaec.com:8800/hls/Klau77/Klau77/aff52d9c33343e32ac8738f6ee6682e9/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygCVgQ3/3dgifmaker92305.gif"group-title="TDA BS.AS",PLAY TV SSH
 https://fl1002.bozztv.com:443/ssh101/plaaytv/tracks-v1a1/mono.m3u8
@@ -239,14 +238,13 @@ https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yyHXtGG/Screenshot-20241226-095830-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS", TELEFE  34
-http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAucP11GRmZl8BZIQIssUE7RM
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA BS.AS",EL NUEVE
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81270
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4mWFFQX/Screenshot-20241226-092057-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",GENTV HD  17.3
@@ -294,7 +292,7 @@ http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAuc2WowWpGkKC2MZW9V4yi7E
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Canal_8_MDP_%282022%2C_ultimate_logo%29.png/revision/latest/scale-to-width-down/284?cb=20220727153321"group-title="TDA BS.AS",CANAL 8 MDP
-https://stream.arcast.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w1251516020_b1662976_tkd293emF0b2tlbmVuZHRpbWU9MTczNTE3NzgwMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9M2JhTHByek94b0xBS0UyazBtdF8xek1rQUFXRTRMdVpIbmhrclFkQ1dfND0=.m3u8
+
 
 
 
@@ -319,11 +317,10 @@ https://fl1002.bozztv.com:443/ssh101/telemixlive/tracks-v1a1/mono.m3u8
 https://panel.host-live.com:443/8012/8012/chunklist_w1576918054.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/CZJMM4BJVRFANO4VGMMYWSTEVE.png"group-title="TDA BS.AS",LA  100
-https://live-05-13-la100.vodgc.net:443/live-05-13-la100/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA BS.AS",PANC TV HD 15.1 
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/panctvargentina/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNYSy9z/descarga-removebg-preview.png"group-title="TDA BS.AS", CANAL 34 HD  
 http://streamyes.alsolnet.co⁹m/canal34hd/live/playlist.m3u8?PlaylistM3UCL
@@ -374,7 +371,7 @@ https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png"group-title="TDA BS.AS",LA NACION+ HD
-http://galaxypro.online:8080/h9YqB7MG/SXQPwxgRW/124621
+
 
 
 
@@ -398,7 +395,6 @@ http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAuRwDJP0bxpYet8bl8lBbohI
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png"group-title="TDA BS.AS",TN HD
-https://live-01-01-tn.vodgc.net:443/TN24/index_TN24_1080.m3u8
 
 
 
@@ -407,7 +403,6 @@ https://live-01-01-tn.vodgc.net:443/TN24/index_TN24_1080.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png"group-title="TDA BS.AS",PAKA PAKA HD   22.2
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81284
 
 
 
