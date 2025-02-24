@@ -209,7 +209,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 
 #EXTINF:-1 tvg-logo="https://primary.jwwb.nl/public/h/j/f/temp-fyamuijlknxszsquqljq/logo-blu-hd-horizontal-negro-high.png?enable-io=true&enable=upscale&crop=1914%2C378%2Cx3%2Cy0%2Csafe&width=800&height=158"group-title="TDA BS.AS",BLU HD
-https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://corrientes.tv/wp-content/uploads/2024/04/Corrientes-TV.webp"group-title="TDA BS.AS",CORRIENTES TV HD
@@ -222,18 +221,6 @@ https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_a
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="TDA BS.AS",ALTAR TV HD
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ygCVgQ3/3dgifmaker92305.gif"group-title="TDA BS.AS",PLAY TV SSH
-https://fl1002.bozztv.com:443/ssh101/plaaytv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ygCVgQ3/3dgifmaker92305.gif"group-title="TDA BS.AS",PLAY TV XHATEAEC 
-https://xhateaec.com:8800/hls/Klau77/Klau77/62c12e3ab9131b30ab6a2832a57c693e/index.m3u8
-
-
-https://live.xhateaec.com/livestreams/41.mhxM1FqjJiSkb5e1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7d9FT0/images-removebg-preview.png"group-title="TDA BS.AS",CINE DIOS
@@ -293,9 +280,6 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
 
-http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAuc2WowWpGkKC2MZW9V4yi7E
-
-
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
 
 
@@ -337,8 +321,6 @@ http://streamyes.alsolnet.co⁹m/canal34hd/live/playlist.m3u8?PlaylistM3UCL
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png?w=276"group-title="TDA BS.AS",SOLIDARIA TV HD
@@ -351,15 +333,6 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.svg/revision/latest/scale-to-width-down/284?cb=20210102135802&path-prefix=es"group-title="TDA BS.AS",TV PUBLICA   23.2
 https://g2.proy-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
-
-
-
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81265
-
-
-
-
-
 
 
 
