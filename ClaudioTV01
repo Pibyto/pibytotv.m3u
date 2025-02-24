@@ -1324,7 +1324,9 @@ https://vsrv2.az-streamingserver.com:3352/live/clarovisiontvradiolive.m3u8?ads.c
 https://rpn3.bozztv.com:443/ssh101/ssh101/tiempofinaltv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1200px-Claro_TV_wordmark.svg.png"group-title="CRISTIANO",JTV TV HD GUATEMALA
-https://xhateaec.com:8800/hls/visitor/visitor/57328eda266dcd70fd321815a6813ac1/index.m3u8
+https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/16120098232604ecb88c12c3ce50d0e9/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/1200px-Claro_TV_wordmark.svg.png"group-title="CRISTIANO",JTA TV HD. MENDOZA
 https://streaming.jtamendoza.com/hls/test.m3u8
