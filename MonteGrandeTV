@@ -47,6 +47,9 @@ https://stream.gia.tv:443/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tvKLBx/3dgifmaker08619.gif"group-title="TDA BS.AS",MONTE GRANDE TV SSH
 https://glb.bozztv.com/glb/ssh101/montegrandetv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yB4ptnKZ/Screenshot-20250224-145743-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",MULTIVISIÓN 
+https://fl1002.bozztv.com/ssh101/canalmulti24/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jWLjWRT/Screenshot-20250224-143627-Web-Video-Caster.jpg"group-title="TDA BS.AS",PELIS POPCORN
 POPCORN
