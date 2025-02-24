@@ -280,7 +280,47 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",HBO 40P
+http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNilxJUpO2utyJeNa1oS6UysNU
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",A&3
+http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNilzG39IDHqPjoXDuhLoLzzZU
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS"@MC
+http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNil9GnJooTWImzTxi3qX1kjlE
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",@XN
+http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNilwoh2N6peRjsAXVsAsjHrqQ
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",€1N€C@N@L
+http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNilxD4EJpmgExPu2DsW5RsxaU
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",C1N€₩AX
+http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNil3nPaIkr1brGbhJI24SEEG4
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",H80
+http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNil4T-S6PpHzCZn2czDAuKVAM
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",H80 PLAS
+http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNil4M6XfNSGG2JriA1JKNctx4
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",H80 ||
+http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNil06wv3G7wNmVBmK0ezVavL4
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",G01D€N
+http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNil7Se_TBZptDAqqs3Erow7DA
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",FX
+http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNil4nm9nMvghSIwjFM4gFGOGM
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Canal_8_MDP_%282022%2C_ultimate_logo%29.png/revision/latest/scale-to-width-down/284?cb=20220727153321"group-title="TDA BS.AS",CANAL 8 MDP
