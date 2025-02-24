@@ -199,6 +199,9 @@ https://stream.gia.tv:443/giatvplayout7/giatv-208730/tracks-v1a1/mono.ts.m3u8
 https://stream.gia.tv:443/giatvplayout7/giatv-208744/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yB4ptnKZ/Screenshot-20250224-145743-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",MULTIVISIÓN 
+https://fl1002.bozztv.com/ssh101/canalmulti24/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://primary.jwwb.nl/public/h/j/f/temp-fyamuijlknxszsquqljq/logo-blu-hd-horizontal-negro-high.png?enable-io=true&enable=upscale&crop=1914%2C378%2Cx3%2Cy0%2Csafe&width=800&height=158"group-title="TDA BS.AS",BLU HD
 https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
