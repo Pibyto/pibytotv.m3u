@@ -2,23 +2,13 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzSdCS5Z/ezgif-com-effects.png"group-title="TDA BS.AS",YESHÙA TV - EL 🕊 ESPIRITU Y LA NOVIA DICEN VEN 
-https://stream.gia.tv/giatvplayout7/giatv-209163/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9wvLNrg/2r-Bs-Skv-IGMpj-DKk-H5-O1y-Nv-AIaf-F-2r-Bsbz-Rpn2a-KGv-I32-Dot-O10-Lsv-V-2r-Bscftp-AXm-It-HOVGJa-MG1.png"group-title="TDA BS.AS",MONTE GRANDE TV HD CANAL 12
 https://stream.gia.tv/giatvplayout7/giatv-209181/playlist.m3u8
 
 
-https://stream.gia.tv:443/giatvplayout7/giatv-209181/tracks-v1a1/mono.ts.m3u8
-
-
-
- XHATEAEC
-https://xhateaec.com:8800/hls/Klau77/Klau77/85220021490ee6b84f66b12353608b42/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzSdCS5Z/ezgif-com-effects.png"group-title="TDA BS.AS",YESHÙA TV - EL 🕊 ESPIRITU Y LA NOVIA DICEN VEN 
+https://stream.gia.tv/giatvplayout7/giatv-209163/playlist.m3u8
 
 
 
@@ -32,7 +22,6 @@ https://stream.gia.tv:443/giatvplayout7/giatv-208138/tracks-v1a1/mono.ts.m3u8
 
 
 
-https://stream.gia.tv/giatvplayout7/giatv-208138/playlist.m3u8
 
 
 
@@ -63,8 +52,7 @@ https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
 https://stream.gia.tv:443/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tvKLBx/3dgifmaker08619.gif"group-title="TDA BS.AS",MONTE GRANDE TV SSH
-https://glb.bozztv.com/glb/ssh101/montegrandetv/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yB4ptnKZ/Screenshot-20250224-145743-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",MULTIVISIÓN 
 https://fl1002.bozztv.com/ssh101/canalmulti24/index.m3u8
@@ -74,19 +62,6 @@ https://fl1002.bozztv.com/ssh101/canalmulti24/index.m3u8
 POPCORN
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
 
-https://mileniumtv.onstreaming.live/live/7Gec1TzNpAZOdVo8XdOLEEKyPuJ2/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ygCVgQ3/3dgifmaker92305.gif"group-title="TDA BS.AS",PLAY TV
-
-
-
-https://xhateaec.com:8800/hls/Klau77/Klau77/62c12e3ab9131b30ab6a2832a57c693e/index.m3u8
-
-
-https://fl1004.bozztv.com:443/ssh101/plaaytv/tracks-v1a1/mono.m3u8
 
 
 
@@ -100,8 +75,6 @@ https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drPPYJg/images-removebg-preview.png"group-title="TDA BS.AS",TELEMIX HD
 https://fl1002.bozztv.com:443/ssh101/telemixlive/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_family.png"group-title="TDA BS.AS",FMH FAMILY
-https://ssh101-fl.bozztv.com/ssh101/zoytvfamily/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://primary.jwwb.nl/public/h/j/f/temp-fyamuijlknxszsquqljq/logo-blu-hd-horizontal-negro-high.png?enable-io=true&enable=upscale&crop=1914%2C378%2Cx3%2Cy0%2Csafe&width=800&height=158"group-title="TDA BS.AS",BLU HD
 https://vivo.solumedia.com:19360/blumedios/blumedios.m3u8
@@ -201,11 +174,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
-
-https://fl1002.bozztv.com:443/ssh101/plaaytv/tracks-v1a1/mono.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmPdFc6/2q-Ed-Tbpni-Pos-Vcic3q-RYf9v-Ck-UJ-2q-Ed-Xur-VXia-Uw2cu-EJs-FUQGC0e-G-2q-Ed-YZNNlw-Yh7-S5ls-Mya2v-Zs.png"group-title="TDA BS.AS",9 DE ABRILTV MG
 https://stream.gia.tv:443/giatvplayout7/giatv-208730/tracks-v1a1/mono.ts.m3u8
 
@@ -214,10 +182,6 @@ http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rdFqzB/Screenshot-20241226-094215-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",METRO TV HD  18.1 TUCUMÁN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ygCVgQ3/3dgifmaker92305.gif"group-title="TDA BS.AS",PLAY TV 24/7
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLWwdLK/3dgifmaker66066.gif"group-title="TDA BS.AS",COSMOS TV HD
