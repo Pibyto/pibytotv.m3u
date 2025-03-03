@@ -193,7 +193,8 @@ https://dsr.ride.com.ar/tvmia/c07/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",7N7 $P04T$
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png"group-title="TDA BS.AS",UNIMAS
+http://vocotv.pro:80/bruce111/bruce111/3175
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QKzjwmk/Untitled-removebg-preview.png"group-title="TDA BS.AS",PLAY TV MONTE GRANDE 
@@ -311,12 +312,18 @@ http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNil7UkDLk-MUGm3YR0LR62rFY
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",HBO 40P
-http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNilxJUpO2utyJeNa1oS6UysNU
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",HBO 
+http://vocotv.pro:80/bruce111/bruce111/3157
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",A&3
-http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNilzG39IDHqPjoXDuhLoLzzZU
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",ANTENA3
+http://vocotv.pro:80/bruce111/bruce111/3254
+
+
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",@MC
@@ -331,7 +338,10 @@ http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNilxD4EJpmgExPu2DsW5RsxaU
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",C1N€₩AX
-http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNil3nPaIkr1brGbhJI24SEEG4
+http://vocotv.pro:80/bruce111/bruce111/3160
+
+
+
 
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",H80
 http://sdmx.vip:80/play/Z3alWP0td7cQZyKTBXNil4T-S6PpHzCZn2czDAuKVAM
