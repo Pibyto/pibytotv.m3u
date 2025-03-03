@@ -299,7 +299,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3YLnTSm/Screenshot-20250302-214108-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS", +CINE CLASS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3YLnTSm/Screenshot-20250302-214108-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",CINE CLASS
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
 
 
