@@ -251,6 +251,9 @@ https://canal.mediaserver.com.co/live/cinedios.m3u8
 https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/ElTreceInternacional2017.png/revision/latest?cb=20171001002322"group-title="TDA BS.AS",EL TRECE INTERNACIONAL
+http://vocotv.pro:80/bruce111/bruce111/3227
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yyHXtGG/Screenshot-20241226-095830-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS", TELEFE INTERNACIONAL
 http://vocotv.pro:80/bruce111/bruce111/3191
