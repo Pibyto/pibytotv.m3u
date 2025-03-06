@@ -228,6 +228,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 
 #EXTINF:-1 tvg-logo="https://corrientes.tv/wp-content/uploads/2024/04/Corrientes-TV.webp"group-title="TDA BS.AS",CORRIENTES TV HD
+https://vivo.solumedia.com:19360/telemedia/telemedia.m3u
 
 
 #EXTINF:-1 tvg-logo="https://canalluz.org/assets/images/canalluz-303x103.png"group-title="TDA BS.AS",CANAL LUZ HD
