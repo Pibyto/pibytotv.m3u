@@ -307,12 +307,16 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfMfQ9Jx/Screenshot-20250310-221554-XPlayer-Video-Player-removebg-preview-1.png"group-title="TDA BS.AS"BUM TV
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20200203001356&path-prefix=es"group-title="TDA BS.AS",MAGAZINE
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8LJJwFVZ/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.png"group-title="TDA BS.AS"BRAVO TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8LJJwFVZ/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.png"group-title="TDA BS.AS",BRAVO TV
 https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8
 
 
@@ -321,7 +325,8 @@ https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",ANTENA3
+
+
 http://vocotv.pro:80/bruce111/bruce111/3254
 
 
