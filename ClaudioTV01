@@ -307,7 +307,7 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfMfQ9Jx/Screenshot-20250310-221554-XPlayer-Video-Player-removebg-preview-1.png"group-title="TDA BS.AS"BUM TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfMfQ9Jx/Screenshot-20250310-221554-XPlayer-Video-Player-removebg-preview-1.png"group-title="TDA BS.AS",BUM TV
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
 
@@ -333,7 +333,7 @@ http://vocotv.pro:80/bruce111/bruce111/3254
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qLYM8B9y/Screenshot-20250310-213401-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS", 10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qLYM8B9y/Screenshot-20250310-213401-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",10
 https://ssh101-fl.bozztv.com:443/ssh101/tv10costarica/tracks-v1a1/mono.ts.m3u8
 
 
@@ -401,8 +401,11 @@ https://panel.host-live.com:443/8012/8012/chunklist_w1576918054.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA BS.AS",PANC TV HD 15.1 
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/panctvargentina/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA BS.AS",PANC TV HD 15.1
+https://panel.host-live.com:19360/20004/20004.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNYSy9z/descarga-removebg-preview.png"group-title="TDA BS.AS", CANAL 34 HD  
