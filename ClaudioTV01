@@ -333,7 +333,10 @@ http://vocotv.pro:80/bruce111/bruce111/3254
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",HBO LATINO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qLYM8B9y/Screenshot-20250310-213401-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS", 10
+https://ssh101-fl.bozztv.com:443/ssh101/tv10costarica/tracks-v1a1/mono.ts.m3u8
+
+
 http://vocotv.pro:80/bruce111/bruce111/3158
 
 
