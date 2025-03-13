@@ -1,4 +1,4 @@
-
+8
 
 
 
@@ -341,8 +341,12 @@ http://vocotv.pro:80/bruce111/bruce111/3158
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",HITN
-http://vocotv.pro:80/bruce111/bruce111/636619
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CANAL 2 MUNDO TV
+https://stream.gia.tv:443/giatv/giatv-mystreamtetv/mystreamtetv/chunks.m3u8
+
+
+
+
 
 
 
