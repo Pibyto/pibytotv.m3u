@@ -521,6 +521,15 @@ https://stream.gia.tv/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/testvideo40/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0RW7vLm8/IMG-20250330-WA0067.jpg"group-title="TDT CHILE",PLENITUD TV JUVENIL HD
+https://stream.gia.tv/giatvplayout7/giatv-209259/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png"group-title="TDT CHILE",TVN
 http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAuYbFKEW7eplR40akTvOSLK4
 
@@ -1273,6 +1282,8 @@ https://stream.gia.tv/giatvplayout7/giatv-208138/playlist.m3u8
 https://stream.gia.tv/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0RW7vLm8/IMG-20250330-WA0067.jpg"group-title="CRISTIANO",PLENITUD TV JUVENIL 
+https://stream.gia.tv/giatvplayout7/giatv-209259/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SvF8DQC/3dgifmaker23584.gif"group-title="CRISTIANO",PLENITUD TV HD SSH
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/testvideo40/chunks.m3u8
