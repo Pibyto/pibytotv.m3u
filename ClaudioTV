@@ -1,9 +1,9 @@
 DavidTV
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8L79pbv0/Photoroom-20250510-195832.png"group-title="TDA BS.AS",LA RADIO DE LA BENDICION MG RADIO
+https://xhateaec.com:8800/hls/Klau77/Klau77/85220021490ee6b84f66b12353608b42/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GnBxx1c/3dgifmaker20872.gif"group-title="TDA BS.AS",MONTE GRANDE TV
-https://glb.bozztv.com/glb/ssh101/montegrandetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GnBxx1c/3dgifmaker20872.gif"group-title="TDA BS.AS",MONTE GRANDE TV 24/7
 https://giatv.bozztv.com/giatvplayout/giatv-208138/tracks-v1a1/mono.m3u8
