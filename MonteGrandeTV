@@ -30,14 +30,10 @@ https://stream.gia.tv:443/giatvplayout7/giatv-208138/tracks-v1a1/mono.ts.m3u8
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/59MN1LZ/Polish-20250113-000951438.jpg"group-title="TDA BS.AS",MONTE GRANDE RADIO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8L79pbv0/Photoroom-20250510-195832.png"group-title="TDA BS.AS",LA RADIO DE LA BENDICION MG RADIO
 https://xhateaec.com:8800/hls/Klau77/Klau77/85220021490ee6b84f66b12353608b42/index.m3u8
 
 
-https://xhateaec.com:8090//channel/Klau77/
 
 
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=h:99,cg:true,m/qt=q:100/ll"group-title="TDA BS.AS",EXTREMA TV HD
