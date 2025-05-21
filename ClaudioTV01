@@ -167,17 +167,20 @@ https://micanal.ovh/livestreams/127.QAX0OUHEMVST.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9wvLNrg/2r-Bs-Skv-IGMpj-DKk-H5-O1y-Nv-AIaf-F-2r-Bsbz-Rpn2a-KGv-I32-Dot-O10-Lsv-V-2r-Bscftp-AXm-It-HOVGJa-MG1.png"group-title="TDA BS.AS",MONTE GRANDE TV HD CANAL 12
-https://stream.gia.tv/giatvplayout7/giatv-209181/playlist.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209181/tracks-v1a1/mono.ts.m3u8
+
+
+
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g5rR3pm/In-Shot-20250201-183741695-removebg-preview.png"group-title="TDA BS.AS",MGTV WORSHIP PRAISE
-https://stream.gia.tv:443/giatvplayout7/giatv-208138/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDZR48TN/Photoroom-20250322-185831.png"group-title="TDA BS.AS",YESHÙA TV - EL 🕊 ESPIRITU Y LA NOVIA DICEN VEN
+https://live20.bozztv.com/giatvplayout7/giatv-209163/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TDZR48TN/Photoroom-20250322-185831.png"group-title="TDA BS.AS",YESHÙA TV - EL 🕊 ESPIRITU Y LA NOVIA DICEN VEN 
-https://stream.gia.tv/giatvplayout7/giatv-209163/playlist.m3u8
 
 
 
@@ -195,8 +198,10 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w30918240
 http://vocotv.pro:80/bruce111/bruce111/3175
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QKzjwmk/Untitled-removebg-preview.png"group-title="TDA BS.AS",PLAY TV MONTE GRANDE 
-https://stream.gia.tv/giatvplayout7/giatv-208817/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKzjwmk/Untitled-removebg-preview.png"group-title="TDA BS.AS",PLAY TV MONTE GRANDE
+https://live20.bozztv.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
+
+
 
 
 
@@ -283,8 +288,11 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/be08dcc3-df96-4c40-8eef-488bc5eb4fe5/images/logo?keep=w&resize=350x350"group-title="TDA BS.AS",DITI TV
-https://ssh101-fl.bozztv.com/ssh101/dititv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/be08dcc3-df96-4c40-8eef-488bc5eb4fe5/images/logo?keep=w&resize=350x350"group-title="TDA BS.AS",DIGI TV
+https://live20.bozztv.com/giatv/giatv-digitv/digitv/chunks.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tPwvdjB/images-removebg-preview.png"group-title="TDA BS.AS",BAYRES TV HD
@@ -304,7 +312,10 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q3YLnTSm/Screenshot-20250302-214108-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",CINE CLASS
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
+https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfMfQ9Jx/Screenshot-20250310-221554-XPlayer-Video-Player-removebg-preview-1.png"group-title="TDA BS.AS",BUM TV
@@ -316,8 +327,9 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8LJJwFVZ/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.png"group-title="TDA BS.AS",BRAVO TV
-https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8LJJwFVZ/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.png"group-title="TDA BS.AS",WOW MOVIES
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+
 
 
 
@@ -334,15 +346,20 @@ http://vocotv.pro:80/bruce111/bruce111/3254
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLYM8B9y/Screenshot-20250310-213401-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",10
-https://ssh101-fl.bozztv.com:443/ssh101/tv10costarica/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
+
+
+
 
 
 http://vocotv.pro:80/bruce111/bruce111/3158
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CANAL 2 MUNDO TV
-https://stream.gia.tv:443/giatv/giatv-mystreamtetv/mystreamtetv/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",ZOY TV
+https://live20.bozztv.com/giatv/giatv-zoypremium/zoypremium/chunks.m3u8
+
+
 
 
 
@@ -366,7 +383,9 @@ https://videohd.live:19360/8016/8016.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drPPYJg/images-removebg-preview.png"group-title="TDA BS.AS",TELEMIX HD
-https://fl1002.bozztv.com:443/ssh101/telemixlive/tracks-v1a1/mono.m3u8
+https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/chunks.m3u8
+
+
 
 
 
