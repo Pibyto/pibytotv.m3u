@@ -508,19 +508,28 @@ https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="TDT CHILE",REDTV HD 24/7
-https://stream.gia.tv/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SvF8DQC/3dgifmaker23584.gif"group-title="TDT CHILE",PLENITUD TV HD 24/7
 https://stream.gia.tv/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SvF8DQC/3dgifmaker23584.gif"group-title="TDT CHILE",PLENITUD TV HD SSH
+https://live20.bozztv.com/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8
+
+
+
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/testvideo40/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0RW7vLm8/IMG-20250330-WA0067.jpg"group-title="TDT CHILE",PLENITUD TV JUVENIL HD
+https://live20.bozztv.com/giatvplayout7/giatv-209259/tracks-v1a1/mono.ts.m3u8
+
+
 https://stream.gia.tv/giatvplayout7/giatv-209259/tracks-v1a1/mono.ts.m3u8
 
 
