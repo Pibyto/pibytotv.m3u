@@ -170,7 +170,7 @@ https://micanal.ovh/livestreams/127.QAX0OUHEMVST.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209181/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RsXQZZD/Photoroom-20250503-193657.png"group-title="TDA BS.AS",MONTE GRANDE TV  LIVE SSH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RsXQZZD/Photoroom-20250503-193657.png"group-title="TDA BS.AS",MG TV  LIVE SSH
 https://live20.bozztv.com/akamaissh101/ssh101/mgtvlive/playlist.m3u8
 
 
@@ -1299,8 +1299,13 @@ https://stream.gia.tv/giatvplayout7/giatv-209181/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9wvLNrg/2r-Bs-Skv-IGMpj-DKk-H5-O1y-Nv-AIaf-F-2r-Bsbz-Rpn2a-KGv-I32-Dot-O10-Lsv-V-2r-Bscftp-AXm-It-HOVGJa-MG1.png"group-title="CRISTIANO",MONTE GRANDE TV SSH
-https://glb.bozztv.com/glb/ssh101/montegrandetv/index.m3u8
+#EXTINF:-1 tvg&-logo="https://i.ibb.co/6RsXQZZD/Photoroom-20250503-193657.png"group-title="CRISTIANO",MONTE GRANDE TV SSH
+https://live20.bozztv.com/akamaissh101/ssh101/mgtvlive/playlist.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g5rR3pm/In-Shot-20250201-183741695-removebg-preview.png"group-title="CRISTIANO",MONTE GRANDE TV WORSHIP PRAISE
