@@ -162,7 +162,7 @@ https://stream.ads.ottera.tv/cl/230310cg579ttrci3ord88tssg/1280x720_2054676_0_f.
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9wvLNrg/2r-Bs-Skv-IGMpj-DKk-H5-O1y-Nv-AIaf-F-2r-Bsbz-Rpn2a-KGv-I32-Dot-O10-Lsv-V-2r-Bscftp-AXm-It-HOVGJa-MG1.png"group-title="TDA BS.AS",MONTE GRANDE TV  LIVE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RsXQZZD/Photoroom-20250503-193657.png"group-title="TDA BS.AS",MONTE GRANDE TV  LIVE
 https://micanal.ovh/livestreams/127.QAX0OUHEMVST.m3u8
 
 
@@ -170,8 +170,8 @@ https://micanal.ovh/livestreams/127.QAX0OUHEMVST.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209181/tracks-v1a1/mono.ts.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RsXQZZD/Photoroom-20250503-193657.png"group-title="TDA BS.AS",MONTE GRANDE TV  LIVE
+https://live20.bozztv.com/akamaissh101/ssh101/mgtvlive/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g5rR3pm/In-Shot-20250201-183741695-removebg-preview.png"group-title="TDA BS.AS",MGTV WORSHIP PRAISE
