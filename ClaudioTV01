@@ -1,4 +1,4 @@
-8
+
 
 
 
@@ -160,6 +160,8 @@ https://stream.ads.ottera.tv/cl/230310cg579ttrci3ord88tssg/1280x720_2054676_0_f.
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9BYNp91/Photoroom-20250525-154813.png"group-title="TDA BS.AS",PLAY TV MONTE GRANDE
+https://live20.bozztv.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RsXQZZD/Photoroom-20250503-193657.png"group-title="TDA BS.AS",MONTE GRANDE TV  LIVE
@@ -206,8 +208,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w30918240
 http://vocotv.pro:80/bruce111/bruce111/3175
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QKzjwmk/Untitled-removebg-preview.png"group-title="TDA BS.AS",PLAY TV MONTE GRANDE
-https://live20.bozztv.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
+
 
 
 
