@@ -59,7 +59,7 @@ https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="MOVIE",SEÑALES DEL FUTURO
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oucNCb4xUk0gii5BfFnVatxiRTN.jpg"group-title="MOVIE",SEÑALES DEL FUTURO
 https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/00004_Se__ales_del_futuro__2009____PELISPEDIA.mp4/chunk.m3u8
 
 
@@ -261,7 +261,6 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w30918240
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png"group-title="TDA BS.AS",UNIMAS
-http://vocotv.pro:80/bruce111/bruce111/3175
 
 
 
@@ -290,7 +289,6 @@ https://live20.bozztv.com:443/giatvplayout7/giatv-208744/tracks-v1a1/mono.ts.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yB4ptnKZ/Screenshot-20250224-145743-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",MULTIVISIÓN 
-https://fl1002.bozztv.com/ssh101/canalmulti24/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jWLjWRT/Screenshot-20250224-143627-Web-Video-Caster.jpg"group-title="TDA BS.AS",PELIS POPCORN
