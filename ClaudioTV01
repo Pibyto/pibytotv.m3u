@@ -317,7 +317,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209909/tracks-v1a1/mono.ts.m3u8
 
 
 
-https://xhateaec.com:8800/hls/Klau77/Klau77/85220021490ee6b84f66b12353608b42/index.m3u8
+
 
 
 
@@ -326,7 +326,33 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w30918240
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png"group-title="TDA BS.AS",UNIMAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYQ6QnPK/Photoroom-20250604-000131.png"group-title="TDA BS.AS",CN53 PELICULAS
+https://live20.bozztv.com/akamaissh101/ssh101/codificador8/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gpjdmFd/Photoroom-20250603-235759.png"group-title="TDA BS.AS",RETROPLUS 3
+https://live20.bozztv.com/akamaissh101/ssh101/retroplustv03/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",UVA TV
+https://live20.bozztv.com/akamaissh101/ssh101/tvhduva/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",XIOMOZ
+https://stream.900444.xyz/live/peliskids.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymrj5XL/Photoroom-20250604-002012.png"group-title="TDA BS.AS",EL MAGO TV
+https://live20.bozztv.com/akamaissh101/ssh101/elmagotv2/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
+
+
+
 
 
 
