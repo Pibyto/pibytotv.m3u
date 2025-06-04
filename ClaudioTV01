@@ -349,8 +349,13 @@ https://stream.900444.xyz/live/peliskids.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/elmagotv2/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TV1tcZZ/Photoroom-20250604-004727.png"group-title="TDA BS.AS",CANAL 50
+https://live20.bozztv.com/akamaissh101/ssh101/9101/chunks.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nq3jbPc1/Photoroom-20250604-004501.png"group-title="TDA BS.AS",DIOS TV
+https://live20.bozztv.com/akamaissh101/ssh101/unciontv/chunks.m3u8
 
 
 
