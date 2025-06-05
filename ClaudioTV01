@@ -3,6 +3,35 @@
 
 
 
+
+
+
+
+############( SPORTS )#########( SPORTS )#########################################################################
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports", beIN Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.debate.com.mx/__export/1745792684756/sites/debate/img/2025/04/27/estragos_en_netflix.jpg_517129353.jpg"group-title="MOVIE",ESTRAGOS (2025)
 https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/Estragos__2025____PELISPEDIA_12.mp4/chunk.m3u8
 
