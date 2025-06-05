@@ -19,15 +19,16 @@
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports",TNT Sports 2
+http://7pal.short.gy/tntspts2
 
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports",TNT SPORTS 3
+http://7pal.short.gy/tntspts3
 
 
-
-
-
-
-
+#EXTINF:-1 tvg-id=" " tvg-logo="https://github.com/murphieslaw23/channel-logos/blob/master/be_in_mena_sports_01_hd.png?raw=true" group-title="Sports",TNT Sports 4
+http://7pal.short.gy/tntspts4
 
 
 
