@@ -275,21 +275,32 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f_CEtKzWkAEwHaM9HOwwBgmCYWta2Xmwn1ItUOaCbMcTbmytjpjgJ-kOYPyoknVCIUs&usqp=CAU"group-title="MOVIE",CORAZ0N DELAT0R
-https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208730/Corazn_delator2025____PELISPEDIA.mp4/chunk.m3u8
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208730/Coraz__n_delator__2025____PELISPEDIA.mp4/chunk.m3u8
+
+
+
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrSRKZWuYmVzuvtQdcYIkig7rnEn8USeXe1gLYn_mw-uVzmc-Ihnqdysc1yRCy4haVfhY&usqp=CAU"group-title="MOVIE",BALLERINA
-https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208730/Ballerinadel_universo_de_John_Wick2025____PELI.mp4/chunk.m3u8
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208730/Ballerina__del_universo_de_John_Wick__2025____PELI.mp4/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgkSNpxpYxLB6W9bgFHo5q-8Wu-DP903kvwMe-7k2rW0LkbSTpFs-lD1C9c0eqt5IZMU&usqp=CAU"group-title="MOVIE",DIRTY ANGELS
-https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208730/Dirty_Angels2024PELISPEDIA2_.mp4/chunk.m3u8
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208730/Dirty_Angels__2024____PELISPEDIA__2_.mp4/chunk.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqvRBuHBwpXluRXmpCvQzx0GiHxrKC6IGrpcBn4IF9BUjODpsKTYGh7CJM5Kh2fKRnz0c&usqp=CAU"group-title="MOVIE",ATTRAACTION
-https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208730/Attraction_La_Guerra_ha_Comenzado2017__PELISPE.mp4/chunk.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqvRBuHBwpXluRXmpCvQzx0GiHxrKC6IGrpcBn4IF9BUjODpsKTYGh7CJM5Kh2fKRnz0c&usqp=CAU"group-title="MOVIE",ATTRACTION
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208730/Attraction_La_Guerra_ha_Comenzado__2017____PELISPE.mp4/chunk.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/tropa_de_elite-710060008-large.jpg"group-title="MOVIE",TROPA DE ELITE
@@ -298,7 +309,8 @@ https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208538/Tro
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="MOVIE",
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",FREAKY tales
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208730/Freaky_Tales__2024____PELISPEDIA.mp4/playlist.m3u8
 
 
 
@@ -328,7 +340,8 @@ https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/M0Zx2JHfD-I/sddefault.jpg"group-title="MOVIE",MIDWAY
-https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208730/Midway_Batalla_en_el_Pacifico2019__PELISPEDIA.mp4/chunk.m3u8
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208730/Midway_Batalla_en_el_Pacifico__2019____PELISPEDIA.mp4/playlist.m3u8
+
 
 
 
@@ -339,13 +352,20 @@ https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208730
 
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/c3/26/8b/c3268bcf0e737409afe4ed9c77d373f5.jpg"group-title="MOVIE",HASTA EL ULTIMO HOMBRE
-https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208730/Hasta_el_ltimo_hombre2016____PELISPEDIA.mp4/chunk.m3u8
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208730/Hasta_el___ltimo_hombre__2016____PELISPEDIA.mp4/playlist.m3u8
+
+
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_madre-955370936-mmed.jpg"group-title="MOVIE",LA MADRE
-https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208730/La_madre__2023_.mp4/chunk.m3u8
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208730/La_madre__2023_.mp4/playlist.m3u8
+
+
+
+
 
 
 
