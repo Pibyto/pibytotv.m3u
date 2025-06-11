@@ -1,5 +1,3 @@
-
-
 #EXTM3U
 
 
@@ -213,7 +211,28 @@ https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208817/000
 https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/0010_DIA_CERO_1X6__PLAY_TV_.mp4/chunk.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/11/07/12/06/283647.png"group-title="MOVIE",PENNY DREADFUL 1X1
+https://videos.gia.tv/giatv/movies/playlist/208770/Penny_Dreadful__2014__1x1.mp4
 
+
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/11/07/12/06/283647.png"group-title="MOVIE",PENNY DREADFUL 1X2
+https://videos.gia.tv/giatv/movies/playlist/208770/Penny_Dreadful__2014__1x2.mp4
+
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/11/07/12/06/283647.png"group-title="MOVIE",PENNY DREADFUL 1X3
+https://videos.gia.tv/giatv/movies/playlist/208770/Penny_Dreadful__2014__1x3.mp4
+
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",#EXTINF:-1 tvg-logo=""group-title="MOVIE",
 
 
 
