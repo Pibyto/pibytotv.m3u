@@ -746,7 +746,12 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8LJJwFVZ/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.png"group-title="TDA BS.AS",WOW MOVIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8LJJwFVZ/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.png"group-title="TDA BS.AS",BRAVO TV
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+
+
+
+WOW MOVIES
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 
 
@@ -835,7 +840,12 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/800px-Net_TV_logo.png"group-title="TDA BS.AS", NET TV HD  27.2
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8?nimblesessionid=25406526
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png"group-title="TDA BS.AS",TN HD
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.svg/revision/latest/scale-to-width-down/284?cb=20210102135802&path-prefix=es"group-title="TDA BS.AS",TV PUBLICA   23.2
@@ -882,7 +892,6 @@ http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81300
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png"group-title="TDA BS.AS",TN HD
 
 
 
