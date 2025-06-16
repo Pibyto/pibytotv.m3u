@@ -586,6 +586,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/retroplustv03/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",UVA TV
 https://live20.bozztv.com/akamaissh101/ssh101/tvhduva/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA BS.AS",TELECREATIVA HD
+https://panel.host-live.com:19360/8012/8012.m3u8
 
 
 
@@ -678,6 +680,8 @@ https://telefeviacom1.akamaized.net:443/hls/live/2037987/viacomINT/TOK/master-wi
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Canal_8_MDP_%282022%2C_ultimate_logo%29.png/revision/latest/scale-to-width-down/284?cb=20220727153321"group-title="TDA BS.AS",CANAL 8 MDP
+https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?wowzatokenendtime=1750046040&wowzatokenstarttime=0&wowzatokenhash=CJKSlV13rY6C8c7aDcU7izGUcsO1hRDrCL0M_rXtd58=
 
 
 
@@ -797,7 +801,6 @@ https://live20.bozztv.com/giatv/giatv-zoypremium/zoypremium/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Canal_8_MDP_%282022%2C_ultimate_logo%29.png/revision/latest/scale-to-width-down/284?cb=20220727153321"group-title="TDA BS.AS",CANAL 8 MDP
 
 
 
@@ -813,8 +816,7 @@ https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA BS.AS",TELECREATIVA HD
-https://panel.host-live.com:443/8012/8012/chunklist_w1576918054.m3u8
+
 
 
 
