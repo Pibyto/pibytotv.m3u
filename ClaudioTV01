@@ -651,7 +651,9 @@ https://micanal.ovh/livestreams/154.IRG4SVDYHEK3.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://corrientes.tv/wp-content/uploads/2024/04/Corrientes-TV.webp"group-title="TDA BS.AS",CORRIENTES TV HD
-https://vivo.solumedia.com:19360/telemedia/telemedia.m3u
+https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://canalluz.org/assets/images/canalluz-303x103.png"group-title="TDA BS.AS",CANAL LUZ HD
@@ -827,8 +829,10 @@ https://panel.host-live.com:19360/20004/20004.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNYSy9z/descarga-removebg-preview.png"group-title="TDA BS.AS", CANAL 34 HD  
-http://streamyes.alsolnet.co⁹m/canal34hd/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNYSy9z/descarga-removebg-preview.png"group-title="TDA BS.AS", CANAL 34 HD
+https://streamyes.alsolnet.com:443/canal34hd/live/chunklist_w1539060189.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8rdFqzB/Screenshot-20241226-094215-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",METRO TV HD  18.1 TUCUMÁN
@@ -1462,8 +1466,10 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
 https://vd01.streaminghd.net.ar:3451/stream/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mkmWCDH4gcY/hqdefault.jpg"group-title="TDA INTERIOR", CANAL 34 HD  
-http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mkmWCDH4gcY/hqdefault.jpg"group-title="TDA INTERIOR", CANAL 34 HD
+https://streamyes.alsolnet.com:443/canal34hd/live/chunklist_w1539060189.m3u8
+ 
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoHe22ed54oXzP0pacCpqAg5ju3Qkz8cmXTHbbx6E&s"group-title="TDA INTERIOR",BLU HD SAN JUAN
@@ -1565,7 +1571,10 @@ http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-Nueve-Norte-Misionero-en-vivo-Online.png"group-title="TDA INTERIOR", CANAL 9 HD  9.1.  MISIONES
-https://panel.dattalive.com:443/8076/8076/chunklist_w931708659.m3u8
+https://panel.host-live.com:19360/8076/8076.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyJVKGWk0vHNvIEhxrvdteHT1LsKMdFrizb9J_zuVItmyaeei-QbzqE0XKfZXEZjAyoLweXecjnSu6eYtEwuI5W_S-MKyxDGFnfXT1gxPM3thM7W9krwJLUro07Rj3NR9hjHBKtjHW5ajR4I7npNYTyTvPYrnATMgagbbGFL3Qc9_LNPfmGJhzwgt9/s200/canal9-litoral.png"group-title="TDA INTERIOR", CANAL 9 HD  9.3 LITORAL
