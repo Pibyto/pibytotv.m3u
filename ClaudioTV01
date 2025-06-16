@@ -694,7 +694,8 @@ http://vocotv.pro:80/bruce111/bruce111/3191
 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA BS.AS",EL NUEVE
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA BS.AS",CANAL NUEVE RESISTENCIA
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist_w1546314826_b2044100_sleng.m3u8
 
 
 
@@ -1462,8 +1463,10 @@ https://tv.streamcasthd.com:3450/live/tvmaslive.m3u8
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6vt8JAXtQs3RxTcSBs2oSDQV1STdC9cO7Q_36OXRoajKbIaCJn0kwbEIItqs45937SCj0Gca=s900-c-k-c0x00ffffff-no-rj"group-title="TDA INTERIOR",ALBARDON TV HD
-https://vd01.streaminghd.net.ar:3451/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6vt8JAXtQs3RxTcSBs2oSDQV1STdC9cO7Q_36OXRoajKbIaCJn0kwbEIItqs45937SCj0Gca=s900-c-k-c0x00ffffff-no-rj"group-title="TDA INTERIOR",CANAL 12 HD
+https://nd106.republicaservers.com:443/hls/diegologonitv/0_1/index.m3u8?sessId=3190510
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mkmWCDH4gcY/hqdefault.jpg"group-title="TDA INTERIOR", CANAL 34 HD
