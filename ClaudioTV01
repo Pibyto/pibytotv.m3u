@@ -644,8 +644,8 @@ POPCORN
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dg5dhB92/Photoroom-20250507-232228.png"group-title="TDA BS.AS",IPERSONICA TV
-https://micanal.ovh/livestreams/154.IRG4SVDYHEK3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20z9H2pX/Photoroom-20250616-001644.png"group-title="TDA BS.AS",TDC
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 
 
 
