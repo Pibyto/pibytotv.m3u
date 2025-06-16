@@ -705,7 +705,10 @@ http://vocotv.pro:80/bruce111/bruce111/3191
 https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3u8
 
 
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjV1gdBS/Photoroom-20250616-002323.png"group-title="TDA BS.AS",CANAL 12 HD
+https://nd106.republicaservers.com:443/hls/diegologonitv/0_1/index.m3u8?sessId=3190510
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLWwdLK/3dgifmaker66066.gif"group-title="TDA BS.AS",COSMOS TV HD
@@ -760,21 +763,6 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 
 
 
-WOW MOVIES
-https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
-
-
-
-
-
-
-
-
-
-
-http://vocotv.pro:80/bruce111/bruce111/3254
-
-
 
 
 
@@ -785,26 +773,9 @@ https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
 
 
 
-http://vocotv.pro:80/bruce111/bruce111/3158
 
 
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",ZOY TV
-https://live20.bozztv.com/giatv/giatv-zoypremium/zoypremium/chunks.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
 
 
 
@@ -816,9 +787,6 @@ https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/drPPYJg/images-removebg-preview.png"group-title="TDA BS.AS",TELEMIX HD
 https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/chunks.m3u8
-
-
-
 
 
 
@@ -1465,7 +1433,7 @@ https://tv.streamcasthd.com:3450/live/tvmaslive.m3u8
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6vt8JAXtQs3RxTcSBs2oSDQV1STdC9cO7Q_36OXRoajKbIaCJn0kwbEIItqs45937SCj0Gca=s900-c-k-c0x00ffffff-no-rj"group-title="TDA INTERIOR",CANAL 12 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjV1gdBS/Photoroom-20250616-002323.png"group-title="TDA INTERIOR",CANAL 12 HD
 https://nd106.republicaservers.com:443/hls/diegologonitv/0_1/index.m3u8?sessId=3190510
 
 
