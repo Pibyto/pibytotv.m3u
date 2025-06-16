@@ -684,6 +684,9 @@ https://telefeviacom1.akamaized.net:443/hls/live/2037987/viacomINT/TOK/master-wi
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yyHXtGG/Screenshot-20241226-095830-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",TELEFE op2
+http://tvpremiund.ddns.me:2082/91781252/271222zero/6986
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Canal_8_MDP_%282022%2C_ultimate_logo%29.png/revision/latest/scale-to-width-down/284?cb=20220727153321"group-title="TDA BS.AS",CANAL 8 MDP
 https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?wowzatokenendtime=1750046040&wowzatokenstarttime=0&wowzatokenhash=CJKSlV13rY6C8c7aDcU7izGUcsO1hRDrCL0M_rXtd58=
 
@@ -822,6 +825,9 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream2/chunk
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png"group-title="TDA BS.AS",TN HD
+http://tvpremiund.ddns.me:2082/91781252/271222zero/72756
+
+
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 
@@ -831,8 +837,11 @@ https://g2.proy-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="TDA BS.AS",A24 HD 
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81290
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="TDA BS.AS",A24 HD
+http://tvpremiund.ddns.me:2082/91781252/271222zero/66132
+
+
+
 
 
 
@@ -848,14 +857,17 @@ https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png"group-title="TDA BS.AS",LA NACION+ HD
-
+http://tvpremiund.ddns.me:2082/91781252/271222zero/2344
 
 
 
 
 
 #EXTINF:-1 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.png"group-title="TDA BS.AS", CRÓNICA TV HD 24.4
-http://daleplay.club:8080/Stalin8932Mo17M/UunzKQWJFmQk/81300
+http://tvpremiund.ddns.me:2082/91781252/271222zero/2342
+
+
+
 
 
 
