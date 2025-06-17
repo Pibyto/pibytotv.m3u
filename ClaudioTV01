@@ -813,6 +813,12 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1x6nW2m/Photoroom-20250616-235155.png"group-title="TDA BS.AS",NEOX TV
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png"group-title="TDA BS.AS",CINEAR
+http://tvpremiund.ddns.me:2082/56958629057vecino/010320iptv/2349
 
 
 
@@ -1572,8 +1578,10 @@ https://g1.vxral-hor.transport.edge-access.net:443/a05/ngrp:c12_live01-100129_al
 #EXTINF:-1 tvg-logo="https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png"group-title="TDA INTERIOR",10 SALTA
 https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJgZAH6L-_--j1zfdfP1fR64-yBWILmVoXzoiSaLmmw&s"group-title="TDA INTERIOR",NEOX TV
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Bragado-TV-en-vivo-Online.png?resize=696%2C392&ssl=1"group-title="TDA INTERIOR",BRAGADO TV
@@ -1696,8 +1704,9 @@ https://stream.gia.tv:443/giatv/giatv-canal10/canal10/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png"group-title="TDA INTERIOR",CINEAR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+
+
+
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zPf1nSQE3SLWV91l-HOivc-qDcpy2EGxGMDEtfrlhyorpIgZnGsF12ypnO06tDiqXC4"group-title="TDA INTERIOR",VIVE TV
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8?PlaylistM3UCL
