@@ -648,13 +648,20 @@ http://tvpremiund.ddns.me:2082/91781252/271222zero/72756
 https://g2.proy-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png"group-title="TDA BS.AS",CINEAR
+http://tvpremiund.ddns.me:2082/56958629057vecino/010320iptv/2349
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20z9H2pX/Photoroom-20250616-001644.png"group-title="TDA BS.AS",TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="TDA BS.AS",A24 HD
-http://tvpremiund.ddns.me:2082/91781252/271222zero/66132
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/66132
+
+
 
 
 
@@ -671,17 +678,27 @@ http://tvpremiund.ddns.me:2082/91781252/271222zero/2344
 
 
 #EXTINF:-1 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.png"group-title="TDA BS.AS", CRÓNICA TV HD 24.4
-http://tvpremiund.ddns.me:2082/91781252/271222zero/23
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2342
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png"group-title="TDA BS.AS",CNN SPAÑOL
+http://vocotv.pro:80/bruce111/bruce111/3263
 
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/442/22/png-clipart-logo-24-horas-television-la-1-spain-television-text.png"group-title="TDA BS.AS",24 hs
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/644px-RT_America_Logo.png"group-title="TDA BS.AS",RT HD   25.5
+https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png"group-title="TDA BS.AS",CINEAR
-http://tvpremiund.ddns.me:2082/56958629057vecino/010320iptv/2349
+
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6834c6c7c875c2c1c16_dwe.png"group-title="TDA BS.AS",DW ESPAÑOL HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1x6nW2m/Photoroom-20250616-235155.png"group-title="TDA BS.AS",NEOX TV
@@ -974,8 +991,7 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png"group-title="TDA BS.AS",CNN SPAÑOL
-http://vocotv.pro:80/bruce111/bruce111/3263
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Telesur_HD_%282017%29.png/revision/latest/scale-to-width-down/250?cb=20220719221045"group-title="TDA BS.AS",TELESUR HD  25.4
@@ -985,13 +1001,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/644px-RT_America_Logo.png"group-title="TDA BS.AS",RT HD   25.5
-https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6834c6c7c875c2c1c16_dwe.png"group-title="TDA BS.AS",DW ESPAÑOL HD
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
 
 
