@@ -699,14 +699,40 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Telesur_HD_%282017%29.png/revision/latest/scale-to-width-down/250?cb=20220719221045"group-title="TDA BS.AS",TELESUR HD  25.4
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1x6nW2m/Photoroom-20250616-235155.png"group-title="TDA BS.AS",NEOX TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",STAR CHANNEL
-https://streamer1.nexgen.bz:443/STAR/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",CINECANAL
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",CINE ACCION
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",CINE ESTELAR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",P. ACCION
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",AMC SPAIN
+http://vegafibratv.com:8085/AMC/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",BOM CINE
+http://185.189.225.150:85/BOM/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jWLjWRT/Screenshot-20250224-143627-Web-Video-Caster.jpg"group-title="TDA BS.AS",PELIS POPCORN
@@ -714,6 +740,8 @@ POPCORN
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9BYNp91/Photoroom-20250525-154813.png"group-title="TDA BS.AS",PLAY TV MONTE GRANDE
+https://live20.bozztv.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -729,8 +757,25 @@ https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvQ2p3t/2q-Jl-Tsa3-KTA70-Th-K4-UAz-H66-J0-MF-2q-Jl-Tp-WH0-K294c6-VTx-Tftt1-GXDk-2q-Jl-URfo-XMh-Jz-NZy799-Hr.png"group-title="TDA BS.AS",RESTELLI TV CANAL 5 MG
+https://live20.bozztv.com:443/giatvplayout7/giatv-208770/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYQ6QnPK/Photoroom-20250604-000131.png"group-title="TDA BS.AS",CN53 PELICULAS
+https://live20.bozztv.com/akamaissh101/ssh101/codificador8/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gpjdmFd/Photoroom-20250603-235759.png"group-title="TDA BS.AS",RETROPLUS 3
+https://live20.bozztv.com/akamaissh101/ssh101/retroplustv03/chunks.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tPwvdjB/images-removebg-preview.png"group-title="TDA BS.AS",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymrj5XL/Photoroom-20250604-002012.png"group-title="TDA BS.AS",EL MAGO TV
+https://live20.bozztv.com/akamaissh101/ssh101/elmagotv2/chunks.m3u8
 
 
 
@@ -752,14 +797,24 @@ https://nd106.republicaservers.com:443/hls/diegologonitv/0_1/index.m3u8?sessId=3
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA BS.AS",TELECREATIVA HD
+https://panel.host-live.com:19360/8012/8012.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",LA PODEROSA TV
+https://tuvideoonline.com.ar:3215/live/lapoderosalive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMbyPSbH/Photoroom-20250621-011803.png"group-title="TDA BS.AS",play
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLYM8B9y/Screenshot-20250310-213401-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",10
 https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j9BYNp91/Photoroom-20250525-154813.png"group-title="TDA BS.AS",PLAY TV MONTE GRANDE
-https://live20.bozztv.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -797,29 +852,18 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w30918240
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VYQ6QnPK/Photoroom-20250604-000131.png"group-title="TDA BS.AS",CN53 PELICULAS
-https://live20.bozztv.com/akamaissh101/ssh101/codificador8/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gpjdmFd/Photoroom-20250603-235759.png"group-title="TDA BS.AS",RETROPLUS 3
-https://live20.bozztv.com/akamaissh101/ssh101/retroplustv03/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMbyPSbH/Photoroom-20250621-011803.png"group-title="TDA BS.AS",play
-https://vivo.solumedia.com:19360/playtv/playtv.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA BS.AS",TELECREATIVA HD
-https://panel.host-live.com:19360/8012/8012.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymrj5XL/Photoroom-20250604-002012.png"group-title="TDA BS.AS",EL MAGO TV
-https://live20.bozztv.com/akamaissh101/ssh101/elmagotv2/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",TV SION
+https://stmvideo1.livecastv.com:443/tvsion/tvsion/chunklist_w60030490.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TV1tcZZ/Photoroom-20250604-004727.png"group-title="TDA BS.AS",CANAL 50
@@ -840,14 +884,6 @@ https://panel.host-live.com:19360/8250/8250.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GvQ2p3t/2q-Jl-Tsa3-KTA70-Th-K4-UAz-H66-J0-MF-2q-Jl-Tp-WH0-K294c6-VTx-Tftt1-GXDk-2q-Jl-URfo-XMh-Jz-NZy799-Hr.png"group-title="TDA BS.AS",RESTELLI TV CANAL 5 MG
-https://live20.bozztv.com:443/giatvplayout7/giatv-208770/tracks-v1a1/mono.ts.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xmPdFc6/2q-Ed-Tbpni-Pos-Vcic3q-RYf9v-Ck-UJ-2q-Ed-Xur-VXia-Uw2cu-EJs-FUQGC0e-G-2q-Ed-YZNNlw-Yh7-S5ls-Mya2v-Zs.png"group-title="TDA BS.AS",9 DE ABRIL TV MONTE GRANDE
 https://live20.bozztv.com:443/giatvplayout7/giatv-208730/tracks-v1a1/mono.ts.m3u8
 
@@ -857,14 +893,6 @@ https://live20.bozztv.com:443/giatvplayout7/giatv-208730/tracks-v1a1/mono.ts.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9W0Tt88/2q-Guv-Jh-J44-Sgmfl9l-VKQd-XCw-JId-2q-Guv-D3-Ad-CZDI5-Tr-Zs-Jh-OIGvcx-E-2q-Guw-BBKVO3-EWq-Ej0-KPFI0y.png"group-title="TDA BS.AS",NUESTRAS MALVINAS TV MONTE GRANDE
 https://live20.bozztv.com:443/giatvplayout7/giatv-208744/tracks-v1a1/mono.ts.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yB4ptnKZ/Screenshot-20250224-145743-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",MULTIVISIÓN 
-
-
-
-
-
 
 
 
@@ -994,8 +1022,7 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Telesur_HD_%282017%29.png/revision/latest/scale-to-width-down/250?cb=20220719221045"group-title="TDA BS.AS",TELESUR HD  25.4
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
 
 
 
