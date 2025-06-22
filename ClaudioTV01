@@ -762,7 +762,9 @@ https://telefeviacom1.akamaized.net:443/hls/live/2037987/viacomINT/TOK/master-wi
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yyHXtGG/Screenshot-20241226-095830-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",TELEFE op2
-http://tvpremiund.ddns.me:2082/91781252/271222zero/6986
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Canal_8_MDP_%282022%2C_ultimate_logo%29.png/revision/latest/scale-to-width-down/284?cb=20220727153321"group-title="TDA BS.AS",CANAL 8 MDP
 https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?wowzatokenendtime=1750046040&wowzatokenstarttime=0&wowzatokenhash=CJKSlV13rY6C8c7aDcU7izGUcsO1hRDrCL0M_rXtd58=
@@ -862,7 +864,8 @@ https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/442/22/png-clipart-logo-24-horas-television-la-1-spain-television-text.png"group-title="TDA BS.AS",24 hs
+https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 
 
 
@@ -947,28 +950,7 @@ http://tvpremiund.ddns.me:2082/91781252/271222zero/2344
 
 
 #EXTINF:-1 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.png"group-title="TDA BS.AS", CRÓNICA TV HD 24.4
-http://tvpremiund.ddns.me:2082/91781252/271222zero/2342
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://tvpremiund.ddns.me:2082/91781252/271222zero/23
 
 
 
