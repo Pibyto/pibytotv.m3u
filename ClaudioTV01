@@ -627,7 +627,21 @@ https://live20.bozztv.com/giatvplayout7/giatv-209909/tracks-v1a1/mono.ts.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",STAR CHANNEL
+https://streamer1.nexgen.bz:443/STAR/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20200203001356&path-prefix=es"group-title="TDA BS.AS",MAGAZINE
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOspY0DemQf4NaEMxXnKQQKCpDwOfVCdtnZg&usqp=CAU"group-title="TDA BS.AS",CINE SONY
+https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2cN6Fn9/Screenshot-20250101-192206-Chrome-removebg-preview.png"group-title="TDA BS.AS",WOW MOVIES
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 
 
 
@@ -645,8 +659,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/retroplustv03/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",UVA TV
-https://live20.bozztv.com/akamaissh101/ssh101/tvhduva/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMbyPSbH/Photoroom-20250621-011803.png"group-title="TDA BS.AS",play
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA BS.AS",TELECREATIVA HD
 https://panel.host-live.com:19360/8012/8012.m3u8
