@@ -712,6 +712,74 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",UNIMAS
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/80959
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",TELEMUNDO MIAMI
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/55146
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",WAPA2
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/7098
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",A&E
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2667
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",AMC
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2668
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",AXN
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2669
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CINEMAX
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/50833
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CINE FAMILIAR
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/6883
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CLOVER CHANNEL
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/79927
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",GOLDEN PLUS
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2640
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",GOLDEN
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2638
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",HBO
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/7010
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",HBO 2
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2677
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",HBO PLUS
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2678
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",MY TIME
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
@@ -727,6 +795,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff0009
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",P. ACCION
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",PARAMOUNT SPAIN
+http://185.189.225.150:85/Paramount/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",AMC SPAIN
