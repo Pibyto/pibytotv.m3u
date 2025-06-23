@@ -807,11 +807,31 @@ http://vegafibratv.com:8085/AMC/index.m3u8
 https://micanal.ovh/livestreams/82.Y5V0JHNSYGDA.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NB0xRSs/Photoroom-20250622-235111.png"group-title="TDA BS.AS",OPINION SUR CINE
+https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YbQnGdd/Screenshot-20250622-235903-XPlayer-Video-Player.jpg"group-title="TDA BS.AS",MIX TV
+https://live20.bozztv.com:443/akamaissh101/ssh101/mixboliviatvvip/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
+
+
+
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
 
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",BOM CINE
@@ -901,8 +921,6 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLYM8B9y/Screenshot-20250310-213401-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",10
-https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
-
 
 
 
