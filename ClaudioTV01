@@ -636,7 +636,9 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/800px-Net_TV_logo.png"group-title="TDA BS.AS", NET TV HD  27.2
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8?nimblesessionid=25406526
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=1804250216
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g5rR3pm/In-Shot-20250201-183741695-removebg-preview.png"group-title="TDA BS.AS",MGTV WORSHIP PRAISE
@@ -666,7 +668,8 @@ https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/66132
 
 
-
+#EXTINF:-1 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png"group-title="TDA BS.AS",CANAL 4 HD
+https://5cd577a3dd8ec.streamlock.net/CANAL4/CANAL4.smil/chunklist_w69344434_b3096000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="TDA BS.AS",CANAL 26  24.2
@@ -1620,6 +1623,9 @@ https://panel.host-live.com/8186/8186/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png"group-title="TDA INTERIOR",CANAL 4 HD
+https://5cd577a3dd8ec.streamlock.net/CANAL4/CANAL4.smil/chunklist_w69344434_b3096000.m3u8
+
+
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8?PlaylistM3UCL
 
 
