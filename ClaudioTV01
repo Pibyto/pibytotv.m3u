@@ -803,6 +803,15 @@ http://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",AMC SPAIN
 http://vegafibratv.com:8085/AMC/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4W6fbxW/Photoroom-20250622-233001.png"group-title="TDA BS.AS",ULTRA TV
+https://micanal.ovh/livestreams/82.Y5V0JHNSYGDA.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",BOM CINE
