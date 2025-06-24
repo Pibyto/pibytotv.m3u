@@ -636,7 +636,12 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/800px-Net_TV_logo.png"group-title="TDA BS.AS", NET TV HD  27.2
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=1804250216
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA BS.AS",MULTIVISION HD
+https://panel.host-live.com:19360/8250/8250.m3u8
+
 
 
 
@@ -688,6 +693,31 @@ http://tvpremiund.ddns.me:2082/91781252/271222zero/2344
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2342
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Canal_8_MDP_%282022%2C_ultimate_logo%29.png/revision/latest/scale-to-width-down/284?cb=20220727153321"group-title="TDA BS.AS",CANAL 8 MDP
+https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/chunklist_w317776450_b1463296_tkd293emF0b2tlbmVuZHRpbWU9MTc1MDc0MjQwMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9bU8yUF9EN29McTktaTNCRjRrdXZuSGJRRmtlMDlqNEI0S2VVc24tQ1hjZz0=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CANAL 10 MDP
+https://g3.proy-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",ELOCHO
+https://live.eu-north-1b.cf.dmcdn.net/sec2(qiPtaCvDcC_-51RJAQuiyApYdAzBtro3CkNDItBPBwJYoxZPJP1ewCYveXDMpdvqOoN8XcOpdLZu1TRv2_wwZZUDWV1eAw230DxHxI8wgs3SSuPrqbmL9cvhitCr4yqs)/dm/3/x8z8w7c/s/live-720.m3u8#cell=lcf-eu-north-1b
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",TELEVIDA
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8?nimblesessionid=67423742
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CHAVO DEL 8
+https://dcs-live-ue4.mp.lura.live/server/play/A6gYgJsl13QdFlwj/rendition.m3u8?track=video-5&anvsid=m177635075-n0ca9f055451452611daa91e8db1bd3de&ts=1750732682&anvtrid=a105b330fbb084ddb226ef7527b1755d
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png"group-title="TDA BS.AS",CNN SPAÑOL
 http://vocotv.pro:80/bruce111/bruce111/3263
 
@@ -721,6 +751,15 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",UNIMAS
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/80959
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",UNIMAS 2
+https://dcs-live-uw1.mp.lura.live/server/play/WAg5p5mFWlJP8cM7/rendition.m3u8?track=video-5&anvsid=m177610498-n5bd70c3f4ac8400d26488e41ed00b0b3&ts=1750734412&anvtrid=2b14781749e137a25c6dd49682883297
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",UNIVISION
+https://dcs-live-ue1.mp.lura.live/server/play/zAXMKMnFLOlDMFPj/rendition.m3u8?track=video-5&anvsid=m177618692-n4c0d0efeedfc2b5c4a594a77afd2e7b1&ts=1750734544&anvtrid=6e02439bd21fea45d20d01f6e9bbd059
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",TELEMUNDO MIAMI
@@ -823,20 +862,8 @@ https://live20.bozztv.com:443/akamaissh101/ssh101/mixboliviatvvip/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
-
-
 
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
-
-
-
-
-
 
 
 
@@ -1034,8 +1061,10 @@ https://canal.mediaserver.com.co/live/cinedios.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Canal_8_MDP_%282022%2C_ultimate_logo%29.png/revision/latest/scale-to-width-down/284?cb=20220727153321"group-title="TDA BS.AS",CANAL 8 MDP
-https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8?wowzatokenendtime=1750046040&wowzatokenstarttime=0&wowzatokenhash=CJKSlV13rY6C8c7aDcU7izGUcsO1hRDrCL0M_rXtd58=
+
+
+
+
 
 
 
