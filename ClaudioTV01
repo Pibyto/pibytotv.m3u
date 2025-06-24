@@ -1040,24 +1040,6 @@ https://canal.mediaserver.com.co/live/cinedios.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS", HD
 
 
@@ -1350,14 +1332,14 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtvpurosurperu/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",SNT https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY", SNT https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",C9N https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8 
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY", C9N https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg7zrIkar6b9ZRlhqCsmyk8FTM_0btWRdYLnk1HvIkYP5gNc48D1JpHUyQeBeZJv7BO2T4bXI0Nki2iAk6fMNWRRE1fhraPfARYtpOBsGnE7oNHxLqSO1RMf-4WEDwej9Hk1xhbhyEnM8AuIpSm8UXwFB1nArjVA_oBBrEzVObfEcOuVEoSLoZVe5GSrI7w=s850"group-title="PARAGUAY",NEX TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg7zrIkar6b9ZRlhqCsmyk8FTM_0btWRdYLnk1HvIkYP5gNc48D1JpHUyQeBeZJv7BO2T4bXI0Nki2iAk6fMNWRRE1fhraPfARYtpOBsGnE7oNHxLqSO1RMf-4WEDwej9Hk1xhbhyEnM8AuIpSm8UXwFB1nArjVA_oBBrEzVObfEcOuVEoSLoZVe5GSrI7w=s850"group-title="PARAGUAY", NEXT TV
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
