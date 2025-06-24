@@ -749,25 +749,6 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",UNIMAS
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/80959
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",UNIMAS 2
-https://dcs-live-uw1.mp.lura.live/server/play/WAg5p5mFWlJP8cM7/rendition.m3u8?track=video-5&anvsid=m177610498-n5bd70c3f4ac8400d26488e41ed00b0b3&ts=1750734412&anvtrid=2b14781749e137a25c6dd49682883297
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",UNIVISION
-https://dcs-live-ue1.mp.lura.live/server/play/zAXMKMnFLOlDMFPj/rendition.m3u8?track=video-5&anvsid=m177618692-n4c0d0efeedfc2b5c4a594a77afd2e7b1&ts=1750734544&anvtrid=6e02439bd21fea45d20d01f6e9bbd059
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",TELEMUNDO MIAMI
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/55146
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",WAPA2
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/7098
 
 
 
@@ -857,8 +838,6 @@ https://micanal.ovh/livestreams/82.Y5V0JHNSYGDA.m3u8
 https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YbQnGdd/Screenshot-20250622-235903-XPlayer-Video-Player.jpg"group-title="TDA BS.AS",MIX TV
-https://live20.bozztv.com:443/akamaissh101/ssh101/mixboliviatvvip/chunks.m3u8
 
 
 
@@ -1279,8 +1258,6 @@ https://streaming-cl.sh1ny.space:443/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa_
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/lms.png"group-title="TDT CHILE",LMS
-https://ssh101.bozztv.com:443/ssh101/canallms/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/big-tv.png"group-title="TDT CHILE",BIG TV
@@ -1401,6 +1378,227 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtvpurosurperu/playlist.m3u8
 
 
 
+#############(PARAGUAY )#################################################### 
+
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",SNT https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY", 
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",C9N https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8 
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY", 
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY", 
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY", 
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",
+
+
+
+
+
+
+
+ ##############( BOLIVIA )###################################################
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YbQnGdd/Screenshot-20250622-235903-XPlayer-Video-Player.jpg"group-title="BOLIVIA",MIX TV
+https://live20.bozztv.com:443/akamaissh101/ssh101/mixboliviatvvip/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOLIVISION https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/original.m3u8 
+
+
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",RTP https://rtp.noxun.net/hls/stream.m3u8 
+
+
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA", 
+
+
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",
+
+
+
+
+
+
+ #############( VENEZUELA )#######################№##########################
+
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA", VENEVISIÓN https://venevision.akamaized.net/hls/live/2098814/VENEVISION/3/streamPlaylist.m3u8 
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",CANAL I https://canaliliv-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8 
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",NOVELISIMA https://cis-no-es.otteravision.com/cis/no_es/no_es_720p_high.m3u8
+
+
+
+
+
+
+ ################(PERÚ)###################################################### 
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",ATV HD https://d1bva7j5xkfa6y.cloudfront.net/62261ec43964f31a19bec77f/live/live_0.m3u8 
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",ATV+ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",ATV SUR https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8 
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",LATINA https://jireh-1-hls-video-br-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b211756597096859cdec04679&sid=ba5t1l1xb23342209156859cdec04677&ndvc=1 
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",COSMOS https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w84781770.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",CDN https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+
+
+
+
+
+
+ ##############( ECUADOR )################################################### 
+
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECUAVISA https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks_dvr.m3u8?dpssid=b2671425022685aa2a33a501&sid=ba5t1l1xb21745332173685aa2ccd5b49&ndvc=0 
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECUADOR TV https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",RTS https://alba-ec-rts-rts.stream.mediatiquestream.com/original.m3u8 
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",TVC https://alba-ec-tvc-tvc.stream.mediatiquestream.com/live_0.m3u8 
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",GAMAVISION https://stream.esradioecuador.com/hls/stream.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",OROMAR TV https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+
+
+
+
+
+##############(PUERTORICO)##################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PUERTO RICO",TELEMUNDO https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8 
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",UNIMAS
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/80959
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",UNIMAS 2
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",UNIVISION
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",TELEMUNDO MIAMI
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/55146
+
+
+#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",WAPA2
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/7098
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PUERTO RICO",AMERICATEVE https://live.gideo.video/americateve2/HD1080/HD1080.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PUERTO RICO",MEGA TV https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8 
+
+
+#EXTINF:-1 tvg-logo=""group-title="PUERTO RICO",UNIVISION NOTICIAS https://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8 
+
+
+#EXTINF:-1 tvg-logo=""group-title="PUERTO RICO",WIPR https://streamwipr.pr/hls/stream/index.m3u8?
+
+
+
+
+
+
+###############( MEXICO )################################################### 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/lms.png"group-title="MEXICO",LMS
+https://ssh101.bozztv.com:443/ssh101/canallms/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",CINE ESTRELLA https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MEXICO", IMÁGEN TV https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8 
+
+
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",CANAL ONCE https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2098304.m3u8 
+
+
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",MVS TV https://mvs-live.daioncdn.net/mvstv/mvstv_1080p.m3u8 
+
+
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",CANAL 14 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 
 
