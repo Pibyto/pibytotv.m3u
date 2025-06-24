@@ -571,6 +571,107 @@ http://tvpremiund.ddns.me:2082/91781252/271222zero/57163
 
 
 
+###############(PREMIUM)####################################################
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOspY0DemQf4NaEMxXnKQQKCpDwOfVCdtnZg&usqp=CAU"group-title="CINE PREMIUM",CINE SONY
+https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20200203001356&path-prefix=es"group-title="CINE PREMIUM",MAGAZINE
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",CINECANAL
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",A&E
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2667
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",AMC
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2668
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",AXN
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2669
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",CINEMAX
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/50833
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",CINE FAMILIAR
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/6883
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",DHE
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/79927
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",GOLDEN PLUS
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2640
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",GOLDEN
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2638
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",HBO
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/7010
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",HBO 2
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2677
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",HBO +
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2678
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="CINE PREMIUM",MY TIME
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="CINE PREMIUM",CINE ACCION
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="CINE PREMIUM",CINE ESTELAR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="CINE PREMIUM",P. ACCION
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jWLjWRT/Screenshot-20250224-143627-Web-Video-Caster.jpg"group-title="CINE PREMIUM",PELIS POPCORN
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -634,8 +735,6 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist_w1546314826_b2044100_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20200203001356&path-prefix=es"group-title="TDA BS.AS",MAGAZINE
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8LJJwFVZ/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.png"group-title="TDA BS.AS",BRAVO TV
@@ -712,7 +811,6 @@ https://g3.proy-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/can
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",ELOCHO
-https://live.eu-north-1b.cf.dmcdn.net/sec2(qiPtaCvDcC_-51RJAQuiyApYdAzBtro3CkNDItBPBwJYoxZPJP1ewCYveXDMpdvqOoN8XcOpdLZu1TRv2_wwZZUDWV1eAw230DxHxI8wgs3SSuPrqbmL9cvhitCr4yqs)/dm/3/x8z8w7c/s/live-720.m3u8#cell=lcf-eu-north-1b
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",TELEVIDA
@@ -720,7 +818,6 @@ https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/televidaar/lives
 
 
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CHAVO DEL 8
-https://dcs-live-ue4.mp.lura.live/server/play/A6gYgJsl13QdFlwj/rendition.m3u8?track=video-5&anvsid=m177635075-n0ca9f055451452611daa91e8db1bd3de&ts=1750732682&anvtrid=a105b330fbb084ddb226ef7527b1755d
 
 
 
@@ -730,8 +827,6 @@ https://dcs-live-ue4.mp.lura.live/server/play/A6gYgJsl13QdFlwj/rendition.m3u8?tr
 http://vocotv.pro:80/bruce111/bruce111/3263
 
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/442/22/png-clipart-logo-24-horas-television-la-1-spain-television-text.png"group-title="TDA BS.AS",24 hs
-https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/644px-RT_America_Logo.png"group-title="TDA BS.AS",RT HD   25.5
@@ -753,83 +848,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CINECANAL
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",A&E
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2667
-
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",AMC
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2668
-
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",AXN
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2669
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CINEMAX
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/50833
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CINE FAMILIAR
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/6883
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",DHE
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/79927
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",GOLDEN PLUS
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2640
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",GOLDEN
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2638
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",HBO
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/7010
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",HBO 2
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2677
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",HBO +
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2678
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",MY TIME
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",CINE ACCION
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",CINE ESTELAR
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",P. ACCION
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
-
 
 
 
@@ -848,9 +866,6 @@ https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jWLjWRT/Screenshot-20250224-143627-Web-Video-Caster.jpg"group-title="TDA BS.AS",PELIS POPCORN
-POPCORN
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9BYNp91/Photoroom-20250525-154813.png"group-title="TDA BS.AS",PLAY TV MONTE GRANDE
@@ -858,8 +873,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOspY0DemQf4NaEMxXnKQQKCpDwOfVCdtnZg&usqp=CAU"group-title="TDA BS.AS",CINE SONY
-https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4mWFFQX/Screenshot-20241226-092057-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",GENTV HD  17.3
@@ -967,13 +980,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209909/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=h:99,cg:true,m/qt=q:100/ll"group-title="TDA BS.AS",EXTREMA TV HD
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
-
-
-
-
-
-
-
 
 
 
@@ -1602,6 +1608,8 @@ https://ssh101.bozztv.com:443/ssh101/canallms/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/442/22/png-clipart-logo-24-horas-television-la-1-spain-television-text.png"group-title="ESPAÑA",24 hs
+https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 
 
 
