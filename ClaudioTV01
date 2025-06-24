@@ -1413,6 +1413,9 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtvpurosurperu/playlist.m3u8
 https://live20.bozztv.com:443/akamaissh101/ssh101/mixboliviatvvip/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/P3aa2VFB_VIiqc01voYXCTcHxo4zkeNe2QxGrU6n2h844bbK6dZ8chURJz_nvV8OhQ"group-title="BOLIVIA",CINERAMA TV
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOLIVISION https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/original.m3u8 
 
@@ -1613,6 +1616,12 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6834c6c7c875c2c1c16_dwe.png"group-title="ESPAÑA",DW ESPAÑOL HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png"group-title="ESPAÑA",STAR TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
@@ -1655,9 +1664,6 @@ http://vegafibratv.com:8085/AMC/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zPjTwMx/Screenshot-20241203-154349-Facebook.jpg"group-title="TV",PILAR TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/pilarensehd/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjsM6d6iGZ550c-7ZFudzPmZosr-IKTihNGEBixzGCTErR4ImGc5LmSSydbyGPBm64m5Vp3vP9mXEDYPVBZk5fHaJmswC1vzsnciP6jpaFv1m4fBz6L0pwmISiStunm6gmh3EXs0-zOgQk/s320/icon.gif"group-title="TV",CINEMUNDO+
 https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_plus.flv
@@ -1690,7 +1696,6 @@ https://tv.streaming-chile.com:8081/origentvhd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tvprime.cl/wp-content/uploads/2024/10/Prime-e1728914067611-300x142.png"group-title="TV",TVPRIME PELICULAS HD
-https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png"group-title="TV",+CINE HD
@@ -1751,8 +1756,7 @@ https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/P3aa2VFB_VIiqc01voYXCTcHxo4zkeNe2QxGrU6n2h844bbK6dZ8chURJz_nvV8OhQ"group-title="TV",CINERAMA TV
-https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
 
 TINF:-1 tvg-logo="https://static.wixstatic.com/media/a889a5_d93a414ce0504f8ebbc4d2c04882a23d~mv2.png/v1/fill/w_440,h_440,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telebrunca2-04.png"group-title="TV",TELE BRUNCA
 https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1177696492.m3u8
