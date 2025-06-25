@@ -1431,7 +1431,7 @@ https://canaliliv-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png"group-title="VENEZUELA",NOVELISIMA  https://cis-no-es.otteravision.com/cis/no_es/no_es_720p_high.m3u8
+#EXTINF:-1 tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png"group-title="VENEZUELA", NOVELISIMA   https://cis-no-es.otteravision.com/cis/no_es/no_es_720p_high.m3u8
 
 
 
@@ -1452,7 +1452,7 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1200px-ATV_Sur_-_2018_logo_%28final%29.png"group-title="PERÚ",ATV SUR  https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1200px-ATV_Sur_-_2018_logo_%28final%29.png"group-title="PERÚ", ATV SUR   https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Latina_Television_-_Logotipo.png"group-title="PERÚ",LATINA
@@ -1466,7 +1466,7 @@ https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w84781770.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="PERÚ"
-,CDN 
+,CDN   
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
 
@@ -1538,12 +1538,11 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"group-title="PUERTO RICO",TELEMUNDO
- https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"group-title="PUERTO RICO",TELEMUNDO  
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png"group-title="PUERTO RICO",UNIMAS
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png"group-title="PUERTO RICO",UNIMAS  
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/80959
 
 
@@ -1555,7 +1554,7 @@ http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/80959
 
 
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/telemundo-puerto-rico1732568838.logowik.com.webp"group-title="PUERTO RICO",TELEMUNDO
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/telemundo-puerto-rico1732568838.logowik.com.webp"group-title="PUERTO RICO",TELEMUNDO  
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/55146
 
 
@@ -1565,21 +1564,21 @@ http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/7098
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/WSPF-CD_Am%C3%A9rica_Tev%C3%A9_Tampa_logo.png"group-title="PUERTO RICO",AMERICATEVE
- https://live.gideo.video/americateve2/HD1080/HD1080.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/WSPF-CD_Am%C3%A9rica_Tev%C3%A9_Tampa_logo.png"group-title="PUERTO RICO",AMERICATEVE  
+https://live.gideo.video/americateve2/HD1080/HD1080.m3u8 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png"group-title="PUERTO RICO",MEGA TV
- https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png"group-title="PUERTO RICO",MEGA TV  
+https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Noticias_Univision_logo_2019.svg/2560px-Noticias_Univision_logo_2019.svg.png"group-title="PUERTO RICO",
-UNIVISION NOTICIAS https://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8 
+UNIVISION NOTICIAS   https://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/WIPR-TV_2015.svg/revision/latest/scale-to-width-down/200?cb=20201221001542"group-title="PUERTO RICO",WIPR
- https://streamwipr.pr/hls/stream/index.m3u8?
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/WIPR-TV_2015.svg/revision/latest/scale-to-width-down/200?cb=20201221001542"group-title="PUERTO RICO",WIPR  
+https://streamwipr.pr/hls/stream/index.m3u8?
 
 
 
@@ -1596,25 +1595,25 @@ https://ssh101.bozztv.com:443/ssh101/canallms/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSduIAxBJp5xsIhg9B32HTjqtVZpgcJwxLJWw&s"group-title="MEXICO",CINE ESTRELLA
- https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSduIAxBJp5xsIhg9B32HTjqtVZpgcJwxLJWw&s"group-title="MEXICO",CINE ESTRELLA  
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="MEXICO",IMAGEN
- https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="MEXICO",IMAGEN  
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2019/01/Banner-logo-canal-once-e1523045891245.png"group-title="MEXICO",ONCE
- https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2098304.m3u8 
+#EXTINF:-1 tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2019/01/Banner-logo-canal-once-e1523045891245.png"group-title="MEXICO",ONCE  
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2098304.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/03/MVS_TV_logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20110905153043&path-prefix=es"group-title="MEXICO",MVS TV
- https://mvs-live.daioncdn.net/mvstv/mvstv_1080p.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/03/MVS_TV_logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20110905153043&path-prefix=es"group-title="MEXICO",MVS TV  
+https://mvs-live.daioncdn.net/mvstv/mvstv_1080p.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/CanalCatorce2017.png/revision/latest?cb=20210415165958&path-prefix=es"group-title="MEXICO",CANAL 14
- https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/CanalCatorce2017.png/revision/latest?cb=20210415165958&path-prefix=es"group-title="MEXICO",CANAL 14  
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuXNZDeHf1-uYVaNI0es2GTfC66rMLHGcO8g&usqp=CAU"group-title="MEXICO",CANAL MAS TELEVISIÓN 
