@@ -952,7 +952,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w30918240
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",TV SION
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsIjqsY0Ny4vtiN0Mlt98oS5lrJtRjou6XN9WzJLLzNPvuDPMNUJ9z2GORs-U_gb1_to8&usqp=CAU"group-title="ARGENTINA",TV SION
 https://stmvideo1.livecastv.com:443/tvsion/tvsion/chunklist_w60030490.m3u8
 
 
@@ -1104,7 +1104,7 @@ http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nMV4UYUvWYUIR6HA1HJ-3rYGMbvKick-yyxgMJLidCjLg=s900-c-k-c0x00ffffff-no-rj"group-title="ARGENTINA",CANAL 3 HD  3.0  PINAMAR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThV0kvzHJ8DoW6sXxXPciGn2n-6ocAb6celQ&s"group-title="ARGENTINA",CANAL 3 HD  3.0  PINAMAR
 https://intelincloud01.com.ar/hls/cn3/index.m3u8
 
 
