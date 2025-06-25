@@ -1699,6 +1699,21 @@ http://vegafibratv.com:8085/AMC/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrsl46SBPeskcXcgCtW-YSq9VWZs2TxGorzI9OQpOu4ZnftCQBWmFqLVxKMABA7indPfU&usqp=CAU"group-title="GUATEMALA",BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png"group-title="GUATEMALA",TOTOVISION
+https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_79bb351050ce4760941788c17a1fc501~mv2.png/v1/fill/w_744,h_746,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20Conosur.png"group-title="GUATEMALA",CANAL 26
+https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfMfQ9Jx/Screenshot-20250310-221554-XPlayer-Video-Player-removebg-preview-1.png"group-title="GUATEMALA",BUM TV
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
@@ -1716,6 +1731,8 @@ https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YiY_KePKY8mvVSxERReimV77nxjv6vprtw&s"group-title="GUATEMALA",QUESADÁTV
+https://cdn.streamhispanatv.net:3861/live/canal26quezadalive.m3u8
 
 
 
