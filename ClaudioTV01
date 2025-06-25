@@ -631,6 +631,20 @@ http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2640
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2638
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYQ6QnPK/Photoroom-20250604-000131.png"group-title="CINE PREMIUM",CN53 PELICULAS
+https://live20.bozztv.com/akamaissh101/ssh101/codificador8/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4W6fbxW/Photoroom-20250622-233001.png"group-title="CINE PREMIUM",ULTRA TV
+https://micanal.ovh/livestreams/82.Y5V0JHNSYGDA.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3YLnTSm/Screenshot-20250302-214108-XPlayer-Video-Player-removebg-preview.png"group-title="CINE PREMIUM",CINE CLASS
+https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
+
+
+
+
 #EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",HBO
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/7010
 
@@ -785,8 +799,8 @@ http://tvpremiund.ddns.me:2082/91781252/271222zero/72756
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/167
 
 
-
-https://g2.proy-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9W0Tt88/2q-Guv-Jh-J44-Sgmfl9l-VKQd-XCw-JId-2q-Guv-D3-Ad-CZDI5-Tr-Zs-Jh-OIGvcx-E-2q-Guw-BBKVO3-EWq-Ej0-KPFI0y.png"group-title="TDA BS.AS",NUESTRAS MALVINAS TV MONTE GRANDE
+https://live20.bozztv.com:443/giatvplayout7/giatv-208744/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png"group-title="TDA BS.AS",CINEAR
@@ -851,27 +865,12 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4W6fbxW/Photoroom-20250622-233001.png"group-title="TDA BS.AS",ULTRA TV
-https://micanal.ovh/livestreams/82.Y5V0JHNSYGDA.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4mWFFQX/Screenshot-20241226-092057-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",GENTV HD  17.3
 https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/neotv-digital.png"group-title="TDA BS.AS",NEO TV DIGITAL HD. 16.1 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VYQ6QnPK/Photoroom-20250604-000131.png"group-title="TDA BS.AS",CN53 PELICULAS
-https://live20.bozztv.com/akamaissh101/ssh101/codificador8/chunks.m3u8
-
 
 
 
@@ -927,9 +926,6 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9wvLNrg/2r-Bs-Skv-IGMpj-DKk-H5-O1y-Nv-AIaf-F-2r-Bsbz-Rpn2a-KGv-I32-Dot-O10-Lsv-V-2r-Bscftp-AXm-It-HOVGJa-MG1.png"group-title="TDA BS.AS",MONTE GRANDE TV HD CANAL 12
 https://live20.bozztv.com/giatvplayout7/giatv-209181/tracks-v1a1/mono.ts.m3u8
 
@@ -974,16 +970,6 @@ https://panel.host-live.com:19360/8250/8250.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9W0Tt88/2q-Guv-Jh-J44-Sgmfl9l-VKQd-XCw-JId-2q-Guv-D3-Ad-CZDI5-Tr-Zs-Jh-OIGvcx-E-2q-Guw-BBKVO3-EWq-Ej0-KPFI0y.png"group-title="TDA BS.AS",NUESTRAS MALVINAS TV MONTE GRANDE
-https://live20.bozztv.com:443/giatvplayout7/giatv-208744/tracks-v1a1/mono.ts.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://corrientes.tv/wp-content/uploads/2024/04/Corrientes-TV.webp"group-title="TDA BS.AS",CORRIENTES TV HD
 https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8
 
@@ -1004,17 +990,9 @@ https://canal.mediaserver.com.co/live/cinedios.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS", HD
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BtbzpsN/canal-5-arg.png"group-title="TDA BS.AS",canal 5
 https://stmv4.voxtvhd.com.br:443/canal5pueblo/canal5pueblo/chunklist_w855762317.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3YLnTSm/Screenshot-20250302-214108-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",CINE CLASS
-https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
 
 
 
