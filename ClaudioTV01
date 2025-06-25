@@ -722,8 +722,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 
 
-#########################( TDA BS.AS )########################################
-##################( TDA DIGITAL )#############################################(
+#############( ARGENTINA )##################################################
+######################################
 
 
 
@@ -737,200 +737,196 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bQMdXs3/Screenshot-20241226-095234-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",EL TRECE  33.1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bQMdXs3/Screenshot-20241226-095234-XPlayer-Video-Player-removebg-preview.png"group-title="ARGENTINA",EL TRECE  33.1
 https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RsXQZZD/Photoroom-20250503-193657.png"group-title="TDA BS.AS",MONTE GRANDE TV  LIVE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RsXQZZD/Photoroom-20250503-193657.png"group-title="ARGENTINA",MONTE GRANDE TV  LIVE
 https://micanal.ovh/livestreams/127.QAX0OUHEMVST.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20200203001356&path-prefix=es"group-title="TDA BS.AS",MAGAZINE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20200203001356&path-prefix=es"group-title="ARGENTINA",MAGAZINE
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yyHXtGG/Screenshot-20241226-095830-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS", TELEFE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yyHXtGG/Screenshot-20241226-095830-XPlayer-Video-Player-removebg-preview.png"group-title="ARGENTINA", TELEFE
 https://telefeviacom1.akamaized.net:443/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="TDA BS.AS",EL NUEVE 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="ARGENTINA",EL NUEVE 
 http://tvpremiund.ddns.me:2082/91781252/271222zero/2346
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yyHXtGG/Screenshot-20241226-095830-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",TELEFE op2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yyHXtGG/Screenshot-20241226-095830-XPlayer-Video-Player-removebg-preview.png"group-title="ARGENTINA",TELEFE op2
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/ElTreceInternacional2017.png/revision/latest?cb=20171001002322"group-title="TDA BS.AS",EL 9 INT.
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/ElTreceInternacional2017.png/revision/latest?cb=20171001002322"group-title="ARGENTINA",EL 9 
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist_w1546314826_b2044100_sleng.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8LJJwFVZ/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.png"group-title="TDA BS.AS",BRAVO TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8LJJwFVZ/large-643551553-Bravo-TV-png-57a91952c5e4e5fd1a66c5b047909fb4.png"group-title="ARGENTINA",BRAVO TV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/800px-Net_TV_logo.png"group-title="TDA BS.AS", NET TV HD  27.2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/800px-Net_TV_logo.png"group-title="ARGENTINA", NET TV HD  27.2
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA BS.AS",MULTIVISION HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="ARGENTINA",MULTIVISION HD
 https://panel.host-live.com:19360/8250/8250.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/g5rR3pm/In-Shot-20250201-183741695-removebg-preview.png"group-title="TDA BS.AS",MGTV WORSHIP PRAISE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g5rR3pm/In-Shot-20250201-183741695-removebg-preview.png"group-title="ARGENTINA",MGTV WORSHIP PRAISE
 https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png"group-title="TDA BS.AS",TN HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png"group-title="ARGENTINA",TN HD
 http://tvpremiund.ddns.me:2082/91781252/271222zero/72756
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.svg/revision/latest/scale-to-width-down/284?cb=20210102135802&path-prefix=es"group-title="TDA BS.AS",TV PUBLICA   23.2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.svg/revision/latest/scale-to-width-down/284?cb=20210102135802&path-prefix=es"group-title="ARGENTINA",TV PUBLICA   23.2
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/167
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9W0Tt88/2q-Guv-Jh-J44-Sgmfl9l-VKQd-XCw-JId-2q-Guv-D3-Ad-CZDI5-Tr-Zs-Jh-OIGvcx-E-2q-Guw-BBKVO3-EWq-Ej0-KPFI0y.png"group-title="TDA BS.AS",NUESTRAS MALVINAS TV MONTE GRANDE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9W0Tt88/2q-Guv-Jh-J44-Sgmfl9l-VKQd-XCw-JId-2q-Guv-D3-Ad-CZDI5-Tr-Zs-Jh-OIGvcx-E-2q-Guw-BBKVO3-EWq-Ej0-KPFI0y.png"group-title="ARGENTINA",NUESTRAS MALVINAS TV MONTE GRANDE
 https://live20.bozztv.com:443/giatvplayout7/giatv-208744/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png"group-title="TDA BS.AS",CINEAR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png"group-title="ARGENTINA",CINEAR
 http://tvpremiund.ddns.me:2082/56958629057vecino/010320iptv/2349
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/20z9H2pX/Photoroom-20250616-001644.png"group-title="TDA BS.AS",TDC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20z9H2pX/Photoroom-20250616-001644.png"group-title="ARGENTINA",TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="TDA BS.AS",A24 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="ARGENTINA",A24 HD
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/66132
 
 
-#EXTINF:-1 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png"group-title="TDA BS.AS",CANAL 4 HD
+#EXTINF:-1 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png"group-title="ARGENTINA",CANAL 4 HD
 https://5cd577a3dd8ec.streamlock.net/CANAL4/CANAL4.smil/chunklist_w69344434_b3096000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="TDA BS.AS",CANAL 26  24.2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png"group-title="ARGENTINA",CANAL 26  24.2
 http://tvpremiund.ddns.me:2082/91781252/271222zero/1891
 
 
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA BS.AS", AMÉRICA  36.1
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="ARGENTINA", AMÉRICA  36.1
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2345
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png"group-title="TDA BS.AS",LA NACION+ HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png"group-title="ARGENTINA",LA NACION+ HD
 http://tvpremiund.ddns.me:2082/91781252/271222zero/2344
 
 
-#EXTINF:-1 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.png"group-title="TDA BS.AS", CRÓNICA TV HD 24.4
+#EXTINF:-1 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.png"group-title="ARGENTINA", CRÓNICA TV HD 24.4
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2342
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",TELEVIDA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Canal_9_Televida_%28Logo_1995%29.png/revision/latest?cb=20221210150018"group-title="ARGENTINA",TELEVIDA
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png"group-title="TDA BS.AS",CNN SPAÑOL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png"group-title="ARGENTINA",CNN SPAÑOL
 http://vocotv.pro:80/bruce111/bruce111/3263
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/644px-RT_America_Logo.png"group-title="TDA BS.AS",RT HD   25.5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/644px-RT_America_Logo.png"group-title="ARGENTINA",RT HD   25.5
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6834c6c7c875c2c1c16_dwe.png"group-title="TDA BS.AS",DW ESPAÑOL HD
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6834c6c7c875c2c1c16_dwe.png"group-title="ARGENTINA",DW ESPAÑOL HD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1x6nW2m/Photoroom-20250616-235155.png"group-title="TDA BS.AS",NEOX TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1x6nW2m/Photoroom-20250616-235155.png"group-title="ARGENTINA",NEOX TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4mWFFQX/Screenshot-20241226-092057-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",GENTV HD  17.3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4mWFFQX/Screenshot-20241226-092057-XPlayer-Video-Player-removebg-preview.png"group-title="ARGENTINA",GENTV HD  17.3
 https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/neotv-digital.png"group-title="TDA BS.AS",NEO TV DIGITAL HD. 16.1 
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/neotv-digital.png"group-title="ARGENTINA",NEO TV DIGITAL HD. 16.1 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tPwvdjB/images-removebg-preview.png"group-title="TDA BS.AS",BAYRES TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPwvdjB/images-removebg-preview.png"group-title="ARGENTINA",BAYRES TV HD
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymrj5XL/Photoroom-20250604-002012.png"group-title="TDA BS.AS",EL MAGO TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymrj5XL/Photoroom-20250604-002012.png"group-title="ARGENTINA",EL MAGO TV
 https://live20.bozztv.com/akamaissh101/ssh101/elmagotv2/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="TDA BS.AS",CINCO TV HD  TIGRE
+#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png"group-title="ARGENTINA",CINCO TV HD  TIGRE
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
 
 
-#EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="TDA BS.AS",TV+
+#EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="ARGENTINA",TV+
 https://tv.streamcasthd.com:3450/live/tvmaslive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xmPdFc6/2q-Ed-Tbpni-Pos-Vcic3q-RYf9v-Ck-UJ-2q-Ed-Xur-VXia-Uw2cu-EJs-FUQGC0e-G-2q-Ed-YZNNlw-Yh7-S5ls-Mya2v-Zs.png"group-title="TDA BS.AS",9 DE ABRIL TV MONTE GRANDE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmPdFc6/2q-Ed-Tbpni-Pos-Vcic3q-RYf9v-Ck-UJ-2q-Ed-Xur-VXia-Uw2cu-EJs-FUQGC0e-G-2q-Ed-YZNNlw-Yh7-S5ls-Mya2v-Zs.png"group-title="ARGENTINA",9 DE ABRIL TV MONTE GRANDE
 https://live20.bozztv.com:443/giatvplayout7/giatv-208730/tracks-v1a1/mono.ts.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pjV1gdBS/Photoroom-20250616-002323.png"group-title="TDA BS.AS",CANAL 12 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjV1gdBS/Photoroom-20250616-002323.png"group-title="ARGENTINA",CANAL 12 HD
 https://nd106.republicaservers.com:443/hls/diegologonitv/0_1/index.m3u8?sessId=3190510
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dLWwdLK/3dgifmaker66066.gif"group-title="TDA BS.AS",COSMOS TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dLWwdLK/3dgifmaker66066.gif"group-title="ARGENTINA",COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="TDA BS.AS",TELECREATIVA HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png"group-title="ARGENTINA",TELECREATIVA HD
 https://panel.host-live.com:19360/8012/8012.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/spPsbW3J/Photoroom-20250623-003413.png"group-title="TDA BS.AS",LA PODEROSA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spPsbW3J/Photoroom-20250623-003413.png"group-title="ARGENTINA",LA PODEROSA TV
 https://tuvideoonline.com.ar:3215/live/lapoderosalive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMbyPSbH/Photoroom-20250621-011803.png"group-title="TDA BS.AS",play
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMbyPSbH/Photoroom-20250621-011803.png"group-title="ARGENTINA",play
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qLYM8B9y/Screenshot-20250310-213401-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qLYM8B9y/Screenshot-20250310-213401-XPlayer-Video-Player-removebg-preview.png"group-title="ARGENTINA",10
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9wvLNrg/2r-Bs-Skv-IGMpj-DKk-H5-O1y-Nv-AIaf-F-2r-Bsbz-Rpn2a-KGv-I32-Dot-O10-Lsv-V-2r-Bscftp-AXm-It-HOVGJa-MG1.png"group-title="TDA BS.AS",MONTE GRANDE TV HD CANAL 12
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9wvLNrg/2r-Bs-Skv-IGMpj-DKk-H5-O1y-Nv-AIaf-F-2r-Bsbz-Rpn2a-KGv-I32-Dot-O10-Lsv-V-2r-Bscftp-AXm-It-HOVGJa-MG1.png"group-title="ARGENTINA",MONTE GRANDE TV HD CANAL 12
 https://live20.bozztv.com/giatvplayout7/giatv-209181/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RsXQZZD/Photoroom-20250503-193657.png"group-title="TDA BS.AS",MG TV  LIVE SSH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RsXQZZD/Photoroom-20250503-193657.png"group-title="ARGENTINA",MG TV  LIVE SSH
 https://live20.bozztv.com/akamaissh101/ssh101/montegrandetv/playlist.m3u8
 
 
@@ -940,32 +936,28 @@ https://live20.bozztv.com/akamaissh101/ssh101/mgtvlive/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TDZR48TN/Photoroom-20250322-185831.png"group-title="TDA BS.AS",YESHÙA TV - EL 🕊 ESPIRITU Y LA NOVIA DICEN VEN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDZR48TN/Photoroom-20250322-185831.png"group-title="ARGENTINA",YESHÙA TV - EL 🕊 ESPIRITU Y LA NOVIA DICEN VEN
 https://live20.bozztv.com/giatvplayout7/giatv-209163/tracks-v1a1/mono.ts.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8L79pbv0/Photoroom-20250510-195832.png"group-title="TDA BS.AS",LA RADIO DE LA BENDICION MG RADIO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8L79pbv0/Photoroom-20250510-195832.png"group-title="ARGENTINA",LA RADIO DE LA BENDICION MG RADIO
 https://live20.bozztv.com/giatvplayout7/giatv-209909/tracks-v1a1/mono.ts.m3u8
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=h:99,cg:true,m/qt=q:100/ll"group-title="TDA BS.AS",EXTREMA TV HD
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=h:99,cg:true,m/qt=q:100/ll"group-title="ARGENTINA",EXTREMA TV HD
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",TV SION
+#EXTINF:-1 tvg-logo=""group-title="ARGENTINA",TV SION
 https://stmvideo1.livecastv.com:443/tvsion/tvsion/chunklist_w60030490.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA BS.AS",MULTIVISION HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="ARGENTINA",MULTIVISION HD
 https://panel.host-live.com:19360/8250/8250.m3u8
 
 
