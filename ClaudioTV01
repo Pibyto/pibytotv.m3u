@@ -1288,19 +1288,23 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PARAGUAY", 
+#EXTINF:-1 tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_blanco.png"group-title="PARAGUAY",GO tv
+https://rds3.desdeparaguay.net/gotv/gotv/chunklist_w1251228071.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PARAGUAY", 
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/IMG_20240626_194907_706-400x267.jpg"group-title="PARAGUAY",INVASIVA TV
+https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="PARAGUAY", 
+#EXTINF:-1 tvg-logo="https://media.trece.com.py/sites/2/2022/06/logo-300x136-1.jpg"group-title="PARAGUAY",TRECE
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(oCSyx29rbRSEAsyCsmI4ypEmgsTA1Os6KWPNI--mTncy-rqq6o459WTD9fFhA2pC22nbP8myfSWtXrw37fn21uWifh2L9ndiQVrYsUSfWp33l4v_Vp0yOuxPpepcTJQj)/cloud/3/x9ksaba/d/live-720.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PARAGUAY", 
+#EXTINF:-1 tvg-logo="https://television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy.jpg"group-title="PARAGUAY",UNICANAL
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Kh-DhbedgRk7x_EJ9TFGK7QsS14EvdXadaO6Gg8lczJ8sFZmtvuJv0I5h3Bi6FXcsWP7gphopX8852zz8x72fxw9_biiTLJggfTQRSNNWjvLxF9jwWUxX_yP_Z4gdJ5S)/cloud/3/x9ko9z8/d/live-720.m3u8
 
 
 
