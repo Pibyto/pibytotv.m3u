@@ -3,17 +3,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f_CEtKzWkAEwHaM9HOwwBgmCYWta2Xmwn1ItUOaCbMcTbmytjpjgJ-kOYPyoknVCIUs&usqp=CAU"group-title="MOVIE",CORAZ0N DELAT0R
 https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208730/Coraz__n_delator__2025____PELISPEDIA.mp4/playlist.m3u8
 
@@ -1479,13 +1468,17 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w84781770.m3u8 
 
 
-
+#EXTINF:-1 tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png"group-title="PERÚ",URANEO TV
+https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTX6Ign8OtS0dp5XTcCjlCQbwCMyd0IlhMEQ&usqp=CAU"group-title="PERÚ",PLANETA HD
 https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/Romance_logo.png"group-title="PERÚ",ROMANCE
+https://play.agenciastreaming.com:8081/planeatv/index.fmp4.m3u8
 
 
 
