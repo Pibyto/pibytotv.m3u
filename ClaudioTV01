@@ -1308,8 +1308,12 @@ https://live2.eu-north-1b.cf.dmcdn.net/sec2(Kh-DhbedgRk7x_EJ9TFGK7QsS14EvdXadaO6
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Venus-Media-TV-Paraguay-en-vivo-Online.png"group-title="PARAGUAY",VNUS
+https://copaco.desdeparaguay.net:443/venusmedia/venusmedia/chunklist_w2091978855.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdcNNZLYq5iXNBDx7tyDMC0kJeZZjyVeHlg&s"group-title="PARAGUAY",RTV REPUBLICA
+https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w1489871788.m3u8
 
 
 
