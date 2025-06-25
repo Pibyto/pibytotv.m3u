@@ -39,7 +39,7 @@ https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208817/Con
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="MOVIE",
+
 
 
 
@@ -1430,8 +1430,10 @@ https://canaliliv-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png
+"group-title="VENEZUELA",NOVELISIMA
+https://cis-no-es.otteravision.com/cis/no_es/no_es_720p_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png"group-title="VENEZUELA", NOVELISIMA   https://cis-no-es.otteravision.com/cis/no_es/no_es_720p_high.m3u8
 
 
 
@@ -1501,8 +1503,10 @@ https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png"group-title="ECUADOR",ECUADOR TV 
-https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png
+"group-title="ECUADOR",ECUADOR TV
+https://samson.streamerr.co:8081/shogun/index.m3u8
+
 
 
 
