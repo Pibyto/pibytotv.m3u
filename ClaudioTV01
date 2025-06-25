@@ -1464,8 +1464,13 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1200px-ATV_Sur_-_2018_logo_%28final%29.png"group-title="PERÚ",ATV SUR   https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNL9bx0XnBAVw3a70E7Q6iO3QP4JOmw1dLA&s"group-title="PERÚ",TVPERÚ
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1200px-ATV_Sur_-_2018_logo_%28final%29.png"group-title="PERÚ",ATV SUR
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8 
+  
 
 
 
