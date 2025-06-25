@@ -570,8 +570,22 @@ https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKzjwmk/Untitled-removebg-preview.png"group-title="CINE PREMIUM",PLAY TV MONTE GRANDE
+https://live20.bozztv.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20200203001356&path-prefix=es"group-title="CINE PREMIUM",MAGAZINE
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvQ2p3t/2q-Jl-Tsa3-KTA70-Th-K4-UAz-H66-J0-MF-2q-Jl-Tp-WH0-K294c6-VTx-Tftt1-GXDk-2q-Jl-URfo-XMh-Jz-NZy799-Hr.png"group-title="CINE PREMIUM",RESTELLI TV CANAL 5 MG
+https://live20.bozztv.com:443/giatvplayout7/giatv-208770/tracks-v1a1/mono.ts.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",CINECANAL
@@ -595,6 +609,9 @@ http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2669
 #EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",CINEMAX
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/50833
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmPdFc6/2q-Ed-Tbpni-Pos-Vcic3q-RYf9v-Ck-UJ-2q-Ed-Xur-VXia-Uw2cu-EJs-FUQGC0e-G-2q-Ed-YZNNlw-Yh7-S5ls-Mya2v-Zs.png"group-title="CINE PREMIUM",9 DE ABRIL TV MONTE GRANDE
+https://live20.bozztv.com:443/giatvplayout7/giatv-208730/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",CINE FAMILIAR
@@ -626,6 +643,19 @@ http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2677
 
 #EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",HBO +
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2678
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2cN6Fn9/Screenshot-20250101-192206-Chrome-removebg-preview.png"group-title="CINE PREMIUM",WOW MOVIES
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NB0xRSs/Photoroom-20250622-235111.png"group-title="CINE PREMIUM",OPINION SUR CINE
+https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5Z2R3gy/Photoroom-20250622-234004.png"group-title="CINE PREMIUM",DIGI TV
+https://live20.bozztv.com/giatv/giatv-digitv/digitv/chunks.m3u8
+
 
 
 
@@ -752,6 +782,10 @@ http://tvpremiund.ddns.me:2082/91781252/271222zero/72756
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.svg/revision/latest/scale-to-width-down/284?cb=20210102135802&path-prefix=es"group-title="TDA BS.AS",TV PUBLICA   23.2
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/167
+
+
+
 https://g2.proy-slo.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
 
@@ -778,7 +812,8 @@ http://tvpremiund.ddns.me:2082/91781252/271222zero/1891
 
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-Yr9u8FmG-kU/VmX4oB2uwJI/AAAAAAAAARM/QQa-xTVDKgk/s1600/America%2BHD%2B1.png"group-title="TDA BS.AS", AMÉRICA  36.1
-https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2345
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png"group-title="TDA BS.AS",LA NACION+ HD
@@ -789,26 +824,9 @@ http://tvpremiund.ddns.me:2082/91781252/271222zero/2344
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2342
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Canal_8_MDP_%282022%2C_ultimate_logo%29.png/revision/latest/scale-to-width-down/284?cb=20220727153321"group-title="TDA BS.AS",CANAL 8 MDP
-https://stream.arcast.ar/c8mdp/ngrp:c8mdp_all/chunklist_w317776450_b1463296_tkd293emF0b2tlbmVuZHRpbWU9MTc1MDc0MjQwMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTAmd293emF0b2tlbmhhc2g9bU8yUF9EN29McTktaTNCRjRrdXZuSGJRRmtlMDlqNEI0S2VVc24tQ1hjZz0=.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CANAL 10 MDP
-https://g3.proy-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",ELOCHO
-
 
 #EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",TELEVIDA
-https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8?nimblesessionid=67423742
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",CHAVO DEL 8
-
-
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/televidaar/livestream1/chunks.m3u8
 
 
 
@@ -828,41 +846,14 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1x6nW2m/Photoroom-20250616-235155.png"group-title="TDA BS.AS",NEOX TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y4W6fbxW/Photoroom-20250622-233001.png"group-title="TDA BS.AS",ULTRA TV
 https://micanal.ovh/livestreams/82.Y5V0JHNSYGDA.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7NB0xRSs/Photoroom-20250622-235111.png"group-title="TDA BS.AS",OPINION SUR CINE
-https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="TDA BS.AS",
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j9BYNp91/Photoroom-20250525-154813.png"group-title="TDA BS.AS",PLAY TV MONTE GRANDE
-https://live20.bozztv.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4mWFFQX/Screenshot-20241226-092057-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",GENTV HD  17.3
 https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3u8
@@ -872,13 +863,8 @@ https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GvQ2p3t/2q-Jl-Tsa3-KTA70-Th-K4-UAz-H66-J0-MF-2q-Jl-Tp-WH0-K294c6-VTx-Tftt1-GXDk-2q-Jl-URfo-XMh-Jz-NZy799-Hr.png"group-title="TDA BS.AS",RESTELLI TV CANAL 5 MG
-https://live20.bozztv.com:443/giatvplayout7/giatv-208770/tracks-v1a1/mono.ts.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M5Z2R3gy/Photoroom-20250622-234004.png"group-title="TDA BS.AS",DIGI TV
-https://live20.bozztv.com/giatv/giatv-digitv/digitv/chunks.m3u8
 
 
 
@@ -886,9 +872,6 @@ https://live20.bozztv.com/giatv/giatv-digitv/digitv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYQ6QnPK/Photoroom-20250604-000131.png"group-title="TDA BS.AS",CN53 PELICULAS
 https://live20.bozztv.com/akamaissh101/ssh101/codificador8/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gpjdmFd/Photoroom-20250603-235759.png"group-title="TDA BS.AS",RETROPLUS 3
-https://live20.bozztv.com/akamaissh101/ssh101/retroplustv03/chunks.m3u8
 
 
 
@@ -912,9 +895,10 @@ https://tv.streamcasthd.com:3450/live/tvmaslive.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmPdFc6/2q-Ed-Tbpni-Pos-Vcic3q-RYf9v-Ck-UJ-2q-Ed-Xur-VXia-Uw2cu-EJs-FUQGC0e-G-2q-Ed-YZNNlw-Yh7-S5ls-Mya2v-Zs.png"group-title="TDA BS.AS",9 DE ABRIL TV MONTE GRANDE
+https://live20.bozztv.com:443/giatvplayout7/giatv-208730/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2cN6Fn9/Screenshot-20250101-192206-Chrome-removebg-preview.png"group-title="TDA BS.AS",WOW MOVIES
-https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjV1gdBS/Photoroom-20250616-002323.png"group-title="TDA BS.AS",CANAL 12 HD
@@ -985,27 +969,11 @@ https://stmvideo1.livecastv.com:443/tvsion/tvsion/chunklist_w60030490.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TV1tcZZ/Photoroom-20250604-004727.png"group-title="TDA BS.AS",CANAL 50
-https://live20.bozztv.com/akamaissh101/ssh101/9101/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nq3jbPc1/Photoroom-20250604-004501.png"group-title="TDA BS.AS",DIOS TV
-https://live20.bozztv.com/akamaissh101/ssh101/unciontv/chunks.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png"group-title="TDA BS.AS",MULTIVISION HD
 https://panel.host-live.com:19360/8250/8250.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xmPdFc6/2q-Ed-Tbpni-Pos-Vcic3q-RYf9v-Ck-UJ-2q-Ed-Xur-VXia-Uw2cu-EJs-FUQGC0e-G-2q-Ed-YZNNlw-Yh7-S5ls-Mya2v-Zs.png"group-title="TDA BS.AS",9 DE ABRIL TV MONTE GRANDE
-https://live20.bozztv.com:443/giatvplayout7/giatv-208730/tracks-v1a1/mono.ts.m3u8
 
 
 
