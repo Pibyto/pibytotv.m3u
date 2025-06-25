@@ -917,6 +917,13 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
 
+
+#EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="TDA BS.AS",TV+
+https://tv.streamcasthd.com:3450/live/tvmaslive.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2cN6Fn9/Screenshot-20250101-192206-Chrome-removebg-preview.png"group-title="TDA BS.AS",WOW MOVIES
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 
@@ -1332,14 +1339,15 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtvpurosurperu/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PARAGUAY", SNT https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png"group-title="PARAGUAY", SNT
+https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PARAGUAY", C9N https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/LOGO_C9N_2022.png/1200px-LOGO_C9N_2022.png"group-title="PARAGUAY",C9N https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg7zrIkar6b9ZRlhqCsmyk8FTM_0btWRdYLnk1HvIkYP5gNc48D1JpHUyQeBeZJv7BO2T4bXI0Nki2iAk6fMNWRRE1fhraPfARYtpOBsGnE7oNHxLqSO1RMf-4WEDwej9Hk1xhbhyEnM8AuIpSm8UXwFB1nArjVA_oBBrEzVObfEcOuVEoSLoZVe5GSrI7w=s850"group-title="PARAGUAY", NEXT TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg7zrIkar6b9ZRlhqCsmyk8FTM_0btWRdYLnk1HvIkYP5gNc48D1JpHUyQeBeZJv7BO2T4bXI0Nki2iAk6fMNWRRE1fhraPfARYtpOBsGnE7oNHxLqSO1RMf-4WEDwej9Hk1xhbhyEnM8AuIpSm8UXwFB1nArjVA_oBBrEzVObfEcOuVEoSLoZVe5GSrI7w=s850"group-title="PARAGUAY",NEXT TV
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
@@ -1382,10 +1390,10 @@ https://live20.bozztv.com:443/akamaissh101/ssh101/mixboliviatvvip/chunks.m3u8
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",BOLIVISION https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/original.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bolivision.png"group-title="BOLIVIA",BOLIVISION https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/original.m3u8 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",RTP https://rtp.noxun.net/hls/stream.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rtpbolivia2021.png/250px-Rtpbolivia2021.png"group-title="BOLIVIA",RTP https://rtp.noxun.net/hls/stream.m3u8 
 
 
 #EXTINF:-1 tvg-logo=""group-title="BOLIVIA", 
@@ -1410,15 +1418,15 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="VENEZUELA", VENEVISIÓN https://venevision.akamaized.net/hls/live/2098814/VENEVISION/3/streamPlaylist.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/1708px-Logotipo_de_Venevisi%C3%B3n.svg.png"group-title="VENEZUELA",V+ https://venevision.akamaized.net/hls/live/2098814/VENEVISION/3/streamPlaylist.m3u8 
 
 
-#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",CANAL I https://canaliliv-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2021_05/large.Canal_i.png.c042d79b9c2b6b8ef6d0fe45e2f9c977.png"group-title="VENEZUELA",CANAL I https://canaliliv-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8 
 
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",NOVELISIMA https://cis-no-es.otteravision.com/cis/no_es/no_es_720p_high.m3u8
+#EXTINF:-1 tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png"group-title="VENEZUELA",NOVELISIMA https://cis-no-es.otteravision.com/cis/no_es/no_es_720p_high.m3u8
 
 
 
@@ -1430,21 +1438,21 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PERÚ",ATV HD https://d1bva7j5xkfa6y.cloudfront.net/62261ec43964f31a19bec77f/live/live_0.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png"group-title="PERÚ",ATV HD https://d1bva7j5xkfa6y.cloudfront.net/62261ec43964f31a19bec77f/live/live_0.m3u8 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PERÚ",ATV+ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8 
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="PERÚ",ATV SUR https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8 
-
-
-#EXTINF:-1 tvg-logo=""group-title="PERÚ",LATINA https://jireh-1-hls-video-br-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b211756597096859cdec04679&sid=ba5t1l1xb23342209156859cdec04677&ndvc=1 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png"group-title="PERÚ",ATV+ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8 
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PERÚ",COSMOS https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w84781770.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1200px-ATV_Sur_-_2018_logo_%28final%29.png"group-title="PERÚ",ATV SUR https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Latina_Television_-_Logotipo.png"group-title="PERÚ",LATINA https://jireh-1-hls-video-br-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b211756597096859cdec04679&sid=ba5t1l1xb23342209156859cdec04677&ndvc=1 
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/COSMOS_logo2K24-100.jpg"group-title="PERÚ",COSMOS https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w84781770.m3u8 
 
 
 
@@ -1469,29 +1477,29 @@ https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECUAVISA https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks_dvr.m3u8?dpssid=b2671425022685aa2a33a501&sid=ba5t1l1xb21745332173685aa2ccd5b49&ndvc=0 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png"group-title="ECUADOR",ECUAVISA https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks_dvr.m3u8?dpssid=b2671425022685aa2a33a501&sid=ba5t1l1xb21745332173685aa2ccd5b49&ndvc=0 
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECUADOR TV https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png"group-title="ECUADOR",ECUADOR TV https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8 
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",RTS https://alba-ec-rts-rts.stream.mediatiquestream.com/original.m3u8 
-
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",TVC https://alba-ec-tvc-tvc.stream.mediatiquestream.com/live_0.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Rts_2005.png/revision/latest?cb=20201015015958&path-prefix=es"group-title="ECUADOR",RTS https://alba-ec-rts-rts.stream.mediatiquestream.com/original.m3u8 
 
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",GAMAVISION https://stream.esradioecuador.com/hls/stream.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest?cb=20230215230242&path-prefix=es"group-title="ECUADOR",TVC https://alba-ec-tvc-tvc.stream.mediatiquestream.com/live_0.m3u8 
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="ECUADOR",OROMAR TV https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png"group-title="ECUADOR",GAMAVISION https://stream.esradioecuador.com/hls/stream.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROILt62_HGSt0wpL2AzASaR1Yy31RcfbcSdg&s"group-title="ECUADOR",OROMAR TV https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 
 
@@ -1505,10 +1513,10 @@ https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PUERTO RICO",TELEMUNDO https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"group-title="PUERTO RICO",TELEMUNDO https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PUERTO RICO",UNIMAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png"group-title="PUERTO RICO",UNIMAS
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/80959
 
 
@@ -1520,27 +1528,27 @@ http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/80959
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PUERTO RICO",TELEMUNDO
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/telemundo-puerto-rico1732568838.logowik.com.webp"group-title="PUERTO RICO",TELEMUNDO
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/55146
 
 
-#EXTINF:-1 tvg-logo=""group-title="PUERTO RICO",WAPA2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/WAPA-TV_logo.svg"group-title="PUERTO RICO",WAPA
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/7098
 
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PUERTO RICO",AMERICATEVE https://live.gideo.video/americateve2/HD1080/HD1080.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/WSPF-CD_Am%C3%A9rica_Tev%C3%A9_Tampa_logo.png"group-title="PUERTO RICO",AMERICATEVE https://live.gideo.video/americateve2/HD1080/HD1080.m3u8 
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PUERTO RICO",MEGA TV https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png"group-title="PUERTO RICO",MEGA TV https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PUERTO RICO",UNIVISION NOTICIAS https://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Noticias_Univision_logo_2019.svg/2560px-Noticias_Univision_logo_2019.svg.png"group-title="PUERTO RICO",UNIVISION NOTICIAS https://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PUERTO RICO",WIPR https://streamwipr.pr/hls/stream/index.m3u8?
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/WIPR-TV_2015.svg/revision/latest/scale-to-width-down/200?cb=20201221001542"group-title="PUERTO RICO",WIPR https://streamwipr.pr/hls/stream/index.m3u8?
 
 
 
@@ -1557,20 +1565,20 @@ https://ssh101.bozztv.com:443/ssh101/canallms/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="MEXICO",CINE ESTRELLA https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSduIAxBJp5xsIhg9B32HTjqtVZpgcJwxLJWw&s"group-title="MEXICO",CINE ESTRELLA https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="MEXICO", IMÁGEN TV https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="MEXICO",IMAGEN  https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8 
 
 
-#EXTINF:-1 tvg-logo=""group-title="MEXICO",CANAL ONCE https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2098304.m3u8 
+#EXTINF:-1 tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2019/01/Banner-logo-canal-once-e1523045891245.png"group-title="MEXICO",ONCE https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2098304.m3u8 
 
 
-#EXTINF:-1 tvg-logo=""group-title="MEXICO",MVS TV https://mvs-live.daioncdn.net/mvstv/mvstv_1080p.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/03/MVS_TV_logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20110905153043&path-prefix=es"group-title="MEXICO",MVS TV https://mvs-live.daioncdn.net/mvstv/mvstv_1080p.m3u8 
 
 
-#EXTINF:-1 tvg-logo=""group-title="MEXICO",CANAL 14 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/CanalCatorce2017.png/revision/latest?cb=20210415165958&path-prefix=es"group-title="MEXICO",CANAL 14 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuXNZDeHf1-uYVaNI0es2GTfC66rMLHGcO8g&usqp=CAU"group-title="MEXICO",CANAL MAS TELEVISIÓN 
@@ -1605,16 +1613,16 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yhYvwzD/Screenshot-20250111-080920-XPlayer-Video-Player-removebg-preview.png"group-title="ESPAÑA",BOM CINE
+#EXTINF:-1 tvg-logo="https://contenidostv.es/images/bomCine512.png"group-title="ESPAÑA",BOM CINE
 http://185.189.225.150:85/BOM/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",PARAMOUNT SPAIN
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jVhz0wMKa1tLFlRylQjApGca6DHTUT1StQWr1kNccjBHM0ySLcDRPt4XuG6VA8g21wsHbyOuGLU=s900-c-k-c0x00ffffff-no-rj"group-title="ESPAÑA",PARAMOUNT SPAIN
 http://185.189.225.150:85/Paramount/index.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",AMC SPAIN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg"group-title="ESPAÑA",AMC SPAIN
 http://vegafibratv.com:8085/AMC/index.m3u8
 
 
@@ -1741,7 +1749,9 @@ https://5e85d90130e77.streamlock.net:443/6028/6028/chunklist_w1901575909.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcRzf1XWUq987Etxq_wbP4TkGCEgdl7WNVRQ&usqp=CAU"group-title="HONDURAS",WOW MOVIES
-https://ssh101.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+
+
 
 
 
@@ -1857,11 +1867,12 @@ https://fl1004.bozztv.com:443/ssh101/tvhd211/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="TDA INTERIOR",CANAL 2 GUALEGUAY
-https://stream.arcast.net:4443/gualeguay/gualeguay/chunklist_w1039971660.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://tvmas.com.ar/wp-content/uploads/2019/02/logo-tvmas-1.png"group-title="TDA INTERIOR",TV+
 https://tv.streamcasthd.com:3450/live/tvmaslive.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_5VyBbiWfZLfNXDQesJXD335ISlWtye7bww&usqp=CAU"group-title="TDA INTERIOR",2 SALTA
@@ -1939,15 +1950,14 @@ https://stream.arcast.com.ar:443/canal4eldorado/canal4eldorado/chunklist_w205305
 https://g1.vxral-hor.transport.edge-access.net:443/a05/ngrp:c12_live01-100129_all/c12_live01-100129_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-9-rio-gallegos.png"group-title="TDA INTERIOR",CANAL 9 
+#EXTINF:-1 tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-9-rio-gallegos.png"group-title="TDA INTERIOR",CANAL 2 GUALEGUAY
+https://stream.arcast.net:4443/gualeguay/gualeguay/chunklist_w1039971660.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://el10tv.com/wp-content/uploads/2022/10/cropped-logo-1.png"group-title="TDA INTERIOR",10 SALTA
 https://restreamer.el10tv.com/memfs/725003c4-79c2-4565-8311-f429db4f7777.m3u8?PlaylistM3UCL
-
-
-
 
 
 
@@ -1985,8 +1995,6 @@ https://panel.host-live.com:19360/8076/8076.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyJVKGWk0vHNvIEhxrvdteHT1LsKMdFrizb9J_zuVItmyaeei-QbzqE0XKfZXEZjAyoLweXecjnSu6eYtEwuI5W_S-MKyxDGFnfXT1gxPM3thM7W9krwJLUro07Rj3NR9hjHBKtjHW5ajR4I7npNYTyTvPYrnATMgagbbGFL3Qc9_LNPfmGJhzwgt9/s200/canal9-litoral.png"group-title="TDA INTERIOR", CANAL 9 HD  9.3 LITORAL
 https://stream.arcast.live:443/ahora/ahora/chunklist_w1967933953.m3u8?PlaylistM3UCL
 
@@ -2000,14 +2008,9 @@ https://stream.arcast.ar:443/c8mdp/ngrp:c8mdp_all/chunklist_w750338720_b1763328_
 
 
 
-https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w492484021_b613840.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA INTERIOR",PANC TV HD 15.1 TUCUMÁN
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/panctvargentina/playlist.m3u8
 
-https://stream.trixserver.com:3088/live/uv096live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-3-pinamar.png"group-title="TDA INTERIOR",CANAL 3 HD  3.0  PINAMAR
 https://intelincloud01.com.ar/hls/cn3/index.m3u8?PlaylistM3UCL
@@ -2031,7 +2034,6 @@ https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
 https://cnnsanjuan.com:9999/live/telesol/chunks.m3u8?nimblesessionid=4715812
 
 
-https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9jZTojlxaIg5LhEwS1Pr49d32CtIqC6lUUA&usqp=CAU"group-title="TDA INTERIOR",ZONDA TV
