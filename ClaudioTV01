@@ -1339,13 +1339,13 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtvpurosurperu/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png"group-title="PARAGUAY", SNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png"group-title="PARAGUAY", SNT 
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/LOGO_C9N_2022.png/1200px-LOGO_C9N_2022.png"group-title="PARAGUAY", C9N
- https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/LOGO_C9N_2022.png/1200px-LOGO_C9N_2022.png"group-title="PARAGUAY",C9N 
+https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg7zrIkar6b9ZRlhqCsmyk8FTM_0btWRdYLnk1HvIkYP5gNc48D1JpHUyQeBeZJv7BO2T4bXI0Nki2iAk6fMNWRRE1fhraPfARYtpOBsGnE7oNHxLqSO1RMf-4WEDwej9Hk1xhbhyEnM8AuIpSm8UXwFB1nArjVA_oBBrEzVObfEcOuVEoSLoZVe5GSrI7w=s850"group-title="PARAGUAY",NEXT TV
@@ -1391,8 +1391,7 @@ https://live20.bozztv.com:443/akamaissh101/ssh101/mixboliviatvvip/chunks.m3u8
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bolivision.png"group-title="BOLIVIA",BOLIVISION
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bolivision.png"group-title="BOLIVIA",BOLIVISION 
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/original.m3u8 
 
 
@@ -1422,18 +1421,17 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/1708px-Logotipo_de_Venevisi%C3%B3n.svg.png"group-title="VENEZUELA",V+
- https://venevision.akamaized.net/hls/live/2098814/VENEVISION/3/streamPlaylist.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/1708px-Logotipo_de_Venevisi%C3%B3n.svg.png"group-title="VENEZUELA",V+ 
+https://venevision.akamaized.net/hls/live/2098814/VENEVISION/3/streamPlaylist.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2021_05/large.Canal_i.png.c042d79b9c2b6b8ef6d0fe45e2f9c977.png"group-title="VENEZUELA",CANAL I
- https://canaliliv-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2021_05/large.Canal_i.png.c042d79b9c2b6b8ef6d0fe45e2f9c977.png"group-title="VENEZUELA",CANAL I 
+https://canaliliv-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png"group-title="VENEZUELA",NOVELISIMA
- https://cis-no-es.otteravision.com/cis/no_es/no_es_720p_high.m3u8
+#EXTINF:-1 tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png"group-title="VENEZUELA",NOVELISIMA  https://cis-no-es.otteravision.com/cis/no_es/no_es_720p_high.m3u8
 
 
 
@@ -1445,31 +1443,30 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png"group-title="PERÚ", ATV HD
- https://d1bva7j5xkfa6y.cloudfront.net/62261ec43964f31a19bec77f/live/live_0.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png"group-title="PERÚ", ATV HD 
+https://d1bva7j5xkfa6y.cloudfront.net/62261ec43964f31a19bec77f/live/live_0.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png"group-title="PERÚ",ATV+
- https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png"group-title="PERÚ",ATV+ 
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1200px-ATV_Sur_-_2018_logo_%28final%29.png"group-title="PERÚ",ATV SUR
- https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1200px-ATV_Sur_-_2018_logo_%28final%29.png"group-title="PERÚ",ATV SUR  https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Latina_Television_-_Logotipo.png"group-title="PERÚ",LATINA
- https://jireh-1-hls-video-br-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b211756597096859cdec04679&sid=ba5t1l1xb23342209156859cdec04677&ndvc=1 
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
+ 
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/COSMOS_logo2K24-100.jpg"group-title="PERÚ",COSMOS
- https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w84781770.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/COSMOS_logo2K24-100.jpg"group-title="PERÚ",COSMOS 
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w84781770.m3u8 
 
 
 
 #EXTINF:-1 tvg-logo=""group-title="PERÚ"
-,CDN
+,CDN 
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
 
@@ -1499,35 +1496,35 @@ https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png"group-title="ECUADOR",ECUAVISA
- https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks_dvr.m3u8?dpssid=b2671425022685aa2a33a501&sid=ba5t1l1xb21745332173685aa2ccd5b49&ndvc=0 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png"group-title="ECUADOR",ECUAVISA 
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks_dvr.m3u8?dpssid=b2671425022685aa2a33a501&sid=ba5t1l1xb21745332173685aa2ccd5b49&ndvc=0 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png"group-title="ECUADOR",ECUADOR TV
- https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png"group-title="ECUADOR",ECUADOR TV 
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8 
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Rts_2005.png/revision/latest?cb=20201015015958&path-prefix=es"group-title="ECUADOR",RTS
- https://alba-ec-rts-rts.stream.mediatiquestream.com/original.m3u8 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest?cb=20230215230242&path-prefix=es"group-title="ECUADOR",TVC
- https://alba-ec-tvc-tvc.stream.mediatiquestream.com/live_0.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Rts_2005.png/revision/latest?cb=20201015015958&path-prefix=es"group-title="ECUADOR",RTS 
+https://alba-ec-rts-rts.stream.mediatiquestream.com/original.m3u8 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png"group-title="ECUADOR",GAMAVISION
- https://stream.esradioecuador.com/hls/stream.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest?cb=20230215230242&path-prefix=es"group-title="ECUADOR",TVC 
+https://alba-ec-tvc-tvc.stream.mediatiquestream.com/live_0.m3u8 
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROILt62_HGSt0wpL2AzASaR1Yy31RcfbcSdg&s"group-title="ECUADOR",OROMAR TV
- https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png"group-title="ECUADOR",GAMAVISION 
+https://stream.esradioecuador.com/hls/stream.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROILt62_HGSt0wpL2AzASaR1Yy31RcfbcSdg&s"group-title="ECUADOR",OROMAR TV 
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 
 
