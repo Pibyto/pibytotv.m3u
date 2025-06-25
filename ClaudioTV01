@@ -1279,6 +1279,39 @@ https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",LATELE
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2390
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",PARAVISION
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2392
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",TELEFUTURO
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2396
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",SUR TV
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2395
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",GEN
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/14812
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",NOTICIAS PY
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/14807
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/LOGO_C9N_2022.png/1200px-LOGO_C9N_2022.png"group-title="PARAGUAY",C9N 
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8 
 
