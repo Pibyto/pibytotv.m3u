@@ -1658,8 +1658,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png"group-title="ESPAÑA",STAR TVE
-https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Atreseries_2015.svg/revision/latest?cb=20200629150117&path-prefix=es"group-title="ESPAÑA",A3SERIES
+http://hls.webredirect.org/83716/mp_9414.php/https://atres-live.atresmedia.com/e44db44899880b47da8f072ca7bdada897baf105_ES_1750798705_1750827445/h264leg/live/a3series/bitrate_3.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://contenidostv.es/images/bomCine512.png"group-title="ESPAÑA",BOM CINE
@@ -1675,16 +1676,16 @@ http://185.189.225.150:85/Paramount/index.m3u8
 http://vegafibratv.com:8085/AMC/index.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",
 
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",
 
 
 
-
-
-
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",
 
 
 
