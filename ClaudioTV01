@@ -962,69 +962,89 @@ https://panel.host-live.com:19360/8250/8250.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://corrientes.tv/wp-content/uploads/2024/04/Corrientes-TV.webp"group-title="TDA BS.AS",CORRIENTES TV HD
+#EXTINF:-1 tvg-logo="https://corrientes.tv/wp-content/uploads/2024/04/Corrientes-TV.webp"group-title="ARGENTINA",CORRIENTES TV HD
 https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://canalluz.org/assets/images/canalluz-303x103.png"group-title="TDA BS.AS",CANAL LUZ HD
+#EXTINF:-1 tvg-logo="https://canalluz.org/assets/images/canalluz-303x103.png"group-title="ARGENTINA",CANAL LUZ HD
 https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="TDA BS.AS",ALTAR TV HD
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s203312/images/logod.png?t=162333"group-title="ARGENTINA",ALTAR TV HD
 https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x7d9FT0/images-removebg-preview.png"group-title="TDA BS.AS",CINE DIOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x7d9FT0/images-removebg-preview.png"group-title="ARGENTINA",CINE DIOS
 https://canal.mediaserver.com.co/live/cinedios.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BtbzpsN/canal-5-arg.png"group-title="TDA BS.AS",canal 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BtbzpsN/canal-5-arg.png"group-title="ARGENTINA",canal 5
 https://stmv4.voxtvhd.com.br:443/canal5pueblo/canal5pueblo/chunklist_w855762317.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f0YPh6h/images-removebg-preview-2.png"group-title="TDA BS.AS",TELE CINCO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0YPh6h/images-removebg-preview-2.png"group-title="ARGENTINA",TELE CINCO
 https://videohd.live:19360/8016/8016.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/drPPYJg/images-removebg-preview.png"group-title="TDA BS.AS",TELEMIX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/drPPYJg/images-removebg-preview.png"group-title="ARGENTINA",TELEMIX HD
 https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="TDA BS.AS",PANC TV HD 15.1
+#EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png"group-title="ARGENTINA",PANC TV HD 15.1
 https://panel.host-live.com:19360/20004/20004.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNYSy9z/descarga-removebg-preview.png"group-title="TDA BS.AS", CANAL 34 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNYSy9z/descarga-removebg-preview.png"group-title="ARGENTINA", CANAL 34 HD
 https://streamyes.alsolnet.com:443/canal34hd/live/chunklist_w1539060189.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8rdFqzB/Screenshot-20241226-094215-XPlayer-Video-Player-removebg-preview.png"group-title="TDA BS.AS",METRO TV HD  18.1 TUCUMÁN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rdFqzB/Screenshot-20241226-094215-XPlayer-Video-Player-removebg-preview.png"group-title="ARGENTINA",METRO TV HD  18.1 TUCUMÁN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png?w=276"group-title="TDA BS.AS",SOLIDARIA TV HD
+#EXTINF:-1 tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png?w=276"group-title="ARGENTINA",SOLIDARIA TV HD
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png"group-title="TDA BS.AS",PAKA PAKA HD   22.2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png"group-title="ARGENTINA",PAKA PAKA HD   22.2
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png"group-title="TDA BS.AS",TELEMAX HD  26.3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png"group-title="ARGENTINA",TELEMAX HD  26.3
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
