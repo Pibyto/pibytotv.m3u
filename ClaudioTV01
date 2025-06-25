@@ -1334,12 +1334,25 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/original.m3u8
  https://rtp.noxun.net/hls/stream.m3u8 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZR5fXSd6/Photoroom-20250625-151459.png"group-title="BOLIVIA", PUNTO TV
+https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/o_BnPPoAkfWvbMwHENm9RmCKf7o_t58Y8fbBPyCvTXKBLng9gV3PWcrUmoyGHS0hBgs"group-title="BOLIVIA",INTV
+https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/06/Canal-Univalle-Television.jpg"group-title="BOLIVIA",UNIVALLE 
+https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFKsr1ah7VcfVcVk3kylzQtp6xHxRZanotw&s"group-title="BOLIVIA",CCTV
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w500714650.m3u8
+
+
 #EXTINF:-1 tvg-logo=""group-title="BOLIVIA", 
 
 
 #EXTINF:-1 tvg-logo=""group-title="BOLIVIA",
-
-
 
 
 
