@@ -1973,6 +1973,58 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://play-cms.altice.com.do/uploads/romanatv_1267bb5f3b.png"group-title="RD",ROMANA TV
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSYMWYkjUvX60JF9w2m6y3st_gXT8lcyh7w&s"group-title="RD",NITIDA TV
+https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-800x450-FFFFFF.jpg"group-title="RD",MEGACINE
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://multicablemedios.hn/images/logofaviconvallevision1.png"group-title="RD",VALLEVISION
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w605220916.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/canal-dtv.jpg"group-title="RD",DTV
+https://s.emisoras.tv:8081/dtv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3326-640x360-FFFFFF.jpg"group-title="RD",VILLA ALTA GRACIA
+https://inliveserver.com:1936/10016/10016/chunklist_w229028939.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2142-800x450-FFFFFF.jpg"group-title="RD",CROM TV
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/cananga-tv.jpeg"group-title="RD",CANANGATV
+https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3692-800x450-FFFFFF.jpg"group-title="RD",TP
+https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/chunklist_w795864548.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/987-640x360-FFFFFF.jpg"group-title="RD",MICROVISION
+https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w576415785.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2986-800x450-FFFFFF.jpg"group-title="RD",CIBAEÑA TV
+https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="RD",SEÑAL DIGITAL
+https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a889a5_d93a414ce0504f8ebbc4d2c04882a23d~mv2.png/v1/fill/w_440,h_440,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telebrunca2-04.png"group-title="RD",TELE BRUNCA
 https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1177696492.m3u8
 
