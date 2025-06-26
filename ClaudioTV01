@@ -586,6 +586,9 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 https://live20.bozztv.com:443/giatvplayout7/giatv-208770/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://contenidostv.es/images/bomCine512.png"group-title="CINE PREMIUM",BOM CINE
+http://185.189.225.150:85/BOM/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",CINECANAL
@@ -850,6 +853,10 @@ http://vocotv.pro:80/bruce111/bruce111/3263
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RT_America_Logo.png/644px-RT_America_Logo.png"group-title="ARGENTINA",RT HD   25.5
 https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/hispantv_spain.jpg"group-title="ARGENTINA",HISPANTV
+https://live.presstv.ir/hls/hispantv.m3u8
 
 
 
