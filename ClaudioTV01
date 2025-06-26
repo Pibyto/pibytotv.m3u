@@ -1608,31 +1608,31 @@ https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PERÚ",DMJ
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/978_DMJ.png"group-title="PERÚ",DMJ
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PERÚ",TELE SELVA
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1546_Tele_Selva.png"group-title="PERÚ",TELE SELVA
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PERÚ",TELECOLOR
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1189_Telecolor_TV.png"group-title="PERÚ",TELECOLOR
 https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo=""group-title="PERÚ",TV EN LINEA
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png"group-title="PERÚ",TV EN LINEA
 https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="PERÚ",VIA ALTO MAYO
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png"group-title="PERÚ",VIA ALTO MAYO
 https://live.obslivestream.com:443/viaaltomayomux/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="PERÚ",VISION SUR TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGXVhjYg/Photoroom-20250626-022026.png"group-title="PERÚ",VISION SUR TV
 https://ott1.hdlatam.tv:443/live_abr/webtvVisionSur/live/Ia6tBZUR_1yptRX0C/chunks.m3u8
 
 
