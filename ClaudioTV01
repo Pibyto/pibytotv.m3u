@@ -1597,8 +1597,45 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w84781770.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png"group-title="PERÚ",URANEO TV
+#EXTINF:-1 tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png"group-title="PERÚ",URANIO TV
 https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2h8wpXP/Photoroom-20250626-013837.png"group-title="PERÚ",MeGaTV
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",DMJ
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",TELE SELVA
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",TELECOLOR
+https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",TV EN LINEA
+https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",VIA ALTO MAYO
+https://live.obslivestream.com:443/viaaltomayomux/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",VISION SUR TV
+https://ott1.hdlatam.tv:443/live_abr/webtvVisionSur/live/Ia6tBZUR_1yptRX0C/chunks.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTX6Ign8OtS0dp5XTcCjlCQbwCMyd0IlhMEQ&usqp=CAU"group-title="PERÚ",PLANETA HD
