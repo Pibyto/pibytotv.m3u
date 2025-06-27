@@ -1849,7 +1849,7 @@ http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/7098
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Noticias_Univision_logo_2019.svg/2560px-Noticias_Univision_logo_2019.svg.png
+#EXTINF:-1 tvg-logo="
 "group-title="PR.EE.UU",NOTICIAS UNIVISION
 https://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8 
 
@@ -1858,12 +1858,13 @@ https://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",KARIBEAN
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",CARIBEAN
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",BUENA TV
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/chunklist_w247502828.m3u8
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",SUMTV
@@ -1902,8 +1903,14 @@ https://streamwipr.pr/hls/stream/index.m3u8?
 
 
 
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/lms.png"group-title="MEXICO",LMS
-https://ssh101.bozztv.com:443/ssh101/canallms/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",AZTEKA 
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",CANAL 33 TIJUANA
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+
 
 
 
@@ -2320,14 +2327,8 @@ https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 https://live.eu-north-1b.cf.dmcdn.net/sec2(dJ4WsB9sxD7RWCLPwh3tH0AX9D6raofV44rRZzYsFf4T0DS79-eUDFbKbyrSI8UGysVHnj6_mH6ME-bX-6funuFnwpcWZ2FShCsKBskc_x8sjL5VqB8RHVorNQ71DpNG)/dm/3/x7vh8g3/d/live-720.m3u8
 
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo=""group-title="HONDURAS",CANAL 9
+https://s.emisoras.tv:8081/tvcopan/tracks-v1a1/mono.m3u8
 
 
 
