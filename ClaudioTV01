@@ -1731,53 +1731,53 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 
 
-##############(PUERTORICO)##################################################
+##############(PR.EE.UU)##################################################
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"group-title="PUERTO RICO",TELEMUNDO  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg"group-title="PR.EE.UU",TELEMUNDO  
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png"group-title="PUERTO RICO",UNIMAS  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png"group-title="PR.EE.UU",UNIMAS  
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/80959
 
 
-#EXTINF:-1 tvg-logo=""group-title="PUERTO RICO",UNIMAS 2
+#EXTINF:-1 tvg-logo="https://visionlatinapanama.com/assets/VISION_LATINA_LOGO_2D_v3%201-2ef0105d.png"group-title="PR.EE.UU",VISION LATINA
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/8adc9953-2bbd-2432-1708-e47d4fa08b96.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",WAPA+
+https://dcs-live-uw1.mp.lura.live/server/play/73BEBGTbxr58hXmj/rendition.m3u8?track=video-5&anvsid=m177610497-n3e48591eb1b4eae141d312e185cc3cbf&ts=1751000262&anvtrid=b3effd5d6a3584e4822db228f97fea6c
 
-#EXTINF:-1 tvg-logo=""group-title="PUERTO RICO",UNIVISION
 
-
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/telemundo-puerto-rico1732568838.logowik.com.webp"group-title="PUERTO RICO",TELEMUNDO  
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/telemundo-puerto-rico1732568838.logowik.com.webp"group-title="PR.EE.UU",TELEMUNDO  
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/55146
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/WAPA-TV_logo.svg"group-title="PUERTO RICO",WAPA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/WAPA-TV_logo.svg"group-title="PR.EE.UU",WAPA
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/7098
 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/WSPF-CD_Am%C3%A9rica_Tev%C3%A9_Tampa_logo.png"group-title="PUERTO RICO",AMERICATEVE  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/WSPF-CD_Am%C3%A9rica_Tev%C3%A9_Tampa_logo.png"group-title="PR.EE.UU",AMERICATEVE  
 https://live.gideo.video/americateve2/HD1080/HD1080.m3u8 
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png"group-title="PUERTO RICO",MEGA TV  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png"group-title="PR.EE.UU",MEGA TV  
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Noticias_Univision_logo_2019.svg/2560px-Noticias_Univision_logo_2019.svg.png"group-title="PUERTO RICO",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Noticias_Univision_logo_2019.svg/2560px-Noticias_Univision_logo_2019.svg.png"group-title="PR.EE.UU",
 UNIVISION NOTI     https://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/WIPR-TV_2015.svg/revision/latest/scale-to-width-down/200?cb=20201221001542"group-title="PUERTO RICO",WIPR  
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/WIPR-TV_2015.svg/revision/latest/scale-to-width-down/200?cb=20201221001542"group-title="PR.EE.UU",WIPR  
 https://streamwipr.pr/hls/stream/index.m3u8?
 
 
