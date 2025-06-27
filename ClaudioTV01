@@ -1827,7 +1827,28 @@ http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/7098
 https://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8 
 
 
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",WKAQ
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",KARIBEAN
+https://video2.getstreamhosting.com:19360/8216/8216.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",BUENA TV
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/chunklist_w247502828.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",SUMTV
+https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/chunklist_b2176000.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",NAT GEO LATINO
+https://cors-proxy.cooks.fyi/https:/streamer1.nexgen.bz/NAT_GEO/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",SPIRIT TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/WSPF-CD_Am%C3%A9rica_Tev%C3%A9_Tampa_logo.png"group-title="PR.EE.UU",AMERICATEVE  
