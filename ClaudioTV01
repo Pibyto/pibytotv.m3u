@@ -1778,6 +1778,20 @@ https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuXNZDeHf1-uYVaNI0es2GTfC66rMLHGcO8g&usqp=CAU"group-title="MEXICO",CANAL MAS TELEVISIÓN 
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 
+#EXTINF:-1 tvg-logo="https://tele10.nayarit.gob.mx/wp-content/uploads/2024/05/LOGO-WEB.png"group-title="MEXICO",TELE10
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvpacificomexico.png"group-title="MEXICO",TVP
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w361459224_b1428000_sleng.m3u8
+
+
+
+
+
+
+
+
 
 
 
@@ -1940,83 +1954,73 @@ https://cdn.streamhispanatv.net:3861/live/canal26quezadalive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2021/12/04.png"group-title="RD",TELEMAX RD HD
+#EXTINF:-1 tvg-logo="https://telemaxrd.com.do/wp-content/uploads/2021/12/04.png"group-title="R.DOMINICANA",TELEMAX RD HD
 https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="RD",IU TV HD
-https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
 
-
-
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image84741368099.jpg"group-title="RD",ORBIT TV HD
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image84741368099.jpg"group-title="R.DOMINICANA",ORBIT TV HD
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://megacinetv.net/favicon.ico"group-title="RD",MEGA CINE TV
+#EXTINF:-1 tvg-logo="https://megacinetv.net/favicon.ico"group-title="R.DOMINICANA",MEGA CINE TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://play-cms.altice.com.do/uploads/romanatv_1267bb5f3b.png"group-title="RD",ROMANA TV
+#EXTINF:-1 tvg-logo="https://play-cms.altice.com.do/uploads/romanatv_1267bb5f3b.png"group-title="R.DOMINICANA",ROMANA TV
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSYMWYkjUvX60JF9w2m6y3st_gXT8lcyh7w&s"group-title="RD",NITIDA TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSYMWYkjUvX60JF9w2m6y3st_gXT8lcyh7w&s"group-title="R.DOMINICANA",NITIDA TV
 https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-800x450-FFFFFF.jpg"group-title="RD",MEGACINE
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-800x450-FFFFFF.jpg"group-title="R.DOMINICANA",MEGACINE
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://multicablemedios.hn/images/logofaviconvallevision1.png"group-title="RD",VALLEVISION
+#EXTINF:-1 tvg-logo="https://multicablemedios.hn/images/logofaviconvallevision1.png"group-title="R.DOMINICANA",VALLEVISION
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w605220916.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/canal-dtv.jpg"group-title="RD",DTV
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/canal-dtv.jpg"group-title="R.DOMINICANA",DTV
 https://s.emisoras.tv:8081/dtv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3326-640x360-FFFFFF.jpg"group-title="RD",VILLA ALTA GRACIA
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3326-640x360-FFFFFF.jpg"group-title="R.DOMINICANA",VILLA ALTA GRACIA
 https://inliveserver.com:1936/10016/10016/chunklist_w229028939.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2142-800x450-FFFFFF.jpg"group-title="RD",CROM TV
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2142-800x450-FFFFFF.jpg"group-title="R.DOMINICANA",CROM TV
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/cananga-tv.jpeg"group-title="RD",CANANGATV
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/cananga-tv.jpeg"group-title="RA.DOMINICANA",CANANGATV
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3692-800x450-FFFFFF.jpg"group-title="RD",TP
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3692-800x450-FFFFFF.jpg"group-title="R.DOMINICANA",TP
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/chunklist_w795864548.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/987-640x360-FFFFFF.jpg"group-title="RD",MICROVISION
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/987-640x360-FFFFFF.jpg"group-title="R.DOMINICANA",MICROVISION
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w576415785.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2986-800x450-FFFFFF.jpg"group-title="RD",CIBAEÑA TV
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2986-800x450-FFFFFF.jpg"group-title="R.DOMINICANA",CIBAEÑA TV
 https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="RD",SEÑAL DIGITAL
+#EXTINF:-1 tvg-logo=""group-title="R.DOMINICANA",SEÑAL DIGITAL
 https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a889a5_d93a414ce0504f8ebbc4d2c04882a23d~mv2.png/v1/fill/w_440,h_440,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telebrunca2-04.png"group-title="RD",TELE BRUNCA
-https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1177696492.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png"group-title="RD",CB TV
-https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 
 
 
@@ -2076,10 +2080,23 @@ https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="COSTA RICA",IU TV HD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+
+
 
 
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=h:99,cg:true,m/qt=q:100/ll"group-title="COSTA RICA",EXTREMA TV HD
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a889a5_d93a414ce0504f8ebbc4d2c04882a23d~mv2.png/v1/fill/w_440,h_440,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20telebrunca2-04.png"group-title="COSTA RICA",TELE BRUNCA
+https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1177696492.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png"group-title="COSTA RICA",CB TV
+https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Canal1logo.png/revision/latest?cb=20240828025119&path-prefix=es"group-title="COSTA RICA",CANAL 1
