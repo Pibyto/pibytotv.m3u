@@ -1750,8 +1750,6 @@ http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/80959
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/8adc9953-2bbd-2432-1708-e47d4fa08b96.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",WAPA+
-https://dcs-live-uw1.mp.lura.live/server/play/73BEBGTbxr58hXmj/rendition.m3u8?track=video-5&anvsid=m177610497-n3e48591eb1b4eae141d312e185cc3cbf&ts=1751000262&anvtrid=b3effd5d6a3584e4822db228f97fea6c
 
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/telemundo-puerto-rico1732568838.logowik.com.webp"group-title="PR.EE.UU",TELEMUNDO  
@@ -1774,7 +1772,7 @@ https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Noticias_Univision_logo_2019.svg/2560px-Noticias_Univision_logo_2019.svg.png"group-title="PR.EE.UU",
-UNIVISION NOTI     https://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8 
+ UNIVISION NOTICIAS    https://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/WIPR-TV_2015.svg/revision/latest/scale-to-width-down/200?cb=20201221001542"group-title="PR.EE.UU",WIPR  
@@ -1854,11 +1852,6 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6834c6c7c875c2c1c16_dwe.png"group-title="ESPAÑA",DW ESPAÑOL HD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Atreseries_2015.svg/revision/latest?cb=20200629150117&path-prefix=es"group-title="ESPAÑA",A3SERIES
 
 
 
@@ -2001,7 +1994,8 @@ https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image84741368099.jpg"group-title="R.DOMINICANA",ORBIT TV HD
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
+
 
 
 
