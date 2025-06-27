@@ -560,6 +560,27 @@ http://tvpremiund.ddns.me:2082/91781252/271222zero/57163
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",NBA
+https://fl3.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TENNIS CHANNEL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TDN
+https://dvrfl03.bozztv.com/hondu-canal12/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1313,10 +1334,6 @@ https://v2.tustreaming.cl:443/chilechannel/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="CHILE",
-
-
-
 
 #EXTINF:-1 tvg-logo=""group-title="CHILE",24 hs
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
@@ -1736,8 +1753,10 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 
 
-#EXTINF:-1 logo-png="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/telemundo-acci-n-fclogo-72-white.png?trim=auto&ch=width&auto=format%2Ccompress&w=0.4&h=0.4"group-title="PR.EE.UU",T. ACCION
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_5.m3u8
+
+
+
+
 
 
 
@@ -1758,12 +1777,20 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 https://nbcu-telemundonortheast-firetv.amagi.tv/playlist1080.m3u8
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="PR.EE.UU",TELEMUNDO TEXAS
 https://nbcu-telemundotexas-firetv.amagi.tv/playlist1080.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="PR.EE.UU",TELEMUNDO WEST
 https://nbcu-telemundowest-firetv.amagi.tv/playlist1080.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="PR.EE.UU",TELEMUNDO ACCION
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_5.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="PR.EE.UU",TELEMUNDO ROMANCE
@@ -1788,7 +1815,7 @@ https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh_720.m3u8
 https://30a-tv.com/feeds/720p/63.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",ANGEL...
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",ANGER..
 https://livetv-fa.tubi.video/anger-management-espanol2/1080p-cc/index.m3u8
 
 
