@@ -1939,6 +1939,23 @@ https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 https://streamwipr.pr/hls/stream/index.m3u8?
 
 
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",
+https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",CGTN ESPAÑOL
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2274,6 +2291,9 @@ https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="R.DOMINICANA",LATINOS TV
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/chunklist_w819762293.m3u8
+
 
 
 
@@ -2425,8 +2445,6 @@ https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w123989251
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",LATINOS TV
-https://5790d294af2dc.streamlock.net/latinostv/latinostv/chunklist_w819762293.m3u8
 
 
 
