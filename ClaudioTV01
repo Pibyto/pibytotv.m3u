@@ -1743,6 +1743,24 @@ https://stream.esradioecuador.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROILt62_HGSt0wpL2AzASaR1Yy31RcfbcSdg&s"group-title="ECUADOR",OROMAR TV 
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="HONDURAS",TELEMAS
+https://viewhn.com/telemas/live/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",VOZ Y TV
+https://cloud37.ecuatel.com/vostv/live/chunklist_w1330789036.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",UNIANDES
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECUADOR TV
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
+
+
+
+
 
 
 
@@ -2017,6 +2035,9 @@ https://live.presstv.ir/hls/hispantv.m3u8
 https://d2xqbi89ghm9hh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/9cca5cbc-11a3-4aa5-bbc0-ec3829eb32be/0.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",LA 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+
 
 
 
@@ -2085,6 +2106,59 @@ https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YiY_KePKY8mvVSxERReimV77nxjv6vprtw&s"group-title="GUATEMALA",QUESADÁTV
 https://cdn.streamhispanatv.net:3861/live/canal26quezadalive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="GUATEMALA",VISION TV
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="GUATEMALA",TELECOSTAS
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="GUATEMALA",SOL TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="GUATEMALA",SAS TV
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="GUATEMALA",PENIEL KIDS
+https://s.emisoras.tv:8081/penielkids/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="GUATEMALA",PENIEL MISIC
+https://s.emisoras.tv:8081/penielmusical/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="GUATEMALA",PENIEL BIBLIA ABIERTA
+https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="GUATEMALA",CANAL 3
+https://s.emisoras.tv:8081/penielkids/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="GUATEMALA",CANAL 30
+https://s.emisoras.tv:8081/canal30tvbethel/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="GUATEMALA",CANAL9
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="GUATEMALA",CANAL 6
+https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/chunklist_w2015533979_b2176000.m3u8
+
+
+
+
+
+
+
 
 
 
