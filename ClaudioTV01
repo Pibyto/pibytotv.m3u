@@ -2082,30 +2082,30 @@ https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",CANAL 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Canal1logo.png/revision/latest?cb=20240828025119&path-prefix=es"group-title="COSTA RICA",CANAL 1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8? MonteGrandePlay
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",CANAL 8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Canal_8_Costa_Rica.svg/revision/latest/scale-to-width-down/250?cb=20211002192232&path-prefix=es"group-title="COSTA RICA",CANAL 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?MonteGrandePlay
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",COLOSAL TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nK3GKHXqrYM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6uhAXTJy2ARNmA_7o0VjOlyjNXw"group-title="COSTA RICA",COLOSAL TV
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8?MonteGrandePlay
 
 
-#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",NICOYA TV
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/816-8164472_nicoya-tv.png"group-title="COSTA RICA",NICOYA TV
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w43567730.m3u8?MontegrandePlay
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",NOSARA TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5BYr8FaRq_hb6-0CkYnFmyLIn7b223Zgpizoq99BK-10e7XVjAyF9dvVflzFZmRdBrs"group-title="COSTA RICA",NOSARA TV
 https://latamvdo.com:3870/hybrid/play.m3u8?MonteGrandePlay
 
 
-#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",CANAL 14 TVN
+#EXTINF:-1 tvg-logo="https://www.tvn14.com/wp-content/uploads/2024/09/cropped-Logo-TVN-512x512-1.png"group-title="COSTA RICA",CANAL 14 TVN
 https://5fd8fec96951d.streamlock.net:8443/TVN/CH14.stream_720p/playlist.m3u8?MonteGrandePlay
 
 
