@@ -24,7 +24,6 @@ https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208817/Con
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="MOVIE",
 
 
 
@@ -761,9 +760,15 @@ https://telefeviacom1.akamaized.net:443/hls/live/2037987/viacomINT/TOK/master-wi
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG"group-title="ARGENTINA",EL NUEVE 
 http://tvpremiund.ddns.me:2082/91781252/271222zero/2346
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.svg/revision/latest/scale-to-width-down/284?cb=20210102135802&path-prefix=es"group-title="ARGENTINA",TV PUBLICA   23.2
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/167
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yyHXtGG/Screenshot-20241226-095830-XPlayer-Video-Player-removebg-preview.png"group-title="ARGENTINA",TELEFE op2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9wvLNrg/2r-Bs-Skv-IGMpj-DKk-H5-O1y-Nv-AIaf-F-2r-Bsbz-Rpn2a-KGv-I32-Dot-O10-Lsv-V-2r-Bscftp-AXm-It-HOVGJa-MG1.png"group-title="ARGENTINA",MONTE GRANDE TV HD CANAL 12
+https://live20.bozztv.com/giatvplayout7/giatv-209181/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yyHXtGG/Screenshot-20241226-095830-XPlayer-Video-Player-removebg-previe⁷w.png"group-title="ARGENTINA",TELEFE op2
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 
@@ -771,6 +776,8 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/ElTreceInternacional2017.png/revision/latest?cb=20171001002322"group-title="ARGENTINA",EL 9 
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist_w1546314826_b2044100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmPdFc6/2q-Ed-Tbpni-Pos-Vcic3q-RYf9v-Ck-UJ-2q-Ed-Xur-VXia-Uw2cu-EJs-FUQGC0e-G-2q-Ed-YZNNlw-Yh7-S5ls-Mya2v-Zs.png"group-title="ARGENTINA",9 DE ABRIL TV MONTE GRANDE
+https://live20.bozztv.com:443/giatvplayout7/giatv-208730/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -795,9 +802,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
 http://tvpremiund.ddns.me:2082/91781252/271222zero/72756
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="ARGENTINA",A24 HD
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/66132
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.svg/revision/latest/scale-to-width-down/284?cb=20210102135802&path-prefix=es"group-title="ARGENTINA",TV PUBLICA   23.2
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/167
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9W0Tt88/2q-Guv-Jh-J44-Sgmfl9l-VKQd-XCw-JId-2q-Guv-D3-Ad-CZDI5-Tr-Zs-Jh-OIGvcx-E-2q-Guw-BBKVO3-EWq-Ej0-KPFI0y.png"group-title="ARGENTINA",NUESTRAS MALVINAS TV MONTE GRANDE
@@ -814,8 +821,6 @@ https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png"group-title="ARGENTINA",A24 HD
-http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/66132
 
 
 #EXTINF:-1 tvg-logo="https://www.elcuatro.com/public/img/marcas/marcas_canal4_297.png"group-title="ARGENTINA",CANAL 4 HD
@@ -899,10 +904,6 @@ https://tv.streamcasthd.com:3450/live/tvmaslive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xmPdFc6/2q-Ed-Tbpni-Pos-Vcic3q-RYf9v-Ck-UJ-2q-Ed-Xur-VXia-Uw2cu-EJs-FUQGC0e-G-2q-Ed-YZNNlw-Yh7-S5ls-Mya2v-Zs.png"group-title="ARGENTINA",9 DE ABRIL TV MONTE GRANDE
-https://live20.bozztv.com:443/giatvplayout7/giatv-208730/tracks-v1a1/mono.ts.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjV1gdBS/Photoroom-20250616-002323.png"group-title="ARGENTINA",CANAL 12 HD
 https://nd106.republicaservers.com:443/hls/diegologonitv/0_1/index.m3u8?sessId=3190510
 
@@ -928,34 +929,12 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLYM8B9y/Screenshot-20250310-213401-XPlayer-Video-Player-removebg-preview.png"group-title="ARGENTINA",10
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9wvLNrg/2r-Bs-Skv-IGMpj-DKk-H5-O1y-Nv-AIaf-F-2r-Bsbz-Rpn2a-KGv-I32-Dot-O10-Lsv-V-2r-Bscftp-AXm-It-HOVGJa-MG1.png"group-title="ARGENTINA",MONTE GRANDE TV HD CANAL 12
-https://live20.bozztv.com/giatvplayout7/giatv-209181/tracks-v1a1/mono.ts.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RsXQZZD/Photoroom-20250503-193657.png"group-title="ARGENTINA",MG TV  LIVE SSH
-https://live20.bozztv.com/akamaissh101/ssh101/montegrandetv/playlist.m3u8
-
-
-
-https://live20.bozztv.com/akamaissh101/ssh101/mgtvlive/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TDZR48TN/Photoroom-20250322-185831.png"group-title="ARGENTINA",YESHÙA TV - EL 🕊 ESPIRITU Y LA NOVIA DICEN VEN
 https://live20.bozztv.com/giatvplayout7/giatv-209163/tracks-v1a1/mono.ts.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8L79pbv0/Photoroom-20250510-195832.png"group-title="ARGENTINA",LA RADIO DE LA BENDICION MG RADIO
 https://live20.bozztv.com/giatvplayout7/giatv-209909/tracks-v1a1/mono.ts.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=h:99,cg:true,m/qt=q:100/ll"group-title="ARGENTINA",EXTREMA TV HD
-https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
-
 
 
 
@@ -2075,6 +2054,59 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Tutvcanal11.png"group-title="ELSALVADOR",TUTV
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+############( COSTA RICA )############
+######################################
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/75380f17-280f-498d-bd00-2b95796dbc8f/logo%20extrema%20tv%20png-0001.png/:/rs=h:99,cg:true,m/qt=q:100/ll"group-title="COSTA RICA",EXTREMA TV HD
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w309182400.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",CANAL 1
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8? MonteGrandePlay
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",CANAL 8
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?MonteGrandePlay
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",COLOSAL TV
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8?MonteGrandePlay
+
+
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",NICOYA TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w43567730.m3u8?MontegrandePlay
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",NOSARA TV
+https://latamvdo.com:3870/hybrid/play.m3u8?MonteGrandePlay
+
+
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",CANAL 14 TVN
+https://5fd8fec96951d.streamlock.net:8443/TVN/CH14.stream_720p/playlist.m3u8?MonteGrandePlay
 
 
 
