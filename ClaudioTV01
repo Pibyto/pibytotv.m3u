@@ -1563,6 +1563,33 @@ https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",TDT MULTIMEDIA
+https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w1803867423.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",TELE6
+https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",TVU
+https://s1.tvdatta.com:3557/live/tvulive.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",F10
+https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",TVA
+https://play.agenciastreaming.com:19360/8160/8160.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2290,8 +2317,12 @@ https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="ELSALVADOR",GSG TV
+https://schurch1.bozztv.com/livecdn69/live/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="ELSALVADOR",WOW TV
+https://schurch1.bozztv.com/livecdn69/live/chunklist.m3u8
 
 
 
@@ -2355,15 +2386,47 @@ https://latamvdo.com:3870/hybrid/play.m3u8?MonteGrandePlay
 https://5fd8fec96951d.streamlock.net:8443/TVN/CH14.stream_720p/playlist.m3u8?MonteGrandePlay
 
 
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",SURQUI TV
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title=COSTA RICA",SUR TV
+https://k20.usastreams.com:8081/tvsur/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",TD TV
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",SARAPIQUI TV
+https://lstv.duckdns.org:449/hls/stv.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title=COSTA RICA",RETROX TV
+https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",GANG TV
+https://s3.tvdatta.com:3030/live/kmk3live.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",KMK3
+https://s3.tvdatta.com:3030/live/kmk3live.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title=COSTA RICA",AT SEIS
+https://video1.azulstream.com:8081/antenaseistv/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",OPA TV
+https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w1239892518.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",LATINOS TV
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/chunklist_w819762293.m3u8
 
 
 
