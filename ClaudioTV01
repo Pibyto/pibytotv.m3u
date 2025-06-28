@@ -1821,12 +1821,49 @@ https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/Romance_logo.png"group-title="PERÚ",ROMANCE
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",PLANEATV
 https://play.agenciastreaming.com:8081/planeatv/index.fmp4.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",AUTENTICA TV
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",CANAL 8
+https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",CR TV
+https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",HECHIZERA TV
+https://video.misistemareseller.com/corporationhc/corporationhc/chunklist_w1215638026.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",IMPACTO TV
+https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",NOVA TV STAR
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",RNTV
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",UNITEL TV
+https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",SOLTV
+https://video03.logicahost.com.br/soltv/soltv/chunklist_w1490080761.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",RSELVA
+https://live.obslivestream.com/selvatv/tracks-v1a1/mono.m3u8
 
 
 
@@ -2354,7 +2391,7 @@ https://video.ejeserver.com/live/mcitelevision.m3u8?MonteGrandePlay
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",MSTV
+#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",NSTV
 https://stmv4.voxtvhd.com.br/nstv/nstv/chunklist_w1373775433.m3u8?MonteGrandePlay
 
 
