@@ -959,6 +959,10 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4fKrVzq/Photoroom-20250627-221728.png"group-title="ARGENTINA",CANAL 21 HD
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8?MonteGrandePlay
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ymrj5XL/Photoroom-20250604-002012.png"group-title="ARGENTINA",EL MAGO TV
 https://live20.bozztv.com/akamaissh101/ssh101/elmagotv2/chunks.m3u8
 
@@ -1631,6 +1635,84 @@ https://canaliliv-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1  tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png
 "group-title="VENEZUELA",NOVELISIMA
 https://cis-no-es.otteravision.com/cis/no_es/no_es_720p_high.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",VEO TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",VENEVISION
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/5160000.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TVS
+https://vcp10.myplaytv.com/tvs/tvs/chunklist_w989702023.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TVV
+https://vcp3.myplaytv.com/trv/trv/chunklist_w1990007506.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TRT
+https://vcp12.myplaytv.com/trt/trt/chunklist_w372301857.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TOROCOCOTV
+https://us.streaminghd.cl/torococotelevision/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TELESOL
+https://vcp15.myplaytv.com/telesoltv/telesoltv/chunklist_w107280909.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TELECENTRO
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TELETUYA
+https://tv.webtuya.com:3726/hybrid/play.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",SIEMBRA TV
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/chunklist_w1496366920.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",PANAVISION
+https://vcp.myplaytv.com/panavision/panavision/chunklist_w1738271455.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",REFORMA TV
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/chunklist_w175581047.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",ONZA TV
+https://stmv1.srvstm.com/gproducciones/gproducciones/chunklist_w1934784341.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",MAS TALK
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f/5160000.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",KTV
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",CHIVACOA TV
+https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8
+
+
+
+
+
+
+
+
 
 
 
