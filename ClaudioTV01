@@ -584,6 +584,14 @@ https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/1080p
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TELEDEPORTE 1080p.
+https://d2a02gfcid1k4a.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/4302f421-e993-4c66-b085-e8b9bd2d3557/3.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TELEDEPORTE 720p.
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+
+
 
 
 
@@ -607,6 +615,14 @@ https://live20.bozztv.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",CINE ESTRELLA
 https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",XTREMA ACCION
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",XTREMA DIBUJOS ANIMADOS
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",SONY CHANNEL
@@ -1638,7 +1654,7 @@ https://cis-no-es.otteravision.com/cis/no_es/no_es_720p_high.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",VEO TV
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TV0
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 
 
@@ -2038,6 +2054,20 @@ https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/a
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",ESTRELLA NEWS
+https://estrella-news-oando.amagi.tv/playlistR1080p.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",ESTRELLA TV
+https://estrellatv-oando.amagi.tv/playlistR1080p.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",AV
+https://dvrfl03.bozztv.com/hondu-alientovision/tracks-v1a1/mono.ts.m3u8
+
+
+
+
 
 
 
@@ -2063,6 +2093,11 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="MEXICO",CANAL 33 TIJUANA
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",CANAL 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/chunklist_w1143532473_b3428000_sleng.m3u8
 
 
 
@@ -2387,6 +2422,11 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8?MonteGrandePlay
 https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8?MonteGrandePlay
 
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="R.DOMINICANA",IU TV HD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+
+
+
 #EXTINF:-1 tvg-logo=""group-title="R.DOMINICANA",SAN ISIDRO TV
 https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8?MonteGrandePlay
 
@@ -2456,8 +2496,8 @@ https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/chunklist_w819762293.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo=""group-title="R.DOMINICANA",TV SUR
+https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8?MonteGrandePlay
 
 
 
@@ -2521,8 +2561,6 @@ https://schurch1.bozztv.com/livecdn69/live/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/imagenuniversaltv.com/wp-content/uploads/2022/03/cropped-Logo-imagen-Universal-TV-512-x-512.png?fit=512%2C512&ssl=1"group-title="COSTA RICA",IU TV HD
-https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
 
 
@@ -2631,9 +2669,16 @@ https://5e85d90130e77.streamlock.net:443/6014/6014/chunklist_w1091679071.m3u8
 https://5e85d90130e77.streamlock.net:443/6028/6028/chunklist_w1901575909.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="HONDURAS",TV CENTRO
+https://cloud2.streaminglivehd.com:1936/8032/8032/chunklist_w1160128497.m3u8?MonteGrandePlay
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcRzf1XWUq987Etxq_wbP4TkGCEgdl7WNVRQ&usqp=CAU"group-title="HONDURAS",WOW MOVIES
+#EXTINF:-1 tvg-logo=""group-title="HONDURAS",DIOS TEVE
+https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="HONDURAS",WOW MOVIES
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 
 
@@ -2648,13 +2693,12 @@ https://s.emisoras.tv:8081/tvcopan/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="HONDURAS",CANAL 11
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo=""group-title="HONDURAS",JEHOVA TV
+https://video.misistemareseller.com/jehovatelevision/jehovatelevision/chunklist_w1768847750.m3u8?MonteGrandePlay
 
 
 
