@@ -572,16 +572,16 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 https://dvrfl03.bozztv.com/hondu-canal12/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",FITE
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263/variant/22099681.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",DAZN RINGSIDE 
+https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/1080p-cc/index.m3u8
 
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",BEIN SPORTS Ñ
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
 
@@ -605,7 +605,16 @@ https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",CINE ESTRELLA
+https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8
 
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",SONY CHANNEL
+https://fl3.moveonjoy.com/Sony_Movie_Channel/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",CINESONY
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20200203001356&path-prefix=es"group-title="CINE PREMIUM",MAGAZINE
