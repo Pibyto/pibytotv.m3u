@@ -2015,6 +2015,13 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_5.m3u8
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_5.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",PRITV
+https://live20.bozztv.com:443/akamaissh101/ssh101/tv1251master/chunks.m3u8
+
+
+
 #EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",NOVELISIMA
 https://stream.ads.ottera.tv/cl/250627d1favime6tocfl5bmcmg/1280x720_3071200_0_f.m3u8
 
@@ -2418,6 +2425,10 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="COLOMBIA",WTV
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8?MonteGrandePlay
+
+
+#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",
+https://live20.bozztv.com:443/akamaissh101/ssh101/costa800122/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo=""group-title="COLOMBIA",MCI
