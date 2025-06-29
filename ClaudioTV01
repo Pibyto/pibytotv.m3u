@@ -1574,19 +1574,24 @@ https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w1489871788.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1YbQnGdd/Screenshot-20250622-235903-XPlayer-Video-Player.jpg"group-title="BOLIVIA",MIX TV
-https://live20.bozztv.com:443/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/P3aa2VFB_VIiqc01voYXCTcHxo4zkeNe2QxGrU6n2h844bbK6dZ8chURJz_nvV8OhQ"group-title="BOLIVIA",CINERAMA TV
-https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",NEXTV
+https://live20.bozztv.com:443/akamaissh101/ssh101/vnl2025live/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bolivision.png"group-title="BOLIVIA",BOLIVISION 
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/original.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YbQnGdd/Screenshot-20250622-235903-XPlayer-Video-Player.jpg"group-title="BOLIVIA",MIX TV
+https://live20.bozztv.com:443/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8
+
 
 
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rtpbolivia2021.png/250px-Rtpbolivia2021.png"group-title="BOLIVIA",RTP
