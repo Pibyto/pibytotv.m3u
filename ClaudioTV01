@@ -2164,6 +2164,18 @@ https://dvrfl03.bozztv.com/hondu-alientovision/tracks-v1a1/mono.ts.m3u8
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",LMS
+https://live20.bozztv.com:443/akamaissh101/ssh101/canallms/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo=""group-title="MEXICO",AZTEKA 
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
