@@ -1280,8 +1280,15 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="CHILE",RED TV CHILLAN
-https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="CHILE",REDTV HD 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SvF8DQC/3dgifmaker23584.gif"group-title="CHILE",PLENITUD TV HD 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png"group-title="CHILE",+CINE
@@ -1293,6 +1300,19 @@ https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0RW7vLm8/IMG-20250330-WA0067.jpg"group-title="CHILE",PLENITUD TV JUVENIL HD
+https://live20.bozztv.com/giatvplayout7/giatv-209259/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.tevevida.com/images/logo_01.png"group-title="CHILE",TEVE VIDA HD
+https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.satvcordoba.org.ar/portal/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-26-at-20.21.25-640x239.jpeg"group-title="CHILE",TV SALUD
+https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2022/11/LOGO-CARACOLA-05.png"group-title="CHILE",CARACOLA TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
@@ -1302,9 +1322,9 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="CHILE",ENLACE BPB HD CHILE
+https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="CHILE",REDTV HD 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://puranoticia.pnt.cl/cms/imag/v1/logos/xlogo_main_white.png.pagespeed.ic.raDmLS9R3H.png"group-title="CHILE",PURA NOTICIA TV
@@ -1316,13 +1336,26 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8
 https://v2.tustreaming.cl:443/chilechannel/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/018b252f-fb34-4329-9c8c-cd82b3ba8357/01.jpg"group-title="CHILE",CANAL 1
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SvF8DQC/3dgifmaker23584.gif"group-title="CHILE",PLENITUD TV HD 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="CHILE",RED TV CHILLAN
+https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest/scale-to-width-down/284?cb=20211128231238&path-prefix=es"group-title="CHILE",TVMAS 2
+https://marine2.miplay.cl/tateti/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/ee/Locomotion.png/revision/latest/scale-to-width-down/1200?cb=20181118125705&path-prefix=es"group-title="CHILE",LOCOMOTION TV
 http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://neotv.cl./assets/img/channels/castrotv.png"group-title="CHILE",CASTRO TV
+https://videostream.chileservidores.com:8081/chiloe4/index.m3u8
 
 
 
@@ -1339,18 +1372,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/testvideo40/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0RW7vLm8/IMG-20250330-WA0067.jpg"group-title="CHILE",PLENITUD TV JUVENIL HD
-https://live20.bozztv.com/giatvplayout7/giatv-209259/tracks-v1a1/mono.ts.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest/scale-to-width-down/284?cb=20211128231238&path-prefix=es"group-title="CHILE",TVMAS 2
-https://marine2.miplay.cl/tateti/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://neotv.cl./assets/img/channels/castrotv.png"group-title="CHILE",CASTRO TV
-https://videostream.chileservidores.com:8081/chiloe4/index.m3u8
 
 
 
@@ -1358,16 +1380,11 @@ https://videostream.chileservidores.com:8081/chiloe4/index.m3u8
 http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAuYbFKEW7eplR40akTvOSLK4
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="CHILE",ENLACE BPB HD CHILE
-https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-960x540-000000.jpg"group-title="CHILE",RESTAURANDO VIDAS TV HD
 https://v4.tustreaming.cl:443/restaurandovida/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="https://www.tevevida.com/images/logo_01.png"group-title="CHILE",TEVE VIDA HD
-https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
 
 
 
@@ -1439,8 +1456,6 @@ https://ythls.armelin.one/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/018b252f-fb34-4329-9c8c-cd82b3ba8357/01.jpg"group-title="CHILE",CANAL 1
-
 
 
 
@@ -1451,11 +1466,47 @@ https://marine2.miplay.cl/ntv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://esportsmaxtele.com/wp-content/uploads/2024/02/Max-anime-logo-1.png"group-title="CHILE",MAX ANIME
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CONSTIVISION
+https://unlimited1-us.dps.live:443/cm/cm.smil/cm/livestream1/chunks.m3u8?nimblesessionid=2058453211
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CANAL57
+https://panel.tvstream.cl:1936/8016/8016/chunklist_w29094144.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CANAL2
+https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",ATACAMA NOTICIAS
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE RED 25
+https://v2.tustreaming.cl/chiloered/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",TV0 SAN VICENTE
+https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",TV TURF
+https://tvturf4.janus.cl:443/playlist/stream.m3u8?s=hd&t=3&id=0c8bb2a5-cc37-c908-c119-88e80af159e8&q=&d=w
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",TNE
+https://v2.tustreaming.cl/tnetv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",REC TV
+https://marine2.miplay.cl/rec/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",ÑUBLE VISION
+https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",NATIVA
+https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
 
 
 
