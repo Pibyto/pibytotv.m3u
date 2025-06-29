@@ -1284,18 +1284,50 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
 https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png"group-title="CHILE",+CINE
+https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/62ed6e625a88e7000951ac98/mediaLibrary/photo/2e324b2a-7bc2-4eee-bba3-958741c0962e-extra-large-standard-q100.png"group-title="CHILE",TV QUELLON
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2022/11/LOGO-CARACOLA-05.png"group-title="CHILE",CARACOLA TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/13-Teleseries-en-vivo-Online.png?resize=696%2C392&ssl=1"group-title="CHILE",TELESERIES
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="CHILE",REDTV HD 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://puranoticia.pnt.cl/cms/imag/v1/logos/xlogo_main_white.png.pagespeed.ic.raDmLS9R3H.png"group-title="CHILE",PURA NOTICIA TV
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfTLDPp/unnamed-removebg-preview.png"group-title="CHILE",CHILE CHANNEL
+https://v2.tustreaming.cl:443/chilechannel/tracks-v1a1/mono.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SvF8DQC/3dgifmaker23584.gif"group-title="CHILE",PLENITUD TV HD 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/ee/Locomotion.png/revision/latest/scale-to-width-down/1200?cb=20181118125705&path-prefix=es"group-title="CHILE",LOCOMOTION TV
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://atacamatelevision.com/archivos/img/logo.png"group-title="CHILE",ATACAMA TV
+https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 
 
 
@@ -1312,6 +1344,16 @@ https://live20.bozztv.com/giatvplayout7/giatv-209259/tracks-v1a1/mono.ts.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest/scale-to-width-down/284?cb=20211128231238&path-prefix=es"group-title="CHILE",TVMAS 2
+https://marine2.miplay.cl/tateti/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://neotv.cl./assets/img/channels/castrotv.png"group-title="CHILE",CASTRO TV
+https://videostream.chileservidores.com:8081/chiloe4/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png"group-title="CHILE",TVN
 http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAuYbFKEW7eplR40akTvOSLK4
 
@@ -1322,70 +1364,42 @@ https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-960x540-000000.jpg"group-title="CHILE",RESTAURANDO VIDAS TV HD
 https://v4.tustreaming.cl:443/restaurandovida/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
+
+
 #EXTINF:-1 tvg-logo="https://www.tevevida.com/images/logo_01.png"group-title="CHILE",TEVE VIDA HD
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2511-960x540-000000.jpg"group-title="CHILE",VC MEDIOS 
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
 
 #EXTINF:-1 tvg-logo="https://redtvcomunicaciones.weebly.com/uploads/1/4/8/2/148208235/published/1723435059820-transformed-1-removebg-preview.png?1723436446"group-title="CHILE",RV TV
 https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/dvc-television.png"group-title="CHILE",DVC TV
-https://us.streaminghd.cl/dvctelevision/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/62ed6e625a88e7000951ac98/mediaLibrary/photo/2e324b2a-7bc2-4eee-bba3-958741c0962e-extra-large-standard-q100.png"group-title="CHILE",TV QUELLON
-https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://veotv.cl/img/logo_transparente.png"group-title="CHILE",VEO TV
 https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://neotv.cl./assets/img/channels/castrotv.png"group-title="CHILE",CASTRO TV
-https://videostream.chileservidores.com:8081/chiloe4/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/terrortv.png"group-title="CHILE",TERROR TV
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kanade-2.png"group-title="CHILE",KANADE TV
-https://streaming-cl.sh1ny.space:443/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa_output_0.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/latinokidstv.png"group-title="CHILE",LATINO KIDS TV
-https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
-
+https://xui-backend.energeek.cl/live/13/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/big-tv.png"group-title="CHILE",BIG TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/lim-tv.png"group-title="CHILE",INVASIVA TV
-https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rfTLDPp/unnamed-removebg-preview.png"group-title="CHILE",CHILE CHANNEL
-https://v2.tustreaming.cl:443/chilechannel/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="CHILE",24 hs
-https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://puranoticia.pnt.cl/cms/imag/v1/logos/xlogo_main_white.png.pagespeed.ic.raDmLS9R3H.png"group-title="CHILE",PURA NOTICIA TV
-https://pnt.janusmedia.tv/hls/pnt.m3u8
 
 
 
@@ -1394,81 +1408,55 @@ https://ythls.armelin.one/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.1955925048_LaRed(Chile)Logo2021.png.ba6f0edd9f3366c1a3d45ef126a0417e.png"group-title="CHILE",LA RED
-https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_de_Canal_13_HD_%282010-2018%29.png"group-title="CHILE",CANAL 13
-https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wBLJUT5HJHPBUrUk5y5P7SgsB05jXQ-8vQ&usqp=CAU"group-title="CHILE",MEGANOTICIAS
-https://ythls.armelin.one/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/13-Teleseries-en-vivo-Online.png?resize=696%2C392&ssl=1"group-title="CHILE",TELESERIES
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+
 
 
 
 #EXTINF:-1 tvg-logo="https://opinionsur.cl/wp-content/uploads/2024/07/Asset-5.png"group-title="CHILE",OPINION SUR SERIES
-https://glb.bozztv.com/glb/ssh101/opinionsurs/index.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://opinionsur.cl/wp-content/uploads/2024/07/Asset-5.png"group-title="CHILE",OPINION SUR NIÑOS
-https://glb.bozztv.com/glb/ssh101/opinionsurn/index.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/monitv.png"group-title="CHILE",MONITV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4e8209_a6735c43870047ed982018ead2933f07~mv2.png/v1/fill/w_102,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Fundacion_apanines_trazado_sinfondo.png"group-title="CHILE",APANINES
-https://fl1004.bozztv.com:443/ssh101/apaninestv02/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://opinionsur.cl/wp-content/uploads/2024/07/Asset-5.png"group-title="CHILE",OPINION SUR CINE
-https://fl1002.bozztv.com/ssh101/opinionsur/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://tvprime.cl/wp-content/uploads/2024/10/Prime-e1728914067611-300x142.png"group-title="CHILE",TVPRIME PELICULAS
-https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png"group-title="CHILE",+CINE
-https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
+
+
 
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/018b252f-fb34-4329-9c8c-cd82b3ba8357/01.jpg"group-title="CHILE",CANAL 1
-https://tls-cl.cdnz.cl:443/canal21tv/live/chunklist_w1052170874.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://atacamatelevision.com/archivos/img/logo.png"group-title="CHILE",ATACAMA TV
-https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://www.satvcordoba.org.ar/portal/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-26-at-20.21.25-640x239.jpeg"group-title="CHILE",TV SALUD
-https://panel.miplay.cl:8081/tvsalud/index.m3u8?PlaylistM3UCL
 
 
 
 #EXTINF:-1 tvg-logo=""group-title="CHILE",NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/ee/Locomotion.png/revision/latest/scale-to-width-down/1200?cb=20181118125705&path-prefix=es"group-title="CHILE",LOCOMOTION TV
-http://51.222.85.85:81/hls/loco/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://esportsmaxtele.com/wp-content/uploads/2024/02/Max-anime-logo-1.png"group-title="CHILE",MAX ANIME
-https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest/scale-to-width-down/284?cb=20211128231238&path-prefix=es"group-title="CHILE",TVMAS 2
-https://marine2.miplay.cl/tateti/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2022/11/LOGO-CARACOLA-05.png"group-title="CHILE",CARACOLA TV
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/s1pHmW_Ydj2YJEPYQtUfOq0RA4-ve3GvbFiCk-F07jV11MDM3NhHoE4ynMIE1kIaaas"group-title="CHILE",PURO SUR TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtvpurosurperu/playlist.m3u8
 
 
 
