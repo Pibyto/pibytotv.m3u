@@ -1304,11 +1304,6 @@ https://live20.bozztv.com:443/akamaissh101/ssh101/bigchannel/chunks.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/018b252f-fb34-4329-9c8c-cd82b3ba8357/01.jpg"group-title="CHILE",CANAL 1
-https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest/scale-to-width-down/284?cb=20211128231238&path-prefix=es"group-title="CHILE",TVMAS 2
 https://marine2.miplay.cl/tateti/playlist.m3u8
 
