@@ -1622,6 +1622,10 @@ https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w1803867423.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",SUCREMANTA TV
+https://micanal.ovh/livestreams/165.J7EMP5DQSY6H.m3u8
+
+
 #EXTINF:-1 tvg-logo=""group-title="BOLIVIA",TELE6
 https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
 
@@ -2431,6 +2435,9 @@ https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8?MonteGrandePlay
 #EXTINF:-1 tvg-logo=""group-title="COLOMBIA",TELECOSTA
 https://live20.bozztv.com:443/akamaissh101/ssh101/costa800122/chunks.m3u8
 
+
+#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",INTER CONECTV
+https://live20.bozztv.com:443/akamaissh101/ssh101/conecttv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="COLOMBIA",MCI
 https://video.ejeserver.com/live/mcitelevision.m3u8?MonteGrandePlay
