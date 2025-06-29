@@ -1933,6 +1933,10 @@ https://alba-ec-rts-rts.stream.mediatiquestream.com/original.m3u8
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/live_0.m3u8 
 
 
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",
+https://live20.bozztv.com:443/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8
+
+https://live20.bozztv.com:443/akamaissh101/ssh101/pantallaclasics/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png"group-title="ECUADOR",GAMAVISION 
@@ -2427,7 +2431,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8?MonteGrandePlay
 
 
-#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",
+#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",TELECOSTA
 https://live20.bozztv.com:443/akamaissh101/ssh101/costa800122/chunks.m3u8
 
 
@@ -2704,7 +2708,7 @@ https://cloudvideo.servers10.com:8081/8230/index.m3u8
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title=COSTA RICA", RETROX TV
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA", RETROX TV
 https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 
 
@@ -2716,7 +2720,7 @@ https://s3.tvdatta.com:3030/live/kmk3live.m3u8
 https://s3.tvdatta.com:3030/live/kmk3live.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title=COSTA RICA",AT SEIS
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",AT SEIS
 https://video1.azulstream.com:8081/antenaseistv/tracks-v1a1/mono.m3u8
 
 
