@@ -1296,6 +1296,28 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
 
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2h10YYLlxQLHJuQ52hKufJS--nnd0X1RfWg&s"group-title="CHILE",TVN
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2359
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png"group-title="CHILE",CHV
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/37973
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Logotipo_24_Horas_%282023_-_actual%29.png"group-title="CHILE",24hs
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2360
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png"group-title="CHILE",LA RED
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/30823
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png"group-title="CHILE",MEGA HD
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/14090
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png"group-title="CHILE",+CINE
