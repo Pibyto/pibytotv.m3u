@@ -2703,6 +2703,9 @@ https://k20.usastreams.com:8081/tvsur/tracks-v1a1/mono.m3u8
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="COSTA RICA",CARIBETV
+https://live20.bozztv.com:443/akamaissh101/ssh101/caribetv/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo=""group-title="COSTA RICA",SARAPIQUI TV
 https://lstv.duckdns.org:449/hls/stv.m3u8
