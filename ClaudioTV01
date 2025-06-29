@@ -634,7 +634,7 @@ https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",TVS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ldfbk6rC/Photoroom-20250629-132738.png"group-title="CINE PREMIUM",TVS
 https://vcp10.myplaytv.com/tvs/tvs/chunklist_w989702023.m3u8
 
 
@@ -1744,7 +1744,7 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/5160000.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TVS
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7JOOzq8n8oQ/mqdefault.jpg"group-title="VENEZUELA",TVS
 https://vcp10.myplaytv.com/tvs/tvs/chunklist_w989702023.m3u8
 
 
