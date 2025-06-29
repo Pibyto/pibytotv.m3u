@@ -987,12 +987,12 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4mWFFQX/Screenshot-20241226-092057-XPlayer-Video-Player-removebg-preview.png"group-title="ARGENTINA",GENTV HD  17.3
-https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/neotv-digital.png"group-title="ARGENTINA",NEO TV DIGITAL HD. 16.1 
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4mWFFQX/Screenshot-20241226-092057-XPlayer-Video-Player-removebg-preview.png"group-title="ARGENTINA",GENTV HD  17.3
+https://live20.bozztv.com:443/akamaissh101/ssh101/gentv/chunks.m3u8
 
 
 
@@ -1040,9 +1040,6 @@ https://tuvideoonline.com.ar:3215/live/lapoderosalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMbyPSbH/Photoroom-20250621-011803.png"group-title="ARGENTINA",play
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qLYM8B9y/Screenshot-20250310-213401-XPlayer-Video-Player-removebg-preview.png"group-title="ARGENTINA",10
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TDZR48TN/Photoroom-20250322-185831.png"group-title="ARGENTINA",YESHÙA TV - EL 🕊 ESPIRITU Y LA NOVIA DICEN VEN
@@ -1116,12 +1113,6 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-logo="https://nnssmadrid.files.wordpress.com/2015/09/a4-solidaria-tv.png?w=276"group-title="ARGENTINA",SOLIDARIA TV HD
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png"group-title="ARGENTINA",PAKA PAKA HD   22.2
-
 
 
 
@@ -1575,8 +1566,20 @@ https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w1489871788.m3u
  ##############( BOLIVIA )################################################
 
 
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo=""group-title="BOLIVIA",NEXTV
 https://live20.bozztv.com:443/akamaissh101/ssh101/vnl2025live/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bolivision.png"group-title="BOLIVIA",BOLIVISION 
