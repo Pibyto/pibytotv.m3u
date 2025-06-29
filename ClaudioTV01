@@ -592,9 +592,20 @@ https://d2a02gfcid1k4a.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 
-
 #EXTINF:-1 tvg-logo=""group-title="DEPORTES",FOX SPORTS 1 EE.UU
 https://fl3.moveonjoy.com/FOX_Sports_1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TD EXTRA
+https://live20.bozztv.com:443/akamaissh101/ssh101/mystreamingtdxt/chunks.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1563,7 +1574,10 @@ https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w1489871788.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1YbQnGdd/Screenshot-20250622-235903-XPlayer-Video-Player.jpg"group-title="BOLIVIA",MIX TV
-https://live20.bozztv.com:443/akamaissh101/ssh101/mixboliviatvvip/chunks.m3u8
+https://live20.bozztv.com:443/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/P3aa2VFB_VIiqc01voYXCTcHxo4zkeNe2QxGrU6n2h844bbK6dZ8chURJz_nvV8OhQ"group-title="BOLIVIA",CINERAMA TV
