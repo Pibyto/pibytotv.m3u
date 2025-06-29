@@ -1295,6 +1295,16 @@ https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/monitv.png"group-title="CHILE",MONITV
+https://live20.bozztv.com:443/akamaissh101/ssh101/monitvhd/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/big-tv.png"group-title="CHILE",BIG CHANNEL
+https://live20.bozztv.com:443/akamaissh101/ssh101/bigchannel/chunks.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/018b252f-fb34-4329-9c8c-cd82b3ba8357/01.jpg"group-title="CHILE",CANAL 1
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
@@ -1470,7 +1480,6 @@ https://xui-backend.energeek.cl/live/13/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/big-tv.png"group-title="CHILE",BIG TV
 
 
 #EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.1955925048_LaRed(Chile)Logo2021.png.ba6f0edd9f3366c1a3d45ef126a0417e.png"group-title="CHILE",LA RED
@@ -1481,8 +1490,6 @@ https://xui-backend.energeek.cl/live/13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wBLJUT5HJHPBUrUk5y5P7SgsB05jXQ-8vQ&usqp=CAU"group-title="CHILE",MEGANOTICIAS
 
-
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/monitv.png"group-title="CHILE",MONITV
 
 
 
@@ -1587,6 +1594,16 @@ https://copaco.desdeparaguay.net:443/venusmedia/venusmedia/chunklist_w2091978855
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdcNNZLYq5iXNBDx7tyDMC0kJeZZjyVeHlg&s"group-title="PARAGUAY",RTV REPUBLICA
 https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w1489871788.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",CAMBYRETA TV
+https://live20.bozztv.com:443/akamaissh101/ssh101/cambyretatv/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",SAN ROQUE TV
+https://live20.bozztv.com:443/akamaissh101/ssh101/sanroquearegua/chunks.m3u8
+
 
 
 
