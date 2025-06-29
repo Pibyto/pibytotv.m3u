@@ -667,6 +667,10 @@ http://185.189.225.150:85/BOM/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://contenidostv.es/images/bomCine512.png"group-title="CINE PREMIUM",MEGA TV
+https://live20.bozztv.com:443/akamaissh101/ssh101/megayurimaguas/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",CINECANAL
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
@@ -1568,17 +1572,7 @@ https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w1489871788.m3u
 
 
 
- ##############( BOLIVIA )###################################################
-
-
-
-
-
-
-
-
-
-
+ ##############( BOLIVIA )################################################
 
 
 #EXTINF:-1 tvg-logo=""group-title="BOLIVIA",NEXTV
