@@ -634,6 +634,18 @@ https://a-cdn.klowdtv.com:443/live1/cine_720p/chunks.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208817/tracks-v1a1/mono.ts.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",TVS
+https://vcp10.myplaytv.com/tvs/tvs/chunklist_w989702023.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="CINE PREMIUM",TELEMUNDO ACCION
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_5.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo=""group-title="CINE PREMIUM",CINE ESTRELLA
 https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8
 
