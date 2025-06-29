@@ -1636,7 +1636,12 @@ https://live20.bozztv.com:443/akamaissh101/ssh101/sanroquearegua/chunks.m3u8
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/15596
 
 
+#EXTINF:-1 tvg-logo="https://img.favpng.com/9/13/17/logo-entel-tv-hd-lyngsat-bolivia-png-favpng-CQte5BV55AJj8a1s9cJsEb81Q.jpg"group-title="BOLIVIA",ENTEL TV
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/81522
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png"group-title="BOLIVIA",RED UNO
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/76492
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bolivision.png"group-title="BOLIVIA",BOLIVISION 
@@ -1650,6 +1655,19 @@ https://live20.bozztv.com:443/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8
 
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rtpbolivia2021.png/250px-Rtpbolivia2021.png"group-title="BOLIVIA",RTP
  https://rtp.noxun.net/hls/stream.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://sucremantatv.com/wp-content/uploads/2022/10/sucremantatvhd.png"group-title="BOLIVIA",SUCREMANTA TV
+https://micanal.ovh/livestreams/165.J7EMP5DQSY6H.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV6_logo_2010.svg/revision/latest/scale-to-width-down/200?cb=20100528185020"group-title="BOLIVIA",TELE6
+https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.uajms.edu.bo/canal9tvu/wp-content/uploads/sites/70/2021/11/LOGOTVU.png"group-title="BOLIVIA",TVU
+https://s1.tvdatta.com:3557/live/tvulive.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZR5fXSd6/Photoroom-20250625-151459.png"group-title="BOLIVIA", PUNTO TV
@@ -1679,16 +1697,6 @@ https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w1803867423.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://sucremantatv.com/wp-content/uploads/2022/10/sucremantatvhd.png"group-title="BOLIVIA",SUCREMANTA TV
-https://micanal.ovh/livestreams/165.J7EMP5DQSY6H.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV6_logo_2010.svg/revision/latest/scale-to-width-down/200?cb=20100528185020"group-title="BOLIVIA",TELE6
-https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.uajms.edu.bo/canal9tvu/wp-content/uploads/sites/70/2021/11/LOGOTVU.png"group-title="BOLIVIA",TVU
-https://s1.tvdatta.com:3557/live/tvulive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png"group-title="BOLIVIA",F10
