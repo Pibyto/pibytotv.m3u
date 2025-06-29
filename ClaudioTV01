@@ -1283,12 +1283,7 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="CHILE",REDTV HD 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SvF8DQC/3dgifmaker23584.gif"group-title="CHILE",PLENITUD TV HD 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png"group-title="CHILE",+CINE
@@ -1300,12 +1295,33 @@ https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/018b252f-fb34-4329-9c8c-cd82b3ba8357/01.jpg"group-title="CHILE",CANAL 1
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest/scale-to-width-down/284?cb=20211128231238&path-prefix=es"group-title="CHILE",TVMAS 2
+https://marine2.miplay.cl/tateti/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="CHILE",REDTV HD 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SvF8DQC/3dgifmaker23584.gif"group-title="CHILE",PLENITUD TV HD 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0RW7vLm8/IMG-20250330-WA0067.jpg"group-title="CHILE",PLENITUD TV JUVENIL HD
 https://live20.bozztv.com/giatvplayout7/giatv-209259/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.tevevida.com/images/logo_01.png"group-title="CHILE",TEVE VIDA HD
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",NCTV
+https://pantera1-100GB-cl-movistar.dps.live/nctv/nctv.smil/nctv/livestream1/chunks.m3u8?nimblesessionid=2294978
 
 
 #EXTINF:-1 tvg-logo="https://www.satvcordoba.org.ar/portal/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-26-at-20.21.25-640x239.jpeg"group-title="CHILE",TV SALUD
@@ -1336,8 +1352,6 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8
 https://v2.tustreaming.cl:443/chilechannel/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/018b252f-fb34-4329-9c8c-cd82b3ba8357/01.jpg"group-title="CHILE",CANAL 1
-https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
 
 
@@ -1345,8 +1359,6 @@ https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest/scale-to-width-down/284?cb=20211128231238&path-prefix=es"group-title="CHILE",TVMAS 2
-https://marine2.miplay.cl/tateti/playlist.m3u8
 
 
 
@@ -1390,75 +1402,6 @@ https://v4.tustreaming.cl:443/restaurandovida/tracks-v1a1/mono.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2511-960x540-000000.jpg"group-title="CHILE",VC MEDIOS 
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
-
-
-#EXTINF:-1 tvg-logo="https://redtvcomunicaciones.weebly.com/uploads/1/4/8/2/148208235/published/1723435059820-transformed-1-removebg-preview.png?1723436446"group-title="CHILE",RV TV
-https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://veotv.cl/img/logo_transparente.png"group-title="CHILE",VEO TV
-https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kanade-2.png"group-title="CHILE",KANADE TV
-https://xui-backend.energeek.cl/live/13/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/big-tv.png"group-title="CHILE",BIG TV
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/chilevision-logo-D270F58613-seeklogo.com.png"group-title="CHILE",CHILEVISION
-https://ythls.armelin.one/channel/UCRsUoZYC1ULUspipMRnMhwg.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.1955925048_LaRed(Chile)Logo2021.png.ba6f0edd9f3366c1a3d45ef126a0417e.png"group-title="CHILE",LA RED
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_de_Canal_13_HD_%282010-2018%29.png"group-title="CHILE",CANAL 13
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wBLJUT5HJHPBUrUk5y5P7SgsB05jXQ-8vQ&usqp=CAU"group-title="CHILE",MEGANOTICIAS
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://opinionsur.cl/wp-content/uploads/2024/07/Asset-5.png"group-title="CHILE",OPINION SUR SERIES
-
-
-#EXTINF:-1 tvg-logo="https://opinionsur.cl/wp-content/uploads/2024/07/Asset-5.png"group-title="CHILE",OPINION SUR NIÑOS
-
-
-
-#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/monitv.png"group-title="CHILE",MONITV
-
-
-
-
-#EXTINF:-1 tvg-logo="https://opinionsur.cl/wp-content/uploads/2024/07/Asset-5.png"group-title="CHILE",OPINION SUR CINE
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo=""group-title="CHILE",NTV
@@ -1507,6 +1450,54 @@ https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="CHILE",NATIVA
 https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://redtvcomunicaciones.weebly.com/uploads/1/4/8/2/148208235/published/1723435059820-transformed-1-removebg-preview.png?1723436446"group-title="CHILE",RV TV
+https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://veotv.cl/img/logo_transparente.png"group-title="CHILE",VEO TV
+https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kanade-2.png"group-title="CHILE",KANADE TV
+https://xui-backend.energeek.cl/live/13/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/big-tv.png"group-title="CHILE",BIG TV
+
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.1955925048_LaRed(Chile)Logo2021.png.ba6f0edd9f3366c1a3d45ef126a0417e.png"group-title="CHILE",LA RED
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_de_Canal_13_HD_%282010-2018%29.png"group-title="CHILE",CANAL 13
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wBLJUT5HJHPBUrUk5y5P7SgsB05jXQ-8vQ&usqp=CAU"group-title="CHILE",MEGANOTICIAS
+
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/monitv.png"group-title="CHILE",MONITV
+
+
+
+
+#EXTINF:-1 tvg-logo="https://opinionsur.cl/wp-content/uploads/2024/07/Asset-5.png"group-title="CHILE",OPINION SUR CINE
+
+
+
+
+
+
+
+
+
+
 
 
 
