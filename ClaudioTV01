@@ -2257,6 +2257,9 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2098304.m3u8 
 
 
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",CANAL DOCE
+https://live20.bozztv.com:443/akamaissh101/ssh101/ochotv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/03/MVS_TV_logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20110905153043&path-prefix=es"group-title="MEXICO",MVS TV  
 https://mvs-live.daioncdn.net/mvstv/mvstv_1080p.m3u8 
 
@@ -2520,8 +2523,8 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w815871441.m3u8?MonteGrandePlay
 
 
-
-
+#EXTINF:-1 tvg-logo=""group-title="COLOMBIA",TELEALTURA
+https://live20.bozztv.com:443/akamaissh101/ssh101/codificador7/chunks.m3u8
 
 
 
@@ -2737,6 +2740,10 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?MonteGrand
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qLYM8B9y/Screenshot-20250310-213401-XPlayer-Video-Player-removebg-preview.png"group-title="COSTA RICA",CANAL 10
+https://live20.bozztv.com:443/akamaissh101/ssh101/tv10costarica/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nK3GKHXqrYM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6uhAXTJy2ARNmA_7o0VjOlyjNXw"group-title="COSTA RICA", COLOSAL TV
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8?MonteGrandePlay
 
@@ -2834,6 +2841,9 @@ https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="HONDURAS",C. JIMENEZ
+https://live20.bozztv.com:443/akamaissh101/ssh101/comunicaciones/chunks.m3u8
+
 
 
 #EXTIENF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2022_08/small.Logo-nuevo-canal-13.png.5536c5bee3021af048acb8cbc8993cb6.png"group-title="HONDURAS",CANAL 13
@@ -2844,6 +2854,12 @@ https://live.eu-north-1b.cf.dmcdn.net/sec2(dJ4WsB9sxD7RWCLPwh3tH0AX9D6raofV44rRZ
 https://s.emisoras.tv:8081/tvcopan/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="HONDURAS",CANAL 31
+https://live20.bozztv.com:443/akamaissh101/ssh101/tvcotui/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJGmybk2tZ9j68-o4O0itPHaWJAczyMI74Cg&s"group-title="HONDURAS",CANAL 22
+https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="HONDURAS",CANAL 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
