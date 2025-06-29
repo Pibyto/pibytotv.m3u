@@ -1629,8 +1629,13 @@ https://live20.bozztv.com:443/akamaissh101/ssh101/sanroquearegua/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",NEXTV
-https://live20.bozztv.com:443/akamaissh101/ssh101/vnl2025live/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/gallery/category_6/large.gallery_9461_6_9491.png.f3a8db436eb7144d85fbd8f8bee26767.png"group-title="BOLIVIA",UNITEL HD
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/15596
+
+
 
 
 
@@ -1670,29 +1675,32 @@ https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",TDT MULTIMEDIA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReSi50vbaP1UjmTO0ad3tD5GYD3il7t8M_lw&s"group-title="BOLIVIA",TDT MULTIMEDIA
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w1803867423.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",SUCREMANTA TV
+#EXTINF:-1 tvg-logo="https://sucremantatv.com/wp-content/uploads/2022/10/sucremantatvhd.png"group-title="BOLIVIA",SUCREMANTA TV
 https://micanal.ovh/livestreams/165.J7EMP5DQSY6H.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",TELE6
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV6_logo_2010.svg/revision/latest/scale-to-width-down/200?cb=20100528185020"group-title="BOLIVIA",TELE6
 https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",TVU
+#EXTINF:-1 tvg-logo="https://www.uajms.edu.bo/canal9tvu/wp-content/uploads/sites/70/2021/11/LOGOTVU.png"group-title="BOLIVIA",TVU
 https://s1.tvdatta.com:3557/live/tvulive.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",F10
+#EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png"group-title="BOLIVIA",F10
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="BOLIVIA",TVA
+#EXTINF:-1 tvg-logo="https://canal29tva.com.bo/wp-content/uploads/2023/10/cropped-LOGO-TVA-2018-A2.png"group-title="BOLIVIA",TVA
 https://play.agenciastreaming.com:19360/8160/8160.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/e80007a44529795a52e1e4287b0091ff1c405fe9a17455cfce9c8f280bb4d0cd.png"group-title="BOLIVIA",NEXTV
+https://live20.bozztv.com:443/akamaissh101/ssh101/vnl2025live/chunks.m3u8
 
 
 
