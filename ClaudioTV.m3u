@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE: John Wick 4" group-title="PELICULAS",CINE: John Wick 4
+https://example.com/stream/johnwick4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE: Rápidos y Furiosos X" group-title="PELICULAS",CINE: Rápidos y Furiosos X
+https://example.com/stream/rapidoyfuriosoX.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: Loki S2" group-title="SERIES",SERIE: Loki S2
+https://example.com/stream/lokis2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES: ESPN" group-title="DEPORTES",DEPORTES: ESPN
+https://example.com/stream/espn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM: HBO" group-title="PREMIUM",PREMIUM: HBO
+https://example.com/stream/hbo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA: Telefe" group-title="ARGENTINA",ARGENTINA: Telefe
+https://example.com/stream/telefe.m3u8
