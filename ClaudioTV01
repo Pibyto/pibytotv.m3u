@@ -551,32 +551,32 @@ http://tvpremiund.ddns.me:2082/91781252/271222zero/6463
 
 
 
-#EXTIENF:-1 tvg-logo=""group-title="DEPORTES",TNT S40RT$
+#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TNT S40RT$
 http://tvpremiund.ddns.me:2082/91781252/271222zero/57163
 
 
 
-#EXTIENF:-1 tvg-logo="https://elsantodelrock.com/wp-content/uploads/2017/08/red-bull-tv-logo.png?w=848"group-title="DEPORTES",REDBULL
+#EXTINF:-1 tvg-logo="https://elsantodelrock.com/wp-content/uploads/2017/08/red-bull-tv-logo.png?w=848"group-title="DEPORTES",REDBULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",NBA
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/120/407/png-clipart-nba-logo-basketball-font-brand-nba-blue-text.png"group-title="DEPORTES",NBA
 https://fl3.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TENNIS CHANNEL
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png"group-title="DEPORTES",TENNIS CHANNEL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TDN
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Tudn-Logo-Vector.svg-.png"group-title="DEPORTES",TDN
 https://dvrfl03.bozztv.com/hondu-canal12/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",FITE
+#EXTINF:-1 tvg-logo="https://img.solowrestling.com/images/113/RESEM113590fite-tv.jpg"group-title="DEPORTES",FITE
 https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263/variant/22099681.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",DAZN RINGSIDE 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/649b6898f2ec0000081a9460/thumbnail.jpg"group-title="DEPORTES",DAZN RINGSIDE 
 https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/1080p-cc/index.m3u8
 
 
@@ -584,11 +584,11 @@ https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/1080p
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TELEDEPORTE 1080p.
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/231/354/png-clipart-teledeporte-television-espanola-high-definition-video-la-1-television-tdp-television-text.png"group-title="DEPORTES",TELEDEPORTE 1080p.
 https://d2a02gfcid1k4a.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/4302f421-e993-4c66-b085-e8b9bd2d3557/3.m3u8
 
 
-#EXTINF:-1 tvg-logo=""group-title="DEPORTES",TELEDEPORTE 720p.
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/231/354/png-clipart-teledeporte-television-espanola-high-definition-video-la-1-television-tdp-television-text.png"group-title="DEPORTES",TELEDEPORTE 720p.
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 
