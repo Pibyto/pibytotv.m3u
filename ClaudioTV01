@@ -1303,8 +1303,17 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2359
 
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1485_Primicia_Vida_Television.png"group-title="CHILE",PRIMICIA VIDA
+https://stmv5.voxtvhd.com.br:443/primiciavida/primiciavida/chunklist_w1226243709.m3u8?MonteGrandePlay
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png"group-title="CHILE",CHV
 http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/37973
+
+
+#EXTINF:-1 tvg-logo="https://www.graciatv.com/wp-content/uploads/2024/01/LOGO-FINAL.png"group-title="CHILE", GRACIA TV
+https://v4.tustreaming.cl/graciatv/index.m3u8?MonteGrandePlay
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Logotipo_24_Horas_%282023_-_actual%29.png"group-title="CHILE",24hs
@@ -2538,6 +2547,12 @@ https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/chunklist_w201553397
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://canaltelefamilia.com/wp-content/uploads/2021/02/Logo-Blanco.png"group-title="COLOMBIA",TELEFAMILIA HD
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_2_logo.svg/800px-Canal_2_logo.svg.png"group-title="COLOMBIA"CANAL 2
 https://usmia00-edge.teveo.com.co:443/live/AeAAAgBJAA5AA1IAyADIUDAAAAGAAAAAAmhhp4O1LkS_AAAA/chunklist_w497069970.m3u8
 
@@ -2548,6 +2563,11 @@ http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/38211
 
 #EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_05/large.LogoTeleCaribe2023.png.0a3903dfcaf09767e5d7ef131b444d6f.png"group-title="COLOMBIA",TELECARIBE
 https://liveingesta118.cdnmedia.tv:443/telecaribetvlive/rtmp02-1500/chunklist.m3u8?DVR
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PZrt2yCvcv0/XxPmtUSxXkI/AAAAAAAAKTs/9u2sLm1WEZAPXonJ2UvH91MnRYLfwC2cwCLcBGAsYHQ/s1600/avivamiento.png"group-title="COLOMBIA", AVIVAMIENTO TV
+https://s1.abntelevision.com:443/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_Trece_logo.svg/2560px-Canal_Trece_logo.svg.png"group-title="COLOMBIA",TRECE
