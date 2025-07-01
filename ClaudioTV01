@@ -900,7 +900,8 @@ https://www.youtube.com/watch?v=kdNY-T2iCvE
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",EL 6 CRESPO
 https://www.youtube.com/watch?v=RSi65gTVLB0
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1aftnnEZGd9y8LpNFkLBxpZZl4ADbSx2rzA&s"group-title="VLC PLAYER",PICADOTV
+https://www.youtube.com/watch?v=DItkbz-xyqE
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",EL SIETE
 https://www.youtube.com/watch?v=Vh8xmLBJtR8
@@ -933,6 +934,9 @@ https://www.youtube.com/watch?v=p2AzyIEuFak
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",UNIVISSION NOTICIAS
 https://www.youtube.com/watch?v=V4C7VNfRATA
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",CANAL 6
+https://www.youtube.com/watch?v=7l2lnaBprkk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logofan/images/1/1d/Love_Nature_TV.png/revision/latest?cb=20240618191853&path-prefix=es"group-title="VLC PLAYER",LOVE NATURE
 https://www.youtube.com/watch?v=mkJHnno0gdk
