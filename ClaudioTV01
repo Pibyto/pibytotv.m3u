@@ -849,13 +849,27 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",A24
-https://www.youtube.com/watch?v=ArKbAx1K-2U
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-rr5MJDd59LblzS11Vd4TIzZ_eWgtQjOUQ&s"group-title="VLC PLAYER",CHAVO DEL OCHO
 https://www.youtube.com/watch?v=hct5qjC_n9M
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",EL NUEVE
+https://www.twitch.tv/elnueveenvivo
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",TVP
+https://www.youtube.com/watch?v=egoYYMggbo4
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",IP NOTICIAS
+https://www.twitch.tv/ip_noticias
+
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",MOTICIAS ARGENTINAS
+https://www.twitch.tv/noticiasargentina
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="VLC PLAYER",CANAL 26
 https://www.youtube.com/watch?v=BTaSHvWJW5A
@@ -864,6 +878,9 @@ https://www.youtube.com/watch?v=BTaSHvWJW5A
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",CRONICA TV
 https://www.youtube.com/watch?v=avly0uwZzOE
 
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",A24
+https://www.youtube.com/watch?v=ArKbAx1K-2U
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",TN
 https://www.youtube.com/watch?v=cb12KmMMDJA
@@ -881,10 +898,8 @@ https://www.youtube.com/watch?v=nndzeKDSjuc
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",EL ONCE
 https://www.youtube.com/watch?v=kdNY-T2iCvE
 
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",TVP
-https://www.youtube.com/watch?v=egoYYMggbo4
-
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",EL 6 CRESPO
+https://www.twitch.tv/canal6crespo
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",EL SIETE
 https://www.youtube.com/watch?v=Vh8xmLBJtR8
