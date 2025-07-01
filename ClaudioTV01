@@ -921,6 +921,8 @@ https://www.youtube.com/watch?v=V4C7VNfRATA
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logofan/images/1/1d/Love_Nature_TV.png/revision/latest?cb=20240618191853&path-prefix=es"group-title="VLC PLAYER",LOVE NATURE
 https://www.youtube.com/watch?v=mkJHnno0gdk
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png/320px-Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="VLC PLAYER",LATINA
+https://www.youtube.com/watch?v=DhWVrsc0RuQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png/320px-Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="VLC PLAYER",TELE13
 https://www.youtube.com/watch?v=R_V7FhsCPwM
@@ -943,6 +945,9 @@ https://www.youtube.com/watch?v=d2qf09q-8ns
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png/320px-Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="VLC PLAYER",TELEVISA PUEBLA
 https://www.youtube.com/watch?v=0psOGZ6ypa0
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png/320px-Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="VLC PLAYER",AZTECA NOTICIAS
+https://www.youtube.com/watch?v=0oFWDh_rqqc
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg"group-title="VLC PLAYER",NAT GEO
 https://www.youtube.com/watch?v=DdhJDGWfz6k
