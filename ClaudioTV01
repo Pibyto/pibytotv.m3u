@@ -881,6 +881,14 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9k86tqG/Screenshot-20250701-095234-You-Tube.jpg" group-title="ARGENTINA",CHAVO DEL OCHO
+https://www.youtube.com/watch?v=hct5qjC_n9M
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="ARGENTINA",CANAL 26
+https://www.youtube.com/watch?v=BTaSHvWJW5A
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yyHXtGG/Screenshot-20241226-095830-XPlayer-Video-Player-removebg-preview.png"group-title="ARGENTINA", TELEFE
 https://telefeviacom1.akamaized.net:443/hls/live/2037987/viacomINT/TOK/master-wild1.m3u8
 
