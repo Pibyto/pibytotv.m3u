@@ -834,11 +834,41 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 
 
+#############( VLC PLAYER )###########
+######################################
 
 
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF tvg-logo=""group-title="VLC PLAYER",A24
+https://www.youtube.com/watch?v=ArKbAx1K-2U
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9k86tqG/Screenshot-20250701-095234-You-Tube.jpg" group-title="VLC PLAYER",CHAVO DEL OCHO
+https://www.youtube.com/watch?v=hct5qjC_n9M
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="VLC PLAYER",CANAL 26
+https://www.youtube.com/watch?v=BTaSHvWJW5A
+
+
+#EXTINF tvg-logo=""group-title="VLC PLAYER",
+
+
+
+#EXTINF tvg-logo=""group-title="VLC PLAYER",
+
+
+#EXTINF tvg-logo=""group-title="VLC PLAYER",
 
 
 
@@ -864,8 +894,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/9k86tqPG/Screenshot-20250701-095234-You-Tube.jpg"group-title="ARGENTINA",CHAVO DEL OCHO
-https://www.youtube-nocookie.com/embed/hct5qjC_n9M?playlist=hct5qjC_n9M&autoplay=1&iv_load_policy=3&loop=1&start=
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bQMdXs3/Screenshot-20241226-095234-XPlayer-Video-Player-removebg-preview.png"group-title="ARGENTINA",EL TRECE  33.1
@@ -881,11 +909,7 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9k86tqG/Screenshot-20250701-095234-You-Tube.jpg" group-title="ARGENTINA",CHAVO DEL OCHO
-https://www.youtube.com/watch?v=hct5qjC_n9M
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="ARGENTINA",CANAL 26
-https://www.youtube.com/watch?v=BTaSHvWJW5A
 
 
 
