@@ -849,7 +849,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 
 
-#EXTINF tvg-logo=""group-title="VLC PLAYER",A24
+#EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",A24
 https://www.youtube.com/watch?v=ArKbAx1K-2U
 
 
@@ -861,14 +861,32 @@ https://www.youtube.com/watch?v=hct5qjC_n9M
 https://www.youtube.com/watch?v=BTaSHvWJW5A
 
 
-#EXTINF tvg-logo=""group-title="VLC PLAYER",
+#EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",CRONICA TV
+https://www.yout-ube.com/live/avly0uwZzOE?si=76X-IvULPW-thauN
+
+
+#EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",TN
+https://www.youtube.com/watch?v=cb12KmMMDJA
+
+#EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",LA NACION
+https://www.youtube.com/watch?v=OR9MH16MKrg
+
+#EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",TELEFE NOTICIAS 24HS
+https://www.youtube.com/watch?v=bwjx7rN4kr4
+
+
+#EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",EL DOCE
+https://www.youtube.com/watch?v=nndzeKDSjuc
+
+#EXTINF tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",EL ONCE
+https://www.youtube.com/watch?v=kdNY-T2iCvE
 
 
 
-#EXTINF tvg-logo=""group-title="VLC PLAYER",
 
 
-#EXTINF tvg-logo=""group-title="VLC PLAYER",
+
+
 
 
 
