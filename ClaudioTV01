@@ -865,9 +865,8 @@ https://www.youtube.com/watch?v=egoYYMggbo4
 https://www.twitch.tv/ip_noticias
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",MOTICIAS ARGENTINAS
-https://www.twitch.tv/noticiasargentina
-
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",C5N
+https://www.youtube.com/watch?v=jTDk5CswBVk
 
 
 
@@ -899,7 +898,9 @@ https://www.youtube.com/watch?v=nndzeKDSjuc
 https://www.youtube.com/watch?v=kdNY-T2iCvE
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",EL 6 CRESPO
-https://www.twitch.tv/canal6crespo
+https://www.youtube.com/watch?v=RSi65gTVLB0
+
+
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",EL SIETE
 https://www.youtube.com/watch?v=Vh8xmLBJtR8
@@ -939,8 +940,9 @@ https://www.youtube.com/watch?v=mkJHnno0gdk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png/320px-Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="VLC PLAYER",LATINA
 https://www.youtube.com/live/DhWVrsc0RuQ
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png/320px-Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="VLC PLAYER",AMERICA
+https://www.youtube.com/watch?v=guxV6fDafpg
 
-https://www.youtube.com/watch?v=DhWVrsc0RuQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png/320px-Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="VLC PLAYER",TELE13
 https://www.youtube.com/watch?v=R_V7FhsCPwM
@@ -967,8 +969,9 @@ https://www.youtube.com/watch?v=0psOGZ6ypa0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png/320px-Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png"group-title="VLC PLAYER",AZTECA NOTICIAS
 https://www.youtube.com/watch?v=0oFWDh_rqqc
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg"group-title="VLC PLAYER",NAT GEO
-https://www.youtube.com/watch?v=DdhJDGWfz6k
+
+
+
 
 
 
