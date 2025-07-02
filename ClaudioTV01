@@ -854,37 +854,33 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://www.youtube.com/watch?v=hct5qjC_n9M
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",EL NUEVE
-https://www.twitch.tv/elnueveenvivo
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",TVP
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/800px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png"group-title="VLC PLAYER",TVP
 https://www.youtube.com/watch?v=egoYYMggbo4
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",IP NOTICIAS
-https://www.twitch.tv/ip_noticias
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",C5N
+#EXTINF:-1  tvg-logo="https://media.minutouno.com/p/97848ad6986b07ac9e2c012d93629aa6/adjuntos/150/imagenes/041/362/0041362586/c5n-logo.jpg"group-title="VLC PLAYER",C5N
 https://www.youtube.com/watch?v=jTDk5CswBVk
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="VLC PLAYER",CANAL 26
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png" group-title="VLC PLAYER",CANAL 26
 https://www.youtube.com/watch?v=BTaSHvWJW5A
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",CRONICA TV
+#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4DC0-vjxdknUnvyD_wtUZ3iAacVmZqmj7_O6aRYYGT30zyv7Up4KWSamHZ_eZ3H84uhvmrXs-XiVCG2KX_xVteVyguWXrPr1D_MNiBJT6ckBDA_-5Gx-FTnaXA0EXGl4o2i91qFqnI0Z5P9N45IKO5TX3bDdWMmqTXzua5KV5YRDJAJnkNPN0hx9h/s558/CRONICATV.png"group-title="VLC PLAYER",CRONICA TV
 https://www.youtube.com/watch?v=avly0uwZzOE
 
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",A24
+#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin4_EDrIzSRgg1JztU3NtSO59enD3wh7b3LHdcSSCkoaLJbVOs_s90X7g-of6P_XtjRtuEAL3TQA8A-Tmg_OJqefs-Ol9Lb28kQhziiYXW4XA0b7blqj6q_ViyndF9grjoTA8e84hrXh_Q7pIf1aUzzH_yRkjC58fsclM_Vnz26GIibOfnFgAmmiulKNc/s280/a24-2025.png"group-title="VLC PLAYER",A24
 https://www.youtube.com/watch?v=ArKbAx1K-2U
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",TN
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png"group-title="VLC PLAYER",TN
 https://www.youtube.com/watch?v=cb12KmMMDJA
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TDA_logo_2022.png"group-title="VLC PLAYER",LA NACION
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png"group-title="VLC PLAYER",LA NACION
 https://www.youtube.com/watch?v=OR9MH16MKrg
 
 #EXTINF:-1  tvg-logo="https://fotos.perfil.com/2025/06/20/0/900/telefe-noticias-2046729.jpg?webp"group-title="VLC PLAYER",TELEFE NOTICIAS 24HS
