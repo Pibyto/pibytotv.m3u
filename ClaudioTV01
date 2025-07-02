@@ -922,7 +922,8 @@ https://www.youtube.com/watch?v=Y-IlMeCCtIg
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Logo_Canal_24_horas.svg/2399px-Logo_Canal_24_horas.svg.png"group-title="VLC PLAYER",24 hs
 https://www.youtube.com/watch?v=7_srED6k0bE
 
-
+#EXTINF:-1 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2024-04/NTASLATE-b832f3.png"group-title="VLC PLAYER"NOTICIAS TELEMUNDO
+https://www.youtube.com/watch?v=0zMi6kHo19o
 
 #EXTINF:-1  tvg-logo="https://imagenes.eleconomista.com.mx/files/image_768_768/uploads/2022/03/29/66e45255018a1.png"group-title="VLC PLAYER",N+
 https://www.youtube.com/watch?v=p2AzyIEuFak
@@ -931,7 +932,7 @@ https://www.youtube.com/watch?v=p2AzyIEuFak
 #EXTINF:-1  tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2025/04/newsroom-thumbnails_UNInoticias.png?w=300"group-title="VLC PLAYER",UNIVISSION NOTICIAS
 https://www.youtube.com/watch?v=V4C7VNfRATA
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Multimedios_Canal_Seis_Logo.svg.png"group-title="VLC PLAYER",CANAL 6 MX
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1144px-Multimedios_Canal_Seis_Logo.svg.png"group-title="VLC PLAYER",6 CDMX
 https://www.youtube.com/watch?v=7l2lnaBprkk
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logofan/images/1/1d/Love_Nature_TV.png/revision/latest?cb=20240618191853&path-prefix=es"group-title="VLC PLAYER",LOVE NATURE
