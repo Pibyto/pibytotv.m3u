@@ -947,7 +947,7 @@ https://www.youtube.com/watch?v=guxV6fDafpg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/T13_En_Vivo_2023.png"group-title="VLC PLAYER",TELE13
 https://www.youtube.com/watch?v=R_V7FhsCPwM
 
-#EXTINF:-1 tvg-logo="https://www.tysol.pl/imgcache/750x530/c/uploads/news/98669/16751616958f3a839bfd71939dabff82.png"group-title="VLC PLAYER",24TVN
+#EXTINF:-1 tvg-logo="https://www.tysol.pl/imgcache/750x530/c/uploads/news/98669/16751616958f3a839bfd71939dabff82.png"group-title="VLC PLAYER",24 TVN
 https://www.youtube.com/watch?v=XZAfU-X9Euk
 
 
@@ -972,7 +972,8 @@ https://www.youtube.com/watch?v=0oFWDh_rqqc
 #EXTINF:-1 tvg-logo="https://www.semana.com/resizer/v2/ZDGNP2JEAVE2ZEYA63KM4G7HK4.png?auth=1d02b91acc8d57ba6dfc840bad8ab80c40b46f4ad68f89485b3f1b2b7e40b3f6&smart=true&quality=75&width=1280&height=720"grou-title="VLC PLAYER",PELICULAS,SERIES CARACOL
 https://www.youtube.com/watch?v=iEkG3UDyZqw
 
-#EXTINF :-1 tvg-logo="https://image.roku.com/developer_channels/prod/9a1ff7f4a35dfcb8cfa73b4b6f0572e05133abe6cec00b5615f0f4052cdd65db.png"group-title="VLC PLAYER",PELICULAS DE SUSPENSO
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/9a1ff7f4a35dfcb8cfa73b4b6f0572e05133abe6cec00b5615f0f4052cdd65db.png"group-title="VLC PLAYER",PELICULAS DE SUSPENSO
 https://www.youtube.com/watch?v=AYuYukZDtcE
 
 
