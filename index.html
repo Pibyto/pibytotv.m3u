@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <title>MGTV Multicanal</title>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      background: #000;
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 30px;
+    }
+    .canal {
+      position: relative;
+      width: 90vw;
+      max-width: 600px;
+      aspect-ratio: 16 / 9;
+      background: #111;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 0 15px #000;
+    }
+    video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .logo {
+      position: absolute;
+      top: 10px;
+      right: 20px;
+      height: 40px;
+      animation: girar 5s ease-in-out infinite alternate;
+      z-index: 10;
+    }
+    @keyframes girar {
+      0% { transform: rotateY(0deg); }
+      100% { transform: rotateY(15deg); }
+    }
+    .info {
+      position: absolute;
+      bottom: 10px;
+      right: 10px;
+      background: rgba(0,0,0,0.5);
+      border-radius: 10px;
+      padding: 4px 10px;
+      font-size: 11px;
+      color: white;
+      display: flex;
+      gap: 6px;
+      z-index: 10;
+      align-items: center;
+    }
+    .hora {
+      padding: 2px 6px;
+      border-radius: 6px;
+      background: rgba(255,204,0,0.6);
+      color: #000;
+    }
+    .clima {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .clima img {
+      height: 16px;
+    }
+    .botones {
+      position: absolute;
+      bottom: 10px;
+      left: 10px;
+      display: flex;
+      gap: 8px;
+      z-index: 10;
+    }
+    .btn {
+      background: rgba(0,0,0,0.5);
+      color: white;
+      border: none;
+      border-radius: 8px;
+      padding: 6px 10px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+    .activar {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: red;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 12px;
+      font-size: 14px;
+      z-index: 20;
+      cursor: pointer;
+    }
+    .oculto { display: none; }
+  </style>
+</head>
+<body>
+
+<div id="contenedor"></div>
+
+<script>
+  const canales = [
+    {
+      nombre: "Monte Grande TV",
+      m3u: "https://live20.bozztv.com/giatvplayout7/giatv-209181/tracks-v1a1/mono.ts.m3u8",
+      logo: "https://i.ibb.co/9wvLNrg/2r-Bs-Skv-IGMpj-DKk-H5-O1y-Nv-AIaf-F-2r-Bsbz-Rpn2a-KGv-I32-Dot-O10-Lsv-V-2r-Bscftp-AXm-It-HOVGJa-MG1.png",
+      color: "rgba(255,204,0,0.6)"
+    },
+    {
+      nombre: "Monte Grande WORSHIP",
+      m3u: "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8",
+      logo: "https://i.ibb.co/fVzbFDnV/Photoroom-20250703-092759.png",
+      color: "rgba(0,102,204,0.6)"
+    },
+    {
+      nombre: "YeshúaTV",
+      m3u: "https://live20.bozztv.com/giatvplayout7/giatv-209163/tracks-v1a1/mono.ts.m3u8",
+      logo: "https://i.ibb.co/GQH9Nx3k/Photoroom-20250703-103846.png",
+      color: "rgba(0,153,51,0.6)"
+    }
+  ];
+
+  const contenedor = document.getElementById("contenedor");
+
+  canales.forEach((canal, i) => {
+    const div = document.createElement("div");
+    div.className = "canal";
+    div.innerHTML = `
+      <video id="video${i}" muted playsinline></video>
+      <img src="${canal.logo}" class="logo" />
+      <div class="info">
+        <div class="hora" id="hora${i}">--:--</div>
+        <div class="clima"><img id="icon${i}" style="display:none"><span id="temp${i}">--°C</span></div>
+      </div>
+      <div class="botones">
+        <button class="btn" onclick="toggleMute(${i})">🔊</button>
+        <button class="btn" onclick="fullscreen(${i})">⛶</button>
+      </div>
+      <div class="activar" id="activar${i}" onclick="activar(${i})">TOCAR PARA ACTIVAR</div>
+    `;
+    contenedor.appendChild(div);
+
+    const video = document.getElementById(`video${i}`);
+    const activarBtn = document.getElementById(`activar${i}`);
+    if (Hls.isSupported()) {
+      const hls = new Hls();
+      hls.loadSource(canal.m3u);
+      hls.attachMedia(video);
+    } else {
+      video.src = canal.m3u;
+    }
+
+    // hora
+    function updateTime() {
+      const now = new Date();
+      document.getElementById(`hora${i}`).textContent = now.toTimeString().slice(0,5);
+      document.getElementById(`hora${i}`).style.background = canal.color;
+    }
+    updateTime();
+    setInterval(updateTime, 60000);
+
+    // clima
+    async function clima() {
+      try {
+        const res = await fetch("https://api.open-meteo.com/v1/forecast?latitude=-34.817&longitude=-58.633&current_weather=true");
+        const data = await res.json();
+        const temp = data.current_weather.temperature;
+        const code = data.current_weather.weathercode;
+        const iconMap = { 0:"01d",1:"02d",2:"02d",3:"03d",45:"50d",48:"50d",51:"09d",61:"10d",80:"09d",95:"11d" };
+        const icon = iconMap[code] || "01d";
+        const url = `https://openweathermap.org/img/wn/${icon}.png`;
+        document.getElementById(`icon${i}`).src = url;
+        document.getElementById(`icon${i}`).style.display = "inline-block";
+        document.getElementById(`temp${i}`).textContent = `${temp}°C`;
+      } catch {
+        document.getElementById(`temp${i}`).textContent = "N/D";
+      }
+    }
+    clima();
+    setInterval(clima, 600000);
+  });
+
+  let currentSound = -1;
+  function toggleMute(i) {
+    const video = document.getElementById(`video${i}`);
+    if (currentSound !== i) {
+      if (currentSound >= 0) document.getElementById(`video${currentSound}`).muted = true;
+      currentSound = i;
+      video.muted = false;
+    } else {
+      video.muted = true;
+      currentSound = -1;
+    }
+  }
+
+  function fullscreen(i) {
+    document.getElementById(`video${i}`).requestFullscreen();
+  }
+
+  function activar(i) {
+    document.getElementById(`video${i}`).muted = false;
+    document.getElementById(`video${i}`).play();
+    document.getElementById(`activar${i}`).classList.add("oculto");
+  }
+</script>
+</body>
+</html>
+
+
