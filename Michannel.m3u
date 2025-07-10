@@ -9,6 +9,16 @@ https://micanal.ovh/livestreams/85.3GBVMU744PUH.m3u8
 https://micanal.ovh/livestreams/127.QAX0OUHEMVST.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://micanal.ovh/images/11253292546802528ad6c15.png"group-title="MICANAL",ABCTELESHOW
+https://micanal.ovh/livestreams/184.D7ZQE0JAH5H3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://micanal.ovh/images/11253292546802528ad6c15.png"group-title="MICANAL",VJlobo
+https://micanal.ovh/livestreams/151.LS7VZULUKZDQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://micanal.ovh/images/11253292546802528ad6c15.png"group-title="MICANAL",BRAVIA TV
+https://micanal.ovh/livestreams/228.AUEEBRUSJJSL.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://micanal.ovh/images/11253292546802528ad6c15.png"group-title="MICANAL",PIERC TV
 https://micanal.ovh/livestreams/276.P2DLS53NMU2W.m3u8
@@ -71,6 +81,9 @@ https://micanal.ovh/livestreams/242.7KDFJNBISVRZ.m3u8
 #EXTINF:-1 tvg-logo="https://micanal.ovh/images/11253292546802528ad6c15.png"group-title="MICANAL",RADIO MUNICIPAL MONTEROS
 https://micanal.ovh/livestreams/260.VVQHIIBJFJ4K.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://micanal.ovh/images/11253292546802528ad6c15.png"group-title="MICANAL",RADIO GUAYACANES TV
+https://micanal.ovh/livestreams/179.T6CXHJAM7KYC.m3u8
 
 #EXTINF:-1 tvg-logo="https://micanal.ovh/images/11253292546802528ad6c15.png"group-title="MICANAL",RAMI SISTEMAS
 https://micanal.ovh/livestreams/257.PBIBSHSDGLAC.m3u8
