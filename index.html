@@ -216,3 +216,789 @@
 </html>
 
 
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>MGTV Canal + Clima</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <style>
+    html, body {
+      margin: 0; padding: 0;
+      background: black;
+      overflow: hidden;
+      width: 100vw; height: 100vh;
+      font-family: Arial, sans-serif;
+    }
+    video {
+      width: 100vw;
+      height: 100vh;
+      object-fit: cover;
+    }
+    .logo-container {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      width: 80px;
+      height: 80px;
+      perspective: 800px;
+      z-index: 30;
+    }
+    .logo-rotador {
+      width: 100%; height: 100%;
+      position: relative;
+      animation: girar 6s linear infinite;
+      transform-style: preserve-3d;
+    }
+    .logo-rotador img {
+      position: absolute;
+      width: 100%; height: 100%;
+      backface-visibility: hidden;
+    }
+    .logo-rotador img.back {
+      transform: rotateY(180deg);
+    }
+    @keyframes girar {
+      from { transform: rotateY(0deg); }
+      to   { transform: rotateY(360deg); }
+    }
+    #panel-superior {
+      position: absolute;
+      bottom: 42px;
+      right: 30px;
+      background: #004466;
+      color: white;
+      font-size: 11px;
+      font-weight: bold;
+      padding: 2px 6px;
+      border-radius: 4px;
+      z-index: 20;
+    }
+    #unified-panel {
+      position: absolute;
+      bottom: 20px;
+      right: 30px;
+      height: 22px;
+      display: flex;
+      font-size: 12px;
+      font-weight: bold;
+      z-index: 20;
+    }
+    .block {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 6px;
+      height: 100%;
+      white-space: nowrap;
+    }
+    #provincia {
+      background-color: #3d444e;
+      color: white;
+    }
+    #clima {
+      background-color: #005577;
+      color: #fff;
+    }
+    #clima .wi {
+      font-size: 16px;
+      margin-right: 4px;
+      color: #fff;
+    }
+    #hora {
+      background-color: white;
+      color: #000;
+      font-weight: bold;
+      letter-spacing: 1px;
+    }
+    .boton-flotante {
+      position: absolute;
+      background: rgba(0,0,0,0.6);
+      color: white;
+      border: 1px solid white;
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 14px;
+      z-index: 25;
+      cursor: pointer;
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+    .boton-flotante.visible {
+      opacity: 1;
+    }
+    #btn-audio { bottom: 80px; left: 20px; }
+    #btn-full { bottom: 40px; left: 20px; }
+    #btn-activar {
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: red;
+      color: white;
+      padding: 14px 22px;
+      font-size: 18px;
+      font-weight: bold;
+      border-radius: 8px;
+      z-index: 1000;
+      position: absolute;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <video id="video" autoplay muted playsinline></video>
+
+  <div class="logo-container">
+    <div class="logo-rotador">
+      <img src="https://i.ibb.co/9wvLNrg/2r-Bs-Skv-IGMpj-DKk-H5-O1y-Nv-AIaf-F-2r-Bsbz-Rpn2a-KGv-I32-Dot-O10-Lsv-V-2r-Bscftp-AXm-It-HOVGJa-MG1.png" class="front" />
+      <img src="https://i.ibb.co/9wvLNrg/2r-Bs-Skv-IGMpj-DKk-H5-O1y-Nv-AIaf-F-2r-Bsbz-Rpn2a-KGv-I32-Dot-O10-Lsv-V-2r-Bscftp-AXm-It-HOVGJa-MG1.png" class="back" />
+    </div>
+  </div>
+
+  <div id="panel-superior">CLIMA DE ARGENTINA</div>
+  <div id="unified-panel">
+    <div id="provincia" class="block">Monte Grande</div>
+    <div id="clima" class="block"><i id="weather-icon" class="wi"></i><span id="temp">--°C</span></div>
+    <div id="hora" class="block"><span id="clock">--:--</span></div>
+  </div>
+
+  <div id="btn-audio" class="boton-flotante">🔊 Audio</div>
+  <div id="btn-full" class="boton-flotante">⛶ Full</div>
+  <div id="btn-activar" onclick="activarVideo()">TOCAR PARA ACTIVAR</div>
+
+  <script>
+    const video = document.getElementById("video");
+    const btnAudio = document.getElementById("btn-audio");
+    const btnFull = document.getElementById("btn-full");
+    const btnActivar = document.getElementById("btn-activar");
+
+    if (Hls.isSupported()) {
+      const hls = new Hls();
+      hls.loadSource("https://live20.bozztv.com/giatvplayout7/giatv-209181/tracks-v1a1/mono.ts.m3u8");
+      hls.attachMedia(video);
+    } else {
+      video.src = "https://live20.bozztv.com/giatvplayout7/giatv-209181/tracks-v1a1/mono.ts.m3u8";
+    }
+
+    function activarVideo() {
+      video.muted = false;
+      video.play();
+      btnActivar.style.display = "none";
+      mostrarBotonesTemporales();
+    }
+
+    btnAudio.onclick = () => {
+      video.muted = false;
+      video.play();
+    };
+
+    btnFull.onclick = () => {
+      if (document.fullscreenElement) {
+        document.exitFullscreen();
+      } else {
+        document.documentElement.requestFullscreen();
+      }
+    };
+
+    function mostrarBotonesTemporales() {
+      btnAudio.classList.add("visible");
+      btnFull.classList.add("visible");
+      clearTimeout(window.ocultarBtns);
+      window.ocultarBtns = setTimeout(() => {
+        btnAudio.classList.remove("visible");
+        btnFull.classList.remove("visible");
+      }, 4000);
+    }
+
+    document.addEventListener("mousemove", mostrarBotonesTemporales);
+    document.addEventListener("keydown", mostrarBotonesTemporales);
+    document.addEventListener("touchstart", mostrarBotonesTemporales);
+
+    const provincias = [
+      { nombre: "Monte Grande", lat: -34.823, lon: -58.468 },
+      { nombre: "CABA", lat: -34.61, lon: -58.38 },
+      { nombre: "La Plata", lat: -34.92, lon: -57.95 },
+      { nombre: "Mar del Plata", lat: -38.00, lon: -57.55 },
+      { nombre: "Rosario", lat: -32.95, lon: -60.63 },
+      { nombre: "Córdoba", lat: -31.42, lon: -64.18 },
+      { nombre: "Mendoza", lat: -32.89, lon: -68.83 },
+      { nombre: "Salta", lat: -24.79, lon: -65.41 }
+    ];
+
+    const iconosDia = {
+      0: "wi-day-sunny", 1: "wi-day-sunny-overcast", 2: "wi-day-cloudy", 3: "wi-cloudy",
+      45: "wi-day-fog", 48: "wi-day-fog", 51: "wi-day-showers", 53: "wi-day-showers",
+      61: "wi-day-rain", 63: "wi-day-rain", 71: "wi-day-snow", 95: "wi-day-thunderstorm"
+    };
+    const iconosNoche = {
+      0: "wi-night-clear", 1: "wi-night-alt-partly-cloudy", 2: "wi-night-alt-cloudy", 3: "wi-night-cloudy",
+      45: "wi-night-fog", 48: "wi-night-fog", 51: "wi-night-showers", 53: "wi-night-showers",
+      61: "wi-night-rain", 63: "wi-night-rain", 71: "wi-night-snow", 95: "wi-night-thunderstorm"
+    };
+
+    let idx = 0;
+    async function updateWeather() {
+      const prov = provincias[idx];
+      document.getElementById("provincia").textContent = prov.nombre;
+      try {
+        const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${prov.lat}&longitude=${prov.lon}&current=temperature_2m,weathercode&timezone=auto`);
+        const data = await res.json();
+        const temp = Math.round(data.current.temperature_2m);
+        const code = data.current.weathercode;
+        const tz = data.timezone;
+        const nowUTC = new Date();
+        const nowLocal = new Date(nowUTC.toLocaleString("en-US", { timeZone: tz }));
+        const hour = nowLocal.getHours();
+        const isDay = hour >= 6 && hour < 20;
+        const icon = (isDay ? iconosDia[code] : iconosNoche[code]) || "wi-na";
+        document.getElementById("temp").textContent = `${temp}°C`;
+        document.getElementById("weather-icon").className = "wi " + icon;
+      } catch {
+        document.getElementById("temp").textContent = "--°C";
+        document.getElementById("weather-icon").className = "wi wi-na";
+      }
+      idx = (idx + 1) % provincias.length;
+    }
+
+    function updateClock() {
+      const now = new Date();
+      const h = String(now.getHours()).padStart(2, '0');
+      const m = String(now.getMinutes()).padStart(2, '0');
+      document.getElementById("clock").textContent = `${h}:${m}`;
+    }
+
+    updateClock();
+    setInterval(updateClock, 10000);
+    updateWeather();
+    setInterval(updateWeather, 6000);
+  </script>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>MGTV Canal + Clima</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <style>
+    html, body {
+      margin: 0; padding: 0;
+      background: black;
+      overflow: hidden;
+      width: 100vw; height: 100vh;
+      font-family: Arial, sans-serif;
+    }
+    video {
+      width: 100vw;
+      height: 100vh;
+      object-fit: cover;
+    }
+    .logo-container {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      width: 80px;
+      height: 80px;
+      perspective: 800px;
+      z-index: 30;
+    }
+    .logo-rotador {
+      width: 100%; height: 100%;
+      position: relative;
+      animation: girar 6s linear infinite;
+      transform-style: preserve-3d;
+    }
+    .logo-rotador img {
+      position: absolute;
+      width: 100%; height: 100%;
+      backface-visibility: hidden;
+    }
+    .logo-rotador img.back {
+      transform: rotateY(180deg);
+    }
+    @keyframes girar {
+      from { transform: rotateY(0deg); }
+      to   { transform: rotateY(360deg); }
+    }
+    #panel-superior {
+      position: absolute;
+      bottom: 42px;
+      right: 30px;
+      background: #f57c00;
+      color: white;
+      font-size: 11px;
+      font-weight: bold;
+      padding: 2px 6px;
+      border-radius: 4px;
+      z-index: 20;
+    }
+    #unified-panel {
+      position: absolute;
+      bottom: 20px;
+      right: 30px;
+      height: 22px;
+      display: flex;
+      font-size: 12px;
+      font-weight: bold;
+      z-index: 20;
+    }
+    .block {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 6px;
+      height: 100%;
+      white-space: nowrap;
+    }
+    #provincia {
+      background-color: #fb8c00;
+      color: white;
+    }
+    #clima {
+      background-color: #fbc02d;
+      color: #000;
+    }
+    #clima .wi {
+      font-size: 16px;
+      margin-right: 4px;
+      color: #000;
+    }
+    #hora {
+      background-color: white;
+      color: #000;
+      font-weight: bold;
+      letter-spacing: 1px;
+      text-shadow: 0 0 2px rgba(0,0,0,0.4);
+    }
+    .boton-flotante {
+      position: absolute;
+      background: rgba(0,0,0,0.6);
+      color: white;
+      border: 1px solid white;
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 14px;
+      z-index: 25;
+      cursor: pointer;
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+    .boton-flotante.visible {
+      opacity: 1;
+    }
+    #btn-audio { bottom: 80px; left: 20px; }
+    #btn-full { bottom: 40px; left: 20px; }
+    #btn-activar {
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: red;
+      color: white;
+      padding: 14px 22px;
+      font-size: 18px;
+      font-weight: bold;
+      border-radius: 8px;
+      z-index: 1000;
+      position: absolute;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <video id="video" autoplay muted playsinline></video>
+
+  <div class="logo-container">
+    <div class="logo-rotador">
+      <img src="https://i.ibb.co/fVzbFDnV/Photoroom-20250703-092759.png" class="front" />
+      <img src="https://i.ibb.co/fVzbFDnV/Photoroom-20250703-092759.png" class="back" />
+    </div>
+  </div>
+
+  <div id="panel-superior">CLIMA DE ARGENTINA</div>
+  <div id="unified-panel">
+    <div id="provincia" class="block">Monte Grande</div>
+    <div id="clima" class="block"><i id="weather-icon" class="wi"></i><span id="temp">--°C</span></div>
+    <div id="hora" class="block"><span id="clock">--:--</span></div>
+  </div>
+
+  <div id="btn-audio" class="boton-flotante">🔊 Audio</div>
+  <div id="btn-full" class="boton-flotante">⛶ Full</div>
+  <div id="btn-activar" onclick="activarVideo()">TOCAR PARA ACTIVAR</div>
+
+  <script>
+    const video = document.getElementById("video");
+    const btnAudio = document.getElementById("btn-audio");
+    const btnFull = document.getElementById("btn-full");
+    const btnActivar = document.getElementById("btn-activar");
+
+    if (Hls.isSupported()) {
+      const hls = new Hls();
+      hls.loadSource("https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8");
+      hls.attachMedia(video);
+    } else {
+      video.src = "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8";
+    }
+
+    function activarVideo() {
+      video.muted = false;
+      video.play();
+      btnActivar.style.display = "none";
+      mostrarBotonesTemporales();
+    }
+
+    btnAudio.onclick = () => {
+      video.muted = false;
+      video.play();
+    };
+
+    btnFull.onclick = () => {
+      if (document.fullscreenElement) {
+        document.exitFullscreen();
+      } else {
+        document.documentElement.requestFullscreen();
+      }
+    };
+
+    function mostrarBotonesTemporales() {
+      btnAudio.classList.add("visible");
+      btnFull.classList.add("visible");
+      clearTimeout(window.ocultarBtns);
+      window.ocultarBtns = setTimeout(() => {
+        btnAudio.classList.remove("visible");
+        btnFull.classList.remove("visible");
+      }, 4000);
+    }
+
+    document.addEventListener("mousemove", mostrarBotonesTemporales);
+    document.addEventListener("keydown", mostrarBotonesTemporales);
+    document.addEventListener("touchstart", mostrarBotonesTemporales);
+
+    const provincias = [
+      { nombre: "Monte Grande", lat: -34.823, lon: -58.468 },
+      { nombre: "CABA", lat: -34.61, lon: -58.38 },
+      { nombre: "La Plata", lat: -34.92, lon: -57.95 },
+      { nombre: "Mar del Plata", lat: -38.00, lon: -57.55 },
+      { nombre: "Rosario", lat: -32.95, lon: -60.63 },
+      { nombre: "Córdoba", lat: -31.42, lon: -64.18 },
+      { nombre: "Mendoza", lat: -32.89, lon: -68.83 },
+      { nombre: "Salta", lat: -24.79, lon: -65.41 }
+    ];
+
+    const iconosDia = {
+      0: "wi-day-sunny", 1: "wi-day-sunny-overcast", 2: "wi-day-cloudy", 3: "wi-cloudy",
+      45: "wi-day-fog", 48: "wi-day-fog", 51: "wi-day-showers", 53: "wi-day-showers",
+      61: "wi-day-rain", 63: "wi-day-rain", 71: "wi-day-snow", 95: "wi-day-thunderstorm"
+    };
+    const iconosNoche = {
+      0: "wi-night-clear", 1: "wi-night-alt-partly-cloudy", 2: "wi-night-alt-cloudy", 3: "wi-night-cloudy",
+      45: "wi-night-fog", 48: "wi-night-fog", 51: "wi-night-showers", 53: "wi-night-showers",
+      61: "wi-night-rain", 63: "wi-night-rain", 71: "wi-night-snow", 95: "wi-night-thunderstorm"
+    };
+
+    let idx = 0;
+    async function updateWeather() {
+      const prov = provincias[idx];
+      document.getElementById("provincia").textContent = prov.nombre;
+      try {
+        const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${prov.lat}&longitude=${prov.lon}&current=temperature_2m,weathercode&timezone=auto`);
+        const data = await res.json();
+        const temp = Math.round(data.current.temperature_2m);
+        const code = data.current.weathercode;
+        const tz = data.timezone;
+        const nowUTC = new Date();
+        const nowLocal = new Date(nowUTC.toLocaleString("en-US", { timeZone: tz }));
+        const hour = nowLocal.getHours();
+        const isDay = hour >= 6 && hour < 20;
+        const icon = (isDay ? iconosDia[code] : iconosNoche[code]) || "wi-na";
+        document.getElementById("temp").textContent = `${temp}°C`;
+        document.getElementById("weather-icon").className = "wi " + icon;
+      } catch {
+        document.getElementById("temp").textContent = "--°C";
+        document.getElementById("weather-icon").className = "wi wi-na";
+      }
+      idx = (idx + 1) % provincias.length;
+    }
+
+    function updateClock() {
+      const now = new Date();
+      const h = String(now.getHours()).padStart(2, '0');
+      const m = String(now.getMinutes()).padStart(2, '0');
+      document.getElementById("clock").textContent = `${h}:${m}`;
+    }
+
+    updateClock();
+    setInterval(updateClock, 10000);
+    updateWeather();
+    setInterval(updateWeather, 6000);
+  </script>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>MGTV Canal + Clima</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <style>
+    html, body {
+      margin: 0; padding: 0;
+      background: black;
+      overflow: hidden;
+      width: 100vw; height: 100vh;
+      font-family: Arial, sans-serif;
+    }
+    video {
+      width: 100vw;
+      height: 100vh;
+      object-fit: cover;
+    }
+    .logo-container {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      width: 80px;
+      height: 80px;
+      perspective: 800px;
+      z-index: 30;
+    }
+    .logo-rotador {
+      width: 100%; height: 100%;
+      position: relative;
+      animation: girar 11s linear infinite;
+      transform-style: preserve-3d;
+    }
+    .logo-rotador img {
+      position: absolute;
+      width: 100%; height: 100%;
+      backface-visibility: hidden;
+    }
+    .logo-rotador img.back {
+      transform: rotateY(180deg);
+    }
+    @keyframes girar {
+      from { transform: rotateY(0deg); }
+      to   { transform: rotateY(360deg); }
+    }
+    #panel-superior {
+      position: absolute;
+      bottom: 42px;
+      right: 30px;
+      background: #ff4081;
+      color: white;
+      font-size: 11px;
+      font-weight: bold;
+      padding: 2px 6px;
+      border-radius: 4px;
+      z-index: 20;
+    }
+    #unified-panel {
+      position: absolute;
+      bottom: 20px;
+      right: 30px;
+      height: 22px;
+      display: flex;
+      font-size: 12px;
+      font-weight: bold;
+      z-index: 20;
+    }
+    .block {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 6px;
+      height: 100%;
+      white-space: nowrap;
+    }
+    #provincia {
+      background-color: #1e88e5;
+      color: white;
+    }
+    #clima {
+      background-color: #00acc1;
+      color: #fff;
+    }
+    #clima .wi {
+      font-size: 16px;
+      margin-right: 4px;
+      color: #fff;
+    }
+    #hora {
+      background-color: white;
+      color: #000;
+      font-weight: bold;
+      letter-spacing: 1px;
+      text-shadow: 0 0 2px rgba(0,0,0,0.4);
+    }
+    .boton-flotante {
+      position: absolute;
+      background: rgba(0,0,0,0.6);
+      color: white;
+      border: 1px solid white;
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 14px;
+      z-index: 25;
+      cursor: pointer;
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+    .boton-flotante.visible {
+      opacity: 1;
+    }
+    #btn-audio { bottom: 80px; left: 20px; }
+    #btn-full { bottom: 40px; left: 20px; }
+    #btn-activar {
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: red;
+      color: white;
+      padding: 14px 22px;
+      font-size: 18px;
+      font-weight: bold;
+      border-radius: 8px;
+      z-index: 1000;
+      position: absolute;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <video id="video" autoplay muted playsinline></video>
+
+  <div class="logo-container">
+    <div class="logo-rotador">
+      <img src="https://i.ibb.co/GQH9Nx3k/Photoroom-20250703-103846.png" class="front" />
+      <img src="https://i.ibb.co/GQH9Nx3k/Photoroom-20250703-103846.png" class="back" />
+    </div>
+  </div>
+
+  <div id="panel-superior">CLIMA DE ARGENTINA</div>
+  <div id="unified-panel">
+    <div id="provincia" class="block">Monte Grande</div>
+    <div id="clima" class="block"><i id="weather-icon" class="wi"></i><span id="temp">--°C</span></div>
+    <div id="hora" class="block"><span id="clock">--:--</span></div>
+  </div>
+
+  <div id="btn-audio" class="boton-flotante">🔊 Audio</div>
+  <div id="btn-full" class="boton-flotante">⛶ Full</div>
+  <div id="btn-activar" onclick="activarVideo()">TOCAR PARA ACTIVAR</div>
+
+  <script>
+    const video = document.getElementById("video");
+    const btnAudio = document.getElementById("btn-audio");
+    const btnFull = document.getElementById("btn-full");
+    const btnActivar = document.getElementById("btn-activar");
+
+    if (Hls.isSupported()) {
+      const hls = new Hls();
+      hls.loadSource("https://live20.bozztv.com/giatvplayout7/giatv-209163/tracks-v1a1/mono.ts.m3u8");
+      hls.attachMedia(video);
+    } else {
+      video.src = "https://live20.bozztv.com/giatvplayout7/giatv-209163/tracks-v1a1/mono.ts.m3u8";
+    }
+
+    function activarVideo() {
+      video.muted = false;
+      video.play();
+      btnActivar.style.display = "none";
+      mostrarBotonesTemporales();
+    }
+
+    btnAudio.onclick = () => {
+      video.muted = false;
+      video.play();
+    };
+
+    btnFull.onclick = () => {
+      if (document.fullscreenElement) {
+        document.exitFullscreen();
+      } else {
+        document.documentElement.requestFullscreen();
+      }
+    };
+
+    function mostrarBotonesTemporales() {
+      btnAudio.classList.add("visible");
+      btnFull.classList.add("visible");
+      clearTimeout(window.ocultarBtns);
+      window.ocultarBtns = setTimeout(() => {
+        btnAudio.classList.remove("visible");
+        btnFull.classList.remove("visible");
+      }, 4000);
+    }
+
+    document.addEventListener("mousemove", mostrarBotonesTemporales);
+    document.addEventListener("keydown", mostrarBotonesTemporales);
+    document.addEventListener("touchstart", mostrarBotonesTemporales);
+
+    const provincias = [
+      { nombre: "Monte Grande", lat: -34.823, lon: -58.468 },
+      { nombre: "CABA", lat: -34.61, lon: -58.38 },
+      { nombre: "La Plata", lat: -34.92, lon: -57.95 },
+      { nombre: "Mar del Plata", lat: -38.00, lon: -57.55 },
+      { nombre: "Rosario", lat: -32.95, lon: -60.63 },
+      { nombre: "Córdoba", lat: -31.42, lon: -64.18 },
+      { nombre: "Mendoza", lat: -32.89, lon: -68.83 },
+      { nombre: "Salta", lat: -24.79, lon: -65.41 }
+    ];
+
+    const iconosDia = {
+      0: "wi-day-sunny", 1: "wi-day-sunny-overcast", 2: "wi-day-cloudy", 3: "wi-cloudy",
+      45: "wi-day-fog", 48: "wi-day-fog", 51: "wi-day-showers", 53: "wi-day-showers",
+      61: "wi-day-rain", 63: "wi-day-rain", 71: "wi-day-snow", 95: "wi-day-thunderstorm"
+    };
+    const iconosNoche = {
+      0: "wi-night-clear", 1: "wi-night-alt-partly-cloudy", 2: "wi-night-alt-cloudy", 3: "wi-night-cloudy",
+      45: "wi-night-fog", 48: "wi-night-fog", 51: "wi-night-showers", 53: "wi-night-showers",
+      61: "wi-night-rain", 63: "wi-night-rain", 71: "wi-night-snow", 95: "wi-night-thunderstorm"
+    };
+
+    let idx = 0;
+    async function updateWeather() {
+      const prov = provincias[idx];
+      document.getElementById("provincia").textContent = prov.nombre;
+      try {
+        const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${prov.lat}&longitude=${prov.lon}&current=temperature_2m,weathercode&timezone=auto`);
+        const data = await res.json();
+        const temp = Math.round(data.current.temperature_2m);
+        const code = data.current.weathercode;
+        const tz = data.timezone;
+        const nowUTC = new Date();
+        const nowLocal = new Date(nowUTC.toLocaleString("en-US", { timeZone: tz }));
+        const hour = nowLocal.getHours();
+        const isDay = hour >= 6 && hour < 20;
+        const icon = (isDay ? iconosDia[code] : iconosNoche[code]) || "wi-na";
+        document.getElementById("temp").textContent = `${temp}°C`;
+        document.getElementById("weather-icon").className = "wi " + icon;
+      } catch {
+        document.getElementById("temp").textContent = "--°C";
+        document.getElementById("weather-icon").className = "wi wi-na";
+      }
+      idx = (idx + 1) % provincias.length;
+    }
+
+    function updateClock() {
+      const now = new Date();
+      const h = String(now.getHours()).padStart(2, '0');
+      const m = String(now.getMinutes()).padStart(2, '0');
+      document.getElementById("clock").textContent = `${h}:${m}`;
+    }
+
+    updateClock();
+    setInterval(updateClock, 10000);
+    updateWeather();
+    setInterval(updateWeather, 6000);
+  </script>
+</body>
+</html>
