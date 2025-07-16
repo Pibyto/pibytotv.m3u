@@ -4,6 +4,347 @@
   <meta charset="UTF-8" />
   <title>MGTV Multicanal</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: black;
+      font-family: Arial, sans-serif;
+      color: white;
+    }
+    .canal {
+      position: relative;
+      width: 100%;
+      height: 100vh;
+      margin-bottom: 80px;
+      background: #000;
+    }
+    .separador {
+      text-align: center;
+      margin: 10px 0;
+    }
+    .separador img {
+      width: 45px;
+      height: 45px;
+      animation: girar 10s linear infinite;
+    }
+    video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .logo-container {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      width: 45px;
+      height: 45px;
+      perspective: 800px;
+      z-index: 30;
+    }
+    .logo-rotador {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      animation: girar 10s linear infinite;
+      transform-style: preserve-3d;
+    }
+    .logo-rotador img {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      backface-visibility: hidden;
+    }
+    .logo-rotador img.back {
+      transform: rotateY(180deg);
+    }
+    @keyframes girar {
+      from { transform: rotateY(0deg); }
+      to { transform: rotateY(360deg); }
+    }
+    .panel-superior,
+    .unified-panel {
+      position: absolute;
+      right: 30px;
+      font-size: 11px;
+      font-weight: bold;
+      z-index: 20;
+    }
+    .panel-superior {
+      bottom: 42px;
+      background: #333;
+      color: white;
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+    .unified-panel {
+      bottom: 20px;
+      height: 22px;
+      display: flex;
+      font-size: 12px;
+    }
+    .block {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 6px;
+      height: 100%;
+      white-space: nowrap;
+    }
+    .boton-flotante {
+      position: absolute;
+      background: rgba(0, 0, 0, 0.6);
+      color: white;
+      border: 1px solid white;
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 14px;
+      z-index: 25;
+      cursor: pointer;
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+    .boton-flotante.visible {
+      opacity: 1;
+    }
+    .btn-audio {
+      bottom: 80px;
+      left: 20px;
+    }
+    .btn-full {
+      bottom: 40px;
+      left: 20px;
+    }
+    .btn-activar {
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: red;
+      color: white;
+      padding: 14px 22px;
+      font-size: 18px;
+      font-weight: bold;
+      border-radius: 8px;
+      z-index: 1000;
+      position: absolute;
+      cursor: pointer;
+    }
+    .loader {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 16px;
+      background: rgba(0, 0, 0, 0.7);
+      padding: 10px 20px;
+      border-radius: 8px;
+      z-index: 999;
+    }
+  </style>
+</head>
+<body>
+  <script>
+    // Lista de ciudades con coordenadas para el clima
+    const ciudades = [
+      { nombre: "Monte Grande", lat: -34.78, lon: -58.44 },
+      { nombre: "CABA", lat: -34.61, lon: -58.38 },
+      { nombre: "La Plata", lat: -34.92, lon: -57.95 },
+      { nombre: "Mar del Plata", lat: -38.00, lon: -57.55 },
+      { nombre: "Córdoba", lat: -31.42, lon: -64.18 },
+      { nombre: "Rosario", lat: -32.95, lon: -60.65 },
+      { nombre: "Mendoza", lat: -32.89, lon: -68.84 },
+      { nombre: "Salta", lat: -24.78, lon: -65.41 },
+      { nombre: "Tucumán", lat: -26.82, lon: -65.22 },
+      { nombre: "Ushuaia", lat: -54.81, lon: -68.31 },
+      { nombre: "Neuquén", lat: -38.95, lon: -68.06 },
+      { nombre: "San Juan", lat: -31.54, lon: -68.54 },
+      { nombre: "Entre Ríos", lat: -31.62, lon: -60.70 },
+      { nombre: "Santa Fe", lat: -31.63, lon: -60.70 },
+      { nombre: "San Luis", lat: -33.30, lon: -66.34 },
+      { nombre: "El Jagüel", lat: -34.83, lon: -58.45 },
+      { nombre: "Ezeiza", lat: -34.82, lon: -58.53 },
+      { nombre: "Lomas de Zamora", lat: -34.79, lon: -58.40 }
+    ];
+
+    const canales = [
+      {
+        nombre: "MONTE GRANDE TV",
+        color: "#673ab7",
+        logo:
+          "https://i.ibb.co/9wvLNrg/2r-Bs-Skv-IGMpj-DKk-H5-O1y-Nv-AIaf-F-2r-Bsbz-Rpn2a-KGv-I32-Dot-O10-Lsv-V-2r-Bscftp-AXm-It-HOVGJa-MG1.png",
+        stream:
+          "https://live20.bozztv.com/giatvplayout7/giatv-209181/playlist.m3u8",
+      },
+      {
+        nombre: "MONTE GRANDE TV WORSHIP",
+        color: "#f57c00",
+        logo:
+          "https://i.ibb.co/fVzbFDnV/Photoroom-20250703-092759.png",
+        stream:
+          "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8",
+      },
+      {
+        nombre: "YESHÚA TV",
+        color: "#ff4081",
+        logo:
+          "https://i.ibb.co/GQH9Nx3k/Photoroom-20250703-103846.png",
+        stream:
+          "https://live20.bozztv.com/giatvplayout7/giatv-209163/tracks-v1a1/mono.ts.m3u8",
+      },
+    ];
+
+    function getWeatherIcon(code) {
+      if ([0].includes(code)) return "wi-day-sunny";
+      if ([1, 2, 3].includes(code)) return "wi-day-cloudy";
+      if ([45, 48].includes(code)) return "wi-fog";
+      if ([51, 53, 55].includes(code)) return "wi-showers";
+      if ([61, 63, 65].includes(code)) return "wi-rain";
+      if ([71, 73, 75].includes(code)) return "wi-snow";
+      if ([80, 81, 82].includes(code)) return "wi-showers";
+      if ([95, 96, 99].includes(code)) return "wi-thunderstorm";
+      return "wi-day-sunny";
+    }
+
+    canales.forEach((canal, i) => {
+      const container = document.createElement("div");
+      container.className = "canal";
+      container.innerHTML = `
+        <video id="video${i}" autoplay muted playsinline></video>
+        <div class="logo-container">
+          <div class="logo-rotador">
+            <img src="${canal.logo}" class="front" />
+            <img src="${canal.logo}" class="back" />
+          </div>
+        </div>
+        <div class="panel-superior" style="background:${canal.color};">${canal.nombre}</div>
+        <div class="unified-panel">
+          <div class="block" style="background:#00c853;color:white" id="ciudad${i}">Monte Grande</div>
+          <div class="block" style="background:#00bfa5;color:black">
+            <i id="icono${i}" class="wi wi-day-sunny"></i>
+            <span id="temp${i}">--°C</span>
+          </div>
+          <div class="block" style="background:white;color:black"><span id="clock${i}">--:--</span></div>
+        </div>
+        <div class="boton-flotante btn-audio">🔊 Audio</div>
+        <div class="boton-flotante btn-full">⛶ Full</div>
+        <div class="btn-activar">TOCAR PARA ACTIVAR</div>
+        <div class="loader">Cargando canal...</div>
+      `;
+      document.body.appendChild(container);
+
+      if (i > 0) {
+        const sep = document.createElement("div");
+        sep.className = "separador";
+        sep.innerHTML = `<img src="${canales[0].logo}" alt="Logo giratorio"/>`;
+        document.body.appendChild(sep);
+      }
+
+      const video = container.querySelector("video");
+      const activarBtn = container.querySelector(".btn-activar");
+      const btnAudio = container.querySelector(".btn-audio");
+      const btnFull = container.querySelector(".btn-full");
+      const loader = container.querySelector(".loader");
+      let currentCiudadIndex = 0;
+
+      if (Hls.isSupported()) {
+        const hls = new Hls({ startLevel: 0 });
+        hls.loadSource(canal.stream);
+        hls.attachMedia(video);
+        hls.on(Hls.Events.MANIFEST_PARSED, () => {
+          loader.style.display = "none";
+        });
+      } else {
+        video.src = canal.stream;
+      }
+
+      activarBtn.onclick = () => {
+        video.muted = false;
+        video.play();
+        activarBtn.style.display = "none";
+        mostrarControles();
+      };
+
+      btnAudio.onclick = () => {
+        document.querySelectorAll("video").forEach((v, idx) => {
+          if (idx !== i) v.muted = true;
+        });
+        video.muted = false;
+        video.play();
+      };
+
+      btnFull.onclick = () => {
+        if (video.requestFullscreen) video.requestFullscreen();
+      };
+
+      function mostrarControles() {
+        btnAudio.classList.add("visible");
+        btnFull.classList.add("visible");
+        clearTimeout(window[`ocultar${i}`]);
+        window[`ocultar${i}`] = setTimeout(() => {
+          btnAudio.classList.remove("visible");
+          btnFull.classList.remove("visible");
+        }, 4000);
+      }
+
+      document.addEventListener("mousemove", mostrarControles);
+      document.addEventListener("keydown", mostrarControles);
+      document.addEventListener("touchstart", mostrarControles);
+
+      function updateClock() {
+        const now = new Date();
+        const h = String(now.getHours()).padStart(2, "0");
+        const m = String(now.getMinutes()).padStart(2, "0");
+        document.getElementById(`clock${i}`).textContent = `${h}:${m}`;
+      }
+      updateClock();
+      setInterval(updateClock, 10000);
+
+      function updateClimaCiudad() {
+        const ciudad = ciudades[currentCiudadIndex];
+        fetch(`https://api.open-meteo.com/v1/forecast?latitude=${ciudad.lat}&longitude=${ciudad.lon}&current_weather=true`)
+          .then((res) => res.json())
+          .then((data) => {
+            const temp = Math.round(data.current_weather.temperature);
+            const code = data.current_weather.weathercode;
+            const iconClass = getWeatherIcon(code);
+            document.getElementById(`ciudad${i}`).textContent = ciudad.nombre;
+            const iconoEl = document.getElementById(`icono${i}`);
+            iconoEl.className = `wi ${iconClass}`;
+            document.getElementById(`temp${i}`).textContent = `${temp}°C`;
+          })
+          .catch(() => {
+            document.getElementById(`ciudad${i}`).textContent = ciudad.nombre;
+            const iconoEl = document.getElementById(`icono${i}`);
+            iconoEl.className = `wi wi-day-sunny`;
+            document.getElementById(`temp${i}`).textContent = "--°C";
+          });
+        currentCiudadIndex++;
+        if (currentCiudadIndex >= ciudades.length) currentCiudadIndex = 0;
+      }
+
+      updateClimaCiudad();
+      setInterval(updateClimaCiudad, 10000);
+    });
+  </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>MGTV Multicanal</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.min.css"
