@@ -9,6 +9,10 @@ https://micanal.ovh/livestreams/85.3GBVMU744PUH.m3u8
 https://micanal.ovh/livestreams/127.QAX0OUHEMVST.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://micanal.ovh/images/11253292546802528ad6c15.png"group-title="MICANAL",RedTV
+https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://micanal.ovh/images/11253292546802528ad6c15.png"group-title="MICANAL",ABCTELESHOW
 https://micanal.ovh/livestreams/184.D7ZQE0JAH5H3.m3u8
 
