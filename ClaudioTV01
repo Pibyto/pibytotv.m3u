@@ -850,9 +850,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-rr5MJDd59LblzS11Vd4TIzZ_eWgtQjOUQ&s"group-title="VLC PLAYER",CHAVO DEL OCHO
-https://www.youtube.com/watch?v=hct5qjC_n9M
-
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/800px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png"group-title="VLC PLAYER",TVP
@@ -1026,7 +1023,7 @@ https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/montegrandetv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDmTjR08/Photoroom-20250719-005434.png"group-title="ARGENTINA",MONTE GRANDE TV  LIVE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RT1Z7khz/Photoroom-20250728-112633.png"group-title="ARGENTINA",MONTE GRANDE TV  LIVE
 https://micanal.ovh/livestreams/127.QAX0OUHEMVST.m3u8
 
 
