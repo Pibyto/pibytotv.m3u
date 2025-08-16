@@ -1848,3 +1848,592 @@ https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8
 
 
  ################(PERÚ)###################################################### 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Latina_Television_-_Logotipo.png"group-title="PERÚ",LATINA
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png"group-title="PERÚ", ATV HD 
+https://d1bva7j5xkfa6y.cloudfront.net/62261ec43964f31a19bec77f/live/live_0.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/1200px-ATV%2B_logo_2020.png"group-title="PERÚ",ATV+ 
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiNL9bx0XnBAVw3a70E7Q6iO3QP4JOmw1dLA&s"group-title="PERÚ",TVPERÚ
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1200px-ATV_Sur_-_2018_logo_%28final%29.png"group-title="PERÚ",ATV SUR
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/COSMOS_logo2K24-100.jpg"group-title="PERÚ",COSMOS 
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w84781770.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png"group-title="PERÚ",URANIO TV
+https://live.obslivestream.com:443/uraniotv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2h8wpXP/Photoroom-20250626-013837.png"group-title="PERÚ",MeGaTV
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/978_DMJ.png"group-title="PERÚ",DMJ
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1546_Tele_Selva.png"group-title="PERÚ",TELE SELVA
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1189_Telecolor_TV.png"group-title="PERÚ",TELECOLOR
+https://live.obslivestream.com:443/telecolormux/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1590_TV_en_linea_Cusco.png"group-title="PERÚ",TV EN LINEA
+https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1191_Via_Alto_Mayo_TV.png"group-title="PERÚ",VIA ALTO MAYO
+https://live.obslivestream.com:443/viaaltomayomux/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGXVhjYg/Photoroom-20250626-022026.png"group-title="PERÚ",VISION SUR TV
+https://ott1.hdlatam.tv:443/live_abr/webtvVisionSur/live/Ia6tBZUR_1yptRX0C/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTX6Ign8OtS0dp5XTcCjlCQbwCMyd0IlhMEQ&usqp=CAU"group-title="PERÚ",PLANETA HD
+https://live.obslivestream.com:443/planetatv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",PLANEATV
+https://play.agenciastreaming.com:8081/planeatv/index.fmp4.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",AUTENTICA TV
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",CANAL 8
+https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",CR TV
+https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",HECHIZERA TV
+https://video.misistemareseller.com/corporationhc/corporationhc/chunklist_w1215638026.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",IMPACTO TV
+https://cloudvideo.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",NOVA TV STAR
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",RNTV
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",UNITEL TV
+https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",SOLTV
+https://video03.logicahost.com.br/soltv/soltv/chunklist_w1490080761.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PERÚ",RSELVA
+https://live.obslivestream.com/selvatv/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+ ##############( ECUADOR )################################################### 
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png"group-title="ECUADOR",ECUAVISA 
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks_dvr.m3u8?dpssid=b2671425022685aa2a33a501&sid=ba5t1l1xb21745332173685aa2ccd5b49&ndvc=0 
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png
+"group-title="ECUADOR",ECUADOR TV
+https://samson.streamerr.co:8081/shogun/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Rts_2005.png/revision/latest?cb=20201015015958&path-prefix=es"group-title="ECUADOR",RTS 
+https://alba-ec-rts-rts.stream.mediatiquestream.com/original.m3u8 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest?cb=20230215230242&path-prefix=es"group-title="ECUADOR",TVC 
+https://alba-ec-tvc-tvc.stream.mediatiquestream.com/live_0.m3u8 
+
+
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",
+https://live20.bozztv.com:443/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8
+
+https://live20.bozztv.com:443/akamaissh101/ssh101/pantallaclasics/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png"group-title="ECUADOR",GAMAVISION 
+https://stream.esradioecuador.com/hls/stream.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROILt62_HGSt0wpL2AzASaR1Yy31RcfbcSdg&s"group-title="ECUADOR",OROMAR TV 
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="HONDURAS",TELEMAS
+https://viewhn.com/telemas/live/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",VOZ Y TV
+https://cloud37.ecuatel.com/vostv/live/chunklist_w1330789036.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",UNIANDES
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="ECUADOR",ECUADOR TV
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+##############(PR.EE.UU)##################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="PR.EE.UU",TELEMUNDO  
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="PR.EE.UU",TELEMUNDO NOTICIAS AHORA
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="PR.EE.UU",TELEMUNDO FLORIDA
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="PR.EE.UU",TELEMUNDO NORDESTE
+https://nbcu-telemundonortheast-firetv.amagi.tv/playlist1080.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="PR.EE.UU",TELEMUNDO TEXAS
+https://nbcu-telemundotexas-firetv.amagi.tv/playlist1080.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="PR.EE.UU",TELEMUNDO WEST
+https://nbcu-telemundowest-firetv.amagi.tv/playlist1080.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="PR.EE.UU",TELEMUNDO ACCION
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master_5.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg"group-title="PR.EE.UU",TELEMUNDO ROMANCE
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_5.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",PRITV
+https://live20.bozztv.com:443/akamaissh101/ssh101/tv1251master/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",NOVELISIMA
+https://stream.ads.ottera.tv/cl/250627d1favime6tocfl5bmcmg/1280x720_3071200_0_f.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",MAJESTAD TV
+https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",RUNTIME
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh_720.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",RIDICULOS
+https://30a-tv.com/feeds/720p/63.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",ANGER..
+https://livetv-fa.tubi.video/anger-management-espanol2/1080p-cc/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",BBC DOCTOR WHOO
+https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist1080P.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",MARANATHA RADIOTV
+https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/800px-Logo_UniM%C3%A1s.svg.png"group-title="PR.EE.UU",UNIMAS  
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/80959
+
+
+#EXTINF:-1 tvg-logo="https://visionlatinapanama.com/assets/VISION_LATINA_LOGO_2D_v3%201-2ef0105d.png"group-title="PR.EE.UU",VISION LATINA
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/8adc9953-2bbd-2432-1708-e47d4fa08b96.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/telemundo-puerto-rico1732568838.logowik.com.webp"group-title="PR.EE.UU",TELEMUNDO  
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/55146
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/WAPA-TV_logo.svg"group-title="PR.EE.UU",WAPA
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/7098
+
+
+
+
+
+#EXTINF:-1 tvg-logo="
+"group-title="PR.EE.UU",NOTICIAS UNIVISION
+https://d2c043ja5c3fzo.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/8876b7f0-5340-4567-aed3-b5219d49ee83/0.m3u8 
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",WKAQ
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",CARIBEAN
+https://video2.getstreamhosting.com:19360/8216/8216.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",BUENA TV
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/chunklist_w247502828.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",SUMTV
+https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/chunklist_b2176000.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",NAT GEO LATINO
+https://cors-proxy.cooks.fyi/https:/streamer1.nexgen.bz/NAT_GEO/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",SPIRIT TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/WSPF-CD_Am%C3%A9rica_Tev%C3%A9_Tampa_logo.png"group-title="PR.EE.UU",AMERICATEVE  
+https://live.gideo.video/americateve2/HD1080/HD1080.m3u8 
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png"group-title="PR.EE.UU",MEGA TV  
+https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/WIPR-TV_2015.svg/revision/latest/scale-to-width-down/200?cb=20201221001542"group-title="PR.EE.UU",WIPR  
+https://streamwipr.pr/hls/stream/index.m3u8?
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",
+https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",CGTN ESPAÑOL
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",ESTRELLA NEWS
+https://estrella-news-oando.amagi.tv/playlistR1080p.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",ESTRELLA TV
+https://estrellatv-oando.amagi.tv/playlistR1080p.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PR.EE.UU",AV
+https://dvrfl03.bozztv.com/hondu-alientovision/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###############( MEXICO )################################################### 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",LMS
+https://live20.bozztv.com:443/akamaissh101/ssh101/canallms/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",AZTEKA 
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",CANAL 33 TIJUANA
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",CANAL 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/chunklist_w1143532473_b3428000_sleng.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",CANAL 69
+https://live20.bozztv.com:443/akamaissh101/ssh101/canal69/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSduIAxBJp5xsIhg9B32HTjqtVZpgcJwxLJWw&s"group-title="MEXICO",CINE ESTRELLA  
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png"group-title="MEXICO",IMAGEN  
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://onceninasyninos.tv/wp-content/uploads/2019/01/Banner-logo-canal-once-e1523045891245.png"group-title="MEXICO",ONCE  
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b2098304.m3u8 
+
+
+#EXTINF:-1 tvg-logo=""group-title="MEXICO",CANAL DOCE
+https://live20.bozztv.com:443/akamaissh101/ssh101/ochotv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/03/MVS_TV_logo.jpg/revision/latest/thumbnail/width/360/height/360?cb=20110905153043&path-prefix=es"group-title="MEXICO",MVS TV  
+https://mvs-live.daioncdn.net/mvstv/mvstv_1080p.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/CanalCatorce2017.png/revision/latest?cb=20210415165958&path-prefix=es"group-title="MEXICO",CANAL 14  
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuXNZDeHf1-uYVaNI0es2GTfC66rMLHGcO8g&usqp=CAU"group-title="MEXICO",CANAL MAS TELEVISIÓN 
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:-1 tvg-logo="https://tele10.nayarit.gob.mx/wp-content/uploads/2024/05/LOGO-WEB.png"group-title="MEXICO",TELE10
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/tvpacificomexico.png"group-title="MEXICO",TVP
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w361459224_b1428000_sleng.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+################( ESPAÑA )##################################################
+
+
+
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/442/22/png-clipart-logo-24-horas-television-la-1-spain-television-text.png"group-title="ESPAÑA",24 hs
+https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6834c6c7c875c2c1c16_dwe.png"group-title="ESPAÑA",DW ESPAÑOL HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://contenidostv.es/images/bomCine512.png"group-title="ESPAÑA",BOM CINE
+http://185.189.225.150:85/BOM/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jVhz0wMKa1tLFlRylQjApGca6DHTUT1StQWr1kNccjBHM0ySLcDRPt4XuG6VA8g21wsHbyOuGLU=s900-c-k-c0x00ffffff-no-rj"group-title="ESPAÑA",PARAMOUNT SPAIN
+http://185.189.225.150:85/Paramount/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg"group-title="ESPAÑA",AMC SPAIN
+http://vegafibratv.com:8085/AMC/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cf7GkTx/Photoroom-20250626-122929.png"group-title="ESPAÑA",ROKUTEN ACCION
+https://rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/e119e0a0-fa04-48bc-8d8d-a525819e718f/4.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cf7GkTx/Photoroom-20250626-122929.png"group-title="ESPAÑA",ROKUTEN POP
+https://rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/7ac73343-d6ec-4aec-80a5-c898e919759a/4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cf7GkTx/Photoroom-20250626-122929.png"group-title="ESPAÑA",ROKUTEN ESPAÑOL
+https://rakuten-tv-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/8d444f45-c418-4283-b4d6-0ab2d826982d/4.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rakuten_Viki_Logo_2019.svg/1600px-Rakuten_Viki_Logo_2019.svg.png"group-title="ESPAÑA",ROKUTEN VIKI
+https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/75e15d35-a9fb-4bdd-86a9-7782201e2479/2.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/hispantv_spain.jpg"group-title="ESPAÑA",HISPANTV
+https://live.presstv.ir/hls/hispantv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.prisanoticias.com/uploads/imagenes/noticias/principal/201302/principal-el-pais-tv-es_med.png"group-title="ESPAÑA",EL PAIS
+https://d2xqbi89ghm9hh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/9cca5cbc-11a3-4aa5-bbc0-ec3829eb32be/0.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="ESPAÑA",LA 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/31/450/png-transparent-background-hd-logo-tve-internacional-la-1-rtve-tve-hd-blue-text.png"group-title="ESPAÑA",TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png"group-title="ESPAÑA",LA 3
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cocina-familiar.com/wp-content/uploads/2022/09/logo_cocina_familiar_crema.png"group-title="ESPAÑA",COCINA FAMILIAR
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12108&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
+
+
+
+
+
+
+
+
+
+
+
+
+
+#############( GUATEMALA )##################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrsl46SBPeskcXcgCtW-YSq9VWZs2TxGorzI9OQpOu4ZnftCQBWmFqLVxKMABA7indPfU&usqp=CAU"group-title="GUATEMALA",BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png"group-title="GUATEMALA",TOTOVISION
+https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_79bb351050ce4760941788c17a1fc501~mv2.png/v1/fill/w_744,h_746,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20Conosur.png"group-title="GUATEMALA",CANAL 26
+https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-150x150.png"group-title="GUATEMALA",PELÍCULAS_MANI
