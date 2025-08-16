@@ -1,67 +1,40 @@
 DavidTV
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8L79pbv0/Photoroom-20250510-195832.png"group-title="TDA BS.AS",LA RADIO DE LA BENDICION MG RADIO
-https://xhateaec.com:8800/hls/Klau77/Klau77/85220021490ee6b84f66b12353608b42/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GnBxx1c/3dgifmaker20872.gif"group-title="TDA BS.AS",MONTE GRANDE TV 24/7
 https://giatv.bozztv.com/giatvplayout/giatv-208138/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ygCVgQ3/3dgifmaker92305.gif"group-title="TDA BS.AS",PLAY TV 24/7
-https://giatv.bozztv.com/giatvplayout/giatv-208538/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QKzjwmk/Untitled-removebg-preview.png"group-title="TDA BS.AS",PLAY TV=EN MANTENIMIENTO HASTA NUEVO AVISO
-https://fl1002.bozztv.com:443/ssh101/plaaytv/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--L7dK4JYWxE/Xum1XU0_cKI/AAAAAAAAJy8/Z8_QEFef4JUZAiOLOPHKBR7pA4e-avJfwCLcBGAsYHQ/s1600/canal-luz.png"group-title="TDA BS.AS",CANAL LUZ HD
-https://g2.vxral-slo.transport.edge-access.net:443/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://corrientes.tv/wp-content/uploads/2024/04/Corrientes-TV.webp"group-title="TDA BS.AS",CORRIENTES TV HD
-https://stmvideo6.livecastv.com/canal7/canal7/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Bayres-TV-en-vivo-Online-.png?fit=1920%2C1080&ssl=1"group-title="TDA BS.AS",BAYRES TV HD
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OdWhvPhBs4DfqmC_0TgmlZELLX_8UHlmXqOWOvYMIVLsEncE2tRPHI-2xUiAbJRxJVtg=s150-rw"group-title="TDA BS.AS",NEO TV DIGITAL HD. 16.1 
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/UscOGMJ_SzfjKpsGz-rBT02q0AmDGY7NgDk3RPSvxxnfRC6LfX1JTPGgGLaL6GCtHqY"group-title="TDA BS.AS",GENTV HD  17.3
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/crop/center/200/200/radio_logos/e1/3f/e13fc95c-ae19-4f1b-b8ca-2cef006919f1.png"group-title="TDA BS.AS",COSMOS TV HD
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVmksFF1qmFjh4BfU91b3fohOsQg5uLrPaEA&usqp=CAU"group-title="TDA BS.AS",TELEMIX HD
-https://fl1002.bozztv.com:443/ssh101/telemixlive/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/04/CINCO-TV-logo.gif"group-title="TDA BS.AS",CINCO TV HD  TIGRE
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://ipersonica.wordpress.com/wp-content/uploads/2019/12/ipersonica-en-vivo.png"group-title="TDA BS.AS",IPERSONICA HD
-https://xhateaec.com:8800/hls/visitor/visitor/e1c1fb05e0800555fc99bd2f55b58d2e/index.m3u8
 
 
-#EXTINF:-1 tvg-logo""group-title="TDA BS.AS",APOCALIPSIS 3:8
-https://xhateaec.com:8800/hls/Klau77/Klau77/3d1e8f8eaacccb302f77743e2d98f1af/index.m3u8
-
-#EXTINF:-1 tvg-logo""group-title="TDA BS.AS",PLATINIUM TV
-https://fl1002.bozztv.com/ssh101/platiniumtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f_CEtKzWkAEwHaM9HOwwBgmCYWta2Xmwn1ItUOaCbMcTbmytjpjgJ-kOYPyoknVCIUs&usqp=CAU"group-title="MOVIE",CORAZ0N DELAT0R
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208730/Coraz__n_delator__2025____PELISPEDIA.mp4/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo""group-title="TDA BS.AS",
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrSRKZWuYmVzuvtQdcYIkig7rnEn8USeXe1gLYn_mw-uVzmc-Ihnqdysc1yRCy4haVfhY&usqp=CAU"group-title="MOVIE",BALLERINA
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208730/Ballerina__del_universo_de_John_Wick__2025____PELI.mp4/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo""group-title="TDA BS.AS",
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fbZWUFICECQGumZL7V2z0HgkRwe.jpg"group-title="MOVIE",CORDEROS POR LEONES
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208817/Leones_por_corderos__2007_.mp4/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a65971_a0ee26ba5bdd487b878f7da04641ebcb~mv2.png/v1/fill/w_568,h_786,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/a65971_a0ee26ba5bdd487b878f7da04641ebcb~mv2.png"group-title="MOVIE",CONCLAVE
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208817/Conclave__2024_.mp4/playlist.m3u8
 
 
 
@@ -76,6 +49,396 @@ https://fl1002.bozztv.com/ssh101/platiniumtv/tracks-v1a1/mono.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/mbkAAOSwaulnvdWF/s-l400.jpg"group-title="MOVIE",NOVOCAINE
+https://videos.gia.tv/giatv/movies/playlist/208770/Novocaine__2025____PELISPEDIA.mp4
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgkSNpxpYxLB6W9bgFHo5q-8Wu-DP903kvwMe-7k2rW0LkbSTpFs-lD1C9c0eqt5IZMU&usqp=CAU"group-title="MOVIE",DIRTY ANGELS
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208730/Dirty_Angels__2024____PELISPEDIA__2_.mp4/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTnlNmpfUJkQCnfQ5vCz2m97-QSSS5wNPFN7Oy190eVZm6C-1WvmhhDh17Ph01u8rsEE8&usqp=CAU"group-title="MOVIE",MIKAELA
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208744/Mikaela__2025_.mp4/chunk.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQew85T0zG_AbfP4aQZZkZJyBiS7AdA_5Lz5VnBsEY__dDvXVRpJGsyXEADR9zbP-FyqBs&usqp=CAU"group-title="MOVIE",FORD VS FERRARI
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208770/Ford_v_Ferrari__2019_.mp4/chunk.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/2015_Focus_film_poster.png"group-title="MOVIE",FOCUS
+https://videos.gia.tv/giatv/movies/playlist/208770/Focus__2015_.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2JhOWZhY2UtMzAxZi00OGRkLWFjNTctMDFjMzkwMWEwMzdmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="MOVIE",ZODIAC
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208744/Zodiac__2007_.mp4/chunk.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqvRBuHBwpXluRXmpCvQzx0GiHxrKC6IGrpcBn4IF9BUjODpsKTYGh7CJM5Kh2fKRnz0c&usqp=CAU"group-title="MOVIE",ATTRACTION
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208730/Attraction_La_Guerra_ha_Comenzado__2017____PELISPE.mp4/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342//bnG0VwIw9oBFVn58Z9cixVLsn93.jpg"group-title="MOVIE",JUEGO DE ROLES
+https://videos.gia.tv/giatv/movies/playlist/208770/Role_Play__2023_.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTYyNmYyN2EtYTFjNS00ZWY5LWJiZmMtNTk5N2MyYzkzMDhmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="MOVIE",FREAKY TALES
+https://videos.gia.tv/giatv/movies/playlist/208770/Freaky_Tales__2024____PELISPEDIA.mp4
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiAYFGrcvelOtGm3kndArD29sNJd-LPxB554q84hCGZRs_gazIHA8wu2xKOyXaKnBlVjE&usqp=CAU"group-title="MOVIE",SPIDER MAN CRUZANDO EL MULTIVERSO
+https://videos.gia.tv/giatv/movies/playlist/208770/Spider_Man_Cruzando_el_multiverso__2023____PELISPE.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.debate.com.mx/__export/1745792684756/sites/debate/img/2025/04/27/estragos_en_netflix.jpg_517129353.jpg"group-title="MOVIE",ESTRAGOS (2025)
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/Estragos__2025____PELISPEDIA_12.mp4/chunk.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/M0Zx2JHfD-I/sddefault.jpg"group-title="MOVIE",MIDWAY
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208730/Midway_Batalla_en_el_Pacifico__2019____PELISPEDIA.mp4/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVKIXSk5r5u4jss0IJl6oOwPBXmomKYz8vX-kgcXtf4VwOb0nTLGxyGoQ9SEZDQkx8Ns&usqp=CAU"group-title="MOVIE",LETRAS EXPLICITAS
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208730/Letras_Explicitas.mp4/chunk.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/c3/26/8b/c3268bcf0e737409afe4ed9c77d373f5.jpg"group-title="MOVIE",HASTA EL ULTIMO HOMBRE
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208730/Hasta_el___ltimo_hombre__2016____PELISPEDIA.mp4/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/305326083/s718/the-mother.jpg"group-title="MOVIE",LA MADRE
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208730/La_madre__2023_.mp4/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQExAP1-0f5PScK8JHo4Y_2sf-35oKulyvR0EPjfJti9ZjjHFbsOrQvkMp0lNhMOMji-aQ&usqp=CAU"group-title="MOVIE",SOCIOS POR ACCIDENTE 2
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/Socios_por_Accidente_2_720P_HD_.mp4/chunk.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl8RhWxBnq3-1Kthxs8zlCLSqF8guWy2mjZbg9bIU3HAmJhjukoSQf79Rjr3pTN-LudD8&usqp=CAU"group-title="MOVIE",CANTANTES EN GUERRA
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/Cantantes_en_guerra_480P_.mp4/chunk.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2018/11/14/12/140097977.jpg"group-title="MOVIE",EL MISMO AMOR , LA MISMA LLUVIA
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/El_romance_de_un_hombre_muy_miedoso__el__mismo_amor_la_misma_lluvia_4k__Pel__cula_Argentina_720P_HD_.mp4/chunk.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiHBRFsac7pzsrt5spLYHFJqQn1xzvmtjZRC_cRTJalvbnVuqZWpj7vdnDMmtlzejp75c&usqp=CAU"group-title="MOVIE",ESPERANDO LA CARROZA
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/Esperando_La_Carroza_Full_HD_1080P_720P_HD_.mp4/chunk.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikF6HCBy_aWfRdftZJvxog68mJ3KOZxVEauUzeUxjfXCLdaz8bpZb_yb4RwLbkgFi2BL3-iZMesmjkxNmFYqK2USLWwRLV2dBAIfO0pHlRwrAwBVtkaN6kI4KkPBd0obwHvm4FTLXy6-36yUkj04O24C48dqEeU7wnTn-CKso-FhfIaVJ_xLFXOzvjI9I/s1024/Dejar%20el%20mundo.jpg"group-title="MOVIE",DEJAR EL MUNDO ATRAS
+https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/playlist/208817/0035_Dejar_el_mundo_atr__s__2023____PELISPEDIA.mp4/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Re2OWSJ2ZUQ/sddefault.jpg"group-title="MOVIE",MISION IMPOSIBLE SENTENCIA FINAL
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/Misi__n_Imposible___Sentencia_final__2025____PELISP.mp4/chunk.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://fr.web.img2.acsta.net/pictures/17/10/12/10/09/5958933.jpg"group-title="MOVIE",GEO TORMENTA
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/Geo_Tormenta__2017____PELISPEDIA.mp4/chunk.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/i3K3woJVwVfBkjIhVRTbLSvwIN-b1a17Hw8g941ka0AV0_EahahcsZURVPR09auGK4iQfg"group-title="MOVIE",LA INVASION
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/00005_Invasi__n_720p_LAT_949_44_MB.mp4/chunk.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oucNCb4xUk0gii5BfFnVatxiRTN.jpg"group-title="MOVIE",SEÑALES DEL FUTURO
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/00004_Se__ales_del_futuro__2009____PELISPEDIA.mp4/chunk.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e1/POSTERgigantesdeaceroGDE.jpg/revision/latest?cb=20110831010208&path-prefix=es"group-title="MOVIE",GIGANTE DE ACERO
+https://www.mediafire.com/file/kw0g8gfbde4ee5w/GIGANTES_DE_ACERO.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/5PgAAOSwEKRhZOs7/s-l1200.jpg"group-title="MOVIE",WHIPLASH
+https://videos.gia.tv/giatv/movies/playlist/208538/Whiplash_2014_1080p_LATiNO_720P_HD_.mp4
+
+
+#EXTINF:-1 tvg-logo="https://playmax.xyz/img/c/400/75/1669739425/37301.jpg"group-title="MOVIE",UN ESPIA Y MEDIO
+https://videos.gia.tv/giatv/movies/playlist/208538/Un_espia_y_medio_2016_DVDRip_Lat.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH1kPLTU8jfjSZISs2DEcP7QOsnshxAjzXUw&s"group-title="MOVIE",THE OUTPOST
+https://videos.gia.tv/giatv/movies/playlist/208538/0_2_THE_OUTPOST.mp4
+
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",HACKER
+https://videos.gia.tv/giatv/movies/playlist/208538/0_7_ACCION.mp4
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",intro PlayTV
+https://videos.gia.tv/giatv/movies/playlist/208538/AAPLAAY_TV_INTRO.mp4
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",ACCION
+https://videos.gia.tv/giatv/movies/playlist/208538/ACCION.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDNhY2IzMzEtNGFmZS00OTQxLWEzYzctZDMyOTUyNmY5MGRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="MOVIE",DOG: UN VIAJE SALVAJE
+https://videos.gia.tv/giatv/movies/playlist/208538/Amigo_Perro.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUaVsiQZnSVwZaDc7zOw9YtUIbl6Wnea4-4HjwHNgbgzAPJL-kKMbYYuW7eWFjYUzmypc&usqp=CAU"group-title="MOVIE",ARMADOS Y PELIGROSOS
+https://videos.gia.tv/giatv/movies/playlist/208538/Armados_y_Peligrosos__2013_____Pel__culas_En_Espa__ol_720P_HD_.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/d1/d0/c2/d1d0c2f6d9c0e4ec569f7a289e7a7f9a.jpg"group-title="MOVIE",EL CODIGO ENIGMA
+https://videos.gia.tv/giatv/movies/playlist/208538/El_c__digo_enigma___Pel__cula_completa_en_espa__ol_360P_.mp4
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",MI POBRE ANGELITO 1
+https://videos.gia.tv/giatv/movies/playlist/208538/Mi_pobre_angelito_1__solo_en_casa__720P_HD_.mp4
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",MI Pobre Angelito 2
+https://videos.gia.tv/giatv/movies/playlist/208538/Mi_pobre_angelito_2__Perdido_en_New_York___Pelicula_completa_en_espa__ol_720P_HD_.mp4
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvUpF3R6xyPep0rrBPO9TGNs18-Db7yw3c-w&s"group-title="MOVIE",MATAR O MORIR
+https://videos.gia.tv/giatv/movies/playlist/208538/0_1_ACCION.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/56/0d/6d/560d6d875dadc0fe9d6260f7bf5e257c.jpg"group-title="MOVIE",SOUL
+https://videos.gia.tv/giatv/movies/playlist/208538/0_5_dibujos.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqcU7vRI_Zn6sI4kOCr994wBuMACbD_m9qA&usqp=CAU"group-title="MOVIE",REDADA ASESINA
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/90/Horas_Contadas_.jpg/revision/latest?cb=20151228234253&path-prefix=es"group-title="MOVIE", HORAS CONTADAS
+https://goo.gl/SyvNCX
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/9/9d/La_Guerra_de_los_Mundos.jpg/revision/latest?cb=20140104125125&path-prefix=es"group-title="MOVIE",LA GUERRA DE LOS MUNDOS
+https://dl.dropboxusercontent.com/s/72vv1bdqgqiwlxn/SalynPM-SPM3l6p.mp4?dl=0
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3c/12PS1Cartel.png/revision/latest?cb=20190528042605&path-prefix=es"group-title="MOVIE",12 HORAS PARA SOBREVIVIR
+http://archive.org/download/0_20200403/2.mp4
+
+
+#EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/21/09/22/22/17/5862699.jpg"group-title="MOVIE",CASA FANTASMAS: EL LEGADO
+https://archive.org/download/01_20220112_20220112_1546/01.mp4
+
+
+#EXTINF:-1 tvg-logo="https://www.elportaldecatalina.com/wp-content/uploads/2019/05/afiche2-4mg.jpg"group-title="MOVIE", LA RAZON DE ESTAR CONTIGO
+https://dl.dropboxusercontent.com/s/qga7cwijfr4eua2/SalynPM-SPM7s3g.mp4?dl=0
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSKc1XOlDDbTDQmbDkLlyP7KZjzKA2q9c-0A&usqp=CAU"group-title="MOVIE", CUANDO NOS CONOCIMOS
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+
+
+#EXTINF:-1 tvg-logo="https://www.todaslascriticas.com.ar/img/peliculas/afiches/son-como-ninos.jpg"group-title="MOVIE",SON COMO NIÑOS
+
+
+#EXTINF:-1 tvg-logo="https://www.todaslascriticas.com.ar/img/peliculas/afiches/son-como-ninos.jpg"group-title="MOVIE",SON COMO NIÑOS 2
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNNLZG_hGI2s1ED00Zfl_VE4yinsrToH53ww&usqp=CAU"group-title="MOVIE",CLICK
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/m7nZCtHJyDLncBUarfM5h5mrppx.jpg"group-title="MOVIE",PROMETEUS HD 2012
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/80/16ab776ab91cdf9e2bab2dedeef371d86ba19a90.jpg/revision/latest?cb=20180714210838&path-prefix=es"group-title="MOVIE",SAHARA
+https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/mine-250795986-large.jpg"group-title="MOVIE",LA MINA
+https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
+
+
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/10133600/s718/sand-castle.jpg"group-title="MOVIE",CASTILLO DE ARENA
+https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",ANGRY BIRT
+https://goo.gl/3KGMLf
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",MASCOTA HUMANA
+https://archive.org/download/12052017ffsdf345345345/12052017ffsdf.mp4
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/V/volver-al-futuro-parte-3-logo-B13A0785A8-seeklogo.com.png"group-title="MOVIE",VOLVER AL FUTURO
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="MOVIE",Kolosal
+http://cecegeek@goo.gl/zZGVg5
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3d/Y-donde-estan-las-rubias-white-chicks-shawn-wayans-vhs-5439-MLA4389453419_052013-F.jpg/revision/latest/top-crop/width/360/height/450?cb=20161018214826&path-prefix=es"group-title="MOVIE",Y DONDE ESTAN LAS RUBIAS
+https://dl.dropboxusercontent.com/s/aez9sb22f2vuyve/SalynPM-Y-D.E.L.R.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71A1ST5il9L._AC_SY679_.jpg"group-title="MOVIE", ANGRY BIRDS
+http://cecegeek@goo.gl/3KGMLf
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqE07lYK1f6ow-oxYrEjywe80J8VkGHwh1zQ&usqp=CAU"group-title="MOVIE",EL DESPIADADO
+https://stream.ads.ottera.tv/cl/230310cg579ttrci3ord88tssg/1280x720_2054676_0_f.m3u8?i=475_672
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##############(SERIES)####################################################
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://xl.movieposterdb.com/25_05/2025/34755671/xl_chespirito-sin-querer-queriendo-movie-poster_8a4a50cc.jpg"group-title="SERIES",CHESPIRITO 2025
+https://videos.gia.tv/giatv/movies/playlist/208817/Chespirito_Sin_querer_queriendo__2025__1x1.mp4
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="SERIES",MOBLAND 1X1
+https://videos.gia.tv/giatv/movies/playlist/208730/MobLand__2025__1x1___PELISPEDIA.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="SERIES",MOBLAND 1X2
+https://videos.gia.tv/giatv/movies/playlist/208730/MobLand__2025__1x2___PELISPEDIA.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="SERIES",MOBLAND 1X3
+https://videos.gia.tv/giatv/movies/playlist/208730/MobLand__2025__1x3___PELISPEDIA.mp4
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDVmMzJkOWUtMjdjMi00NzA4LTgxMTItYjA4NjVjZDI0ZWU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="SERIES",MOBLAND 1X4
+https://videos.gia.tv/giatv/movies/playlist/208730/MobLand__2025__1x4___PELISPEDIA.mp4
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE0ZWI1MmItODA4NS00NjM0LWJiODUtYzg0Y2I1YTUwYTRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="SERIES",CITADEL 1X1
+https://videos.gia.tv/giatv/movies/playlist/208730/Citadel__2023__1x1.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE0ZWI1MmItODA4NS00NjM0LWJiODUtYzg0Y2I1YTUwYTRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="SERIES",CITADEL 1X2
+https://videos.gia.tv/giatv/movies/playlist/208730/Citadel__2023__1x2.mp4
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE0ZWI1MmItODA4NS00NjM0LWJiODUtYzg0Y2I1YTUwYTRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="SERIES",CITADEL 1X3
+https://videos.gia.tv/giatv/movies/playlist/208730/Citadel__2023__1x3.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE0ZWI1MmItODA4NS00NjM0LWJiODUtYzg0Y2I1YTUwYTRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="SERIES",CITADEL 1X4
+https://videos.gia.tv/giatv/movies/playlist/208730/Citadel__2023__1x4.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE0ZWI1MmItODA4NS00NjM0LWJiODUtYzg0Y2I1YTUwYTRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="SERIES",CITADEL 1X5
+https://videos.gia.tv/giatv/movies/playlist/208730/Citadel__2023__1x5.mp4
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE0ZWI1MmItODA4NS00NjM0LWJiODUtYzg0Y2I1YTUwYTRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"group-title="SERIES",CITADEL 1X6
+https://videos.gia.tv/giatv/movies/playlist/208730/Citadel__2023__1x6.mp4
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLL3j3SGsuhtjuJVH8P-Vswd1fgG_7PYsLQIG-Ul-JQ&s"group-title="SERIES",EL ETERNAUTA 1X1
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/El_Eternauta__2025__1x1___PELISPEDIA.mp4/chunk.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLL3j3SGsuhtjuJVH8P-Vswd1fgG_7PYsLQIG-Ul-JQ&s"group-title="SERIES",EL ETRNAUTA 1X2
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/El_Eternauta__2025__1x2___PELISPEDIA.mp4/chunk.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLL3j3SGsuhtjuJVH8P-Vswd1fgG_7PYsLQIG-Ul-JQ&s"group-title="SERIES",EL ETERNAUTA 1X3
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/El_Eternauta__2025__1x3___PELISPEDIA.mp4/chunk.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLL3j3SGsuhtjuJVH8P-Vswd1fgG_7PYsLQIG-Ul-JQ&s"group-title="SERIES",EL ETERNAUTA 1X4
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/El_Eternauta__2025__1x4___PELISPEDIA.mp4/chunk.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLL3j3SGsuhtjuJVH8P-Vswd1fgG_7PYsLQIG-Ul-JQ&s"group-title="SERIES",EL ETERNAUTA 1X5
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/El_Eternauta__2025__1x5___PELISPEDIA.mp4/chunk.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkLL3j3SGsuhtjuJVH8P-Vswd1fgG_7PYsLQIG-Ul-JQ&s"group-title="SERIES",EL ETERNAUTA 1X6
+https://live20.bozztv.com:443/giatvplayout/giatvvod/giatv/movies/playlist/208817/El_E
 
 
 
