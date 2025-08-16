@@ -1265,3 +1265,586 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8?PlaylistM3UCL
 
 
 
+################################( CHILE )############( CHILE )########
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2h10YYLlxQLHJuQ52hKufJS--nnd0X1RfWg&s"group-title="CHILE",TVN
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2359
+
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1485_Primicia_Vida_Television.png"group-title="CHILE",PRIMICIA VIDA
+https://stmv5.voxtvhd.com.br:443/primiciavida/primiciavida/chunklist_w1226243709.m3u8?MonteGrandePlay
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chilevisi%C3%B3n_%282018-%29.png/1200px-Chilevisi%C3%B3n_%282018-%29.png"group-title="CHILE",CHV
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/37973
+
+
+#EXTINF:-1 tvg-logo="https://www.graciatv.com/wp-content/uploads/2024/01/LOGO-FINAL.png"group-title="CHILE", GRACIA TV
+https://v4.tustreaming.cl/graciatv/index.m3u8?MonteGrandePlay
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Logotipo_24_Horas_%282023_-_actual%29.png"group-title="CHILE",24hs
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2360
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png"group-title="CHILE",LA RED
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/30823
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png"group-title="CHILE",MEGA HD
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/14090
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png"group-title="CHILE",+CINE
+https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/62ed6e625a88e7000951ac98/mediaLibrary/photo/2e324b2a-7bc2-4eee-bba3-958741c0962e-extra-large-standard-q100.png"group-title="CHILE",TV QUELLON
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/monitv.png"group-title="CHILE",MONITV
+https://live20.bozztv.com:443/akamaissh101/ssh101/monitvhd/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/big-tv.png"group-title="CHILE",BIG CHANNEL
+https://live20.bozztv.com:443/akamaissh101/ssh101/bigchannel/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest/scale-to-width-down/284?cb=20211128231238&path-prefix=es"group-title="CHILE",TVMAS 2
+https://marine2.miplay.cl/tateti/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="CHILE",REDTV HD 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-208729/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SvF8DQC/3dgifmaker23584.gif"group-title="CHILE",PLENITUD TV HD 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0RW7vLm8/IMG-20250330-WA0067.jpg"group-title="CHILE",PLENITUD TV JUVENIL HD
+https://live20.bozztv.com/giatvplayout7/giatv-209259/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.tevevida.com/images/logo_01.png"group-title="CHILE",TEVE VIDA HD
+https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.satvcordoba.org.ar/portal/wp-content/uploads/2020/05/WhatsApp-Image-2020-05-26-at-20.21.25-640x239.jpeg"group-title="CHILE",TV SALUD
+https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2022/11/LOGO-CARACOLA-05.png"group-title="CHILE",CARACOLA TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/13-Teleseries-en-vivo-Online.png?resize=696%2C392&ssl=1"group-title="CHILE",TELESERIES
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png"group-title="CHILE",ENLACE BPB HD CHILE
+https://v1.tustreaming.cl:443/enlacebpbtv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://puranoticia.pnt.cl/cms/imag/v1/logos/xlogo_main_white.png.pagespeed.ic.raDmLS9R3H.png"group-title="CHILE",PURA NOTICIA TV
+https://pnt.janusmedia.tv/hls/pnt.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfTLDPp/unnamed-removebg-preview.png"group-title="CHILE",CHILE CHANNEL
+https://v2.tustreaming.cl:443/chilechannel/tracks-v1a1/mono.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="CHILE",RED TV CHILLAN
+https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="CHILE",RED TV CHILLAN OPCIÓN 3
+https://live20.bozztv.com/akamaissh101/ssh101/testvideo50/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/ee/Locomotion.png/revision/latest/scale-to-width-down/1200?cb=20181118125705&path-prefix=es"group-title="CHILE",LOCOMOTION TV
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://neotv.cl./assets/img/channels/castrotv.png"group-title="CHILE",CASTRO TV
+https://videostream.chileservidores.com:8081/chiloe4/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://atacamatelevision.com/archivos/img/logo.png"group-title="CHILE",ATACAMA TV
+https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SvF8DQC/3dgifmaker23584.gif"group-title="CHILE",PLENITUD TV HD SSH
+https://live20.bozztv.com/akamaissh101/ssh101/testvideo40/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png"group-title="CHILE",TVN
+http://sdmx.vip:80/play/1AKpyJ_pn8IcSNiQkMEAuYbFKEW7eplR40akTvOSLK4
+
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2943-960x540-000000.jpg"group-title="CHILE",RESTAURANDO VIDAS TV HD
+https://v4.tustreaming.cl:443/restaurandovida/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2511-960x540-000000.jpg"group-title="CHILE",VC MEDIOS 
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",NTV
+https://marine2.miplay.cl/ntv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CONSTIVISION
+https://unlimited1-us.dps.live:443/cm/cm.smil/cm/livestream1/chunks.m3u8?nimblesessionid=2058453211
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CANAL57
+https://panel.tvstream.cl:1936/8016/8016/chunklist_w29094144.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CANAL2
+https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",ATACAMA NOTICIAS
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",CHILE RED 25
+https://v2.tustreaming.cl/chiloered/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",TV0 SAN VICENTE
+https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",TV TURF
+https://tvturf4.janus.cl:443/playlist/stream.m3u8?s=hd&t=3&id=0c8bb2a5-cc37-c908-c119-88e80af159e8&q=&d=w
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",TNE
+https://v2.tustreaming.cl/tnetv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",REC TV
+https://marine2.miplay.cl/rec/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",ÑUBLE VISION
+https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="CHILE",NATIVA
+https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://redtvcomunicaciones.weebly.com/uploads/1/4/8/2/148208235/published/1723435059820-transformed-1-removebg-preview.png?1723436446"group-title="CHILE",RV TV
+https://tls-cl.cdnz.cl/livertv/live/chunklist_w47339175.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://veotv.cl/img/logo_transparente.png"group-title="CHILE",VEO TV
+https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kanade-2.png"group-title="CHILE",KANADE TV
+https://xui-backend.energeek.cl/live/13/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/large.1955925048_LaRed(Chile)Logo2021.png.ba6f0edd9f3366c1a3d45ef126a0417e.png"group-title="CHILE",LA RED
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_de_Canal_13_HD_%282010-2018%29.png"group-title="CHILE",CANAL 13
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wBLJUT5HJHPBUrUk5y5P7SgsB05jXQ-8vQ&usqp=CAU"group-title="CHILE",MEGANOTICIAS
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://opinionsur.cl/wp-content/uploads/2024/07/Asset-5.png"group-title="CHILE",OPINION SUR CINE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#############(PARAGUAY )#################################################### 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SNT_2013_logotype.png"group-title="PARAGUAY", SNT 
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/1890
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_10/large_ltl.png.857947af5074cc4faa0573b58439da3d.png"group-title="PARAGUAY",LATELE
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2390
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Paravisi%C3%B3nfirstlogo.png/revision/latest?cb=20210512145847&path-prefix=es"group-title="PARAGUAY",PARAVISION
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2392
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/LogoTFFlat.png"group-title="PARAGUAY",TELEFUTURO
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2396
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sur_TV_Itap%C3%BAa_logo_2022.png"group-title="PARAGUAY",SUR TV
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/2395
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfybQiHr-D5sXytj0xKi61AOiIK-NuwjdvPQ&s"group-title="PARAGUAY",GEN
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/14812
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/NPY_%28Noticias_Paraguay%29.png/1200px-NPY_%28Noticias_Paraguay%29.png"group-title="PARAGUAY",NOTICIAS PY
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/14807
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/LOGO_C9N_2022.png/1200px-LOGO_C9N_2022.png"group-title="PARAGUAY",C9N 
+https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg7zrIkar6b9ZRlhqCsmyk8FTM_0btWRdYLnk1HvIkYP5gNc48D1JpHUyQeBeZJv7BO2T4bXI0Nki2iAk6fMNWRRE1fhraPfARYtpOBsGnE7oNHxLqSO1RMf-4WEDwej9Hk1xhbhyEnM8AuIpSm8UXwFB1nArjVA_oBBrEzVObfEcOuVEoSLoZVe5GSrI7w=s850"group-title="PARAGUAY",NEXT TV
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_blanco.png"group-title="PARAGUAY",GO tv
+https://rds3.desdeparaguay.net/gotv/gotv/chunklist_w1251228071.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/IMG_20240626_194907_706-400x267.jpg"group-title="PARAGUAY",INVASIVA TV
+https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://media.trece.com.py/sites/2/2022/06/logo-300x136-1.jpg"group-title="PARAGUAY",TRECE
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(oCSyx29rbRSEAsyCsmI4ypEmgsTA1Os6KWPNI--mTncy-rqq6o459WTD9fFhA2pC22nbP8myfSWtXrw37fn21uWifh2L9ndiQVrYsUSfWp33l4v_Vp0yOuxPpepcTJQj)/cloud/3/x9ksaba/d/live-720.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://television.com.py/wp-content/uploads/2017/03/UnicanalHDtvpy.jpg"group-title="PARAGUAY",UNICANAL
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(Kh-DhbedgRk7x_EJ9TFGK7QsS14EvdXadaO6Gg8lczJ8sFZmtvuJv0I5h3Bi6FXcsWP7gphopX8852zz8x72fxw9_biiTLJggfTQRSNNWjvLxF9jwWUxX_yP_Z4gdJ5S)/cloud/3/x9ko9z8/d/live-720.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Venus-Media-TV-Paraguay-en-vivo-Online.png"group-title="PARAGUAY",VNUS
+https://copaco.desdeparaguay.net:443/venusmedia/venusmedia/chunklist_w2091978855.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDdcNNZLYq5iXNBDx7tyDMC0kJeZZjyVeHlg&s"group-title="PARAGUAY",RTV REPUBLICA
+https://rds3.desdeparaguay.net/republicatv/republicatv/chunklist_w1489871788.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",CAMBYRETA TV
+https://live20.bozztv.com:443/akamaissh101/ssh101/cambyretatv/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="PARAGUAY",SAN ROQUE TV
+https://live20.bozztv.com:443/akamaissh101/ssh101/sanroquearegua/chunks.m3u8
+
+
+
+
+
+
+
+ ##############( BOLIVIA )################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/gallery/category_6/large.gallery_9461_6_9491.png.f3a8db436eb7144d85fbd8f8bee26767.png"group-title="BOLIVIA",UNITEL HD
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/15596
+
+
+#EXTINF:-1 tvg-logo="https://img.favpng.com/9/13/17/logo-entel-tv-hd-lyngsat-bolivia-png-favpng-CQte5BV55AJj8a1s9cJsEb81Q.jpg"group-title="BOLIVIA",ENTEL TV
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/81522
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png"group-title="BOLIVIA",RED UNO
+http://tvpremiund.ddns.me:2082/Diegoarias/Octu7102023/76492
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bolivision.png"group-title="BOLIVIA",BOLIVISION 
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/original.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YbQnGdd/Screenshot-20250622-235903-XPlayer-Video-Player.jpg"group-title="BOLIVIA",MIX TV
+https://live20.bozztv.com:443/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8
+
+
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rtpbolivia2021.png/250px-Rtpbolivia2021.png"group-title="BOLIVIA",RTP
+ https://rtp.noxun.net/hls/stream.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://sucremantatv.com/wp-content/uploads/2022/10/sucremantatvhd.png"group-title="BOLIVIA",SUCREMANTA TV
+https://micanal.ovh/livestreams/165.J7EMP5DQSY6H.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV6_logo_2010.svg/revision/latest/scale-to-width-down/200?cb=20100528185020"group-title="BOLIVIA",TELE6
+https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.uajms.edu.bo/canal9tvu/wp-content/uploads/sites/70/2021/11/LOGOTVU.png"group-title="BOLIVIA",TVU
+https://s1.tvdatta.com:3557/live/tvulive.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZR5fXSd6/Photoroom-20250625-151459.png"group-title="BOLIVIA", PUNTO TV
+https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSQLJchN/Photoroom-20250629-171551.png"group-title="BOLIVIA",INTV
+https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/univalletelevision.com/wp-content/uploads/2022/05/LOGO_UNIVALLE_TV_sinfondo-1-e1654152218733.png?fit=200%2C200&ssl=1"group-title="BOLIVIA",UNIVALLE 
+https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0VY7Nz7L/Photoroom-20250629-171623.png"group-title="BOLIVIA",CCTV
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/chunklist_w500714650.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://redpalenque.com/wp-content/uploads/2020/11/logo544px-300x99.png"group-title="BOLIVIA",PALENQUE TV
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/4GZtRfAZ36H4pyoxz1htoVE46eRt_M9sj2Y56En4h0Neezca7wFMaX7ec2n9sW5zJZo"group-title="BOLIVIA",CORALTV
+https://tv.mediacp.eu:8081/coraltv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReSi50vbaP1UjmTO0ad3tD5GYD3il7t8M_lw&s"group-title="BOLIVIA",TDT MULTIMEDIA
+https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w1803867423.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png"group-title="BOLIVIA",F10
+https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://canal29tva.com.bo/wp-content/uploads/2023/10/cropped-LOGO-TVA-2018-A2.png"group-title="BOLIVIA",TVA
+https://play.agenciastreaming.com:19360/8160/8160.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/e80007a44529795a52e1e4287b0091ff1c405fe9a17455cfce9c8f280bb4d0cd.png"group-title="BOLIVIA",NEXTV
+https://live20.bozztv.com:443/akamaissh101/ssh101/vnl2025live/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #############( VENEZUELA )#######################№##########################
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Telesur_HD_%282017%29.png/revision/latest/scale-to-width-down/250?cb=20220719221045"group-title="VENEZUELA",TELESUR HD
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/1708px-Logotipo_de_Venevisi%C3%B3n.svg.png"group-title="VENEZUELA",V+ 
+https://venevision.akamaized.net/hls/live/2098814/VENEVISION/3/streamPlaylist.m3u8 
+
+
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2021_05/large.Canal_i.png.c042d79b9c2b6b8ef6d0fe45e2f9c977.png"group-title="VENEZUELA",CANAL I 
+https://canaliliv-ioriver-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8 
+
+
+
+#EXTINF:-1  tvg-logo="https://nov.vod.immergo.tv/nov/uploaded/0d553227-72ef-48e6-8f95-4917622782a7.png
+"group-title="VENEZUELA",NOVELISIMA
+https://cis-no-es.otteravision.com/cis/no_es/no_es_720p_high.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TV0
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",VENEVISION
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/5160000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7JOOzq8n8oQ/mqdefault.jpg"group-title="VENEZUELA",TVS
+https://vcp10.myplaytv.com/tvs/tvs/chunklist_w989702023.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TVV
+https://vcp3.myplaytv.com/trv/trv/chunklist_w1990007506.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TRT
+https://vcp12.myplaytv.com/trt/trt/chunklist_w372301857.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TOROCOCOTV
+https://us.streaminghd.cl/torococotelevision/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TELESOL
+https://vcp15.myplaytv.com/telesoltv/telesoltv/chunklist_w107280909.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TELECENTRO
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",TELETUYA
+https://tv.webtuya.com:3726/hybrid/play.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",SIEMBRA TV
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/chunklist_w1496366920.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",PANAVISION
+https://vcp.myplaytv.com/panavision/panavision/chunklist_w1738271455.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",REFORMA TV
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/chunklist_w175581047.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",ONZA TV
+https://stmv1.srvstm.com/gproducciones/gproducciones/chunklist_w1934784341.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",MAS TALK
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f/5160000.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",KTV
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+
+
+#EXTINF:-1 tvg-logo=""group-title="VENEZUELA",CHIVACOA TV
+https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ################(PERÚ)###################################################### 
