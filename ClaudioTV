@@ -710,8 +710,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RT1Z7khz/Photoroom-20250728-112633.png"group-title="VLC PLAYER",MONTEGRANDETV OKRU
-https://ok.ru/video/9225153158754
 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/800px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png"group-title="VLC PLAYER",TVP
@@ -873,8 +871,10 @@ https://livetrx01.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/montegrandetv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/43kjdtdk"group-title="ARGENTINA",MONTEGRANDE RADIO 
-https://live20.bozztv.com/akamaissh101/ssh101/mgtvlive/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/43kjdtdk"group-title="ARGENTINA",MONTEGRANDE RADIO
+https://live20.bozztv.com/akamaissh101/ssh101/mgradiotv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RT1Z7khz/Photoroom-20250728-112633.png"group-title="ARGENTINA",MONTE GRANDE TV  LIVE
 https://micanal.ovh/livestreams/127.QAX0OUHEMVST.m3u8
