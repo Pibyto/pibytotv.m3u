@@ -1340,6 +1340,17 @@ https://live20.bozztv.com/giatvplayout7/giatv-208727/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0RW7vLm8/IMG-20250330-WA0067.jpg"group-title="CHILE",PLENITUD TV JUVENIL HD
 https://live20.bozztv.com/giatvplayout7/giatv-209259/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SvF8DQC/3dgifmaker23584.gif"group-title="CHILE",PLENITUD TV HD SSH
+https://live20.bozztv.com/akamaissh101/ssh101/testvideo40/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="CHILE",RED TV CHILLAN
+https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="CHILE",RED TV CHILLAN OPCIÓN 3
+https://live20.bozztv.com/akamaissh101/ssh101/testvideo50/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.tevevida.com/images/logo_01.png"group-title="CHILE",TEVE VIDA HD
 https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
@@ -1375,18 +1386,6 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8
 https://v2.tustreaming.cl:443/chilechannel/tracks-v1a1/mono.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="CHILE",RED TV CHILLAN
-https://micanal.ovh/livestreams/89.0WWM5NZ7JVZQ.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ltxhb9R/3dgifmaker44420.gif"group-title="CHILE",RED TV CHILLAN OPCIÓN 3
-https://live20.bozztv.com/akamaissh101/ssh101/testvideo50/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/ee/Locomotion.png/revision/latest/scale-to-width-down/1200?cb=20181118125705&path-prefix=es"group-title="CHILE",LOCOMOTION TV
 http://51.222.85.85:81/hls/loco/index.m3u8
 
@@ -1398,19 +1397,6 @@ https://videostream.chileservidores.com:8081/chiloe4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://atacamatelevision.com/archivos/img/logo.png"group-title="CHILE",ATACAMA TV
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SvF8DQC/3dgifmaker23584.gif"group-title="CHILE",PLENITUD TV HD SSH
-https://live20.bozztv.com/akamaissh101/ssh101/testvideo40/chunks.m3u8
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png"group-title="CHILE",TVN
