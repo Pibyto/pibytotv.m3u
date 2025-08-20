@@ -875,6 +875,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/montegrandetv/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/mgradiotv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RT1Z7khz/Photoroom-20250728-112633.png"group-title="ARGENTINA",MONTE GRANDE TV OpenCaster
+https://vs20.live.opencaster.com/montetv_49c0778f/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RT1Z7khz/Photoroom-20250728-112633.png"group-title="ARGENTINA",MONTE GRANDE TV  LIVE
 https://micanal.ovh/livestreams/127.QAX0OUHEMVST.m3u8
